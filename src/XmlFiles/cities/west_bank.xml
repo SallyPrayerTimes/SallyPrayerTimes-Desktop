@@ -1,0 +1,565 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="West Bank">
+		<city name="Anin">
+			<state></state>
+			<latitude>325111</latitude>
+			<longitude>351730</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beit Hanina">
+			<state></state>
+			<latitude>318431</latitude>
+			<longitude>352098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beit Rima">
+			<state></state>
+			<latitude>320431</latitude>
+			<longitude>351134</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cedron">
+			<state></state>
+			<latitude>316766</latitude>
+			<longitude>354599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dhahiriya">
+			<state></state>
+			<latitude>314267</latitude>
+			<longitude>349767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fahma">
+			<state></state>
+			<latitude>323927</latitude>
+			<longitude>351899</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farkha">
+			<state></state>
+			<latitude>320802</latitude>
+			<longitude>351580</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Far`un">
+			<state></state>
+			<latitude>322966</latitude>
+			<longitude>350333</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fashkhah">
+			<state></state>
+			<latitude>317435</latitude>
+			<longitude>354769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fawwar Camp">
+			<state></state>
+			<latitude>314935</latitude>
+			<longitude>350769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gane Modi`in">
+			<state></state>
+			<latitude>319270</latitude>
+			<longitude>350103</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ghadir Burqu`">
+			<state></state>
+			<latitude>326270</latitude>
+			<longitude>379770</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gilgal">
+			<state></state>
+			<latitude>318603</latitude>
+			<longitude>354936</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hablah">
+			<state></state>
+			<latitude>321718</latitude>
+			<longitude>349854</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hadar Betar">
+			<state></state>
+			<latitude>317104</latitude>
+			<longitude>351104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haggy">
+			<state></state>
+			<latitude>314937</latitude>
+			<longitude>350937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haiyat">
+			<state></state>
+			<latitude>319604</latitude>
+			<longitude>354437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hajja">
+			<state></state>
+			<latitude>322151</latitude>
+			<longitude>351412</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hammam Shuweika">
+			<state></state>
+			<latitude>314104</latitude>
+			<longitude>350104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamra">
+			<state></state>
+			<latitude>322104</latitude>
+			<longitude>354271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haqw ad Darahim">
+			<state></state>
+			<latitude>317104</latitude>
+			<longitude>354437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haqw al Matamir">
+			<state></state>
+			<latitude>316771</latitude>
+			<longitude>354271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Har Adar">
+			<state></state>
+			<latitude>318271</latitude>
+			<longitude>351437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Har el Kabir">
+			<state></state>
+			<latitude>322437</latitude>
+			<longitude>353604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Har Harmun">
+			<state></state>
+			<latitude>317771</latitude>
+			<longitude>354437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Har HaZofim">
+			<state></state>
+			<latitude>318104</latitude>
+			<longitude>352437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Har Hordos">
+			<state></state>
+			<latitude>316771</latitude>
+			<longitude>352604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Har Rahawat">
+			<state></state>
+			<latitude>320771</latitude>
+			<longitude>352771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Har Tammun">
+			<state></state>
+			<latitude>322771</latitude>
+			<longitude>354104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Har Ziyyon">
+			<state></state>
+			<latitude>317771</latitude>
+			<longitude>352437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Har `Eival">
+			<state></state>
+			<latitude>322437</latitude>
+			<longitude>352771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haram esh Sharif">
+			<state></state>
+			<latitude>317937</latitude>
+			<longitude>352437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harayiq Dawwas">
+			<state></state>
+			<latitude>321937</latitude>
+			<longitude>351104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haris">
+			<state></state>
+			<latitude>321246</latitude>
+			<longitude>351529</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hatserot">
+			<state></state>
+			<latitude>321879</latitude>
+			<longitude>352235</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hebron">
+			<state></state>
+			<latitude>315437</latitude>
+			<longitude>351104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hemdat">
+			<state></state>
+			<latitude>322604</latitude>
+			<longitude>355271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hermesh">
+			<state></state>
+			<latitude>324271</latitude>
+			<longitude>351271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hinnanit">
+			<state></state>
+			<latitude>324771</latitude>
+			<longitude>351771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hizmah">
+			<state></state>
+			<latitude>318437</latitude>
+			<longitude>352771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Homesh">
+			<state></state>
+			<latitude>323104</latitude>
+			<longitude>351937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horbat Nakar">
+			<state></state>
+			<latitude>316604</latitude>
+			<longitude>350104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huraybat an Nabi">
+			<state></state>
+			<latitude>313937</latitude>
+			<longitude>351271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Husan">
+			<state></state>
+			<latitude>317271</latitude>
+			<longitude>351437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyrcania">
+			<state></state>
+			<latitude>317271</latitude>
+			<longitude>353937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jerusalem Airport">
+			<state></state>
+			<latitude>318773</latitude>
+			<longitude>352273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahf el Lauza">
+			<state></state>
+			<latitude>321275</latitude>
+			<longitude>354608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lido Yehuda">
+			<state></state>
+			<latitude>317775</latitude>
+			<longitude>355108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Likia">
+			<state></state>
+			<latitude>318775</latitude>
+			<longitude>350775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lubban">
+			<state></state>
+			<latitude>320444</latitude>
+			<longitude>350486</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lubban Sharqiya">
+			<state></state>
+			<latitude>320825</latitude>
+			<longitude>352525</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nablus">
+			<state></state>
+			<latitude>322321</latitude>
+			<longitude>352654</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ofra">
+			<state></state>
+			<latitude>319611</latitude>
+			<longitude>353111</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olivet">
+			<state></state>
+			<latitude>317944</latitude>
+			<longitude>352611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Omarim">
+			<state></state>
+			<latitude>313778</latitude>
+			<longitude>349611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oranit">
+			<state></state>
+			<latitude>321444</latitude>
+			<longitude>349944</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osarin">
+			<state></state>
+			<latitude>321444</latitude>
+			<longitude>353278</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otni el">
+			<state></state>
+			<latitude>314444</latitude>
+			<longitude>350278</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pelas">
+			<state></state>
+			<latitude>322779</latitude>
+			<longitude>355279</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peza el">
+			<state></state>
+			<latitude>320612</latitude>
+			<longitude>354279</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pisgat Amir">
+			<state></state>
+			<latitude>318279</latitude>
+			<longitude>352445</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pools of Solomon">
+			<state></state>
+			<latitude>316945</latitude>
+			<longitude>351779</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pundaq">
+			<state></state>
+			<latitude>322009</latitude>
+			<longitude>351451</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pundaqa">
+			<state></state>
+			<latitude>323320</latitude>
+			<longitude>352145</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qabatiyah">
+			<state></state>
+			<latitude>324199</latitude>
+			<longitude>352913</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qalqiliya">
+			<state></state>
+			<latitude>321977</latitude>
+			<longitude>349744</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ram Allah">
+			<state></state>
+			<latitude>319114</latitude>
+			<longitude>352114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salfit">
+			<state></state>
+			<latitude>320923</latitude>
+			<longitude>351876</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tul Kerem">
+			<state></state>
+			<latitude>323224</latitude>
+			<longitude>350374</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tulkarem">
+			<state></state>
+			<latitude>323283</latitude>
+			<longitude>350449</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yanun">
+			<state></state>
+			<latitude>321579</latitude>
+			<longitude>353643</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yasid">
+			<state></state>
+			<latitude>323065</latitude>
+			<longitude>352890</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yirihu">
+			<state></state>
+			<latitude>318788</latitude>
+			<longitude>354621</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yuta">
+			<state></state>
+			<latitude>314621</latitude>
+			<longitude>350954</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zababida">
+			<state></state>
+			<latitude>323969</latitude>
+			<longitude>353347</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zahrat al Middah">
+			<state></state>
+			<latitude>320289</latitude>
+			<longitude>353455</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zahrat Umm al Kasrun">
+			<state></state>
+			<latitude>317289</latitude>
+			<longitude>352955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zahrat Zayn ad Din">
+			<state></state>
+			<latitude>317622</latitude>
+			<longitude>352622</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaytun al Karm">
+			<state></state>
+			<latitude>324289</latitude>
+			<longitude>352789</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zor el Madrasa">
+			<state></state>
+			<latitude>321955</latitude>
+			<longitude>355789</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

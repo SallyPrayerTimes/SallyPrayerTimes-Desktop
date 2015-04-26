@@ -1,0 +1,754 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Grenada">
+		<city name="Adelphi -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121097</latitude>
+			<longitude>-616570</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amber Belair -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120097</latitude>
+			<longitude>-617403</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apres Tout -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120597</latitude>
+			<longitude>-616570</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Argyle">
+			<state></state>
+			<latitude>124597</latitude>
+			<longitude>-614736</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arthur Seat -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>121764</latitude>
+			<longitude>-616236</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Artiste Point">
+			<state></state>
+			<latitude>121764</latitude>
+			<longitude>-615903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caille Island">
+			<state></state>
+			<latitude>122766</latitude>
+			<longitude>-615568</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Calivigny Islet -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>119932</latitude>
+			<longitude>-617068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Davidall Estate -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>121267</latitude>
+			<longitude>-617233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deblando -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121100</latitude>
+			<longitude>-616233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Degra Bay -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>119933</latitude>
+			<longitude>-617733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Des Isles -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>122267</latitude>
+			<longitude>-616567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Des Isles Point -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>122267</latitude>
+			<longitude>-616733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dothan Bay -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>121433</latitude>
+			<longitude>-617233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dougaldston -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>121600</latitude>
+			<longitude>-617067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dover">
+			<state></state>
+			<latitude>125100</latitude>
+			<longitude>-614233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dumfermline -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121433</latitude>
+			<longitude>-616067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dumfries">
+			<state></state>
+			<latitude>124767</latitude>
+			<longitude>-614567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egmont -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120101</latitude>
+			<longitude>-617066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elie Hall -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>122101</latitude>
+			<longitude>-616232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Epping Forest -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120434</latitude>
+			<longitude>-616899</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Felix Park -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>120769</latitude>
+			<longitude>-616398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flamingo Bay -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120935</latitude>
+			<longitude>-617398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fontenoy -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120769</latitude>
+			<longitude>-617398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Adolphus -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120435</latitude>
+			<longitude>-617231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frigate Island">
+			<state></state>
+			<latitude>124269</latitude>
+			<longitude>-614731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Anse -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120270</latitude>
+			<longitude>-617397</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grenville -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121270</latitude>
+			<longitude>-616064</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grenville Vale -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120936</latitude>
+			<longitude>-617230</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halifax Bay">
+			<state></state>
+			<latitude>121104</latitude>
+			<longitude>-617396</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hermitage">
+			<state></state>
+			<latitude>124604</latitude>
+			<longitude>-614563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="High Cliff Point -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>121937</latitude>
+			<longitude>-615896</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hillsborough">
+			<state></state>
+			<latitude>124937</latitude>
+			<longitude>-614563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hog Island -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120104</latitude>
+			<longitude>-617229</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hope Bacolet -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>120937</latitude>
+			<longitude>-616063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hope Island -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>120771</latitude>
+			<longitude>-616063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hope Vale -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120271</latitude>
+			<longitude>-617063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jack Adan Island">
+			<state></state>
+			<latitude>125106</latitude>
+			<longitude>-614561</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jack Iron Point">
+			<state></state>
+			<latitude>124773</latitude>
+			<longitude>-614894</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jardin Madame -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120106</latitude>
+			<longitude>-617727</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jew Bay">
+			<state></state>
+			<latitude>124939</latitude>
+			<longitude>-614061</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ka-fe Beau -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120440</latitude>
+			<longitude>-617393</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kendeace Point">
+			<state></state>
+			<latitude>124607</latitude>
+			<longitude>-614060</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kick em Jenny Rock">
+			<state></state>
+			<latitude>123440</latitude>
+			<longitude>-615726</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="L Esterre Bay">
+			<state></state>
+			<latitude>124775</latitude>
+			<longitude>-614725</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Chaussee -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120275</latitude>
+			<longitude>-616559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Tante Point -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>120608</latitude>
+			<longitude>-616225</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Levera Islet -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>122275</latitude>
+			<longitude>-615892</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limekiln Bay">
+			<state></state>
+			<latitude>124441</latitude>
+			<longitude>-614725</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobster Point -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120108</latitude>
+			<longitude>-616725</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negro Point -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120443</latitude>
+			<longitude>-616223</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nettle Point -- (State: Saint Mark)">
+			<state>Saint Mark</state>
+			<latitude>121943</latitude>
+			<longitude>-617057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Hampshire -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120943</latitude>
+			<longitude>-617057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nianganfoix -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121277</latitude>
+			<longitude>-616557</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nonpareil -- (State: Saint Mark)">
+			<state>Saint Mark</state>
+			<latitude>122110</latitude>
+			<longitude>-616723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Point">
+			<state></state>
+			<latitude>125277</latitude>
+			<longitude>-613723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paraclete -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121612</latitude>
+			<longitude>-616221</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pecher -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121279</latitude>
+			<longitude>-616721</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaisace -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>121612</latitude>
+			<longitude>-616888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Redonda">
+			<state></state>
+			<latitude>123114</latitude>
+			<longitude>-615719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Richmond -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121114</latitude>
+			<longitude>-616386</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Loria -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121447</latitude>
+			<longitude>-615886</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Petit Bocaye -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120281</latitude>
+			<longitude>-616719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Sallee -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>122114</latitude>
+			<longitude>-615886</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Catherine -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121615</latitude>
+			<longitude>-616552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Cyr -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121282</latitude>
+			<longitude>-616385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Francis River -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>120782</latitude>
+			<longitude>-616218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint George">
+			<state></state>
+			<latitude>120615</latitude>
+			<longitude>-617218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint George s -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120615</latitude>
+			<longitude>-617385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint George s Bay -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120615</latitude>
+			<longitude>-617552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Margaret -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121115</latitude>
+			<longitude>-616718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saline Islet">
+			<state></state>
+			<latitude>124448</latitude>
+			<longitude>-614552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samaritan -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>122115</latitude>
+			<longitude>-616552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Soucei -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121282</latitude>
+			<longitude>-616218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sandy Island -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>122282</latitude>
+			<longitude>-615718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sandy Island">
+			<state></state>
+			<latitude>124948</latitude>
+			<longitude>-614718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sautiers -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>122282</latitude>
+			<longitude>-616218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Six Roads">
+			<state></state>
+			<latitude>124782</latitude>
+			<longitude>-614385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Snug Corner -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120782</latitude>
+			<longitude>-617218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soubise -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121115</latitude>
+			<longitude>-616052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Southwest Point">
+			<state></state>
+			<latitude>124448</latitude>
+			<longitude>-614885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sparrow Bay">
+			<state></state>
+			<latitude>125115</latitude>
+			<longitude>-614385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Syracuse -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120448</latitude>
+			<longitude>-616718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanga Langua -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>122449</latitude>
+			<longitude>-616384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Telescopic Point -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121283</latitude>
+			<longitude>-615884</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terre Cannes -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120783</latitude>
+			<longitude>-616551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Grenadines">
+			<state></state>
+			<latitude>126783</latitude>
+			<longitude>-612384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Lance -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>121783</latitude>
+			<longitude>-617051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Lime -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120283</latitude>
+			<longitude>-617551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tivoli">
+			<state></state>
+			<latitude>121783</latitude>
+			<longitude>-616051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tricolar -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>121949</latitude>
+			<longitude>-616384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="True Blue -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120116</latitude>
+			<longitude>-617551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuilleries Estate -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>120949</latitude>
+			<longitude>-616217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper La Tante -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120617</latitude>
+			<longitude>-616383</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Pearls -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121617</latitude>
+			<longitude>-616050</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendome Estate -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120785</latitude>
+			<longitude>-616882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria -- (State: Saint Mark)">
+			<state>Saint Mark</state>
+			<latitude>121951</latitude>
+			<longitude>-616882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vincennes -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120618</latitude>
+			<longitude>-616715</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vineyard -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120618</latitude>
+			<longitude>-616882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waltham -- (State: Saint Mark)">
+			<state>Saint Mark</state>
+			<latitude>122119</latitude>
+			<longitude>-616881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Watering Bay">
+			<state></state>
+			<latitude>125119</latitude>
+			<longitude>-614048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Westerhall -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>120119</latitude>
+			<longitude>-616881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whale Bay">
+			<state></state>
+			<latitude>122952</latitude>
+			<longitude>-615548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windsor -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>121452</latitude>
+			<longitude>-616548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windward">
+			<state></state>
+			<latitude>125286</latitude>
+			<longitude>-614214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woburn -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>120286</latitude>
+			<longitude>-617214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodford -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>121119</latitude>
+			<longitude>-617214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

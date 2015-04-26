@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Venezuela">
+		<city name="1 Beneficio -- (State: Falcon)">
+			<state>Falcon</state>
+			<latitude>110049</latitude>
+			<longitude>-706618</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="19 de Abril -- (State: Aragua)">
+			<state>Aragua</state>
+			<latitude>102263</latitude>
+			<longitude>-675018</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anaco -- (State: Anzoategui)">
+			<state>Anzoategui</state>
+			<latitude>94430</latitude>
+			<longitude>-644570</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anaco Abajo -- (State: Anzoategui)">
+			<state>Anzoategui</state>
+			<latitude>94297</latitude>
+			<longitude>-646775</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anacoco -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>67447</latitude>
+			<longitude>-611214</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barcelona -- (State: Anzoategui)">
+			<state>Anzoategui</state>
+			<latitude>90931</latitude>
+			<longitude>-646069</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barcelona -- (State: Sucre)">
+			<state>Sucre</state>
+			<latitude>106615</latitude>
+			<longitude>-631535</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barcelona -- (State: Apure)">
+			<state>Apure</state>
+			<latitude>75765</latitude>
+			<longitude>-671902</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barcelona -- (State: Lara)">
+			<state>Lara</state>
+			<latitude>99781</latitude>
+			<longitude>-707313</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barinas">
+			<state></state>
+			<latitude>86390</latitude>
+			<longitude>-701974</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barquisimeto -- (State: Lara)">
+			<state>Lara</state>
+			<latitude>100837</latitude>
+			<longitude>-693130</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caracas -- (State: Distrito Federal)">
+			<state>Distrito Federal</state>
+			<latitude>105099</latitude>
+			<longitude>-669068</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caracas -- (State: Portuguesa)">
+			<state>Portuguesa</state>
+			<latitude>90932</latitude>
+			<longitude>-698234</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caracas -- (State: Miranda)">
+			<state>Miranda</state>
+			<latitude>102599</latitude>
+			<longitude>-664068</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caracas del Este -- (State: Dependencias Federales)">
+			<state>Dependencias Federales</state>
+			<latitude>103766</latitude>
+			<longitude>-644234</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caracas del Oeste -- (State: Dependencias Federales)">
+			<state>Dependencias Federales</state>
+			<latitude>103766</latitude>
+			<longitude>-644401</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coro -- (State: Falcon)">
+			<state>Falcon</state>
+			<latitude>114266</latitude>
+			<longitude>-696568</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Tigre -- (State: Anzoategui)">
+			<state>Anzoategui</state>
+			<latitude>101434</latitude>
+			<longitude>-645066</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isla Margarita -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>62636</latitude>
+			<longitude>-673670</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maracaibo -- (State: Zulia)">
+			<state>Zulia</state>
+			<latitude>106426</latitude>
+			<longitude>-716297</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maracaibo Norte -- (State: Zulia)">
+			<state>Zulia</state>
+			<latitude>107003</latitude>
+			<longitude>-715919</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maracay -- (State: Lara)">
+			<state>Lara</state>
+			<latitude>100887</latitude>
+			<longitude>-696013</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maracay -- (State: Anzoategui)">
+			<state>Anzoategui</state>
+			<latitude>82442</latitude>
+			<longitude>-636558</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maracay -- (State: Aragua)">
+			<state>Aragua</state>
+			<latitude>102578</latitude>
+			<longitude>-675849</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maturin -- (State: Sucre)">
+			<state>Sucre</state>
+			<latitude>102370</latitude>
+			<longitude>-644063</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maturin -- (State: Barinas)">
+			<state>Barinas</state>
+			<latitude>83942</latitude>
+			<longitude>-684058</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maturin -- (State: Tachira)">
+			<state>Tachira</state>
+			<latitude>76540</latitude>
+			<longitude>-723377</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maturin -- (State: Anzoategui)">
+			<state>Anzoategui</state>
+			<latitude>97609</latitude>
+			<longitude>-631391</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maturin -- (State: Zulia)">
+			<state>Zulia</state>
+			<latitude>99137</latitude>
+			<longitude>-721502</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maturin -- (State: Monagas)">
+			<state>Monagas</state>
+			<latitude>97609</latitude>
+			<longitude>-631658</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maturin -- (State: Miranda)">
+			<state>Miranda</state>
+			<latitude>104776</latitude>
+			<longitude>-666058</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maturin -- (State: Lara)">
+			<state>Lara</state>
+			<latitude>105781</latitude>
+			<longitude>-697158</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maturincito -- (State: Sucre)">
+			<state>Sucre</state>
+			<latitude>102809</latitude>
+			<longitude>-643391</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Merida">
+			<state></state>
+			<latitude>86092</latitude>
+			<longitude>-711341</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Porlamar -- (State: Nueva Esparta)">
+			<state>Nueva Esparta</state>
+			<latitude>109779</latitude>
+			<longitude>-638221</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puerto La Cruz -- (State: Anzoategui)">
+			<state>Anzoategui</state>
+			<latitude>102279</latitude>
+			<longitude>-646055</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puerto Ordaz -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>83093</latitude>
+			<longitude>-627074</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punto Fijo -- (State: Falcon)">
+			<state>Falcon</state>
+			<latitude>117109</latitude>
+			<longitude>-701880</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Felix -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>83787</latitude>
+			<longitude>-626502</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Felix de Guayana -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>83648</latitude>
+			<longitude>-626413</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tigre -- (State: Carabobo)">
+			<state>Carabobo</state>
+			<latitude>101616</latitude>
+			<longitude>-684051</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tigre Galan -- (State: Cojedes)">
+			<state>Cojedes</state>
+			<latitude>98449</latitude>
+			<longitude>-682884</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tigre Sentado -- (State: Falcon)">
+			<state>Falcon</state>
+			<latitude>108410</latitude>
+			<longitude>-696356</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tigre Viejo -- (State: Barinas)">
+			<state>Barinas</state>
+			<latitude>84949</latitude>
+			<longitude>-680051</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tigrera -- (State: Guarico)">
+			<state>Guarico</state>
+			<latitude>93088</latitude>
+			<longitude>-661478</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tigrero -- (State: Falcon)">
+			<state>Falcon</state>
+			<latitude>111177</latitude>
+			<longitude>-704917</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valencia -- (State: Tachira)">
+			<state>Tachira</state>
+			<latitude>76915</latitude>
+			<longitude>-724107</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valencia -- (State: Sucre)">
+			<state>Sucre</state>
+			<latitude>106274</latitude>
+			<longitude>-625388</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valencia -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>76451</latitude>
+			<longitude>-626121</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valencia -- (State: Carabobo)">
+			<state>Carabobo</state>
+			<latitude>101924</latitude>
+			<longitude>-679921</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valencia -- (State: Zulia)">
+			<state>Zulia</state>
+			<latitude>109785</latitude>
+			<longitude>-721882</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valencia Basin -- (State: Aragua)">
+			<state>Aragua</state>
+			<latitude>101785</latitude>
+			<longitude>-677382</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warutain -- (State: Zulia)">
+			<state>Zulia</state>
+			<latitude>114600</latitude>
+			<longitude>-719589</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wayamuliser -- (State: Zulia)">
+			<state>Zulia</state>
+			<latitude>114766</latitude>
+			<longitude>-719587</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wichepe -- (State: Zulia)">
+			<state>Zulia</state>
+			<latitude>113836</latitude>
+			<longitude>-719623</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wico -- (State: Anzoategui)">
+			<state>Anzoategui</state>
+			<latitude>90119</latitude>
+			<longitude>-641548</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiuiquina -- (State: Delta Amacuro)">
+			<state>Delta Amacuro</state>
+			<latitude>91769</latitude>
+			<longitude>-611209</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuevereno -- (State: Apure)">
+			<state>Apure</state>
+			<latitude>75952</latitude>
+			<longitude>-698548</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeguera -- (State: Apure)">
+			<state>Apure</state>
+			<latitude>74824</latitude>
+			<longitude>-701737</longitude>
+			<timezone>-450</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

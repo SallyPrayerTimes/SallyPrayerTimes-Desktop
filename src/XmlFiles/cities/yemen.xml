@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Yemen">
+		<city name="Aden">
+			<state></state>
+			<latitude>127764</latitude>
+			<longitude>450264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aden Bereke">
+			<state></state>
+			<latitude>138430</latitude>
+			<longitude>437930</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aden College -- (State: `Adan)">
+			<state>`Adan</state>
+			<latitude>128958</latitude>
+			<longitude>450011</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aden Directorate -- (State: `Adan)">
+			<state>`Adan</state>
+			<latitude>128097</latitude>
+			<longitude>450430</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aden Harbour -- (State: `Adan)">
+			<state>`Adan</state>
+			<latitude>128122</latitude>
+			<longitude>449503</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aden Peninsula -- (State: `Adan)">
+			<state>`Adan</state>
+			<latitude>127753</latitude>
+			<longitude>450266</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adena">
+			<state></state>
+			<latitude>135597</latitude>
+			<longitude>446264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Batnah">
+			<state></state>
+			<latitude>133764</latitude>
+			<longitude>439097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Hami -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>148194</latitude>
+			<longitude>498355</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Kurb -- (State: (YM06))">
+			<state>(YM06)</state>
+			<latitude>136794</latitude>
+			<longitude>447497</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Mahabishah -- (State: (YM12))">
+			<state>(YM12)</state>
+			<latitude>159344</latitude>
+			<longitude>434144</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Qatan -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>158503</latitude>
+			<longitude>484653</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ataq">
+			<state></state>
+			<latitude>145597</latitude>
+			<longitude>468097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baihan el-Asfal">
+			<state></state>
+			<latitude>149431</latitude>
+			<longitude>457765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bait al Faqih -- (State: Al Hudaydah)">
+			<state>Al Hudaydah</state>
+			<latitude>145259</latitude>
+			<longitude>433342</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balhaf">
+			<state></state>
+			<latitude>139765</latitude>
+			<longitude>481931</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Humaira">
+			<state></state>
+			<latitude>122599</latitude>
+			<longitude>521599</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Nujaira">
+			<state></state>
+			<latitude>121766</latitude>
+			<longitude>524099</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cemetery Hill">
+			<state></state>
+			<latitude>126432</latitude>
+			<longitude>538932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chail">
+			<state></state>
+			<latitude>135599</latitude>
+			<longitude>447432</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chamadah -- (State: (YM12))">
+			<state>(YM12)</state>
+			<latitude>156266</latitude>
+			<longitude>436599</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chapel Hill -- (State: `Adan)">
+			<state>`Adan</state>
+			<latitude>127907</latitude>
+			<longitude>449985</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chevalier Point -- (State: (YM17))">
+			<state>(YM17)</state>
+			<latitude>126563</latitude>
+			<longitude>434302</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuwairiban -- (State: (YM09))">
+			<state>(YM09)</state>
+			<latitude>159599</latitude>
+			<longitude>463766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clematis Shoal">
+			<state></state>
+			<latitude>153266</latitude>
+			<longitude>423766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Conquest Bay -- (State: `Adan)">
+			<state>`Adan</state>
+			<latitude>127707</latitude>
+			<longitude>450057</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cota">
+			<state></state>
+			<latitude>132766</latitude>
+			<longitude>442099</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crater -- (State: `Adan)">
+			<state>`Adan</state>
+			<latitude>127874</latitude>
+			<longitude>450427</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dammaj -- (State: Sa`dah)">
+			<state>Sa`dah</state>
+			<latitude>169031</latitude>
+			<longitude>438172</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhala -- (State: (YM06))">
+			<state>(YM06)</state>
+			<latitude>137067</latitude>
+			<longitude>447408</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhamar">
+			<state></state>
+			<latitude>145600</latitude>
+			<longitude>444117</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhamar al Qarn -- (State: Dhamar)">
+			<state>Dhamar</state>
+			<latitude>145150</latitude>
+			<longitude>444172</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duba` ad Dakhil Ma`ilah -- (State: (YM17))">
+			<state>(YM17)</state>
+			<latitude>132225</latitude>
+			<longitude>439933</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuwa -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>144894</latitude>
+			<longitude>490449</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghayl">
+			<state></state>
+			<latitude>160436</latitude>
+			<longitude>447770</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghayl Ba Wazir -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>147864</latitude>
+			<longitude>493764</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haid al- Ajiz">
+			<state></state>
+			<latitude>146937</latitude>
+			<longitude>462271</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harib">
+			<state></state>
+			<latitude>149437</latitude>
+			<longitude>455104</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hodaidah -- (State: Al Hudaydah)">
+			<state>Al Hudaydah</state>
+			<latitude>148082</latitude>
+			<longitude>429626</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hodeida -- (State: Al Hudaydah)">
+			<state>Al Hudaydah</state>
+			<latitude>150104</latitude>
+			<longitude>430104</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hodeida">
+			<state></state>
+			<latitude>148104</latitude>
+			<longitude>432104</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibb">
+			<state></state>
+			<latitude>139772</latitude>
+			<longitude>441938</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izan -- (State: (YM07))">
+			<state>(YM07)</state>
+			<latitude>144086</latitude>
+			<longitude>447680</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khashamir -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>159185</latitude>
+			<longitude>485963</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ma rib">
+			<state></state>
+			<latitude>154276</latitude>
+			<longitude>453609</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maklan">
+			<state></state>
+			<latitude>138442</latitude>
+			<longitude>449109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mukalla -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>145409</latitude>
+			<longitude>491423</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mukalla Bay">
+			<state></state>
+			<latitude>145109</latitude>
+			<longitude>491109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nisab">
+			<state></state>
+			<latitude>145277</latitude>
+			<longitude>465110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obal">
+			<state></state>
+			<latitude>149989</latitude>
+			<longitude>435533</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okem">
+			<state></state>
+			<latitude>156778</latitude>
+			<longitude>427278</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Om Mari">
+			<state></state>
+			<latitude>146111</latitude>
+			<longitude>434111</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oreste Point">
+			<state></state>
+			<latitude>163886</latitude>
+			<longitude>427730</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orj -- (State: Al Hudaydah)">
+			<state>Al Hudaydah</state>
+			<latitude>151361</latitude>
+			<longitude>428767</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oste">
+			<state></state>
+			<latitude>140444</latitude>
+			<longitude>440444</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otma">
+			<state></state>
+			<latitude>146611</latitude>
+			<longitude>439444</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palinurus Shoal -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>149237</latitude>
+			<longitude>506829</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parifa">
+			<state></state>
+			<latitude>144112</latitude>
+			<longitude>438112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perim Harbour -- (State: (YM17))">
+			<state>(YM17)</state>
+			<latitude>126579</latitude>
+			<longitude>434240</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perim Island -- (State: (YM17))">
+			<state>(YM17)</state>
+			<latitude>126679</latitude>
+			<longitude>434262</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pile Island">
+			<state></state>
+			<latitude>140945</latitude>
+			<longitude>428279</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pilot s Pier -- (State: `Adan)">
+			<state>`Adan</state>
+			<latitude>128001</latitude>
+			<longitude>449840</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pirie Point -- (State: (YM17))">
+			<state>(YM17)</state>
+			<latitude>126529</latitude>
+			<longitude>434226</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prince of Wales Pier -- (State: `Adan)">
+			<state>`Adan</state>
+			<latitude>128026</latitude>
+			<longitude>449931</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province of Al Mahwit -- (State: Al Mahwit)">
+			<state>Al Mahwit</state>
+			<latitude>154945</latitude>
+			<longitude>435779</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province of Dhamar -- (State: Dhamar)">
+			<state>Dhamar</state>
+			<latitude>145112</latitude>
+			<longitude>445112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province of Ibb">
+			<state></state>
+			<latitude>140112</latitude>
+			<longitude>442612</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarn Bin `Adwan -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>155705</latitude>
+			<longitude>480702</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rada -- (State: Dhamar)">
+			<state>Dhamar</state>
+			<latitude>147281</latitude>
+			<longitude>445114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saiwun -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>159548</latitude>
+			<longitude>488048</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sana -- (State: (YM12))">
+			<state>(YM12)</state>
+			<latitude>161562</latitude>
+			<longitude>422901</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sana">
+			<state></state>
+			<latitude>154115</latitude>
+			<longitude>477782</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanaa -- (State: Sana)">
+			<state>Sana</state>
+			<latitude>153662</latitude>
+			<longitude>442182</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanaa">
+			<state></state>
+			<latitude>138448</latitude>
+			<longitude>446948</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shibam -- (State: Sana)">
+			<state>Sana</state>
+			<latitude>155218</latitude>
+			<longitude>443109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shibam">
+			<state></state>
+			<latitude>149801</latitude>
+			<longitude>435237</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shibam -- (State: Al Mahwit)">
+			<state>Al Mahwit</state>
+			<latitude>155207</latitude>
+			<longitude>439196</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shibam -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>159384</latitude>
+			<longitude>486382</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shihr -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>147723</latitude>
+			<longitude>496184</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shuhair -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>146957</latitude>
+			<longitude>494040</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taiz -- (State: (YM17))">
+			<state>(YM17)</state>
+			<latitude>135116</latitude>
+			<longitude>440116</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taiz">
+			<state></state>
+			<latitude>135783</latitude>
+			<longitude>440449</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taiz -- (State: Dhamar)">
+			<state>Dhamar</state>
+			<latitude>147949</latitude>
+			<longitude>440449</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tarim -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>160685</latitude>
+			<longitude>490105</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taris -- (State: Hadramawt)">
+			<state>Hadramawt</state>
+			<latitude>159427</latitude>
+			<longitude>487597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thamar -- (State: Dhamar)">
+			<state>Dhamar</state>
+			<latitude>145588</latitude>
+			<longitude>444644</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Surrah -- (State: Abyan)">
+			<state>Abyan</state>
+			<latitude>136711</latitude>
+			<longitude>458525</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaila">
+			<state></state>
+			<latitude>146118</latitude>
+			<longitude>439451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabein">
+			<state></state>
+			<latitude>137954</latitude>
+			<longitude>466121</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabis -- (State: Al Hudaydah)">
+			<state>Al Hudaydah</state>
+			<latitude>145121</latitude>
+			<longitude>434954</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabu` -- (State: (YM06))">
+			<state>(YM06)</state>
+			<latitude>131582</latitude>
+			<longitude>443474</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yafa">
+			<state></state>
+			<latitude>138454</latitude>
+			<longitude>452621</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yafa` -- (State: Dhamar)">
+			<state>Dhamar</state>
+			<latitude>145765</latitude>
+			<longitude>443513</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yafi` as Sufla">
+			<state></state>
+			<latitude>136621</latitude>
+			<longitude>454788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahar -- (State: (YM07))">
+			<state>(YM07)</state>
+			<latitude>140265</latitude>
+			<longitude>448549</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahari">
+			<state></state>
+			<latitude>136788</latitude>
+			<longitude>452621</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakar -- (State: Dhamar)">
+			<state>Dhamar</state>
+			<latitude>149257</latitude>
+			<longitude>443254</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakhtul -- (State: (YM17))">
+			<state>(YM17)</state>
+			<latitude>134596</latitude>
+			<longitude>432810</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yam">
+			<state></state>
+			<latitude>169788</latitude>
+			<longitude>450621</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaman Tihama">
+			<state></state>
+			<latitude>145121</latitude>
+			<longitude>432621</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yana`ah -- (State: (YM17))">
+			<state>(YM17)</state>
+			<latitude>135352</latitude>
+			<longitude>438979</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaramis -- (State: Abyan)">
+			<state>Abyan</state>
+			<latitude>134140</latitude>
+			<longitude>454593</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarim -- (State: (YM13))">
+			<state>(YM13)</state>
+			<latitude>143093</latitude>
+			<longitude>443924</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yashhar">
+			<state></state>
+			<latitude>159454</latitude>
+			<longitude>450288</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yastar">
+			<state></state>
+			<latitude>151788</latitude>
+			<longitude>468121</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yazidi">
+			<state></state>
+			<latitude>137954</latitude>
+			<longitude>453788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeb`ith">
+			<state></state>
+			<latitude>147788</latitude>
+			<longitude>478121</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yemen Arab Republic">
+			<state></state>
+			<latitude>155121</latitude>
+			<longitude>475121</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yishub">
+			<state></state>
+			<latitude>123288</latitude>
+			<longitude>537621</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yislan">
+			<state></state>
+			<latitude>142621</latitude>
+			<longitude>448954</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yufrus">
+			<state></state>
+			<latitude>134665</latitude>
+			<longitude>439585</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yusuf">
+			<state></state>
+			<latitude>138954</latitude>
+			<longitude>458954</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yusufi">
+			<state></state>
+			<latitude>133454</latitude>
+			<longitude>444121</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zebid -- (State: Al Hudaydah)">
+			<state>Al Hudaydah</state>
+			<latitude>142069</latitude>
+			<longitude>433278</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zerab">
+			<state></state>
+			<latitude>137622</latitude>
+			<longitude>442789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeranik-es-Sham">
+			<state></state>
+			<latitude>145789</latitude>
+			<longitude>433455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zirajah -- (State: Sana)">
+			<state>Sana</state>
+			<latitude>151455</latitude>
+			<longitude>444122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

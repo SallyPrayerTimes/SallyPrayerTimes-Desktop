@@ -1,0 +1,614 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Saint Pierre Miquelon">
+		<city name="Accore Anglaise">
+			<state></state>
+			<latitude>470930</latitude>
+			<longitude>-561472</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anse a Capelan">
+			<state></state>
+			<latitude>468597</latitude>
+			<longitude>-563792</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anse a Dinand">
+			<state></state>
+			<latitude>468103</latitude>
+			<longitude>-561936</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anse a Ross">
+			<state></state>
+			<latitude>468839</latitude>
+			<longitude>-562386</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anse a Yvon">
+			<state></state>
+			<latitude>469064</latitude>
+			<longitude>-562950</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anse Cherie">
+			<state></state>
+			<latitude>468422</latitude>
+			<longitude>-563984</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Basse Bataille">
+			<state></state>
+			<latitude>467840</latitude>
+			<longitude>-561333</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Basse Gelin">
+			<state></state>
+			<latitude>467759</latitude>
+			<longitude>-561244</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bature">
+			<state></state>
+			<latitude>470662</latitude>
+			<longitude>-562208</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belle Riviere">
+			<state></state>
+			<latitude>469042</latitude>
+			<longitude>-562930</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bonnier">
+			<state></state>
+			<latitude>467631</latitude>
+			<longitude>-561810</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Butte Abondance">
+			<state></state>
+			<latitude>470587</latitude>
+			<longitude>-563605</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cap a Baudry">
+			<state></state>
+			<latitude>467996</latitude>
+			<longitude>-561329</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cap a Brossard">
+			<state></state>
+			<latitude>467760</latitude>
+			<longitude>-562273</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cap a Ross">
+			<state></state>
+			<latitude>468780</latitude>
+			<longitude>-562329</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cap au Diable">
+			<state></state>
+			<latitude>468160</latitude>
+			<longitude>-561890</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cap Sauveur">
+			<state></state>
+			<latitude>468646</latitude>
+			<longitude>-563737</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuquemel">
+			<state></state>
+			<latitude>468635</latitude>
+			<longitude>-563473</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Bizeuil">
+			<state></state>
+			<latitude>467795</latitude>
+			<longitude>-562188</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Bonnier">
+			<state></state>
+			<latitude>467673</latitude>
+			<longitude>-561805</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang du Lac">
+			<state></state>
+			<latitude>471309</latitude>
+			<longitude>-563635</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang du Suet">
+			<state></state>
+			<latitude>470679</latitude>
+			<longitude>-563388</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Durieux">
+			<state></state>
+			<latitude>468420</latitude>
+			<longitude>-562710</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Frecker">
+			<state></state>
+			<latitude>468054</latitude>
+			<longitude>-561538</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Goeland">
+			<state></state>
+			<latitude>468920</latitude>
+			<longitude>-563263</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Jourdan">
+			<state></state>
+			<latitude>467729</latitude>
+			<longitude>-561780</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Lingard">
+			<state></state>
+			<latitude>468420</latitude>
+			<longitude>-562993</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Long">
+			<state></state>
+			<latitude>468379</latitude>
+			<longitude>-563107</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Rond">
+			<state></state>
+			<latitude>471048</latitude>
+			<longitude>-563391</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Thelot">
+			<state></state>
+			<latitude>468001</latitude>
+			<longitude>-561621</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etang Ynachi">
+			<state></state>
+			<latitude>469012</latitude>
+			<longitude>-563255</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gros Nez">
+			<state></state>
+			<latitude>467964</latitude>
+			<longitude>-561314</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Miquelon">
+			<state></state>
+			<latitude>470563</latitude>
+			<longitude>-563192</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilot Noir">
+			<state></state>
+			<latitude>468027</latitude>
+			<longitude>-561101</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Baie">
+			<state></state>
+			<latitude>468214</latitude>
+			<longitude>-562306</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Beugresse">
+			<state></state>
+			<latitude>467652</latitude>
+			<longitude>-561834</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Carcasse">
+			<state></state>
+			<latitude>468750</latitude>
+			<longitude>-563456</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Colline">
+			<state></state>
+			<latitude>468905</latitude>
+			<longitude>-563306</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Coupee">
+			<state></state>
+			<latitude>468330</latitude>
+			<longitude>-563917</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Dune">
+			<state></state>
+			<latitude>469302</latitude>
+			<longitude>-563184</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Langue">
+			<state></state>
+			<latitude>467689</latitude>
+			<longitude>-561642</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Perruquere">
+			<state></state>
+			<latitude>467741</latitude>
+			<longitude>-562195</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Plaine">
+			<state></state>
+			<latitude>471066</latitude>
+			<longitude>-563767</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Pointe">
+			<state></state>
+			<latitude>467833</latitude>
+			<longitude>-561500</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Presqu ile">
+			<state></state>
+			<latitude>470077</latitude>
+			<longitude>-563092</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Rade">
+			<state></state>
+			<latitude>467980</latitude>
+			<longitude>-561495</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Scierie">
+			<state></state>
+			<latitude>468789</latitude>
+			<longitude>-563356</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Verrue">
+			<state></state>
+			<latitude>467816</latitude>
+			<longitude>-562175</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langlade">
+			<state></state>
+			<latitude>468536</latitude>
+			<longitude>-563042</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Barachois">
+			<state></state>
+			<latitude>467850</latitude>
+			<longitude>-561653</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Bosworth">
+			<state></state>
+			<latitude>467772</latitude>
+			<longitude>-561459</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Boyau">
+			<state></state>
+			<latitude>471205</latitude>
+			<longitude>-563931</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Calvaire">
+			<state></state>
+			<latitude>471175</latitude>
+			<longitude>-563842</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Canal Noir">
+			<state></state>
+			<latitude>468130</latitude>
+			<longitude>-563561</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Carenage">
+			<state></state>
+			<latitude>468327</latitude>
+			<longitude>-561509</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Chapeau">
+			<state></state>
+			<latitude>470944</latitude>
+			<longitude>-563309</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Coeur">
+			<state></state>
+			<latitude>468147</latitude>
+			<longitude>-563039</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Diamant">
+			<state></state>
+			<latitude>467580</latitude>
+			<longitude>-562136</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Dome">
+			<state></state>
+			<latitude>468191</latitude>
+			<longitude>-563359</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Fletan">
+			<state></state>
+			<latitude>467958</latitude>
+			<longitude>-561445</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Fort">
+			<state></state>
+			<latitude>467989</latitude>
+			<longitude>-561400</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Goelette">
+			<state></state>
+			<latitude>469027</latitude>
+			<longitude>-563267</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Grand Bec">
+			<state></state>
+			<latitude>471400</latitude>
+			<longitude>-563750</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Lion">
+			<state></state>
+			<latitude>468191</latitude>
+			<longitude>-562945</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Marais">
+			<state></state>
+			<latitude>468427</latitude>
+			<longitude>-562606</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Mulou">
+			<state></state>
+			<latitude>467908</latitude>
+			<longitude>-561495</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Petit Bec">
+			<state></state>
+			<latitude>471411</latitude>
+			<longitude>-563698</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Rond-Point">
+			<state></state>
+			<latitude>467830</latitude>
+			<longitude>-561842</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Trepied">
+			<state></state>
+			<latitude>468094</latitude>
+			<longitude>-561742</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Ardoises">
+			<state></state>
+			<latitude>468058</latitude>
+			<longitude>-563420</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Canailles">
+			<state></state>
+			<latitude>468075</latitude>
+			<longitude>-561220</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Escaliers">
+			<state></state>
+			<latitude>468111</latitude>
+			<longitude>-563403</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Flacous">
+			<state></state>
+			<latitude>467689</latitude>
+			<longitude>-561542</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Graves">
+			<state></state>
+			<latitude>468791</latitude>
+			<longitude>-562973</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marais Giraud">
+			<state></state>
+			<latitude>469998</latitude>
+			<longitude>-562774</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marais Mouton">
+			<state></state>
+			<latitude>468259</latitude>
+			<longitude>-563013</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nouveau Port">
+			<state></state>
+			<latitude>467918</latitude>
+			<longitude>-561571</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe a Bigue">
+			<state></state>
+			<latitude>468629</latitude>
+			<longitude>-562299</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe Quine">
+			<state></state>
+			<latitude>470065</latitude>
+			<longitude>-563157</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quai Alysse">
+			<state></state>
+			<latitude>467871</latitude>
+			<longitude>-561656</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quai de Peche">
+			<state></state>
+			<latitude>467946</latitude>
+			<longitude>-561584</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quai Mimosa">
+			<state></state>
+			<latitude>467877</latitude>
+			<longitude>-561637</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roche a Biche">
+			<state></state>
+			<latitude>471061</latitude>
+			<longitude>-563483</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rocher Hache">
+			<state></state>
+			<latitude>468053</latitude>
+			<longitude>-561175</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint-Pierre">
+			<state></state>
+			<latitude>467782</latitude>
+			<longitude>-561718</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Troot Pool">
+			<state></state>
+			<latitude>467633</latitude>
+			<longitude>-562090</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trou a Loches">
+			<state></state>
+			<latitude>471449</latitude>
+			<longitude>-563348</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Guatemala">
+		<city name="Barrios -- (State: Retalhuleu)">
+			<state>Retalhuleu</state>
+			<latitude>146765</latitude>
+			<longitude>-917235</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barrios -- (State: Jalapa)">
+			<state>Jalapa</state>
+			<latitude>145265</latitude>
+			<longitude>-901735</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barrios -- (State: Suchitepequez)">
+			<state>Suchitepequez</state>
+			<latitude>145265</latitude>
+			<longitude>-913735</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barrios -- (State: Quetzaltenango)">
+			<state>Quetzaltenango</state>
+			<latitude>146598</latitude>
+			<longitude>-918735</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorador -- (State: Jutiapa)">
+			<state>Jutiapa</state>
+			<latitude>144600</latitude>
+			<longitude>-895733</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Escuintla">
+			<state></state>
+			<latitude>143151</latitude>
+			<longitude>-907749</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guatemala City -- (State: Guatemala)">
+			<state>Guatemala</state>
+			<latitude>146314</latitude>
+			<longitude>-905166</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaibil Balam -- (State: Quiche)">
+			<state>Quiche</state>
+			<latitude>158607</latitude>
+			<longitude>-909560</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaminaljuyu -- (State: Guatemala)">
+			<state>Guatemala</state>
+			<latitude>146440</latitude>
+			<longitude>-905393</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinal -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>177107</latitude>
+			<longitude>-892326</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kowich Creek -- (State: Izabal)">
+			<state>Izabal</state>
+			<latitude>158607</latitude>
+			<longitude>-887560</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oaxaqueno -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>154778</latitude>
+			<longitude>-920556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obero -- (State: Escuintla)">
+			<state>Escuintla</state>
+			<latitude>140464</latitude>
+			<longitude>-908192</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obraje -- (State: Chiquimula)">
+			<state>Chiquimula</state>
+			<latitude>146278</latitude>
+			<longitude>-896222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obraje -- (State: El Progreso)">
+			<state>El Progreso</state>
+			<latitude>148111</latitude>
+			<longitude>-900389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obraje -- (State: Santa Rosa)">
+			<state>Santa Rosa</state>
+			<latitude>140392</latitude>
+			<longitude>-903742</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocante -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>158944</latitude>
+			<longitude>-915222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ochol -- (State: Solola)">
+			<state>Solola</state>
+			<latitude>146611</latitude>
+			<longitude>-914222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocos -- (State: Quiche)">
+			<state>Quiche</state>
+			<latitude>149944</latitude>
+			<longitude>-907389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocosito -- (State: Retalhuleu)">
+			<state>Retalhuleu</state>
+			<latitude>145944</latitude>
+			<longitude>-916556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocubila -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>153439</latitude>
+			<longitude>-913970</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocultun -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>172444</latitude>
+			<longitude>-908056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocumbla -- (State: Chiquimula)">
+			<state>Chiquimula</state>
+			<latitude>147944</latitude>
+			<longitude>-893056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojechejel -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>153111</latitude>
+			<longitude>-914556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojo de Agua El Coyol -- (State: El Progreso)">
+			<state>El Progreso</state>
+			<latitude>148444</latitude>
+			<longitude>-900889</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojo de Agua Escondido -- (State: Chiquimula)">
+			<state>Chiquimula</state>
+			<latitude>148778</latitude>
+			<longitude>-894056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olintepeque -- (State: Quetzaltenango)">
+			<state>Quetzaltenango</state>
+			<latitude>148944</latitude>
+			<longitude>-915056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omagua -- (State: Izabal)">
+			<state>Izabal</state>
+			<latitude>155778</latitude>
+			<longitude>-885556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onandaga -- (State: Izabal)">
+			<state>Izabal</state>
+			<latitude>153611</latitude>
+			<longitude>-888056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oneida -- (State: Izabal)">
+			<state>Izabal</state>
+			<latitude>154444</latitude>
+			<longitude>-888222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onlaj -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>156111</latitude>
+			<longitude>-916389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oquen -- (State: Chiquimula)">
+			<state>Chiquimula</state>
+			<latitude>148111</latitude>
+			<longitude>-894056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oratorio -- (State: Santa Rosa)">
+			<state>Santa Rosa</state>
+			<latitude>142392</latitude>
+			<longitude>-901647</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oratorio -- (State: Zacapa)">
+			<state>Zacapa</state>
+			<latitude>149611</latitude>
+			<longitude>-894222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orchoj -- (State: Jalapa)">
+			<state>Jalapa</state>
+			<latitude>145611</latitude>
+			<longitude>-899722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oregano -- (State: Chiquimula)">
+			<state>Chiquimula</state>
+			<latitude>148778</latitude>
+			<longitude>-894556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orejas -- (State: El Progreso)">
+			<state>El Progreso</state>
+			<latitude>148944</latitude>
+			<longitude>-899222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orizaba -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>170278</latitude>
+			<longitude>-911222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oscurana -- (State: Chiquimula)">
+			<state>Chiquimula</state>
+			<latitude>146278</latitude>
+			<longitude>-895556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oscurana -- (State: Zacapa)">
+			<state>Zacapa</state>
+			<latitude>149111</latitude>
+			<longitude>-896556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otacingo -- (State: Escuintla)">
+			<state>Escuintla</state>
+			<latitude>140036</latitude>
+			<longitude>-908825</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ovejero -- (State: Jutiapa)">
+			<state>Jutiapa</state>
+			<latitude>144444</latitude>
+			<longitude>-898556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oxib Cumbo -- (State: Alta Verapaz)">
+			<state>Alta Verapaz</state>
+			<latitude>157944</latitude>
+			<longitude>-901722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quezaltenango -- (State: Quetzaltenango)">
+			<state>Quetzaltenango</state>
+			<latitude>148446</latitude>
+			<longitude>-915054</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ualantun -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>171950</latitude>
+			<longitude>-896550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ucanal -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>164784</latitude>
+			<longitude>-899883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulutelac -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>159450</latitude>
+			<longitude>-912383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usumatlan -- (State: Zacapa)">
+			<state>Zacapa</state>
+			<latitude>149617</latitude>
+			<longitude>-897716</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ware Creek -- (State: Izabal)">
+			<state>Izabal</state>
+			<latitude>158952</latitude>
+			<longitude>-891214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yajaucu -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>156185</latitude>
+			<longitude>-913323</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaki -- (State: Izabal)">
+			<state>Izabal</state>
+			<latitude>153121</latitude>
+			<longitude>-889712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalantan -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>158788</latitude>
+			<longitude>-915212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalmojan -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>169788</latitude>
+			<longitude>-899712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalpina -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>171788</latitude>
+			<longitude>-908212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaltutu -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>164127</latitude>
+			<longitude>-894707</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaoch -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>173288</latitude>
+			<longitude>-891712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yat -- (State: Quiche)">
+			<state>Quiche</state>
+			<latitude>149788</latitude>
+			<longitude>-911879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaxa -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>170788</latitude>
+			<longitude>-893712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaxjaj -- (State: Peten)">
+			<state>Peten</state>
+			<latitude>168621</latitude>
+			<longitude>-898046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yisquisis -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>160621</latitude>
+			<longitude>-914046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yocon -- (State: Chiquimula)">
+			<state>Chiquimula</state>
+			<latitude>146454</latitude>
+			<longitude>-894212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yolaquitac -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>158454</latitude>
+			<longitude>-915379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yolcultac -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>158621</latitude>
+			<longitude>-916046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yolhuitz -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>158732</latitude>
+			<longitude>-912507</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yolicham -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>158454</latitude>
+			<longitude>-915546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yolonquisis -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>158954</latitude>
+			<longitude>-915546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoxacla -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>157621</latitude>
+			<longitude>-916546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuinima -- (State: San Marcos)">
+			<state>San Marcos</state>
+			<latitude>151288</latitude>
+			<longitude>-919046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yulacheque -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>158121</latitude>
+			<longitude>-913712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yulmacap -- (State: Huehuetenango)">
+			<state>Huehuetenango</state>
+			<latitude>158752</latitude>
+			<longitude>-911532</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yupiltepeque -- (State: Jutiapa)">
+			<state>Jutiapa</state>
+			<latitude>142121</latitude>
+			<longitude>-897712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yzabal -- (State: Izabal)">
+			<state>Izabal</state>
+			<latitude>155121</latitude>
+			<longitude>-889879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

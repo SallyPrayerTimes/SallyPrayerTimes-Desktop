@@ -1,0 +1,418 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Tanzania">
+		<city name="Arusha">
+			<state></state>
+			<latitude>-33570</latitude>
+			<longitude>366930</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arusha District">
+			<state></state>
+			<latitude>-33236</latitude>
+			<longitude>367597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arusha Region -- (State: Arusha)">
+			<state>Arusha</state>
+			<latitude>-29903</latitude>
+			<longitude>360097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukoba -- (State: Ziwa Magharibi)">
+			<state>Ziwa Magharibi</state>
+			<latitude>-13219</latitude>
+			<longitude>318220</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dar es Salaam">
+			<state></state>
+			<latitude>-67900</latitude>
+			<longitude>392933</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dar es Salaam Bay">
+			<state></state>
+			<latitude>-67733</latitude>
+			<longitude>393100</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dar es Salaam Harbour">
+			<state></state>
+			<latitude>-68233</latitude>
+			<longitude>392933</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dar es Salaam Region -- (State: Dar es Salaam)">
+			<state>Dar es Salaam</state>
+			<latitude>-67400</latitude>
+			<longitude>392600</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dodoma">
+			<state></state>
+			<latitude>-40567</latitude>
+			<longitude>352433</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dodoma District">
+			<state></state>
+			<latitude>-62400</latitude>
+			<longitude>357600</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dodoma Region -- (State: Dodoma)">
+			<state>Dodoma</state>
+			<latitude>-59900</latitude>
+			<longitude>360100</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iringa">
+			<state></state>
+			<latitude>-77562</latitude>
+			<longitude>357105</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iringa District">
+			<state></state>
+			<latitude>-75728</latitude>
+			<longitude>355105</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iringa Region -- (State: Iringa)">
+			<state>Iringa</state>
+			<latitude>-89895</latitude>
+			<longitude>350105</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iringa-Mvumi">
+			<state></state>
+			<latitude>-64728</latitude>
+			<longitude>359438</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lindi">
+			<state></state>
+			<latitude>-99892</latitude>
+			<longitude>397275</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mbeya">
+			<state></state>
+			<latitude>-88891</latitude>
+			<longitude>334609</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moshi">
+			<state></state>
+			<latitude>-33391</latitude>
+			<longitude>373442</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mtera">
+			<state></state>
+			<latitude>-70891</latitude>
+			<longitude>359776</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mwanza">
+			<state></state>
+			<latitude>-25058</latitude>
+			<longitude>329109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Njombe">
+			<state></state>
+			<latitude>-69223</latitude>
+			<longitude>351110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Njombe District">
+			<state></state>
+			<latitude>-92390</latitude>
+			<longitude>350110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pemba North Region -- (State: Pemba North)">
+			<state>Pemba North</state>
+			<latitude>-50721</latitude>
+			<longitude>398112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pwani Region -- (State: Dar es Salaam)">
+			<state>Dar es Salaam</state>
+			<latitude>-69888</latitude>
+			<longitude>390112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sumbawanga">
+			<state></state>
+			<latitude>-79552</latitude>
+			<longitude>316282</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sumbawanga District">
+			<state></state>
+			<latitude>-84052</latitude>
+			<longitude>318448</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tabora">
+			<state></state>
+			<latitude>-87051</latitude>
+			<longitude>326449</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanga">
+			<state></state>
+			<latitude>-105551</latitude>
+			<longitude>356949</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanga Bay">
+			<state></state>
+			<latitude>-50384</latitude>
+			<longitude>391116</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanga District">
+			<state></state>
+			<latitude>-50717</latitude>
+			<longitude>390949</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanga Inner Harbour">
+			<state></state>
+			<latitude>-50551</latitude>
+			<longitude>391283</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanga Region -- (State: Tanga)">
+			<state>Tanga</state>
+			<latitude>-49884</latitude>
+			<longitude>382616</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tangani">
+			<state></state>
+			<latitude>-53051</latitude>
+			<longitude>397616</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanganyika">
+			<state></state>
+			<latitude>-59884</latitude>
+			<longitude>350116</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tangata">
+			<state></state>
+			<latitude>-51717</latitude>
+			<longitude>390783</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tangazo">
+			<state></state>
+			<latitude>-104384</latitude>
+			<longitude>403616</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usagara">
+			<state></state>
+			<latitude>-50716</latitude>
+			<longitude>391284</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xipingue">
+			<state></state>
+			<latitude>-115713</latitude>
+			<longitude>354120</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yagaba">
+			<state></state>
+			<latitude>-28546</latitude>
+			<longitude>304788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakaoga">
+			<state></state>
+			<latitude>-18712</latitude>
+			<longitude>334454</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yambala">
+			<state></state>
+			<latitude>-47712</latitude>
+			<longitude>342954</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanganya">
+			<state></state>
+			<latitude>-13379</latitude>
+			<longitude>338121</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarahini">
+			<state></state>
+			<latitude>-49379</latitude>
+			<longitude>389288</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarutare Bay">
+			<state></state>
+			<latitude>-17212</latitude>
+			<longitude>335954</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeye River">
+			<state></state>
+			<latitude>-76046</latitude>
+			<longitude>320454</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yibandeni">
+			<state></state>
+			<latitude>-52212</latitude>
+			<longitude>387788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ylunde">
+			<state></state>
+			<latitude>-50712</latitude>
+			<longitude>305788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yodzu -- (State: Ziwa Magharibi)">
+			<state>Ziwa Magharibi</state>
+			<latitude>-25546</latitude>
+			<longitude>317288</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yogelo">
+			<state></state>
+			<latitude>-41546</latitude>
+			<longitude>334788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yola">
+			<state></state>
+			<latitude>-108879</latitude>
+			<longitude>346621</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yombi Island">
+			<state></state>
+			<latitude>-54546</latitude>
+			<longitude>396788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yombo">
+			<state></state>
+			<latitude>-65546</latitude>
+			<longitude>388621</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yowela">
+			<state></state>
+			<latitude>-87379</latitude>
+			<longitude>338788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yula">
+			<state></state>
+			<latitude>-90379</latitude>
+			<longitude>331288</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanzibar">
+			<state></state>
+			<latitude>-61545</latitude>
+			<longitude>393455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanzibar Channel">
+			<state></state>
+			<latitude>-59878</latitude>
+			<longitude>390122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanzibar City">
+			<state></state>
+			<latitude>-61545</latitude>
+			<longitude>391955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanzibar North Region -- (State: Zanzibar North)">
+			<state>Zanzibar North</state>
+			<latitude>-59045</latitude>
+			<longitude>393455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanzibar Urban West Region -- (State: Zanzibar Urban West)">
+			<state>Zanzibar Urban West</state>
+			<latitude>-61545</latitude>
+			<longitude>392622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

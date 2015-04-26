@@ -1,0 +1,565 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Guernsey">
+		<city name="Alderney Harbour">
+			<state></state>
+			<latitude>497264</latitude>
+			<longitude>-21903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alderney South Banks">
+			<state></state>
+			<latitude>486930</latitude>
+			<longitude>-21903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baie de Port Grat">
+			<state></state>
+			<latitude>495098</latitude>
+			<longitude>-25569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bailiffs Cross">
+			<state></state>
+			<latitude>494598</latitude>
+			<longitude>-25569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bailiwick of Guernsey">
+			<state></state>
+			<latitude>495931</latitude>
+			<longitude>-23235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banc de la Schole">
+			<state></state>
+			<latitude>495765</latitude>
+			<longitude>-22235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belle Greve Bay">
+			<state></state>
+			<latitude>494765</latitude>
+			<longitude>-25235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bibette">
+			<state></state>
+			<latitude>497431</latitude>
+			<longitude>-21735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bon Repos Harbour">
+			<state></state>
+			<latitude>494265</latitude>
+			<longitude>-26069</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bordeaux Harbour">
+			<state></state>
+			<latitude>494931</latitude>
+			<longitude>-24902</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Braye du Val">
+			<state></state>
+			<latitude>494765</latitude>
+			<longitude>-25402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burons">
+			<state></state>
+			<latitude>494431</latitude>
+			<longitude>-23235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Caskets">
+			<state></state>
+			<latitude>497266</latitude>
+			<longitude>-23901</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corbet">
+			<state></state>
+			<latitude>497266</latitude>
+			<longitude>-22234</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cul de l Hotel">
+			<state></state>
+			<latitude>495099</latitude>
+			<longitude>-24234</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Delancy">
+			<state></state>
+			<latitude>494933</latitude>
+			<longitude>-25233</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Derrible Bay">
+			<state></state>
+			<latitude>494267</latitude>
+			<longitude>-23400</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dixcard Bay">
+			<state></state>
+			<latitude>494433</latitude>
+			<longitude>-23400</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fermain Bay">
+			<state></state>
+			<latitude>494435</latitude>
+			<longitude>-25231</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Doyle">
+			<state></state>
+			<latitude>495102</latitude>
+			<longitude>-24898</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fourquie">
+			<state></state>
+			<latitude>497269</latitude>
+			<longitude>-23565</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fregondee">
+			<state></state>
+			<latitude>494435</latitude>
+			<longitude>-23565</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Godin">
+			<state></state>
+			<latitude>494936</latitude>
+			<longitude>-24230</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goubiniere">
+			<state></state>
+			<latitude>494603</latitude>
+			<longitude>-24397</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gouliot Passage">
+			<state></state>
+			<latitude>494436</latitude>
+			<longitude>-23730</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grand Greve">
+			<state></state>
+			<latitude>494270</latitude>
+			<longitude>-23564</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grand Havre">
+			<state></state>
+			<latitude>495103</latitude>
+			<longitude>-25397</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grande Amfroque">
+			<state></state>
+			<latitude>495270</latitude>
+			<longitude>-24064</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grande Fauconriere">
+			<state></state>
+			<latitude>494603</latitude>
+			<longitude>-24564</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Great Russel">
+			<state></state>
+			<latitude>494270</latitude>
+			<longitude>-24730</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grosnez Point">
+			<state></state>
+			<latitude>497436</latitude>
+			<longitude>-21897</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hanoveaux">
+			<state></state>
+			<latitude>494437</latitude>
+			<longitude>-26896</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hautnez">
+			<state></state>
+			<latitude>494437</latitude>
+			<longitude>-25896</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Herm">
+			<state></state>
+			<latitude>495104</latitude>
+			<longitude>-24563</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Homet">
+			<state></state>
+			<latitude>494937</latitude>
+			<longitude>-24563</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Houmet Herbe">
+			<state></state>
+			<latitude>497437</latitude>
+			<longitude>-21396</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Houmets">
+			<state></state>
+			<latitude>494937</latitude>
+			<longitude>-25729</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Icart Point">
+			<state></state>
+			<latitude>494272</latitude>
+			<longitude>-25562</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jerbourg Point">
+			<state></state>
+			<latitude>494273</latitude>
+			<longitude>-25227</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="L Equet">
+			<state></state>
+			<latitude>497275</latitude>
+			<longitude>-23392</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="L Etac de Sark">
+			<state></state>
+			<latitude>494108</latitude>
+			<longitude>-23559</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="L Etart de la Quoire">
+			<state></state>
+			<latitude>497108</latitude>
+			<longitude>-21725</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Creux Mahe">
+			<state></state>
+			<latitude>494275</latitude>
+			<longitude>-26225</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Grosse Rock">
+			<state></state>
+			<latitude>494441</latitude>
+			<longitude>-26725</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Tchue">
+			<state></state>
+			<latitude>497275</latitude>
+			<longitude>-21725</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Mont Durand">
+			<state></state>
+			<latitude>494608</latitude>
+			<longitude>-25392</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Puits Jervais">
+			<state></state>
+			<latitude>497108</latitude>
+			<longitude>-22225</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lihou Island">
+			<state></state>
+			<latitude>494775</latitude>
+			<longitude>-26559</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Little Russel">
+			<state></state>
+			<latitude>495108</latitude>
+			<longitude>-24725</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Miniquiers">
+			<state></state>
+			<latitude>489776</latitude>
+			<longitude>-20724</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mont Hubert">
+			<state></state>
+			<latitude>494442</latitude>
+			<longitude>-25724</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moulin Huet Bay">
+			<state></state>
+			<latitude>494276</latitude>
+			<longitude>-25391</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noir Houmet">
+			<state></state>
+			<latitude>497443</latitude>
+			<longitude>-22390</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noir Pute">
+			<state></state>
+			<latitude>494777</latitude>
+			<longitude>-24057</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ortac">
+			<state></state>
+			<latitude>497278</latitude>
+			<longitude>-22722</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ortac Pass">
+			<state></state>
+			<latitude>497444</latitude>
+			<longitude>-22889</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paradis">
+			<state></state>
+			<latitude>495112</latitude>
+			<longitude>-25055</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Perelle Bay">
+			<state></state>
+			<latitude>494779</latitude>
+			<longitude>-26388</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plat Saline Bay">
+			<state></state>
+			<latitude>497279</latitude>
+			<longitude>-22055</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Point Banquette">
+			<state></state>
+			<latitude>494612</latitude>
+			<longitude>-23388</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Point La Moye">
+			<state></state>
+			<latitude>494279</latitude>
+			<longitude>-25888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Point Sauzebourge">
+			<state></state>
+			<latitude>494779</latitude>
+			<longitude>-24388</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Goury">
+			<state></state>
+			<latitude>494279</latitude>
+			<longitude>-23721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Portinfer Bay">
+			<state></state>
+			<latitude>495112</latitude>
+			<longitude>-25721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quenard Point">
+			<state></state>
+			<latitude>497446</latitude>
+			<longitude>-21554</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queux Kings Mill">
+			<state></state>
+			<latitude>494780</latitude>
+			<longitude>-25887</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Raz Island">
+			<state></state>
+			<latitude>497281</latitude>
+			<longitude>-21553</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Renonpuet">
+			<state></state>
+			<latitude>497447</latitude>
+			<longitude>-22719</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rocquaine Bay">
+			<state></state>
+			<latitude>494614</latitude>
+			<longitude>-26553</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rohais Manor">
+			<state></state>
+			<latitude>494781</latitude>
+			<longitude>-25553</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roque au Nord">
+			<state></state>
+			<latitude>495281</latitude>
+			<longitude>-25219</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Anne">
+			<state></state>
+			<latitude>497115</latitude>
+			<longitude>-21885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Peter Port">
+			<state></state>
+			<latitude>494615</latitude>
+			<longitude>-25218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Sampson">
+			<state></state>
+			<latitude>494948</latitude>
+			<longitude>-25052</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sark">
+			<state></state>
+			<latitude>494615</latitude>
+			<longitude>-23552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tetes d Aval">
+			<state></state>
+			<latitude>494449</latitude>
+			<longitude>-24717</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Swinge">
+			<state></state>
+			<latitude>497449</latitude>
+			<longitude>-22217</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torteval">
+			<state></state>
+			<latitude>494449</latitude>
+			<longitude>-26384</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vazon Bay">
+			<state></state>
+			<latitude>494785</latitude>
+			<longitude>-26049</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vermerette">
+			<state></state>
+			<latitude>494785</latitude>
+			<longitude>-24549</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

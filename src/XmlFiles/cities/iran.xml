@@ -1,0 +1,1153 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Iran">
+		<city name="Abadan -- (State: Khuzestan)">
+			<state>Khuzestan</state>
+			<latitude>303622</latitude>
+			<longitude>483055</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abadan -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>337944</latitude>
+			<longitude>546558</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abadan">
+			<state></state>
+			<latitude>301764</latitude>
+			<longitude>488430</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abadan Tappeh -- (State: (IR17))">
+			<state>(IR17)</state>
+			<latitude>374289</latitude>
+			<longitude>552636</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abadani -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>272286</latitude>
+			<longitude>558150</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abyek -- (State: (IR27))">
+			<state>(IR27)</state>
+			<latitude>360550</latitude>
+			<longitude>505330</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ahwaz -- (State: Khuzestan)">
+			<state>Khuzestan</state>
+			<latitude>313430</latitude>
+			<longitude>488097</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ahwaz Railroad Station -- (State: Khuzestan)">
+			<state>Khuzestan</state>
+			<latitude>313194</latitude>
+			<longitude>486466</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amol -- (State: (IR17))">
+			<state>(IR17)</state>
+			<latitude>364805</latitude>
+			<longitude>523730</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arak">
+			<state></state>
+			<latitude>344264</latitude>
+			<longitude>495930</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arak -- (State: (IR24))">
+			<state>(IR24)</state>
+			<latitude>340953</latitude>
+			<longitude>496936</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ardabil -- (State: Ardebil)">
+			<state>Ardebil</state>
+			<latitude>382591</latitude>
+			<longitude>483111</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ardebil">
+			<state></state>
+			<latitude>390097</latitude>
+			<longitude>480097</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Asalem -- (State: Gilan)">
+			<state>Gilan</state>
+			<latitude>377136</latitude>
+			<longitude>489505</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Asaluyeh -- (State: Bushehr)">
+			<state>Bushehr</state>
+			<latitude>275091</latitude>
+			<longitude>526316</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Babol">
+			<state></state>
+			<latitude>365098</latitude>
+			<longitude>525931</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Babol -- (State: (IR17))">
+			<state>(IR17)</state>
+			<latitude>365540</latitude>
+			<longitude>526887</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bakhtaran -- (State: Kermanshah)">
+			<state>Kermanshah</state>
+			<latitude>343240</latitude>
+			<longitude>470748</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandar `Abbas -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>271962</latitude>
+			<longitude>562870</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandar `Abbas">
+			<state></state>
+			<latitude>280098</latitude>
+			<longitude>560098</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandar-e Kong -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>266023</latitude>
+			<longitude>549476</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bastak -- (State: Mazandaran)">
+			<state>Mazandaran</state>
+			<latitude>359765</latitude>
+			<longitude>517931</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bastak -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>272079</latitude>
+			<longitude>543784</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Birjand -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>328837</latitude>
+			<longitude>592242</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bojnurd">
+			<state></state>
+			<latitude>375098</latitude>
+			<longitude>570098</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bojnurd -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>374873</latitude>
+			<longitude>573342</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buchir -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>270751</latitude>
+			<longitude>536251</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bushehr">
+			<state></state>
+			<latitude>289848</latitude>
+			<longitude>508479</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chabahar -- (State: Sistan va Baluchestan)">
+			<state>Sistan va Baluchestan</state>
+			<latitude>253055</latitude>
+			<longitude>606438</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chalus -- (State: (IR17))">
+			<state>(IR17)</state>
+			<latitude>366766</latitude>
+			<longitude>514266</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Diwan Darreh -- (State: Kordestan)">
+			<state>Kordestan</state>
+			<latitude>359194</latitude>
+			<longitude>470439</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gavbandi -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>272181</latitude>
+			<longitude>530422</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamedan -- (State: Hamadan)">
+			<state>Hamadan</state>
+			<latitude>348065</latitude>
+			<longitude>485262</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iranshahr -- (State: Sistan va Baluchestan)">
+			<state>Sistan va Baluchestan</state>
+			<latitude>272144</latitude>
+			<longitude>607024</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iranshahr -- (State: Kerman)">
+			<state>Kerman</state>
+			<latitude>289627</latitude>
+			<longitude>588944</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isfahan">
+			<state></state>
+			<latitude>320105</latitude>
+			<longitude>575105</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isfahan -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>326702</latitude>
+			<longitude>516819</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isfahanak -- (State: (IR19))">
+			<state>(IR19)</state>
+			<latitude>352605</latitude>
+			<longitude>502272</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jask -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>256528</latitude>
+			<longitude>577828</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karaj -- (State: Ardebil)">
+			<state>Ardebil</state>
+			<latitude>374115</latitude>
+			<longitude>482707</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karaj -- (State: Tehran)">
+			<state>Tehran</state>
+			<latitude>358396</latitude>
+			<longitude>510165</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karaj -- (State: Kerman)">
+			<state>Kerman</state>
+			<latitude>277899</latitude>
+			<longitude>579507</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karaj Reservoir -- (State: Tehran)">
+			<state>Tehran</state>
+			<latitude>359801</latitude>
+			<longitude>511113</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karaj-e `Olya -- (State: Kermanshah)">
+			<state>Kermanshah</state>
+			<latitude>346107</latitude>
+			<longitude>475274</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karaja -- (State: Kerman)">
+			<state>Kerman</state>
+			<latitude>382440</latitude>
+			<longitude>467774</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karaja Dam -- (State: Tehran)">
+			<state>Tehran</state>
+			<latitude>359676</latitude>
+			<longitude>511013</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karajamulik -- (State: Kerman)">
+			<state>Kerman</state>
+			<latitude>386107</latitude>
+			<longitude>466440</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kerman -- (State: (IR17))">
+			<state>(IR17)</state>
+			<latitude>359896</latitude>
+			<longitude>531038</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kerman">
+			<state></state>
+			<latitude>290107</latitude>
+			<longitude>590107</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kermanshah -- (State: Kohgiluyeh va Buyer Ahmad)">
+			<state>Kohgiluyeh va Buyer Ahmad</state>
+			<latitude>310443</latitude>
+			<longitude>502143</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kermanshah -- (State: Yazd)">
+			<state>Yazd</state>
+			<latitude>313232</latitude>
+			<longitude>548779</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kermanshah">
+			<state></state>
+			<latitude>343276</latitude>
+			<longitude>470757</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khaf -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>346579</latitude>
+			<longitude>600582</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khamir -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>269551</latitude>
+			<longitude>555951</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khamiri -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>269629</latitude>
+			<longitude>562090</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khamirun -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>327932</latitude>
+			<longitude>510329</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khoor -- (State: Fars)">
+			<state>Fars</state>
+			<latitude>276565</latitude>
+			<longitude>543546</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khur -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>337924</latitude>
+			<longitude>551149</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kish Island -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>265549</latitude>
+			<longitude>539868</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konarak -- (State: Sistan va Baluchestan)">
+			<state>Sistan va Baluchestan</state>
+			<latitude>253663</latitude>
+			<longitude>604104</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koshkonar -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>272599</latitude>
+			<longitude>528746</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kukherd -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>270960</latitude>
+			<longitude>545071</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mahabad -- (State: Azarbayjan-e Gharbi)">
+			<state>Azarbayjan-e Gharbi</state>
+			<latitude>367756</latitude>
+			<longitude>457326</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maku -- (State: Azarbayjan-e Gharbi)">
+			<state>Azarbayjan-e Gharbi</state>
+			<latitude>392976</latitude>
+			<longitude>445695</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marivan -- (State: Kordestan)">
+			<state>Kordestan</state>
+			<latitude>355326</latitude>
+			<longitude>461856</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashad -- (State: (IR19))">
+			<state>(IR19)</state>
+			<latitude>340442</latitude>
+			<longitude>510276</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashad -- (State: Ilam)">
+			<state>Ilam</state>
+			<latitude>330442</latitude>
+			<longitude>468609</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashad">
+			<state></state>
+			<latitude>268276</latitude>
+			<longitude>625942</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashad -- (State: (IR24))">
+			<state>(IR24)</state>
+			<latitude>348015</latitude>
+			<longitude>499565</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashad-i-Riza -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>348031</latitude>
+			<longitude>605159</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashadi -- (State: Khuzestan)">
+			<state>Khuzestan</state>
+			<latitude>317878</latitude>
+			<longitude>490081</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashhad -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>363067</latitude>
+			<longitude>596228</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashhad -- (State: (IR27))">
+			<state>(IR27)</state>
+			<latitude>358109</latitude>
+			<longitude>489442</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashhad -- (State: Fars)">
+			<state>Fars</state>
+			<latitude>303303</latitude>
+			<longitude>522134</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashhad -- (State: Khuzestan)">
+			<state>Khuzestan</state>
+			<latitude>308442</latitude>
+			<longitude>502109</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashhad -- (State: Tehran)">
+			<state>Tehran</state>
+			<latitude>356140</latitude>
+			<longitude>524856</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mashhad -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>327353</latitude>
+			<longitude>505315</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moghuyeh -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>266137</latitude>
+			<longitude>545215</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narmak">
+			<state></state>
+			<latitude>297277</latitude>
+			<longitude>580443</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pip -- (State: Sistan va Baluchestan)">
+			<state>Sistan va Baluchestan</state>
+			<latitude>266415</latitude>
+			<longitude>601309</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qazvin -- (State: (IR27))">
+			<state>(IR27)</state>
+			<latitude>362735</latitude>
+			<longitude>500282</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qazvin">
+			<state></state>
+			<latitude>355113</latitude>
+			<longitude>505113</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qeshm -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>269757</latitude>
+			<longitude>562849</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qom -- (State: (IR24))">
+			<state>(IR24)</state>
+			<latitude>347046</latitude>
+			<longitude>508399</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qom">
+			<state></state>
+			<latitude>345113</latitude>
+			<longitude>505113</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qom -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>367116</latitude>
+			<longitude>590938</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qom Qal`eh -- (State: (IR02))">
+			<state>(IR02)</state>
+			<latitude>368882</latitude>
+			<longitude>457894</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qom Qeshlaq -- (State: Azarbayjan-e Gharbi)">
+			<state>Azarbayjan-e Gharbi</state>
+			<latitude>395780</latitude>
+			<longitude>447446</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qom Shaneh -- (State: Hamadan)">
+			<state>Hamadan</state>
+			<latitude>351780</latitude>
+			<longitude>492946</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomam -- (State: Kermanshah)">
+			<state>Kermanshah</state>
+			<latitude>349280</latitude>
+			<longitude>475780</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomash -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>332788</latitude>
+			<longitude>599416</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomash -- (State: Lorestan)">
+			<state>Lorestan</state>
+			<latitude>340355</latitude>
+			<longitude>478135</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomeshli -- (State: (IR19))">
+			<state>(IR19)</state>
+			<latitude>344113</latitude>
+			<longitude>493113</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomeyjeh -- (State: Khuzestan)">
+			<state>Khuzestan</state>
+			<latitude>315330</latitude>
+			<longitude>480388</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomi -- (State: Azarbayjan-e Gharbi)">
+			<state>Azarbayjan-e Gharbi</state>
+			<latitude>369613</latitude>
+			<longitude>459113</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomi Kala -- (State: (IR17))">
+			<state>(IR17)</state>
+			<latitude>364602</latitude>
+			<longitude>526196</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomik -- (State: (IR27))">
+			<state>(IR27)</state>
+			<latitude>361280</latitude>
+			<longitude>499613</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qominjan -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>335655</latitude>
+			<longitude>588813</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomisheh -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>320224</latitude>
+			<longitude>518710</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomishlu -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>328332</latitude>
+			<longitude>512180</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomlu -- (State: (IR02))">
+			<state>(IR02)</state>
+			<latitude>370113</latitude>
+			<longitude>469446</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomm Torqeh -- (State: Kordestan)">
+			<state>Kordestan</state>
+			<latitude>362946</latitude>
+			<longitude>478280</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomqan -- (State: (IR02))">
+			<state>(IR02)</state>
+			<latitude>374780</latitude>
+			<longitude>474780</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomrud -- (State: (IR24))">
+			<state>(IR24)</state>
+			<latitude>347363</latitude>
+			<longitude>510832</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomshahabad -- (State: (IR19))">
+			<state>(IR19)</state>
+			<latitude>360780</latitude>
+			<longitude>493446</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qomsheh-ye Seyyed Qasem -- (State: Kermanshah)">
+			<state>Kermanshah</state>
+			<latitude>342780</latitude>
+			<longitude>469113</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rasht -- (State: Gilan)">
+			<state>Gilan</state>
+			<latitude>372908</latitude>
+			<longitude>495972</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rasht">
+			<state></state>
+			<latitude>370114</latitude>
+			<longitude>495114</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ravansar -- (State: Kermanshah)">
+			<state>Kermanshah</state>
+			<latitude>347614</latitude>
+			<longitude>466947</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saghez -- (State: Kordestan)">
+			<state>Kordestan</state>
+			<latitude>362568</latitude>
+			<longitude>462868</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sanandaj">
+			<state></state>
+			<latitude>324282</latitude>
+			<longitude>470115</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sanandaj -- (State: Kordestan)">
+			<state>Kordestan</state>
+			<latitude>353287</latitude>
+			<longitude>470104</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saravan">
+			<state></state>
+			<latitude>272615</latitude>
+			<longitude>621782</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saravan -- (State: Gilan)">
+			<state>Gilan</state>
+			<latitude>370526</latitude>
+			<longitude>496490</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saravan -- (State: Bushehr)">
+			<state>Bushehr</state>
+			<latitude>290815</latitude>
+			<longitude>514526</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saravan -- (State: Sistan va Baluchestan)">
+			<state>Sistan va Baluchestan</state>
+			<latitude>273779</latitude>
+			<longitude>623509</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sari -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>338640</latitude>
+			<longitude>587465</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sari -- (State: (IR17))">
+			<state>(IR17)</state>
+			<latitude>365793</latitude>
+			<longitude>530701</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sari -- (State: (IR02))">
+			<state>(IR02)</state>
+			<latitude>394782</latitude>
+			<longitude>474782</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sari -- (State: Ardebil)">
+			<state>Ardebil</state>
+			<latitude>387832</latitude>
+			<longitude>476829</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sari -- (State: (IR27))">
+			<state>(IR27)</state>
+			<latitude>370115</latitude>
+			<longitude>484948</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saveh -- (State: (IR24))">
+			<state>(IR24)</state>
+			<latitude>350209</latitude>
+			<longitude>503848</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shahr-e Kord -- (State: Chahar Mahall va Bakhtiari)">
+			<state>Chahar Mahall va Bakhtiari</state>
+			<latitude>323371</latitude>
+			<longitude>508759</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shiraz">
+			<state></state>
+			<latitude>297615</latitude>
+			<longitude>530115</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shiraz -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>325618</latitude>
+			<longitude>530051</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shiraz -- (State: Fars)">
+			<state>Fars</state>
+			<latitude>296265</latitude>
+			<longitude>525498</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shiraz -- (State: Azarbayjan-e Gharbi)">
+			<state>Azarbayjan-e Gharbi</state>
+			<latitude>374418</latitude>
+			<longitude>459368</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazabad -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>342698</latitude>
+			<longitude>585204</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazak -- (State: (IR19))">
+			<state>(IR19)</state>
+			<latitude>362615</latitude>
+			<longitude>496948</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazan -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>333115</latitude>
+			<longitude>522615</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazi -- (State: Kermanshah)">
+			<state>Kermanshah</state>
+			<latitude>341201</latitude>
+			<longitude>474301</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazi -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>332984</latitude>
+			<longitude>512537</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazi -- (State: Kohgiluyeh va Buyer Ahmad)">
+			<state>Kohgiluyeh va Buyer Ahmad</state>
+			<latitude>307423</latitude>
+			<longitude>507407</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazi-ye Kordi -- (State: Kerman)">
+			<state>Kerman</state>
+			<latitude>277993</latitude>
+			<longitude>574187</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazi-ye Sofla -- (State: Kermanshah)">
+			<state>Kermanshah</state>
+			<latitude>341565</latitude>
+			<longitude>474037</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazi-ye Vosta -- (State: Kermanshah)">
+			<state>Kermanshah</state>
+			<latitude>341240</latitude>
+			<longitude>474351</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shirazil -- (State: Hamadan)">
+			<state>Hamadan</state>
+			<latitude>347332</latitude>
+			<longitude>482379</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tabriz -- (State: Azarbayjan-e Gharbi)">
+			<state>Azarbayjan-e Gharbi</state>
+			<latitude>380916</latitude>
+			<longitude>463035</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tabriz">
+			<state></state>
+			<latitude>380116</latitude>
+			<longitude>462616</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tabriz -- (State: (IR02))">
+			<state>(IR02)</state>
+			<latitude>381435</latitude>
+			<longitude>462519</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tabriz Jani -- (State: Azarbayjan-e Gharbi)">
+			<state>Azarbayjan-e Gharbi</state>
+			<latitude>381449</latitude>
+			<longitude>462449</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tabriz Kuchak -- (State: Kordestan)">
+			<state>Kordestan</state>
+			<latitude>358616</latitude>
+			<longitude>473116</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tabrizak -- (State: (IR27))">
+			<state>(IR27)</state>
+			<latitude>364616</latitude>
+			<longitude>478949</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tabrizaq -- (State: Ardebil)">
+			<state>Ardebil</state>
+			<latitude>377294</latitude>
+			<longitude>481655</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Teheran -- (State: Tehran)">
+			<state>Tehran</state>
+			<latitude>360116</latitude>
+			<longitude>515116</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tehran -- (State: Esfahan)">
+			<state>Esfahan</state>
+			<latitude>327152</latitude>
+			<longitude>511635</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tehran">
+			<state></state>
+			<latitude>350116</latitude>
+			<longitude>520116</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tehran -- (State: Hormozgan)">
+			<state>Hormozgan</state>
+			<latitude>274702</latitude>
+			<longitude>554872</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tehran Dasht -- (State: Tehran)">
+			<state>Tehran</state>
+			<latitude>359219</latitude>
+			<longitude>507819</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tehran Mehrabad International Airfield -- (State: Tehran)">
+			<state>Tehran</state>
+			<latitude>357008</latitude>
+			<longitude>513249</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tehran Pars -- (State: Tehran)">
+			<state>Tehran</state>
+			<latitude>357558</latitude>
+			<longitude>515455</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tehran Sar -- (State: Tehran)">
+			<state>Tehran</state>
+			<latitude>357116</latitude>
+			<longitude>512688</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torbat-e Jam -- (State: Khorasan)">
+			<state>Khorasan</state>
+			<latitude>352524</latitude>
+			<longitude>606335</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xalij-e Fars -- (State: Bushehr)">
+			<state>Bushehr</state>
+			<latitude>290120</latitude>
+			<longitude>515953</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xarman -- (State: Khuzestan)">
+			<state>Khuzestan</state>
+			<latitude>304620</latitude>
+			<longitude>481287</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xorangan -- (State: Fars)">
+			<state>Fars</state>
+			<latitude>288084</latitude>
+			<longitude>538242</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xuzestan -- (State: Khuzestan)">
+			<state>Khuzestan</state>
+			<latitude>310120</latitude>
+			<longitude>490120</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yazd">
+			<state></state>
+			<latitude>318682</latitude>
+			<longitude>543504</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zahedan">
+			<state></state>
+			<latitude>295122</latitude>
+			<longitude>602622</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zahedan -- (State: Fars)">
+			<state>Fars</state>
+			<latitude>287600</latitude>
+			<longitude>538136</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zahedan -- (State: Kerman)">
+			<state>Kerman</state>
+			<latitude>289139</latitude>
+			<longitude>578900</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zahedan -- (State: Sistan va Baluchestan)">
+			<state>Sistan va Baluchestan</state>
+			<latitude>295100</latitude>
+			<longitude>608850</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zahedan International Airport -- (State: Sistan va Baluchestan)">
+			<state>Sistan va Baluchestan</state>
+			<latitude>294911</latitude>
+			<longitude>609161</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanjan -- (State: (IR27))">
+			<state>(IR27)</state>
+			<latitude>366766</latitude>
+			<longitude>484978</longitude>
+			<timezone>350</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

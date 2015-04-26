@@ -1,0 +1,1643 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Armenia">
+		<city name="Ch iva -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>397771</latitude>
+			<longitude>451507</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalabi">
+			<state></state>
+			<latitude>408471</latitude>
+			<longitude>444510</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalidzor -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>404143</latitude>
+			<longitude>445752</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chamrlu -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>405432</latitude>
+			<longitude>444266</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chanakhch i">
+			<state></state>
+			<latitude>409363</latitude>
+			<longitude>446421</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changli -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400299</latitude>
+			<longitude>448463</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charbakh -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>401488</latitude>
+			<longitude>444602</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chikdamlu -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>399932</latitude>
+			<longitude>445099</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chirchir -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>405660</latitude>
+			<longitude>449210</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chokhkaldara">
+			<state></state>
+			<latitude>411099</latitude>
+			<longitude>438432</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chorlu -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>409599</latitude>
+			<longitude>439266</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chubuliki">
+			<state></state>
+			<latitude>406430</latitude>
+			<longitude>449621</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Echmiadzin -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401726</latitude>
+			<longitude>443523</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Echmiadzinskiy Kanal">
+			<state></state>
+			<latitude>401876</latitude>
+			<longitude>442868</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Efendi -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>408576</latitude>
+			<longitude>443268</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eghnajur">
+			<state></state>
+			<latitude>410993</latitude>
+			<longitude>435715</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ejmiatsni Shrjan -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401768</latitude>
+			<longitude>443434</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ek izler Lerrnagagat -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>411101</latitude>
+			<longitude>437601</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El pin-chay">
+			<state></state>
+			<latitude>397357</latitude>
+			<longitude>451970</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elagyoz Lerrnagagat">
+			<state></state>
+			<latitude>405359</latitude>
+			<longitude>442043</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elar -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>402793</latitude>
+			<longitude>446345</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ellar Oyugi">
+			<state></state>
+			<latitude>411229</latitude>
+			<longitude>436065</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elmalu -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>395762</latitude>
+			<longitude>453870</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elpin -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>398159</latitude>
+			<longitude>451204</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emar Lerr">
+			<state></state>
+			<latitude>408718</latitude>
+			<longitude>446484</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eranos Lerrnagagat">
+			<state></state>
+			<latitude>400890</latitude>
+			<longitude>446779</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eranosi Lerrnashght a">
+			<state></state>
+			<latitude>400601</latitude>
+			<longitude>447934</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erdapin -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>398690</latitude>
+			<longitude>453715</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erebuni -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>401498</latitude>
+			<longitude>445379</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eridzor -- (State: Tavush)">
+			<state>Tavush</state>
+			<latitude>408434</latitude>
+			<longitude>455434</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ertagin -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>397376</latitude>
+			<longitude>453398</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ertich -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>397507</latitude>
+			<longitude>452768</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eshakmeydan Lerrnashght a">
+			<state></state>
+			<latitude>406268</latitude>
+			<longitude>448768</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Evdzhilar -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>400529</latitude>
+			<longitude>441559</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Evlu -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>412098</latitude>
+			<longitude>443001</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eyrich ai">
+			<state></state>
+			<latitude>394970</latitude>
+			<longitude>460504</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farukh -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>405946</latitude>
+			<longitude>447635</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferik -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401966</latitude>
+			<longitude>442196</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferma Argyas -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>397927</latitude>
+			<longitude>454355</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fioletovo -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>407349</latitude>
+			<longitude>447241</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fontan -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>404044</latitude>
+			<longitude>446952</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Franganots -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>402566</latitude>
+			<longitude>442827</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadis Lerr -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>403232</latitude>
+			<longitude>447332</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haghardzin -- (State: Tavush)">
+			<state>Tavush</state>
+			<latitude>407885</latitude>
+			<longitude>449729</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haghartsin">
+			<state></state>
+			<latitude>407890</latitude>
+			<longitude>449310</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haght anak -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>401968</latitude>
+			<longitude>444343</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hajat in -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392143</latitude>
+			<longitude>461490</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hajibaj -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392604</latitude>
+			<longitude>460937</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakhpat -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>411054</latitude>
+			<longitude>447207</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakhumi Lerrnashght a -- (State: Tavush)">
+			<state>Tavush</state>
+			<latitude>408632</latitude>
+			<longitude>452754</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halab Lerr -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>408162</latitude>
+			<longitude>446426</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halab Lerrnagagat">
+			<state></state>
+			<latitude>407962</latitude>
+			<longitude>447360</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halaj -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392451</latitude>
+			<longitude>464418</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halavar -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>407804</latitude>
+			<longitude>443946</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halidzor -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>394207</latitude>
+			<longitude>463057</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamberd Lerr">
+			<state></state>
+			<latitude>404604</latitude>
+			<longitude>441937</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamgach iman -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>407485</latitude>
+			<longitude>446979</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanberd Berd -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>404001</latitude>
+			<longitude>442440</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hank avan -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>406546</latitude>
+			<longitude>444918</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harrich -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>406085</latitude>
+			<longitude>440179</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harsnasar Lerr">
+			<state></state>
+			<latitude>396235</latitude>
+			<longitude>452921</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hart agyugh -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>408460</latitude>
+			<longitude>440571</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hart ashen -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>394962</latitude>
+			<longitude>464301</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hart avan -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>404885</latitude>
+			<longitude>444110</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hartashen -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>410198</latitude>
+			<longitude>439332</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hatis -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>403510</latitude>
+			<longitude>447401</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hats avan -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>401482</latitude>
+			<longitude>446626</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hats ik -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>408579</latitude>
+			<longitude>438846</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayastan">
+			<state></state>
+			<latitude>400104</latitude>
+			<longitude>450104</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haykadzor">
+			<state></state>
+			<latitude>405482</latitude>
+			<longitude>436712</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haykashen -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>400832</latitude>
+			<longitude>443173</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayravank -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>404448</latitude>
+			<longitude>451073</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayrenyats -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>406432</latitude>
+			<longitude>438810</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayt agh -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401912</latitude>
+			<longitude>442401</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herher -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>397837</latitude>
+			<longitude>455490</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herher">
+			<state></state>
+			<latitude>409673</latitude>
+			<longitude>444532</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herheri Jrambar -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>397493</latitude>
+			<longitude>455568</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hesan Kand -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>398437</latitude>
+			<longitude>453121</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hin -- (State: Tavush)">
+			<state>Tavush</state>
+			<latitude>407512</latitude>
+			<longitude>448735</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hnaberd -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400162</latitude>
+			<longitude>445848</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoktember -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401465</latitude>
+			<longitude>440243</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoktemberyan -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401626</latitude>
+			<longitude>440412</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horadis -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>396315</latitude>
+			<longitude>453887</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horbategh -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>399051</latitude>
+			<longitude>453460</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horom">
+			<state></state>
+			<latitude>406646</latitude>
+			<longitude>438926</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hors -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>398729</latitude>
+			<longitude>452407</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hovtamej -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401940</latitude>
+			<longitude>442676</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hovtashat -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>401123</latitude>
+			<longitude>443532</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hovtashen -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400348</latitude>
+			<longitude>444604</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hovtun -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>409771</latitude>
+			<longitude>438271</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hrazdan -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>405121</latitude>
+			<longitude>447651</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hrazdani Jrambar -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>405215</latitude>
+			<longitude>447526</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hrazdani Shrjan -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>405104</latitude>
+			<longitude>446771</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hushakert -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>400915</latitude>
+			<longitude>439368</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibish">
+			<state></state>
+			<latitude>409938</latitude>
+			<longitude>436605</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igdalu -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>400511</latitude>
+			<longitude>440780</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijevan -- (State: Tavush)">
+			<state>Tavush</state>
+			<latitude>408861</latitude>
+			<longitude>451597</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijevani Lerrnashght a">
+			<state></state>
+			<latitude>408605</latitude>
+			<longitude>450272</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijevani Shrjan -- (State: Tavush)">
+			<state>Tavush</state>
+			<latitude>408438</latitude>
+			<longitude>450105</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilanchalan -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>404041</latitude>
+			<longitude>443919</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilanly -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>410572</latitude>
+			<longitude>437874</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilkhiabi -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>407105</latitude>
+			<longitude>439105</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Illi -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>409272</latitude>
+			<longitude>438272</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilmazlu -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>411516</latitude>
+			<longitude>441847</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imanshalu -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400305</latitude>
+			<longitude>445016</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Beriya -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>401952</latitude>
+			<longitude>444702</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Beriya -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401722</latitude>
+			<longitude>440988</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Kalinina -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400341</latitude>
+			<longitude>444349</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Kirova -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>399263</latitude>
+			<longitude>446108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Mikoyana -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>401863</latitude>
+			<longitude>440291</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Shaumyana -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>407988</latitude>
+			<longitude>445422</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Stalina -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>400605</latitude>
+			<longitude>439772</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Tairova -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>401938</latitude>
+			<longitude>444938</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Voroshilova -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>401747</latitude>
+			<longitude>439513</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imrlu -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>405852</latitude>
+			<longitude>444652</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inak dagh Lerrnagagat">
+			<state></state>
+			<latitude>402447</latitude>
+			<longitude>458844</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inakdag -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>402438</latitude>
+			<longitude>458605</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indzhevar -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392663</latitude>
+			<longitude>464499</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipakli -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>401191</latitude>
+			<longitude>444249</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irind -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>403938</latitude>
+			<longitude>439938</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isaakyan">
+			<state></state>
+			<latitude>406272</latitude>
+			<longitude>437358</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isharandi -- (State: Tavush)">
+			<state>Tavush</state>
+			<latitude>409249</latitude>
+			<longitude>450830</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ishkanasar -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>395705</latitude>
+			<longitude>460541</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itkran -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>395547</latitude>
+			<longitude>454272</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itsakar -- (State: Tavush)">
+			<state>Tavush</state>
+			<latitude>408772</latitude>
+			<longitude>453105</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaghats adzor -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>401573</latitude>
+			<longitude>458262</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jajur">
+			<state></state>
+			<latitude>408612</latitude>
+			<longitude>439587</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jajurri Lerrnants k">
+			<state></state>
+			<latitude>408703</latitude>
+			<longitude>440423</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamshlu -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>407012</latitude>
+			<longitude>442842</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamushli">
+			<state></state>
+			<latitude>406309</latitude>
+			<longitude>439867</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janfida -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>400562</latitude>
+			<longitude>440314</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jegward -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>403323</latitude>
+			<longitude>444920</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jibillu -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392606</latitude>
+			<longitude>465273</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jil -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>404650</latitude>
+			<longitude>454642</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiliza -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>412262</latitude>
+			<longitude>446809</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinli Lich">
+			<state></state>
+			<latitude>396006</latitude>
+			<longitude>462645</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joghazi Jrambar">
+			<state></state>
+			<latitude>410795</latitude>
+			<longitude>451381</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jomardlu -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>394300</latitude>
+			<longitude>459373</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jraber -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>403625</latitude>
+			<longitude>446556</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrahovit -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400559</latitude>
+			<longitude>444842</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrap i">
+			<state></state>
+			<latitude>405675</latitude>
+			<longitude>436934</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrarat -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>407567</latitude>
+			<longitude>440989</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrarat -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>400820</latitude>
+			<longitude>442737</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrarrat -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>405639</latitude>
+			<longitude>447681</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrashen">
+			<state></state>
+			<latitude>407981</latitude>
+			<longitude>442078</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrashen -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>400653</latitude>
+			<longitude>445239</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrband Lerrnants k -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>391281</latitude>
+			<longitude>461709</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrvezh -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>401962</latitude>
+			<longitude>445975</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jrvezh">
+			<state></state>
+			<latitude>401628</latitude>
+			<longitude>445103</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oganavan -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>403533</latitude>
+			<longitude>443975</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogrudzha -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>402922</latitude>
+			<longitude>457939</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogurbeklu -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>399944</latitude>
+			<longitude>445278</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ollag -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400892</latitude>
+			<longitude>447605</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oparts -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>409714</latitude>
+			<longitude>445053</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orgov -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>403444</latitude>
+			<longitude>442611</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortachia -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>407050</latitude>
+			<longitude>443678</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortakilisa">
+			<state></state>
+			<latitude>408642</latitude>
+			<longitude>438405</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ovtashen -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>406778</latitude>
+			<longitude>439111</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ozero Akna">
+			<state></state>
+			<latitude>402975</latitude>
+			<longitude>449297</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ozero Togmaganlich">
+			<state></state>
+			<latitude>401694</latitude>
+			<longitude>449211</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qacaran -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>391624</latitude>
+			<longitude>461713</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qafan -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392124</latitude>
+			<longitude>464263</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qaragol">
+			<state></state>
+			<latitude>396002</latitude>
+			<longitude>462480</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qayabasi -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>401944</latitude>
+			<longitude>458369</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qizilqach -- (State: Shirak)">
+			<state>Shirak</state>
+			<latitude>410488</latitude>
+			<longitude>438694</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qusabulaq -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>401680</latitude>
+			<longitude>458124</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uch t ap alari Dasht">
+			<state></state>
+			<latitude>403006</latitude>
+			<longitude>444953</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uch t apalar Lerrnagagat">
+			<state></state>
+			<latitude>411284</latitude>
+			<longitude>434617</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uch t ep e -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>394781</latitude>
+			<longitude>462600</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uckilise -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401845</latitude>
+			<longitude>443042</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udzhan -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>403139</latitude>
+			<longitude>442173</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ughedzor -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>396986</latitude>
+			<longitude>456911</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukhtuakunk">
+			<state></state>
+			<latitude>400784</latitude>
+			<longitude>448784</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uliya Sarvanlar -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400703</latitude>
+			<longitude>443981</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulukhanlu">
+			<state></state>
+			<latitude>400617</latitude>
+			<longitude>444284</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulukhanlu -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400789</latitude>
+			<longitude>444478</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unut -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392617</latitude>
+			<longitude>463950</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urasar -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>410270</latitude>
+			<longitude>442917</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urasar Lerr">
+			<state></state>
+			<latitude>409898</latitude>
+			<longitude>441314</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urrut -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>410828</latitude>
+			<longitude>444086</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urts adzor -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>399242</latitude>
+			<longitude>448292</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urtsalanj -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>398648</latitude>
+			<longitude>449967</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urtsi Argelavayr -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>401139</latitude>
+			<longitude>447036</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urtsi Lerr -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>398178</latitude>
+			<longitude>449181</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urtsi Lerrnashght a">
+			<state></state>
+			<latitude>398284</latitude>
+			<longitude>448617</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urut -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>395003</latitude>
+			<longitude>461531</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urut">
+			<state></state>
+			<latitude>410181</latitude>
+			<longitude>444439</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ushi -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>403653</latitude>
+			<longitude>443803</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utkum -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392114</latitude>
+			<longitude>464367</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uz -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>395284</latitude>
+			<longitude>460617</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzhanis -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392473</latitude>
+			<longitude>465536</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzunlar -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>410656</latitude>
+			<longitude>446231</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzunoba -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>400725</latitude>
+			<longitude>441070</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzuntala -- (State: Tavush)">
+			<state>Tavush</state>
+			<latitude>409861</latitude>
+			<longitude>452636</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanadzor -- (State: Lorri)">
+			<state>Lorri</state>
+			<latitude>408246</latitude>
+			<longitude>445001</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wedi Tschei">
+			<state></state>
+			<latitude>398283</latitude>
+			<longitude>446422</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xalac -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>392137</latitude>
+			<longitude>464748</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerevan">
+			<state></state>
+			<latitude>401377</latitude>
+			<longitude>444768</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerevan -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>401932</latitude>
+			<longitude>445257</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerevan Parakar">
+			<state></state>
+			<latitude>401646</latitude>
+			<longitude>444143</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerevanyan Lich -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>401718</latitude>
+			<longitude>444899</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaimka Kara-Gamzu">
+			<state></state>
+			<latitude>410366</latitude>
+			<longitude>449322</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zakhmat -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401380</latitude>
+			<longitude>444153</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaliv Artanishskiy -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>404819</latitude>
+			<longitude>453875</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanga">
+			<state></state>
+			<latitude>399811</latitude>
+			<longitude>444872</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zangakatun -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>398216</latitude>
+			<longitude>450633</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarindzha -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>404789</latitude>
+			<longitude>437955</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarishat">
+			<state></state>
+			<latitude>410139</latitude>
+			<longitude>436716</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarishat Lerrnazangvats">
+			<state></state>
+			<latitude>411622</latitude>
+			<longitude>435622</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaritap -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>396494</latitude>
+			<longitude>455208</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarr -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>402733</latitude>
+			<longitude>447483</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zart onk -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401214</latitude>
+			<longitude>441728</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarzibil -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>401930</latitude>
+			<longitude>459139</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zay-chay">
+			<state></state>
+			<latitude>394866</latitude>
+			<longitude>460066</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeyta -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>396941</latitude>
+			<longitude>454039</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeytun -- (State: Yerevan*)">
+			<state>Yerevan*</state>
+			<latitude>402158</latitude>
+			<longitude>445553</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeyva -- (State: Armavir)">
+			<state>Armavir</state>
+			<latitude>401419</latitude>
+			<longitude>442366</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeyva -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>393303</latitude>
+			<longitude>465075</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhani Kabakhlu -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>398794</latitude>
+			<longitude>454841</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziaret Lerrnagagat">
+			<state></state>
+			<latitude>405558</latitude>
+			<longitude>440947</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zimovka Sirgak -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>391653</latitude>
+			<longitude>463639</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zirak -- (State: Vayots Dzor)">
+			<state>Vayots Dzor</state>
+			<latitude>398305</latitude>
+			<longitude>457228</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Znjrrlu Lerrnashght a">
+			<state></state>
+			<latitude>405803</latitude>
+			<longitude>445353</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zod -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>402153</latitude>
+			<longitude>458769</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zograblu -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400408</latitude>
+			<longitude>445708</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zolak ar -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>401372</latitude>
+			<longitude>453872</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorakert">
+			<state></state>
+			<latitude>411050</latitude>
+			<longitude>436719</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zovaber -- (State: Syunik)">
+			<state>Syunik</state>
+			<latitude>394455</latitude>
+			<longitude>462455</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zovaber -- (State: Geghark unik)">
+			<state>Geghark unik</state>
+			<latitude>405858</latitude>
+			<longitude>447986</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zovasar -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>404866</latitude>
+			<longitude>439622</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zovashen -- (State: Ararat)">
+			<state>Ararat</state>
+			<latitude>400836</latitude>
+			<longitude>445728</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zovk -- (State: Kotayk)">
+			<state>Kotayk</state>
+			<latitude>402183</latitude>
+			<longitude>447058</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zovuni -- (State: Aragatsotn)">
+			<state>Aragatsotn</state>
+			<latitude>402486</latitude>
+			<longitude>445161</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuygaghbyur">
+			<state></state>
+			<latitude>410333</latitude>
+			<longitude>439158</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

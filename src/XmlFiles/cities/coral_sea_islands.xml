@@ -1,0 +1,551 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Coral Sea Islands">
+		<city name="Abington Reef">
+			<state></state>
+			<latitude>-179903</latitude>
+			<longitude>1497597</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anchorage Bay">
+			<state></state>
+			<latitude>-209861</latitude>
+			<longitude>1543833</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banc Diane">
+			<state></state>
+			<latitude>-158235</latitude>
+			<longitude>1496765</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bird Islet">
+			<state></state>
+			<latitude>-221569</latitude>
+			<longitude>1554765</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bougainville Reef">
+			<state></state>
+			<latitude>-154902</latitude>
+			<longitude>1471098</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brodie Cay">
+			<state></state>
+			<latitude>-192774</latitude>
+			<longitude>1522237</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carola Cays">
+			<state></state>
+			<latitude>-190868</latitude>
+			<longitude>1524016</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cato Bank">
+			<state></state>
+			<latitude>-232234</latitude>
+			<longitude>1555432</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cato Reef">
+			<state></state>
+			<latitude>-232401</latitude>
+			<longitude>1555432</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chilcott Islet">
+			<state></state>
+			<latitude>-169234</latitude>
+			<longitude>1500099</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cod Reef">
+			<state></state>
+			<latitude>-176984</latitude>
+			<longitude>1484182</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coral Sea Islands">
+			<state></state>
+			<latitude>-174901</latitude>
+			<longitude>1510099</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coringa Islets">
+			<state></state>
+			<latitude>-169568</latitude>
+			<longitude>1499766</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danger Patch">
+			<state></state>
+			<latitude>-232192</latitude>
+			<longitude>1556183</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danger Ridge">
+			<state></state>
+			<latitude>-209817</latitude>
+			<longitude>1543600</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dart Reef">
+			<state></state>
+			<latitude>-174067</latitude>
+			<longitude>1481933</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diamond Islets">
+			<state></state>
+			<latitude>-174067</latitude>
+			<longitude>1509767</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diamond Passage">
+			<state></state>
+			<latitude>-175483</latitude>
+			<longitude>1511850</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Diamond Islet">
+			<state></state>
+			<latitude>-174316</latitude>
+			<longitude>1510851</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Ribbon Reef">
+			<state></state>
+			<latitude>-176399</latitude>
+			<longitude>1485934</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastern Projection">
+			<state></state>
+			<latitude>-212482</latitude>
+			<longitude>1558337</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elizabeth Reef">
+			<state></state>
+			<latitude>-299316</latitude>
+			<longitude>1590726</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entrance Reef">
+			<state></state>
+			<latitude>-178191</latitude>
+			<longitude>1484268</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="False Bight">
+			<state></state>
+			<latitude>-294240</latitude>
+			<longitude>1591255</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flinders Reef">
+			<state></state>
+			<latitude>-176065</latitude>
+			<longitude>1485269</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flora Reef">
+			<state></state>
+			<latitude>-167398</latitude>
+			<longitude>1477435</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herald Cays">
+			<state></state>
+			<latitude>-169563</latitude>
+			<longitude>1491604</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herald Haven">
+			<state></state>
+			<latitude>-294479</latitude>
+			<longitude>1590882</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herald Passage">
+			<state></state>
+			<latitude>-173729</latitude>
+			<longitude>1519737</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herald s Surprise">
+			<state></state>
+			<latitude>-173146</latitude>
+			<longitude>1484687</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hermit Crab Islet">
+			<state></state>
+			<latitude>-174063</latitude>
+			<longitude>1518837</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Holmes Reef">
+			<state></state>
+			<latitude>-164396</latitude>
+			<longitude>1480104</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horseshoe Lagoon">
+			<state></state>
+			<latitude>-178229</latitude>
+			<longitude>1484687</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horseshoe Reef">
+			<state></state>
+			<latitude>-178729</latitude>
+			<longitude>1485271</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hutchison Rock">
+			<state></state>
+			<latitude>-232396</latitude>
+			<longitude>1555937</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenn Reefs">
+			<state></state>
+			<latitude>-211893</latitude>
+			<longitude>1557774</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lick Lick Cay">
+			<state></state>
+			<latitude>-172392</latitude>
+			<longitude>1521775</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lihou Reefs">
+			<state></state>
+			<latitude>-174059</latitude>
+			<longitude>1516775</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Long Reef">
+			<state></state>
+			<latitude>-193225</latitude>
+			<longitude>1525108</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Magdalena Cays">
+			<state></state>
+			<latitude>-165391</latitude>
+			<longitude>1503109</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Main Cay Reef">
+			<state></state>
+			<latitude>-177058</latitude>
+			<longitude>1484776</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malay Rock">
+			<state></state>
+			<latitude>-179558</latitude>
+			<longitude>1493442</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mellish Reef">
+			<state></state>
+			<latitude>-174058</latitude>
+			<longitude>1558442</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Middle Cay">
+			<state></state>
+			<latitude>-171074</latitude>
+			<longitude>1520642</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Middle Islet">
+			<state></state>
+			<latitude>-162224</latitude>
+			<longitude>1500442</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moore Reefs">
+			<state></state>
+			<latitude>-159891</latitude>
+			<longitude>1492609</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Cay">
+			<state></state>
+			<latitude>-161223</latitude>
+			<longitude>1500443</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North East Cay">
+			<state></state>
+			<latitude>-216473</latitude>
+			<longitude>1537777</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Flinders Reefs">
+			<state></state>
+			<latitude>-175723</latitude>
+			<longitude>1484610</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Horn">
+			<state></state>
+			<latitude>-137390</latitude>
+			<longitude>1466777</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Passage">
+			<state></state>
+			<latitude>-161890</latitude>
+			<longitude>1500443</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Reef Extreme">
+			<state></state>
+			<latitude>-209109</latitude>
+			<longitude>1544077</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North-east Horn">
+			<state></state>
+			<latitude>-294323</latitude>
+			<longitude>1591129</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Observation Cay">
+			<state></state>
+			<latitude>-210097</latitude>
+			<longitude>1543853</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Observatory Cay">
+			<state></state>
+			<latitude>-212522</latitude>
+			<longitude>1558083</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paget Cay">
+			<state></state>
+			<latitude>-192444</latitude>
+			<longitude>1523579</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapid Horn">
+			<state></state>
+			<latitude>-139053</latitude>
+			<longitude>1466781</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ridge Rock">
+			<state></state>
+			<latitude>-209636</latitude>
+			<longitude>1543564</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rif Frederik">
+			<state></state>
+			<latitude>-209553</latitude>
+			<longitude>1543947</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rif Marion">
+			<state></state>
+			<latitude>-191553</latitude>
+			<longitude>1522947</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rif Midlton">
+			<state></state>
+			<latitude>-294608</latitude>
+			<longitude>1591308</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rif Ospri">
+			<state></state>
+			<latitude>-139053</latitude>
+			<longitude>1466447</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sand Cay">
+			<state></state>
+			<latitude>-157385</latitude>
+			<longitude>1495948</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saumarez Reef">
+			<state></state>
+			<latitude>-218218</latitude>
+			<longitude>1536782</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shark Reef">
+			<state></state>
+			<latitude>-141218</latitude>
+			<longitude>1468115</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Diamond Islet">
+			<state></state>
+			<latitude>-176468</latitude>
+			<longitude>1518385</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South East Elbow">
+			<state></state>
+			<latitude>-219085</latitude>
+			<longitude>1536184</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Passage">
+			<state></state>
+			<latitude>-162552</latitude>
+			<longitude>1500282</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Sound">
+			<state></state>
+			<latitude>-294398</latitude>
+			<longitude>1591033</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toe Reef">
+			<state></state>
+			<latitude>-176912</latitude>
+			<longitude>1485283</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tregrosse Islets">
+			<state></state>
+			<latitude>-176717</latitude>
+			<longitude>1507283</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tregrosse Reefs">
+			<state></state>
+			<latitude>-176551</latitude>
+			<longitude>1506783</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turtle Island">
+			<state></state>
+			<latitude>-171051</latitude>
+			<longitude>1520152</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wansfell Reefs">
+			<state></state>
+			<latitude>-192214</latitude>
+			<longitude>1522008</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Islet">
+			<state></state>
+			<latitude>-221714</latitude>
+			<longitude>1551786</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willis Islets">
+			<state></state>
+			<latitude>-162881</latitude>
+			<longitude>1500119</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wreck Reef">
+			<state></state>
+			<latitude>-222048</latitude>
+			<longitude>1552952</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zenobia Rock">
+			<state></state>
+			<latitude>-217311</latitude>
+			<longitude>1535489</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

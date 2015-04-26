@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Cayman Islands">
+		<city name="Ally Land">
+			<state></state>
+			<latitude>193430</latitude>
+			<longitude>-811070</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bamboo Bay">
+			<state></state>
+			<latitude>197265</latitude>
+			<longitude>-797902</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cayman Islands">
+			<state></state>
+			<latitude>195099</latitude>
+			<longitude>-806568</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duck Pond Bight">
+			<state></state>
+			<latitude>193100</latitude>
+			<longitude>-812900</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="George Town">
+			<state></state>
+			<latitude>193103</latitude>
+			<longitude>-813730</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juniper Bay">
+			<state></state>
+			<latitude>197106</latitude>
+			<longitude>-797894</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Little Cayman">
+			<state></state>
+			<latitude>196608</latitude>
+			<longitude>-802392</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Crawl">
+			<state></state>
+			<latitude>193444</latitude>
+			<longitude>-811889</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seven Mile Beach">
+			<state></state>
+			<latitude>193615</latitude>
+			<longitude>-813718</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Narrows">
+			<state></state>
+			<latitude>196949</latitude>
+			<longitude>-799551</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vidal Cay">
+			<state></state>
+			<latitude>193951</latitude>
+			<longitude>-813382</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Bay">
+			<state></state>
+			<latitude>193619</latitude>
+			<longitude>-813881</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

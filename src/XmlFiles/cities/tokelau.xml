@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Tokelau">
+		<city name="Afua">
+			<state></state>
+			<latitude>-93736</latitude>
+			<longitude>-1712403</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atafu">
+			<state></state>
+			<latitude>-85236</latitude>
+			<longitude>-1725070</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atafu Atoll">
+			<state></state>
+			<latitude>-85403</latitude>
+			<longitude>-1724903</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fakaafo">
+			<state></state>
+			<latitude>-93565</latitude>
+			<longitude>-1712231</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fenua Fala">
+			<state></state>
+			<latitude>-93565</latitude>
+			<longitude>-1712565</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matangi Island">
+			<state></state>
+			<latitude>-93391</latitude>
+			<longitude>-1711724</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mawtu">
+			<state></state>
+			<latitude>-94224</latitude>
+			<longitude>-1711891</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motuloa">
+			<state></state>
+			<latitude>-93558</latitude>
+			<longitude>-1711891</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motunangea">
+			<state></state>
+			<latitude>-93724</latitude>
+			<longitude>-1711891</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mulifonua">
+			<state></state>
+			<latitude>-93224</latitude>
+			<longitude>-1712058</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North West Island">
+			<state></state>
+			<latitude>-91057</latitude>
+			<longitude>-1719223</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nukulakia">
+			<state></state>
+			<latitude>-94057</latitude>
+			<longitude>-1712057</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nukunono">
+			<state></state>
+			<latitude>-91890</latitude>
+			<longitude>-1718890</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pangai">
+			<state></state>
+			<latitude>-93888</latitude>
+			<longitude>-1711888</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Patalinga">
+			<state></state>
+			<latitude>-93888</latitude>
+			<longitude>-1712221</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Polynesia">
+			<state></state>
+			<latitude>-99888</latitude>
+			<longitude>-1499888</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saumatafanga">
+			<state></state>
+			<latitude>-94052</latitude>
+			<longitude>-1711885</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Savaika">
+			<state></state>
+			<latitude>-93218</latitude>
+			<longitude>-1711885</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South East Island">
+			<state></state>
+			<latitude>-92052</latitude>
+			<longitude>-1718218</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teafua">
+			<state></state>
+			<latitude>-93717</latitude>
+			<longitude>-1712551</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union Islands">
+			<state></state>
+			<latitude>-89883</latitude>
+			<longitude>-1717383</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

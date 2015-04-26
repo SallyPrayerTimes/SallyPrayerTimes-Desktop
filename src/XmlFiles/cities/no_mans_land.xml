@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="No Mans Land">
+		<city name="Ash Shaykh Sulayman">
+			<state></state>
+			<latitude>318764</latitude>
+			<longitude>350430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bi r Mazzah">
+			<state></state>
+			<latitude>318431</latitude>
+			<longitude>350431</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bir et Tina">
+			<state></state>
+			<latitude>318431</latitude>
+			<longitude>350098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bir Khatula">
+			<state></state>
+			<latitude>318265</latitude>
+			<longitude>350265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deir Aiyub">
+			<state></state>
+			<latitude>318433</latitude>
+			<longitude>350267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Demilitarized Zone">
+			<state></state>
+			<latitude>318433</latitude>
+			<longitude>349767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Manatir">
+			<state></state>
+			<latitude>318601</latitude>
+			<longitude>350768</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khirbat Baradah">
+			<state></state>
+			<latitude>318774</latitude>
+			<longitude>350274</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khirbat Dayr Nahlah">
+			<state></state>
+			<latitude>318774</latitude>
+			<longitude>349940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khirbat Kureikur">
+			<state></state>
+			<latitude>319274</latitude>
+			<longitude>350440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khirbat Sabhah">
+			<state></state>
+			<latitude>317607</latitude>
+			<longitude>352440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khirbat Shibli">
+			<state></state>
+			<latitude>318607</latitude>
+			<longitude>350607</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khirbat Umm Rujman">
+			<state></state>
+			<latitude>318940</latitude>
+			<longitude>350440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montefiore">
+			<state></state>
+			<latitude>317942</latitude>
+			<longitude>352109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanhedriya">
+			<state></state>
+			<latitude>318115</latitude>
+			<longitude>352282</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Talpiot">
+			<state></state>
+			<latitude>317616</latitude>
+			<longitude>352283</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadi ar Rababi">
+			<state></state>
+			<latitude>317786</latitude>
+			<longitude>352452</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

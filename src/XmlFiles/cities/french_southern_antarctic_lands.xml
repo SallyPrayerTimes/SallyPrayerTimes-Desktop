@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="French Southern Antarctic Lands">
+		<city name="Abbot Islet">
+			<state></state>
+			<latitude>-491070</latitude>
+			<longitude>700597</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abri Saint-Francois">
+			<state></state>
+			<latitude>-496070</latitude>
+			<longitude>702597</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="D Entrecasteaux Head">
+			<state></state>
+			<latitude>-378400</latitude>
+			<longitude>774933</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang de la Decharge">
+			<state></state>
+			<latitude>-493399</latitude>
+			<longitude>702268</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="French Antarctica">
+			<state></state>
+			<latitude>-429898</latitude>
+			<longitude>670102</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacotte">
+			<state></state>
+			<latitude>-493394</latitude>
+			<longitude>702106</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neve de la Lune">
+			<state></state>
+			<latitude>-491557</latitude>
+			<longitude>690610</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Swains Bay">
+			<state></state>
+			<latitude>-496052</latitude>
+			<longitude>697115</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val Daniele">
+			<state></state>
+			<latitude>-492382</latitude>
+			<longitude>693118</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

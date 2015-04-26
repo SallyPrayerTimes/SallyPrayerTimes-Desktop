@@ -1,0 +1,446 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Latvia">
+		<city name="Cesis -- (State: Cesu Rajons)">
+			<state>Cesu Rajons</state>
+			<latitude>573432</latitude>
+			<longitude>253432</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fabriciuss -- (State: Cesu Rajons)">
+			<state>Cesu Rajons</state>
+			<latitude>571935</latitude>
+			<longitude>250602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fabriki -- (State: Balvu Rajons)">
+			<state>Balvu Rajons</state>
+			<latitude>570935</latitude>
+			<longitude>276435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falcgrave">
+			<state></state>
+			<latitude>566102</latitude>
+			<longitude>235435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fedorki -- (State: Ludzas Rajons)">
+			<state>Ludzas Rajons</state>
+			<latitude>564769</latitude>
+			<longitude>281602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Feimanka -- (State: Preilu Rajons)">
+			<state>Preilu Rajons</state>
+			<latitude>563435</latitude>
+			<longitude>263602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Feimanu Ezers">
+			<state></state>
+			<latitude>562769</latitude>
+			<longitude>270102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Feimanu Muiza -- (State: Rezeknes Rajons)">
+			<state>Rezeknes Rajons</state>
+			<latitude>562769</latitude>
+			<longitude>270602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ferma -- (State: Kraslavas Rajons)">
+			<state>Kraslavas Rajons</state>
+			<latitude>560269</latitude>
+			<longitude>276102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fiki -- (State: Aluksnes Rajons)">
+			<state>Aluksnes Rajons</state>
+			<latitude>575435</latitude>
+			<longitude>274769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Filkas -- (State: Jekabpils Rajons)">
+			<state>Jekabpils Rajons</state>
+			<latitude>564102</latitude>
+			<longitude>259602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fogelholm -- (State: Riga)">
+			<state>Riga</state>
+			<latitude>570055</latitude>
+			<longitude>241091</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fol vark Kenge -- (State: Valkas Rajons)">
+			<state>Valkas Rajons</state>
+			<latitude>573269</latitude>
+			<longitude>260935</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fol vark Kozary -- (State: Rezeknes Rajons)">
+			<state>Rezeknes Rajons</state>
+			<latitude>566935</latitude>
+			<longitude>270435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fol vark Matuli -- (State: Rezeknes Rajons)">
+			<state>Rezeknes Rajons</state>
+			<latitude>563102</latitude>
+			<longitude>276602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fol vark Murvmuyzha -- (State: Aizkraukles Rajons)">
+			<state>Aizkraukles Rajons</state>
+			<latitude>564602</latitude>
+			<longitude>249269</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Folmani -- (State: Talsu Rajons)">
+			<state>Talsu Rajons</state>
+			<latitude>576769</latitude>
+			<longitude>224769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Folvarcisi -- (State: Daugavpils Rajons)">
+			<state>Daugavpils Rajons</state>
+			<latitude>560769</latitude>
+			<longitude>263769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Folvarka -- (State: Rezeknes Rajons)">
+			<state>Rezeknes Rajons</state>
+			<latitude>563602</latitude>
+			<longitude>274935</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Folvaroka -- (State: Kraslavas Rajons)">
+			<state>Kraslavas Rajons</state>
+			<latitude>561435</latitude>
+			<longitude>271602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Forsteja -- (State: Balvu Rajons)">
+			<state>Balvu Rajons</state>
+			<latitude>570435</latitude>
+			<longitude>271935</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Franapole -- (State: Ludzas Rajons)">
+			<state>Ludzas Rajons</state>
+			<latitude>565769</latitude>
+			<longitude>278102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Franci Pusmuizas Centrs -- (State: Saldus Rajons)">
+			<state>Saldus Rajons</state>
+			<latitude>565102</latitude>
+			<longitude>222602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Franciskopole -- (State: Aluksnes Rajons)">
+			<state>Aluksnes Rajons</state>
+			<latitude>573602</latitude>
+			<longitude>275102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Franksesava">
+			<state></state>
+			<latitude>565733</latitude>
+			<longitude>238855</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Franopoles Ezers -- (State: Ludzas Rajons)">
+			<state>Ludzas Rajons</state>
+			<latitude>565769</latitude>
+			<longitude>277935</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frauenburg -- (State: Saldus Rajons)">
+			<state>Saldus Rajons</state>
+			<latitude>566769</latitude>
+			<longitude>225102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Freydberd i -- (State: Ventspils Rajons)">
+			<state>Ventspils Rajons</state>
+			<latitude>572769</latitude>
+			<longitude>216602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fridrihmuiza -- (State: Madonas Rajons)">
+			<state>Madonas Rajons</state>
+			<latitude>572435</latitude>
+			<longitude>229102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Friki -- (State: Saldus Rajons)">
+			<state>Saldus Rajons</state>
+			<latitude>564269</latitude>
+			<longitude>225435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hainasch -- (State: Limbazu Rajons)">
+			<state>Limbazu Rajons</state>
+			<latitude>578740</latitude>
+			<longitude>243682</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hatki -- (State: Rezeknes Rajons)">
+			<state>Rezeknes Rajons</state>
+			<latitude>564271</latitude>
+			<longitude>269771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hazenpot -- (State: Liepajas Rajons)">
+			<state>Liepajas Rajons</state>
+			<latitude>567271</latitude>
+			<longitude>216104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Henkhuzens -- (State: Kuldigas Rajons)">
+			<state>Kuldigas Rajons</state>
+			<latitude>567771</latitude>
+			<longitude>221937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hercogi">
+			<state></state>
+			<latitude>567171</latitude>
+			<longitude>237246</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoftenberga -- (State: Daugavpils Rajons)">
+			<state>Daugavpils Rajons</state>
+			<latitude>559104</latitude>
+			<longitude>266771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horoseva -- (State: Ludzas Rajons)">
+			<state>Ludzas Rajons</state>
+			<latitude>563437</latitude>
+			<longitude>282104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hunnings Berg -- (State: Tukuma Rajons)">
+			<state>Tukuma Rajons</state>
+			<latitude>570104</latitude>
+			<longitude>232187</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jekabpils -- (State: Jekabpils Rajons)">
+			<state>Jekabpils Rajons</state>
+			<latitude>564939</latitude>
+			<longitude>258606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jurmala">
+			<state></state>
+			<latitude>569714</latitude>
+			<longitude>237606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liepaja">
+			<state></state>
+			<latitude>565275</latitude>
+			<longitude>210275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liepaja East -- (State: Liepajas Rajons)">
+			<state>Liepajas Rajons</state>
+			<latitude>565275</latitude>
+			<longitude>211108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liepaja Lake">
+			<state></state>
+			<latitude>564608</latitude>
+			<longitude>210608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liepajas Rajons">
+			<state></state>
+			<latitude>565108</latitude>
+			<longitude>214275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ogre">
+			<state></state>
+			<latitude>568222</latitude>
+			<longitude>246142</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rezekne">
+			<state></state>
+			<latitude>565281</latitude>
+			<longitude>273447</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Riga">
+			<state></state>
+			<latitude>570114</latitude>
+			<longitude>240947</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Riga Central -- (State: Riga)">
+			<state>Riga</state>
+			<latitude>569947</latitude>
+			<longitude>240947</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Riga Rumbula -- (State: Riga)">
+			<state>Riga</state>
+			<latitude>568947</latitude>
+			<longitude>242281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Riga West -- (State: Rigas Rajons)">
+			<state>Rigas Rajons</state>
+			<latitude>569281</latitude>
+			<longitude>239781</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rigas Rajons">
+			<state></state>
+			<latitude>570114</latitude>
+			<longitude>243447</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rigas Udenskratuve">
+			<state></state>
+			<latitude>568503</latitude>
+			<longitude>243781</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ventspils">
+			<state></state>
+			<latitude>574012</latitude>
+			<longitude>215724</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ventspils Otrais -- (State: Ventspils Rajons)">
+			<state>Ventspils Rajons</state>
+			<latitude>573962</latitude>
+			<longitude>216821</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ventspils South -- (State: Ventspils Rajons)">
+			<state>Ventspils Rajons</state>
+			<latitude>573785</latitude>
+			<longitude>215618</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ventspilsskiy Rayon -- (State: Ventspils Rajons)">
+			<state>Ventspils Rajons</state>
+			<latitude>573451</latitude>
+			<longitude>218451</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warklany -- (State: Madonas Rajons)">
+			<state>Madonas Rajons</state>
+			<latitude>566286</latitude>
+			<longitude>267452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weleny -- (State: Rezeknes Rajons)">
+			<state>Rezeknes Rajons</state>
+			<latitude>565619</latitude>
+			<longitude>269619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wenden -- (State: Cesu Rajons)">
+			<state>Cesu Rajons</state>
+			<latitude>573119</latitude>
+			<longitude>252619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Western Dvina">
+			<state></state>
+			<latitude>570736</latitude>
+			<longitude>240425</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windau Harbor -- (State: Ventspils)">
+			<state>Ventspils</state>
+			<latitude>574127</latitude>
+			<longitude>215513</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windau River">
+			<state></state>
+			<latitude>574069</latitude>
+			<longitude>215575</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wolmar -- (State: Valmieras Rajons)">
+			<state>Valmieras Rajons</state>
+			<latitude>575619</latitude>
+			<longitude>254119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

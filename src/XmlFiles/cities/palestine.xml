@@ -1,0 +1,908 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Palestine">
+		<city name="Abasan al Kabir">
+			<state></state>
+			<latitude>313330</latitude>
+			<longitude>343558</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abwein">
+			<state></state>
+			<latitude>320466</latitude>
+			<longitude>352122</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ajjur -- (State: HaDarom)">
+			<state>HaDarom</state>
+			<latitude>317930</latitude>
+			<longitude>346764</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Akka -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>329333</latitude>
+			<longitude>350825</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ara -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>324983</latitude>
+			<longitude>351233</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Araba -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>328583</latitude>
+			<longitude>353455</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arrabah">
+			<state></state>
+			<latitude>324147</latitude>
+			<longitude>352116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="As Salihiya -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>331764</latitude>
+			<longitude>356264</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Asira ash Shamaliya">
+			<state></state>
+			<latitude>322597</latitude>
+			<longitude>352764</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bal`a">
+			<state></state>
+			<latitude>323417</latitude>
+			<longitude>351167</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baqa el Gharbiya -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>324231</latitude>
+			<longitude>350548</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bat Yam -- (State: Tel Aviv)">
+			<state>Tel Aviv</state>
+			<latitude>320329</latitude>
+			<longitude>347601</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beersheba -- (State: HaDarom)">
+			<state>HaDarom</state>
+			<latitude>312431</latitude>
+			<longitude>347931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beit Hanina">
+			<state></state>
+			<latitude>318431</latitude>
+			<longitude>352098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beit Lehem Hagelilit -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>327437</latitude>
+			<longitude>351984</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beit Shean -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>325098</latitude>
+			<longitude>355098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bethlehem">
+			<state></state>
+			<latitude>317265</latitude>
+			<longitude>352098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bethlehem-Waldheim -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>327392</latitude>
+			<longitude>351804</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bir Zeit">
+			<state></state>
+			<latitude>319765</latitude>
+			<longitude>352098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Caesarea -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>324932</latitude>
+			<longitude>348932</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Camp Tel Litwinsky -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>320638</latitude>
+			<longitude>348580</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cape Carmel -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>328432</latitude>
+			<longitude>349766</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carmelus -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>327385</latitude>
+			<longitude>350566</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carmiel -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>329271</latitude>
+			<longitude>353141</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Castellum -- (State: HaDarom)">
+			<state>HaDarom</state>
+			<latitude>318099</latitude>
+			<longitude>351599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Castrum Novum -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>332266</latitude>
+			<longitude>355599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cedron">
+			<state></state>
+			<latitude>316766</latitude>
+			<longitude>354599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cheikh Nattah -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>330432</latitude>
+			<longitude>355266</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chelomi -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>330766</latitude>
+			<longitude>351099</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chivta -- (State: HaDarom)">
+			<state>HaDarom</state>
+			<latitude>308932</latitude>
+			<longitude>346432</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Choumra -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>330930</latitude>
+			<longitude>352943</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Colonia -- (State: Yerushalayim)">
+			<state>Yerushalayim</state>
+			<latitude>318099</latitude>
+			<longitude>351766</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corozain -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>329099</latitude>
+			<longitude>355766</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crocodile River -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>325485</latitude>
+			<longitude>349093</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dabburiya -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>327058</latitude>
+			<longitude>353822</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deir Dibwan">
+			<state></state>
+			<latitude>319267</latitude>
+			<longitude>352767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deir el Assad -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>329433</latitude>
+			<longitude>352767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dhahiriya">
+			<state></state>
+			<latitude>314267</latitude>
+			<longitude>349767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dura">
+			<state></state>
+			<latitude>315100</latitude>
+			<longitude>350433</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elat -- (State: HaDarom)">
+			<state>HaDarom</state>
+			<latitude>295934</latitude>
+			<longitude>349268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fa ra">
+			<state></state>
+			<latitude>323102</latitude>
+			<longitude>353602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falah -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>327102</latitude>
+			<longitude>349435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fardis Nabulsi -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>323102</latitude>
+			<longitude>349602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farsh -- (State: HaDarom)">
+			<state>HaDarom</state>
+			<latitude>309935</latitude>
+			<longitude>353435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fash-shat ed Darwish -- (State: HaDarom)">
+			<state>HaDarom</state>
+			<latitude>312158</latitude>
+			<longitude>353796</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fawwar Camp">
+			<state></state>
+			<latitude>314935</latitude>
+			<longitude>350769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fazir -- (State: HaDarom)">
+			<state>HaDarom</state>
+			<latitude>310269</latitude>
+			<longitude>345102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Furaydis -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>326102</latitude>
+			<longitude>349602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gaza">
+			<state></state>
+			<latitude>315103</latitude>
+			<longitude>344770</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gaza Strip">
+			<state></state>
+			<latitude>314270</latitude>
+			<longitude>343436</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haifa -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>328260</latitude>
+			<longitude>349996</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haifa Bay Area -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>328668</latitude>
+			<longitude>350801</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haifa District -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>325937</latitude>
+			<longitude>350104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haifa Harbor -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>328271</latitude>
+			<longitude>350104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haifa Sub-district -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>328437</latitude>
+			<longitude>350104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hebron">
+			<state></state>
+			<latitude>315437</latitude>
+			<longitude>351104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holon -- (State: Tel Aviv)">
+			<state>Tel Aviv</state>
+			<latitude>320218</latitude>
+			<longitude>347826</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iksal -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>326891</latitude>
+			<longitude>353327</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jabalia">
+			<state></state>
+			<latitude>315439</latitude>
+			<longitude>345106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jabaliya">
+			<state></state>
+			<latitude>315439</latitude>
+			<longitude>344939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaljulia">
+			<state></state>
+			<latitude>318606</latitude>
+			<longitude>354939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jamma`in">
+			<state></state>
+			<latitude>321409</latitude>
+			<longitude>352103</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jatt -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>324089</latitude>
+			<longitude>350503</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jatt -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>329828</latitude>
+			<longitude>352434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jenin">
+			<state></state>
+			<latitude>324670</latitude>
+			<longitude>353064</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jenin Muquibila">
+			<state></state>
+			<latitude>325106</latitude>
+			<longitude>352939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jericho">
+			<state></state>
+			<latitude>318773</latitude>
+			<longitude>354606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jerusalem Airport">
+			<state></state>
+			<latitude>318773</latitude>
+			<longitude>352273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jerusalem Corridor -- (State: Yerushalayim)">
+			<state>Yerushalayim</state>
+			<latitude>317773</latitude>
+			<longitude>351773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jerusalem Region -- (State: Yerushalayim)">
+			<state>Yerushalayim</state>
+			<latitude>317606</latitude>
+			<longitude>350106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kababir -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>328107</latitude>
+			<longitude>349774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kafer-Kama -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>327274</latitude>
+			<longitude>354524</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kafr Kanna -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>327607</latitude>
+			<longitude>353524</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kafr Manda -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>328179</latitude>
+			<longitude>352710</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kafr Qari` -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>325124</latitude>
+			<longitude>350876</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaukab Abu el Hija -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>328440</latitude>
+			<longitude>352607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khan Younes">
+			<state></state>
+			<latitude>313546</latitude>
+			<longitude>343132</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khan Younis camp">
+			<state></state>
+			<latitude>313607</latitude>
+			<longitude>343274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kufr Qasim -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>321249</latitude>
+			<longitude>349846</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lavi -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>327980</latitude>
+			<longitude>354525</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lod -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>319622</latitude>
+			<longitude>349061</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Misilya">
+			<state></state>
+			<latitude>323942</latitude>
+			<longitude>352942</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mqeible -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>325276</latitude>
+			<longitude>353053</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mughr Habayil Salman">
+			<state></state>
+			<latitude>322109</latitude>
+			<longitude>351776</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Musmus -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>325506</latitude>
+			<longitude>351673</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nablus">
+			<state></state>
+			<latitude>322321</latitude>
+			<longitude>352654</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nazareth -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>327146</latitude>
+			<longitude>353066</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nazareth Illit -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>327207</latitude>
+			<longitude>353402</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisanit">
+			<state></state>
+			<latitude>315610</latitude>
+			<longitude>345277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Or `Aqiva -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>325183</latitude>
+			<longitude>349286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orah -- (State: Yerushalayim)">
+			<state>Yerushalayim</state>
+			<latitude>317611</latitude>
+			<longitude>351611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otni el">
+			<state></state>
+			<latitude>314444</latitude>
+			<longitude>350278</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qabatiya">
+			<state></state>
+			<latitude>324199</latitude>
+			<longitude>352913</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qalansuwa -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>322960</latitude>
+			<longitude>349910</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qalqiliya">
+			<state></state>
+			<latitude>321977</latitude>
+			<longitude>349744</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qiryat Ata -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>328119</latitude>
+			<longitude>351177</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rafah">
+			<state></state>
+			<latitude>312956</latitude>
+			<longitude>342622</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rafah Yam">
+			<state></state>
+			<latitude>313114</latitude>
+			<longitude>342281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ram Allah">
+			<state></state>
+			<latitude>319114</latitude>
+			<longitude>352114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ramla -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>319367</latitude>
+			<longitude>348783</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ramla Sub-district -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>319281</latitude>
+			<longitude>349281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ramlah Bet -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>319175</latitude>
+			<longitude>348845</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Romeima Quarter -- (State: Yerushalayim)">
+			<state>Yerushalayim</state>
+			<latitude>318114</latitude>
+			<longitude>352114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sakhnin -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>328737</latitude>
+			<longitude>353048</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salfit">
+			<state></state>
+			<latitude>320923</latitude>
+			<longitude>351876</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sammu`i -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>329698</latitude>
+			<longitude>354698</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shafa `Amr -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>328146</latitude>
+			<longitude>351809</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Silwad">
+			<state></state>
+			<latitude>319948</latitude>
+			<longitude>352782</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sir">
+			<state></state>
+			<latitude>323782</latitude>
+			<longitude>353282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sulam -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>326198</latitude>
+			<longitude>353448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taiyibah -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>326116</latitude>
+			<longitude>354616</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tammun">
+			<state></state>
+			<latitude>322941</latitude>
+			<longitude>353952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tamra -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>328602</latitude>
+			<longitude>352163</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taybah -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>322763</latitude>
+			<longitude>350197</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tel Aviv">
+			<state></state>
+			<latitude>320783</latitude>
+			<longitude>347783</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tel Aviv-Yafo -- (State: Tel Aviv)">
+			<state>Tel Aviv</state>
+			<latitude>320794</latitude>
+			<longitude>347763</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tira -- (State: HaMerkaz)">
+			<state>HaMerkaz</state>
+			<latitude>322444</latitude>
+			<longitude>349619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tuba -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>329816</latitude>
+			<longitude>356119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tulkarem">
+			<state></state>
+			<latitude>323283</latitude>
+			<longitude>350449</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tulkarm">
+			<state></state>
+			<latitude>323224</latitude>
+			<longitude>350374</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tur`an -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>327855</latitude>
+			<longitude>353810</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umm al Fahm -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>325275</latitude>
+			<longitude>351642</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valley of Kidron">
+			<state></state>
+			<latitude>317785</latitude>
+			<longitude>352451</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vardiya -- (State: Hefa)">
+			<state>Hefa</state>
+			<latitude>328118</latitude>
+			<longitude>350118</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vered Yeriho">
+			<state></state>
+			<latitude>318285</latitude>
+			<longitude>354451</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villa Melchett -- (State: HaZafon)">
+			<state>HaZafon</state>
+			<latitude>328451</latitude>
+			<longitude>355285</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Bank">
+			<state></state>
+			<latitude>316786</latitude>
+			<longitude>352619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yatta">
+			<state></state>
+			<latitude>314621</latitude>
+			<longitude>350954</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yerushalayim">
+			<state></state>
+			<latitude>317954</latitude>
+			<longitude>351954</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

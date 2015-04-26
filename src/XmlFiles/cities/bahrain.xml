@@ -1,0 +1,1538 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bahrain">
+		<city name="Al Hadd">
+			<state></state>
+			<latitude>262430</latitude>
+			<longitude>506597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Hajar -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262208</latitude>
+			<longitude>505236</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ali -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>261716</latitude>
+			<longitude>505261</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ar Rifa -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261397</latitude>
+			<longitude>505647</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arad -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262658</latitude>
+			<longitude>506419</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bahrain -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>260098</latitude>
+			<longitude>505598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bahrain">
+			<state></state>
+			<latitude>260098</latitude>
+			<longitude>505098</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bahrain International Airport -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262826</latitude>
+			<longitude>506362</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandar ad Dar -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261454</latitude>
+			<longitude>506448</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandar Jasra -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261598</latitude>
+			<longitude>504431</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandar Karzakkan -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261098</latitude>
+			<longitude>504765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandar Nakhlah -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>256431</latitude>
+			<longitude>507731</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandar Sadad -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260931</latitude>
+			<longitude>504765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bani Jamrah -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262195</latitude>
+			<longitude>504695</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barbar -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262392</latitude>
+			<longitude>504906</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barbura -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261431</latitude>
+			<longitude>505931</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Basatin -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262792</latitude>
+			<longitude>506176</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bid`ah -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262351</latitude>
+			<longitude>505470</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bilad al Qadim -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262215</latitude>
+			<longitude>505717</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bilad al `Arab">
+			<state></state>
+			<latitude>250098</latitude>
+			<longitude>450098</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bu Quwah -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262145</latitude>
+			<longitude>505298</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bu `Ashirah -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262176</latitude>
+			<longitude>505870</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Budaiya -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262229</latitude>
+			<longitude>504598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buri -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>261612</latitude>
+			<longitude>505073</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Busdad Island -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>256351</latitude>
+			<longitude>507867</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Central Region -- (State: Al Mintaqah al Wusta)">
+			<state>Al Mintaqah al Wusta</state>
+			<latitude>261932</latitude>
+			<longitude>505266</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dair -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262942</latitude>
+			<longitude>506336</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dar al Manadil -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>259886</latitude>
+			<longitude>506250</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dar Kulaib -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260786</latitude>
+			<longitude>505139</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dawhat al Budayyi` -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262214</latitude>
+			<longitude>504472</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dawhat al Farisiyah -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261042</latitude>
+			<longitude>506397</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dawhat al Mamtalah -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>259111</latitude>
+			<longitude>505281</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dawhat al Qudaybiyah -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>262325</latitude>
+			<longitude>506142</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dawhat Salwa -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>255600</latitude>
+			<longitude>506236</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dil` ar Rifa` -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>260956</latitude>
+			<longitude>505272</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dil` Salman Bin Du`ayj -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261594</latitude>
+			<longitude>504939</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diraz -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262281</latitude>
+			<longitude>504806</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djannusan -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262406</latitude>
+			<longitude>505047</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djaww -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>260086</latitude>
+			<longitude>506267</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djezira Hawar">
+			<state></state>
+			<latitude>256653</latitude>
+			<longitude>507594</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djezira Rubadh -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>257608</latitude>
+			<longitude>507917</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djezire Nabi Sali -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>261911</latitude>
+			<longitude>505947</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djida -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262042</latitude>
+			<longitude>504117</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djidd Hafs -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262286</latitude>
+			<longitude>505578</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dumistan -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261364</latitude>
+			<longitude>504911</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Hayiya Island -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>257101</latitude>
+			<longitude>508101</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht ad Dubal -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262766</latitude>
+			<longitude>509646</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht Adham -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>260435</latitude>
+			<longitude>507269</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht al Hadba -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262935</latitude>
+			<longitude>505935</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht al Jarim -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>264891</latitude>
+			<longitude>505244</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht Bartufi -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262452</latitude>
+			<longitude>504702</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht Bu Thawr -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>258102</latitude>
+			<longitude>507769</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht Rustan -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262821</latitude>
+			<longitude>505808</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghuraifah -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>262181</latitude>
+			<longitude>506128</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gulf of Bahrayn">
+			<state></state>
+			<latitude>257525</latitude>
+			<longitude>506628</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadd ad Dib -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>255665</latitude>
+			<longitude>508135</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadd al Bahrayn -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>258082</latitude>
+			<longitude>505771</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadd al Jamal -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>258612</latitude>
+			<longitude>506182</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hafirah -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>260079</latitude>
+			<longitude>505979</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hair al Adhalah -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>265760</latitude>
+			<longitude>505176</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halat -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261771</latitude>
+			<longitude>506271</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halat Abu Mahur -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262548</latitude>
+			<longitude>506296</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halat al-Salata -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262532</latitude>
+			<longitude>506490</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halat Nun -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>257857</latitude>
+			<longitude>506087</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamad Town -- (State: Ar Rifa` wa al Mintaqah al Janubiyah)">
+			<state>Ar Rifa` wa al Mintaqah al Janubiyah</state>
+			<latitude>261257</latitude>
+			<longitude>505173</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamala -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261537</latitude>
+			<longitude>504698</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamala Camp -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261604</latitude>
+			<longitude>504937</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harta -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262104</latitude>
+			<longitude>505937</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayr ar Ruq`ah">
+			<state></state>
+			<latitude>263282</latitude>
+			<longitude>503604</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayr Shutaya -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>265757</latitude>
+			<longitude>507876</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hillah -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262318</latitude>
+			<longitude>505271</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horat Unqa -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260398</latitude>
+			<longitude>505129</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hujair -- (State: Al Mintaqah al Wusta)">
+			<state>Al Mintaqah al Wusta</state>
+			<latitude>261937</latitude>
+			<longitude>505604</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikur -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261536</latitude>
+			<longitude>506208</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inner Harbour -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262605</latitude>
+			<longitude>505772</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isa Town -- (State: Madinat `Isa)">
+			<state>Madinat `Isa</state>
+			<latitude>261772</latitude>
+			<longitude>505605</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janabiya -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262006</latitude>
+			<longitude>504784</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jidhafs -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262273</latitude>
+			<longitude>505439</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jufair -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262212</latitude>
+			<longitude>506223</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurdab -- (State: Madinat `Isa)">
+			<state>Madinat `Isa</state>
+			<latitude>261800</latitude>
+			<longitude>505859</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaflan -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>261940</latitude>
+			<longitude>505940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalaia Rock -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>264274</latitude>
+			<longitude>505274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karanah -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262399</latitude>
+			<longitude>505201</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karbabad -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262410</latitude>
+			<longitude>505401</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karrzakkan -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261263</latitude>
+			<longitude>504926</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawkab al `Akr -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261554</latitude>
+			<longitude>506174</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawkab Rayya -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>263107</latitude>
+			<longitude>506274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawkab Salih -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>261740</latitude>
+			<longitude>505993</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawkab Samahij -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262940</latitude>
+			<longitude>506607</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawkab Umm as Sawali -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262332</latitude>
+			<longitude>506793</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawrah -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>261940</latitude>
+			<longitude>505774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khadhra -- (State: Al Mintaqah al Wusta)">
+			<state>Al Mintaqah al Wusta</state>
+			<latitude>261907</latitude>
+			<longitude>505218</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kharijiyah -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261743</latitude>
+			<longitude>506154</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khasaifa Island -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>263026</latitude>
+			<longitude>506332</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khawr al Bab -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>264104</latitude>
+			<longitude>504351</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khawr Fasht -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>263421</latitude>
+			<longitude>504196</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khor Kaliya">
+			<state></state>
+			<latitude>262196</latitude>
+			<longitude>506496</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khor Lupin">
+			<state></state>
+			<latitude>262054</latitude>
+			<longitude>505824</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khor Magta Tubli">
+			<state></state>
+			<latitude>262107</latitude>
+			<longitude>505774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khulaffat -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262607</latitude>
+			<longitude>506440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khusaifa -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>263399</latitude>
+			<longitude>505815</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khuwais -- (State: Al Mintaqah al Wusta)">
+			<state>Al Mintaqah al Wusta</state>
+			<latitude>261774</latitude>
+			<longitude>505107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kubait -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262107</latitude>
+			<longitude>505274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuraiya -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262079</latitude>
+			<longitude>504735</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuriya -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261829</latitude>
+			<longitude>506213</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liya -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262714</latitude>
+			<longitude>505272</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ma amir -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261442</latitude>
+			<longitude>506195</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madinat Hamad -- (State: Ar Rifa` wa al Mintaqah al Janubiyah)">
+			<state>Ar Rifa` wa al Mintaqah al Janubiyah</state>
+			<latitude>261442</latitude>
+			<longitude>505109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Magsha -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262306</latitude>
+			<longitude>505340</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahazwarat Island -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>256776</latitude>
+			<longitude>507942</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahazzah -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261803</latitude>
+			<longitude>506370</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahuz -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262231</latitude>
+			<longitude>505998</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makaba -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262217</latitude>
+			<longitude>504984</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makhruq -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261109</latitude>
+			<longitude>505942</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malikiyah -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261090</latitude>
+			<longitude>504976</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mamlahat al Mamtalah -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>259562</latitude>
+			<longitude>505070</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manama -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262470</latitude>
+			<longitude>505940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manama Harbour -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262481</latitude>
+			<longitude>505787</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manamah Bay -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262598</latitude>
+			<longitude>505620</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mani -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262276</latitude>
+			<longitude>505609</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Markh -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262212</latitude>
+			<longitude>504842</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marquban -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261751</latitude>
+			<longitude>506292</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marwadi -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>263278</latitude>
+			<longitude>504559</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marwazan -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262323</latitude>
+			<longitude>505548</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mina al Manamah -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262470</latitude>
+			<longitude>505834</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mina Sulman -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262276</latitude>
+			<longitude>506109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mintaqat Juzur Hawar">
+			<state></state>
+			<latitude>256578</latitude>
+			<longitude>507873</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moj -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260295</latitude>
+			<longitude>504831</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muharraq -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262609</latitude>
+			<longitude>506276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muharraq Bay -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262745</latitude>
+			<longitude>506384</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muharraq Island -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262823</latitude>
+			<longitude>506412</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muharraq Town -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262681</latitude>
+			<longitude>506228</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muhazza -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261781</latitude>
+			<longitude>506384</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Musalla -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262231</latitude>
+			<longitude>505481</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mutallah -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>259351</latitude>
+			<longitude>505303</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muwailaha -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262176</latitude>
+			<longitude>505698</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Na aija -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262443</latitude>
+			<longitude>504443</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naim -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262499</latitude>
+			<longitude>506463</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakhl Budayyi`at Ghazal -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260610</latitude>
+			<longitude>505110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northern Region -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262277</latitude>
+			<longitude>504943</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nur Juruft -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262443</latitude>
+			<longitude>505110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuwaidirat -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261457</latitude>
+			<longitude>506085</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oil City -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>260955</latitude>
+			<longitude>505617</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outer Harbour -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262944</latitude>
+			<longitude>505444</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qadam -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262269</latitude>
+			<longitude>505305</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal at al Farangi -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262446</latitude>
+			<longitude>505280</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qalali -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262846</latitude>
+			<longitude>506616</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal`at Abu Mahir -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262527</latitude>
+			<longitude>506249</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal`at al Buqayshi -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260780</latitude>
+			<longitude>504946</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal`at Shaykh Khalid -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261780</latitude>
+			<longitude>506113</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal`at `Arad -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262638</latitude>
+			<longitude>506382</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qariya -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261941</latitude>
+			<longitude>505949</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarn Ibrahim -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>259255</latitude>
+			<longitude>505641</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qassar Abu Shahin -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262463</latitude>
+			<longitude>506794</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qassar al Qulay`ah -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>261963</latitude>
+			<longitude>506635</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qassar Diwan -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>261938</latitude>
+			<longitude>506749</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qassar Jurdi -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262952</latitude>
+			<longitude>506735</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qassar Nun -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>257999</latitude>
+			<longitude>506144</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qassar `Isa Bin Sayf al Binali -- (State: Madinat `Isa)">
+			<state>Madinat `Isa</state>
+			<latitude>261946</latitude>
+			<longitude>506113</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qit`at ash Shajarah">
+			<state></state>
+			<latitude>260413</latitude>
+			<longitude>509002</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qit`at Jaradah">
+			<state></state>
+			<latitude>262013</latitude>
+			<longitude>509088</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qurayn adh Dhirban -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>259477</latitude>
+			<longitude>506141</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rifaa Al Gharbi -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261442</latitude>
+			<longitude>505317</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rifa` ash Shamal -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261489</latitude>
+			<longitude>505625</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rifa`a Ash Sharqi -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261353</latitude>
+			<longitude>505850</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saafra Race Course -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261282</latitude>
+			<longitude>505615</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sadad -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260943</latitude>
+			<longitude>505012</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Safiah -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261165</latitude>
+			<longitude>505501</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sahlat al Fuqiyah -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262171</latitude>
+			<longitude>505421</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sahlat al Hadriyah -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262132</latitude>
+			<longitude>505473</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sajah -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262782</latitude>
+			<longitude>505948</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sakharah -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260982</latitude>
+			<longitude>505140</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sakhir -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>260740</latitude>
+			<longitude>505387</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sala -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262773</latitude>
+			<longitude>504496</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salba -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261282</latitude>
+			<longitude>506282</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salmabad -- (State: Al Mintaqah al Wusta)">
+			<state>Al Mintaqah al Wusta</state>
+			<latitude>261946</latitude>
+			<longitude>505362</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samahidj -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262915</latitude>
+			<longitude>506465</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanabis -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262387</latitude>
+			<longitude>505623</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanad -- (State: Al Mintaqah al Wusta)">
+			<state>Al Mintaqah al Wusta</state>
+			<latitude>261618</latitude>
+			<longitude>505934</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sar -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262057</latitude>
+			<longitude>504934</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saya -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262821</latitude>
+			<longitude>506032</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shahrakkan -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260868</latitude>
+			<longitude>505129</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shakhura -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262262</latitude>
+			<longitude>505184</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharaibah -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262615</latitude>
+			<longitude>504782</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sitra -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261615</latitude>
+			<longitude>506282</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sitrah Anchorage -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261559</latitude>
+			<longitude>506534</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sowad Shamaliya -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>256862</latitude>
+			<longitude>508215</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sowad South Island -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>256540</latitude>
+			<longitude>508112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sufala -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261743</latitude>
+			<longitude>506371</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashshan -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262230</latitude>
+			<longitude>505577</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thalb -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>259116</latitude>
+			<longitude>507283</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thalib">
+			<state></state>
+			<latitude>259216</latitude>
+			<longitude>507097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tubli -- (State: Al Mintaqah al Wusta)">
+			<state>Al Mintaqah al Wusta</state>
+			<latitude>261985</latitude>
+			<longitude>505610</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tylos -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>260019</latitude>
+			<longitude>505624</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Um al-Baidh -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261284</latitude>
+			<longitude>506450</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Um el Shajar -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262406</latitude>
+			<longitude>506675</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al Hassam -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262142</latitude>
+			<longitude>506036</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm ash Shahin -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262400</latitude>
+			<longitude>506675</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Ghuwaifa -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261284</latitude>
+			<longitude>505450</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Jidr -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>260228</latitude>
+			<longitude>505378</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Jidr as Summan -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>259045</latitude>
+			<longitude>505767</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Kharurah -- (State: Mintaqat Juzur Hawar)">
+			<state>Mintaqat Juzur Hawar</state>
+			<latitude>256745</latitude>
+			<longitude>507861</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Nasan Island -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261614</latitude>
+			<longitude>504117</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Saban -- (State: Al Mintaqah ash Shamaliyah)">
+			<state>Al Mintaqah ash Shamaliyah</state>
+			<latitude>262111</latitude>
+			<longitude>504478</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Shiyara -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262331</latitude>
+			<longitude>506684</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Yadar -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>259139</latitude>
+			<longitude>505859</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm `Abd Allah -- (State: Al Mintaqah al Wusta)">
+			<state>Al Mintaqah al Wusta</state>
+			<latitude>261617</latitude>
+			<longitude>505950</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Virgins Pool -- (State: Jidd Hafs)">
+			<state>Jidd Hafs</state>
+			<latitude>262118</latitude>
+			<longitude>505618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadiyan -- (State: Sitrah)">
+			<state>Sitrah</state>
+			<latitude>261711</latitude>
+			<longitude>506230</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasmiya -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260330</latitude>
+			<longitude>504869</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Rifa Camp -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>261286</latitude>
+			<longitude>505952</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Spit -- (State: Al Muharraq)">
+			<state>Al Muharraq</state>
+			<latitude>262980</latitude>
+			<longitude>505400</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Western Region -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>261286</latitude>
+			<longitude>504952</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabberi Rock -- (State: (BA07))">
+			<state>(BA07)</state>
+			<latitude>258949</latitude>
+			<longitude>506568</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zalaqat as Sufun -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262564</latitude>
+			<longitude>506141</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zallaq -- (State: Al Mintaqah al Gharbiyah)">
+			<state>Al Mintaqah al Gharbiyah</state>
+			<latitude>260597</latitude>
+			<longitude>504986</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zimma -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262675</latitude>
+			<longitude>506591</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zimna Bay -- (State: Al Hadd)">
+			<state>Al Hadd</state>
+			<latitude>262489</latitude>
+			<longitude>506558</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zinj -- (State: Al Manamah)">
+			<state>Al Manamah</state>
+			<latitude>262275</latitude>
+			<longitude>505764</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

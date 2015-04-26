@@ -1,0 +1,635 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Cuba">
+		<city name="1 de Enero -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>219549</latitude>
+			<longitude>-784284</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="1 de Mayo -- (State: Cienfuegos)">
+			<state>Cienfuegos</state>
+			<latitude>223549</latitude>
+			<longitude>-807784</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="2 da Palma -- (State: Cienfuegos)">
+			<state>Cienfuegos</state>
+			<latitude>222217</latitude>
+			<longitude>-802617</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="2 de Mayo -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>227383</latitude>
+			<longitude>-817450</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="3 Hermanos -- (State: Camaguey)">
+			<state>Camaguey</state>
+			<latitude>215218</latitude>
+			<longitude>-774782</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="4 Catalino -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>230219</latitude>
+			<longitude>-826115</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Camaguey -- (State: Cienfuegos)">
+			<state>Cienfuegos</state>
+			<latitude>221266</latitude>
+			<longitude>-805568</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Camaguey -- (State: Santiago de Cuba)">
+			<state>Santiago de Cuba</state>
+			<latitude>203099</latitude>
+			<longitude>-760401</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Camaguey -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>223766</latitude>
+			<longitude>-792568</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Camaguey -- (State: Villa Clara)">
+			<state>Villa Clara</state>
+			<latitude>225766</latitude>
+			<longitude>-804401</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Camaguey">
+			<state></state>
+			<latitude>210932</latitude>
+			<longitude>-777568</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guantanamo">
+			<state></state>
+			<latitude>201556</latitude>
+			<longitude>-751958</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guantanamo Bay -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>200136</latitude>
+			<longitude>-751230</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guantanamo Bay Naval Airstation -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>199103</latitude>
+			<longitude>-751897</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="H. Casimba -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>202271</latitude>
+			<longitude>-741729</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="H. La Asuncion -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>202104</latitude>
+			<longitude>-741729</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="H. Molina -- (State: Matanzas)">
+			<state>Matanzas</state>
+			<latitude>229604</latitude>
+			<longitude>-806229</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Havana -- (State: Ciudad de La Habana)">
+			<state>Ciudad de La Habana</state>
+			<latitude>231423</latitude>
+			<longitude>-823538</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Havana Province -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>227604</latitude>
+			<longitude>-821563</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holguin">
+			<state></state>
+			<latitude>207937</latitude>
+			<longitude>-764729</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kabal o-Dos -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>217801</latitude>
+			<longitude>-788037</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kacayo Breton -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>211279</latitude>
+			<longitude>-794151</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaguasal -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>218701</latitude>
+			<longitude>-788454</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kamalote -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>218332</latitude>
+			<longitude>-788035</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kampo-Atuey -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>219326</latitude>
+			<longitude>-789804</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kangalito -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>219982</latitude>
+			<longitude>-787971</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kastil o -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>216749</latitude>
+			<longitude>-789179</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kentucky -- (State: Santiago de Cuba)">
+			<state>Santiago de Cuba</state>
+			<latitude>200274</latitude>
+			<longitude>-755893</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kessel -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>227940</latitude>
+			<longitude>-828393</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilo Nueve -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>223196</latitude>
+			<longitude>-787882</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilometro 45 -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>202440</latitude>
+			<longitude>-752893</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kimamura -- (State: Pinar del Rio)">
+			<state>Pinar del Rio</state>
+			<latitude>224940</latitude>
+			<longitude>-834226</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kindelan -- (State: Camaguey)">
+			<state>Camaguey</state>
+			<latitude>218774</latitude>
+			<longitude>-779560</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirichi -- (State: Camaguey)">
+			<state>Camaguey</state>
+			<latitude>216951</latitude>
+			<longitude>-782985</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kittery Beach -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>199121</latitude>
+			<longitude>-750785</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kohly -- (State: Ciudad de La Habana)">
+			<state>Ciudad de La Habana</state>
+			<latitude>231199</latitude>
+			<longitude>-824001</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kosalia Soto -- (State: Santiago de Cuba)">
+			<state>Santiago de Cuba</state>
+			<latitude>200607</latitude>
+			<longitude>-755060</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krusero-Pitakhones -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>217288</latitude>
+			<longitude>-788021</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kubi -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>229274</latitude>
+			<longitude>-824393</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Habana">
+			<state></state>
+			<latitude>231441</latitude>
+			<longitude>-820059</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Habana -- (State: Camaguey)">
+			<state>Camaguey</state>
+			<latitude>213722</latitude>
+			<longitude>-783253</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Matanzas -- (State: Pinar del Rio)">
+			<state>Pinar del Rio</state>
+			<latitude>226776</latitude>
+			<longitude>-835391</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Matanzas -- (State: Holguin)">
+			<state>Holguin</state>
+			<latitude>210942</latitude>
+			<longitude>-758891</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Matanzas">
+			<state></state>
+			<latitude>230276</latitude>
+			<longitude>-815224</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Matanzas Terminal -- (State: Matanzas)">
+			<state>Matanzas</state>
+			<latitude>230776</latitude>
+			<longitude>-815224</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uberal -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>200784</latitude>
+			<longitude>-752550</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ugarte -- (State: Villa Clara)">
+			<state>Villa Clara</state>
+			<latitude>224617</latitude>
+			<longitude>-799716</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulacia -- (State: Villa Clara)">
+			<state>Villa Clara</state>
+			<latitude>226842</latitude>
+			<longitude>-801900</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulises -- (State: Camaguey)">
+			<state>Camaguey</state>
+			<latitude>212117</latitude>
+			<longitude>-776050</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ullao -- (State: Santiago de Cuba)">
+			<state>Santiago de Cuba</state>
+			<latitude>201867</latitude>
+			<longitude>-758033</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulloa -- (State: Cienfuegos)">
+			<state>Cienfuegos</state>
+			<latitude>224450</latitude>
+			<longitude>-803216</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulpiano Fuentes -- (State: Cienfuegos)">
+			<state>Cienfuegos</state>
+			<latitude>222450</latitude>
+			<longitude>-803883</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unas -- (State: Holguin)">
+			<state>Holguin</state>
+			<latitude>210223</latitude>
+			<longitude>-763061</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unidad Proletaria -- (State: Villa Clara)">
+			<state>Villa Clara</state>
+			<latitude>226950</latitude>
+			<longitude>-800050</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unitas -- (State: Holguin)">
+			<state>Holguin</state>
+			<latitude>210531</latitude>
+			<longitude>-762983</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unzueta -- (State: Matanzas)">
+			<state>Matanzas</state>
+			<latitude>228339</latitude>
+			<longitude>-810605</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urabo -- (State: Camaguey)">
+			<state>Camaguey</state>
+			<latitude>215950</latitude>
+			<longitude>-781550</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urbano Noris -- (State: Holguin)">
+			<state>Holguin</state>
+			<latitude>206117</latitude>
+			<longitude>-761216</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uriarte -- (State: Villa Clara)">
+			<state>Villa Clara</state>
+			<latitude>227950</latitude>
+			<longitude>-800550</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uribi -- (State: Cienfuegos)">
+			<state>Cienfuegos</state>
+			<latitude>220450</latitude>
+			<longitude>-803716</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urrechaga Grendier -- (State: Matanzas)">
+			<state>Matanzas</state>
+			<latitude>228784</latitude>
+			<longitude>-814383</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urrutia -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>228784</latitude>
+			<longitude>-823383</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urrutia -- (State: Villa Clara)">
+			<state>Villa Clara</state>
+			<latitude>223284</latitude>
+			<longitude>-795216</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urzurico -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>228950</latitude>
+			<longitude>-824216</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Usabiaga -- (State: Cienfuegos)">
+			<state>Cienfuegos</state>
+			<latitude>223950</latitude>
+			<longitude>-807883</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uvero -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>229117</latitude>
+			<longitude>-825383</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uvero -- (State: Villa Clara)">
+			<state>Villa Clara</state>
+			<latitude>228706</latitude>
+			<longitude>-799166</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uvero -- (State: Santiago de Cuba)">
+			<state>Santiago de Cuba</state>
+			<latitude>199659</latitude>
+			<longitude>-765944</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uvilla -- (State: Holguin)">
+			<state>Holguin</state>
+			<latitude>210411</latitude>
+			<longitude>-758344</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varadero -- (State: Matanzas)">
+			<state>Matanzas</state>
+			<latitude>231451</latitude>
+			<longitude>-812882</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varadero Beach -- (State: Matanzas)">
+			<state>Matanzas</state>
+			<latitude>231618</latitude>
+			<longitude>-812549</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waganes -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>227786</latitude>
+			<longitude>-820881</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wajay -- (State: Ciudad de La Habana)">
+			<state>Ciudad de La Habana</state>
+			<latitude>230152</latitude>
+			<longitude>-824109</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wajay -- (State: Matanzas)">
+			<state>Matanzas</state>
+			<latitude>228513</latitude>
+			<longitude>-816620</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waldo Diaz -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>228563</latitude>
+			<longitude>-804881</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walfrido -- (State: Camaguey)">
+			<state>Camaguey</state>
+			<latitude>214786</latitude>
+			<longitude>-778548</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warren -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>217452</latitude>
+			<longitude>-787048</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Webster -- (State: Matanzas)">
+			<state>Matanzas</state>
+			<latitude>229336</latitude>
+			<longitude>-813175</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wencenslao Alonzo -- (State: Camaguey)">
+			<state>Camaguey</state>
+			<latitude>215952</latitude>
+			<longitude>-785548</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wenceslao -- (State: Ciego de Avila)">
+			<state>Ciego de Avila</state>
+			<latitude>216286</latitude>
+			<longitude>-785881</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilfredo Pages -- (State: Villa Clara)">
+			<state>Villa Clara</state>
+			<latitude>225452</latitude>
+			<longitude>-800048</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="William Soler -- (State: Matanzas)">
+			<state>Matanzas</state>
+			<latitude>226619</latitude>
+			<longitude>-811214</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windmill Beach -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>199091</latitude>
+			<longitude>-750956</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windward Passage">
+			<state></state>
+			<latitude>200119</latitude>
+			<longitude>-738214</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windward Point -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>200286</latitude>
+			<longitude>-748381</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wireless Inlet -- (State: Guantanamo)">
+			<state>Guantanamo</state>
+			<latitude>199786</latitude>
+			<longitude>-751214</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woodfred -- (State: Holguin)">
+			<state>Holguin</state>
+			<latitude>205786</latitude>
+			<longitude>-757048</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xavier -- (State: Santiago de Cuba)">
+			<state>Santiago de Cuba</state>
+			<latitude>203120</latitude>
+			<longitude>-761213</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xenes -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>229787</latitude>
+			<longitude>-818047</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xumancia -- (State: La Habana)">
+			<state>La Habana</state>
+			<latitude>229787</latitude>
+			<longitude>-817880</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,3008 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Switzerland">
+		<city name="Aa">
+			<state></state>
+			<latitude>473597</latitude>
+			<longitude>86930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aarau -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>473930</latitude>
+			<longitude>80597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aarburg -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>473264</latitude>
+			<longitude>79097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Adliswil">
+			<state></state>
+			<latitude>473264</latitude>
+			<longitude>85264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Affeltrangen">
+			<state></state>
+			<latitude>475264</latitude>
+			<longitude>90430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Affoltern">
+			<state></state>
+			<latitude>470764</latitude>
+			<longitude>77430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Affoltern am Albis">
+			<state></state>
+			<latitude>472930</latitude>
+			<longitude>84597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aigle">
+			<state></state>
+			<latitude>463264</latitude>
+			<longitude>69764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Allschwil">
+			<state></state>
+			<latitude>475597</latitude>
+			<longitude>75430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Altendorf">
+			<state></state>
+			<latitude>471930</latitude>
+			<longitude>88264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amriswil">
+			<state></state>
+			<latitude>475430</latitude>
+			<longitude>93097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Appenzell -- (State: Innerrhoden)">
+			<state>Innerrhoden</state>
+			<latitude>473430</latitude>
+			<longitude>94097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Appenzell Ausser-Rhoden -- (State: Ausserrhoden)">
+			<state>Ausserrhoden</state>
+			<latitude>474264</latitude>
+			<longitude>93430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arbon">
+			<state></state>
+			<latitude>475264</latitude>
+			<longitude>94430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arth">
+			<state></state>
+			<latitude>470764</latitude>
+			<longitude>85264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Attalens">
+			<state></state>
+			<latitude>465264</latitude>
+			<longitude>68597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baar">
+			<state></state>
+			<latitude>472098</latitude>
+			<longitude>85265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bachenbulach">
+			<state></state>
+			<latitude>475098</latitude>
+			<longitude>85431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bad Ragaz">
+			<state></state>
+			<latitude>470098</latitude>
+			<longitude>95098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baden -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>474765</latitude>
+			<longitude>83098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baden Station">
+			<state></state>
+			<latitude>475765</latitude>
+			<longitude>76265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Balsthal">
+			<state></state>
+			<latitude>473265</latitude>
+			<longitude>76931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Basel -- (State: Basel-Stadt)">
+			<state>Basel-Stadt</state>
+			<latitude>475765</latitude>
+			<longitude>76098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Basel-Dreispitz">
+			<state></state>
+			<latitude>466098</latitude>
+			<longitude>77765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baselland -- (State: Basel-Landschaft)">
+			<state>Basel-Landschaft</state>
+			<latitude>474265</latitude>
+			<longitude>77598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baselstadt -- (State: Basel-Stadt)">
+			<state>Basel-Stadt</state>
+			<latitude>475598</latitude>
+			<longitude>75931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beggingen">
+			<state></state>
+			<latitude>477931</latitude>
+			<longitude>85598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bellechasse">
+			<state></state>
+			<latitude>469765</latitude>
+			<longitude>71098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bellinzona -- (State: Ticino)">
+			<state>Ticino</state>
+			<latitude>462098</latitude>
+			<longitude>90265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belp">
+			<state></state>
+			<latitude>468931</latitude>
+			<longitude>75098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bercher">
+			<state></state>
+			<latitude>467098</latitude>
+			<longitude>67265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bern">
+			<state></state>
+			<latitude>469265</latitude>
+			<longitude>74765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berne -- (State: Bern)">
+			<state>Bern</state>
+			<latitude>470098</latitude>
+			<longitude>75931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berner Oberland">
+			<state></state>
+			<latitude>465931</latitude>
+			<longitude>76765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bernese Jura">
+			<state></state>
+			<latitude>472598</latitude>
+			<longitude>72598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Biberist">
+			<state></state>
+			<latitude>471931</latitude>
+			<longitude>75598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Biel -- (State: Bern)">
+			<state>Bern</state>
+			<latitude>471765</latitude>
+			<longitude>72598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Biel">
+			<state></state>
+			<latitude>464598</latitude>
+			<longitude>82098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bielersee">
+			<state></state>
+			<latitude>470931</latitude>
+			<longitude>71598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Birr -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>474431</latitude>
+			<longitude>82098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bottens">
+			<state></state>
+			<latitude>466265</latitude>
+			<longitude>66598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bottmingen">
+			<state></state>
+			<latitude>475265</latitude>
+			<longitude>75765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bozen">
+			<state></state>
+			<latitude>474931</latitude>
+			<longitude>80931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bremgarten -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>473765</latitude>
+			<longitude>83431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brig">
+			<state></state>
+			<latitude>463265</latitude>
+			<longitude>79931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brugg -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>474931</latitude>
+			<longitude>82098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brugg">
+			<state></state>
+			<latitude>471265</latitude>
+			<longitude>72931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brunnen">
+			<state></state>
+			<latitude>469931</latitude>
+			<longitude>86098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bruttisellen">
+			<state></state>
+			<latitude>474431</latitude>
+			<longitude>86431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buchs">
+			<state></state>
+			<latitude>471765</latitude>
+			<longitude>94765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buchs -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>473931</latitude>
+			<longitude>80765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bulach">
+			<state></state>
+			<latitude>475265</latitude>
+			<longitude>85431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bulle">
+			<state></state>
+			<latitude>466265</latitude>
+			<longitude>70765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burgdorf">
+			<state></state>
+			<latitude>470598</latitude>
+			<longitude>76265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Caux">
+			<state></state>
+			<latitude>464432</latitude>
+			<longitude>69432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cernier">
+			<state></state>
+			<latitude>470766</latitude>
+			<longitude>69099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cham">
+			<state></state>
+			<latitude>471932</latitude>
+			<longitude>84766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chavannes">
+			<state></state>
+			<latitude>465432</latitude>
+			<longitude>65766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chiasso">
+			<state></state>
+			<latitude>458432</latitude>
+			<longitude>90432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chur -- (State: Graubunden)">
+			<state>Graubunden</state>
+			<latitude>468599</latitude>
+			<longitude>95099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Churwalden">
+			<state></state>
+			<latitude>467932</latitude>
+			<longitude>95432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crans">
+			<state></state>
+			<latitude>463766</latitude>
+			<longitude>62099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crans-sur-Sierre">
+			<state></state>
+			<latitude>463099</latitude>
+			<longitude>74766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crissier">
+			<state></state>
+			<latitude>465599</latitude>
+			<longitude>65932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Davos">
+			<state></state>
+			<latitude>468267</latitude>
+			<longitude>98433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Delemont -- (State: Jura)">
+			<state>Jura</state>
+			<latitude>473767</latitude>
+			<longitude>73433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dietikon -- (State: Zurich)">
+			<state>Zurich</state>
+			<latitude>474267</latitude>
+			<longitude>84100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dietlikon">
+			<state></state>
+			<latitude>474433</latitude>
+			<longitude>86267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Domat Ems">
+			<state></state>
+			<latitude>468433</latitude>
+			<longitude>94600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dottingen -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>475767</latitude>
+			<longitude>82600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dubendorf">
+			<state></state>
+			<latitude>474100</latitude>
+			<longitude>86267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ebikon">
+			<state></state>
+			<latitude>470934</latitude>
+			<longitude>83434</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ecublens">
+			<state></state>
+			<latitude>466101</latitude>
+			<longitude>68101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Effretikon">
+			<state></state>
+			<latitude>474434</latitude>
+			<longitude>86934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egg">
+			<state></state>
+			<latitude>473101</latitude>
+			<longitude>86934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ehrendingen">
+			<state></state>
+			<latitude>475101</latitude>
+			<longitude>83434</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Einsiedeln">
+			<state></state>
+			<latitude>471268</latitude>
+			<longitude>87601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmen">
+			<state></state>
+			<latitude>470934</latitude>
+			<longitude>83101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmenbrucke">
+			<state></state>
+			<latitude>470768</latitude>
+			<longitude>82768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Epalinges">
+			<state></state>
+			<latitude>465601</latitude>
+			<longitude>66768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erstfeld">
+			<state></state>
+			<latitude>468268</latitude>
+			<longitude>86434</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Escholzmatt">
+			<state></state>
+			<latitude>469268</latitude>
+			<longitude>79434</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Estavayer-le-Lac">
+			<state></state>
+			<latitude>468601</latitude>
+			<longitude>68601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fleurier">
+			<state></state>
+			<latitude>469102</latitude>
+			<longitude>65935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flums">
+			<state></state>
+			<latitude>470935</latitude>
+			<longitude>93602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frauenfeld -- (State: Thurgau)">
+			<state>Thurgau</state>
+			<latitude>475602</latitude>
+			<longitude>89102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Freiberg">
+			<state></state>
+			<latitude>469769</latitude>
+			<longitude>90935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Freiburg -- (State: Fribourg)">
+			<state>Fribourg</state>
+			<latitude>466769</latitude>
+			<longitude>71769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fribourg">
+			<state></state>
+			<latitude>468102</latitude>
+			<longitude>71602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frick -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>475102</latitude>
+			<longitude>80269</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geneva -- (State: Geneve)">
+			<state>Geneve</state>
+			<latitude>462103</latitude>
+			<longitude>61770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geneva Cointrin">
+			<state></state>
+			<latitude>462436</latitude>
+			<longitude>61103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geneve-Cornavin">
+			<state></state>
+			<latitude>462270</latitude>
+			<longitude>61436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Genf -- (State: Geneve)">
+			<state>Geneve</state>
+			<latitude>461770</latitude>
+			<longitude>61770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Genfer See">
+			<state></state>
+			<latitude>464270</latitude>
+			<longitude>65103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Giubiasco">
+			<state></state>
+			<latitude>461770</latitude>
+			<longitude>90103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gland">
+			<state></state>
+			<latitude>464436</latitude>
+			<longitude>62770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glarus">
+			<state></state>
+			<latitude>470436</latitude>
+			<longitude>90770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grancy">
+			<state></state>
+			<latitude>466103</latitude>
+			<longitude>64770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grand-Saconnex -- (State: Geneve)">
+			<state>Geneve</state>
+			<latitude>462436</latitude>
+			<longitude>61436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grenchen">
+			<state></state>
+			<latitude>471936</latitude>
+			<longitude>73936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grindelwald">
+			<state></state>
+			<latitude>466270</latitude>
+			<longitude>80603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gstaad">
+			<state></state>
+			<latitude>464770</latitude>
+			<longitude>72936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gumligen">
+			<state></state>
+			<latitude>469770</latitude>
+			<longitude>75103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heerbrugg">
+			<state></state>
+			<latitude>474104</latitude>
+			<longitude>96437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hergiswil">
+			<state></state>
+			<latitude>469937</latitude>
+			<longitude>83271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Herisau -- (State: Ausserrhoden)">
+			<state>Ausserrhoden</state>
+			<latitude>474104</latitude>
+			<longitude>92771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hinterkappelen">
+			<state></state>
+			<latitude>469771</latitude>
+			<longitude>73937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hinwil">
+			<state></state>
+			<latitude>473104</latitude>
+			<longitude>88437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hombrechtikon">
+			<state></state>
+			<latitude>472604</latitude>
+			<longitude>87771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horgen">
+			<state></state>
+			<latitude>472771</latitude>
+			<longitude>85937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horn">
+			<state></state>
+			<latitude>474937</latitude>
+			<longitude>94771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Igis">
+			<state></state>
+			<latitude>469605</latitude>
+			<longitude>95938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Il Fuorn">
+			<state></state>
+			<latitude>466772</latitude>
+			<longitude>102272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Im Loch">
+			<state></state>
+			<latitude>465272</latitude>
+			<longitude>83272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imfeld">
+			<state></state>
+			<latitude>463772</latitude>
+			<longitude>82272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Immensee">
+			<state></state>
+			<latitude>471105</latitude>
+			<longitude>84772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inden">
+			<state></state>
+			<latitude>463605</latitude>
+			<longitude>76272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inner Hof">
+			<state></state>
+			<latitude>467772</latitude>
+			<longitude>93772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innerferrera">
+			<state></state>
+			<latitude>465272</latitude>
+			<longitude>94438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innertkirchen">
+			<state></state>
+			<latitude>467105</latitude>
+			<longitude>82272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Interlaken">
+			<state></state>
+			<latitude>466938</latitude>
+			<longitude>78605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Intschi">
+			<state></state>
+			<latitude>467772</latitude>
+			<longitude>86772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inwil">
+			<state></state>
+			<latitude>471272</latitude>
+			<longitude>83438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iragna">
+			<state></state>
+			<latitude>463272</latitude>
+			<longitude>89772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irchel">
+			<state></state>
+			<latitude>475605</latitude>
+			<longitude>85938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iseltwald">
+			<state></state>
+			<latitude>467105</latitude>
+			<longitude>79605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iserables">
+			<state></state>
+			<latitude>461605</latitude>
+			<longitude>72605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ittingen">
+			<state></state>
+			<latitude>476105</latitude>
+			<longitude>88938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaggisbachau">
+			<state></state>
+			<latitude>469606</latitude>
+			<longitude>73273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaun">
+			<state></state>
+			<latitude>466106</latitude>
+			<longitude>72939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaunpass">
+			<state></state>
+			<latitude>465939</latitude>
+			<longitude>73439</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Javerne">
+			<state></state>
+			<latitude>462439</latitude>
+			<longitude>70606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jegenstorf">
+			<state></state>
+			<latitude>470606</latitude>
+			<longitude>75106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jenaz">
+			<state></state>
+			<latitude>469439</latitude>
+			<longitude>97106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jenins">
+			<state></state>
+			<latitude>470106</latitude>
+			<longitude>95773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jerisberghof">
+			<state></state>
+			<latitude>469606</latitude>
+			<longitude>72106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeuss">
+			<state></state>
+			<latitude>469106</latitude>
+			<longitude>71773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jochpass">
+			<state></state>
+			<latitude>467939</latitude>
+			<longitude>83773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jona">
+			<state></state>
+			<latitude>472606</latitude>
+			<longitude>88606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jonen">
+			<state></state>
+			<latitude>473106</latitude>
+			<longitude>84106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jonschwil">
+			<state></state>
+			<latitude>474439</latitude>
+			<longitude>90939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jorat">
+			<state></state>
+			<latitude>465939</latitude>
+			<longitude>67273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Josen Bach">
+			<state></state>
+			<latitude>473606</latitude>
+			<longitude>91439</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jouguena">
+			<state></state>
+			<latitude>467273</latitude>
+			<longitude>64106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juf">
+			<state></state>
+			<latitude>464606</latitude>
+			<longitude>95939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Julia">
+			<state></state>
+			<latitude>465273</latitude>
+			<longitude>96439</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Julierpass">
+			<state></state>
+			<latitude>464773</latitude>
+			<longitude>97273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jungfrau">
+			<state></state>
+			<latitude>465439</latitude>
+			<longitude>79773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kappelen">
+			<state></state>
+			<latitude>470607</latitude>
+			<longitude>72607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirchberg">
+			<state></state>
+			<latitude>470940</latitude>
+			<longitude>75940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirchdorf">
+			<state></state>
+			<latitude>468274</latitude>
+			<longitude>75607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kleindietwil">
+			<state></state>
+			<latitude>471440</latitude>
+			<longitude>77940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kloten">
+			<state></state>
+			<latitude>474607</latitude>
+			<longitude>85940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koblenz">
+			<state></state>
+			<latitude>476274</latitude>
+			<longitude>82440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koniz -- (State: Bern)">
+			<state>Bern</state>
+			<latitude>469274</latitude>
+			<longitude>74274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kreuzlingen">
+			<state></state>
+			<latitude>476607</latitude>
+			<longitude>91940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kriens -- (State: Luzern)">
+			<state>Luzern</state>
+			<latitude>470440</latitude>
+			<longitude>82940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Chaux-de-Fonds -- (State: Neuchatel)">
+			<state>Neuchatel</state>
+			<latitude>471441</latitude>
+			<longitude>68608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Tour-de-Peilz">
+			<state></state>
+			<latitude>464608</latitude>
+			<longitude>68775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langenthal">
+			<state></state>
+			<latitude>472275</latitude>
+			<longitude>77941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langwies">
+			<state></state>
+			<latitude>468441</latitude>
+			<longitude>97108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laufelfingen">
+			<state></state>
+			<latitude>474108</latitude>
+			<longitude>78608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laufen">
+			<state></state>
+			<latitude>474275</latitude>
+			<longitude>75108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laufenburg -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>475775</latitude>
+			<longitude>80608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lausanne -- (State: Vaud)">
+			<state>Vaud</state>
+			<latitude>465441</latitude>
+			<longitude>66775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lavey-les-Bains">
+			<state></state>
+			<latitude>462108</latitude>
+			<longitude>70441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Locle">
+			<state></state>
+			<latitude>470775</latitude>
+			<longitude>67608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lenzburg -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>473941</latitude>
+			<longitude>81941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Acacias">
+			<state></state>
+			<latitude>461941</latitude>
+			<longitude>61441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leysin">
+			<state></state>
+			<latitude>463608</latitude>
+			<longitude>70275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liebefeld">
+			<state></state>
+			<latitude>469441</latitude>
+			<longitude>74441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liestal -- (State: Basel-Landschaft)">
+			<state>Basel-Landschaft</state>
+			<latitude>474775</latitude>
+			<longitude>77441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Locarno -- (State: Ticino)">
+			<state>Ticino</state>
+			<latitude>461775</latitude>
+			<longitude>88108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Losone">
+			<state></state>
+			<latitude>461441</latitude>
+			<longitude>87608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lu">
+			<state></state>
+			<latitude>466441</latitude>
+			<longitude>103775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lucens">
+			<state></state>
+			<latitude>467275</latitude>
+			<longitude>68441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lucerna -- (State: Luzern)">
+			<state>Luzern</state>
+			<latitude>471775</latitude>
+			<longitude>81775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lucerne">
+			<state></state>
+			<latitude>470108</latitude>
+			<longitude>84775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lugano">
+			<state></state>
+			<latitude>459775</latitude>
+			<longitude>90108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lugano -- (State: Ticino)">
+			<state>Ticino</state>
+			<latitude>460108</latitude>
+			<longitude>89775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luzern">
+			<state></state>
+			<latitude>470941</latitude>
+			<longitude>82775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyss">
+			<state></state>
+			<latitude>470775</latitude>
+			<longitude>73108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malleray">
+			<state></state>
+			<latitude>472442</latitude>
+			<longitude>72776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marly-le-Grand">
+			<state></state>
+			<latitude>467776</latitude>
+			<longitude>71609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marsens">
+			<state></state>
+			<latitude>466609</latitude>
+			<longitude>70776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martigny">
+			<state></state>
+			<latitude>460942</latitude>
+			<longitude>70942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meiringen">
+			<state></state>
+			<latitude>467442</latitude>
+			<longitude>81942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mellingen -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>474276</latitude>
+			<longitude>82776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mendrisio">
+			<state></state>
+			<latitude>458776</latitude>
+			<longitude>89942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meyrin -- (State: Geneve)">
+			<state>Geneve</state>
+			<latitude>462276</latitude>
+			<longitude>60776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Montana-Village">
+			<state></state>
+			<latitude>463109</latitude>
+			<longitude>75109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monthey">
+			<state></state>
+			<latitude>462609</latitude>
+			<longitude>69609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Montreux -- (State: Vaud)">
+			<state>Vaud</state>
+			<latitude>464442</latitude>
+			<longitude>69276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Morges">
+			<state></state>
+			<latitude>465276</latitude>
+			<longitude>65109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moudon">
+			<state></state>
+			<latitude>466776</latitude>
+			<longitude>68109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Muhlen">
+			<state></state>
+			<latitude>465276</latitude>
+			<longitude>96276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Munchenbuchsee">
+			<state></state>
+			<latitude>470276</latitude>
+			<longitude>74609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Munchwilen">
+			<state></state>
+			<latitude>474609</latitude>
+			<longitude>90109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Murten">
+			<state></state>
+			<latitude>469442</latitude>
+			<longitude>71276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Muttenz">
+			<state></state>
+			<latitude>475276</latitude>
+			<longitude>76609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naters">
+			<state></state>
+			<latitude>463443</latitude>
+			<longitude>79943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Netstal">
+			<state></state>
+			<latitude>470610</latitude>
+			<longitude>90610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neuchatel">
+			<state></state>
+			<latitude>470110</latitude>
+			<longitude>69777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neuenhof -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>474610</latitude>
+			<longitude>83277</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nidau">
+			<state></state>
+			<latitude>471277</latitude>
+			<longitude>72443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niederbipp">
+			<state></state>
+			<latitude>472777</latitude>
+			<longitude>76943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niedergosgen">
+			<state></state>
+			<latitude>473777</latitude>
+			<longitude>79777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niedern">
+			<state></state>
+			<latitude>469110</latitude>
+			<longitude>91943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niederurnen">
+			<state></state>
+			<latitude>471277</latitude>
+			<longitude>90610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nyon">
+			<state></state>
+			<latitude>463943</latitude>
+			<longitude>62610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oberentfelden -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>473611</latitude>
+			<longitude>80444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oberglatt">
+			<state></state>
+			<latitude>474778</latitude>
+			<longitude>85278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oberriet">
+			<state></state>
+			<latitude>473278</latitude>
+			<longitude>95778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oberwil">
+			<state></state>
+			<latitude>475278</latitude>
+			<longitude>75611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oensingen">
+			<state></state>
+			<latitude>472944</latitude>
+			<longitude>77444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oerlikon">
+			<state></state>
+			<latitude>474278</latitude>
+			<longitude>85611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ollon">
+			<state></state>
+			<latitude>463111</latitude>
+			<longitude>70444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olten">
+			<state></state>
+			<latitude>473611</latitude>
+			<longitude>79278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Opfikon">
+			<state></state>
+			<latitude>474444</latitude>
+			<longitude>85944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otelfingen">
+			<state></state>
+			<latitude>474778</latitude>
+			<longitude>83944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Payerne">
+			<state></state>
+			<latitude>468279</latitude>
+			<longitude>69445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pfaffikon">
+			<state></state>
+			<latitude>472112</latitude>
+			<longitude>87779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porrentruy">
+			<state></state>
+			<latitude>474279</latitude>
+			<longitude>70945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pratteln">
+			<state></state>
+			<latitude>475279</latitude>
+			<longitude>76945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prilly">
+			<state></state>
+			<latitude>465445</latitude>
+			<longitude>65945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pully">
+			<state></state>
+			<latitude>465279</latitude>
+			<longitude>66612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarten">
+			<state></state>
+			<latitude>471113</latitude>
+			<longitude>92613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quartino">
+			<state></state>
+			<latitude>461613</latitude>
+			<longitude>88946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinten">
+			<state></state>
+			<latitude>471280</latitude>
+			<longitude>92280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinto">
+			<state></state>
+			<latitude>465280</latitude>
+			<longitude>87280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Randen">
+			<state></state>
+			<latitude>477781</latitude>
+			<longitude>85614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rapperswil">
+			<state></state>
+			<latitude>472281</latitude>
+			<longitude>88281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rebstein">
+			<state></state>
+			<latitude>474114</latitude>
+			<longitude>95947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Regensdorf">
+			<state></state>
+			<latitude>474447</latitude>
+			<longitude>84781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rehetobel">
+			<state></state>
+			<latitude>474281</latitude>
+			<longitude>94947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reinach -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>472781</latitude>
+			<longitude>81947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rheineck">
+			<state></state>
+			<latitude>474781</latitude>
+			<longitude>95947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rheinfelden -- (State: Aargau)">
+			<state>Aargau</state>
+			<latitude>475614</latitude>
+			<longitude>77947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Richterswil">
+			<state></state>
+			<latitude>472281</latitude>
+			<longitude>87114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rolle">
+			<state></state>
+			<latitude>464781</latitude>
+			<longitude>63447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Romanshorn">
+			<state></state>
+			<latitude>475781</latitude>
+			<longitude>93947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rorschach Hafen">
+			<state></state>
+			<latitude>474781</latitude>
+			<longitude>95281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rorschacherberg">
+			<state></state>
+			<latitude>474781</latitude>
+			<longitude>95114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotkreuz">
+			<state></state>
+			<latitude>471614</latitude>
+			<longitude>84447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roveredo">
+			<state></state>
+			<latitude>462447</latitude>
+			<longitude>91447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rumlang">
+			<state></state>
+			<latitude>474614</latitude>
+			<longitude>85447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ruti">
+			<state></state>
+			<latitude>469447</latitude>
+			<longitude>90281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="S-chanf">
+			<state></state>
+			<latitude>466282</latitude>
+			<longitude>99948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saanenmoser">
+			<state></state>
+			<latitude>465282</latitude>
+			<longitude>73115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Gallen -- (State: Sankt Gallen)">
+			<state>Sankt Gallen</state>
+			<latitude>472615</latitude>
+			<longitude>92615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint-Aubin">
+			<state></state>
+			<latitude>468948</latitude>
+			<longitude>67782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint-Imier">
+			<state></state>
+			<latitude>471615</latitude>
+			<longitude>70115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sankt Fiden">
+			<state></state>
+			<latitude>474448</latitude>
+			<longitude>93948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sankt Gallen">
+			<state></state>
+			<latitude>474782</latitude>
+			<longitude>94115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sankt Margrethen">
+			<state></state>
+			<latitude>474615</latitude>
+			<longitude>96282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sargans">
+			<state></state>
+			<latitude>470615</latitude>
+			<longitude>94448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schaffhausen">
+			<state></state>
+			<latitude>477115</latitude>
+			<longitude>86448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schaffhausen Falls">
+			<state></state>
+			<latitude>476948</latitude>
+			<longitude>86282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schaffhouse -- (State: Schaffhausen)">
+			<state>Schaffhausen</state>
+			<latitude>476948</latitude>
+			<longitude>86448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schattdorf">
+			<state></state>
+			<latitude>468782</latitude>
+			<longitude>86615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schlieren">
+			<state></state>
+			<latitude>474115</latitude>
+			<longitude>84615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schmerikon">
+			<state></state>
+			<latitude>472282</latitude>
+			<longitude>89448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schoftland">
+			<state></state>
+			<latitude>473115</latitude>
+			<longitude>80615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schrattenfluh">
+			<state></state>
+			<latitude>468615</latitude>
+			<longitude>79782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schwyz">
+			<state></state>
+			<latitude>470282</latitude>
+			<longitude>86615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seon">
+			<state></state>
+			<latitude>473615</latitude>
+			<longitude>81615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Siebnen">
+			<state></state>
+			<latitude>471948</latitude>
+			<longitude>89115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sierre">
+			<state></state>
+			<latitude>463115</latitude>
+			<longitude>75448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sion -- (State: Valais)">
+			<state>Valais</state>
+			<latitude>462448</latitude>
+			<longitude>73615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sirnach">
+			<state></state>
+			<latitude>474782</latitude>
+			<longitude>90115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sissach">
+			<state></state>
+			<latitude>474782</latitude>
+			<longitude>78115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Solothurn">
+			<state></state>
+			<latitude>472448</latitude>
+			<longitude>75282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Spreitenbach">
+			<state></state>
+			<latitude>474282</latitude>
+			<longitude>83782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stans -- (State: Nidwalden)">
+			<state>Nidwalden</state>
+			<latitude>469782</latitude>
+			<longitude>83615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Staufen">
+			<state></state>
+			<latitude>473948</latitude>
+			<longitude>81782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stausee Wohlen">
+			<state></state>
+			<latitude>469782</latitude>
+			<longitude>73282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Steffisburg">
+			<state></state>
+			<latitude>467948</latitude>
+			<longitude>76448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Steinhausen">
+			<state></state>
+			<latitude>472115</latitude>
+			<longitude>84782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stettlen">
+			<state></state>
+			<latitude>469615</latitude>
+			<longitude>75448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Strengelbach">
+			<state></state>
+			<latitude>472782</latitude>
+			<longitude>79282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Suhr">
+			<state></state>
+			<latitude>473782</latitude>
+			<longitude>80948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thalwil">
+			<state></state>
+			<latitude>472949</latitude>
+			<longitude>85783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thun -- (State: Bern)">
+			<state>Bern</state>
+			<latitude>467616</latitude>
+			<longitude>76283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thurgovie -- (State: Thurgau)">
+			<state>Thurgau</state>
+			<latitude>475949</latitude>
+			<longitude>92616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thusis">
+			<state></state>
+			<latitude>466949</latitude>
+			<longitude>94449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ticino">
+			<state></state>
+			<latitude>451616</latitude>
+			<longitude>92449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Triengen">
+			<state></state>
+			<latitude>472449</latitude>
+			<longitude>80949</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trimbach">
+			<state></state>
+			<latitude>473783</latitude>
+			<longitude>79116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Turgi">
+			<state></state>
+			<latitude>474949</latitude>
+			<longitude>82616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uberstorf">
+			<state></state>
+			<latitude>468784</latitude>
+			<longitude>73117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Udligenswil">
+			<state></state>
+			<latitude>471117</latitude>
+			<longitude>84117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ueberlandquart">
+			<state></state>
+			<latitude>469617</latitude>
+			<longitude>96284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uerikon">
+			<state></state>
+			<latitude>472450</latitude>
+			<longitude>87617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uerkheim">
+			<state></state>
+			<latitude>473117</latitude>
+			<longitude>80284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uesslingen">
+			<state></state>
+			<latitude>475950</latitude>
+			<longitude>88284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uetikon">
+			<state></state>
+			<latitude>472784</latitude>
+			<longitude>86784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uettligen">
+			<state></state>
+			<latitude>469950</latitude>
+			<longitude>73950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uffikon">
+			<state></state>
+			<latitude>472284</latitude>
+			<longitude>80284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ufhusen">
+			<state></state>
+			<latitude>471284</latitude>
+			<longitude>79117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uhwiesen">
+			<state></state>
+			<latitude>476784</latitude>
+			<longitude>86450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uina Dadora">
+			<state></state>
+			<latitude>467950</latitude>
+			<longitude>103950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uitikon">
+			<state></state>
+			<latitude>473784</latitude>
+			<longitude>84784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulrichen">
+			<state></state>
+			<latitude>465117</latitude>
+			<longitude>83117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Undervelier">
+			<state></state>
+			<latitude>473117</latitude>
+			<longitude>72284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter Eiger">
+			<state></state>
+			<latitude>466284</latitude>
+			<longitude>80117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter Engadin">
+			<state></state>
+			<latitude>467617</latitude>
+			<longitude>102617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter Illnau">
+			<state></state>
+			<latitude>474117</latitude>
+			<longitude>87284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter Lauchbuhl">
+			<state></state>
+			<latitude>466450</latitude>
+			<longitude>80950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter Schwendimatt">
+			<state></state>
+			<latitude>468950</latitude>
+			<longitude>77117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter Siez">
+			<state></state>
+			<latitude>469784</latitude>
+			<longitude>92950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter Staffel">
+			<state></state>
+			<latitude>469450</latitude>
+			<longitude>88450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Bazenheid">
+			<state></state>
+			<latitude>474117</latitude>
+			<longitude>90784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Bilten">
+			<state></state>
+			<latitude>471617</latitude>
+			<longitude>90284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Buch">
+			<state></state>
+			<latitude>475617</latitude>
+			<longitude>86450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Gomerkinden">
+			<state></state>
+			<latitude>469950</latitude>
+			<longitude>76617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Laret">
+			<state></state>
+			<latitude>468617</latitude>
+			<longitude>98617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Mutten">
+			<state></state>
+			<latitude>466784</latitude>
+			<longitude>94950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Sohl">
+			<state></state>
+			<latitude>467784</latitude>
+			<longitude>78284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Stammheim">
+			<state></state>
+			<latitude>476617</latitude>
+			<longitude>87950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unteraargletscher">
+			<state></state>
+			<latitude>465784</latitude>
+			<longitude>82117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unteraegeri">
+			<state></state>
+			<latitude>471450</latitude>
+			<longitude>85950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterbach">
+			<state></state>
+			<latitude>462784</latitude>
+			<longitude>78117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterbachen">
+			<state></state>
+			<latitude>464617</latitude>
+			<longitude>76284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterengstringen">
+			<state></state>
+			<latitude>474284</latitude>
+			<longitude>84450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Untererlinsbach">
+			<state></state>
+			<latitude>474117</latitude>
+			<longitude>80117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unteres Goms">
+			<state></state>
+			<latitude>464450</latitude>
+			<longitude>82284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unteriberg">
+			<state></state>
+			<latitude>470617</latitude>
+			<longitude>87950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterkulm">
+			<state></state>
+			<latitude>473284</latitude>
+			<longitude>81284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterlandquart">
+			<state></state>
+			<latitude>469284</latitude>
+			<longitude>91784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterlunkhofen">
+			<state></state>
+			<latitude>473284</latitude>
+			<longitude>83950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterschachen">
+			<state></state>
+			<latitude>468784</latitude>
+			<longitude>87784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Untersiggenthal">
+			<state></state>
+			<latitude>475450</latitude>
+			<longitude>83284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterterzen">
+			<state></state>
+			<latitude>471284</latitude>
+			<longitude>92617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Untervaz">
+			<state></state>
+			<latitude>469450</latitude>
+			<longitude>95450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterwasser">
+			<state></state>
+			<latitude>472117</latitude>
+			<longitude>93117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uors">
+			<state></state>
+			<latitude>467117</latitude>
+			<longitude>91950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urbach Thal">
+			<state></state>
+			<latitude>466784</latitude>
+			<longitude>82117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urbachwasser">
+			<state></state>
+			<latitude>467117</latitude>
+			<longitude>82450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdorf">
+			<state></state>
+			<latitude>473950</latitude>
+			<longitude>84284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urirotstock">
+			<state></state>
+			<latitude>468784</latitude>
+			<longitude>85284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urmein">
+			<state></state>
+			<latitude>467117</latitude>
+			<longitude>94117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urnasch">
+			<state></state>
+			<latitude>473284</latitude>
+			<longitude>92950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urnersee">
+			<state></state>
+			<latitude>469617</latitude>
+			<longitude>86117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urnerstafel">
+			<state></state>
+			<latitude>468950</latitude>
+			<longitude>84617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursenbach">
+			<state></state>
+			<latitude>471450</latitude>
+			<longitude>77784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursernthal">
+			<state></state>
+			<latitude>466117</latitude>
+			<longitude>85284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urtenen">
+			<state></state>
+			<latitude>470450</latitude>
+			<longitude>74950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Useigne">
+			<state></state>
+			<latitude>461784</latitude>
+			<longitude>74284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uster -- (State: Zurich)">
+			<state>Zurich</state>
+			<latitude>473450</latitude>
+			<longitude>87117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utendorf">
+			<state></state>
+			<latitude>467784</latitude>
+			<longitude>75784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utliberg">
+			<state></state>
+			<latitude>473617</latitude>
+			<longitude>84950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uttigen">
+			<state></state>
+			<latitude>467950</latitude>
+			<longitude>75784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uttwil">
+			<state></state>
+			<latitude>475950</latitude>
+			<longitude>93450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utzenstorf">
+			<state></state>
+			<latitude>471450</latitude>
+			<longitude>75617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uznach">
+			<state></state>
+			<latitude>472284</latitude>
+			<longitude>89950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzwil">
+			<state></state>
+			<latitude>474450</latitude>
+			<longitude>91450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valais Alps">
+			<state></state>
+			<latitude>460951</latitude>
+			<longitude>78451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaud">
+			<state></state>
+			<latitude>464951</latitude>
+			<longitude>62451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vernier -- (State: Geneve)">
+			<state>Geneve</state>
+			<latitude>462285</latitude>
+			<longitude>60951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vevey">
+			<state></state>
+			<latitude>464618</latitude>
+			<longitude>68618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villars">
+			<state></state>
+			<latitude>463118</latitude>
+			<longitude>70618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villeneuve">
+			<state></state>
+			<latitude>464118</latitude>
+			<longitude>69451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villigen">
+			<state></state>
+			<latitude>475285</latitude>
+			<longitude>82285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villmergen">
+			<state></state>
+			<latitude>473618</latitude>
+			<longitude>82618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Visp">
+			<state></state>
+			<latitude>462951</latitude>
+			<longitude>78785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vitznau">
+			<state></state>
+			<latitude>470285</latitude>
+			<longitude>84951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Volketswil">
+			<state></state>
+			<latitude>473951</latitude>
+			<longitude>87118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vuiteboeuf">
+			<state></state>
+			<latitude>468118</latitude>
+			<longitude>65618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadenswil">
+			<state></state>
+			<latitude>472452</latitude>
+			<longitude>86786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wald">
+			<state></state>
+			<latitude>468286</latitude>
+			<longitude>78619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wallisellen">
+			<state></state>
+			<latitude>474286</latitude>
+			<longitude>85952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wangen an der Aare">
+			<state></state>
+			<latitude>472452</latitude>
+			<longitude>76619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wattwil">
+			<state></state>
+			<latitude>473119</latitude>
+			<longitude>90952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weinfelden">
+			<state></state>
+			<latitude>475786</latitude>
+			<longitude>91119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wettingen">
+			<state></state>
+			<latitude>474786</latitude>
+			<longitude>83286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wetzikon">
+			<state></state>
+			<latitude>473286</latitude>
+			<longitude>87952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wil">
+			<state></state>
+			<latitude>474786</latitude>
+			<longitude>90619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windisch">
+			<state></state>
+			<latitude>474786</latitude>
+			<longitude>82452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winterthur -- (State: Zurich)">
+			<state>Zurich</state>
+			<latitude>475119</latitude>
+			<longitude>87619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winterthur Toss">
+			<state></state>
+			<latitude>475119</latitude>
+			<longitude>87119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wohlen">
+			<state></state>
+			<latitude>473786</latitude>
+			<longitude>82952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Worblaufen">
+			<state></state>
+			<latitude>469786</latitude>
+			<longitude>74786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yens">
+			<state></state>
+			<latitude>465288</latitude>
+			<longitude>64288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yverdon -- (State: Vaud)">
+			<state>Vaud</state>
+			<latitude>467954</latitude>
+			<longitude>66621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yvonand">
+			<state></state>
+			<latitude>468121</latitude>
+			<longitude>67621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yvorne">
+			<state></state>
+			<latitude>463454</latitude>
+			<longitude>69788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaloner Hutten">
+			<state></state>
+			<latitude>467122</latitude>
+			<longitude>93122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanders Bach">
+			<state></state>
+			<latitude>469622</latitude>
+			<longitude>104289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeglingen">
+			<state></state>
+			<latitude>474289</latitude>
+			<longitude>79122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeihen">
+			<state></state>
+			<latitude>474789</latitude>
+			<longitude>80955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zell">
+			<state></state>
+			<latitude>471455</latitude>
+			<longitude>79289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeneggen">
+			<state></state>
+			<latitude>462789</latitude>
+			<longitude>78622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zermatt">
+			<state></state>
+			<latitude>460289</latitude>
+			<longitude>77622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zermeiggern">
+			<state></state>
+			<latitude>460955</latitude>
+			<longitude>79622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zervreila">
+			<state></state>
+			<latitude>465789</latitude>
+			<longitude>91122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zervreila-Unterboden">
+			<state></state>
+			<latitude>465955</latitude>
+			<longitude>91289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zihl">
+			<state></state>
+			<latitude>470122</latitude>
+			<longitude>70455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zillis">
+			<state></state>
+			<latitude>466455</latitude>
+			<longitude>94622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zinal">
+			<state></state>
+			<latitude>461455</latitude>
+			<longitude>76455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zizers">
+			<state></state>
+			<latitude>469455</latitude>
+			<longitude>95789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zofingen">
+			<state></state>
+			<latitude>472955</latitude>
+			<longitude>79455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zollikofen">
+			<state></state>
+			<latitude>469955</latitude>
+			<longitude>74789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zollikon">
+			<state></state>
+			<latitude>473455</latitude>
+			<longitude>85955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoug -- (State: Zug)">
+			<state>Zug</state>
+			<latitude>471789</latitude>
+			<longitude>85955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zuchwil">
+			<state></state>
+			<latitude>472122</latitude>
+			<longitude>75789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zug">
+			<state></state>
+			<latitude>471789</latitude>
+			<longitude>85289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zuger See">
+			<state></state>
+			<latitude>471289</latitude>
+			<longitude>84955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zugerberg">
+			<state></state>
+			<latitude>471455</latitude>
+			<longitude>85455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zulg">
+			<state></state>
+			<latitude>467789</latitude>
+			<longitude>76122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zumdorf">
+			<state></state>
+			<latitude>466122</latitude>
+			<longitude>85455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zumholz">
+			<state></state>
+			<latitude>467622</latitude>
+			<longitude>73122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zumikon">
+			<state></state>
+			<latitude>473455</latitude>
+			<longitude>86289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zunzgen">
+			<state></state>
+			<latitude>474455</latitude>
+			<longitude>78122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zuoz">
+			<state></state>
+			<latitude>466122</latitude>
+			<longitude>99622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zurchersmuhle">
+			<state></state>
+			<latitude>473455</latitude>
+			<longitude>93122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zurich">
+			<state></state>
+			<latitude>473789</latitude>
+			<longitude>85622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zurichberg">
+			<state></state>
+			<latitude>473955</latitude>
+			<longitude>85955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zurichhorn">
+			<state></state>
+			<latitude>473622</latitude>
+			<longitude>85622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zurichsee">
+			<state></state>
+			<latitude>472455</latitude>
+			<longitude>87122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zurigo -- (State: Zurich)">
+			<state>Zurich</state>
+			<latitude>474289</latitude>
+			<longitude>86789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zurzach">
+			<state></state>
+			<latitude>476122</latitude>
+			<longitude>83122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zuzgen">
+			<state></state>
+			<latitude>475455</latitude>
+			<longitude>79122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zuzwil">
+			<state></state>
+			<latitude>474789</latitude>
+			<longitude>91289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zweilutschinen">
+			<state></state>
+			<latitude>466455</latitude>
+			<longitude>79122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zweisimmen">
+			<state></state>
+			<latitude>465622</latitude>
+			<longitude>73789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwingen">
+			<state></state>
+			<latitude>474455</latitude>
+			<longitude>75289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwischberg-Thal">
+			<state></state>
+			<latitude>461789</latitude>
+			<longitude>81455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwischbergen">
+			<state></state>
+			<latitude>461789</latitude>
+			<longitude>81289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

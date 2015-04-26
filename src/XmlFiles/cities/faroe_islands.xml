@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Faroe Islands">
+		<city name="Aarskardh">
+			<state></state>
+			<latitude>622597</latitude>
+			<longitude>-65403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Akrabyrgi">
+			<state></state>
+			<latitude>614097</latitude>
+			<longitude>-66570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dimon Sogn">
+			<state></state>
+			<latitude>617100</latitude>
+			<longitude>-67400</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dirvisgjogv">
+			<state></state>
+			<latitude>621100</latitude>
+			<longitude>-66233</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Djupadalsgjogv">
+			<state></state>
+			<latitude>623600</latitude>
+			<longitude>-67567</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doshellugjogv">
+			<state></state>
+			<latitude>620767</latitude>
+			<longitude>-69733</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drangarnir">
+			<state></state>
+			<latitude>620767</latitude>
+			<longitude>-73900</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eggjastakkur">
+			<state></state>
+			<latitude>619601</latitude>
+			<longitude>-68899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egilsnaes">
+			<state></state>
+			<latitude>621434</latitude>
+			<longitude>-71566</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eidesvig">
+			<state></state>
+			<latitude>623601</latitude>
+			<longitude>-64899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eidhidh">
+			<state></state>
+			<latitude>620268</latitude>
+			<longitude>-66399</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eidhisa">
+			<state></state>
+			<latitude>622101</latitude>
+			<longitude>-67232</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eidhisskardh">
+			<state></state>
+			<latitude>672934</latitude>
+			<longitude>-69899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ejde">
+			<state></state>
+			<latitude>622934</latitude>
+			<longitude>-69566</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elduvik">
+			<state></state>
+			<latitude>622934</latitude>
+			<longitude>-68899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enni">
+			<state></state>
+			<latitude>615268</latitude>
+			<longitude>-67732</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enniberg">
+			<state></state>
+			<latitude>624101</latitude>
+			<longitude>-65399</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ennini">
+			<state></state>
+			<latitude>616434</latitude>
+			<longitude>-69399</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eriksfjeld">
+			<state></state>
+			<latitude>618768</latitude>
+			<longitude>-68899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eysturoy">
+			<state></state>
+			<latitude>622268</latitude>
+			<longitude>-68566</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eysturtindur">
+			<state></state>
+			<latitude>621268</latitude>
+			<longitude>-73899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="I Botni">
+			<state></state>
+			<latitude>614938</latitude>
+			<longitude>-67728</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="I Famara">
+			<state></state>
+			<latitude>614772</latitude>
+			<longitude>-68562</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="I Horg">
+			<state></state>
+			<latitude>614272</latitude>
+			<longitude>-67062</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="I Husi">
+			<state></state>
+			<latitude>620605</latitude>
+			<longitude>-71562</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Illitangi">
+			<state></state>
+			<latitude>623605</latitude>
+			<longitude>-62895</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innaranes">
+			<state></state>
+			<latitude>620938</latitude>
+			<longitude>-75728</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innarigalgi">
+			<state></state>
+			<latitude>615605</latitude>
+			<longitude>-67728</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isaksskardh">
+			<state></state>
+			<latitude>622438</latitude>
+			<longitude>-64395</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Islendingatangi">
+			<state></state>
+			<latitude>617772</latitude>
+			<longitude>-68395</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jatnagardhar">
+			<state></state>
+			<latitude>621439</latitude>
+			<longitude>-72561</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jensegaerde">
+			<state></state>
+			<latitude>620439</latitude>
+			<longitude>-71727</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jokilsgjogv">
+			<state></state>
+			<latitude>621106</latitude>
+			<longitude>-68394</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jokladalur">
+			<state></state>
+			<latitude>622439</latitude>
+			<longitude>-68061</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joklaskardh">
+			<state></state>
+			<latitude>622273</latitude>
+			<longitude>-68394</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paetursfjeld">
+			<state></state>
+			<latitude>622279</latitude>
+			<longitude>-71888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pikarsdrangur">
+			<state></state>
+			<latitude>620945</latitude>
+			<longitude>-76721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poddlen">
+			<state></state>
+			<latitude>622612</latitude>
+			<longitude>-65888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porkere">
+			<state></state>
+			<latitude>614945</latitude>
+			<longitude>-67221</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porkere-Naes">
+			<state></state>
+			<latitude>614945</latitude>
+			<longitude>-66721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porkeri">
+			<state></state>
+			<latitude>614945</latitude>
+			<longitude>-72221</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porkerisvatn">
+			<state></state>
+			<latitude>619779</latitude>
+			<longitude>-67721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Postulakirkja">
+			<state></state>
+			<latitude>621945</latitude>
+			<longitude>-71888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Praedikastolur">
+			<state></state>
+			<latitude>619945</latitude>
+			<longitude>-67388</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Praestefjeld">
+			<state></state>
+			<latitude>615779</latitude>
+			<longitude>-69221</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prestgjogv">
+			<state></state>
+			<latitude>615445</latitude>
+			<longitude>-68721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Presttangi">
+			<state></state>
+			<latitude>620445</latitude>
+			<longitude>-71221</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Punthavn">
+			<state></state>
+			<latitude>615612</latitude>
+			<longitude>-68055</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torshavn">
+			<state></state>
+			<latitude>620616</latitude>
+			<longitude>-71051</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsalanes">
+			<state></state>
+			<latitude>623117</latitude>
+			<longitude>-71216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upsalon">
+			<state></state>
+			<latitude>622284</latitude>
+			<longitude>-65550</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upsartangi">
+			<state></state>
+			<latitude>623617</latitude>
+			<longitude>-66883</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdarbue">
+			<state></state>
+			<latitude>620950</latitude>
+			<longitude>-75383</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdarfjeld">
+			<state></state>
+			<latitude>622950</latitude>
+			<longitude>-66216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdhannagjogv">
+			<state></state>
+			<latitude>621450</latitude>
+			<longitude>-73716</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdhara">
+			<state></state>
+			<latitude>621284</latitude>
+			<longitude>-68050</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdhnhamar">
+			<state></state>
+			<latitude>623117</latitude>
+			<longitude>-71716</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uti a Bo">
+			<state></state>
+			<latitude>619617</latitude>
+			<longitude>-67383</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uti a Flotum">
+			<state></state>
+			<latitude>620450</latitude>
+			<longitude>-69383</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ytralidh">
+			<state></state>
+			<latitude>621954</latitude>
+			<longitude>-66379</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ytri Skali">
+			<state></state>
+			<latitude>621621</latitude>
+			<longitude>-67379</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ytstidalur">
+			<state></state>
+			<latitude>623621</latitude>
+			<longitude>-66379</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yvir a Dal">
+			<state></state>
+			<latitude>622954</latitude>
+			<longitude>-62879</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yvir i Dal">
+			<state></state>
+			<latitude>622621</latitude>
+			<longitude>-63546</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

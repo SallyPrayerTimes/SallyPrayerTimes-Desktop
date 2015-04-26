@@ -1,0 +1,1160 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Trinidad Tobago">
+		<city name="Arima">
+			<state></state>
+			<latitude>106430</latitude>
+			<longitude>-612736</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arima Fuel Reserve -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106764</latitude>
+			<longitude>-612903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arima River -- (State: Arima)">
+			<state>Arima</state>
+			<latitude>105930</latitude>
+			<longitude>-612570</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avocat -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>102097</latitude>
+			<longitude>-615236</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bamboo -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100931</latitude>
+			<longitude>-618235</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barataria -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106598</latitude>
+			<longitude>-614569</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barrackpore -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>102098</latitude>
+			<longitude>-613902</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caroni">
+			<state></state>
+			<latitude>106099</latitude>
+			<longitude>-613734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caroni River">
+			<state></state>
+			<latitude>106266</latitude>
+			<longitude>-614901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caroni Savanna -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>105599</latitude>
+			<longitude>-614068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caroni Savannah">
+			<state></state>
+			<latitude>106099</latitude>
+			<longitude>-614401</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaguanas -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>105266</latitude>
+			<longitude>-614068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaguanas Ward -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>105099</latitude>
+			<longitude>-613734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Couva -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>104266</latitude>
+			<longitude>-614401</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cumuto Village -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>105932</latitude>
+			<longitude>-611901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cunupia Village -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>105599</latitude>
+			<longitude>-613568</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Curepe -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106432</latitude>
+			<longitude>-613901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dabadie -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106267</latitude>
+			<longitude>-613067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damian Bay -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107767</latitude>
+			<longitude>-614067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damien River -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>108100</latitude>
+			<longitude>-613233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darien Rock">
+			<state></state>
+			<latitude>105433</latitude>
+			<longitude>-605733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Defour Point -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>108433</latitude>
+			<longitude>-609900</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dehert Bay -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106933</latitude>
+			<longitude>-616733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Delaford -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>112767</latitude>
+			<longitude>-605567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Delaford Bay -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>112600</latitude>
+			<longitude>-605400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Delgada Point -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106933</latitude>
+			<longitude>-616567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Demerara Shoal">
+			<state></state>
+			<latitude>100767</latitude>
+			<longitude>-619400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dibe -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106933</latitude>
+			<longitude>-615233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diego Martin -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107100</latitude>
+			<longitude>-615733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dinsley -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106433</latitude>
+			<longitude>-613400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dopsion Point -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>107933</latitude>
+			<longitude>-609233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doubloon River -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>104767</latitude>
+			<longitude>-610400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Douce Branche River -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>105100</latitude>
+			<longitude>-611733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dow Village -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>104100</latitude>
+			<longitude>-614400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Drachen Schlund">
+			<state></state>
+			<latitude>101767</latitude>
+			<longitude>-619567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dragons Mouths">
+			<state></state>
+			<latitude>107600</latitude>
+			<longitude>-617567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Drew Bank -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>110767</latitude>
+			<longitude>-608567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duncan -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>102600</latitude>
+			<longitude>-614400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dunmore Hill -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>102767</latitude>
+			<longitude>-613233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durity River">
+			<state></state>
+			<latitude>101767</latitude>
+			<longitude>-613733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Earthigg -- (State: Port-of-Spain)">
+			<state>Port-of-Spain</state>
+			<latitude>106768</latitude>
+			<longitude>-614899</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Easterfield -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>112268</latitude>
+			<longitude>-606732</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eau Claire River -- (State: Mayaro)">
+			<state>Mayaro</state>
+			<latitude>101434</latitude>
+			<longitude>-610732</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecclesville Village -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>103268</latitude>
+			<longitude>-611232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eckel Ville -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>103268</latitude>
+			<longitude>-613732</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edith Falls -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107268</latitude>
+			<longitude>-616232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Cupan River -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>107268</latitude>
+			<longitude>-611399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Mamo River">
+			<state></state>
+			<latitude>106101</latitude>
+			<longitude>-612232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Manacal -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107101</latitude>
+			<longitude>-613399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Rincon River -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>104934</latitude>
+			<longitude>-611732</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Tucuche -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107434</latitude>
+			<longitude>-614066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embarcadere Corbeau -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106768</latitude>
+			<longitude>-617399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entrada Point -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107101</latitude>
+			<longitude>-616566</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erasmus River -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>113101</latitude>
+			<longitude>-606066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erin -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100934</latitude>
+			<longitude>-616232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erin Bay -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100768</latitude>
+			<longitude>-617066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erin Bouffe -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100601</latitude>
+			<longitude>-616066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erin Savanna -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>101101</latitude>
+			<longitude>-616399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Escondida Cove -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106768</latitude>
+			<longitude>-616232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Espolon Point -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106768</latitude>
+			<longitude>-616566</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Felicity Hall -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>104602</latitude>
+			<longitude>-614565</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fernando Ravine -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>108269</latitude>
+			<longitude>-610398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fourmi Bay -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>113269</latitude>
+			<longitude>-606065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freeport -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>104602</latitude>
+			<longitude>-614065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fromager Bay -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>112435</latitude>
+			<longitude>-607398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fyzabad -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>101935</latitude>
+			<longitude>-615398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Icacos -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100605</latitude>
+			<longitude>-618895</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iere -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>102938</latitude>
+			<longitude>-613728</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iguane River -- (State: Mayaro)">
+			<state>Mayaro</state>
+			<latitude>101605</latitude>
+			<longitude>-610228</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inniss River -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>100938</latitude>
+			<longitude>-612395</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irois -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>101438</latitude>
+			<longitude>-617395</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irois Bay -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>101605</latitude>
+			<longitude>-617395</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Islet a Bateau -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>107272</latitude>
+			<longitude>-609728</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Islot Bay -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100772</latitude>
+			<longitude>-618062</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isolote Point -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100772</latitude>
+			<longitude>-617728</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaraysingh -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>105439</latitude>
+			<longitude>-611227</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerningham Junction -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>105606</latitude>
+			<longitude>-613727</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kapur Ridge -- (State: Mayaro)">
+			<state>Mayaro</state>
+			<latitude>101607</latitude>
+			<longitude>-611226</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kilgwyn -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>111607</latitude>
+			<longitude>-608060</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Killdeer River -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>103774</latitude>
+			<longitude>-611060</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marabella -- (State: San Fernando)">
+			<state>San Fernando</state>
+			<latitude>103109</latitude>
+			<longitude>-614391</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maraval -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107109</latitude>
+			<longitude>-615058</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montrose -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>105276</latitude>
+			<longitude>-613891</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranja -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107443</latitude>
+			<longitude>-613890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranjo River -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107277</latitude>
+			<longitude>-614057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranjo River -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>106777</latitude>
+			<longitude>-612057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nariva">
+			<state></state>
+			<latitude>103777</latitude>
+			<longitude>-611557</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nariva Lagoon">
+			<state></state>
+			<latitude>104277</latitude>
+			<longitude>-610557</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nariva River -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>103943</latitude>
+			<longitude>-610057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navaret River -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>104110</latitude>
+			<longitude>-610723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navet -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>103610</latitude>
+			<longitude>-611557</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navet Dam -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>104110</latitude>
+			<longitude>-612223</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navette -- (State: Mayaro)">
+			<state>Mayaro</state>
+			<latitude>102110</latitude>
+			<longitude>-610223</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neg River -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>102277</latitude>
+			<longitude>-615723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nelson -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106610</latitude>
+			<longitude>-615890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neptune -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>108443</latitude>
+			<longitude>-608890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nestor -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>105277</latitude>
+			<longitude>-611390</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Manzanilla -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>105277</latitude>
+			<longitude>-610223</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nutmeg Grove -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>112443</latitude>
+			<longitude>-606890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O Brien Point -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>108444</latitude>
+			<longitude>-609389</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O Meara Savanna -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106111</latitude>
+			<longitude>-612722</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogis -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>105611</latitude>
+			<longitude>-611222</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omega -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>104111</latitude>
+			<longitude>-610056</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oropuche -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>102278</latitude>
+			<longitude>-615222</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oropuche -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>106111</latitude>
+			<longitude>-610889</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oropuche Bank">
+			<state></state>
+			<latitude>102611</latitude>
+			<longitude>-615389</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oropuche Lagoon">
+			<state></state>
+			<latitude>102444</latitude>
+			<longitude>-615056</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oropuche River">
+			<state></state>
+			<latitude>102111</latitude>
+			<longitude>-614389</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oropuna River -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106111</latitude>
+			<longitude>-613556</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortinola -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107111</latitude>
+			<longitude>-613056</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortoire -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>102778</latitude>
+			<longitude>-613056</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortoire Hill">
+			<state></state>
+			<latitude>103444</latitude>
+			<longitude>-609889</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otaheite Bay">
+			<state></state>
+			<latitude>102444</latitude>
+			<longitude>-615389</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Othoe Point -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>100778</latitude>
+			<longitude>-613056</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouplay -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>103944</latitude>
+			<longitude>-614389</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palmiste Point -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100779</latitude>
+			<longitude>-615055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palo Seco -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100945</latitude>
+			<longitude>-615721</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piarco -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>105945</latitude>
+			<longitude>-613221</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port-of-Spain">
+			<state></state>
+			<latitude>106612</latitude>
+			<longitude>-615055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Princes Town -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>102779</latitude>
+			<longitude>-613721</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarahoon River -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100946</latitude>
+			<longitude>-617220</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebrada River -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>101780</latitude>
+			<longitude>-614554</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quemada Point -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100446</latitude>
+			<longitude>-618720</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinam River -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>100780</latitude>
+			<longitude>-614887</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quitasol Rock -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107113</latitude>
+			<longitude>-617054</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Claro -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>103114</latitude>
+			<longitude>-611719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saca Manteca -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>104615</latitude>
+			<longitude>-612885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Fernando">
+			<state></state>
+			<latitude>102948</latitude>
+			<longitude>-614552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Juan -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106615</latitude>
+			<longitude>-614385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Juan River -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106282</latitude>
+			<longitude>-614218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sangre Grande Town -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>105948</latitude>
+			<longitude>-611052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Scarborough -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>111948</latitude>
+			<longitude>-607218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siparia Village -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>101448</latitude>
+			<longitude>-614885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tableland -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>102783</latitude>
+			<longitude>-612551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trinidad">
+			<state></state>
+			<latitude>105116</latitude>
+			<longitude>-612384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trinidad and Tobago">
+			<state></state>
+			<latitude>110116</latitude>
+			<longitude>-609884</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trinidad River">
+			<state></state>
+			<latitude>102283</latitude>
+			<longitude>-614884</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tunapuna -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106449</latitude>
+			<longitude>-613717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valencia -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>106618</latitude>
+			<longitude>-611882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valencia River -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>106451</latitude>
+			<longitude>-611882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valsayn -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106618</latitude>
+			<longitude>-614049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vance River -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>102118</latitude>
+			<longitude>-616382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vistabella River">
+			<state></state>
+			<latitude>102951</latitude>
+			<longitude>-614382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waller Field -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106286</latitude>
+			<longitude>-612048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward of Charuma -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>103952</latitude>
+			<longitude>-611881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward of Cocal -- (State: Nariva)">
+			<state>Nariva</state>
+			<latitude>103786</latitude>
+			<longitude>-610714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward of La Brea -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>101786</latitude>
+			<longitude>-616381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward of Montserrat -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>104286</latitude>
+			<longitude>-613381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward of San Rafael -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>105452</latitude>
+			<longitude>-612548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward of Siparia -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>101619</latitude>
+			<longitude>-614548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward of Tacarigua -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>106786</latitude>
+			<longitude>-613714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward of Toco -- (State: Saint David)">
+			<state>Saint David</state>
+			<latitude>107952</latitude>
+			<longitude>-610381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward of Valencia -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>106952</latitude>
+			<longitude>-611548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warners Village -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>105786</latitude>
+			<longitude>-614048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasp Shoal">
+			<state></state>
+			<latitude>111119</latitude>
+			<longitude>-608548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waterloo -- (State: Caroni)">
+			<state>Caroni</state>
+			<latitude>104786</latitude>
+			<longitude>-614548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West-Indie">
+			<state></state>
+			<latitude>200119</latitude>
+			<longitude>-699881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="White Islets -- (State: Mayaro)">
+			<state>Mayaro</state>
+			<latitude>101452</latitude>
+			<longitude>-609881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wild Cow River -- (State: Tobago)">
+			<state>Tobago</state>
+			<latitude>113286</latitude>
+			<longitude>-605881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Williamsville -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>103119</latitude>
+			<longitude>-613714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windbelt Reserve -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>106119</latitude>
+			<longitude>-610214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodbrook -- (State: Port-of-Spain)">
+			<state>Port-of-Spain</state>
+			<latitude>106619</latitude>
+			<longitude>-615214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodland -- (State: Saint Patrick)">
+			<state>Saint Patrick</state>
+			<latitude>102119</latitude>
+			<longitude>-614714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarra Reserve -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>107788</latitude>
+			<longitude>-613212</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarra River -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>108121</latitude>
+			<longitude>-613379</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

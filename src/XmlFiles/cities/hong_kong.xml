@@ -1,0 +1,957 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Hong Kong">
+		<city name="A Chau">
+			<state></state>
+			<latitude>224430</latitude>
+			<longitude>1142264</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="A Chow">
+			<state></state>
+			<latitude>221764</latitude>
+			<longitude>1139097</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="A Kung Tin">
+			<state></state>
+			<latitude>224597</latitude>
+			<longitude>1141097</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="A Kung Wan">
+			<state></state>
+			<latitude>223430</latitude>
+			<longitude>1142764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="A Ma Wat">
+			<state></state>
+			<latitude>225264</latitude>
+			<longitude>1142597</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="A Shan San Wai">
+			<state></state>
+			<latitude>224764</latitude>
+			<longitude>1142097</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aberdeen Bay">
+			<state></state>
+			<latitude>222597</latitude>
+			<longitude>1141597</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afternoon Beach">
+			<state></state>
+			<latitude>222097</latitude>
+			<longitude>1140430</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aldrich Bay">
+			<state></state>
+			<latitude>222930</latitude>
+			<longitude>1142430</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alexander Rocks">
+			<state></state>
+			<latitude>223097</latitude>
+			<longitude>1143264</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amah Rock">
+			<state></state>
+			<latitude>223764</latitude>
+			<longitude>1141930</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ap Cheuk">
+			<state></state>
+			<latitude>225597</latitude>
+			<longitude>1142764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ap Lei Chau">
+			<state></state>
+			<latitude>222430</latitude>
+			<longitude>1141597</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ap Tau Pai">
+			<state></state>
+			<latitude>225430</latitude>
+			<longitude>1142764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ap Tsai Wan">
+			<state></state>
+			<latitude>223264</latitude>
+			<longitude>1142764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Au Pui Tong">
+			<state></state>
+			<latitude>225430</latitude>
+			<longitude>1143097</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Au Pui Wan">
+			<state></state>
+			<latitude>224097</latitude>
+			<longitude>1141764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Au Tau">
+			<state></state>
+			<latitude>223430</latitude>
+			<longitude>1142597</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barkers Bottom">
+			<state></state>
+			<latitude>225431</latitude>
+			<longitude>1141931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Basalt Island">
+			<state></state>
+			<latitude>223265</latitude>
+			<longitude>1143765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bate Head">
+			<state></state>
+			<latitude>224431</latitude>
+			<longitude>1144098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baufort Island">
+			<state></state>
+			<latitude>221931</latitude>
+			<longitude>1142598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belcher Bay">
+			<state></state>
+			<latitude>222931</latitude>
+			<longitude>1141265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belcher Point">
+			<state></state>
+			<latitude>222931</latitude>
+			<longitude>1141431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ben Nevis">
+			<state></state>
+			<latitude>225598</latitude>
+			<longitude>1142098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bolden Hill">
+			<state></state>
+			<latitude>223765</latitude>
+			<longitude>1141598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Braemar Reservoir">
+			<state></state>
+			<latitude>222931</latitude>
+			<longitude>1142098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Breaker Reef">
+			<state></state>
+			<latitude>224765</latitude>
+			<longitude>1144265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brick Hill">
+			<state></state>
+			<latitude>222431</latitude>
+			<longitude>1141765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buffalo Hill">
+			<state></state>
+			<latitude>223765</latitude>
+			<longitude>1142431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bun Sha Pai">
+			<state></state>
+			<latitude>224765</latitude>
+			<longitude>1142931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bunsansiah Rock">
+			<state></state>
+			<latitude>223265</latitude>
+			<longitude>1140765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bush Reef">
+			<state></state>
+			<latitude>224598</latitude>
+			<longitude>1142598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Causeway Bay">
+			<state></state>
+			<latitude>222932</latitude>
+			<longitude>1141932</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Central District">
+			<state></state>
+			<latitude>222932</latitude>
+			<longitude>1141599</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chai Wan">
+			<state></state>
+			<latitude>222766</latitude>
+			<longitude>1142432</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chai Wan Kok">
+			<state></state>
+			<latitude>223932</latitude>
+			<longitude>1141099</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="D Aguilar Peak">
+			<state></state>
+			<latitude>222267</latitude>
+			<longitude>1142600</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dahao Shuidao">
+			<state></state>
+			<latitude>221767</latitude>
+			<longitude>1138433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dapeng Wan">
+			<state></state>
+			<latitude>225600</latitude>
+			<longitude>1144100</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Datum Point">
+			<state></state>
+			<latitude>223600</latitude>
+			<longitude>1143433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Datum Rock">
+			<state></state>
+			<latitude>222767</latitude>
+			<longitude>1140767</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dills Corner">
+			<state></state>
+			<latitude>225100</latitude>
+			<longitude>1141100</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Discovery Bay">
+			<state></state>
+			<latitude>223100</latitude>
+			<longitude>1140267</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dodwells Ridge">
+			<state></state>
+			<latitude>225100</latitude>
+			<longitude>1141267</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Douglas Rock">
+			<state></state>
+			<latitude>223100</latitude>
+			<longitude>1140767</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duck Rocks">
+			<state></state>
+			<latitude>223267</latitude>
+			<longitude>1143100</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dukes Hill">
+			<state></state>
+			<latitude>225267</latitude>
+			<longitude>1141767</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Arm">
+			<state></state>
+			<latitude>224434</latitude>
+			<longitude>1143601</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Brother">
+			<state></state>
+			<latitude>223434</latitude>
+			<longitude>1139934</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Ninepin Island">
+			<state></state>
+			<latitude>222768</latitude>
+			<longitude>1143768</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fa Peng">
+			<state></state>
+			<latitude>223435</latitude>
+			<longitude>1140602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fa Sam Hang">
+			<state></state>
+			<latitude>223935</latitude>
+			<longitude>1142269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fan Kwai Tong">
+			<state></state>
+			<latitude>222602</latitude>
+			<longitude>1138769</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fan Lau">
+			<state></state>
+			<latitude>222102</latitude>
+			<longitude>1138602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fattong">
+			<state></state>
+			<latitude>222769</latitude>
+			<longitude>1143102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fo Yeuk Chau">
+			<state></state>
+			<latitude>222435</latitude>
+			<longitude>1141435</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fu Yung Shan">
+			<state></state>
+			<latitude>223935</latitude>
+			<longitude>1141269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fui Yiu Ha">
+			<state></state>
+			<latitude>222935</latitude>
+			<longitude>1139435</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuk Lok Tsuen">
+			<state></state>
+			<latitude>223935</latitude>
+			<longitude>1141769</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuk Tak Kung">
+			<state></state>
+			<latitude>225435</latitude>
+			<longitude>1141102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fung Wong Shan">
+			<state></state>
+			<latitude>223602</latitude>
+			<longitude>1141935</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futau Chan">
+			<state></state>
+			<latitude>222935</latitude>
+			<longitude>1142769</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gau Tau">
+			<state></state>
+			<latitude>224770</latitude>
+			<longitude>1144436</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gin Drinkers Bay">
+			<state></state>
+			<latitude>223603</latitude>
+			<longitude>1141270</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goliath Hill">
+			<state></state>
+			<latitude>224770</latitude>
+			<longitude>1143436</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gordon Camp">
+			<state></state>
+			<latitude>223936</latitude>
+			<longitude>1139936</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grass Island">
+			<state></state>
+			<latitude>224936</latitude>
+			<longitude>1143770</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grassy Hill">
+			<state></state>
+			<latitude>224270</latitude>
+			<longitude>1141770</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hong Kong">
+			<state></state>
+			<latitude>222604</latitude>
+			<longitude>1141937</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hong Kong Special Administrative Region">
+			<state></state>
+			<latitude>222604</latitude>
+			<longitude>1141771</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hung Hom">
+			<state></state>
+			<latitude>223104</latitude>
+			<longitude>1141937</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="I O Tsuen">
+			<state></state>
+			<latitude>222438</latitude>
+			<longitude>1138605</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inner Port Shelter">
+			<state></state>
+			<latitude>223772</latitude>
+			<longitude>1142938</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan Chau">
+			<state></state>
+			<latitude>222773</latitude>
+			<longitude>1142773</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jardines Lookout">
+			<state></state>
+			<latitude>222773</latitude>
+			<longitude>1141939</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jin Island">
+			<state></state>
+			<latitude>223439</latitude>
+			<longitude>1143273</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joss House Bay">
+			<state></state>
+			<latitude>222773</latitude>
+			<longitude>1142939</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joss House Point">
+			<state></state>
+			<latitude>224939</latitude>
+			<longitude>1143439</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jubilee Reservoir">
+			<state></state>
+			<latitude>223939</latitude>
+			<longitude>1141606</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junk Bay">
+			<state></state>
+			<latitude>223106</latitude>
+			<longitude>1142606</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junk Rock">
+			<state></state>
+			<latitude>224773</latitude>
+			<longitude>1143606</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kowloon">
+			<state></state>
+			<latitude>223274</latitude>
+			<longitude>1141940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kowloon Bay">
+			<state></state>
+			<latitude>223274</latitude>
+			<longitude>1142107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kowloon Peak">
+			<state></state>
+			<latitude>223440</latitude>
+			<longitude>1142274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kowloon Reservoir">
+			<state></state>
+			<latitude>223607</latitude>
+			<longitude>1141607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwan Tei">
+			<state></state>
+			<latitude>225274</latitude>
+			<longitude>1141607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwun Tong">
+			<state></state>
+			<latitude>223274</latitude>
+			<longitude>1142274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lan Tau Island">
+			<state></state>
+			<latitude>222608</latitude>
+			<longitude>1139441</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mong Kok">
+			<state></state>
+			<latitude>223276</latitude>
+			<longitude>1141776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Territories">
+			<state></state>
+			<latitude>224277</latitude>
+			<longitude>1140943</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngau Chi Wan">
+			<state></state>
+			<latitude>223443</latitude>
+			<longitude>1142110</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Point">
+			<state></state>
+			<latitude>223110</latitude>
+			<longitude>1142110</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O Tau">
+			<state></state>
+			<latitude>224111</latitude>
+			<longitude>1142944</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obelisk Hill">
+			<state></state>
+			<latitude>222611</latitude>
+			<longitude>1142278</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oliver Shoals">
+			<state></state>
+			<latitude>221944</latitude>
+			<longitude>1142278</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="On Lok Tsuen">
+			<state></state>
+			<latitude>225111</latitude>
+			<longitude>1141444</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otsi Kok">
+			<state></state>
+			<latitude>222444</latitude>
+			<longitude>1141111</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pok Fu Lam">
+			<state></state>
+			<latitude>222779</latitude>
+			<longitude>1141445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarry Bay">
+			<state></state>
+			<latitude>222946</latitude>
+			<longitude>1142280</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queens Hill">
+			<state></state>
+			<latitude>225113</latitude>
+			<longitude>1141780</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Repulse Bay">
+			<state></state>
+			<latitude>222447</latitude>
+			<longitude>1141947</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Indus">
+			<state></state>
+			<latitude>225447</latitude>
+			<longitude>1141281</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocky Bay">
+			<state></state>
+			<latitude>222447</latitude>
+			<longitude>1142614</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rugged Rock">
+			<state></state>
+			<latitude>221947</latitude>
+			<longitude>1143114</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sha Tin New Town">
+			<state></state>
+			<latitude>223948</latitude>
+			<longitude>1141948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shatin Bay">
+			<state></state>
+			<latitude>224115</latitude>
+			<longitude>1142115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenzhen Wan">
+			<state></state>
+			<latitude>224615</latitude>
+			<longitude>1139282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sheung Shui">
+			<state></state>
+			<latitude>225282</latitude>
+			<longitude>1141282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stanley">
+			<state></state>
+			<latitude>222115</latitude>
+			<longitude>1142282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tin Shui Wai">
+			<state></state>
+			<latitude>224783</latitude>
+			<longitude>1140116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsing Yi">
+			<state></state>
+			<latitude>223616</latitude>
+			<longitude>1141116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuen Mun">
+			<state></state>
+			<latitude>224116</latitude>
+			<longitude>1139949</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tung Chung">
+			<state></state>
+			<latitude>222949</latitude>
+			<longitude>1139616</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="U Kwai Sha Tsui">
+			<state></state>
+			<latitude>224450</latitude>
+			<longitude>1142450</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uk Cheung">
+			<state></state>
+			<latitude>223950</latitude>
+			<longitude>1142617</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uk Tau">
+			<state></state>
+			<latitude>224450</latitude>
+			<longitude>1143450</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Un Kok">
+			<state></state>
+			<latitude>221950</latitude>
+			<longitude>1141617</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ung Kong Wan">
+			<state></state>
+			<latitude>223450</latitude>
+			<longitude>1143617</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ung Kwai Chau">
+			<state></state>
+			<latitude>223950</latitude>
+			<longitude>1142950</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Keung Shan">
+			<state></state>
+			<latitude>222617</latitude>
+			<longitude>1138950</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urmston Road">
+			<state></state>
+			<latitude>223950</latitude>
+			<longitude>1139117</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urn Island">
+			<state></state>
+			<latitude>223784</latitude>
+			<longitude>1143284</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victor Rock">
+			<state></state>
+			<latitude>223118</latitude>
+			<longitude>1144451</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vimy Ridge">
+			<state></state>
+			<latitude>225451</latitude>
+			<longitude>1141451</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volunteer Camp">
+			<state></state>
+			<latitude>224951</latitude>
+			<longitude>1141451</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wan Chai">
+			<state></state>
+			<latitude>222952</latitude>
+			<longitude>1141786</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wan Chai Gap">
+			<state></state>
+			<latitude>222786</latitude>
+			<longitude>1141786</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wing Lung Wai">
+			<state></state>
+			<latitude>224452</latitude>
+			<longitude>1140786</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wing Ning Tsuen">
+			<state></state>
+			<latitude>224619</latitude>
+			<longitude>1140286</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wing Ning Wai">
+			<state></state>
+			<latitude>225119</latitude>
+			<longitude>1141619</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wing Ping Tsuen">
+			<state></state>
+			<latitude>225119</latitude>
+			<longitude>1140786</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wintz Hill">
+			<state></state>
+			<latitude>224952</latitude>
+			<longitude>1143619</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuen Leng">
+			<state></state>
+			<latitude>224954</latitude>
+			<longitude>1141621</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuen Long">
+			<state></state>
+			<latitude>224621</latitude>
+			<longitude>1140454</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuid-Chineesche Zee">
+			<state></state>
+			<latitude>150122</latitude>
+			<longitude>1150122</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,593 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Isle Of Man">
+		<city name="Andreas">
+			<state></state>
+			<latitude>543764</latitude>
+			<longitude>-44236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bahama Bank">
+			<state></state>
+			<latitude>543765</latitude>
+			<longitude>-42402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballabeg">
+			<state></state>
+			<latitude>541098</latitude>
+			<longitude>-46735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballacash Bank">
+			<state></state>
+			<latitude>544431</latitude>
+			<longitude>-42235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballakinnag">
+			<state></state>
+			<latitude>543431</latitude>
+			<longitude>-45402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballasalla">
+			<state></state>
+			<latitude>541098</latitude>
+			<longitude>-46235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banks Howe">
+			<state></state>
+			<latitude>541765</latitude>
+			<longitude>-44069</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barony">
+			<state></state>
+			<latitude>542765</latitude>
+			<longitude>-43235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bay ny Carrickey">
+			<state></state>
+			<latitude>540765</latitude>
+			<longitude>-47069</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bishops Court">
+			<state></state>
+			<latitude>543098</latitude>
+			<longitude>-45735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bradda Head">
+			<state></state>
+			<latitude>541098</latitude>
+			<longitude>-47569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bride">
+			<state></state>
+			<latitude>543931</latitude>
+			<longitude>-43735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Calf of Man">
+			<state></state>
+			<latitude>540599</latitude>
+			<longitude>-48234</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Calf Sound">
+			<state></state>
+			<latitude>540599</latitude>
+			<longitude>-47901</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Castletown">
+			<state></state>
+			<latitude>540932</latitude>
+			<longitude>-46401</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Castletown Bay">
+			<state></state>
+			<latitude>540766</latitude>
+			<longitude>-46234</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Colby">
+			<state></state>
+			<latitude>541099</latitude>
+			<longitude>-47068</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Craig Rock">
+			<state></state>
+			<latitude>542766</latitude>
+			<longitude>-46568</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cranstal">
+			<state></state>
+			<latitude>544099</latitude>
+			<longitude>-43568</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cregneish">
+			<state></state>
+			<latitude>540766</latitude>
+			<longitude>-47568</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crosby">
+			<state></state>
+			<latitude>541932</latitude>
+			<longitude>-45568</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dalby Point">
+			<state></state>
+			<latitude>541933</latitude>
+			<longitude>-47233</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dhoon Glen">
+			<state></state>
+			<latitude>542600</latitude>
+			<longitude>-43567</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dog Mills">
+			<state></state>
+			<latitude>543600</latitude>
+			<longitude>-43733</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Douglas">
+			<state></state>
+			<latitude>541600</latitude>
+			<longitude>-44733</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Douglas Bay">
+			<state></state>
+			<latitude>541600</latitude>
+			<longitude>-44400</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Douglas Harbour">
+			<state></state>
+			<latitude>541600</latitude>
+			<longitude>-44567</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elby Point">
+			<state></state>
+			<latitude>541768</latitude>
+			<longitude>-47232</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fleshwick Bay">
+			<state></state>
+			<latitude>541269</latitude>
+			<longitude>-47398</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Foxdale">
+			<state></state>
+			<latitude>541769</latitude>
+			<longitude>-46065</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glen Helen">
+			<state></state>
+			<latitude>542270</latitude>
+			<longitude>-45730</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glen Maye">
+			<state></state>
+			<latitude>541936</latitude>
+			<longitude>-46897</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glen Mona">
+			<state></state>
+			<latitude>542770</latitude>
+			<longitude>-43564</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glen Mooar">
+			<state></state>
+			<latitude>542770</latitude>
+			<longitude>-45897</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isle of Man">
+			<state></state>
+			<latitude>542605</latitude>
+			<longitude>-44895</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jurby">
+			<state></state>
+			<latitude>543606</latitude>
+			<longitude>-45227</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jurby Head">
+			<state></state>
+			<latitude>543939</latitude>
+			<longitude>-45227</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="King William Banks">
+			<state></state>
+			<latitude>544607</latitude>
+			<longitude>-40726</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirk Braddan">
+			<state></state>
+			<latitude>541774</latitude>
+			<longitude>-45060</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirkmichael">
+			<state></state>
+			<latitude>542940</latitude>
+			<longitude>-45726</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langness">
+			<state></state>
+			<latitude>540608</latitude>
+			<longitude>-46059</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langness Point">
+			<state></state>
+			<latitude>540608</latitude>
+			<longitude>-46225</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laxey">
+			<state></state>
+			<latitude>542441</latitude>
+			<longitude>-43892</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laxey Bay">
+			<state></state>
+			<latitude>542275</latitude>
+			<longitude>-43725</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laxey Glen">
+			<state></state>
+			<latitude>542441</latitude>
+			<longitude>-44059</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laxey Head">
+			<state></state>
+			<latitude>542441</latitude>
+			<longitude>-43559</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lezayre">
+			<state></state>
+			<latitude>543275</latitude>
+			<longitude>-44059</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Little Ness">
+			<state></state>
+			<latitude>541441</latitude>
+			<longitude>-44892</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maughold">
+			<state></state>
+			<latitude>543109</latitude>
+			<longitude>-43058</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mount Karrin">
+			<state></state>
+			<latitude>543026</latitude>
+			<longitude>-44891</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North Barrule">
+			<state></state>
+			<latitude>542943</latitude>
+			<longitude>-43890</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Onchan">
+			<state></state>
+			<latitude>541944</latitude>
+			<longitude>-44389</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Patrick">
+			<state></state>
+			<latitude>542112</latitude>
+			<longitude>-46888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peel">
+			<state></state>
+			<latitude>542445</latitude>
+			<longitude>-46888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pen-y-parc">
+			<state></state>
+			<latitude>531612</latitude>
+			<longitude>-54388</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Perwick Bay">
+			<state></state>
+			<latitude>540779</latitude>
+			<longitude>-47388</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Point Cranstal">
+			<state></state>
+			<latitude>543779</latitude>
+			<longitude>-43555</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Cornah">
+			<state></state>
+			<latitude>542779</latitude>
+			<longitude>-43388</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Erin">
+			<state></state>
+			<latitude>541112</latitude>
+			<longitude>-47721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Grenaugh">
+			<state></state>
+			<latitude>541112</latitude>
+			<longitude>-45555</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Groudle">
+			<state></state>
+			<latitude>541945</latitude>
+			<longitude>-44055</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Mooar">
+			<state></state>
+			<latitude>542945</latitude>
+			<longitude>-43055</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Soderick">
+			<state></state>
+			<latitude>541279</latitude>
+			<longitude>-45221</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ramsey">
+			<state></state>
+			<latitude>543281</latitude>
+			<longitude>-43886</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ramsey Bay">
+			<state></state>
+			<latitude>543614</latitude>
+			<longitude>-42886</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rhenas">
+			<state></state>
+			<latitude>542447</latitude>
+			<longitude>-45553</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Glass">
+			<state></state>
+			<latitude>541781</latitude>
+			<longitude>-44886</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Neb">
+			<state></state>
+			<latitude>542281</latitude>
+			<longitude>-46886</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ronaldsway">
+			<state></state>
+			<latitude>540947</latitude>
+			<longitude>-46053</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rue Point">
+			<state></state>
+			<latitude>544114</latitude>
+			<longitude>-44386</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Anns Head">
+			<state></state>
+			<latitude>541115</latitude>
+			<longitude>-45385</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Germains Station">
+			<state></state>
+			<latitude>542448</latitude>
+			<longitude>-46385</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Johns">
+			<state></state>
+			<latitude>542115</latitude>
+			<longitude>-46218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Michaels Island">
+			<state></state>
+			<latitude>540782</latitude>
+			<longitude>-45885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santon">
+			<state></state>
+			<latitude>541282</latitude>
+			<longitude>-45718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Scarlet Point">
+			<state></state>
+			<latitude>540782</latitude>
+			<longitude>-46552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Snaefell">
+			<state></state>
+			<latitude>542782</latitude>
+			<longitude>-44718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="South Barrule">
+			<state></state>
+			<latitude>541615</latitude>
+			<longitude>-46552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Strunakill Bank">
+			<state></state>
+			<latitude>544282</latitude>
+			<longitude>-43718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sulby">
+			<state></state>
+			<latitude>543282</latitude>
+			<longitude>-44718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sulby River">
+			<state></state>
+			<latitude>543448</latitude>
+			<longitude>-43718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Ayre">
+			<state></state>
+			<latitude>544116</latitude>
+			<longitude>-44051</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wart Bank">
+			<state></state>
+			<latitude>540619</latitude>
+			<longitude>-47548</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whitestone Bank">
+			<state></state>
+			<latitude>544119</latitude>
+			<longitude>-43048</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

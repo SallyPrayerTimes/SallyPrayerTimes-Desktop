@@ -1,0 +1,754 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Lesotho">
+		<city name="Abele">
+			<state></state>
+			<latitude>-296236</latitude>
+			<longitude>276597</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alehloana">
+			<state></state>
+			<latitude>-295403</latitude>
+			<longitude>282430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alwyns Kop">
+			<state></state>
+			<latitude>-303903</latitude>
+			<longitude>276264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anone">
+			<state></state>
+			<latitude>-302736</latitude>
+			<longitude>277097</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aujong">
+			<state></state>
+			<latitude>-298736</latitude>
+			<longitude>271930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Azariele">
+			<state></state>
+			<latitude>-296903</latitude>
+			<longitude>272430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cairntoul">
+			<state></state>
+			<latitude>-306568</latitude>
+			<longitude>280932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cana">
+			<state></state>
+			<latitude>-291068</latitude>
+			<longitude>278599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalani">
+			<state></state>
+			<latitude>-300734</latitude>
+			<longitude>279599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chere">
+			<state></state>
+			<latitude>-295901</latitude>
+			<longitude>271766</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cock Spur">
+			<state></state>
+			<latitude>-299734</latitude>
+			<longitude>277432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Corn Exchange">
+			<state></state>
+			<latitude>-289734</latitude>
+			<longitude>279932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cutting Camp">
+			<state></state>
+			<latitude>-302568</latitude>
+			<longitude>277599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Digalaning Stream">
+			<state></state>
+			<latitude>-297067</latitude>
+			<longitude>284267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dihloireng">
+			<state></state>
+			<latitude>-302233</latitude>
+			<longitude>274100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dikhaleng Nek">
+			<state></state>
+			<latitude>-292567</latitude>
+			<longitude>279933</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dikhinbaning">
+			<state></state>
+			<latitude>-303233</latitude>
+			<longitude>281433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dikhoileng">
+			<state></state>
+			<latitude>-295900</latitude>
+			<longitude>286600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dikolobeng">
+			<state></state>
+			<latitude>-301233</latitude>
+			<longitude>276767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dilli Dilli">
+			<state></state>
+			<latitude>-305067</latitude>
+			<longitude>276767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dinakaning">
+			<state></state>
+			<latitude>-295067</latitude>
+			<longitude>288933</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dinikeng River">
+			<state></state>
+			<latitude>-295400</latitude>
+			<longitude>287600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dinolsing River">
+			<state></state>
+			<latitude>-296233</latitude>
+			<longitude>289100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dipetung Nek">
+			<state></state>
+			<latitude>-290400</latitude>
+			<longitude>281267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diqonong Stream">
+			<state></state>
+			<latitude>-297233</latitude>
+			<longitude>287600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ditsebi">
+			<state></state>
+			<latitude>-292900</latitude>
+			<longitude>281600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ditsuening">
+			<state></state>
+			<latitude>-297900</latitude>
+			<longitude>283933</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dukotsi">
+			<state></state>
+			<latitude>-293733</latitude>
+			<longitude>274767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emmaus">
+			<state></state>
+			<latitude>-297566</latitude>
+			<longitude>275601</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fako">
+			<state></state>
+			<latitude>-292731</latitude>
+			<longitude>278269</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fika La Tsuene">
+			<state></state>
+			<latitude>-302898</latitude>
+			<longitude>276602</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fikalamotho Pass">
+			<state></state>
+			<latitude>-299398</latitude>
+			<longitude>277935</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fikalatsoene">
+			<state></state>
+			<latitude>-303231</latitude>
+			<longitude>276269</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fikalemahloana">
+			<state></state>
+			<latitude>-302565</latitude>
+			<longitude>279935</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fikalemotko Stream">
+			<state></state>
+			<latitude>-300398</latitude>
+			<longitude>284935</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fobani Nek">
+			<state></state>
+			<latitude>-290398</latitude>
+			<longitude>279269</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Hartley">
+			<state></state>
+			<latitude>-303231</latitude>
+			<longitude>277602</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fosi">
+			<state></state>
+			<latitude>-294231</latitude>
+			<longitude>278769</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foso">
+			<state></state>
+			<latitude>-292565</latitude>
+			<longitude>275769</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furumela">
+			<state></state>
+			<latitude>-295398</latitude>
+			<longitude>278102</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gethsemane">
+			<state></state>
+			<latitude>-291730</latitude>
+			<longitude>278936</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Good Shepherd">
+			<state></state>
+			<latitude>-300897</latitude>
+			<longitude>275103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Griffiths">
+			<state></state>
+			<latitude>-302397</latitude>
+			<longitude>278270</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habana Morena">
+			<state></state>
+			<latitude>-290063</latitude>
+			<longitude>278104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haletswa">
+			<state></state>
+			<latitude>-289563</latitude>
+			<longitude>280604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haljoane">
+			<state></state>
+			<latitude>-290563</latitude>
+			<longitude>279604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hameeding">
+			<state></state>
+			<latitude>-288063</latitude>
+			<longitude>285604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hellspoort">
+			<state></state>
+			<latitude>-298563</latitude>
+			<longitude>274104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hermon">
+			<state></state>
+			<latitude>-297229</latitude>
+			<longitude>271271</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlakametsa">
+			<state></state>
+			<latitude>-286896</latitude>
+			<longitude>284437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlakanelo">
+			<state></state>
+			<latitude>-297063</latitude>
+			<longitude>288104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlapa">
+			<state></state>
+			<latitude>-304563</latitude>
+			<longitude>277271</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hleoheng">
+			<state></state>
+			<latitude>-289063</latitude>
+			<longitude>278937</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hloahloeng">
+			<state></state>
+			<latitude>-300229</latitude>
+			<longitude>282104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlotse">
+			<state></state>
+			<latitude>-288729</latitude>
+			<longitude>280604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hololo">
+			<state></state>
+			<latitude>-287063</latitude>
+			<longitude>284437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Honeymoon Hill">
+			<state></state>
+			<latitude>-291229</latitude>
+			<longitude>277771</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ino">
+			<state></state>
+			<latitude>-293228</latitude>
+			<longitude>278605</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isinxondo Stream">
+			<state></state>
+			<latitude>-305562</latitude>
+			<longitude>277272</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaele">
+			<state></state>
+			<latitude>-294561</latitude>
+			<longitude>278773</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joels">
+			<state></state>
+			<latitude>-286727</latitude>
+			<longitude>282939</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Matsaba">
+			<state></state>
+			<latitude>-296394</latitude>
+			<longitude>277606</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jorilani">
+			<state></state>
+			<latitude>-294227</latitude>
+			<longitude>281273</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaphe">
+			<state></state>
+			<latitude>-299560</latitude>
+			<longitude>276607</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kelechane">
+			<state></state>
+			<latitude>-297226</latitude>
+			<longitude>277774</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kena">
+			<state></state>
+			<latitude>-297560</latitude>
+			<longitude>276607</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kepi">
+			<state></state>
+			<latitude>-291560</latitude>
+			<longitude>277940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kepisi">
+			<state></state>
+			<latitude>-296060</latitude>
+			<longitude>281440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ketane Falls">
+			<state></state>
+			<latitude>-298893</latitude>
+			<longitude>279274</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ketane River">
+			<state></state>
+			<latitude>-301226</latitude>
+			<longitude>278940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwepe">
+			<state></state>
+			<latitude>-298393</latitude>
+			<longitude>275774</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leribe">
+			<state></state>
+			<latitude>-288225</latitude>
+			<longitude>281108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leribe District -- (State: Leribe)">
+			<state>Leribe</state>
+			<latitude>-289892</latitude>
+			<longitude>280108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leribe Plateau">
+			<state></state>
+			<latitude>-288392</latitude>
+			<longitude>281441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maseru">
+			<state></state>
+			<latitude>-293058</latitude>
+			<longitude>274942</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Na Nohama">
+			<state></state>
+			<latitude>-300557</latitude>
+			<longitude>278610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nchipileng">
+			<state></state>
+			<latitude>-299057</latitude>
+			<longitude>275610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngoajane River">
+			<state></state>
+			<latitude>-287057</latitude>
+			<longitude>283777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nokong">
+			<state></state>
+			<latitude>-290723</latitude>
+			<longitude>280777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northern Karoo">
+			<state></state>
+			<latitude>-299890</latitude>
+			<longitude>240110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nthamaha">
+			<state></state>
+			<latitude>-299723</latitude>
+			<longitude>279277</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ntjepeleng">
+			<state></state>
+			<latitude>-299390</latitude>
+			<longitude>276110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ntlamas">
+			<state></state>
+			<latitude>-291723</latitude>
+			<longitude>278777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ntlasing">
+			<state></state>
+			<latitude>-298890</latitude>
+			<longitude>280277</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ntsunyane">
+			<state></state>
+			<latitude>-295890</latitude>
+			<longitude>276443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ntsupe">
+			<state></state>
+			<latitude>-296557</latitude>
+			<longitude>277777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Mohales Hoek">
+			<state></state>
+			<latitude>-300889</latitude>
+			<longitude>274944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ongeluks Nek">
+			<state></state>
+			<latitude>-303389</latitude>
+			<longitude>282778</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peka">
+			<state></state>
+			<latitude>-288388</latitude>
+			<longitude>282112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piting">
+			<state></state>
+			<latitude>-292388</latitude>
+			<longitude>277445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qoatsaneng">
+			<state></state>
+			<latitude>-293220</latitude>
+			<longitude>275113</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raboroko">
+			<state></state>
+			<latitude>-301386</latitude>
+			<longitude>273614</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakhobetso">
+			<state></state>
+			<latitude>-296386</latitude>
+			<longitude>275447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakhoiti">
+			<state></state>
+			<latitude>-295053</latitude>
+			<longitude>275781</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raleqheka">
+			<state></state>
+			<latitude>-296719</latitude>
+			<longitude>277114</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramabitsa">
+			<state></state>
+			<latitude>-297219</latitude>
+			<longitude>277281</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramatsediso">
+			<state></state>
+			<latitude>-300219</latitude>
+			<longitude>289281</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramoihloe Store">
+			<state></state>
+			<latitude>-297386</latitude>
+			<longitude>271614</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Relye">
+			<state></state>
+			<latitude>-289886</latitude>
+			<longitude>281947</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ribaning Stream">
+			<state></state>
+			<latitude>-298553</latitude>
+			<longitude>276447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riet Vlei">
+			<state></state>
+			<latitude>-300053</latitude>
+			<longitude>273447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubutsuane">
+			<state></state>
+			<latitude>-291883</latitude>
+			<longitude>291950</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Qeme">
+			<state></state>
+			<latitude>-294716</latitude>
+			<longitude>275284</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Van Rooyens Gate">
+			<state></state>
+			<latitude>-297382</latitude>
+			<longitude>271285</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windsor Castle">
+			<state></state>
+			<latitude>-290048</latitude>
+			<longitude>291786</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeyateyaneng -- (State: Berea)">
+			<state>Berea</state>
+			<latitude>-291546</latitude>
+			<longitude>279288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zion">
+			<state></state>
+			<latitude>-291211</latitude>
+			<longitude>279789</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

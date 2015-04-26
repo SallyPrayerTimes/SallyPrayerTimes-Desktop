@@ -1,0 +1,1286 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="South Korea">
+		<city name="An-san -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>381558</latitude>
+			<longitude>1283333</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="An-san -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>348519</latitude>
+			<longitude>1284219</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="An-san -- (State: Soul-t ukpyolsi)">
+			<state>Soul-t ukpyolsi</state>
+			<latitude>375764</latitude>
+			<longitude>1269597</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="An-san -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>371186</latitude>
+			<longitude>1263939</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ansan">
+			<state></state>
+			<latitude>354764</latitude>
+			<longitude>1265430</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ansan -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>373333</latitude>
+			<longitude>1268316</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ansan-yok -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>373369</latitude>
+			<longitude>1267989</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asan -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>363597</latitude>
+			<longitude>1269264</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boryeong gun -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>363431</latitude>
+			<longitude>1265098</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bucheon -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>375087</latitude>
+			<longitude>1267929</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carles Island -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>345616</latitude>
+			<longitude>1260785</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ch onan-yok -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>368202</latitude>
+			<longitude>1271574</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changwon -- (State: Cholla-bukto)">
+			<state>Cholla-bukto</state>
+			<latitude>359346</latitude>
+			<longitude>1266399</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changwon -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>352671</latitude>
+			<longitude>1286168</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheonan">
+			<state></state>
+			<latitude>368432</latitude>
+			<longitude>1271599</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheonan -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>368163</latitude>
+			<longitude>1271621</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheonan gun">
+			<state></state>
+			<latitude>368432</latitude>
+			<longitude>1272599</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheongju -- (State: Ch ungch ong-bukto)">
+			<state>Ch ungch ong-bukto</state>
+			<latitude>366471</latitude>
+			<longitude>1274996</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chungbuk -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>362766</latitude>
+			<longitude>1285766</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coray">
+			<state></state>
+			<latitude>370099</latitude>
+			<longitude>1275099</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dae Gu-eulbi Do -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>345886</latitude>
+			<longitude>1285606</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daegu -- (State: Taegu-gwangyoksi)">
+			<state>Taegu-gwangyoksi</state>
+			<latitude>358100</latitude>
+			<longitude>1285600</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daejeon -- (State: Taejon-gwangyoksi)">
+			<state>Taejon-gwangyoksi</state>
+			<latitude>363433</latitude>
+			<longitude>1274267</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dong Cheon -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>349689</latitude>
+			<longitude>1276111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faa To -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>349610</latitude>
+			<longitude>1261721</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frederick Rock -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>351163</latitude>
+			<longitude>1286902</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuan -- (State: Cholla-bukto)">
+			<state>Cholla-bukto</state>
+			<latitude>357383</latitude>
+			<longitude>1267421</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuhyo-ri -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>380102</latitude>
+			<longitude>1281269</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuji-to -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>343838</latitude>
+			<longitude>1272099</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuken-zan -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>361708</latitude>
+			<longitude>1289821</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukitsu-ri -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>344769</latitude>
+			<longitude>1265102</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuko-ri -- (State: Ch ungch ong-bukto)">
+			<state>Ch ungch ong-bukto</state>
+			<latitude>365435</latitude>
+			<longitude>1273769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuko-to -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>345435</latitude>
+			<longitude>1265269</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukoku-san -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>345024</latitude>
+			<longitude>1268716</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuku-seki -- (State: Cheju-do)">
+			<state>Cheju-do</state>
+			<latitude>334269</latitude>
+			<longitude>1262269</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukugan">
+			<state></state>
+			<latitude>350602</latitude>
+			<longitude>1270935</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuhyo-ri -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>345858</latitude>
+			<longitude>1265633</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fumuki-to -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>347677</latitude>
+			<longitude>1262349</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fundo-ri -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>345269</latitude>
+			<longitude>1262935</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fungo-wan -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>370269</latitude>
+			<longitude>1268435</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funhai -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>361227</latitude>
+			<longitude>1293624</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funsen-ri -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>369435</latitude>
+			<longitude>1290602</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funyan -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>346196</latitude>
+			<longitude>1272960</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furumu Somu -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>363160</latitude>
+			<longitude>1263596</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fusshi To -- (State: Inch on-gwangyoksi)">
+			<state>Inch on-gwangyoksi</state>
+			<latitude>375083</latitude>
+			<longitude>1265994</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futo-suido -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>351041</latitude>
+			<longitude>1286444</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futozan">
+			<state></state>
+			<latitude>351346</latitude>
+			<longitude>1270194</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuyo-san -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>346035</latitude>
+			<longitude>1268841</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ganggyeong -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>361689</latitude>
+			<longitude>1270267</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gangneung -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>377603</latitude>
+			<longitude>1289103</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geoje Do -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>348650</latitude>
+			<longitude>1286495</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geoje gun">
+			<state></state>
+			<latitude>348436</latitude>
+			<longitude>1286770</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gimcheon">
+			<state></state>
+			<latitude>361270</latitude>
+			<longitude>1281103</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gimhae gun">
+			<state></state>
+			<latitude>352603</latitude>
+			<longitude>1288770</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gochang gun">
+			<state></state>
+			<latitude>354270</latitude>
+			<longitude>1265936</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gwangju -- (State: Kwangju-gwangyoksi)">
+			<state>Kwangju-gwangyoksi</state>
+			<latitude>351770</latitude>
+			<longitude>1269270</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyeongju">
+			<state></state>
+			<latitude>358436</latitude>
+			<longitude>1292603</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyeongju -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>358531</latitude>
+			<longitude>1292220</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyeongsan -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>358336</latitude>
+			<longitude>1287481</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyeongsang Bugdo -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>363436</latitude>
+			<longitude>1287603</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inch on">
+			<state></state>
+			<latitude>350772</latitude>
+			<longitude>1267105</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Incheon -- (State: Inch on-gwangyoksi)">
+			<state>Inch on-gwangyoksi</state>
+			<latitude>374605</latitude>
+			<longitude>1264266</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Incheon Hang -- (State: Inch on-gwangyoksi)">
+			<state>Inch on-gwangyoksi</state>
+			<latitude>374263</latitude>
+			<longitude>1265791</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iubu Somu -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>360044</latitude>
+			<longitude>1266141</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ium-ni">
+			<state></state>
+			<latitude>349772</latitude>
+			<longitude>1272938</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ium-ni -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>349816</latitude>
+			<longitude>1272719</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iun-dong -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>373672</latitude>
+			<longitude>1277955</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeju -- (State: Cheju-do)">
+			<state>Cheju-do</state>
+			<latitude>335203</latitude>
+			<longitude>1265325</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeju Do -- (State: Cheju-do)">
+			<state>Cheju-do</state>
+			<latitude>334273</latitude>
+			<longitude>1265106</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeju Island -- (State: Cheju-do)">
+			<state>Cheju-do</state>
+			<latitude>334123</latitude>
+			<longitude>1265567</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeju Si -- (State: Cheju-do)">
+			<state>Cheju-do</state>
+			<latitude>334773</latitude>
+			<longitude>1265439</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeju Strait">
+			<state></state>
+			<latitude>336812</latitude>
+			<longitude>1265081</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeonju">
+			<state></state>
+			<latitude>358439</latitude>
+			<longitude>1271606</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeonju -- (State: Cholla-bukto)">
+			<state>Cholla-bukto</state>
+			<latitude>358325</latitude>
+			<longitude>1271595</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinju -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>352034</latitude>
+			<longitude>1280953</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinju">
+			<state></state>
+			<latitude>351939</latitude>
+			<longitude>1280939</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinju Man -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>349537</latitude>
+			<longitude>1279703</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinyang gun">
+			<state></state>
+			<latitude>352106</latitude>
+			<longitude>1281773</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kimhae -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>352449</latitude>
+			<longitude>1288918</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kimpo">
+			<state></state>
+			<latitude>376774</latitude>
+			<longitude>1266774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kkokkal-som -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>345826</latitude>
+			<longitude>1258971</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kumi -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>365357</latitude>
+			<longitude>1287779</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kumi-si">
+			<state></state>
+			<latitude>361440</latitude>
+			<longitude>1283440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwangju -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>374199</latitude>
+			<longitude>1272699</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwangju">
+			<state></state>
+			<latitude>351774</latitude>
+			<longitude>1267607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagraviore Peak -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>344014</latitude>
+			<longitude>1262405</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="lcty o -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>350252</latitude>
+			<longitude>1265533</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liancourt Rocks">
+			<state></state>
+			<latitude>372608</latitude>
+			<longitude>1318775</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lindsay Island -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>365091</latitude>
+			<longitude>1263677</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lodol -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>372775</latitude>
+			<longitude>1278441</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loney bluff -- (State: Cheju-do)">
+			<state>Cheju-do</state>
+			<latitude>332097</latitude>
+			<longitude>1263016</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lptong-ni -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>365108</latitude>
+			<longitude>1269608</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyne Sound -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>345608</latitude>
+			<longitude>1261775</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>347901</latitude>
+			<longitude>1276081</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>352190</latitude>
+			<longitude>1285834</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>379609</latitude>
+			<longitude>1273276</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>361276</latitude>
+			<longitude>1271276</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan -- (State: Kwangju-gwangyoksi)">
+			<state>Kwangju-gwangyoksi</state>
+			<latitude>352351</latitude>
+			<longitude>1269134</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>365776</latitude>
+			<longitude>1283442</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>380942</latitude>
+			<longitude>1280276</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan">
+			<state></state>
+			<latitude>349776</latitude>
+			<longitude>1275776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan-hang -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>351723</latitude>
+			<longitude>1286062</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masan-si">
+			<state></state>
+			<latitude>352109</latitude>
+			<longitude>1285776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masang-dong -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>344378</latitude>
+			<longitude>1261951</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masanp o -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>372492</latitude>
+			<longitude>1266803</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ok-p o -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>348953</latitude>
+			<longitude>1287178</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okp o-dong -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>348986</latitude>
+			<longitude>1287111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ooejang -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>354944</latitude>
+			<longitude>1278444</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osan">
+			<state></state>
+			<latitude>349778</latitude>
+			<longitude>1270278</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osan -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>352864</latitude>
+			<longitude>1280011</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osan -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>346444</latitude>
+			<longitude>1268111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osan -- (State: Ch ungch ong-bukto)">
+			<state>Ch ungch ong-bukto</state>
+			<latitude>366714</latitude>
+			<longitude>1273889</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osan -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>373683</latitude>
+			<longitude>1287964</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osan -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>371561</latitude>
+			<longitude>1270805</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osan -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>368942</latitude>
+			<longitude>1294272</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oye-ch on">
+			<state></state>
+			<latitude>352778</latitude>
+			<longitude>1269611</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pohang">
+			<state></state>
+			<latitude>360945</latitude>
+			<longitude>1293779</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusan -- (State: Pusan-gwangyoksi)">
+			<state>Pusan-gwangyoksi</state>
+			<latitude>351140</latitude>
+			<longitude>1290515</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusan -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>357112</latitude>
+			<longitude>1280445</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusan-daegyo -- (State: Pusan-gwangyoksi)">
+			<state>Pusan-gwangyoksi</state>
+			<latitude>351076</latitude>
+			<longitude>1290501</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusan-hang -- (State: Pusan-gwangyoksi)">
+			<state>Pusan-gwangyoksi</state>
+			<latitude>351204</latitude>
+			<longitude>1290718</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusan-man -- (State: Pusan-gwangyoksi)">
+			<state>Pusan-gwangyoksi</state>
+			<latitude>350904</latitude>
+			<longitude>1291193</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusan-ni -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>368112</latitude>
+			<longitude>1264945</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusan-si -- (State: Pusan-gwangyoksi)">
+			<state>Pusan-gwangyoksi</state>
+			<latitude>351445</latitude>
+			<longitude>1290612</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusan-yok -- (State: Pusan-gwangyoksi)">
+			<state>Pusan-gwangyoksi</state>
+			<latitude>351270</latitude>
+			<longitude>1290520</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusang -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>341409</latitude>
+			<longitude>1266748</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusang-dong -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>360804</latitude>
+			<longitude>1282767</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusanjin-gu">
+			<state></state>
+			<latitude>351779</latitude>
+			<longitude>1290945</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusansiso-gu">
+			<state></state>
+			<latitude>350956</latitude>
+			<longitude>1290248</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoti To -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>363941</latitude>
+			<longitude>1263738</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ro-sho -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>341281</latitude>
+			<longitude>1266447</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rokichi-ri">
+			<state></state>
+			<latitude>357947</latitude>
+			<longitude>1267281</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rosho-ri -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>346281</latitude>
+			<longitude>1265281</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seoul -- (State: Soul-t ukpyolsi)">
+			<state>Soul-t ukpyolsi</state>
+			<latitude>375779</latitude>
+			<longitude>1270112</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seoul City -- (State: Soul-t ukpyolsi)">
+			<state>Soul-t ukpyolsi</state>
+			<latitude>375948</latitude>
+			<longitude>1270115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seoul River">
+			<state></state>
+			<latitude>377607</latitude>
+			<longitude>1261946</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sindorim -- (State: Soul-t ukpyolsi)">
+			<state>Soul-t ukpyolsi</state>
+			<latitude>375237</latitude>
+			<longitude>1269109</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suwon -- (State: Cheju-do)">
+			<state>Cheju-do</state>
+			<latitude>334379</latitude>
+			<longitude>1262776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suwon -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>372957</latitude>
+			<longitude>1270307</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suwon -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>364615</latitude>
+			<longitude>1271448</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suwon-gun">
+			<state></state>
+			<latitude>372615</latitude>
+			<longitude>1269282</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suwon-san -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>378623</latitude>
+			<longitude>1272704</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suwon-si">
+			<state></state>
+			<latitude>373448</latitude>
+			<longitude>1270115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suwon-yok -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>372804</latitude>
+			<longitude>1270087</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taegu -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>349005</latitude>
+			<longitude>1280844</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>347216</latitude>
+			<longitude>1272785</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>363549</latitude>
+			<longitude>1290741</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon">
+			<state></state>
+			<latitude>349949</latitude>
+			<longitude>1271616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>355183</latitude>
+			<longitude>1287360</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon -- (State: Taejon-gwangyoksi)">
+			<state>Taejon-gwangyoksi</state>
+			<latitude>363330</latitude>
+			<longitude>1274313</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon-ch on -- (State: Taejon-gwangyoksi)">
+			<state>Taejon-gwangyoksi</state>
+			<latitude>363852</latitude>
+			<longitude>1274119</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon-dong -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>372541</latitude>
+			<longitude>1268441</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon-dong -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>371922</latitude>
+			<longitude>1287202</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon-ni -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>352949</latitude>
+			<longitude>1264116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon-ni -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>380222</latitude>
+			<longitude>1270949</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon-ni -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>367949</latitude>
+			<longitude>1267616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon-ni -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>364949</latitude>
+			<longitude>1280449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon-ni">
+			<state></state>
+			<latitude>371449</latitude>
+			<longitude>1283449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejon-yok -- (State: Taejon-gwangyoksi)">
+			<state>Taejon-gwangyoksi</state>
+			<latitude>363447</latitude>
+			<longitude>1274441</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejong -- (State: Cheju-do)">
+			<state>Cheju-do</state>
+			<latitude>332366</latitude>
+			<longitude>1262627</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejong-ni -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>351360</latitude>
+			<longitude>1283852</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejong-ni -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>344949</latitude>
+			<longitude>1266116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejong-ni -- (State: Inch on-gwangyoksi)">
+			<state>Inch on-gwangyoksi</state>
+			<latitude>375066</latitude>
+			<longitude>1267485</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejong-ni -- (State: Cholla-bukto)">
+			<state>Cholla-bukto</state>
+			<latitude>354302</latitude>
+			<longitude>1276358</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejong-ni -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>367783</latitude>
+			<longitude>1268616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejong-san -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>362116</latitude>
+			<longitude>1289449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taejongwon-do -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>342769</latitude>
+			<longitude>1264385</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tjyen-la -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>347616</latitude>
+			<longitude>1270116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tongyeong gun -- (State: Kyongsang-namdo)">
+			<state>Kyongsang-namdo</state>
+			<latitude>347616</latitude>
+			<longitude>1283449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulsan -- (State: Ulsan-gwangyoksi)">
+			<state>Ulsan-gwangyoksi</state>
+			<latitude>355489</latitude>
+			<longitude>1293284</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulsan-gwangyoksi">
+			<state></state>
+			<latitude>355784</latitude>
+			<longitude>1292784</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vashon Cape -- (State: Pusan-gwangyoksi)">
+			<state>Pusan-gwangyoksi</state>
+			<latitude>350704</latitude>
+			<longitude>1291082</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vashon Rock -- (State: Pusan-gwangyoksi)">
+			<state>Pusan-gwangyoksi</state>
+			<latitude>350490</latitude>
+			<longitude>1291046</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venancourt Rock -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>345321</latitude>
+			<longitude>1253557</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vijongbu -- (State: Kyonggi-do)">
+			<state>Kyonggi-do</state>
+			<latitude>377604</latitude>
+			<longitude>1270507</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vimiri -- (State: Cheju-do)">
+			<state>Cheju-do</state>
+			<latitude>332876</latitude>
+			<longitude>1266729</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Visong -- (State: Kyongsang-bukto)">
+			<state>Kyongsang-bukto</state>
+			<latitude>363624</latitude>
+			<longitude>1287115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yesan-gun">
+			<state></state>
+			<latitude>366788</latitude>
+			<longitude>1267621</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zenbonsan -- (State: Ch ungch ong-namdo)">
+			<state>Ch ungch ong-namdo</state>
+			<latitude>360197</latitude>
+			<longitude>1266764</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zenra -- (State: Cholla-bukto)">
+			<state>Cholla-bukto</state>
+			<latitude>357622</latitude>
+			<longitude>1272622</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziga-kai -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>347122</latitude>
+			<longitude>1262289</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuiki-san -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>346455</latitude>
+			<longitude>1267122</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zyo-ba To -- (State: Cholla-namdo)">
+			<state>Cholla-namdo</state>
+			<latitude>344678</latitude>
+			<longitude>1264314</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

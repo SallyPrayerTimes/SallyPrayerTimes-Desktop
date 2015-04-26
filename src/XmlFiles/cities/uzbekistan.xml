@@ -1,0 +1,810 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Uzbekistan">
+		<city name="Andijan -- (State: Andijon)">
+			<state>Andijon</state>
+			<latitude>407928</latitude>
+			<longitude>723536</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukhara -- (State: Buxoro)">
+			<state>Buxoro</state>
+			<latitude>397845</latitude>
+			<longitude>644384</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edzhan">
+			<state></state>
+			<latitude>401768</latitude>
+			<longitude>655768</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El tamgaly">
+			<state></state>
+			<latitude>408434</latitude>
+			<longitude>689434</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El tay -- (State: Navoiy)">
+			<state>Navoiy</state>
+			<latitude>412165</latitude>
+			<longitude>661048</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ellikkala">
+			<state></state>
+			<latitude>418768</latitude>
+			<longitude>611434</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ellikkalinskiy Rayon -- (State: Qoraqalpog iston)">
+			<state>Qoraqalpog iston</state>
+			<latitude>421768</latitude>
+			<longitude>616768</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erjar -- (State: Jizzax)">
+			<state>Jizzax</state>
+			<latitude>406720</latitude>
+			<longitude>681823</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erlga -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>414268</latitude>
+			<longitude>697601</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esat -- (State: Qashqadaryo)">
+			<state>Qashqadaryo</state>
+			<latitude>389582</latitude>
+			<longitude>665940</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eshonguzar -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>412645</latitude>
+			<longitude>691645</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eshquduq Quduk -- (State: Navoiy)">
+			<state>Navoiy</state>
+			<latitude>415357</latitude>
+			<longitude>661251</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eski">
+			<state></state>
+			<latitude>408768</latitude>
+			<longitude>721101</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eski Ghazalkent -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>415795</latitude>
+			<longitude>697943</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eski-Alimkent -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>409587</latitude>
+			<longitude>691568</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eski-Tashkent -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>410295</latitude>
+			<longitude>689509</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eskiabad">
+			<state></state>
+			<latitude>409101</latitude>
+			<longitude>711601</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eskiarab -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>403798</latitude>
+			<longitude>714287</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farghona -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>404035</latitude>
+			<longitude>717896</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farghona Oblasti -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>405102</latitude>
+			<longitude>712602</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farghona Rayon -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>402602</latitude>
+			<longitude>717602</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farg`ona Shahri -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>403944</latitude>
+			<longitude>717991</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farish">
+			<state></state>
+			<latitude>405935</latitude>
+			<longitude>668769</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farkhad -- (State: Sirdaryo)">
+			<state>Sirdaryo</state>
+			<latitude>402610</latitude>
+			<longitude>689110</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayzabad -- (State: Andijon)">
+			<state>Andijon</state>
+			<latitude>406991</latitude>
+			<longitude>722877</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayziabad -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>404180</latitude>
+			<longitude>716177</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayzova -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>382013</latitude>
+			<longitude>679752</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayzyabad -- (State: Qashqadaryo)">
+			<state>Qashqadaryo</state>
+			<latitude>387883</latitude>
+			<longitude>657524</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fazyl -Kushty -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>384935</latitude>
+			<longitude>679646</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fedchenko -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>405705</latitude>
+			<longitude>720821</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feok-Tau">
+			<state></state>
+			<latitude>420269</latitude>
+			<longitude>604769</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fergana">
+			<state></state>
+			<latitude>405769</latitude>
+			<longitude>683769</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Forish Rayoni -- (State: Jizzax)">
+			<state>Jizzax</state>
+			<latitude>406769</latitude>
+			<longitude>672602</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frunze Rayoni">
+			<state></state>
+			<latitude>413435</latitude>
+			<longitude>693102</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamza -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>404368</latitude>
+			<longitude>715060</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamza Tumani -- (State: Toshkent Shahri)">
+			<state>Toshkent Shahri</state>
+			<latitude>413060</latitude>
+			<longitude>693568</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haqqulobod -- (State: Namangan)">
+			<state>Namangan</state>
+			<latitude>409271</latitude>
+			<longitude>721271</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hazorasp -- (State: Xorazm)">
+			<state>Xorazm</state>
+			<latitude>413298</latitude>
+			<longitude>610846</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hazorasp Tumani -- (State: Xorazm)">
+			<state>Xorazm</state>
+			<latitude>412604</latitude>
+			<longitude>611771</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hishrov -- (State: Samarqand)">
+			<state>Samarqand</state>
+			<latitude>396618</latitude>
+			<longitude>669035</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jagsak-Kum Sandwuste">
+			<state></state>
+			<latitude>395439</latitude>
+			<longitude>642606</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaihun -- (State: Qoraqalpog iston)">
+			<state>Qoraqalpog iston</state>
+			<latitude>436773</latitude>
+			<longitude>590273</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan-Cheka">
+			<state></state>
+			<latitude>383606</latitude>
+			<longitude>680773</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janschabad">
+			<state></state>
+			<latitude>397273</latitude>
+			<longitude>641773</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janub Wokzali -- (State: Toshkent Shahri)">
+			<state>Toshkent Shahri</state>
+			<latitude>412764</latitude>
+			<longitude>692662</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janubiy Surxon Suv Ombori -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>378664</latitude>
+			<longitude>676678</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarqo rg on -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>375195</latitude>
+			<longitude>674339</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jau">
+			<state></state>
+			<latitude>405939</latitude>
+			<longitude>711273</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jizzakh Shahri -- (State: Jizzax)">
+			<state>Jizzax</state>
+			<latitude>401264</latitude>
+			<longitude>678528</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jizzakh Wiloyati -- (State: Jizzax)">
+			<state>Jizzax</state>
+			<latitude>403439</latitude>
+			<longitude>676773</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jizzax Tumani -- (State: Jizzax)">
+			<state>Jizzax</state>
+			<latitude>400939</latitude>
+			<longitude>678439</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jo ynoy -- (State: Qashqadaryo)">
+			<state>Qashqadaryo</state>
+			<latitude>389417</latitude>
+			<longitude>652781</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jomashuy -- (State: Namangan)">
+			<state>Namangan</state>
+			<latitude>408764</latitude>
+			<longitude>714731</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jomboy Shahri -- (State: Samarqand)">
+			<state>Samarqand</state>
+			<latitude>397095</latitude>
+			<longitude>671039</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jomboy Tumani -- (State: Samarqand)">
+			<state>Samarqand</state>
+			<latitude>397606</latitude>
+			<longitude>671773</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joncheka">
+			<state></state>
+			<latitude>383606</latitude>
+			<longitude>680939</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jondor -- (State: Buxoro)">
+			<state>Buxoro</state>
+			<latitude>397506</latitude>
+			<longitude>641900</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juma Shahri -- (State: Samarqand)">
+			<state>Samarqand</state>
+			<latitude>397228</latitude>
+			<longitude>666803</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juma-Bazar -- (State: Samarqand)">
+			<state>Samarqand</state>
+			<latitude>395209</latitude>
+			<longitude>672098</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumabozor -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>412445</latitude>
+			<longitude>695181</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karshi -- (State: Qashqadaryo)">
+			<state>Qashqadaryo</state>
+			<latitude>388740</latitude>
+			<longitude>658085</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karshinskaya Step">
+			<state></state>
+			<latitude>391774</latitude>
+			<longitude>656774</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karshinskiy Rayon -- (State: Qashqadaryo)">
+			<state>Qashqadaryo</state>
+			<latitude>388440</latitude>
+			<longitude>657607</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Langar -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>405347</latitude>
+			<longitude>716608</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laylik">
+			<state></state>
+			<latitude>377275</latitude>
+			<longitude>669608</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lenin Yuly">
+			<state></state>
+			<latitude>412275</latitude>
+			<longitude>714941</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leskhoz">
+			<state></state>
+			<latitude>418941</latitude>
+			<longitude>610941</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lok-Kazak">
+			<state></state>
+			<latitude>388108</latitude>
+			<longitude>662775</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loyish -- (State: Samarqand)">
+			<state>Samarqand</state>
+			<latitude>398947</latitude>
+			<longitude>667589</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luchak -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>383894</latitude>
+			<longitude>674358</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lugumbek -- (State: Andijon)">
+			<state>Andijon</state>
+			<latitude>409802</latitude>
+			<longitude>722258</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lukman">
+			<state></state>
+			<latitude>398108</latitude>
+			<longitude>641775</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lunacharskiy -- (State: Toshkent Shahri)">
+			<state>Toshkent Shahri</state>
+			<latitude>413477</latitude>
+			<longitude>693325</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyagin">
+			<state></state>
+			<latitude>401608</latitude>
+			<longitude>688941</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyangar">
+			<state></state>
+			<latitude>393608</latitude>
+			<longitude>666775</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namangan Shahri -- (State: Namangan)">
+			<state>Namangan</state>
+			<latitude>410110</latitude>
+			<longitude>716777</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navoiy Shahri -- (State: Navoiy)">
+			<state>Navoiy</state>
+			<latitude>400954</latitude>
+			<longitude>653902</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samarkand">
+			<state></state>
+			<latitude>404448</latitude>
+			<longitude>679782</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samarkand -- (State: Samarqand)">
+			<state>Samarqand</state>
+			<latitude>396657</latitude>
+			<longitude>669712</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samarkand Oblast -- (State: Samarqand)">
+			<state>Samarqand</state>
+			<latitude>395948</latitude>
+			<longitude>665948</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashbulak -- (State: Qashqadaryo)">
+			<state>Qashqadaryo</state>
+			<latitude>389777</latitude>
+			<longitude>671508</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashbulak -- (State: Namangan)">
+			<state>Namangan</state>
+			<latitude>409316</latitude>
+			<longitude>715916</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashbulak">
+			<state></state>
+			<latitude>402949</latitude>
+			<longitude>659283</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashkent">
+			<state></state>
+			<latitude>401449</latitude>
+			<longitude>683783</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashkent -- (State: Toshkent Shahri)">
+			<state>Toshkent Shahri</state>
+			<latitude>413283</latitude>
+			<longitude>692616</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashkent Oblast -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>410116</latitude>
+			<longitude>696783</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashkent Passazhirskiy -- (State: Toshkent Shahri)">
+			<state>Toshkent Shahri</state>
+			<latitude>413027</latitude>
+			<longitude>692994</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashkentskiy Kanal -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>408283</latitude>
+			<longitude>693894</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashkentskiy Rayon -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>414116</latitude>
+			<longitude>692116</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashkentskoye More -- (State: Toshkent)">
+			<state>Toshkent</state>
+			<latitude>409797</latitude>
+			<longitude>693294</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Termez -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>372358</latitude>
+			<longitude>672899</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urganch Shahri -- (State: Xorazm)">
+			<state>Xorazm</state>
+			<latitude>415617</latitude>
+			<longitude>606450</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vakhshivar -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>383401</latitude>
+			<longitude>676396</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vandob -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>377118</latitude>
+			<longitude>666285</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vardanzi">
+			<state></state>
+			<latitude>401618</latitude>
+			<longitude>644451</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Varganzi">
+			<state></state>
+			<latitude>392451</latitude>
+			<longitude>670285</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Varsin">
+			<state></state>
+			<latitude>396451</latitude>
+			<longitude>670618</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Varzak">
+			<state></state>
+			<latitude>405451</latitude>
+			<longitude>717451</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wobkent -- (State: Buxoro)">
+			<state>Buxoro</state>
+			<latitude>400422</latitude>
+			<longitude>645269</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wobkent Tumani -- (State: Buxoro)">
+			<state>Buxoro</state>
+			<latitude>400119</latitude>
+			<longitude>645119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wodil -- (State: Farg ona)">
+			<state>Farg ona</state>
+			<latitude>401858</latitude>
+			<longitude>717394</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wozrojdeniye Orol">
+			<state></state>
+			<latitude>450619</latitude>
+			<longitude>592119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xalqobod -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>374731</latitude>
+			<longitude>669339</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xatirchi Tumani -- (State: Navoiy)">
+			<state>Navoiy</state>
+			<latitude>401787</latitude>
+			<longitude>660120</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xisorak -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>385787</latitude>
+			<longitude>678120</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xo jakulusun -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>382412</latitude>
+			<longitude>683534</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xonjizza -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>386003</latitude>
+			<longitude>675856</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xorazm Viloyati -- (State: Xorazm)">
+			<state>Xorazm</state>
+			<latitude>415120</latitude>
+			<longitude>605120</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xovat -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>387678</latitude>
+			<longitude>678189</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xo`japiryox Tog` -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>387717</latitude>
+			<longitude>675973</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xufar -- (State: Surxondaryo)">
+			<state>Surxondaryo</state>
+			<latitude>385539</latitude>
+			<longitude>677742</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarafshan">
+			<state></state>
+			<latitude>395455</latitude>
+			<longitude>637622</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarafshan -- (State: Navoiy)">
+			<state>Navoiy</state>
+			<latitude>415914</latitude>
+			<longitude>642197</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarafshanskiy Oazis">
+			<state></state>
+			<latitude>401789</latitude>
+			<longitude>653455</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zyadin">
+			<state></state>
+			<latitude>400455</latitude>
+			<longitude>656789</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

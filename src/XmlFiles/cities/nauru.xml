@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Nauru">
+		<city name="Anebare Bay">
+			<state></state>
+			<latitude>-5236</latitude>
+			<longitude>1669597</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anna">
+			<state></state>
+			<latitude>-4903</latitude>
+			<longitude>1669430</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baiti District">
+			<state></state>
+			<latitude>-5069</latitude>
+			<longitude>1669431</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boe District">
+			<state></state>
+			<latitude>-5402</latitude>
+			<longitude>1669265</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hansenide Colony">
+			<state></state>
+			<latitude>-5396</latitude>
+			<longitude>1669604</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijuh">
+			<state></state>
+			<latitude>-5062</latitude>
+			<longitude>1669605</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Meneng District">
+			<state></state>
+			<latitude>-5391</latitude>
+			<longitude>1669442</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nauru">
+			<state></state>
+			<latitude>-5223</latitude>
+			<longitude>1669443</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uaboe">
+			<state></state>
+			<latitude>-5050</latitude>
+			<longitude>1669284</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

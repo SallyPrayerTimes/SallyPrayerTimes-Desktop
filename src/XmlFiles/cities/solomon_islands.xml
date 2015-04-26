@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Solomon Islands">
+		<city name="Aimburu">
+			<state></state>
+			<latitude>-88903</latitude>
+			<longitude>1610430</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bia">
+			<state></state>
+			<latitude>-103569</latitude>
+			<longitude>1614931</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Byron Bay">
+			<state></state>
+			<latitude>-112569</latitude>
+			<longitude>1665098</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dikona ara">
+			<state></state>
+			<latitude>-83067</latitude>
+			<longitude>1608267</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frindsbury Reef">
+			<state></state>
+			<latitude>-49898</latitude>
+			<longitude>1591602</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Honiara">
+			<state></state>
+			<latitude>-94229</latitude>
+			<longitude>1599604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jagi Island">
+			<state></state>
+			<latitude>-84061</latitude>
+			<longitude>1598606</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jajagho">
+			<state></state>
+			<latitude>-80061</latitude>
+			<longitude>1589773</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jajao">
+			<state></state>
+			<latitude>-81394</latitude>
+			<longitude>1593106</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaklo">
+			<state></state>
+			<latitude>-82894</latitude>
+			<longitude>1597606</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalari Bay">
+			<state></state>
+			<latitude>-85394</latitude>
+			<longitude>1579773</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaraele">
+			<state></state>
+			<latitude>-85394</latitude>
+			<longitude>1598606</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jari Island">
+			<state></state>
+			<latitude>-80061</latitude>
+			<longitude>1567606</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarihana">
+			<state></state>
+			<latitude>-82894</latitude>
+			<longitude>1597273</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarinadi">
+			<state></state>
+			<latitude>-83061</latitude>
+			<longitude>1597939</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarirutu">
+			<state></state>
+			<latitude>-83227</latitude>
+			<longitude>1597439</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarupcha River">
+			<state></state>
+			<latitude>-93561</latitude>
+			<longitude>1596106</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jejevo">
+			<state></state>
+			<latitude>-80894</latitude>
+			<longitude>1591273</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiku">
+			<state></state>
+			<latitude>-71394</latitude>
+			<longitude>1571939</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinjapili">
+			<state></state>
+			<latitude>-69727</latitude>
+			<longitude>1571106</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiviu Hill">
+			<state></state>
+			<latitude>-85061</latitude>
+			<longitude>1598273</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johokhapi">
+			<state></state>
+			<latitude>-81061</latitude>
+			<longitude>1595273</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jolokubu">
+			<state></state>
+			<latitude>-79894</latitude>
+			<longitude>1589606</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joroveto">
+			<state></state>
+			<latitude>-77894</latitude>
+			<longitude>1567106</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoin Hill">
+			<state></state>
+			<latitude>-91054</latitude>
+			<longitude>1602780</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tulagi Island">
+			<state></state>
+			<latitude>-90884</latitude>
+			<longitude>1601616</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xanana">
+			<state></state>
+			<latitude>-82880</latitude>
+			<longitude>1573287</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yandina">
+			<state></state>
+			<latitude>-91046</latitude>
+			<longitude>1592288</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yenton Point">
+			<state></state>
+			<latitude>-92546</latitude>
+			<longitude>1596621</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ysabel">
+			<state></state>
+			<latitude>-79879</latitude>
+			<longitude>1570121</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ysabel Island">
+			<state></state>
+			<latitude>-79879</latitude>
+			<longitude>1590121</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabana">
+			<state></state>
+			<latitude>-77878</latitude>
+			<longitude>1588122</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaenane">
+			<state></state>
+			<latitude>-84711</latitude>
+			<longitude>1572789</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaghi Point">
+			<state></state>
+			<latitude>-75545</latitude>
+			<longitude>1587789</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaka Islands">
+			<state></state>
+			<latitude>-73545</latitude>
+			<longitude>1582122</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zalembavuru Point">
+			<state></state>
+			<latitude>-66378</latitude>
+			<longitude>1565789</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zambanarungga">
+			<state></state>
+			<latitude>-71878</latitude>
+			<longitude>1572955</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamore">
+			<state></state>
+			<latitude>-75045</latitude>
+			<longitude>1583622</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamore Island">
+			<state></state>
+			<latitude>-82211</latitude>
+			<longitude>1577789</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaoponoe Reef">
+			<state></state>
+			<latitude>-75045</latitude>
+			<longitude>1585789</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaosodu Reef">
+			<state></state>
+			<latitude>-75045</latitude>
+			<longitude>1585455</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarepe">
+			<state></state>
+			<latitude>-69545</latitude>
+			<longitude>1567289</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaribeana">
+			<state></state>
+			<latitude>-77211</latitude>
+			<longitude>1586122</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaru">
+			<state></state>
+			<latitude>-70211</latitude>
+			<longitude>1571289</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zavanga Lakes">
+			<state></state>
+			<latitude>-84878</latitude>
+			<longitude>1574122</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zavari">
+			<state></state>
+			<latitude>-68545</latitude>
+			<longitude>1566122</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zengiro">
+			<state></state>
+			<latitude>-80545</latitude>
+			<longitude>1590455</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zieta">
+			<state></state>
+			<latitude>-82545</latitude>
+			<longitude>1572455</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziluzilu Rocks">
+			<state></state>
+			<latitude>-69545</latitude>
+			<longitude>1567122</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zinoa Islands">
+			<state></state>
+			<latitude>-68878</latitude>
+			<longitude>1566622</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zizirae Island">
+			<state></state>
+			<latitude>-82711</latitude>
+			<longitude>1574122</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoli">
+			<state></state>
+			<latitude>-76878</latitude>
+			<longitude>1588455</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zongga">
+			<state></state>
+			<latitude>-73211</latitude>
+			<longitude>1571455</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuzuao Point">
+			<state></state>
+			<latitude>-76545</latitude>
+			<longitude>1588289</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

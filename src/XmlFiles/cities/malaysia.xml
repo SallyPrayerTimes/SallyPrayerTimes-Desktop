@@ -1,0 +1,2882 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Malaysia">
+		<city name="10th Mile Bazaar -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>14382</latitude>
+			<longitude>1103216</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="24th Mile Bazaar -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>12883</latitude>
+			<longitude>1104383</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Air Kuning -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>41930</latitude>
+			<longitude>1011597</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alma -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>53430</latitude>
+			<longitude>1004764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alor Gajah -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>23930</latitude>
+			<longitude>1022264</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alor Star -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>61264</latitude>
+			<longitude>1003764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ampang">
+			<state></state>
+			<latitude>31597</latitude>
+			<longitude>1017764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ampang -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>13569</latitude>
+			<longitude>1041653</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ampang -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>39097</latitude>
+			<longitude>1030930</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ampang Bharu New Village -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>45930</latitude>
+			<longitude>1011430</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arau -- (State: Perlis)">
+			<state>Perlis</state>
+			<latitude>64430</latitude>
+			<longitude>1002764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ayer Baloi -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>15930</latitude>
+			<longitude>1033430</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ayer Keroh -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>22764</latitude>
+			<longitude>1022930</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bachok -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>60765</latitude>
+			<longitude>1024098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bagan Serai -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>50265</latitude>
+			<longitude>1005431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bakri -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>20598</latitude>
+			<longitude>1026765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balik Pulau -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>53598</latitude>
+			<longitude>1002431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baling -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>56765</latitude>
+			<longitude>1009265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangi">
+			<state></state>
+			<latitude>29098</latitude>
+			<longitude>1017931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangi Estate">
+			<state></state>
+			<latitude>39098</latitude>
+			<longitude>1018098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangi Forest Reserve">
+			<state></state>
+			<latitude>29265</latitude>
+			<longitude>1017931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banting -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>12931</latitude>
+			<longitude>1112098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banting">
+			<state></state>
+			<latitude>28265</latitude>
+			<longitude>1015098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batang Berjuntai">
+			<state></state>
+			<latitude>33931</latitude>
+			<longitude>1014265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batu Caves">
+			<state></state>
+			<latitude>32431</latitude>
+			<longitude>1016765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batu Gajah -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>23098</latitude>
+			<longitude>1020931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batu Gajah -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>44765</latitude>
+			<longitude>1010598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batu Karang -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>57931</latitude>
+			<longitude>1019098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batu Pahat -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>18598</latitude>
+			<longitude>1029431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bayan Lepas -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>52931</latitude>
+			<longitude>1002765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beaufort -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>53431</latitude>
+			<longitude>1156765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bedong -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>57431</latitude>
+			<longitude>1005265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Behrang Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>37265</latitude>
+			<longitude>1014931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Behrang Hulu -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>37931</latitude>
+			<longitude>1015098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bentong Town -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>35265</latitude>
+			<longitude>1019098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bentung -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>35431</latitude>
+			<longitude>1019265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beseri -- (State: Perlis)">
+			<state>Perlis</state>
+			<latitude>65265</latitude>
+			<longitude>1002431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Betong -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>15098</latitude>
+			<longitude>1113431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bidor -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>41265</latitude>
+			<longitude>1012931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bintulu -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>30098</latitude>
+			<longitude>1133431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bintulu River -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>31931</latitude>
+			<longitude>1130431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bota -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>43598</latitude>
+			<longitude>1008765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukit Jalil">
+			<state></state>
+			<latitude>30431</latitude>
+			<longitude>1016931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukit Mertajam -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>53765</latitude>
+			<longitude>1004765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Butterworth -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54265</latitude>
+			<longitude>1004098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cameron Highlands -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>44932</latitude>
+			<longitude>1014599</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changlun -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>64432</latitude>
+			<longitude>1004432</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheras">
+			<state></state>
+			<latitude>30599</latitude>
+			<longitude>1017766</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cukai -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>42599</latitude>
+			<longitude>1034266</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cyberjaya">
+			<state></state>
+			<latitude>28099</latitude>
+			<longitude>1016765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damansara">
+			<state></state>
+			<latitude>31433</latitude>
+			<longitude>1016433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dengkil Oil Palm Plantation">
+			<state></state>
+			<latitude>28267</latitude>
+			<longitude>1017100</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dungun -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>47933</latitude>
+			<longitude>1034433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durian Tunggal -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>23267</latitude>
+			<longitude>1022933</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="F. J. Davy Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>49102</latitude>
+			<longitude>1010935</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fah Nam Estate">
+			<state></state>
+			<latitude>30269</latitude>
+			<longitude>1015602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairway Rock -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>41269</latitude>
+			<longitude>1005602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairway Shoal -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>71269</latitude>
+			<longitude>1175269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falim">
+			<state></state>
+			<latitude>47602</latitude>
+			<longitude>1010769</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falloden Hall Shoal -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>13569</latitude>
+			<longitude>1043252</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farrer Islet -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>61269</latitude>
+			<longitude>1022435</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Federation of Malaya">
+			<state></state>
+			<latitude>25102</latitude>
+			<longitude>1125102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fermanagh Estate">
+			<state></state>
+			<latitude>26769</latitude>
+			<longitude>1016602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fifteenth Mile Bazaar -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>13935</latitude>
+			<longitude>1103769</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fishmarket Rocks -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>15713</latitude>
+			<longitude>1103513</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flemington Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>39102</latitude>
+			<longitude>1008935</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flint Pass -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>58602</latitude>
+			<longitude>1159935</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foh Seng Estate -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>58935</latitude>
+			<longitude>1021935</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Folly Farm -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>44269</latitude>
+			<longitude>1013769</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fondoland Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>50102</latitude>
+			<longitude>1007269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fong Shin Tin Mine -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>22769</latitude>
+			<longitude>1038602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foo Ah Sang Estate -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>58769</latitude>
+			<longitude>1021435</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Forest Reserve Semangko">
+			<state></state>
+			<latitude>36769</latitude>
+			<longitude>1017602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Formosa Bank -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>17435</latitude>
+			<longitude>1028102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Emma -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>21102</latitude>
+			<longitude>1121602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Margherita -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>15710</latitude>
+			<longitude>1103560</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Tapong -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>56769</latitude>
+			<longitude>1013935</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fosbrerr Estate -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>25602</latitude>
+			<longitude>1020102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foulerton Patches -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>16963</latitude>
+			<longitude>1029780</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foulerton Shoal -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>21619</latitude>
+			<longitude>1022691</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Four Fathom Patches -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>54935</latitude>
+			<longitude>1152269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fourth Division -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>37602</latitude>
+			<longitude>1145102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fraser Estate -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>17269</latitude>
+			<longitude>1036102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frasers Hill -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>37269</latitude>
+			<longitude>1017602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fremantle Shoal -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>47491</latitude>
+			<longitude>1187933</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Friedrich Haven -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>42769</latitude>
+			<longitude>1184269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Friedrich Reef -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>42435</latitude>
+			<longitude>1183602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuda Estate -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>15602</latitude>
+			<longitude>1040602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gambang -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>37270</latitude>
+			<longitude>1031103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gelang Patah -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>14603</latitude>
+			<longitude>1035936</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gelugor Estate -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>53770</latitude>
+			<longitude>1003103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gemencheh -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>25436</latitude>
+			<longitude>1024103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gemencheh Lama -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>25436</latitude>
+			<longitude>1023936</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Genting -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>21270</latitude>
+			<longitude>1117103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Genting -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>52936</latitude>
+			<longitude>1003936</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Genting Highlands">
+			<state></state>
+			<latitude>34103</latitude>
+			<longitude>1018103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gerik -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>54270</latitude>
+			<longitude>1011436</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gombak">
+			<state></state>
+			<latitude>32599</latitude>
+			<longitude>1015599</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gua Musang -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>48936</latitude>
+			<longitude>1019770</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guar Chempedak -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>58770</latitude>
+			<longitude>1004770</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hulu Langat">
+			<state></state>
+			<latitude>31271</latitude>
+			<longitude>1018271</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hulu Terengganu">
+			<state></state>
+			<latitude>50770</latitude>
+			<longitude>1025937</longitude>
+			<timezone>800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ianjung Batu Kudu -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>33605</latitude>
+			<longitude>1131605</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibol -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>11105</latitude>
+			<longitude>1115272</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibul -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>23105</latitude>
+			<longitude>1041605</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibul -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>47772</latitude>
+			<longitude>1156105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iburu -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>46938</latitude>
+			<longitude>1157438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igan -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>28272</latitude>
+			<longitude>1117272</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igan Point -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>28605</latitude>
+			<longitude>1116605</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igang Igang -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>44772</latitude>
+			<longitude>1187105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijok">
+			<state></state>
+			<latitude>33105</latitude>
+			<longitude>1014105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijok -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>14772</latitude>
+			<longitude>1117105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijok -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>51438</latitude>
+			<longitude>1008438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijok Ulu">
+			<state></state>
+			<latitude>12272</latitude>
+			<longitude>1115438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilanun -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>50186</latitude>
+			<longitude>1188611</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ili Titok -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>12605</latitude>
+			<longitude>1116938</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Illanum -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>50252</latitude>
+			<longitude>1188944</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Illanun">
+			<state></state>
+			<latitude>55772</latitude>
+			<longitude>1156105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inanam -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>59938</latitude>
+			<longitude>1161438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inaruntang Point -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>70272</latitude>
+			<longitude>1171438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indah Point -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>62438</latitude>
+			<longitude>1162105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indai -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>62105</latitude>
+			<longitude>1162272</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indarasabak -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>43105</latitude>
+			<longitude>1181772</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indarasan -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>67772</latitude>
+			<longitude>1166438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indian Archipelago">
+			<state></state>
+			<latitude>105</latitude>
+			<longitude>1200105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indramuda Hill -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54272</latitude>
+			<longitude>1004605</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ingal Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>39605</latitude>
+			<longitude>1009105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inner Bar">
+			<state></state>
+			<latitude>49438</latitude>
+			<longitude>1150438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inner Bay -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>57772</latitude>
+			<longitude>1179438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inobang -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>59105</latitude>
+			<longitude>1161272</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipil -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>50272</latitude>
+			<longitude>1183438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipoh -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>45938</latitude>
+			<longitude>1010938</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irene Rock -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>66722</latitude>
+			<longitude>1179055</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iris Shoals -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>55105</latitude>
+			<longitude>1153938</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isabelle Estate -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>26605</latitude>
+			<longitude>1019438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ismit -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>68938</latitude>
+			<longitude>1170272</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Istana -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>15747</latitude>
+			<longitude>1103524</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Istana Pantai">
+			<state></state>
+			<latitude>27605</latitude>
+			<longitude>1014605</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Istana Pasir Pelangi -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>14938</latitude>
+			<longitude>1037938</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Istana Raja Perlis">
+			<state></state>
+			<latitude>64438</latitude>
+			<longitude>1002938</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isu -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>12105</latitude>
+			<longitude>1109272</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isu">
+			<state></state>
+			<latitude>11438</latitude>
+			<longitude>1110605</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itam -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>16438</latitude>
+			<longitude>1118438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalan Bangi">
+			<state></state>
+			<latitude>29273</latitude>
+			<longitude>1018273</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jasin -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>23273</latitude>
+			<longitude>1024439</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jawi -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>52106</latitude>
+			<longitude>1005106</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jelebu -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>29439</latitude>
+			<longitude>1020939</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jempol -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>28106</latitude>
+			<longitude>1023773</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jengka Forest Reserve -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>36606</latitude>
+			<longitude>1025439</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerantut -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>39439</latitude>
+			<longitude>1023773</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerteh -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>57606</latitude>
+			<longitude>1025106</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jitra -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>62773</latitude>
+			<longitude>1004273</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johor Bahru -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>14773</latitude>
+			<longitude>1037606</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johore -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>20106</latitude>
+			<longitude>1035106</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johore Bahru -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>16606</latitude>
+			<longitude>1036106</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kajang">
+			<state></state>
+			<latitude>29940</latitude>
+			<longitude>1017940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kajang Estate">
+			<state></state>
+			<latitude>29940</latitude>
+			<longitude>1018274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kampong Alor Lintang -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>57774</latitude>
+			<longitude>1025440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kampong Selabak -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>39940</latitude>
+			<longitude>1010607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kangar -- (State: Perlis)">
+			<state>Perlis</state>
+			<latitude>64440</latitude>
+			<longitude>1002107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kedah -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>54940</latitude>
+			<longitude>1021107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kedah River -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>61107</latitude>
+			<longitude>1002940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kelang Gates Dam">
+			<state></state>
+			<latitude>32440</latitude>
+			<longitude>1017607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kelantan River -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>62274</latitude>
+			<longitude>1022440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kemaman -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>42440</latitude>
+			<longitude>1034607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kemaman Mangrove Forest Reserve -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>42774</latitude>
+			<longitude>1034274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kemasik -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>44274</latitude>
+			<longitude>1034607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keningau -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>52607</latitude>
+			<longitude>1162607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kepala Batas -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>55274</latitude>
+			<longitude>1004440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kepala Batas -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>62107</latitude>
+			<longitude>1004274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kepong">
+			<state></state>
+			<latitude>32274</latitude>
+			<longitude>1016440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kerteh -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>45274</latitude>
+			<longitude>1034607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kerteh Plantation -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>45107</latitude>
+			<longitude>1034607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kijal -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>43607</latitude>
+			<longitude>1034940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinrara">
+			<state></state>
+			<latitude>30607</latitude>
+			<longitude>1016607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klabang Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>46940</latitude>
+			<longitude>1011440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klang -- (State: Selangor)">
+			<state>Selangor</state>
+			<latitude>30440</latitude>
+			<longitude>1014607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klang District -- (State: Selangor)">
+			<state>Selangor</state>
+			<latitude>30940</latitude>
+			<longitude>1014274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klang Gates Estate">
+			<state></state>
+			<latitude>32274</latitude>
+			<longitude>1017607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klang Island">
+			<state></state>
+			<latitude>30107</latitude>
+			<longitude>1013107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klang Strait">
+			<state></state>
+			<latitude>30107</latitude>
+			<longitude>1013607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kluang -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>22107</latitude>
+			<longitude>1033440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54440</latitude>
+			<longitude>1004440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>55940</latitude>
+			<longitude>1003940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>25274</latitude>
+			<longitude>1021774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota Bahru -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>61440</latitude>
+			<longitude>1022607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota Belud -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>62607</latitude>
+			<longitude>1164274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota Bharu -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>44107</latitude>
+			<longitude>1010940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota Bharu -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>60107</latitude>
+			<longitude>1022607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota Kinabalu -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>60440</latitude>
+			<longitude>1161774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota Kinabalu Harbour -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>60107</latitude>
+			<longitude>1160940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota Samarahan">
+			<state></state>
+			<latitude>12940</latitude>
+			<longitude>1104940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kota Tinggi -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>17440</latitude>
+			<longitude>1039107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>56440</latitude>
+			<longitude>1159607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Ampang">
+			<state></state>
+			<latitude>32107</latitude>
+			<longitude>1017940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Berang -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>50774</latitude>
+			<longitude>1030274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Besut -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>58440</latitude>
+			<longitude>1025774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Ibai">
+			<state></state>
+			<latitude>52940</latitude>
+			<longitude>1031940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Kangsar -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>47774</latitude>
+			<longitude>1009440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Kelumpang -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>49274</latitude>
+			<longitude>1005107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Kubu Bharu">
+			<state></state>
+			<latitude>35774</latitude>
+			<longitude>1016607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Langat">
+			<state></state>
+			<latitude>28107</latitude>
+			<longitude>1014107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Lipis -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>41940</latitude>
+			<longitude>1020607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Lumpur -- (State: Wilayah Persekutuan)">
+			<state>Wilayah Persekutuan</state>
+			<latitude>31774</latitude>
+			<longitude>1017107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Lundu -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>17107</latitude>
+			<longitude>1099440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Perlis -- (State: Perlis)">
+			<state>Perlis</state>
+			<latitude>64107</latitude>
+			<longitude>1001440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Pilah -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>27440</latitude>
+			<longitude>1022607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Terengganu -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>53440</latitude>
+			<longitude>1031440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Trengganu -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>52940</latitude>
+			<longitude>1030107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuang">
+			<state></state>
+			<latitude>32607</latitude>
+			<longitude>1015607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuang Forest Reserve">
+			<state></state>
+			<latitude>32940</latitude>
+			<longitude>1015440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuantan -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>39807</latitude>
+			<longitude>1034496</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuantan Mangrove Forest Reserve -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>37940</latitude>
+			<longitude>1033107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuching -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>15940</latitude>
+			<longitude>1103440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuching -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>59774</latitude>
+			<longitude>1005607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuching">
+			<state></state>
+			<latitude>14274</latitude>
+			<longitude>1103440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuching Airport -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>14940</latitude>
+			<longitude>1103440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kudat -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>68940</latitude>
+			<longitude>1168440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kudat Harbour -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>68774</latitude>
+			<longitude>1168440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kulai -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>16774</latitude>
+			<longitude>1036107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kulim -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>53774</latitude>
+			<longitude>1005774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labuan">
+			<state></state>
+			<latitude>52875</latitude>
+			<longitude>1152525</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labuan and Interior Residency -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>48441</latitude>
+			<longitude>1161775</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labuan Terminal -- (State: Labuan)">
+			<state>Labuan</state>
+			<latitude>52761</latitude>
+			<longitude>1151302</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ladang">
+			<state></state>
+			<latitude>45441</latitude>
+			<longitude>1034108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lahad Datu -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>50941</latitude>
+			<longitude>1181775</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lahad Datu Town">
+			<state></state>
+			<latitude>50441</latitude>
+			<longitude>1183275</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Langkaw Island -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>63775</latitude>
+			<longitude>998108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Langkawi -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>63275</latitude>
+			<longitude>998608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Langkawi">
+			<state></state>
+			<latitude>63441</latitude>
+			<longitude>997608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Langkawi Islands -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>63441</latitude>
+			<longitude>998441</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lankawi Sound">
+			<state></state>
+			<latitude>65108</latitude>
+			<longitude>996775</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lawas -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>45108</latitude>
+			<longitude>1154275</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limbang -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>42608</latitude>
+			<longitude>1151775</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lumut -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>42441</latitude>
+			<longitude>1006441</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lutong Airfield -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>44775</latitude>
+			<longitude>1140108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Machang -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>57776</latitude>
+			<longitude>1022276</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malacca">
+			<state></state>
+			<latitude>60109</latitude>
+			<longitude>1020109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malacca River -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>22062</latitude>
+			<longitude>1022656</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malaysia Barat">
+			<state></state>
+			<latitude>40109</latitude>
+			<longitude>1020109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manjung">
+			<state></state>
+			<latitude>42442</latitude>
+			<longitude>1006667</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mantin -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>28276</latitude>
+			<longitude>1019109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maran -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>35942</latitude>
+			<longitude>1027776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marang -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>52109</latitude>
+			<longitude>1032276</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masai -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>14942</latitude>
+			<longitude>1038942</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matu Daro -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>26776</latitude>
+			<longitude>1115109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melaka">
+			<state></state>
+			<latitude>22078</latitude>
+			<longitude>1022590</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melaka Aerodrome -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>22776</latitude>
+			<longitude>1022609</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melaka Pindah -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>23776</latitude>
+			<longitude>1022442</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melaka Pindah Estate -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>24109</latitude>
+			<longitude>1022776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mentakab -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>34942</latitude>
+			<longitude>1023609</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mersing -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>24442</latitude>
+			<longitude>1038442</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Meru -- (State: Selangor)">
+			<state>Selangor</state>
+			<latitude>31442</latitude>
+			<longitude>1014442</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miri -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>41776</latitude>
+			<longitude>1139276</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miri River -- (State: Labuan)">
+			<state>Labuan</state>
+			<latitude>53109</latitude>
+			<longitude>1151776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miri River -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>43942</latitude>
+			<longitude>1139776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muar -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>20442</latitude>
+			<longitude>1025776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mukah -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>26776</latitude>
+			<longitude>1122609</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nabawan -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>50943</latitude>
+			<longitude>1164610</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negeri Sembilan">
+			<state></state>
+			<latitude>27610</latitude>
+			<longitude>1021777</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nibong Tebal -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>51777</latitude>
+			<longitude>1004943</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nilai -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>28277</latitude>
+			<longitude>1018110</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pahang">
+			<state></state>
+			<latitude>35445</latitude>
+			<longitude>1034779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pajam -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>28612</latitude>
+			<longitude>1018612</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paka -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>46612</latitude>
+			<longitude>1034445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Papar -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>55945</latitude>
+			<longitude>1160112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parit Buntar -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>51279</latitude>
+			<longitude>1005112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasir Gudang">
+			<state></state>
+			<latitude>14779</latitude>
+			<longitude>1038945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasir Mas -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>60445</latitude>
+			<longitude>1021445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasir Mas -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>24279</latitude>
+			<longitude>1112112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasir Puteh">
+			<state></state>
+			<latitude>58445</latitude>
+			<longitude>1024112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pekan -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>35112</latitude>
+			<longitude>1034279</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pelabuhan Klang -- (State: Selangor)">
+			<state>Selangor</state>
+			<latitude>30112</latitude>
+			<longitude>1014112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penaga -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>55168</latitude>
+			<longitude>1003779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penang -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54279</latitude>
+			<longitude>1003445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penang Harbour -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54279</latitude>
+			<longitude>1003779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penang Hill -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54445</latitude>
+			<longitude>1002779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penang Island -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54112</latitude>
+			<longitude>1002445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penanti -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54279</latitude>
+			<longitude>1004945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pendang -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>60112</latitude>
+			<longitude>1004779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perai -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>53945</latitude>
+			<longitude>1003945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perak Hilir Daerah -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>41112</latitude>
+			<longitude>1010279</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perak River -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>40279</latitude>
+			<longitude>1007945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perak River Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>39612</latitude>
+			<longitude>1008612</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perak Ulu -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>53445</latitude>
+			<longitude>1013445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peraksi -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>58779</latitude>
+			<longitude>1024945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Permatang Pauh -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54279</latitude>
+			<longitude>1004279</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petaling -- (State: Selangor)">
+			<state>Selangor</state>
+			<latitude>30945</latitude>
+			<longitude>1015945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petaling -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>29612</latitude>
+			<longitude>1020445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petaling">
+			<state></state>
+			<latitude>30945</latitude>
+			<longitude>1016779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petaling Jaya">
+			<state></state>
+			<latitude>30945</latitude>
+			<longitude>1016612</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pinang -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>42279</latitude>
+			<longitude>1020612</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pontian -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>14945</latitude>
+			<longitude>1033945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Dickson -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>25279</latitude>
+			<longitude>1018112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puchong">
+			<state></state>
+			<latitude>30112</latitude>
+			<longitude>1016279</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulau Pinang -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>35612</latitude>
+			<longitude>1025779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulau Pinang -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>57445</latitude>
+			<longitude>1030112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulau Pinang -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>24445</latitude>
+			<longitude>1045612</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulau Tioman -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>28112</latitude>
+			<longitude>1041945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pusing -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>45112</latitude>
+			<longitude>1010279</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Putrajaya">
+			<state></state>
+			<latitude>29476</latitude>
+			<longitude>1017323</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarantine Anchorage -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>13638</latitude>
+			<longitude>1040991</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quiok -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>45446</latitude>
+			<longitude>1164446</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoin Hill -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>53141</latitude>
+			<longitude>1187641</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raub -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>38114</latitude>
+			<longitude>1018781</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rawang">
+			<state></state>
+			<latitude>33281</latitude>
+			<longitude>1015947</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rembau -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>25947</latitude>
+			<longitude>1021114</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rompin -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>28281</latitude>
+			<longitude>1034947</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rompin -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>27114</latitude>
+			<longitude>1025114</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="S Pang -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>27948</latitude>
+			<longitude>1019282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sabah">
+			<state></state>
+			<latitude>37782</latitude>
+			<longitude>1009948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sabah Negeri -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>55115</latitude>
+			<longitude>1170115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sabak Bernam Estate Division One">
+			<state></state>
+			<latitude>38615</latitude>
+			<longitude>1009448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sandakan -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>57615</latitude>
+			<longitude>1180115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sandakan Town -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>58448</latitude>
+			<longitude>1181282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saratok -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>16782</latitude>
+			<longitude>1114282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sarawak Mangrove Forest Reserve -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>16615</latitude>
+			<longitude>1102948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sarawak Negeri -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>25115</latitude>
+			<longitude>1135115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sarikei -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>21782</latitude>
+			<longitude>1113448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Segamat -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>25115</latitude>
+			<longitude>1028282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Segambut">
+			<state></state>
+			<latitude>31948</latitude>
+			<longitude>1016615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Selangor">
+			<state></state>
+			<latitude>33615</latitude>
+			<longitude>1012615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Selangor River">
+			<state></state>
+			<latitude>33615</latitude>
+			<longitude>1012448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Semanggol -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>49615</latitude>
+			<longitude>1006448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Semenyih">
+			<state></state>
+			<latitude>29615</latitude>
+			<longitude>1018615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Semporna -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>45115</latitude>
+			<longitude>1183448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Senai -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>16115</latitude>
+			<longitude>1036615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Senawang">
+			<state></state>
+			<latitude>27115</latitude>
+			<longitude>1019948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sentul">
+			<state></state>
+			<latitude>31948</latitude>
+			<longitude>1016948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sepang">
+			<state></state>
+			<latitude>27115</latitude>
+			<longitude>1017615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serdang -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>47948</latitude>
+			<longitude>1033615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serdang -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>52282</latitude>
+			<longitude>1006282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serdang Lama">
+			<state></state>
+			<latitude>30282</latitude>
+			<longitude>1017282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seremban -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>27282</latitude>
+			<longitude>1019448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seremban Estate New Seremban Division -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>26448</latitude>
+			<longitude>1019948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seremban Estate Old Seremban Division -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>26782</latitude>
+			<longitude>1019782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seremban Estate Sungai Gadut Division -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>26782</latitude>
+			<longitude>1019948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seri Kembangan">
+			<state></state>
+			<latitude>30448</latitude>
+			<longitude>1017282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seri Menanti -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>27115</latitude>
+			<longitude>1021782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Setapak">
+			<state></state>
+			<latitude>31948</latitude>
+			<longitude>1017115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shah Alam">
+			<state></state>
+			<latitude>30948</latitude>
+			<longitude>1015448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sibu -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>23448</latitude>
+			<longitude>1118448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sik -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>58282</latitude>
+			<longitude>1007448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Simpang Rengam -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>18448</latitude>
+			<longitude>1033282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sintok -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>64448</latitude>
+			<longitude>1005282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sipitang -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>47615</latitude>
+			<longitude>1156782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sitiawan -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>42282</latitude>
+			<longitude>1007115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sitiawan Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>42282</latitude>
+			<longitude>1006948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Skudai -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>15448</latitude>
+			<longitude>1036782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sri Petaling">
+			<state></state>
+			<latitude>30715</latitude>
+			<longitude>1017015</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Subang Estate">
+			<state></state>
+			<latitude>31782</latitude>
+			<longitude>1015282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Subang Jaya">
+			<state></state>
+			<latitude>31615</latitude>
+			<longitude>1015415</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sungai Petani -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>14782</latitude>
+			<longitude>1102948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sungai Petani -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>56615</latitude>
+			<longitude>1005115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taiping -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>48616</latitude>
+			<longitude>1007449</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tambunan -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>56783</latitude>
+			<longitude>1164283</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tampin -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>24783</latitude>
+			<longitude>1022449</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanah Merah -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>58116</latitude>
+			<longitude>1021616</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanah Merah -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>26116</latitude>
+			<longitude>1018116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tangkak -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>22783</latitude>
+			<longitude>1025616</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanjong Berembang -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>51616</latitude>
+			<longitude>1004783</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanjung Malim -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>36949</latitude>
+			<longitude>1015283</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tapah -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>41949</latitude>
+			<longitude>1012783</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tapah Road -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>41783</latitude>
+			<longitude>1012116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tatau -- (State: Sarawak)">
+			<state>Sarawak</state>
+			<latitude>26783</latitude>
+			<longitude>1130116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tawau -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>42616</latitude>
+			<longitude>1179116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tawau">
+			<state></state>
+			<latitude>43449</latitude>
+			<longitude>1178449</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tawau Residency -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>45116</latitude>
+			<longitude>1180116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Telok Anson -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>40449</latitude>
+			<longitude>1010283</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teluk Kumbar -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>52949</latitude>
+			<longitude>1002449</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Telupid -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>56616</latitude>
+			<longitude>1171283</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Temerloh -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>34449</latitude>
+			<longitude>1024116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tenom -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>49283</latitude>
+			<longitude>1159283</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trengganu -- (State: Terengganu)">
+			<state>Terengganu</state>
+			<latitude>50116</latitude>
+			<longitude>1030116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tronoh -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>44283</latitude>
+			<longitude>1009949</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tumpat -- (State: Kelantan)">
+			<state>Kelantan</state>
+			<latitude>62116</latitude>
+			<longitude>1021783</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulu Kelang">
+			<state></state>
+			<latitude>31784</latitude>
+			<longitude>1017617</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val d Or -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>52618</latitude>
+			<longitude>1005118</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val d Or Estate -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>52451</latitude>
+			<longitude>1004951</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valentia Estate -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>37785</latitude>
+			<longitude>1031785</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallambrosa Estate">
+			<state></state>
+			<latitude>31118</latitude>
+			<longitude>1013951</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verasami Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>48951</latitude>
+			<longitude>1010785</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verdun Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>50118</latitude>
+			<longitude>1007951</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vernon Bank -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>57951</latitude>
+			<longitude>1150951</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria Peak -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>60951</latitude>
+			<longitude>1165618</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vigormia Estate -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>27285</latitude>
+			<longitude>1018785</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vimy Estate">
+			<state></state>
+			<latitude>32618</latitude>
+			<longitude>1015118</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Virik Estate -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>23285</latitude>
+			<longitude>1025285</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voules Estate -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>24451</latitude>
+			<longitude>1029785</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilayah Persekutuan">
+			<state></state>
+			<latitude>31286</latitude>
+			<longitude>1016952</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilayah Persekutuan Labuan -- (State: Labuan)">
+			<state>Labuan</state>
+			<latitude>53452</latitude>
+			<longitude>1152119</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yam Seng Estate -- (State: Perak)">
+			<state>Perak</state>
+			<latitude>49288</latitude>
+			<longitude>1006954</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yan -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>58121</latitude>
+			<longitude>1003788</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yan Kecil -- (State: Kedah)">
+			<state>Kedah</state>
+			<latitude>58288</latitude>
+			<longitude>1003954</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yap Chan Estate -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>26954</latitude>
+			<longitude>1019288</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yap Moi San Estate -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>24788</latitude>
+			<longitude>1022288</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yap Pong Neo Estate -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>23288</latitude>
+			<longitude>1021288</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yap Tow Sah -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>20288</latitude>
+			<longitude>1033454</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarak Estate -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>54621</latitude>
+			<longitude>1004954</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeo Boon Tean Estate -- (State: Pulau Pinang)">
+			<state>Pulau Pinang</state>
+			<latitude>53121</latitude>
+			<longitude>1005121</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeo Yong Chew Estate -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>19288</latitude>
+			<longitude>1040454</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeow Kim Pong Estate -- (State: Negeri Sembilan)">
+			<state>Negeri Sembilan</state>
+			<latitude>24954</latitude>
+			<longitude>1019954</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yew Hock Estate -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>16788</latitude>
+			<longitude>1038788</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yew Liew Estate -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>18788</latitude>
+			<longitude>1032788</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yong Blab Mountain">
+			<state></state>
+			<latitude>46621</latitude>
+			<longitude>1013788</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yong Peng -- (State: Pahang)">
+			<state>Pahang</state>
+			<latitude>20288</latitude>
+			<longitude>1030788</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yong Peng Estate -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>20788</latitude>
+			<longitude>1030954</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yong Poon Onn Estate -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>23121</latitude>
+			<longitude>1021121</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yong Yoon Pow Estate -- (State: Melaka)">
+			<state>Melaka</state>
+			<latitude>21621</latitude>
+			<longitude>1025288</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yukong Rubber Estate -- (State: Johor)">
+			<state>Johor</state>
+			<latitude>15788</latitude>
+			<longitude>1038288</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zebra Reefs -- (State: Sabah)">
+			<state>Sabah</state>
+			<latitude>67622</latitude>
+			<longitude>1169789</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,642 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="New Zealand">
+		<city name="Albany">
+			<state></state>
+			<latitude>-367070</latitude>
+			<longitude>1747097</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Auckland">
+			<state></state>
+			<latitude>-369903</latitude>
+			<longitude>1750097</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Auckland Harbour">
+			<state></state>
+			<latitude>-368236</latitude>
+			<longitude>1748430</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Auckland Island">
+			<state></state>
+			<latitude>-507070</latitude>
+			<longitude>1661430</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Auckland Islands">
+			<state></state>
+			<latitude>-506570</latitude>
+			<longitude>1665097</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Auckland Rock">
+			<state></state>
+			<latitude>-394545</latitude>
+			<longitude>1769416</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blenheim">
+			<state></state>
+			<latitude>-415069</latitude>
+			<longitude>1739598</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Canterbury">
+			<state></state>
+			<latitude>-434901</latitude>
+			<longitude>1715099</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christchurch">
+			<state></state>
+			<latitude>-435234</latitude>
+			<longitude>1726766</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dunedin">
+			<state></state>
+			<latitude>-458733</latitude>
+			<longitude>1705267</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gisborne">
+			<state></state>
+			<latitude>-386564</latitude>
+			<longitude>1780270</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glenfield">
+			<state></state>
+			<latitude>-367564</latitude>
+			<longitude>1747436</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Greymouth">
+			<state></state>
+			<latitude>-424397</latitude>
+			<longitude>1712103</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamilton">
+			<state></state>
+			<latitude>-377729</latitude>
+			<longitude>1752937</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamilton Bay">
+			<state></state>
+			<latitude>-409729</latitude>
+			<longitude>1738604</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamilton Burn">
+			<state></state>
+			<latitude>-457729</latitude>
+			<longitude>1681937</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamilton Peak">
+			<state></state>
+			<latitude>-431063</latitude>
+			<longitude>1716937</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamiltons Gap">
+			<state></state>
+			<latitude>-371229</latitude>
+			<longitude>1745771</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hastings">
+			<state></state>
+			<latitude>-396229</latitude>
+			<longitude>1768604</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hawera">
+			<state></state>
+			<latitude>-395729</latitude>
+			<longitude>1742937</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hawke s Bay">
+			<state></state>
+			<latitude>-394896</latitude>
+			<longitude>1766771</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Invercargill">
+			<state></state>
+			<latitude>-464062</latitude>
+			<longitude>1683605</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilbirnie">
+			<state></state>
+			<latitude>-413060</latitude>
+			<longitude>1748107</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lincoln">
+			<state></state>
+			<latitude>-436392</latitude>
+			<longitude>1724941</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manukau City">
+			<state></state>
+			<latitude>-369558</latitude>
+			<longitude>1748109</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maungakaramea">
+			<state></state>
+			<latitude>-358391</latitude>
+			<longitude>1742276</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Morrinsville">
+			<state></state>
+			<latitude>-376391</latitude>
+			<longitude>1755442</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mount Eden">
+			<state></state>
+			<latitude>-368724</latitude>
+			<longitude>1747609</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mount Roskill">
+			<state></state>
+			<latitude>-369058</latitude>
+			<longitude>1747609</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Napier">
+			<state></state>
+			<latitude>-394723</latitude>
+			<longitude>1769277</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nelson">
+			<state></state>
+			<latitude>-416557</latitude>
+			<longitude>1725110</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="New Lynn">
+			<state></state>
+			<latitude>-369057</latitude>
+			<longitude>1746777</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="New Plymouth">
+			<state></state>
+			<latitude>-390557</latitude>
+			<longitude>1750777</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="New Plymouth City">
+			<state></state>
+			<latitude>-390557</latitude>
+			<longitude>1740943</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North Shore">
+			<state></state>
+			<latitude>-367890</latitude>
+			<longitude>1747610</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Onehunga">
+			<state></state>
+			<latitude>-369056</latitude>
+			<longitude>1747944</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otahuhu">
+			<state></state>
+			<latitude>-369389</latitude>
+			<longitude>1748611</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otahuhu Point">
+			<state></state>
+			<latitude>-367745</latitude>
+			<longitude>1749392</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pakuranga">
+			<state></state>
+			<latitude>-368721</latitude>
+			<longitude>1749279</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Palmerston North">
+			<state></state>
+			<latitude>-403555</latitude>
+			<longitude>1756279</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Palmerston North City">
+			<state></state>
+			<latitude>-403388</latitude>
+			<longitude>1756279</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Panmure">
+			<state></state>
+			<latitude>-368721</latitude>
+			<longitude>1748779</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponsonby">
+			<state></state>
+			<latitude>-368388</latitude>
+			<longitude>1747445</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queenstown">
+			<state></state>
+			<latitude>-450220</latitude>
+			<longitude>1686780</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ranui Station">
+			<state></state>
+			<latitude>-368553</latitude>
+			<longitude>1746281</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Riccarton">
+			<state></state>
+			<latitude>-435219</latitude>
+			<longitude>1726114</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roto Rua">
+			<state></state>
+			<latitude>-380719</latitude>
+			<longitude>1762781</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotorua">
+			<state></state>
+			<latitude>-381386</latitude>
+			<longitude>1762614</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Takanini">
+			<state></state>
+			<latitude>-370217</latitude>
+			<longitude>1749283</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taupo">
+			<state></state>
+			<latitude>-386717</latitude>
+			<longitude>1760949</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tauranga">
+			<state></state>
+			<latitude>-376717</latitude>
+			<longitude>1761783</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tauranga Airport">
+			<state></state>
+			<latitude>-376612</latitude>
+			<longitude>1762055</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tauranga Entrance">
+			<state></state>
+			<latitude>-376217</latitude>
+			<longitude>1761783</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Te Anau">
+			<state></state>
+			<latitude>-453217</latitude>
+			<longitude>1678616</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Timaru City">
+			<state></state>
+			<latitude>-443884</latitude>
+			<longitude>1712616</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valhalla Creek">
+			<state></state>
+			<latitude>-420049</latitude>
+			<longitude>1740118</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vancouver">
+			<state></state>
+			<latitude>-480215</latitude>
+			<longitude>1665118</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vancouver Arm">
+			<state></state>
+			<latitude>-455382</latitude>
+			<longitude>1668951</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vanina Stream">
+			<state></state>
+			<latitude>-429715</latitude>
+			<longitude>1709618</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Venlaw">
+			<state></state>
+			<latitude>-462882</latitude>
+			<longitude>1690451</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Venus Bay">
+			<state></state>
+			<latitude>-525490</latitude>
+			<longitude>1691535</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Venus Cove">
+			<state></state>
+			<latitude>-525496</latitude>
+			<longitude>1691479</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vernon">
+			<state></state>
+			<latitude>-415549</latitude>
+			<longitude>1739951</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vernon Homestead">
+			<state></state>
+			<latitude>-415549</latitude>
+			<longitude>1740785</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Verona Stream">
+			<state></state>
+			<latitude>-392549</latitude>
+			<longitude>1751285</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veronica Channel">
+			<state></state>
+			<latitude>-352882</latitude>
+			<longitude>1741285</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Verter Burn">
+			<state></state>
+			<latitude>-458549</latitude>
+			<longitude>1699951</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victor Peak">
+			<state></state>
+			<latitude>-451049</latitude>
+			<longitude>1671785</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria Glacier">
+			<state></state>
+			<latitude>-434882</latitude>
+			<longitude>1701285</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria Gully">
+			<state></state>
+			<latitude>-455215</latitude>
+			<longitude>1687118</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victory Island">
+			<state></state>
+			<latitude>-407215</latitude>
+			<longitude>1739285</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vine Creek">
+			<state></state>
+			<latitude>-429549</latitude>
+			<longitude>1711451</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Volta Glacier">
+			<state></state>
+			<latitude>-443549</latitude>
+			<longitude>1687785</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vosper Creek">
+			<state></state>
+			<latitude>-410882</latitude>
+			<longitude>1728118</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wanganui">
+			<state></state>
+			<latitude>-399381</latitude>
+			<longitude>1750286</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wellington">
+			<state></state>
+			<latitude>-412714</latitude>
+			<longitude>1747786</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wellington Harbour">
+			<state></state>
+			<latitude>-412714</latitude>
+			<longitude>1748452</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wellington Head">
+			<state></state>
+			<latitude>-411881</latitude>
+			<longitude>1743952</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wellington Reach">
+			<state></state>
+			<latitude>-357606</latitude>
+			<longitude>1743902</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wellington Rock">
+			<state></state>
+			<latitude>-365709</latitude>
+			<longitude>1748311</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wellington Statistical Area">
+			<state></state>
+			<latitude>-409881</latitude>
+			<longitude>1755119</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whangarei">
+			<state></state>
+			<latitude>-357214</latitude>
+			<longitude>1743452</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xmas Creek">
+			<state></state>
+			<latitude>-417380</latitude>
+			<longitude>1716953</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yncyca Bay">
+			<state></state>
+			<latitude>-411212</latitude>
+			<longitude>1739121</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zampa">
+			<state></state>
+			<latitude>-423378</latitude>
+			<longitude>1724622</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeilian Creek">
+			<state></state>
+			<latitude>-438878</latitude>
+			<longitude>1695289</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeno Rock">
+			<state></state>
+			<latitude>-367011</latitude>
+			<longitude>1750028</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zig-zag Creek">
+			<state></state>
+			<latitude>-440878</latitude>
+			<longitude>1693622</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zigzag">
+			<state></state>
+			<latitude>-436378</latitude>
+			<longitude>1729289</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zora Creek">
+			<state></state>
+			<latitude>-438045</latitude>
+			<longitude>1698455</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zora Glacier">
+			<state></state>
+			<latitude>-437545</latitude>
+			<longitude>1698622</longitude>
+			<timezone>1200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

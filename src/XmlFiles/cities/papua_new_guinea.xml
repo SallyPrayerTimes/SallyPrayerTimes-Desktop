@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Papua New Guinea">
+		<city name="Akib -- (State: Manus)">
+			<state>Manus</state>
+			<latitude>-15070</latitude>
+			<longitude>1450264</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akun Creek -- (State: Sandaun)">
+			<state>Sandaun</state>
+			<latitude>-32070</latitude>
+			<longitude>1424930</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dme -- (State: Western)">
+			<state>Western</state>
+			<latitude>-90233</latitude>
+			<longitude>1430767</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dzange -- (State: Eastern Highlands)">
+			<state>Eastern Highlands</state>
+			<latitude>-68733</latitude>
+			<longitude>1457100</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="H walia -- (State: Chimbu)">
+			<state>Chimbu</state>
+			<latitude>-67063</latitude>
+			<longitude>1451104</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lae -- (State: Morobe)">
+			<state>Morobe</state>
+			<latitude>-67225</latitude>
+			<longitude>1470108</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madang">
+			<state></state>
+			<latitude>-52058</latitude>
+			<longitude>1458109</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moro -- (State: Southern Highlands)">
+			<state>Southern Highlands</state>
+			<latitude>-63058</latitude>
+			<longitude>1441776</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mwalukwasia Bay -- (State: Milne Bay)">
+			<state>Milne Bay</state>
+			<latitude>-99724</latitude>
+			<longitude>1513109</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Moresby -- (State: National Capital)">
+			<state>National Capital</state>
+			<latitude>-94535</latitude>
+			<longitude>1472037</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qaga -- (State: Morobe)">
+			<state>Morobe</state>
+			<latitude>-65220</latitude>
+			<longitude>1476613</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quesal -- (State: Milne Bay)">
+			<state>Milne Bay</state>
+			<latitude>-107387</latitude>
+			<longitude>1517780</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quessant Island -- (State: Milne Bay)">
+			<state>Milne Bay</state>
+			<latitude>-111387</latitude>
+			<longitude>1512613</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quilty Patch -- (State: Milne Bay)">
+			<state>Milne Bay</state>
+			<latitude>-107054</latitude>
+			<longitude>1505446</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quina Creek -- (State: Madang)">
+			<state>Madang</state>
+			<latitude>-51720</latitude>
+			<longitude>1454446</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quonona Creek -- (State: Madang)">
+			<state>Madang</state>
+			<latitude>-51554</latitude>
+			<longitude>1454946</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoy -- (State: East New Britain)">
+			<state>East New Britain</state>
+			<latitude>-55720</latitude>
+			<longitude>1518280</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qwembung -- (State: Morobe)">
+			<state>Morobe</state>
+			<latitude>-65387</latitude>
+			<longitude>1477946</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tmingondok -- (State: Western)">
+			<state>Western</state>
+			<latitude>-59884</latitude>
+			<longitude>1414783</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vokakana Creek -- (State: Central)">
+			<state>Central</state>
+			<latitude>-90215</latitude>
+			<longitude>1467285</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volodom -- (State: Western)">
+			<state>Western</state>
+			<latitude>-63049</latitude>
+			<longitude>1424785</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vovosi -- (State: West New Britain)">
+			<state>West New Britain</state>
+			<latitude>-54215</latitude>
+			<longitude>1504451</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wye Point -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-86214</latitude>
+			<longitude>1483619</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zagaheme -- (State: Morobe)">
+			<state>Morobe</state>
+			<latitude>-63211</latitude>
+			<longitude>1476622</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zakubep -- (State: Morobe)">
+			<state>Morobe</state>
+			<latitude>-62045</latitude>
+			<longitude>1475955</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zama -- (State: Western)">
+			<state>Western</state>
+			<latitude>-72211</latitude>
+			<longitude>1417955</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanggung -- (State: Morobe)">
+			<state>Morobe</state>
+			<latitude>-63878</latitude>
+			<longitude>1473122</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zedzed Creek">
+			<state></state>
+			<latitude>-59545</latitude>
+			<longitude>1466789</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zenac -- (State: Morobe)">
+			<state>Morobe</state>
+			<latitude>-69378</latitude>
+			<longitude>1465955</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zengaren -- (State: Morobe)">
+			<state>Morobe</state>
+			<latitude>-65211</latitude>
+			<longitude>1474455</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

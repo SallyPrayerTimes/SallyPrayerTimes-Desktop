@@ -1,0 +1,1930 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Maldives">
+		<city name="Abuhera">
+			<state></state>
+			<latitude>-6236</latitude>
+			<longitude>731097</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adago">
+			<state></state>
+			<latitude>31597</latitude>
+			<longitude>730430</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Addu Atholhu -- (State: Seenu)">
+			<state>Seenu</state>
+			<latitude>-6236</latitude>
+			<longitude>731764</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aidu">
+			<state></state>
+			<latitude>52097</latitude>
+			<longitude>731430</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akirifuri">
+			<state></state>
+			<latitude>46264</latitude>
+			<longitude>733930</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alifuri-Etingili Atoll">
+			<state></state>
+			<latitude>59764</latitude>
+			<longitude>729264</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alifushi">
+			<state></state>
+			<latitude>59764</latitude>
+			<longitude>729430</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aligau">
+			<state></state>
+			<latitude>52430</latitude>
+			<longitude>735097</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alimata">
+			<state></state>
+			<latitude>35930</latitude>
+			<longitude>734930</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aliweli">
+			<state></state>
+			<latitude>40597</latitude>
+			<longitude>729264</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amburi">
+			<state></state>
+			<latitude>33930</latitude>
+			<longitude>734430</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ana-hen-u-furi">
+			<state></state>
+			<latitude>53597</latitude>
+			<longitude>729430</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anguretin">
+			<state></state>
+			<latitude>57930</latitude>
+			<longitude>729930</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apura">
+			<state></state>
+			<latitude>19597</latitude>
+			<longitude>732764</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aramh">
+			<state></state>
+			<latitude>42430</latitude>
+			<longitude>734930</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ari Atholhu -- (State: (MV02))">
+			<state>(MV02)</state>
+			<latitude>38930</latitude>
+			<longitude>728430</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ari Atoll -- (State: (MV02))">
+			<state>(MV02)</state>
+			<latitude>39264</latitude>
+			<longitude>728430</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ari Faro">
+			<state></state>
+			<latitude>33430</latitude>
+			<longitude>728930</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ariyaddu">
+			<state></state>
+			<latitude>35097</latitude>
+			<longitude>728597</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ariyaddu Channel">
+			<state></state>
+			<latitude>34264</latitude>
+			<longitude>729264</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asdu">
+			<state></state>
+			<latitude>44764</latitude>
+			<longitude>736597</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Astaman Faro">
+			<state></state>
+			<latitude>32097</latitude>
+			<longitude>728430</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atamandu">
+			<state></state>
+			<latitude>8097</latitude>
+			<longitude>731764</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aumedu">
+			<state></state>
+			<latitude>38097</latitude>
+			<longitude>729597</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baa Atoll -- (State: (MV20))">
+			<state>(MV20)</state>
+			<latitude>51431</latitude>
+			<longitude>729598</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bahr al `Arab">
+			<state></state>
+			<latitude>200098</latitude>
+			<longitude>650098</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balihura">
+			<state></state>
+			<latitude>-5735</latitude>
+			<longitude>732431</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandara">
+			<state></state>
+			<latitude>2098</latitude>
+			<longitude>731431</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandeli">
+			<state></state>
+			<latitude>57265</latitude>
+			<longitude>733265</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandidu">
+			<state></state>
+			<latitude>29598</latitude>
+			<longitude>730098</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandos">
+			<state></state>
+			<latitude>42931</latitude>
+			<longitude>734765</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baresdu">
+			<state></state>
+			<latitude>19931</latitude>
+			<longitude>735598</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barruse">
+			<state></state>
+			<latitude>42765</latitude>
+			<longitude>734265</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batala">
+			<state></state>
+			<latitude>53765</latitude>
+			<longitude>730598</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baura">
+			<state></state>
+			<latitude>68265</latitude>
+			<longitude>732098</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Berriam Faro">
+			<state></state>
+			<latitude>54431</latitude>
+			<longitude>730098</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Biladu">
+			<state></state>
+			<latitude>31431</latitude>
+			<longitude>729931</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bilifuri">
+			<state></state>
+			<latitude>63431</latitude>
+			<longitude>729598</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bodu Faro">
+			<state></state>
+			<latitude>55431</latitude>
+			<longitude>727931</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bodu Mandu">
+			<state></state>
+			<latitude>60098</latitude>
+			<longitude>732931</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bodufinur">
+			<state></state>
+			<latitude>50431</latitude>
+			<longitude>728431</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boli">
+			<state></state>
+			<latitude>3598</latitude>
+			<longitude>733931</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bolifuri">
+			<state></state>
+			<latitude>41098</latitude>
+			<longitude>733931</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bomasdu">
+			<state></state>
+			<latitude>59765</latitude>
+			<longitude>733265</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bondo Hajara">
+			<state></state>
+			<latitude>-6735</latitude>
+			<longitude>731265</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boyfuri">
+			<state></state>
+			<latitude>53098</latitude>
+			<longitude>729765</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bras Karl Luyken">
+			<state></state>
+			<latitude>-43402</latitude>
+			<longitude>699265</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Breyfasdu">
+			<state></state>
+			<latitude>59765</latitude>
+			<longitude>733431</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Budu">
+			<state></state>
+			<latitude>6765</latitude>
+			<longitude>733765</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buri Hura">
+			<state></state>
+			<latitude>33598</latitude>
+			<longitude>735265</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Burrofuri">
+			<state></state>
+			<latitude>55265</latitude>
+			<longitude>729431</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buru">
+			<state></state>
+			<latitude>28931</latitude>
+			<longitude>735598</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buruni">
+			<state></state>
+			<latitude>25598</latitude>
+			<longitude>731098</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bushy Islet">
+			<state></state>
+			<latitude>-6069</latitude>
+			<longitude>731598</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Butala">
+			<state></state>
+			<latitude>40931</latitude>
+			<longitude>729431</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Centre Malosmadulu Atoll">
+			<state></state>
+			<latitude>53432</latitude>
+			<longitude>730099</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaviyani -- (State: (MV24))">
+			<state>(MV24)</state>
+			<latitude>62432</latitude>
+			<longitude>731099</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cureddu">
+			<state></state>
+			<latitude>56432</latitude>
+			<longitude>728766</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dambidu">
+			<state></state>
+			<latitude>20933</latitude>
+			<longitude>735767</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daumbudu">
+			<state></state>
+			<latitude>30933</latitude>
+			<longitude>729433</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dedu">
+			<state></state>
+			<latitude>68933</latitude>
+			<longitude>731100</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Defuri">
+			<state></state>
+			<latitude>59100</latitude>
+			<longitude>732933</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deha Faro">
+			<state></state>
+			<latitude>59267</latitude>
+			<longitude>731433</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dehu">
+			<state></state>
+			<latitude>53933</latitude>
+			<longitude>733767</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dekunu">
+			<state></state>
+			<latitude>20600</latitude>
+			<longitude>735600</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Delufuri">
+			<state></state>
+			<latitude>27767</latitude>
+			<longitude>734267</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Demon Point">
+			<state></state>
+			<latitude>-5733</latitude>
+			<longitude>730933</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Denduni">
+			<state></state>
+			<latitude>57600</latitude>
+			<longitude>733100</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhaal Atoll -- (State: (MV17))">
+			<state>(MV17)</state>
+			<latitude>28767</latitude>
+			<longitude>729600</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhigfuri">
+			<state></state>
+			<latitude>53767</latitude>
+			<longitude>729933</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diaddu">
+			<state></state>
+			<latitude>4933</latitude>
+			<longitude>735100</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Didi">
+			<state></state>
+			<latitude>5267</latitude>
+			<longitude>731767</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Didu">
+			<state></state>
+			<latitude>35267</latitude>
+			<longitude>728767</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Difuri">
+			<state></state>
+			<latitude>54100</latitude>
+			<longitude>736433</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Digaru">
+			<state></state>
+			<latitude>31267</latitude>
+			<longitude>735600</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diggaru">
+			<state></state>
+			<latitude>36433</latitude>
+			<longitude>734933</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Digili">
+			<state></state>
+			<latitude>54933</latitude>
+			<longitude>729267</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Digu Faro">
+			<state></state>
+			<latitude>58267</latitude>
+			<longitude>728600</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Digura">
+			<state></state>
+			<latitude>35600</latitude>
+			<longitude>729267</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diyagili">
+			<state></state>
+			<latitude>23433</latitude>
+			<longitude>733433</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doomfana">
+			<state></state>
+			<latitude>52100</latitude>
+			<longitude>731100</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorimeno">
+			<state></state>
+			<latitude>4100</latitude>
+			<longitude>733100</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dugati">
+			<state></state>
+			<latitude>36267</latitude>
+			<longitude>729600</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dukandu">
+			<state></state>
+			<latitude>52767</latitude>
+			<longitude>728767</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dunidu">
+			<state></state>
+			<latitude>42267</latitude>
+			<longitude>735100</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dunikolu">
+			<state></state>
+			<latitude>50767</latitude>
+			<longitude>728767</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duravandu">
+			<state></state>
+			<latitude>51767</latitude>
+			<longitude>731100</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dureadu">
+			<state></state>
+			<latitude>59933</latitude>
+			<longitude>732100</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edu Faro">
+			<state></state>
+			<latitude>57268</latitude>
+			<longitude>734101</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekasdu">
+			<state></state>
+			<latitude>60768</latitude>
+			<longitude>732768</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekule Warru">
+			<state></state>
+			<latitude>58934</latitude>
+			<longitude>733268</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekuriwari">
+			<state></state>
+			<latitude>59601</latitude>
+			<longitude>732934</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekuru Faro">
+			<state></state>
+			<latitude>57768</latitude>
+			<longitude>728434</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eladu">
+			<state></state>
+			<latitude>40268</latitude>
+			<longitude>729434</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embudu">
+			<state></state>
+			<latitude>50934</latitude>
+			<longitude>728434</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ereadu">
+			<state></state>
+			<latitude>61101</latitude>
+			<longitude>732768</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erieddu">
+			<state></state>
+			<latitude>45934</latitude>
+			<longitude>734268</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etingili">
+			<state></state>
+			<latitude>59934</latitude>
+			<longitude>729268</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eugiri Faro">
+			<state></state>
+			<latitude>57434</latitude>
+			<longitude>728434</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eydhafushi">
+			<state></state>
+			<latitude>51268</latitude>
+			<longitude>730434</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaaf Aliff -- (State: (MV27))">
+			<state>(MV27)</state>
+			<latitude>6270</latitude>
+			<longitude>732936</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaafaru Atoll -- (State: (MV08))">
+			<state>(MV08)</state>
+			<latitude>47603</latitude>
+			<longitude>734436</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaafu Dalu -- (State: (MV28))">
+			<state>(MV28)</state>
+			<latitude>4270</latitude>
+			<longitude>731770</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gadifuri">
+			<state></state>
+			<latitude>26936</latitude>
+			<longitude>728770</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gadu">
+			<state></state>
+			<latitude>3103</latitude>
+			<longitude>734103</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gafuri">
+			<state></state>
+			<latitude>68770</latitude>
+			<longitude>730436</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaha">
+			<state></state>
+			<latitude>53770</latitude>
+			<longitude>729770</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaha Faro">
+			<state></state>
+			<latitude>42770</latitude>
+			<longitude>727603</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gallandu">
+			<state></state>
+			<latitude>69603</latitude>
+			<longitude>729936</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gan">
+			<state></state>
+			<latitude>2936</latitude>
+			<longitude>733770</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gan -- (State: Seenu)">
+			<state>Seenu</state>
+			<latitude>-6897</latitude>
+			<longitude>731603</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gan Channel">
+			<state></state>
+			<latitude>2936</latitude>
+			<longitude>733603</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gass Kalohera">
+			<state></state>
+			<latitude>-6397</latitude>
+			<longitude>732270</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gawa Faro">
+			<state></state>
+			<latitude>53936</latitude>
+			<longitude>730270</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaymana">
+			<state></state>
+			<latitude>55603</latitude>
+			<longitude>729603</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Genego">
+			<state></state>
+			<latitude>32270</latitude>
+			<longitude>730103</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Giravaru">
+			<state></state>
+			<latitude>42103</latitude>
+			<longitude>734103</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gnaviyani Atholhu -- (State: (MV29))">
+			<state>(MV29)</state>
+			<latitude>-2897</latitude>
+			<longitude>734436</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goadu">
+			<state></state>
+			<latitude>64270</latitude>
+			<longitude>729270</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goidhoo Atoll -- (State: (MV20))">
+			<state>(MV20)</state>
+			<latitude>48936</latitude>
+			<longitude>729103</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goidu">
+			<state></state>
+			<latitude>49103</latitude>
+			<longitude>729770</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gosi">
+			<state></state>
+			<latitude>5270</latitude>
+			<longitude>731103</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gula">
+			<state></state>
+			<latitude>8270</latitude>
+			<longitude>732103</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gumati">
+			<state></state>
+			<latitude>70603</latitude>
+			<longitude>729936</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gunawari">
+			<state></state>
+			<latitude>36436</latitude>
+			<longitude>733603</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guradu">
+			<state></state>
+			<latitude>23436</latitude>
+			<longitude>733270</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamfuri">
+			<state></state>
+			<latitude>52104</latitude>
+			<longitude>731271</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hithadhoo -- (State: (MV26))">
+			<state>(MV26)</state>
+			<latitude>17937</latitude>
+			<longitude>733937</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hithadhoo">
+			<state></state>
+			<latitude>-5896</latitude>
+			<longitude>730937</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ihavandhippolhu Atholhu -- (State: (MV07))">
+			<state>(MV07)</state>
+			<latitude>70105</latitude>
+			<longitude>729272</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ihavandu">
+			<state></state>
+			<latitude>69605</latitude>
+			<longitude>729272</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iliaface Island">
+			<state></state>
+			<latitude>3272</latitude>
+			<longitude>733938</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imma">
+			<state></state>
+			<latitude>43105</latitude>
+			<longitude>735605</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inafuri">
+			<state></state>
+			<latitude>49105</latitude>
+			<longitude>728605</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inamadu">
+			<state></state>
+			<latitude>55605</latitude>
+			<longitude>730438</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inawari">
+			<state></state>
+			<latitude>54938</latitude>
+			<longitude>734105</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inguradu">
+			<state></state>
+			<latitude>54772</latitude>
+			<longitude>730272</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irafuri">
+			<state></state>
+			<latitude>28605</latitude>
+			<longitude>735105</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isdu">
+			<state></state>
+			<latitude>21105</latitude>
+			<longitude>735938</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ismahilahera -- (State: Seenu)">
+			<state>Seenu</state>
+			<latitude>-5728</latitude>
+			<longitude>732272</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwafuri">
+			<state></state>
+			<latitude>52438</latitude>
+			<longitude>728438</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jewellers Islands">
+			<state></state>
+			<latitude>29439</latitude>
+			<longitude>728939</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kulhudhuffushi">
+			<state></state>
+			<latitude>66274</latitude>
+			<longitude>730607</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laamu Atoll -- (State: Laamu)">
+			<state>Laamu</state>
+			<latitude>19441</latitude>
+			<longitude>734275</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labadu">
+			<state></state>
+			<latitude>5275</latitude>
+			<longitude>734608</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laccadive Sea">
+			<state></state>
+			<latitude>80108</latitude>
+			<longitude>750108</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Landu">
+			<state></state>
+			<latitude>58941</latitude>
+			<longitude>734608</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lhaviyani Atholhu -- (State: (MV03))">
+			<state>(MV03)</state>
+			<latitude>53941</latitude>
+			<longitude>734941</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lillis">
+			<state></state>
+			<latitude>4775</latitude>
+			<longitude>734775</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limbo Kandu">
+			<state></state>
+			<latitude>57441</latitude>
+			<longitude>729108</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lofaro">
+			<state></state>
+			<latitude>58108</latitude>
+			<longitude>732608</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lohi">
+			<state></state>
+			<latitude>25275</latitude>
+			<longitude>732275</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lohifuri">
+			<state></state>
+			<latitude>43608</latitude>
+			<longitude>736108</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Low Islet">
+			<state></state>
+			<latitude>31608</latitude>
+			<longitude>735275</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lowadu">
+			<state></state>
+			<latitude>23108</latitude>
+			<longitude>732941</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lowalafuri">
+			<state></state>
+			<latitude>53108</latitude>
+			<longitude>734775</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lundu">
+			<state></state>
+			<latitude>56775</latitude>
+			<longitude>729441</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lundufuri">
+			<state></state>
+			<latitude>56441</latitude>
+			<longitude>729775</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lusa">
+			<state></state>
+			<latitude>8275</latitude>
+			<longitude>731608</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Male -- (State: Maale)">
+			<state>Maale</state>
+			<latitude>41776</latitude>
+			<longitude>735109</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Male Atoll -- (State: (MV26))">
+			<state>(MV26)</state>
+			<latitude>43776</latitude>
+			<longitude>735109</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Male Faro">
+			<state></state>
+			<latitude>29109</latitude>
+			<longitude>730442</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manadu">
+			<state></state>
+			<latitude>57776</latitude>
+			<longitude>733942</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naifaru -- (State: (MV26))">
+			<state>(MV26)</state>
+			<latitude>54443</latitude>
+			<longitude>733443</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oikuredu">
+			<state></state>
+			<latitude>55944</latitude>
+			<longitude>729444</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olivelifuri">
+			<state></state>
+			<latitude>52944</latitude>
+			<longitude>735944</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olugeri">
+			<state></state>
+			<latitude>25111</latitude>
+			<longitude>732611</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ongu">
+			<state></state>
+			<latitude>56778</latitude>
+			<longitude>730111</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ongulu">
+			<state></state>
+			<latitude>57278</latitude>
+			<longitude>730111</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oura">
+			<state></state>
+			<latitude>54778</latitude>
+			<longitude>729278</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Padu">
+			<state></state>
+			<latitude>29945</latitude>
+			<longitude>729779</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phares">
+			<state></state>
+			<latitude>18112</latitude>
+			<longitude>733279</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Putali">
+			<state></state>
+			<latitude>-6221</latitude>
+			<longitude>732445</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raa Atoll -- (State: (MV13))">
+			<state>(MV13)</state>
+			<latitude>56447</latitude>
+			<longitude>729281</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rafuri">
+			<state></state>
+			<latitude>56947</latitude>
+			<longitude>732614</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rahmogili">
+			<state></state>
+			<latitude>55781</latitude>
+			<longitude>728614</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raimagu">
+			<state></state>
+			<latitude>61781</latitude>
+			<longitude>732447</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raimandu">
+			<state></state>
+			<latitude>30947</latitude>
+			<longitude>736281</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakidu">
+			<state></state>
+			<latitude>33281</latitude>
+			<longitude>734614</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasdhoo Atholhu">
+			<state></state>
+			<latitude>42947</latitude>
+			<longitude>729781</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasdu">
+			<state></state>
+			<latitude>42781</latitude>
+			<longitude>729947</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasdu Atoll">
+			<state></state>
+			<latitude>43114</latitude>
+			<longitude>729781</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasfanu">
+			<state></state>
+			<latitude>2781</latitude>
+			<longitude>732781</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raskatin">
+			<state></state>
+			<latitude>58114</latitude>
+			<longitude>729947</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasmadu">
+			<state></state>
+			<latitude>55781</latitude>
+			<longitude>730447</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rat Point">
+			<state></state>
+			<latitude>41781</latitude>
+			<longitude>734947</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ravare">
+			<state></state>
+			<latitude>7281</latitude>
+			<longitude>732447</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raverea">
+			<state></state>
+			<latitude>7781</latitude>
+			<longitude>733947</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rebudu">
+			<state></state>
+			<latitude>62947</latitude>
+			<longitude>731447</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Republic of the Maldive Islands">
+			<state></state>
+			<latitude>32114</latitude>
+			<longitude>730114</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Retafudu">
+			<state></state>
+			<latitude>2614</latitude>
+			<longitude>730614</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rimbudu">
+			<state></state>
+			<latitude>29447</latitude>
+			<longitude>729114</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roches Kay">
+			<state></state>
+			<latitude>-89219</latitude>
+			<longitude>695781</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocky Islet">
+			<state></state>
+			<latitude>38281</latitude>
+			<longitude>733781</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rohi">
+			<state></state>
+			<latitude>38781</latitude>
+			<longitude>733614</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roongili">
+			<state></state>
+			<latitude>55114</latitude>
+			<longitude>729781</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rufuri">
+			<state></state>
+			<latitude>67781</latitude>
+			<longitude>729447</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Runari">
+			<state></state>
+			<latitude>39114</latitude>
+			<longitude>733781</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sawahli">
+			<state></state>
+			<latitude>-6718</latitude>
+			<longitude>731448</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saya de Malha Bank">
+			<state></state>
+			<latitude>-104885</latitude>
+			<longitude>615115</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sihura">
+			<state></state>
+			<latitude>2948</latitude>
+			<longitude>733282</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Male Atoll">
+			<state></state>
+			<latitude>40115</latitude>
+			<longitude>734282</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Miladhunmadulu -- (State: (MV25))">
+			<state>(MV25)</state>
+			<latitude>58448</latitude>
+			<longitude>733115</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Thiladhunmathi -- (State: (MV23))">
+			<state>(MV23)</state>
+			<latitude>66282</latitude>
+			<longitude>728782</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suaroge">
+			<state></state>
+			<latitude>19282</latitude>
+			<longitude>732782</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suvadiva">
+			<state></state>
+			<latitude>5115</latitude>
+			<longitude>732615</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tahwahta">
+			<state></state>
+			<latitude>54949</latitude>
+			<longitude>729616</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tarburudu">
+			<state></state>
+			<latitude>57283</latitude>
+			<longitude>732283</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Telin Faro">
+			<state></state>
+			<latitude>56449</latitude>
+			<longitude>728283</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thaa Atoll -- (State: (MV08))">
+			<state>(MV08)</state>
+			<latitude>23783</latitude>
+			<longitude>731283</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thackaru">
+			<state></state>
+			<latitude>6283</latitude>
+			<longitude>731616</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thiladunmathi">
+			<state></state>
+			<latitude>66783</latitude>
+			<longitude>730116</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thinadhoo">
+			<state></state>
+			<latitude>5449</latitude>
+			<longitude>729449</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tifudu">
+			<state></state>
+			<latitude>67449</latitude>
+			<longitude>730283</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tiladunmati North -- (State: (MV07))">
+			<state>(MV07)</state>
+			<latitude>70116</latitude>
+			<longitude>730116</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tiliamafuri">
+			<state></state>
+			<latitude>52783</latitude>
+			<longitude>735949</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tilladu">
+			<state></state>
+			<latitude>52616</latitude>
+			<longitude>731449</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Timarafuri">
+			<state></state>
+			<latitude>22116</latitude>
+			<longitude>731616</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tinadu">
+			<state></state>
+			<latitude>69616</latitude>
+			<longitude>731616</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toddu">
+			<state></state>
+			<latitude>44283</latitude>
+			<longitude>729616</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tonagu">
+			<state></state>
+			<latitude>39949</latitude>
+			<longitude>729616</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toroka">
+			<state></state>
+			<latitude>41283</latitude>
+			<longitude>729283</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tukandu">
+			<state></state>
+			<latitude>68783</latitude>
+			<longitude>729949</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tulagiri">
+			<state></state>
+			<latitude>43283</latitude>
+			<longitude>734949</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tulusdu">
+			<state></state>
+			<latitude>43783</latitude>
+			<longitude>736449</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tura">
+			<state></state>
+			<latitude>54283</latitude>
+			<longitude>728949</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turadu">
+			<state></state>
+			<latitude>50449</latitude>
+			<longitude>728283</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turakuna">
+			<state></state>
+			<latitude>71283</latitude>
+			<longitude>728949</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tutu">
+			<state></state>
+			<latitude>3116</latitude>
+			<longitude>731449</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuvaru">
+			<state></state>
+			<latitude>29116</latitude>
+			<longitude>733783</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukulahu">
+			<state></state>
+			<latitude>42284</latitude>
+			<longitude>728617</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uleguma">
+			<state></state>
+			<latitude>70950</latitude>
+			<longitude>729284</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ungufuri">
+			<state></state>
+			<latitude>52117</latitude>
+			<longitude>730950</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urama Faro">
+			<state></state>
+			<latitude>57117</latitude>
+			<longitude>732784</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utim">
+			<state></state>
+			<latitude>68617</latitude>
+			<longitude>731117</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaavu Atoll -- (State: (MV04))">
+			<state>(MV04)</state>
+			<latitude>34785</latitude>
+			<longitude>734785</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vadu">
+			<state></state>
+			<latitude>39285</latitude>
+			<longitude>734618</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vattaru Atholhu">
+			<state></state>
+			<latitude>32785</latitude>
+			<longitude>734285</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vawaru">
+			<state></state>
+			<latitude>54285</latitude>
+			<longitude>733451</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vehamafuri">
+			<state></state>
+			<latitude>42285</latitude>
+			<longitude>735285</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veimandu">
+			<state></state>
+			<latitude>21951</latitude>
+			<longitude>731118</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velana">
+			<state></state>
+			<latitude>5285</latitude>
+			<longitude>730451</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velengili">
+			<state></state>
+			<latitude>53951</latitude>
+			<longitude>729451</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vevaru">
+			<state></state>
+			<latitude>29618</latitude>
+			<longitude>735951</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veymandhoo">
+			<state></state>
+			<latitude>21951</latitude>
+			<longitude>731285</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vilas">
+			<state></state>
+			<latitude>41285</latitude>
+			<longitude>734451</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viligili">
+			<state></state>
+			<latitude>7618</latitude>
+			<longitude>733951</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viliwaru">
+			<state></state>
+			<latitude>29951</latitude>
+			<longitude>730285</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadu">
+			<state></state>
+			<latitude>58619</latitude>
+			<longitude>729786</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waduni">
+			<state></state>
+			<latitude>20119</latitude>
+			<longitude>733786</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wagaru">
+			<state></state>
+			<latitude>71119</latitude>
+			<longitude>728786</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wahifuri">
+			<state></state>
+			<latitude>36286</latitude>
+			<longitude>728952</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waikaradu">
+			<state></state>
+			<latitude>65619</latitude>
+			<longitude>729452</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakaru">
+			<state></state>
+			<latitude>51619</latitude>
+			<longitude>728786</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wala">
+			<state></state>
+			<latitude>27286</latitude>
+			<longitude>729119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waluri">
+			<state></state>
+			<latitude>27452</latitude>
+			<longitude>729119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wandu">
+			<state></state>
+			<latitude>55452</latitude>
+			<longitude>730286</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wandu Faro">
+			<state></state>
+			<latitude>52286</latitude>
+			<longitude>731619</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wani">
+			<state></state>
+			<latitude>27452</latitude>
+			<longitude>730286</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warefuri">
+			<state></state>
+			<latitude>27952</latitude>
+			<longitude>734286</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warenfuri">
+			<state></state>
+			<latitude>43119</latitude>
+			<longitude>734119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warifuri">
+			<state></state>
+			<latitude>69286</latitude>
+			<longitude>731619</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warigili">
+			<state></state>
+			<latitude>39619</latitude>
+			<longitude>733452</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wataru">
+			<state></state>
+			<latitude>58619</latitude>
+			<longitude>734286</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Watu">
+			<state></state>
+			<latitude>58119</latitude>
+			<longitude>732119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wegeli">
+			<state></state>
+			<latitude>5786</latitude>
+			<longitude>734786</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weha Faro">
+			<state></state>
+			<latitude>41452</latitude>
+			<longitude>727286</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weli">
+			<state></state>
+			<latitude>42119</latitude>
+			<longitude>728119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weligandu">
+			<state></state>
+			<latitude>43119</latitude>
+			<longitude>730119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wewoa">
+			<state></state>
+			<latitude>57786</latitude>
+			<longitude>728786</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilifuri">
+			<state></state>
+			<latitude>25119</latitude>
+			<longitude>733286</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilingili -- (State: (MV26))">
+			<state>(MV26)</state>
+			<latitude>41786</latitude>
+			<longitude>734786</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiringili -- (State: Seenu)">
+			<state>Seenu</state>
+			<latitude>-6714</latitude>
+			<longitude>732119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiringili">
+			<state></state>
+			<latitude>7619</latitude>
+			<longitude>733786</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wowa">
+			<state></state>
+			<latitude>53452</latitude>
+			<longitude>730619</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

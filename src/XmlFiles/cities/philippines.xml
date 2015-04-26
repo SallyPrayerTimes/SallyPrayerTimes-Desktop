@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Philippines">
+		<city name="Bacolod City -- (State: Bacolod)">
+			<state>Bacolod</state>
+			<latitude>106765</latitude>
+			<longitude>1229598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baguio City -- (State: Baguio)">
+			<state>Baguio</state>
+			<latitude>164265</latitude>
+			<longitude>1206098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Butuan City -- (State: Butuan)">
+			<state>Butuan</state>
+			<latitude>89598</latitude>
+			<longitude>1255431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cagayan de Oro City -- (State: Cagayan de Oro)">
+			<state>Cagayan de Oro</state>
+			<latitude>84932</latitude>
+			<longitude>1246599</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cavite">
+			<state></state>
+			<latitude>142599</latitude>
+			<longitude>1208432</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cebu">
+			<state></state>
+			<latitude>103432</latitude>
+			<longitude>1237599</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cebu City -- (State: Cebu)">
+			<state>Cebu</state>
+			<latitude>103099</latitude>
+			<longitude>1239099</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cotabato City -- (State: Cotabato)">
+			<state>Cotabato</state>
+			<latitude>72266</latitude>
+			<longitude>1242599</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dagupan -- (State: Pangasinan)">
+			<state>Pangasinan</state>
+			<latitude>161100</latitude>
+			<longitude>1205267</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Davao">
+			<state></state>
+			<latitude>71433</latitude>
+			<longitude>1256600</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Davao City -- (State: Davao)">
+			<state>Davao</state>
+			<latitude>73267</latitude>
+			<longitude>1254433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="General Santos City -- (State: General Santos)">
+			<state>General Santos</state>
+			<latitude>61270</latitude>
+			<longitude>1251770</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iligan -- (State: Lanao del Norte)">
+			<state>Lanao del Norte</state>
+			<latitude>81438</latitude>
+			<longitude>1242272</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iligan City -- (State: Iligan)">
+			<state>Iligan</state>
+			<latitude>82605</latitude>
+			<longitude>1244105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isulan -- (State: Maguindanao)">
+			<state>Maguindanao</state>
+			<latitude>70438</latitude>
+			<longitude>1244938</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isulan -- (State: Sultan Kudarat)">
+			<state>Sultan Kudarat</state>
+			<latitude>66438</latitude>
+			<longitude>1244438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kadapawan -- (State: North Cotabato)">
+			<state>North Cotabato</state>
+			<latitude>70201</latitude>
+			<longitude>1250996</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalibo -- (State: Aklan)">
+			<state>Aklan</state>
+			<latitude>116940</latitude>
+			<longitude>1223774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalibo -- (State: South Cotabato)">
+			<state>South Cotabato</state>
+			<latitude>63626</latitude>
+			<longitude>1248274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalibo Town -- (State: Aklan)">
+			<state>Aklan</state>
+			<latitude>117168</latitude>
+			<longitude>1223751</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kidapawan -- (State: North Cotabato)">
+			<state>North Cotabato</state>
+			<latitude>70440</latitude>
+			<longitude>1250940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koronadal Proper -- (State: South Cotabato)">
+			<state>South Cotabato</state>
+			<latitude>62657</latitude>
+			<longitude>1250024</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laguna">
+			<state></state>
+			<latitude>141775</latitude>
+			<longitude>1213441</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Las Pinas -- (State: Cavite)">
+			<state>Cavite</state>
+			<latitude>144611</latitude>
+			<longitude>1209780</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Legaspi">
+			<state></state>
+			<latitude>131608</latitude>
+			<longitude>1237275</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Los Banos -- (State: Laguna)">
+			<state>Laguna</state>
+			<latitude>141775</latitude>
+			<longitude>1211941</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lucena">
+			<state></state>
+			<latitude>139275</latitude>
+			<longitude>1216108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lucena City -- (State: Lucena)">
+			<state>Lucena</state>
+			<latitude>139441</latitude>
+			<longitude>1216275</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makati -- (State: Nueva Vizcaya)">
+			<state>Nueva Vizcaya</state>
+			<latitude>164251</latitude>
+			<longitude>1211340</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makati -- (State: Rizal)">
+			<state>Rizal</state>
+			<latitude>145776</latitude>
+			<longitude>1210442</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makati -- (State: Mindoro Occidental)">
+			<state>Mindoro Occidental</state>
+			<latitude>130117</latitude>
+			<longitude>1208240</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malaybalay -- (State: Bukidnon)">
+			<state>Bukidnon</state>
+			<latitude>82442</latitude>
+			<longitude>1251776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila -- (State: Mindoro Oriental)">
+			<state>Mindoro Oriental</state>
+			<latitude>123773</latitude>
+			<longitude>1213490</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila -- (State: Albay)">
+			<state>Albay</state>
+			<latitude>132442</latitude>
+			<longitude>1239609</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila -- (State: Butuan)">
+			<state>Butuan</state>
+			<latitude>88165</latitude>
+			<longitude>1255781</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila">
+			<state></state>
+			<latitude>146151</latitude>
+			<longitude>1209931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila Bay">
+			<state></state>
+			<latitude>145301</latitude>
+			<longitude>1207809</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila Canal -- (State: Caloocan)">
+			<state>Caloocan</state>
+			<latitude>146109</latitude>
+			<longitude>1209776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila Channel -- (State: Mindoro Oriental)">
+			<state>Mindoro Oriental</state>
+			<latitude>135276</latitude>
+			<longitude>1209609</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila City -- (State: Manila)">
+			<state>Manila</state>
+			<latitude>145942</latitude>
+			<longitude>1210109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila Creek -- (State: Mindoro Oriental)">
+			<state>Mindoro Oriental</state>
+			<latitude>123609</latitude>
+			<longitude>1213442</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila Harbor -- (State: Caloocan)">
+			<state>Caloocan</state>
+			<latitude>145942</latitude>
+			<longitude>1209609</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila Heights Subdivision -- (State: Quezon)">
+			<state>Quezon</state>
+			<latitude>146109</latitude>
+			<longitude>1210776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila Inner Harbor -- (State: Manila)">
+			<state>Manila</state>
+			<latitude>145920</latitude>
+			<longitude>1209651</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila International -- (State: Pasay)">
+			<state>Pasay</state>
+			<latitude>145276</latitude>
+			<longitude>1210109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manila North Harbor -- (State: Manila)">
+			<state>Manila</state>
+			<latitude>146170</latitude>
+			<longitude>1209681</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manilak -- (State: Quezon)">
+			<state>Quezon</state>
+			<latitude>133384</latitude>
+			<longitude>1226801</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manilao -- (State: Albay)">
+			<state>Albay</state>
+			<latitude>130442</latitude>
+			<longitude>1235442</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manilao -- (State: Lanao del Norte)">
+			<state>Lanao del Norte</state>
+			<latitude>83115</latitude>
+			<longitude>1243298</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marawi City -- (State: Marawi)">
+			<state>Marawi</state>
+			<latitude>80109</latitude>
+			<longitude>1242942</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mariquina River -- (State: Rizal)">
+			<state>Rizal</state>
+			<latitude>145692</latitude>
+			<longitude>1210784</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naga -- (State: Camarines Sur)">
+			<state>Camarines Sur</state>
+			<latitude>135943</latitude>
+			<longitude>1232777</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naga City -- (State: Naga)">
+			<state>Naga</state>
+			<latitude>136277</latitude>
+			<longitude>1231943</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortega -- (State: Aklan)">
+			<state>Aklan</state>
+			<latitude>114519</latitude>
+			<longitude>1223333</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pagadian Anchorage -- (State: Zamboanga del Sur)">
+			<state>Zamboanga del Sur</state>
+			<latitude>78234</latitude>
+			<longitude>1234531</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palawan -- (State: Cebu)">
+			<state>Cebu</state>
+			<latitude>108112</latitude>
+			<longitude>1245612</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palawan -- (State: Dapitan)">
+			<state>Dapitan</state>
+			<latitude>86445</latitude>
+			<longitude>1234112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palawan -- (State: Leyte)">
+			<state>Leyte</state>
+			<latitude>110495</latitude>
+			<longitude>1244106</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palawan">
+			<state></state>
+			<latitude>95112</latitude>
+			<longitude>1185112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palawan Passage">
+			<state></state>
+			<latitude>100112</latitude>
+			<longitude>1180112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasig -- (State: Rizal)">
+			<state>Rizal</state>
+			<latitude>145945</latitude>
+			<longitude>1210945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puerto Princesa City -- (State: Puerto Princesa)">
+			<state>Puerto Princesa</state>
+			<latitude>97445</latitude>
+			<longitude>1187445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quezon City -- (State: Quezon)">
+			<state>Quezon</state>
+			<latitude>146446</latitude>
+			<longitude>1210446</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Fernando -- (State: La Union)">
+			<state>La Union</state>
+			<latitude>166115</latitude>
+			<longitude>1203115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Pedro -- (State: Laguna)">
+			<state>Laguna</state>
+			<latitude>143615</latitude>
+			<longitude>1210282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Subic Bay">
+			<state></state>
+			<latitude>147573</latitude>
+			<longitude>1202276</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamboanga">
+			<state></state>
+			<latitude>69289</latitude>
+			<longitude>1220789</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamboanga City -- (State: Zamboanga)">
+			<state>Zamboanga</state>
+			<latitude>69122</latitude>
+			<longitude>1220789</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,684 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Mali">
+		<city name="Achemelmel">
+			<state></state>
+			<latitude>200597</latitude>
+			<longitude>10930</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bamako">
+			<state></state>
+			<latitude>126598</latitude>
+			<longitude>-79902</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bamako Koura">
+			<state></state>
+			<latitude>126598</latitude>
+			<longitude>-80069</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bamakolon">
+			<state></state>
+			<latitude>137265</latitude>
+			<longitude>-83402</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bamakoni -- (State: Koulikoro)">
+			<state>Koulikoro</state>
+			<latitude>120392</latitude>
+			<longitude>-77427</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bema">
+			<state></state>
+			<latitude>150598</latitude>
+			<longitude>-93402</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bemanaou -- (State: Koulikoro)">
+			<state>Koulikoro</state>
+			<latitude>129001</latitude>
+			<longitude>-81024</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bloumadougou">
+			<state></state>
+			<latitude>135431</latitude>
+			<longitude>-57902</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bougouni">
+			<state></state>
+			<latitude>167431</latitude>
+			<longitude>-25069</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Burem -- (State: Gao)">
+			<state>Gao</state>
+			<latitude>169598</latitude>
+			<longitude>-3402</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhar el Abiod">
+			<state></state>
+			<latitude>215767</latitude>
+			<longitude>-28233</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhar Khenachiche">
+			<state></state>
+			<latitude>218433</latitude>
+			<longitude>-37400</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diongaga">
+			<state></state>
+			<latitude>150767</latitude>
+			<longitude>-108733</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djenne">
+			<state></state>
+			<latitude>139100</latitude>
+			<longitude>-45400</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ej Jaouf">
+			<state></state>
+			<latitude>226101</latitude>
+			<longitude>-10566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emrichat">
+			<state></state>
+			<latitude>159268</latitude>
+			<longitude>-47732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fyebougou">
+			<state></state>
+			<latitude>140269</latitude>
+			<longitude>-60231</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gao">
+			<state></state>
+			<latitude>141603</latitude>
+			<longitude>-104897</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaogo Ambao">
+			<state></state>
+			<latitude>165103</latitude>
+			<longitude>2770</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaouna">
+			<state></state>
+			<latitude>161436</latitude>
+			<longitude>270</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaoussoubougou -- (State: Koulikoro)">
+			<state>Koulikoro</state>
+			<latitude>124478</latitude>
+			<longitude>-76475</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Henekui">
+			<state></state>
+			<latitude>132437</latitude>
+			<longitude>-44896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibedouyen">
+			<state></state>
+			<latitude>194772</latitude>
+			<longitude>23605</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iguereren">
+			<state></state>
+			<latitude>161938</latitude>
+			<longitude>3272</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabe Fara">
+			<state></state>
+			<latitude>144939</latitude>
+			<longitude>-116061</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaffa">
+			<state></state>
+			<latitude>225773</latitude>
+			<longitude>-39561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jakanir">
+			<state></state>
+			<latitude>221939</latitude>
+			<longitude>-38894</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamey">
+			<state></state>
+			<latitude>165439</latitude>
+			<longitude>-561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jedeid">
+			<state></state>
+			<latitude>159606</latitude>
+			<longitude>-47561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeu">
+			<state></state>
+			<latitude>107439</latitude>
+			<longitude>-60227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiguibala">
+			<state></state>
+			<latitude>141939</latitude>
+			<longitude>-115727</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jikerata">
+			<state></state>
+			<latitude>162939</latitude>
+			<longitude>1273</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jillili">
+			<state></state>
+			<latitude>165939</latitude>
+			<longitude>29273</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jina">
+			<state></state>
+			<latitude>122106</latitude>
+			<longitude>-56894</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jirla">
+			<state></state>
+			<latitude>121939</latitude>
+			<longitude>-59561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jodria">
+			<state></state>
+			<latitude>220273</latitude>
+			<longitude>-39061</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jonbabougou">
+			<state></state>
+			<latitude>144106</latitude>
+			<longitude>-114894</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joukara Bougouni">
+			<state></state>
+			<latitude>143606</latitude>
+			<longitude>-117561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jourala">
+			<state></state>
+			<latitude>143939</latitude>
+			<longitude>-114561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juf">
+			<state></state>
+			<latitude>214273</latitude>
+			<longitude>-66561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kayes">
+			<state></state>
+			<latitude>144607</latitude>
+			<longitude>-114226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luntana">
+			<state></state>
+			<latitude>116441</latitude>
+			<longitude>-56392</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mopti">
+			<state></state>
+			<latitude>145109</latitude>
+			<longitude>-41891</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mzarif">
+			<state></state>
+			<latitude>217442</latitude>
+			<longitude>-1558</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nkozanna">
+			<state></state>
+			<latitude>113443</latitude>
+			<longitude>-76223</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palenko">
+			<state></state>
+			<latitude>117112</latitude>
+			<longitude>-71055</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Payaka">
+			<state></state>
+			<latitude>139445</latitude>
+			<longitude>-50221</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petedassa">
+			<state></state>
+			<latitude>147612</latitude>
+			<longitude>-15721</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateau de Tin Higirin">
+			<state></state>
+			<latitude>198445</latitude>
+			<longitude>945</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Racherchediden">
+			<state></state>
+			<latitude>167447</latitude>
+			<longitude>8947</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ravina">
+			<state></state>
+			<latitude>112947</latitude>
+			<longitude>-63386</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reg Tadrart">
+			<state></state>
+			<latitude>173781</latitude>
+			<longitude>-28053</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rejal">
+			<state></state>
+			<latitude>162447</latitude>
+			<longitude>31614</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Renras">
+			<state></state>
+			<latitude>160947</latitude>
+			<longitude>1114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhama">
+			<state></state>
+			<latitude>129114</latitude>
+			<longitude>-109386</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhola">
+			<state></state>
+			<latitude>146281</latitude>
+			<longitude>-72386</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rouna">
+			<state></state>
+			<latitude>157447</latitude>
+			<longitude>-32386</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Segou">
+			<state></state>
+			<latitude>134615</latitude>
+			<longitude>-62552</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Selinkegni">
+			<state></state>
+			<latitude>141115</latitude>
+			<longitude>-107718</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sikasso">
+			<state></state>
+			<latitude>113282</latitude>
+			<longitude>-56552</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sirimoulou">
+			<state></state>
+			<latitude>147615</latitude>
+			<longitude>-113218</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Srafinnkoro">
+			<state></state>
+			<latitude>139282</latitude>
+			<longitude>-70885</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Swobougou">
+			<state></state>
+			<latitude>148782</latitude>
+			<longitude>-85385</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Temera -- (State: Gao)">
+			<state>Gao</state>
+			<latitude>170116</latitude>
+			<longitude>-9217</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Timbuktu">
+			<state></state>
+			<latitude>167783</latitude>
+			<longitude>-30051</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Touba -- (State: Koulikoro)">
+			<state>Koulikoro</state>
+			<latitude>127797</latitude>
+			<longitude>-80434</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toubakoura">
+			<state></state>
+			<latitude>134783</latitude>
+			<longitude>-73717</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trantimou">
+			<state></state>
+			<latitude>144949</latitude>
+			<longitude>-101884</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uro Modi">
+			<state></state>
+			<latitude>142950</latitude>
+			<longitude>-45883</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utiouma">
+			<state></state>
+			<latitude>135617</latitude>
+			<longitude>-77550</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valinkourou">
+			<state></state>
+			<latitude>142118</latitude>
+			<longitude>-101882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee d Erenga">
+			<state></state>
+			<latitude>157118</latitude>
+			<longitude>16451</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de Gabougorou">
+			<state></state>
+			<latitude>154118</latitude>
+			<longitude>23451</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de l Asakare">
+			<state></state>
+			<latitude>158451</latitude>
+			<longitude>28785</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de l Azaouak">
+			<state></state>
+			<latitude>155118</latitude>
+			<longitude>33118</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de l Azar">
+			<state></state>
+			<latitude>153118</latitude>
+			<longitude>33785</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee du Serpent">
+			<state></state>
+			<latitude>143951</latitude>
+			<longitude>-89215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee du Tilemsi">
+			<state></state>
+			<latitude>162618</latitude>
+			<longitude>451</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanekui">
+			<state></state>
+			<latitude>129618</latitude>
+			<longitude>-45049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vangareta Bangue Almara">
+			<state></state>
+			<latitude>168118</latitude>
+			<longitude>-21882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vata">
+			<state></state>
+			<latitude>105451</latitude>
+			<longitude>-59715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vedie">
+			<state></state>
+			<latitude>143785</latitude>
+			<longitude>-34715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velakoura">
+			<state></state>
+			<latitude>128785</latitude>
+			<longitude>-67549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velentiguila">
+			<state></state>
+			<latitude>137451</latitude>
+			<longitude>-60215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velingara">
+			<state></state>
+			<latitude>147785</latitude>
+			<longitude>-58882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velinngara">
+			<state></state>
+			<latitude>147618</latitude>
+			<longitude>-99549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendou Yongate">
+			<state></state>
+			<latitude>151451</latitude>
+			<longitude>-21049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vere">
+			<state></state>
+			<latitude>146118</latitude>
+			<longitude>-31882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verguenare">
+			<state></state>
+			<latitude>152118</latitude>
+			<longitude>-73382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vindirodie">
+			<state></state>
+			<latitude>153951</latitude>
+			<longitude>-94882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vogga Baaoua">
+			<state></state>
+			<latitude>148451</latitude>
+			<longitude>-15382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vohin">
+			<state></state>
+			<latitude>132951</latitude>
+			<longitude>-43715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volosso">
+			<state></state>
+			<latitude>124785</latitude>
+			<longitude>-54215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voudourare">
+			<state></state>
+			<latitude>146118</latitude>
+			<longitude>-49049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouya">
+			<state></state>
+			<latitude>131785</latitude>
+			<longitude>-65215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ysseye">
+			<state></state>
+			<latitude>148788</latitude>
+			<longitude>-20212</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zmeyet Azor">
+			<state></state>
+			<latitude>208455</latitude>
+			<longitude>-16545</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,901 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Nigeria">
+		<city name="Abeokuta -- (State: Ogun)">
+			<state>Ogun</state>
+			<latitude>71597</latitude>
+			<longitude>33597</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abia State -- (State: Abia)">
+			<state>Abia</state>
+			<latitude>54264</latitude>
+			<longitude>75097</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abuja -- (State: Abuja Federal Capital Territory)">
+			<state>Abuja Federal Capital Territory</state>
+			<latitude>90930</latitude>
+			<longitude>75430</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abuja">
+			<state></state>
+			<latitude>92597</latitude>
+			<longitude>69430</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abuja Capital Territory -- (State: Abuja Federal Capital Territory)">
+			<state>Abuja Federal Capital Territory</state>
+			<latitude>88430</latitude>
+			<longitude>71764</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abuja Native Area Number 1">
+			<state></state>
+			<latitude>91264</latitude>
+			<longitude>73097</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abujaga">
+			<state></state>
+			<latitude>68264</latitude>
+			<longitude>66430</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agege -- (State: Lagos)">
+			<state>Lagos</state>
+			<latitude>66316</latitude>
+			<longitude>33355</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ago Iwoye">
+			<state></state>
+			<latitude>69597</latitude>
+			<longitude>39264</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agunrege">
+			<state></state>
+			<latitude>84097</latitude>
+			<longitude>34097</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Azare -- (State: Bauchi)">
+			<state>Bauchi</state>
+			<latitude>116880</latitude>
+			<longitude>102016</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bauchi">
+			<state></state>
+			<latitude>103256</latitude>
+			<longitude>98540</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bauchi State -- (State: Bauchi)">
+			<state>Bauchi</state>
+			<latitude>105098</latitude>
+			<longitude>100098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benin -- (State: Edo)">
+			<state>Edo</state>
+			<latitude>63431</latitude>
+			<longitude>56431</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benin City">
+			<state></state>
+			<latitude>63265</latitude>
+			<longitude>56098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bida">
+			<state></state>
+			<latitude>90931</latitude>
+			<longitude>60265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Birnin-Kebbi -- (State: Kebbi)">
+			<state>Kebbi</state>
+			<latitude>124637</latitude>
+			<longitude>42073</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bonny">
+			<state></state>
+			<latitude>44431</latitude>
+			<longitude>71765</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Borno State -- (State: Borno)">
+			<state>Borno</state>
+			<latitude>115098</latitude>
+			<longitude>130098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bwari">
+			<state></state>
+			<latitude>92931</latitude>
+			<longitude>73931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Calabar -- (State: Cross River)">
+			<state>Cross River</state>
+			<latitude>49599</latitude>
+			<longitude>83266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daho">
+			<state></state>
+			<latitude>116767</latitude>
+			<longitude>92100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damaturu -- (State: Yobe)">
+			<state>Yobe</state>
+			<latitude>117586</latitude>
+			<longitude>119739</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dutse -- (State: Jigawa)">
+			<state>Jigawa</state>
+			<latitude>117875</latitude>
+			<longitude>93442</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ede">
+			<state></state>
+			<latitude>71601</latitude>
+			<longitude>75434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eket">
+			<state></state>
+			<latitude>46601</latitude>
+			<longitude>79434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gombe">
+			<state></state>
+			<latitude>102997</latitude>
+			<longitude>111820</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gusau -- (State: Zamfara)">
+			<state>Zamfara</state>
+			<latitude>121745</latitude>
+			<longitude>66770</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gusau">
+			<state></state>
+			<latitude>121770</latitude>
+			<longitude>67103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gwarinpa">
+			<state></state>
+			<latitude>91097</latitude>
+			<longitude>74184</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadejia -- (State: Jigawa)">
+			<state>Jigawa</state>
+			<latitude>124585</latitude>
+			<longitude>100540</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadejia">
+			<state></state>
+			<latitude>128437</latitude>
+			<longitude>108604</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibadan -- (State: Oyo)">
+			<state>Oyo</state>
+			<latitude>73983</latitude>
+			<longitude>39069</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibadan">
+			<state></state>
+			<latitude>72605</latitude>
+			<longitude>43938</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibadan Native Area">
+			<state></state>
+			<latitude>71438</latitude>
+			<longitude>42272</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijebu Igbo">
+			<state></state>
+			<latitude>69772</latitude>
+			<longitude>40105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijebu Ode">
+			<state></state>
+			<latitude>68272</latitude>
+			<longitude>39438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikeja -- (State: Lagos)">
+			<state>Lagos</state>
+			<latitude>66072</latitude>
+			<longitude>33536</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikorodu">
+			<state></state>
+			<latitude>66272</latitude>
+			<longitude>35272</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile-Ife">
+			<state></state>
+			<latitude>74772</latitude>
+			<longitude>45772</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilesha">
+			<state></state>
+			<latitude>90105</latitude>
+			<longitude>35605</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilesha -- (State: (NI18))">
+			<state>(NI18)</state>
+			<latitude>76272</latitude>
+			<longitude>47438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilesha Native Area">
+			<state></state>
+			<latitude>74105</latitude>
+			<longitude>49438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilorin -- (State: Kwara)">
+			<state>Kwara</state>
+			<latitude>85105</latitude>
+			<longitude>45605</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilorin">
+			<state></state>
+			<latitude>108938</latitude>
+			<longitude>40272</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilorin Native Area Number 12">
+			<state></state>
+			<latitude>91438</latitude>
+			<longitude>48938</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilorin Native Area Number 3">
+			<state></state>
+			<latitude>81938</latitude>
+			<longitude>53605</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilorin Native Area Number 4">
+			<state></state>
+			<latitude>80938</latitude>
+			<longitude>45272</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iseyin">
+			<state></state>
+			<latitude>79772</latitude>
+			<longitude>36105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwo">
+			<state></state>
+			<latitude>83105</latitude>
+			<longitude>50438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jos -- (State: Plateau)">
+			<state>Plateau</state>
+			<latitude>99273</latitude>
+			<longitude>89106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jos Plateau">
+			<state></state>
+			<latitude>100106</latitude>
+			<longitude>95106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaduna">
+			<state></state>
+			<latitude>105338</latitude>
+			<longitude>74510</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaduna South">
+			<state></state>
+			<latitude>104726</latitude>
+			<longitude>74379</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaduna State -- (State: Kaduna)">
+			<state>Kaduna</state>
+			<latitude>103440</latitude>
+			<longitude>77607</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kano">
+			<state></state>
+			<latitude>130440</latitude>
+			<longitude>44107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kano State -- (State: Kano)">
+			<state>Kano</state>
+			<latitude>115107</latitude>
+			<longitude>85107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kano Stream">
+			<state></state>
+			<latitude>93274</latitude>
+			<longitude>80440</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanoma">
+			<state></state>
+			<latitude>106440</latitude>
+			<longitude>63107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanoma -- (State: Zamfara)">
+			<state>Zamfara</state>
+			<latitude>122424</latitude>
+			<longitude>63157</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanoma Hill">
+			<state></state>
+			<latitude>122440</latitude>
+			<longitude>62940</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanon Kabawa">
+			<state></state>
+			<latitude>79607</latitude>
+			<longitude>100774</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katsina">
+			<state></state>
+			<latitude>130085</latitude>
+			<longitude>76101</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kebbi -- (State: Sokoto)">
+			<state>Sokoto</state>
+			<latitude>121363</latitude>
+			<longitude>47463</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kebbi State -- (State: Kebbi)">
+			<state>Kebbi</state>
+			<latitude>115107</latitude>
+			<longitude>40107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kontagora -- (State: Niger)">
+			<state>Niger</state>
+			<latitude>104110</latitude>
+			<longitude>54804</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kubuwa">
+			<state></state>
+			<latitude>119440</latitude>
+			<longitude>102274</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwara State -- (State: Kwara)">
+			<state>Kwara</state>
+			<latitude>85107</latitude>
+			<longitude>50107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagos">
+			<state></state>
+			<latitude>64639</latitude>
+			<longitude>34066</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagos Creek">
+			<state></state>
+			<latitude>58608</latitude>
+			<longitude>51775</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagos Harbour -- (State: Lagos)">
+			<state>Lagos</state>
+			<latitude>64586</latitude>
+			<longitude>33966</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagos Island -- (State: Lagos)">
+			<state>Lagos</state>
+			<latitude>64652</latitude>
+			<longitude>34027</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagos Lagoon">
+			<state></state>
+			<latitude>65441</latitude>
+			<longitude>35941</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagos State -- (State: Lagos)">
+			<state>Lagos</state>
+			<latitude>65941</latitude>
+			<longitude>37608</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagos-Ikeja -- (State: Lagos)">
+			<state>Lagos</state>
+			<latitude>65941</latitude>
+			<longitude>33441</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maiduguri -- (State: Borno)">
+			<state>Borno</state>
+			<latitude>118559</latitude>
+			<longitude>131709</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maiduguri">
+			<state></state>
+			<latitude>108109</latitude>
+			<longitude>113442</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mina">
+			<state></state>
+			<latitude>113276</latitude>
+			<longitude>87609</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minna -- (State: Niger)">
+			<state>Niger</state>
+			<latitude>96248</latitude>
+			<longitude>65678</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mushin -- (State: Lagos)">
+			<state>Lagos</state>
+			<latitude>65401</latitude>
+			<longitude>33659</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogbomosho -- (State: (NI18))">
+			<state>(NI18)</state>
+			<latitude>81444</latitude>
+			<longitude>42778</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogun State -- (State: Ogun)">
+			<state>Ogun</state>
+			<latitude>70111</latitude>
+			<longitude>35944</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omupo">
+			<state></state>
+			<latitude>82778</latitude>
+			<longitude>48111</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onitsha">
+			<state></state>
+			<latitude>61778</latitude>
+			<longitude>67944</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osogbo -- (State: Osun)">
+			<state>Osun</state>
+			<latitude>77778</latitude>
+			<longitude>45778</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oyo State -- (State: Oyo)">
+			<state>Oyo</state>
+			<latitude>80111</latitude>
+			<longitude>40111</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Harcourt">
+			<state></state>
+			<latitude>48612</latitude>
+			<longitude>70279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Harcourt -- (State: Rivers)">
+			<state>Rivers</state>
+			<latitude>48004</latitude>
+			<longitude>70098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qlobawa">
+			<state></state>
+			<latitude>126446</latitude>
+			<longitude>49113</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quaibo Obuyo -- (State: (NI34))">
+			<state>(NI34)</state>
+			<latitude>49391</latitude>
+			<longitude>72591</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quaibo River">
+			<state></state>
+			<latitude>45446</latitude>
+			<longitude>79946</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queens Town">
+			<state></state>
+			<latitude>44946</latitude>
+			<longitude>75780</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quo Ibo Mission">
+			<state></state>
+			<latitude>45946</latitude>
+			<longitude>79780</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quree">
+			<state></state>
+			<latitude>98280</latitude>
+			<longitude>85946</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qurzan Maikuka">
+			<state></state>
+			<latitude>123280</latitude>
+			<longitude>73446</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rano">
+			<state></state>
+			<latitude>115614</latitude>
+			<longitude>85947</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shagamu -- (State: Ogun)">
+			<state>Ogun</state>
+			<latitude>68615</latitude>
+			<longitude>36615</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sokoto">
+			<state></state>
+			<latitude>130629</latitude>
+			<longitude>52429</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umuahia -- (State: Abia)">
+			<state>Abia</state>
+			<latitude>55450</latitude>
+			<longitude>74950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaarikpa">
+			<state></state>
+			<latitude>70618</latitude>
+			<longitude>89785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vabak">
+			<state></state>
+			<latitude>92285</latitude>
+			<longitude>83451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valave">
+			<state></state>
+			<latitude>72118</latitude>
+			<longitude>89285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vampire Creek">
+			<state></state>
+			<latitude>47285</latitude>
+			<longitude>55785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vasimindi">
+			<state></state>
+			<latitude>101618</latitude>
+			<longitude>131285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vassa">
+			<state></state>
+			<latitude>78951</latitude>
+			<longitude>95785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vavum">
+			<state></state>
+			<latitude>87951</latitude>
+			<longitude>115451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vel">
+			<state></state>
+			<latitude>72451</latitude>
+			<longitude>89951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vembe">
+			<state></state>
+			<latitude>73285</latitude>
+			<longitude>85118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendu Nage">
+			<state></state>
+			<latitude>88118</latitude>
+			<longitude>113951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venour Point">
+			<state></state>
+			<latitude>46785</latitude>
+			<longitude>83285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viashoma">
+			<state></state>
+			<latitude>71118</latitude>
+			<longitude>89951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria Island -- (State: Lagos)">
+			<state>Lagos</state>
+			<latitude>64421</latitude>
+			<longitude>34324</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vikityor">
+			<state></state>
+			<latitude>72785</latitude>
+			<longitude>86618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vimpera">
+			<state></state>
+			<latitude>72618</latitude>
+			<longitude>100951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Visik">
+			<state></state>
+			<latitude>109118</latitude>
+			<longitude>136451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vokuna">
+			<state></state>
+			<latitude>101451</latitude>
+			<longitude>131785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vom">
+			<state></state>
+			<latitude>97451</latitude>
+			<longitude>87951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vom Hills">
+			<state></state>
+			<latitude>96785</latitude>
+			<longitude>87451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulam">
+			<state></state>
+			<latitude>105951</latitude>
+			<longitude>122118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vung">
+			<state></state>
+			<latitude>105785</latitude>
+			<longitude>121618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wari">
+			<state></state>
+			<latitude>89786</latitude>
+			<longitude>127952</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warri">
+			<state></state>
+			<latitude>43119</latitude>
+			<longitude>62619</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warri Point">
+			<state></state>
+			<latitude>54119</latitude>
+			<longitude>54786</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yola -- (State: Adamawa)">
+			<state>Adamawa</state>
+			<latitude>92121</latitude>
+			<longitude>124954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yola">
+			<state></state>
+			<latitude>116788</latitude>
+			<longitude>79954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaria">
+			<state></state>
+			<latitude>112622</latitude>
+			<longitude>42789</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhirangwa">
+			<state></state>
+			<latitude>104455</latitude>
+			<longitude>122789</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zumba">
+			<state></state>
+			<latitude>99455</latitude>
+			<longitude>68289</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

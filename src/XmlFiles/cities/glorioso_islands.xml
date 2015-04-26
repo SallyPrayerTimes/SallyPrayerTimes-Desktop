@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Glorioso Islands">
+		<city name="Glorieuse">
+			<state></state>
+			<latitude>-115397</latitude>
+			<longitude>473103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Glorieuses Islands">
+			<state></state>
+			<latitude>-114897</latitude>
+			<longitude>473436</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Le Lys">
+			<state></state>
+			<latitude>-114892</latitude>
+			<longitude>473775</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocher Sud">
+			<state></state>
+			<latitude>-115553</latitude>
+			<longitude>473114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verte Rocks">
+			<state></state>
+			<latitude>-115382</latitude>
+			<longitude>473451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

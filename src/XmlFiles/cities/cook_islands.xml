@@ -1,0 +1,929 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Cook Islands">
+		<city name="Aanga">
+			<state></state>
+			<latitude>-201403</latitude>
+			<longitude>-1573570</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ahaumanu">
+			<state></state>
+			<latitude>-91070</latitude>
+			<longitude>-1579570</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ahuapapa">
+			<state></state>
+			<latitude>-90697</latitude>
+			<longitude>-1579420</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aitutaki Airstrip">
+			<state></state>
+			<latitude>-188197</latitude>
+			<longitude>-1597575</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aka Susanui">
+			<state></state>
+			<latitude>-90564</latitude>
+			<longitude>-1579758</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anaio">
+			<state></state>
+			<latitude>-201236</latitude>
+			<longitude>-1573903</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anareia">
+			<state></state>
+			<latitude>-200236</latitude>
+			<longitude>-1580736</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anaue">
+			<state></state>
+			<latitude>-201070</latitude>
+			<longitude>-1573736</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arekai">
+			<state></state>
+			<latitude>-192653</latitude>
+			<longitude>-1589503</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Areora">
+			<state></state>
+			<latitude>-199970</latitude>
+			<longitude>-1581025</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aroa Creek">
+			<state></state>
+			<latitude>-212403</latitude>
+			<longitude>-1597903</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arorangi">
+			<state></state>
+			<latitude>-212220</latitude>
+			<longitude>-1598181</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arore">
+			<state></state>
+			<latitude>-212411</latitude>
+			<longitude>-1597284</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arutanga">
+			<state></state>
+			<latitude>-188536</latitude>
+			<longitude>-1597825</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arutunga">
+			<state></state>
+			<latitude>-188589</latitude>
+			<longitude>-1597903</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atimoono">
+			<state></state>
+			<latitude>-104284</latitude>
+			<longitude>-1609472</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atuakoro Landing">
+			<state></state>
+			<latitude>-218831</latitude>
+			<longitude>-1579370</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aucklandnui">
+			<state></state>
+			<latitude>-89181</latitude>
+			<longitude>-1580264</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avaava Takuo">
+			<state></state>
+			<latitude>-200236</latitude>
+			<longitude>-1581403</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avaavaroa">
+			<state></state>
+			<latitude>-212634</latitude>
+			<longitude>-1597703</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avarua">
+			<state></state>
+			<latitude>-211981</latitude>
+			<longitude>-1597653</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avarua Landing">
+			<state></state>
+			<latitude>-218986</latitude>
+			<longitude>-1579522</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avatiu">
+			<state></state>
+			<latitude>-211959</latitude>
+			<longitude>-1597770</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avatiu Harbor">
+			<state></state>
+			<latitude>-211931</latitude>
+			<longitude>-1597750</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entrance Island">
+			<state></state>
+			<latitude>-133066</latitude>
+			<longitude>-1630566</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanu">
+			<state></state>
+			<latitude>-132065</latitude>
+			<longitude>-1630898</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fararanga">
+			<state></state>
+			<latitude>-89981</latitude>
+			<longitude>-1579481</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fareunati Ki Tai">
+			<state></state>
+			<latitude>-104054</latitude>
+			<longitude>-1609776</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fareunati Ki Uta">
+			<state></state>
+			<latitude>-104262</latitude>
+			<longitude>-1609865</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fenua Iti">
+			<state></state>
+			<latitude>-198056</latitude>
+			<longitude>-1582740</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fifinui">
+			<state></state>
+			<latitude>-104279</latitude>
+			<longitude>-1610048</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="First Reef">
+			<state></state>
+			<latitude>-89731</latitude>
+			<longitude>-1579898</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flying Venus">
+			<state></state>
+			<latitude>-89231</latitude>
+			<longitude>-1578898</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Greenlands Benefit">
+			<state></state>
+			<latitude>-132564</latitude>
+			<longitude>-1631064</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gudgeon Bay">
+			<state></state>
+			<latitude>-89722</latitude>
+			<longitude>-1580425</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gull Islands">
+			<state></state>
+			<latitude>-132397</latitude>
+			<longitude>-1630397</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakamaru">
+			<state></state>
+			<latitude>-104335</latitude>
+			<longitude>-1609465</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakari Manu">
+			<state></state>
+			<latitude>-104474</latitude>
+			<longitude>-1609774</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halfway Rock">
+			<state></state>
+			<latitude>-180254</latitude>
+			<longitude>-1631616</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hangarei">
+			<state></state>
+			<latitude>-90210</latitude>
+			<longitude>-1580032</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haratini">
+			<state></state>
+			<latitude>-104432</latitude>
+			<longitude>-1609549</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hervey Islands">
+			<state></state>
+			<latitude>-192563</latitude>
+			<longitude>-1589313</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hohake Iti">
+			<state></state>
+			<latitude>-104332</latitude>
+			<longitude>-1610163</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hohake Rahi">
+			<state></state>
+			<latitude>-104327</latitude>
+			<longitude>-1610177</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humphrey">
+			<state></state>
+			<latitude>-104146</latitude>
+			<longitude>-1609938</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikurangi">
+			<state></state>
+			<latitude>-212112</latitude>
+			<longitude>-1597526</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iotua Ika">
+			<state></state>
+			<latitude>-199720</latitude>
+			<longitude>-1581226</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iron Rock">
+			<state></state>
+			<latitude>-180598</latitude>
+			<longitude>-1631742</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivirua">
+			<state></state>
+			<latitude>-219145</latitude>
+			<longitude>-1578928</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Julia Cobb Bank">
+			<state></state>
+			<latitude>-180075</latitude>
+			<longitude>-1631377</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaiwai">
+			<state></state>
+			<latitude>-200060</latitude>
+			<longitude>-1581060</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karaau">
+			<state></state>
+			<latitude>-188226</latitude>
+			<longitude>-1597393</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kavera Mountain">
+			<state></state>
+			<latitude>-212226</latitude>
+			<longitude>-1598060</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitsap Banks">
+			<state></state>
+			<latitude>-180160</latitude>
+			<longitude>-1631276</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kotaua">
+			<state></state>
+			<latitude>-109060</latitude>
+			<longitude>-1658393</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lahu">
+			<state></state>
+			<latitude>-104075</latitude>
+			<longitude>-1609745</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lake Kauravai">
+			<state></state>
+			<latitude>-218964</latitude>
+			<longitude>-1579209</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lake Tepeuru Iti">
+			<state></state>
+			<latitude>-218959</latitude>
+			<longitude>-1579159</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leeward Sandbank">
+			<state></state>
+			<latitude>-180164</latitude>
+			<longitude>-1631259</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leicester">
+			<state></state>
+			<latitude>-180317</latitude>
+			<longitude>-1631092</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Likopua">
+			<state></state>
+			<latitude>-189150</latitude>
+			<longitude>-1597231</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Littles Patch">
+			<state></state>
+			<latitude>-132559</latitude>
+			<longitude>-1631225</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nafarakura">
+			<state></state>
+			<latitude>-104498</latitude>
+			<longitude>-1609843</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanupoto">
+			<state></state>
+			<latitude>-192682</latitude>
+			<longitude>-1589501</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nauke">
+			<state></state>
+			<latitude>-199890</latitude>
+			<longitude>-1580890</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngaere">
+			<state></state>
+			<latitude>-104323</latitude>
+			<longitude>-1609757</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngana">
+			<state></state>
+			<latitude>-104140</latitude>
+			<longitude>-1610035</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngangia Mutu">
+			<state></state>
+			<latitude>-89634</latitude>
+			<longitude>-1580484</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngatapuroa">
+			<state></state>
+			<latitude>-104332</latitude>
+			<longitude>-1609885</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nikao">
+			<state></state>
+			<latitude>-211957</latitude>
+			<longitude>-1597984</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nu Turuma">
+			<state></state>
+			<latitude>-199890</latitude>
+			<longitude>-1581057</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nukatere">
+			<state></state>
+			<latitude>-198057</latitude>
+			<longitude>-1577057</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okakara">
+			<state></state>
+			<latitude>-100222</latitude>
+			<longitude>-1610722</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omoka">
+			<state></state>
+			<latitude>-89889</latitude>
+			<longitude>-1580381</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omoko">
+			<state></state>
+			<latitude>-89706</latitude>
+			<longitude>-1580495</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omutu Landing">
+			<state></state>
+			<latitude>-198556</latitude>
+			<longitude>-1577111</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onepoto">
+			<state></state>
+			<latitude>-219222</latitude>
+			<longitude>-1579389</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oneroa">
+			<state></state>
+			<latitude>-219089</latitude>
+			<longitude>-1579492</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oneroa Landing">
+			<state></state>
+			<latitude>-199889</latitude>
+			<longitude>-1580711</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oneunga">
+			<state></state>
+			<latitude>-201056</latitude>
+			<longitude>-1573556</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onotau">
+			<state></state>
+			<latitude>-200056</latitude>
+			<longitude>-1580889</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ooka">
+			<state></state>
+			<latitude>-188122</latitude>
+			<longitude>-1597578</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ootu">
+			<state></state>
+			<latitude>-188389</latitude>
+			<longitude>-1597222</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Opi">
+			<state></state>
+			<latitude>-200222</latitude>
+			<longitude>-1581056</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oroenga">
+			<state></state>
+			<latitude>-212128</latitude>
+			<longitude>-1597375</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oromanuku">
+			<state></state>
+			<latitude>-188556</latitude>
+			<longitude>-1597556</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orovaru">
+			<state></state>
+			<latitude>-199792</latitude>
+			<longitude>-1581306</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raemaru">
+			<state></state>
+			<latitude>-212244</latitude>
+			<longitude>-1598016</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rahea Ki Uta">
+			<state></state>
+			<latitude>-104283</latitude>
+			<longitude>-1609986</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rahea Kitai">
+			<state></state>
+			<latitude>-104247</latitude>
+			<longitude>-1609953</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rama">
+			<state></state>
+			<latitude>-188886</latitude>
+			<longitude>-1597553</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangimotia">
+			<state></state>
+			<latitude>-219153</latitude>
+			<longitude>-1579178</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangiriri">
+			<state></state>
+			<latitude>-89139</latitude>
+			<longitude>-1580319</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapae">
+			<state></state>
+			<latitude>-188386</latitude>
+			<longitude>-1597553</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapoka">
+			<state></state>
+			<latitude>-189119</latitude>
+			<longitude>-1597494</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raroto-a">
+			<state></state>
+			<latitude>-212233</latitude>
+			<longitude>-1597636</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rau Kau">
+			<state></state>
+			<latitude>-193553</latitude>
+			<longitude>-1589219</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raukotaha">
+			<state></state>
+			<latitude>-104469</latitude>
+			<longitude>-1609969</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roto">
+			<state></state>
+			<latitude>-108719</latitude>
+			<longitude>-1658219</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rotuakakura">
+			<state></state>
+			<latitude>-189103</latitude>
+			<longitude>-1597214</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Royston Patch">
+			<state></state>
+			<latitude>-132719</latitude>
+			<longitude>-1631053</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ruahara">
+			<state></state>
+			<latitude>-89200</latitude>
+			<longitude>-1579636</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ruahara Anchorage">
+			<state></state>
+			<latitude>-89553</latitude>
+			<longitude>-1579886</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ruakau">
+			<state></state>
+			<latitude>-192636</latitude>
+			<longitude>-1589308</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ruapo">
+			<state></state>
+			<latitude>-90053</latitude>
+			<longitude>-1578950</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rukutia">
+			<state></state>
+			<latitude>-89297</latitude>
+			<longitude>-1579422</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rutaki">
+			<state></state>
+			<latitude>-212519</latitude>
+			<longitude>-1597936</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siki Rangi Passage">
+			<state></state>
+			<latitude>-89118</latitude>
+			<longitude>-1580432</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vai Eli">
+			<state></state>
+			<latitude>-180515</latitude>
+			<longitude>-1631807</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaiere">
+			<state></state>
+			<latitude>-90749</latitude>
+			<longitude>-1579568</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaii">
+			<state></state>
+			<latitude>-212382</latitude>
+			<longitude>-1597049</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaikapuangi Stream">
+			<state></state>
+			<latitude>-211951</latitude>
+			<longitude>-1597638</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaikiore">
+			<state></state>
+			<latitude>-188715</latitude>
+			<longitude>-1597382</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaimutu">
+			<state></state>
+			<latitude>-201215</latitude>
+			<longitude>-1573549</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vainamu">
+			<state></state>
+			<latitude>-188746</latitude>
+			<longitude>-1598121</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaioue">
+			<state></state>
+			<latitude>-188193</latitude>
+			<longitude>-1597799</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaipae">
+			<state></state>
+			<latitude>-188596</latitude>
+			<longitude>-1597693</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaipae District">
+			<state></state>
+			<latitude>-188563</latitude>
+			<longitude>-1597715</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaipeka">
+			<state></state>
+			<latitude>-188299</latitude>
+			<longitude>-1597640</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaitupa">
+			<state></state>
+			<latitude>-188215</latitude>
+			<longitude>-1597632</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vatiu">
+			<state></state>
+			<latitude>-199799</latitude>
+			<longitude>-1581076</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veitatei">
+			<state></state>
+			<latitude>-219346</latitude>
+			<longitude>-1579590</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veseru">
+			<state></state>
+			<latitude>-89385</latitude>
+			<longitude>-1579218</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Via Piake">
+			<state></state>
+			<latitude>-200032</latitude>
+			<longitude>-1581182</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waikerikeri">
+			<state></state>
+			<latitude>-200214</latitude>
+			<longitude>-1580881</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waimatao">
+			<state></state>
+			<latitude>-200048</latitude>
+			<longitude>-1581214</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waiope">
+			<state></state>
+			<latitude>-200381</latitude>
+			<longitude>-1580881</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waipapa">
+			<state></state>
+			<latitude>-200381</latitude>
+			<longitude>-1581048</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waipoa">
+			<state></state>
+			<latitude>-200214</latitude>
+			<longitude>-1581214</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wale">
+			<state></state>
+			<latitude>-108714</latitude>
+			<longitude>-1658048</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whytootake">
+			<state></state>
+			<latitude>-188714</latitude>
+			<longitude>-1597714</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Young s Tooth">
+			<state></state>
+			<latitude>-212212</latitude>
+			<longitude>-1597712</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

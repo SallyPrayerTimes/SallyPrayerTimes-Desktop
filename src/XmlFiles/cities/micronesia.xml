@@ -1,0 +1,600 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Micronesia">
+		<city name="4 P.M. Island -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73519</latitude>
+			<longitude>1519927</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="6 AM Island -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>76026</latitude>
+			<longitude>1519465</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aelangakiit -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>66986</latitude>
+			<longitude>1430622</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aga Island -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>74930</latitude>
+			<longitude>1517389</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alokap -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>69258</latitude>
+			<longitude>1582980</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aoura -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>66653</latitude>
+			<longitude>1597847</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apaitota -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73219</latitude>
+			<longitude>1520264</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Awatek -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>69425</latitude>
+			<longitude>1583280</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Awoch -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95683</latitude>
+			<longitude>1381233</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haisisi -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>38604</latitude>
+			<longitude>1550104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakusha-shima -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>74293</latitude>
+			<longitude>1517426</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haleba -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>10671</latitude>
+			<longitude>1548121</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higashi-Suido -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>83112</latitude>
+			<longitude>1375068</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hog Island -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73262</latitude>
+			<longitude>1520221</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hogolu Islands -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>74271</latitude>
+			<longitude>1517937</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hukuniu -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>10937</latitude>
+			<longitude>1548104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hukuto -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>75146</latitude>
+			<longitude>1519729</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huraarappu To -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>86104</latitude>
+			<longitude>1445604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalangaschel -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>83875</latitude>
+			<longitude>1374612</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalangigereil -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>73728</latitude>
+			<longitude>1438848</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janiak -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>67939</latitude>
+			<longitude>1581606</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Januet -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>75509</latitude>
+			<longitude>1518189</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jap-Insel -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95439</latitude>
+			<longitude>1381439</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Japan Fayu -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>85848</latitude>
+			<longitude>1513728</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Japutik Island -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>70134</latitude>
+			<longitude>1582325</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jekeits -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>69800</latitude>
+			<longitude>1581981</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jelatak -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>69623</latitude>
+			<longitude>1581628</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jin -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95912</latitude>
+			<longitude>1381339</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jirup -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>58567</latitude>
+			<longitude>1573545</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jokaj Passage -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>70081</latitude>
+			<longitude>1581864</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jola -- (State: Kosrae)">
+			<state>Kosrae</state>
+			<latitude>53400</latitude>
+			<longitude>1629550</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jola-Hafen -- (State: Kosrae)">
+			<state>Kosrae</state>
+			<latitude>53375</latitude>
+			<longitude>1629512</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jot -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73953</latitude>
+			<longitude>1517470</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jountin -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>69812</latitude>
+			<longitude>1582298</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juripik -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>67023</latitude>
+			<longitude>1430523</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurukku-To -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>72689</latitude>
+			<longitude>1444439</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palikir -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>69279</latitude>
+			<longitude>1581612</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palikir-Hafen -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>70020</latitude>
+			<longitude>1581404</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qabaay -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95560</latitude>
+			<longitude>1381835</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qabluul -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95613</latitude>
+			<longitude>1381574</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qaliiyir -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95482</latitude>
+			<longitude>1381255</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qamin -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>96116</latitude>
+			<longitude>1381766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qanbalaach -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95991</latitude>
+			<longitude>1381710</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qanif -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95819</latitude>
+			<longitude>1381974</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qanooth -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>94544</latitude>
+			<longitude>1380788</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarngach -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95760</latitude>
+			<longitude>1381294</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qatliw -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95616</latitude>
+			<longitude>1381208</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qayaan -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95113</latitude>
+			<longitude>1381446</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quirosa -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>69182</latitude>
+			<longitude>1582438</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qumeal -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95938</latitude>
+			<longitude>1381424</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoi -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>75394</latitude>
+			<longitude>1519816</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uijas -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>71745</latitude>
+			<longitude>1519475</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyap -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95284</latitude>
+			<longitude>1381117</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyetik -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>10936</latitude>
+			<longitude>1548114</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyetik Island -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>70784</latitude>
+			<longitude>1578450</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valientes Islands -- (State: Pohnpei)">
+			<state>Pohnpei</state>
+			<latitude>58618</latitude>
+			<longitude>1572785</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veiman -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>85640</latitude>
+			<longitude>1516949</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velabat -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95149</latitude>
+			<longitude>1381401</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vidiboen -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>74524</latitude>
+			<longitude>1518779</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vilibi -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73715</latitude>
+			<longitude>1518599</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vilisi -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73451</latitude>
+			<longitude>1516118</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinau -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95515</latitude>
+			<longitude>1381982</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vindon -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73035</latitude>
+			<longitude>1518871</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinepis -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>74618</latitude>
+			<longitude>1518951</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinibau -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>74193</latitude>
+			<longitude>1516732</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinien -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73696</latitude>
+			<longitude>1518637</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinifaula -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73299</latitude>
+			<longitude>1518546</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinikero Pass -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>71899</latitude>
+			<longitude>1519693</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinimas Berg -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73493</latitude>
+			<longitude>1516007</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinimorr Krater -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73804</latitude>
+			<longitude>1516363</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinion Durchfahrt -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>72485</latitude>
+			<longitude>1520190</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volip -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73885</latitude>
+			<longitude>1517432</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vunigeigei -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>73268</latitude>
+			<longitude>1518812</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weno -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>74577</latitude>
+			<longitude>1518619</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xavier High School -- (State: Chuuk)">
+			<state>Chuuk</state>
+			<latitude>74570</latitude>
+			<longitude>1518959</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabez -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>94655</latitude>
+			<longitude>1380775</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaraol -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>81455</latitude>
+			<longitude>1403955</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zau Channel -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>99508</latitude>
+			<longitude>1396933</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zohhoiiyoru -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>98830</latitude>
+			<longitude>1399697</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>95455</latitude>
+			<longitude>1381847</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoniparegoku-Suido -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>84122</latitude>
+			<longitude>1373889</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoroppu Passage -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>83797</latitude>
+			<longitude>1374780</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zowabatu-suido -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>98611</latitude>
+			<longitude>1397189</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zowariyau-Suido -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>98850</latitude>
+			<longitude>1396211</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zowariyoru-Suido -- (State: Yap)">
+			<state>Yap</state>
+			<latitude>98691</latitude>
+			<longitude>1396478</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

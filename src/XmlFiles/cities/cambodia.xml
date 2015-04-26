@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Cambodia">
+		<city name="Batdambang -- (State: (CB01))">
+			<state>(CB01)</state>
+			<latitude>131098</latitude>
+			<longitude>1032098</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ea Drang">
+			<state></state>
+			<latitude>133268</latitude>
+			<longitude>1073601</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elbow Island -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>106434</latitude>
+			<longitude>1034768</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elech -- (State: Kampong Chhnang)">
+			<state>Kampong Chhnang</state>
+			<latitude>124268</latitude>
+			<longitude>1047601</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elephant Range">
+			<state></state>
+			<latitude>110101</latitude>
+			<longitude>1040934</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gatille -- (State: Mondol Kiri)">
+			<state>Mondol Kiri</state>
+			<latitude>122270</latitude>
+			<longitude>1069603</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghong Kal -- (State: (CB16))">
+			<state>(CB16)</state>
+			<latitude>139603</latitude>
+			<longitude>1035936</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goeng Phlah -- (State: Mondol Kiri)">
+			<state>Mondol Kiri</state>
+			<latitude>123770</latitude>
+			<longitude>1067103</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Lac">
+			<state></state>
+			<latitude>130103</latitude>
+			<longitude>1040103</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ia Hleo">
+			<state></state>
+			<latitude>132772</latitude>
+			<longitude>1073772</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Cone -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>106438</latitude>
+			<longitude>1033105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile de Kho Kong -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>113438</latitude>
+			<longitude>1030105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile de Kok Sralou -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>114772</latitude>
+			<longitude>1030105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile de l Eau -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>104272</latitude>
+			<longitude>1038105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile de la Baie -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>105105</latitude>
+			<longitude>1036105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile des Fourmis -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>103772</latitude>
+			<longitude>1043272</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile du Cheval -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>104938</latitude>
+			<longitude>1036272</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile du Depart -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>107438</latitude>
+			<longitude>1035605</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile du Milieu -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>108272</latitude>
+			<longitude>1031938</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile du Milieu -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>104938</latitude>
+			<longitude>1037772</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Nord-Ouest -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>105438</latitude>
+			<longitude>1035605</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Rocheuse -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>104938</latitude>
+			<longitude>1041772</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Ronde -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>105605</latitude>
+			<longitude>1035605</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Rong -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>107438</latitude>
+			<longitude>1032438</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Rong Sam Lem -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>105772</latitude>
+			<longitude>1032772</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Tang -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>102772</latitude>
+			<longitude>1031272</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Cone -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>114438</latitude>
+			<longitude>1030272</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Kusrovie -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>111272</latitude>
+			<longitude>1028105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Nord -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>108438</latitude>
+			<longitude>1031938</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Sud -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>106772</latitude>
+			<longitude>1033105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Veer -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>102272</latitude>
+			<longitude>1028605</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilots de la Comete -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>108605</latitude>
+			<longitude>1033605</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilots Kussat -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>110605</latitude>
+			<longitude>1030938</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irapedao -- (State: Kampong Chhnang)">
+			<state>Kampong Chhnang</state>
+			<latitude>122272</latitude>
+			<longitude>1046105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kampong Cham">
+			<state></state>
+			<latitude>120107</latitude>
+			<longitude>1054607</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kandal">
+			<state></state>
+			<latitude>115107</latitude>
+			<longitude>1048440</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ma Sai -- (State: Kampong Chhnang)">
+			<state>Kampong Chhnang</state>
+			<latitude>123941</latitude>
+			<longitude>1046608</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Palkei -- (State: Mondol Kiri)">
+			<state>Mondol Kiri</state>
+			<latitude>120941</latitude>
+			<longitude>1069108</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labang Nhai -- (State: (CB15))">
+			<state>(CB15)</state>
+			<latitude>138608</latitude>
+			<longitude>1070441</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labansiek -- (State: (CB15))">
+			<state>(CB15)</state>
+			<latitude>137275</latitude>
+			<longitude>1069608</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lam Nam Phra Mahosot">
+			<state></state>
+			<latitude>135775</latitude>
+			<longitude>1028275</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lavka -- (State: Mondol Kiri)">
+			<state>Mondol Kiri</state>
+			<latitude>126275</latitude>
+			<longitude>1071441</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Le Chameau -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>105775</latitude>
+			<longitude>1033108</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leach -- (State: Pouthisat)">
+			<state>Pouthisat</state>
+			<latitude>122775</latitude>
+			<longitude>1038608</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leach -- (State: (CB01))">
+			<state>(CB01)</state>
+			<latitude>123608</latitude>
+			<longitude>1037775</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lem Dam -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>114275</latitude>
+			<longitude>1030275</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liep -- (State: (CB16))">
+			<state>(CB16)</state>
+			<latitude>139941</latitude>
+			<longitude>1037608</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loeubet Smach -- (State: (CB16))">
+			<state>(CB16)</state>
+			<latitude>142275</latitude>
+			<longitude>1035941</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loiet -- (State: Kracheh)">
+			<state>Kracheh</state>
+			<latitude>125608</latitude>
+			<longitude>1060108</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loloksar -- (State: Pouthisat)">
+			<state>Pouthisat</state>
+			<latitude>125108</latitude>
+			<longitude>1039275</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lomchang -- (State: Takev)">
+			<state>Takev</state>
+			<latitude>110775</latitude>
+			<longitude>1047775</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lomhaeh">
+			<state></state>
+			<latitude>114775</latitude>
+			<longitude>1046941</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lomnion -- (State: Preah Vihear)">
+			<state>Preah Vihear</state>
+			<latitude>137608</latitude>
+			<longitude>1049441</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Long Mienne -- (State: (CB01))">
+			<state>(CB01)</state>
+			<latitude>127941</latitude>
+			<longitude>1031441</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Long Ste -- (State: (CB01))">
+			<state>(CB01)</state>
+			<latitude>134108</latitude>
+			<longitude>1032608</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Longoem -- (State: Kampong Spoe)">
+			<state>Kampong Spoe</state>
+			<latitude>118941</latitude>
+			<longitude>1041775</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Longvek -- (State: Kampong Chhnang)">
+			<state>Kampong Chhnang</state>
+			<latitude>118941</latitude>
+			<longitude>1047775</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Louea -- (State: (CB16))">
+			<state>(CB16)</state>
+			<latitude>138441</latitude>
+			<longitude>1039775</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lovea -- (State: (CB01))">
+			<state>(CB01)</state>
+			<latitude>133608</latitude>
+			<longitude>1029108</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lovea -- (State: Kampong Spoe)">
+			<state>Kampong Spoe</state>
+			<latitude>113608</latitude>
+			<longitude>1047441</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lovea Chhom -- (State: Kampong Thum)">
+			<state>Kampong Thum</state>
+			<latitude>127608</latitude>
+			<longitude>1048441</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lovea Te -- (State: Kampong Spoe)">
+			<state>Kampong Spoe</state>
+			<latitude>116608</latitude>
+			<longitude>1044441</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loveang -- (State: Kampong Chhnang)">
+			<state>Kampong Chhnang</state>
+			<latitude>123775</latitude>
+			<longitude>1048108</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luc Son -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>104608</latitude>
+			<longitude>1044608</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lumphat -- (State: (CB15))">
+			<state>(CB15)</state>
+			<latitude>135108</latitude>
+			<longitude>1069941</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Na Laung -- (State: Stoeng Treng)">
+			<state>Stoeng Treng</state>
+			<latitude>140943</latitude>
+			<longitude>1062110</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakhor-Vat -- (State: (CB16))">
+			<state>(CB16)</state>
+			<latitude>134277</latitude>
+			<longitude>1038777</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nam Lyr -- (State: Mondol Kiri)">
+			<state>Mondol Kiri</state>
+			<latitude>125277</latitude>
+			<longitude>1075443</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neak-Luong -- (State: Prey Veng)">
+			<state>Prey Veng</state>
+			<latitude>112777</latitude>
+			<longitude>1053110</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neang Sa Longeach -- (State: Kampong Thum)">
+			<state>Kampong Thum</state>
+			<latitude>129943</latitude>
+			<longitude>1045443</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neang Sau -- (State: Kampong Thum)">
+			<state>Kampong Thum</state>
+			<latitude>125610</latitude>
+			<longitude>1045110</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngong -- (State: Kampong Cham)">
+			<state>Kampong Cham</state>
+			<latitude>120443</latitude>
+			<longitude>1050943</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nokor Pheas -- (State: (CB16))">
+			<state>(CB16)</state>
+			<latitude>136110</latitude>
+			<longitude>1037277</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Pirate -- (State: (CB06))">
+			<state>(CB06)</state>
+			<latitude>104110</latitude>
+			<longitude>1043443</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nung Takhieng -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>115777</latitude>
+			<longitude>1030777</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ny Pech -- (State: Kampong Thum)">
+			<state>Kampong Thum</state>
+			<latitude>129277</latitude>
+			<longitude>1047943</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phnom Penh -- (State: (CB11))">
+			<state>(CB11)</state>
+			<latitude>115612</latitude>
+			<longitude>1049279</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siem Reap">
+			<state></state>
+			<latitude>114115</latitude>
+			<longitude>1048782</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siem Reap -- (State: (CB16))">
+			<state>(CB16)</state>
+			<latitude>133782</latitude>
+			<longitude>1038615</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubon Boratit Shoal -- (State: Kaoh Kong)">
+			<state>Kaoh Kong</state>
+			<latitude>111450</latitude>
+			<longitude>1028117</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udon -- (State: Kampong Thum)">
+			<state>Kampong Thum</state>
+			<latitude>118117</latitude>
+			<longitude>1047617</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wat Chek -- (State: Svay Rieng)">
+			<state>Svay Rieng</state>
+			<latitude>111286</latitude>
+			<longitude>1057952</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wat Ong Kar">
+			<state></state>
+			<latitude>116286</latitude>
+			<longitude>1047452</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wat Phnom -- (State: Kampong Spoe)">
+			<state>Kampong Spoe</state>
+			<latitude>114119</latitude>
+			<longitude>1044952</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wat Ponley -- (State: Kampong Chhnang)">
+			<state>Kampong Chhnang</state>
+			<latitude>124452</latitude>
+			<longitude>1044619</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wat Prean Khe -- (State: Kampong Spoe)">
+			<state>Kampong Spoe</state>
+			<latitude>112452</latitude>
+			<longitude>1045286</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xe Kong">
+			<state></state>
+			<latitude>135453</latitude>
+			<longitude>1059787</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xe Xan">
+			<state></state>
+			<latitude>135453</latitude>
+			<longitude>1059620</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xom Chen Rosey -- (State: Svay Rieng)">
+			<state>Svay Rieng</state>
+			<latitude>110120</latitude>
+			<longitude>1061287</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xom Chrok Smach -- (State: Svay Rieng)">
+			<state>Svay Rieng</state>
+			<latitude>110287</latitude>
+			<longitude>1061120</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xom Dieur -- (State: Svay Rieng)">
+			<state>Svay Rieng</state>
+			<latitude>109953</latitude>
+			<longitude>1061287</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xom Ly Nhon">
+			<state></state>
+			<latitude>109787</latitude>
+			<longitude>1051287</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xre Poc">
+			<state></state>
+			<latitude>135620</latitude>
+			<longitude>1062787</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yok Te Wac -- (State: Mondol Kiri)">
+			<state>Mondol Kiri</state>
+			<latitude>126621</latitude>
+			<longitude>1075788</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

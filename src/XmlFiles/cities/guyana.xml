@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Guyana">
+		<city name="Anna Regina -- (State: Pomeroon-Supenaam)">
+			<state>Pomeroon-Supenaam</state>
+			<latitude>72764</latitude>
+			<longitude>-584903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Felicity -- (State: Mahaica-Berbice)">
+			<state>Mahaica-Berbice</state>
+			<latitude>65435</latitude>
+			<longitude>-577898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fellowship -- (State: Mahaica-Berbice)">
+			<state>Mahaica-Berbice</state>
+			<latitude>65769</latitude>
+			<longitude>-577731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fortitude -- (State: Mahaica-Berbice)">
+			<state>Mahaica-Berbice</state>
+			<latitude>65602</latitude>
+			<longitude>-577898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Georgetown -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>68103</latitude>
+			<longitude>-581564</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Georgetown Rock -- (State: Upper Demerara-Berbice)">
+			<state>Upper Demerara-Berbice</state>
+			<latitude>64436</latitude>
+			<longitude>-586064</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guyana">
+			<state></state>
+			<latitude>50103</latitude>
+			<longitude>-589897</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hague -- (State: Essequibo Islands-West Demerara)">
+			<state>Essequibo Islands-West Demerara</state>
+			<latitude>68604</latitude>
+			<longitude>-582563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Linden -- (State: Upper Demerara-Berbice)">
+			<state>Upper Demerara-Berbice</state>
+			<latitude>60108</latitude>
+			<longitude>-582892</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Met en Meerzorg -- (State: Essequibo Islands-West Demerara)">
+			<state>Essequibo Islands-West Demerara</state>
+			<latitude>68776</latitude>
+			<longitude>-583224</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Mourant -- (State: East Berbice-Corentyne)">
+			<state>East Berbice-Corentyne</state>
+			<latitude>62612</latitude>
+			<longitude>-573221</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quakers Hall -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>66446</latitude>
+			<longitude>-578387</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartzstone River -- (State: Cuyuni-Mazaruni)">
+			<state>Cuyuni-Mazaruni</state>
+			<latitude>67613</latitude>
+			<longitude>-591720</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quata River -- (State: Upper Takutu-Upper Essequibo)">
+			<state>Upper Takutu-Upper Essequibo</state>
+			<latitude>20613</latitude>
+			<longitude>-590720</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Questina -- (State: Cuyuni-Mazaruni)">
+			<state>Cuyuni-Mazaruni</state>
+			<latitude>62446</latitude>
+			<longitude>-585720</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quineballi -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>63946</latitude>
+			<longitude>-581054</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quintelle Creek -- (State: Potaro-Siparuni)">
+			<state>Potaro-Siparuni</state>
+			<latitude>52946</latitude>
+			<longitude>-590887</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaial Creek -- (State: Pomeroon-Supenaam)">
+			<state>Pomeroon-Supenaam</state>
+			<latitude>73451</latitude>
+			<longitude>-586382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velami Outstation -- (State: Upper Takutu-Upper Essequibo)">
+			<state>Upper Takutu-Upper Essequibo</state>
+			<latitude>38618</latitude>
+			<longitude>-595049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velgrad -- (State: Potaro-Siparuni)">
+			<state>Potaro-Siparuni</state>
+			<latitude>48785</latitude>
+			<longitude>-597882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vereeniging -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>66785</latitude>
+			<longitude>-579382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vergenoegen -- (State: Essequibo Islands-West Demerara)">
+			<state>Essequibo Islands-West Demerara</state>
+			<latitude>68785</latitude>
+			<longitude>-583382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vertrouwen -- (State: Essequibo Islands-West Demerara)">
+			<state>Essequibo Islands-West Demerara</state>
+			<latitude>69451</latitude>
+			<longitude>-584049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vevay -- (State: Mahaica-Berbice)">
+			<state>Mahaica-Berbice</state>
+			<latitude>66785</latitude>
+			<longitude>-579049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vigilance -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>67785</latitude>
+			<longitude>-580049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vigilant Island -- (State: Upper Demerara-Berbice)">
+			<state>Upper Demerara-Berbice</state>
+			<latitude>63451</latitude>
+			<longitude>-585715</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Nappita -- (State: Upper Takutu-Upper Essequibo)">
+			<state>Upper Takutu-Upper Essequibo</state>
+			<latitude>34285</latitude>
+			<longitude>-595549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Shulinab -- (State: Upper Takutu-Upper Essequibo)">
+			<state>Upper Takutu-Upper Essequibo</state>
+			<latitude>30951</latitude>
+			<longitude>-597715</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Virtue Creek -- (State: Upper Demerara-Berbice)">
+			<state>Upper Demerara-Berbice</state>
+			<latitude>47951</latitude>
+			<longitude>-582215</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Visselvalligheid -- (State: Essequibo Islands-West Demerara)">
+			<state>Essequibo Islands-West Demerara</state>
+			<latitude>69285</latitude>
+			<longitude>-584215</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voorburg -- (State: Essequibo Islands-West Demerara)">
+			<state>Essequibo Islands-West Demerara</state>
+			<latitude>66285</latitude>
+			<longitude>-582215</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vreckenhorst -- (State: East Berbice-Corentyne)">
+			<state>East Berbice-Corentyne</state>
+			<latitude>57451</latitude>
+			<longitude>-575049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vrede en Vriendschap -- (State: East Berbice-Corentyne)">
+			<state>East Berbice-Corentyne</state>
+			<latitude>61785</latitude>
+			<longitude>-574215</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vredenhoop -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>63451</latitude>
+			<longitude>-583049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vreen Rust -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>64785</latitude>
+			<longitude>-583049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vried-en-stein -- (State: Essequibo Islands-West Demerara)">
+			<state>Essequibo Islands-West Demerara</state>
+			<latitude>66451</latitude>
+			<longitude>-582215</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vriendschap -- (State: Upper Demerara-Berbice)">
+			<state>Upper Demerara-Berbice</state>
+			<latitude>57951</latitude>
+			<longitude>-577549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vriesland -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>66951</latitude>
+			<longitude>-581882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vryburg -- (State: East Berbice-Corentyne)">
+			<state>East Berbice-Corentyne</state>
+			<latitude>60285</latitude>
+			<longitude>-575882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vryheid -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>63118</latitude>
+			<longitude>-582549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vryheids Lust -- (State: Demerara-Mahaica)">
+			<state>Demerara-Mahaica</state>
+			<latitude>68118</latitude>
+			<longitude>-580882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaruma Fall -- (State: East Berbice-Corentyne)">
+			<state>East Berbice-Corentyne</state>
+			<latitude>32622</latitude>
+			<longitude>-575878</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zee Zight -- (State: Mahaica-Berbice)">
+			<state>Mahaica-Berbice</state>
+			<latitude>63122</latitude>
+			<longitude>-575545</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeeburg -- (State: Essequibo Islands-West Demerara)">
+			<state>Essequibo Islands-West Demerara</state>
+			<latitude>68622</latitude>
+			<longitude>-583045</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeelandia -- (State: Essequibo Islands-West Demerara)">
+			<state>Essequibo Islands-West Demerara</state>
+			<latitude>70289</latitude>
+			<longitude>-584211</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zombie Creek -- (State: East Berbice-Corentyne)">
+			<state>East Berbice-Corentyne</state>
+			<latitude>50122</latitude>
+			<longitude>-575711</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorg -- (State: East Berbice-Corentyne)">
+			<state>East Berbice-Corentyne</state>
+			<latitude>61955</latitude>
+			<longitude>-574045</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuidwyk -- (State: Mahaica-Berbice)">
+			<state>Mahaica-Berbice</state>
+			<latitude>62122</latitude>
+			<longitude>-575545</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

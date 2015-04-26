@@ -1,0 +1,1321 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Mayotte">
+		<city name="Accua">
+			<state></state>
+			<latitude>-127128</latitude>
+			<longitude>450661</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Analavato">
+			<state></state>
+			<latitude>-127478</latitude>
+			<longitude>450841</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andembe">
+			<state></state>
+			<latitude>-129547</latitude>
+			<longitude>451305</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andilabe">
+			<state></state>
+			<latitude>-128620</latitude>
+			<longitude>451616</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andimaka">
+			<state></state>
+			<latitude>-127467</latitude>
+			<longitude>450986</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andrema">
+			<state></state>
+			<latitude>-126689</latitude>
+			<longitude>451075</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anketabe">
+			<state></state>
+			<latitude>-127392</latitude>
+			<longitude>450989</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anse Bambo">
+			<state></state>
+			<latitude>-129142</latitude>
+			<longitude>451950</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anse Hajangoua">
+			<state></state>
+			<latitude>-128475</latitude>
+			<longitude>452133</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anse Mounyambani">
+			<state></state>
+			<latitude>-129350</latitude>
+			<longitude>451811</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Apandzo">
+			<state></state>
+			<latitude>-128209</latitude>
+			<longitude>451400</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baie d Acoua">
+			<state></state>
+			<latitude>-127183</latitude>
+			<longitude>450531</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baie de Boueni">
+			<state></state>
+			<latitude>-129013</latitude>
+			<longitude>451301</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baie de Chiconi">
+			<state></state>
+			<latitude>-128274</latitude>
+			<longitude>451070</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baie de Handrema">
+			<state></state>
+			<latitude>-126552</latitude>
+			<longitude>451054</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baie de Kani">
+			<state></state>
+			<latitude>-129574</latitude>
+			<longitude>451090</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baie de Longoni">
+			<state></state>
+			<latitude>-127041</latitude>
+			<longitude>451573</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baie de Mzouazia">
+			<state></state>
+			<latitude>-129310</latitude>
+			<longitude>450940</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baie de Tsingoni">
+			<state></state>
+			<latitude>-127819</latitude>
+			<longitude>451067</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bambo Est">
+			<state></state>
+			<latitude>-129163</latitude>
+			<longitude>451837</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bambo Ouest">
+			<state></state>
+			<latitude>-129121</latitude>
+			<longitude>450970</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banc Boa Sadia">
+			<state></state>
+			<latitude>-126735</latitude>
+			<longitude>450470</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandraboua">
+			<state></state>
+			<latitude>-126919</latitude>
+			<longitude>451304</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandrajou">
+			<state></state>
+			<latitude>-127355</latitude>
+			<longitude>452284</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandramaji">
+			<state></state>
+			<latitude>-127430</latitude>
+			<longitude>451595</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandrani">
+			<state></state>
+			<latitude>-128352</latitude>
+			<longitude>451117</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandrele">
+			<state></state>
+			<latitude>-128969</latitude>
+			<longitude>452012</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bejamoudou">
+			<state></state>
+			<latitude>-128135</latitude>
+			<longitude>451706</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boueni">
+			<state></state>
+			<latitude>-128927</latitude>
+			<longitude>450859</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boungoube">
+			<state></state>
+			<latitude>-128438</latitude>
+			<longitude>451576</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bouyouni">
+			<state></state>
+			<latitude>-127258</latitude>
+			<longitude>451481</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cap Douamougno">
+			<state></state>
+			<latitude>-126395</latitude>
+			<longitude>451132</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carrefour de Chiconi">
+			<state></state>
+			<latitude>-128282</latitude>
+			<longitude>451293</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carrefour de Dzoumonye">
+			<state></state>
+			<latitude>-127126</latitude>
+			<longitude>451307</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carrefour de Handrema">
+			<state></state>
+			<latitude>-126745</latitude>
+			<longitude>451116</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carrefour de Soulou">
+			<state></state>
+			<latitude>-127523</latitude>
+			<longitude>451127</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carriere de Hajangoua">
+			<state></state>
+			<latitude>-128445</latitude>
+			<longitude>452038</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chaoueni">
+			<state></state>
+			<latitude>-127690</latitude>
+			<longitude>451999</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charifou">
+			<state></state>
+			<latitude>-129840</latitude>
+			<longitude>451582</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chembenyoumba">
+			<state></state>
+			<latitude>-127523</latitude>
+			<longitude>450852</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chiconi">
+			<state></state>
+			<latitude>-128234</latitude>
+			<longitude>451205</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chirongui">
+			<state></state>
+			<latitude>-129220</latitude>
+			<longitude>451582</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chissimani">
+			<state></state>
+			<latitude>-127723</latitude>
+			<longitude>451091</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chissioua Karoni">
+			<state></state>
+			<latitude>-129073</latitude>
+			<longitude>451491</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chissioua Kolo Issa">
+			<state></state>
+			<latitude>-128254</latitude>
+			<longitude>452421</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chissioua Mbouzi">
+			<state></state>
+			<latitude>-127987</latitude>
+			<longitude>452421</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chissioua Mtiti">
+			<state></state>
+			<latitude>-126759</latitude>
+			<longitude>451266</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chissioua Pengoua">
+			<state></state>
+			<latitude>-128265</latitude>
+			<longitude>452541</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chissioua Sada">
+			<state></state>
+			<latitude>-128340</latitude>
+			<longitude>450968</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Choungui">
+			<state></state>
+			<latitude>-127912</latitude>
+			<longitude>451149</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Choungui Keli">
+			<state></state>
+			<latitude>-129587</latitude>
+			<longitude>451407</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Col d Ongojou">
+			<state></state>
+			<latitude>-128251</latitude>
+			<longitude>451691</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Col de Chirongui">
+			<state></state>
+			<latitude>-129251</latitude>
+			<longitude>451680</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Combani">
+			<state></state>
+			<latitude>-127765</latitude>
+			<longitude>451435</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dapani">
+			<state></state>
+			<latitude>-129592</latitude>
+			<longitude>451689</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Djivani">
+			<state></state>
+			<latitude>-128214</latitude>
+			<longitude>451300</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doujani">
+			<state></state>
+			<latitude>-128322</latitude>
+			<longitude>451164</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dzaoudzi">
+			<state></state>
+			<latitude>-127694</latitude>
+			<longitude>452636</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dziani Dzaha">
+			<state></state>
+			<latitude>-127581</latitude>
+			<longitude>452961</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dziani Karihani">
+			<state></state>
+			<latitude>-127839</latitude>
+			<longitude>451292</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dzoumonye">
+			<state></state>
+			<latitude>-127072</latitude>
+			<longitude>451228</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Florence">
+			<state></state>
+			<latitude>-128495</latitude>
+			<longitude>452019</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Foungoujou">
+			<state></state>
+			<latitude>-127737</latitude>
+			<longitude>452691</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gnambo">
+			<state></state>
+			<latitude>-126966</latitude>
+			<longitude>451309</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gogorakandza">
+			<state></state>
+			<latitude>-128530</latitude>
+			<longitude>452159</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grand Recif du Nord Est">
+			<state></state>
+			<latitude>-126805</latitude>
+			<longitude>452428</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hachenoua">
+			<state></state>
+			<latitude>-127768</latitude>
+			<longitude>451215</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hachiroungou">
+			<state></state>
+			<latitude>-126999</latitude>
+			<longitude>450729</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hajangoua">
+			<state></state>
+			<latitude>-128552</latitude>
+			<longitude>452037</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamaha">
+			<state></state>
+			<latitude>-127590</latitude>
+			<longitude>452407</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamjago">
+			<state></state>
+			<latitude>-126754</latitude>
+			<longitude>450823</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamouro">
+			<state></state>
+			<latitude>-128682</latitude>
+			<longitude>452237</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hanyoundrou">
+			<state></state>
+			<latitude>-128902</latitude>
+			<longitude>451090</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Andrema">
+			<state></state>
+			<latitude>-126620</latitude>
+			<longitude>451227</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Blanche">
+			<state></state>
+			<latitude>-127053</latitude>
+			<longitude>451819</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile M Zamboro">
+			<state></state>
+			<latitude>-126309</latitude>
+			<longitude>450380</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Mogne Amiri">
+			<state></state>
+			<latitude>-127578</latitude>
+			<longitude>452594</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Verte">
+			<state></state>
+			<latitude>-127131</latitude>
+			<longitude>451541</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iles Choazil">
+			<state></state>
+			<latitude>-126614</latitude>
+			<longitude>450613</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iloni">
+			<state></state>
+			<latitude>-128306</latitude>
+			<longitude>451994</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilot de Sable Blanc">
+			<state></state>
+			<latitude>-129723</latitude>
+			<longitude>452244</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ironi Be">
+			<state></state>
+			<latitude>-128201</latitude>
+			<longitude>451991</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jetee M Goudajou">
+			<state></state>
+			<latitude>-127080</latitude>
+			<longitude>451398</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kahani">
+			<state></state>
+			<latitude>-128101</latitude>
+			<longitude>451401</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kakazou">
+			<state></state>
+			<latitude>-127574</latitude>
+			<longitude>452671</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kangani">
+			<state></state>
+			<latitude>-127165</latitude>
+			<longitude>451957</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kani Be">
+			<state></state>
+			<latitude>-129507</latitude>
+			<longitude>451199</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kani Keli">
+			<state></state>
+			<latitude>-129429</latitude>
+			<longitude>451140</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaoueni">
+			<state></state>
+			<latitude>-127596</latitude>
+			<longitude>452288</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karoni">
+			<state></state>
+			<latitude>-129182</latitude>
+			<longitude>451279</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kavani">
+			<state></state>
+			<latitude>-127682</latitude>
+			<longitude>452296</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ketabe">
+			<state></state>
+			<latitude>-126821</latitude>
+			<longitude>450851</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kombeni">
+			<state></state>
+			<latitude>-128382</latitude>
+			<longitude>451899</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kouale">
+			<state></state>
+			<latitude>-127915</latitude>
+			<longitude>452071</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kouale Dzindzano">
+			<state></state>
+			<latitude>-127704</latitude>
+			<longitude>451949</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kouale-Legion">
+			<state></state>
+			<latitude>-127843</latitude>
+			<longitude>451968</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koungou">
+			<state></state>
+			<latitude>-127229</latitude>
+			<longitude>452149</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Ferme">
+			<state></state>
+			<latitude>-127736</latitude>
+			<longitude>452883</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Vigie">
+			<state></state>
+			<latitude>-127781</latitude>
+			<longitude>452994</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Labattoir">
+			<state></state>
+			<latitude>-127742</latitude>
+			<longitude>452811</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Quatre Freres">
+			<state></state>
+			<latitude>-127450</latitude>
+			<longitude>452594</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Longoni">
+			<state></state>
+			<latitude>-127209</latitude>
+			<longitude>451719</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mamoudzou">
+			<state></state>
+			<latitude>-127685</latitude>
+			<longitude>452381</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mayotte">
+			<state></state>
+			<latitude>-127969</latitude>
+			<longitude>451712</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Namohakou">
+			<state></state>
+			<latitude>-127490</latitude>
+			<longitude>452152</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ngouja">
+			<state></state>
+			<latitude>-129482</latitude>
+			<longitude>450946</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ngoumbili">
+			<state></state>
+			<latitude>-129387</latitude>
+			<longitude>451679</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nyambadao">
+			<state></state>
+			<latitude>-128796</latitude>
+			<longitude>452118</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ongojou">
+			<state></state>
+			<latitude>-128236</latitude>
+			<longitude>451675</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouangani">
+			<state></state>
+			<latitude>-128353</latitude>
+			<longitude>451472</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pamandzi">
+			<state></state>
+			<latitude>-127852</latitude>
+			<longitude>452848</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Passamainti">
+			<state></state>
+			<latitude>-127877</latitude>
+			<longitude>452215</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Passe de Bandrele">
+			<state></state>
+			<latitude>-128760</latitude>
+			<longitude>452604</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Passe Longogori">
+			<state></state>
+			<latitude>-128505</latitude>
+			<longitude>452790</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Passe Sazile du Milieu">
+			<state></state>
+			<latitude>-129535</latitude>
+			<longitude>452334</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Passe Sazile du Nord">
+			<state></state>
+			<latitude>-129419</latitude>
+			<longitude>452279</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Passe Sazile du Sud">
+			<state></state>
+			<latitude>-129905</latitude>
+			<longitude>452434</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pengoua Bole">
+			<state></state>
+			<latitude>-128419</latitude>
+			<longitude>451190</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pengoualajou">
+			<state></state>
+			<latitude>-128924</latitude>
+			<longitude>451854</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petite-Terre">
+			<state></state>
+			<latitude>-127457</latitude>
+			<longitude>452937</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plage de Hamaha">
+			<state></state>
+			<latitude>-127499</latitude>
+			<longitude>452462</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plage de Handrema">
+			<state></state>
+			<latitude>-126560</latitude>
+			<longitude>450979</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plage de Koungou">
+			<state></state>
+			<latitude>-127163</latitude>
+			<longitude>452115</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plage de la Bonne Maree">
+			<state></state>
+			<latitude>-128407</latitude>
+			<longitude>452062</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plage de Longoni">
+			<state></state>
+			<latitude>-127124</latitude>
+			<longitude>451731</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plage de Papani">
+			<state></state>
+			<latitude>-127602</latitude>
+			<longitude>453029</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plage de Sohoa">
+			<state></state>
+			<latitude>-128032</latitude>
+			<longitude>451148</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plage de Soulou">
+			<state></state>
+			<latitude>-127666</latitude>
+			<longitude>451104</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plage de Trevani">
+			<state></state>
+			<latitude>-127169</latitude>
+			<longitude>452037</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plages de Moya">
+			<state></state>
+			<latitude>-127688</latitude>
+			<longitude>453062</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe Bandaboi">
+			<state></state>
+			<latitude>-126888</latitude>
+			<longitude>451393</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe de Koungou">
+			<state></state>
+			<latitude>-127191</latitude>
+			<longitude>452229</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe de Longoni">
+			<state></state>
+			<latitude>-127049</latitude>
+			<longitude>451743</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe Mahabo">
+			<state></state>
+			<latitude>-127688</latitude>
+			<longitude>452468</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe Mohila">
+			<state></state>
+			<latitude>-127082</latitude>
+			<longitude>450495</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe Sazile">
+			<state></state>
+			<latitude>-129607</latitude>
+			<longitude>452126</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poroani">
+			<state></state>
+			<latitude>-128782</latitude>
+			<longitude>451495</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rampe Cannelle">
+			<state></state>
+			<latitude>-129250</latitude>
+			<longitude>451514</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Amagouizi">
+			<state></state>
+			<latitude>-126628</latitude>
+			<longitude>451133</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Bambo">
+			<state></state>
+			<latitude>-129283</latitude>
+			<longitude>451878</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Bouekoundrouni">
+			<state></state>
+			<latitude>-126672</latitude>
+			<longitude>450758</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Chodoni">
+			<state></state>
+			<latitude>-128858</latitude>
+			<longitude>450828</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Domonyombe">
+			<state></state>
+			<latitude>-128580</latitude>
+			<longitude>452303</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Kome">
+			<state></state>
+			<latitude>-126425</latitude>
+			<longitude>450367</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Maoussi">
+			<state></state>
+			<latitude>-129800</latitude>
+			<longitude>451867</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Mavoule">
+			<state></state>
+			<latitude>-126478</latitude>
+			<longitude>451142</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Mounyendre">
+			<state></state>
+			<latitude>-129058</latitude>
+			<longitude>452125</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi Ngouja">
+			<state></state>
+			<latitude>-129480</latitude>
+			<longitude>450892</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rassi ya Chifouni">
+			<state></state>
+			<latitude>-126861</latitude>
+			<longitude>450617</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Bambo">
+			<state></state>
+			<latitude>-129330</latitude>
+			<longitude>452292</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Bandrakouni">
+			<state></state>
+			<latitude>-128667</latitude>
+			<longitude>450808</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Bandrele">
+			<state></state>
+			<latitude>-128900</latitude>
+			<longitude>452558</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Boueni">
+			<state></state>
+			<latitude>-128861</latitude>
+			<longitude>450561</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Domouali">
+			<state></state>
+			<latitude>-128358</latitude>
+			<longitude>450897</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif du Laminoir">
+			<state></state>
+			<latitude>-128939</latitude>
+			<longitude>452236</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif du Sable Blanc">
+			<state></state>
+			<latitude>-129728</latitude>
+			<longitude>452311</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif du Sud">
+			<state></state>
+			<latitude>-129950</latitude>
+			<longitude>452500</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Hajangoua">
+			<state></state>
+			<latitude>-128667</latitude>
+			<longitude>452695</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Lepoe">
+			<state></state>
+			<latitude>-129458</latitude>
+			<longitude>450706</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Matre">
+			<state></state>
+			<latitude>-128511</latitude>
+			<longitude>450492</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Mtiti">
+			<state></state>
+			<latitude>-129072</latitude>
+			<longitude>450708</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Mtsanga">
+			<state></state>
+			<latitude>-128425</latitude>
+			<longitude>450495</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Ndrane">
+			<state></state>
+			<latitude>-128178</latitude>
+			<longitude>450839</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Rani">
+			<state></state>
+			<latitude>-129247</latitude>
+			<longitude>450683</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Rocchi">
+			<state></state>
+			<latitude>-129767</latitude>
+			<longitude>450653</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recif Sazile">
+			<state></state>
+			<latitude>-129467</latitude>
+			<longitude>452297</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reserve Forestiere de Benara">
+			<state></state>
+			<latitude>-128894</latitude>
+			<longitude>451817</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sada">
+			<state></state>
+			<latitude>-128366</latitude>
+			<longitude>451090</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Satra Gori">
+			<state></state>
+			<latitude>-129021</latitude>
+			<longitude>451812</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sazile">
+			<state></state>
+			<latitude>-129704</latitude>
+			<longitude>451904</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sazile Be">
+			<state></state>
+			<latitude>-129621</latitude>
+			<longitude>452087</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sohoa">
+			<state></state>
+			<latitude>-128082</latitude>
+			<longitude>451151</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sohoa Kavani">
+			<state></state>
+			<latitude>-128071</latitude>
+			<longitude>451176</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sohoa Keli">
+			<state></state>
+			<latitude>-128096</latitude>
+			<longitude>451148</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soulo">
+			<state></state>
+			<latitude>-127466</latitude>
+			<longitude>451121</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tahiti Plage">
+			<state></state>
+			<latitude>-128506</latitude>
+			<longitude>451216</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tanaraki">
+			<state></state>
+			<latitude>-127445</latitude>
+			<longitude>450783</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trevani">
+			<state></state>
+			<latitude>-127192</latitude>
+			<longitude>452077</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tririni">
+			<state></state>
+			<latitude>-127167</latitude>
+			<longitude>451791</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tsararano">
+			<state></state>
+			<latitude>-128223</latitude>
+			<longitude>451841</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tsingoni">
+			<state></state>
+			<latitude>-127756</latitude>
+			<longitude>451144</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tsiraka Apondra">
+			<state></state>
+			<latitude>-127298</latitude>
+			<longitude>450535</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tsiraka Be">
+			<state></state>
+			<latitude>-129778</latitude>
+			<longitude>451374</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tsoha">
+			<state></state>
+			<latitude>-126917</latitude>
+			<longitude>450716</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tsoundzou 1">
+			<state></state>
+			<latitude>-127926</latitude>
+			<longitude>452152</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vahibeni">
+			<state></state>
+			<latitude>-127765</latitude>
+			<longitude>451890</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vatou">
+			<state></state>
+			<latitude>-127588</latitude>
+			<longitude>452696</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vatounkaridi">
+			<state></state>
+			<latitude>-129513</latitude>
+			<longitude>451504</longitude>
+			<timezone>300</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,1258 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Guinea">
+		<city name="Adalamdjaki -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>112264</latitude>
+			<longitude>-104903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adjidougou -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>86764</latitude>
+			<longitude>-83070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adjinn -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>126097</latitude>
+			<longitude>-131070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afea Kourou -- (State: (GV26))">
+			<state>(GV26)</state>
+			<latitude>117430</latitude>
+			<longitude>-101070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afia -- (State: Mali)">
+			<state>Mali</state>
+			<latitude>122264</latitude>
+			<longitude>-125736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afia -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>116764</latitude>
+			<longitude>-107403</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agbalazou -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87264</latitude>
+			<longitude>-97736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ahi Ya -- (State: Yomou)">
+			<state>Yomou</state>
+			<latitude>76097</latitude>
+			<longitude>-93570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ahie -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>78930</latitude>
+			<longitude>-94236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akoudetiangui -- (State: Mali)">
+			<state>Mali</state>
+			<latitude>122097</latitude>
+			<longitude>-121903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akoutiandi -- (State: Mali)">
+			<state>Mali</state>
+			<latitude>121430</latitude>
+			<longitude>-125403</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alahina -- (State: (GV26))">
+			<state>(GV26)</state>
+			<latitude>116097</latitude>
+			<longitude>-95570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alahine -- (State: (GV26))">
+			<state>(GV26)</state>
+			<latitude>116764</latitude>
+			<longitude>-89570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alana -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>116430</latitude>
+			<longitude>-107403</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Albaderia -- (State: Kissidougou)">
+			<state>Kissidougou</state>
+			<latitude>95597</latitude>
+			<longitude>-100903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alemaniya -- (State: Forecariah)">
+			<state>Forecariah</state>
+			<latitude>93922</latitude>
+			<longitude>-132128</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alia -- (State: Forecariah)">
+			<state>Forecariah</state>
+			<latitude>92930</latitude>
+			<longitude>-130236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alianbale -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>97930</latitude>
+			<longitude>-98570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alifadougou -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>87764</latitude>
+			<longitude>-83570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alimaya -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>111764</latitude>
+			<longitude>-105903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Altou -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>123764</latitude>
+			<longitude>-134570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amarante Shoals -- (State: Conakry)">
+			<state>Conakry</state>
+			<latitude>95572</latitude>
+			<longitude>-137356</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amaraya -- (State: Forecariah)">
+			<state>Forecariah</state>
+			<latitude>94647</latitude>
+			<longitude>-134645</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amdallaye -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>117430</latitude>
+			<longitude>-105236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ampank -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>124930</latitude>
+			<longitude>-131070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Andalaye -- (State: Pita)">
+			<state>Pita</state>
+			<latitude>108597</latitude>
+			<longitude>-123570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Andefo -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>122764</latitude>
+			<longitude>-130236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Angorguire -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>122930</latitude>
+			<longitude>-129403</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Angoro -- (State: Gaoual)">
+			<state>Gaoual</state>
+			<latitude>120597</latitude>
+			<longitude>-130570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anguera -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>121097</latitude>
+			<longitude>-129903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aniana -- (State: Yomou)">
+			<state>Yomou</state>
+			<latitude>77264</latitude>
+			<longitude>-91903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Animagodie -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>85430</latitude>
+			<longitude>-92736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ankoro -- (State: (GV14))">
+			<state>(GV14)</state>
+			<latitude>102597</latitude>
+			<longitude>-91736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ansagnere -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>113597</latitude>
+			<longitude>-107570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ansagnere Diengueibe -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>114097</latitude>
+			<longitude>-109903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ansangnere -- (State: (GV20))">
+			<state>(GV20)</state>
+			<latitude>118430</latitude>
+			<longitude>-118070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse du Dragonnier -- (State: Conakry)">
+			<state>Conakry</state>
+			<latitude>95150</latitude>
+			<longitude>-137092</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ansoumania -- (State: (GV08))">
+			<state>(GV08)</state>
+			<latitude>97153</latitude>
+			<longitude>-135372</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anssanguere -- (State: Mali)">
+			<state>Mali</state>
+			<latitude>122264</latitude>
+			<longitude>-121736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anubo -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>123097</latitude>
+			<longitude>-128736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aorola -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87430</latitude>
+			<longitude>-98236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aou -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>85597</latitude>
+			<longitude>-85570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aouadia -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87264</latitude>
+			<longitude>-93736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aouara -- (State: Gaoual)">
+			<state>Gaoual</state>
+			<latitude>122764</latitude>
+			<longitude>-134736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aouboro -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>85430</latitude>
+			<longitude>-93070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aounigoua -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>85097</latitude>
+			<longitude>-94570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aouria -- (State: Kissidougou)">
+			<state>Kissidougou</state>
+			<latitude>89050</latitude>
+			<longitude>-97714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apassi -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>121430</latitude>
+			<longitude>-130070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arethusa Point -- (State: Conakry)">
+			<state>Conakry</state>
+			<latitude>95244</latitude>
+			<longitude>-137972</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arfa Moussaia -- (State: Dabola)">
+			<state>Dabola</state>
+			<latitude>107764</latitude>
+			<longitude>-113570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ari Ya -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>78430</latitude>
+			<longitude>-92570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aria -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>105930</latitude>
+			<longitude>-106236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aribouya -- (State: Boke)">
+			<state>Boke</state>
+			<latitude>107097</latitude>
+			<longitude>-142236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aroumaya -- (State: Mamou)">
+			<state>Mamou</state>
+			<latitude>105264</latitude>
+			<longitude>-117236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arpela -- (State: Faranah)">
+			<state>Faranah</state>
+			<latitude>99597</latitude>
+			<longitude>-104403</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Assaouma -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>86511</latitude>
+			<longitude>-97809</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atiaou -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>122264</latitude>
+			<longitude>-132070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atiss -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>123930</latitude>
+			<longitude>-131903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Auboulazou -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87930</latitude>
+			<longitude>-98403</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avili -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>85314</latitude>
+			<longitude>-90686</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aynde -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>118430</latitude>
+			<longitude>-104070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Conakry">
+			<state></state>
+			<latitude>95191</latitude>
+			<longitude>-137023</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Conakry I -- (State: Conakry)">
+			<state>Conakry</state>
+			<latitude>95099</latitude>
+			<longitude>-136568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ebak -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>124934</latitude>
+			<longitude>-128399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ederimoude -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>118934</latitude>
+			<longitude>-105399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Bolet -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>124101</latitude>
+			<longitude>-131399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eli -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>112601</latitude>
+			<longitude>-104066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elimangol -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>112768</latitude>
+			<longitude>-104066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embouchure du Rio Nunez -- (State: Boke)">
+			<state>Boke</state>
+			<latitude>106101</latitude>
+			<longitude>-146566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enissian -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>123934</latitude>
+			<longitude>-129566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Epe -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>122934</latitude>
+			<longitude>-129732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Epita -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>123268</latitude>
+			<longitude>-129566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erabiniare -- (State: Mali)">
+			<state>Mali</state>
+			<latitude>121101</latitude>
+			<longitude>-126232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erako -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>97434</latitude>
+			<longitude>-103732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erako -- (State: Faranah)">
+			<state>Faranah</state>
+			<latitude>93434</latitude>
+			<longitude>-103732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erako -- (State: Kissidougou)">
+			<state>Kissidougou</state>
+			<latitude>93268</latitude>
+			<longitude>-100566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erikouo -- (State: Mali)">
+			<state>Mali</state>
+			<latitude>121268</latitude>
+			<longitude>-124399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ermakono -- (State: Kindia)">
+			<state>Kindia</state>
+			<latitude>103768</latitude>
+			<longitude>-125232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang de Beyla -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>86768</latitude>
+			<longitude>-86399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang de Goungan -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>104434</latitude>
+			<longitude>-99232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang de Laine -- (State: (GV24))">
+			<state>(GV24)</state>
+			<latitude>80768</latitude>
+			<longitude>-84732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haa -- (State: Yomou)">
+			<state>Yomou</state>
+			<latitude>77726</latitude>
+			<longitude>-90690</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadigi -- (State: (GV24))">
+			<state>(GV24)</state>
+			<latitude>79760</latitude>
+			<longitude>-84324</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hafia -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>111771</latitude>
+			<longitude>-112063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hafiya -- (State: Conakry)">
+			<state>Conakry</state>
+			<latitude>95660</latitude>
+			<longitude>-136513</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halifadougou -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>86604</latitude>
+			<longitude>-82896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halire -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>121271</latitude>
+			<longitude>-129729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdalaye -- (State: Gaoual)">
+			<state>Gaoual</state>
+			<latitude>115771</latitude>
+			<longitude>-128396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdalaye -- (State: (GV26))">
+			<state>(GV26)</state>
+			<latitude>115771</latitude>
+			<longitude>-100396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdallay Yola -- (State: Boke)">
+			<state>Boke</state>
+			<latitude>110771</latitude>
+			<longitude>-147896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdallaye -- (State: Boke)">
+			<state>Boke</state>
+			<latitude>113771</latitude>
+			<longitude>-143396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamidouya -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>111771</latitude>
+			<longitude>-112396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hania Ya -- (State: Yomou)">
+			<state>Yomou</state>
+			<latitude>77104</latitude>
+			<longitude>-91063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hansegnere -- (State: (GV20))">
+			<state>(GV20)</state>
+			<latitude>111937</latitude>
+			<longitude>-124729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haute-Guinee">
+			<state></state>
+			<latitude>105104</latitude>
+			<longitude>-94896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herebowal -- (State: Gaoual)">
+			<state>Gaoual</state>
+			<latitude>120271</latitude>
+			<longitude>-131063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heremacono -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>110937</latitude>
+			<longitude>-104729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heriko -- (State: Mamou)">
+			<state>Mamou</state>
+			<latitude>107271</latitude>
+			<longitude>-117896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heriko -- (State: (GV20))">
+			<state>(GV20)</state>
+			<latitude>112937</latitude>
+			<longitude>-126729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hogan -- (State: Yomou)">
+			<state>Yomou</state>
+			<latitude>78604</latitude>
+			<longitude>-90896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hollo -- (State: Mali)">
+			<state>Mali</state>
+			<latitude>120271</latitude>
+			<longitude>-123563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hon -- (State: (GV24))">
+			<state>(GV24)</state>
+			<latitude>78862</latitude>
+			<longitude>-88040</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoota -- (State: (GV24))">
+			<state>(GV24)</state>
+			<latitude>77996</latitude>
+			<longitude>-87138</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hore Pare -- (State: Pita)">
+			<state>Pita</state>
+			<latitude>106937</latitude>
+			<longitude>-126563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hounsire -- (State: Gaoual)">
+			<state>Gaoual</state>
+			<latitude>114104</latitude>
+			<longitude>-138896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janiye -- (State: Yomou)">
+			<state>Yomou</state>
+			<latitude>76106</latitude>
+			<longitude>-89561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jili Point -- (State: Boffa)">
+			<state>Boffa</state>
+			<latitude>100939</latitude>
+			<longitude>-141727</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kankan -- (State: (GV14))">
+			<state>(GV14)</state>
+			<latitude>103940</latitude>
+			<longitude>-92893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labe -- (State: (GV20))">
+			<state>(GV20)</state>
+			<latitude>113275</latitude>
+			<longitude>-122725</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labe -- (State: Kouroussa)">
+			<state>Kouroussa</state>
+			<latitude>110941</latitude>
+			<longitude>-101059</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labedazou -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>86275</latitude>
+			<longitude>-96392</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labedepere -- (State: (GV20))">
+			<state>(GV20)</state>
+			<latitude>112775</latitude>
+			<longitude>-123892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labekoun -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>117275</latitude>
+			<longitude>-108892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labelinka -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>85872</latitude>
+			<longitude>-95928</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qrebe -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>82946</latitude>
+			<longitude>-90887</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quantan -- (State: Gaoual)">
+			<state>Gaoual</state>
+			<latitude>115946</latitude>
+			<longitude>-132387</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quaran -- (State: (GV26))">
+			<state>(GV26)</state>
+			<latitude>113780</latitude>
+			<longitude>-93887</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quimpako -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>111446</latitude>
+			<longitude>-112387</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quiyinnin -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>110613</latitude>
+			<longitude>-111887</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quizia">
+			<state></state>
+			<latitude>85280</latitude>
+			<longitude>-97054</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siguiri -- (State: (GV26))">
+			<state>(GV26)</state>
+			<latitude>114282</latitude>
+			<longitude>-91552</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siguirine -- (State: (GV26))">
+			<state>(GV26)</state>
+			<latitude>121115</latitude>
+			<longitude>-90385</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ueye -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>124950</latitude>
+			<longitude>-131216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unntiti -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>125284</latitude>
+			<longitude>-131383</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ussik -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>125950</latitude>
+			<longitude>-131050</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwenziye Creek">
+			<state></state>
+			<latitude>80450</latitude>
+			<longitude>-94216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyimp -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>125617</latitude>
+			<longitude>-131216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vafindougou -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>87285</latitude>
+			<longitude>-79049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vagouanata -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>83285</latitude>
+			<longitude>-85882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vahodougou -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>85285</latitude>
+			<longitude>-80882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaiavaia -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>79285</latitude>
+			<longitude>-92382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valibassou -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87524</latitude>
+			<longitude>-96199</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valuoou -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>79285</latitude>
+			<longitude>-92049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vamorodougou -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>83118</latitude>
+			<longitude>-83715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vangueakhor -- (State: Kindia)">
+			<state>Kindia</state>
+			<latitude>96285</latitude>
+			<longitude>-131715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanha -- (State: Yomou)">
+			<state>Yomou</state>
+			<latitude>76257</latitude>
+			<longitude>-92907</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vasiadougou -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>87951</latitude>
+			<longitude>-81382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vassadougou -- (State: Beyla)">
+			<state>Beyla</state>
+			<latitude>83451</latitude>
+			<longitude>-83049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vassala -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87857</latitude>
+			<longitude>-96157</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vassara -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87407</latitude>
+			<longitude>-96985</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vassave -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>78785</latitude>
+			<longitude>-93882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vasseredou -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87054</latitude>
+			<longitude>-92085</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vassezia -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>86879</latitude>
+			<longitude>-98824</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veblo -- (State: (GV24))">
+			<state>(GV24)</state>
+			<latitude>76999</latitude>
+			<longitude>-82974</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vedou -- (State: Mali)">
+			<state>Mali</state>
+			<latitude>120451</latitude>
+			<longitude>-126715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velassagala -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>88168</latitude>
+			<longitude>-98140</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velessou -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>79604</latitude>
+			<longitude>-92857</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veliahinnde -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>122285</latitude>
+			<longitude>-129882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velingara -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>117785</latitude>
+			<longitude>-104882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velleko -- (State: Kissidougou)">
+			<state>Kissidougou</state>
+			<latitude>88785</latitude>
+			<longitude>-99049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendou Boto -- (State: Telimele)">
+			<state>Telimele</state>
+			<latitude>110785</latitude>
+			<longitude>-127882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendou Feto -- (State: (GV20))">
+			<state>(GV20)</state>
+			<latitude>111451</latitude>
+			<longitude>-128382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendou Tiamou">
+			<state></state>
+			<latitude>116785</latitude>
+			<longitude>-141215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendoukanta -- (State: Gaoual)">
+			<state>Gaoual</state>
+			<latitude>116285</latitude>
+			<longitude>-134049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venndou Angara -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>120618</latitude>
+			<longitude>-131715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venndou Batapa -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>121118</latitude>
+			<longitude>-133049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venndou Kevedji -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>121285</latitude>
+			<longitude>-131549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venndou Mamborou -- (State: Gaoual)">
+			<state>Gaoual</state>
+			<latitude>120618</latitude>
+			<longitude>-134549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venndou Sebou">
+			<state></state>
+			<latitude>122951</latitude>
+			<longitude>-135215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veouro -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>81740</latitude>
+			<longitude>-93343</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vere -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>83343</latitude>
+			<longitude>-90776</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vereya -- (State: Boffa)">
+			<state>Boffa</state>
+			<latitude>102451</latitude>
+			<longitude>-140382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verga Ridge -- (State: Boffa)">
+			<state>Boffa</state>
+			<latitude>102451</latitude>
+			<longitude>-145715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vesou -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>81112</latitude>
+			<longitude>-93974</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veydeyel -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>125785</latitude>
+			<longitude>-131049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vezaye -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>79285</latitude>
+			<longitude>-94049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vilo -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>86785</latitude>
+			<longitude>-98882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vindikadioley -- (State: Dinguiraye)">
+			<state>Dinguiraye</state>
+			<latitude>112118</latitude>
+			<longitude>-108382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinzie -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>80915</latitude>
+			<longitude>-93054</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vo River">
+			<state></state>
+			<latitude>72118</latitude>
+			<longitude>-98049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vonnessou -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87490</latitude>
+			<longitude>-97504</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vopo -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87785</latitude>
+			<longitude>-97715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vorezia -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>87049</latitude>
+			<longitude>-95990</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voumou -- (State: (GV24))">
+			<state>(GV24)</state>
+			<latitude>80451</latitude>
+			<longitude>-86549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouroua -- (State: Macenta)">
+			<state>Macenta</state>
+			<latitude>86835</latitude>
+			<longitude>-95526</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voyloube -- (State: Koundara)">
+			<state>Koundara</state>
+			<latitude>124118</latitude>
+			<longitude>-134549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuya">
+			<state></state>
+			<latitude>80618</latitude>
+			<longitude>-84049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zogotta -- (State: (GV24))">
+			<state>(GV24)</state>
+			<latitude>79422</latitude>
+			<longitude>-91195</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zougouta -- (State: (GV24))">
+			<state>(GV24)</state>
+			<latitude>78630</latitude>
+			<longitude>-84131</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

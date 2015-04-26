@@ -1,0 +1,551 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Azerbaijan">
+		<city name="26 Komissar adina Kend -- (State: Xanlar)">
+			<state>Xanlar</state>
+			<latitude>405631</latitude>
+			<longitude>462222</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="26Baky Komissary -- (State: Neftcala)">
+			<state>Neftcala</state>
+			<latitude>393169</latitude>
+			<longitude>492144</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="28 Aprel -- (State: Yevlax*)">
+			<state>Yevlax*</state>
+			<latitude>406333</latitude>
+			<longitude>469817</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Babaser -- (State: Masalli)">
+			<state>Masalli</state>
+			<latitude>389567</latitude>
+			<longitude>486904</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baki Kulaklari Dagi -- (State: Baki*)">
+			<state>Baki*</state>
+			<latitude>403054</latitude>
+			<longitude>496359</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baki Sahari -- (State: Baki*)">
+			<state>Baki*</state>
+			<latitude>403098</latitude>
+			<longitude>497265</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bakixanov -- (State: Baki*)">
+			<state>Baki*</state>
+			<latitude>404315</latitude>
+			<longitude>499742</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baku -- (State: Baki*)">
+			<state>Baki*</state>
+			<latitude>404051</latitude>
+			<longitude>498920</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baku Archipelago -- (State: Ali Bayramli*)">
+			<state>Ali Bayramli*</state>
+			<latitude>395098</latitude>
+			<longitude>497598</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baku Bay -- (State: Baki*)">
+			<state>Baki*</state>
+			<latitude>403598</latitude>
+			<longitude>499031</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baku-Baladshary -- (State: Baki*)">
+			<state>Baki*</state>
+			<latitude>404412</latitude>
+			<longitude>498179</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damirchi -- (State: Naxcivan**)">
+			<state>Naxcivan**</state>
+			<latitude>396208</latitude>
+			<longitude>449442</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damirchilar -- (State: Xocali)">
+			<state>Xocali</state>
+			<latitude>397231</latitude>
+			<longitude>468517</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damirchilyar -- (State: Qubadli)">
+			<state>Qubadli</state>
+			<latitude>393250</latitude>
+			<longitude>466125</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damirchilyar -- (State: Tartar)">
+			<state>Tartar</state>
+			<latitude>404367</latitude>
+			<longitude>469058</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damirchilyar -- (State: Qazax)">
+			<state>Qazax</state>
+			<latitude>410978</latitude>
+			<longitude>452747</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fadili -- (State: Xanlar)">
+			<state>Xanlar</state>
+			<latitude>406571</latitude>
+			<longitude>462038</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fakhlul -- (State: Xankandi*)">
+			<state>Xankandi*</state>
+			<latitude>398269</latitude>
+			<longitude>467435</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fakhraly -- (State: Goranboy)">
+			<state>Goranboy</state>
+			<latitude>407580</latitude>
+			<longitude>465683</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faldar -- (State: Zaqatala)">
+			<state>Zaqatala</state>
+			<latitude>414769</latitude>
+			<longitude>465269</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faldar Cayi -- (State: Zaqatala)">
+			<state>Zaqatala</state>
+			<latitude>414463</latitude>
+			<longitude>464810</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faradzhan -- (State: Lacin)">
+			<state>Lacin</state>
+			<latitude>395480</latitude>
+			<longitude>466933</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farahli -- (State: Qazax)">
+			<state>Qazax</state>
+			<latitude>411166</latitude>
+			<longitude>451560</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fardzhan -- (State: Qubadli)">
+			<state>Qubadli</state>
+			<latitude>392833</latitude>
+			<longitude>465733</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farmactapa Dagi -- (State: Lacin)">
+			<state>Lacin</state>
+			<latitude>397466</latitude>
+			<longitude>462155</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farradzh -- (State: Lacin)">
+			<state>Lacin</state>
+			<latitude>398491</latitude>
+			<longitude>465252</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farux -- (State: Xocali)">
+			<state>Xocali</state>
+			<latitude>400266</latitude>
+			<longitude>468113</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farzali -- (State: Calilabad)">
+			<state>Calilabad</state>
+			<latitude>392058</latitude>
+			<longitude>484874</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farzalioba -- (State: Xacmaz)">
+			<state>Xacmaz</state>
+			<latitude>416494</latitude>
+			<longitude>486427</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farzaly -- (State: Gadabay)">
+			<state>Gadabay</state>
+			<latitude>406480</latitude>
+			<longitude>454663</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fatalikand -- (State: Saatli)">
+			<state>Saatli</state>
+			<latitude>398880</latitude>
+			<longitude>485669</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fatalipeya -- (State: Lacin)">
+			<state>Lacin</state>
+			<latitude>396124</latitude>
+			<longitude>465816</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fatmayi -- (State: Abseron)">
+			<state>Abseron</state>
+			<latitude>405394</latitude>
+			<longitude>498558</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fazyl -- (State: Saki)">
+			<state>Saki</state>
+			<latitude>410446</latitude>
+			<longitude>472405</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ferkhani -- (State: Kalbacar)">
+			<state>Kalbacar</state>
+			<latitude>401102</latitude>
+			<longitude>460769</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Filifli -- (State: Oguz)">
+			<state>Oguz</state>
+			<latitude>411271</latitude>
+			<longitude>476008</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Findigan -- (State: Xizi)">
+			<state>Xizi</state>
+			<latitude>409674</latitude>
+			<longitude>490530</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fingya -- (State: Lacin)">
+			<state>Lacin</state>
+			<latitude>397713</latitude>
+			<longitude>465533</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fioletovka -- (State: Fuzuli)">
+			<state>Fuzuli</state>
+			<latitude>396102</latitude>
+			<longitude>471435</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fioletovka -- (State: Bilasuvar)">
+			<state>Bilasuvar</state>
+			<latitude>395102</latitude>
+			<longitude>485269</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Firiq -- (State: Quba)">
+			<state>Quba</state>
+			<latitude>411585</latitude>
+			<longitude>486366</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fisdiqli -- (State: Qax)">
+			<state>Qax</state>
+			<latitude>414552</latitude>
+			<longitude>468027</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fizuli -- (State: Fuzuli)">
+			<state>Fuzuli</state>
+			<latitude>396105</latitude>
+			<longitude>471533</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fuganly -- (State: Cabrayil)">
+			<state>Cabrayil</state>
+			<latitude>393641</latitude>
+			<longitude>471044</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fuzuli -- (State: Samux)">
+			<state>Samux</state>
+			<latitude>408094</latitude>
+			<longitude>464105</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ganca -- (State: Ganca*)">
+			<state>Ganca*</state>
+			<latitude>406931</latitude>
+			<longitude>463709</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ganca Sahari -- (State: Ganca*)">
+			<state>Ganca*</state>
+			<latitude>406603</latitude>
+			<longitude>463603</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jabrail -- (State: Cabrayil)">
+			<state>Cabrayil</state>
+			<latitude>394106</latitude>
+			<longitude>470367</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jagirch ay">
+			<state></state>
+			<latitude>393106</latitude>
+			<longitude>454606</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jalilabad -- (State: Calilabad)">
+			<state>Calilabad</state>
+			<latitude>392195</latitude>
+			<longitude>485078</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jalilabad Rayonu -- (State: Calilabad)">
+			<state>Calilabad</state>
+			<latitude>392606</latitude>
+			<longitude>485106</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Janub Sayi -- (State: Baki*)">
+			<state>Baki*</state>
+			<latitude>402712</latitude>
+			<longitude>504056</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Janyat agh -- (State: Tartar)">
+			<state>Tartar</state>
+			<latitude>401492</latitude>
+			<longitude>467798</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaschma -- (State: Xizi)">
+			<state>Xizi</state>
+			<latitude>407137</latitude>
+			<longitude>494875</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jdanov -- (State: Beylaqan)">
+			<state>Beylaqan</state>
+			<latitude>397862</latitude>
+			<longitude>476292</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jewlach -- (State: Yevlax*)">
+			<state>Yevlax*</state>
+			<latitude>406278</latitude>
+			<longitude>471606</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jilan -- (State: Xocavand)">
+			<state>Xocavand</state>
+			<latitude>394464</latitude>
+			<longitude>469803</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jiloi Island -- (State: Baki*)">
+			<state>Baki*</state>
+			<latitude>403378</latitude>
+			<longitude>505975</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jiloy -- (State: Baki*)">
+			<state>Baki*</state>
+			<latitude>403400</latitude>
+			<longitude>506137</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joghas">
+			<state></state>
+			<latitude>411045</latitude>
+			<longitude>453525</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jolfa -- (State: Naxcivan**)">
+			<state>Naxcivan**</state>
+			<latitude>389606</latitude>
+			<longitude>456425</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jrakuys -- (State: Xocavand)">
+			<state>Xocavand</state>
+			<latitude>395873</latitude>
+			<longitude>470239</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jrver -- (State: Xocali)">
+			<state>Xocali</state>
+			<latitude>399795</latitude>
+			<longitude>468275</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jukhary Aza -- (State: Naxcivan**)">
+			<state>Naxcivan**</state>
+			<latitude>389489</latitude>
+			<longitude>458389</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Julfa Rayonu -- (State: Naxcivan**)">
+			<state>Naxcivan**</state>
+			<latitude>391773</latitude>
+			<longitude>456773</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kurdamir">
+			<state></state>
+			<latitude>403490</latitude>
+			<longitude>481715</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kurdamir Rayonu -- (State: Kurdamir)">
+			<state>Kurdamir</state>
+			<latitude>402607</latitude>
+			<longitude>481774</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mingacevir -- (State: Mingacevir*)">
+			<state>Mingacevir*</state>
+			<latitude>407809</latitude>
+			<longitude>470598</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mingacevir Sahari -- (State: Mingacevir*)">
+			<state>Mingacevir*</state>
+			<latitude>407776</latitude>
+			<longitude>470109</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qakh -- (State: Qax)">
+			<state>Qax</state>
+			<latitude>414338</latitude>
+			<longitude>469355</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quba">
+			<state></state>
+			<latitude>413710</latitude>
+			<longitude>485238</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sheki -- (State: Saki*)">
+			<state>Saki*</state>
+			<latitude>412034</latitude>
+			<longitude>471821</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sumgait -- (State: Sumqayit*)">
+			<state>Sumqayit*</state>
+			<latitude>406282</latitude>
+			<longitude>496240</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sumqayit -- (State: Sumqayit*)">
+			<state>Sumqayit*</state>
+			<latitude>406012</latitude>
+			<longitude>496801</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sumqayit Sahari -- (State: Sumqayit*)">
+			<state>Sumqayit*</state>
+			<latitude>405948</latitude>
+			<longitude>496782</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weli-Tschai -- (State: Masalli)">
+			<state>Masalli</state>
+			<latitude>390666</latitude>
+			<longitude>488863</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Welwel-Chai -- (State: Xacmaz)">
+			<state>Xacmaz</state>
+			<latitude>413977</latitude>
+			<longitude>490791</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wosaru -- (State: Lankaran)">
+			<state>Lankaran</state>
+			<latitude>387625</latitude>
+			<longitude>488822</longitude>
+			<timezone>400</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

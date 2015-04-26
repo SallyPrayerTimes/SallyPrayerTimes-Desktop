@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Spratly Islands">
+		<city name="Banc Carnatic -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>101098</latitude>
+			<longitude>1173598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banc Lord Auckland -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>103431</latitude>
+			<longitude>1172931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banc Lys -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>113265</latitude>
+			<longitude>1145931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banc North Viper -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>80265</latitude>
+			<longitude>1153765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banc Reed -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>114598</latitude>
+			<longitude>1169098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banc Stag -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>84098</latitude>
+			<longitude>1129598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bittern Reef -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>92431</latitude>
+			<longitude>1136765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bombay Shoal -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>94431</latitude>
+			<longitude>1169265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boxall Reef -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>96098</latitude>
+			<longitude>1161931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brisants Ardassier -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>79431</latitude>
+			<longitude>1140598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brisants Gloucester -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>78765</latitude>
+			<longitude>1142598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dao Ben Lac -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>111100</latitude>
+			<longitude>1150100</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dao Loai Ta -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>106933</latitude>
+			<longitude>1144267</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dao Song Tu Tay -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>114433</latitude>
+			<longitude>1143433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dao Thi Tu -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>110600</latitude>
+			<longitude>1142933</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhaulle Shoal -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>95433</latitude>
+			<longitude>1124100</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dido Bank -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>168267</latitude>
+			<longitude>1128933</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fei-hsin Tao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>108435</latitude>
+			<longitude>1158435</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fu-po Chiao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>93935</latitude>
+			<longitude>1141935</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fulushi Jiao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>102602</latitude>
+			<longitude>1136269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Nam Yit -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>101938</latitude>
+			<longitude>1143772</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iroquois Reef -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>106605</latitude>
+			<longitude>1161772</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irving Reef -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>108938</latitude>
+			<longitude>1149438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jackson Atoll -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>105106</latitude>
+			<longitude>1157606</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johnson Reef -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>96773</latitude>
+			<longitude>1144606</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalayaan Islands -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>100107</latitude>
+			<longitude>1140107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Louisa Reef -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>63441</latitude>
+			<longitude>1132441</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nan-hsun-chiao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>102110</latitude>
+			<longitude>1142277</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nan-lo An-sha -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>84777</latitude>
+			<longitude>1155110</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nan-tzu Chiao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>114110</latitude>
+			<longitude>1142943</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nan-yueh T ao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>107777</latitude>
+			<longitude>1144610</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nansha -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>103943</latitude>
+			<longitude>1143610</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanshan Island -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>107610</latitude>
+			<longitude>1158277</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nares Bank -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>114277</latitude>
+			<longitude>1161277</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northeast Cay -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>114777</latitude>
+			<longitude>1143610</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northeast Shea -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>85277</latitude>
+			<longitude>1152610</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sand Cay -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>94115</latitude>
+			<longitude>1154615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seahorse Shoal -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>108115</latitude>
+			<longitude>1178115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shen-hsien Chiao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>110782</latitude>
+			<longitude>1174782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shuang-tzu Chiao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>114782</latitude>
+			<longitude>1143448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sin Cowe Island -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>98948</latitude>
+			<longitude>1143282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soubie Reef -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>109282</latitude>
+			<longitude>1141782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Southampton Reefs -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>102115</latitude>
+			<longitude>1153282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Southern Reefs -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>104282</latitude>
+			<longitude>1165448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Spratley -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>86448</latitude>
+			<longitude>1119282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stigant Reef -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>50115</latitude>
+			<longitude>1125115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sud-Ouest Shea -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>79948</latitude>
+			<longitude>1148782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viper Shoal -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>78451</latitude>
+			<longitude>1150118</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Sand -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>169786</latitude>
+			<longitude>1122119</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whitsun Reef -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>100119</latitude>
+			<longitude>1145952</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang-hsin An-sha -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>107288</latitude>
+			<longitude>1145288</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang-ming Chiao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>108121</latitude>
+			<longitude>1168621</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yung-shu Chiao -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>96454</latitude>
+			<longitude>1129621</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yung-teng An-sha -- (State: disputed)">
+			<state>disputed</state>
+			<latitude>115288</latitude>
+			<longitude>1146454</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

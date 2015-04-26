@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Vatican City">
+		<city name="Citta Vaticano">
+			<state></state>
+			<latitude>419099</latitude>
+			<longitude>124599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fosso Grande">
+			<state></state>
+			<latitude>424769</latitude>
+			<longitude>123602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

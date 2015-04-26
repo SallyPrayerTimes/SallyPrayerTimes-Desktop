@@ -1,0 +1,488 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="El Salvador">
+		<city name="Dos Cerros -- (State: San Salvador)">
+			<state>San Salvador</state>
+			<latitude>140100</latitude>
+			<longitude>-892400</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacascol -- (State: La Union)">
+			<state>La Union</state>
+			<latitude>138777</latitude>
+			<longitude>-879223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacaspilo -- (State: Cabanas)">
+			<state>Cabanas</state>
+			<latitude>138277</latitude>
+			<longitude>-885723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nahuaterique -- (State: Morazan)">
+			<state>Morazan</state>
+			<latitude>140610</latitude>
+			<longitude>-881390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nahuizalco -- (State: Sonsonate)">
+			<state>Sonsonate</state>
+			<latitude>137885</latitude>
+			<longitude>-897257</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nance Dulce -- (State: Santa Ana)">
+			<state>Santa Ana</state>
+			<latitude>141863</latitude>
+			<longitude>-894962</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nance Verde -- (State: Cuscatlan)">
+			<state>Cuscatlan</state>
+			<latitude>137110</latitude>
+			<longitude>-889223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nancistepeque -- (State: Santa Ana)">
+			<state>Santa Ana</state>
+			<latitude>140010</latitude>
+			<longitude>-894037</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Natividad -- (State: San Salvador)">
+			<state>San Salvador</state>
+			<latitude>140046</latitude>
+			<longitude>-892657</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Natividad -- (State: Santa Ana)">
+			<state>Santa Ana</state>
+			<latitude>140110</latitude>
+			<longitude>-894557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navarrete -- (State: Cabanas)">
+			<state>Cabanas</state>
+			<latitude>139610</latitude>
+			<longitude>-887890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nazaret -- (State: La Libertad)">
+			<state>La Libertad</state>
+			<latitude>136110</latitude>
+			<longitude>-892557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nejapa -- (State: San Salvador)">
+			<state>San Salvador</state>
+			<latitude>138257</latitude>
+			<longitude>-892204</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nejapa -- (State: Ahuachapan)">
+			<state>Ahuachapan</state>
+			<latitude>139085</latitude>
+			<longitude>-898665</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niqueresque -- (State: Cabanas)">
+			<state>Cabanas</state>
+			<latitude>138277</latitude>
+			<longitude>-885223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nispero -- (State: San Vicente)">
+			<state>San Vicente</state>
+			<latitude>134943</latitude>
+			<longitude>-887057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nombre de Jesus -- (State: Chalatenango)">
+			<state>Chalatenango</state>
+			<latitude>140110</latitude>
+			<longitude>-887223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nonualco -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>135110</latitude>
+			<longitude>-888723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Normandia -- (State: Usulutan)">
+			<state>Usulutan</state>
+			<latitude>133610</latitude>
+			<longitude>-886223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nueva -- (State: La Libertad)">
+			<state>La Libertad</state>
+			<latitude>137443</latitude>
+			<longitude>-893890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nueva Eden -- (State: Chalatenango)">
+			<state>Chalatenango</state>
+			<latitude>140943</latitude>
+			<longitude>-892890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nueva Esparta -- (State: La Union)">
+			<state>La Union</state>
+			<latitude>137946</latitude>
+			<longitude>-878276</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuevo Tepetitan -- (State: San Vicente)">
+			<state>San Vicente</state>
+			<latitude>136610</latitude>
+			<longitude>-888223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obraje Nuevo -- (State: La Libertad)">
+			<state>La Libertad</state>
+			<latitude>139589</latitude>
+			<longitude>-892981</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ochupse Abajo -- (State: Santa Ana)">
+			<state>Santa Ana</state>
+			<latitude>139328</latitude>
+			<longitude>-895742</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ochupse Arriba -- (State: Santa Ana)">
+			<state>Santa Ana</state>
+			<latitude>139111</latitude>
+			<longitude>-895722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocotillo -- (State: Morazan)">
+			<state>Morazan</state>
+			<latitude>137611</latitude>
+			<longitude>-880556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojeo -- (State: San Miguel)">
+			<state>San Miguel</state>
+			<latitude>137778</latitude>
+			<longitude>-884722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojo de Agua de Leon -- (State: Usulutan)">
+			<state>Usulutan</state>
+			<latitude>132311</latitude>
+			<longitude>-881817</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojushte -- (State: Usulutan)">
+			<state>Usulutan</state>
+			<latitude>136278</latitude>
+			<longitude>-884722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olosingo -- (State: Chalatenango)">
+			<state>Chalatenango</state>
+			<latitude>140778</latitude>
+			<longitude>-889389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osicala -- (State: Morazan)">
+			<state>Morazan</state>
+			<latitude>138111</latitude>
+			<longitude>-881389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ostucal -- (State: San Miguel)">
+			<state>San Miguel</state>
+			<latitude>138111</latitude>
+			<longitude>-883222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ozatlan -- (State: Usulutan)">
+			<state>Usulutan</state>
+			<latitude>133944</latitude>
+			<longitude>-884889</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salvador">
+			<state></state>
+			<latitude>138448</latitude>
+			<longitude>-889052</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Miguel -- (State: San Salvador)">
+			<state>San Salvador</state>
+			<latitude>137448</latitude>
+			<longitude>-892052</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Miguel -- (State: Santa Ana)">
+			<state>Santa Ana</state>
+			<latitude>141615</latitude>
+			<longitude>-895552</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Miguel Longaniza -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>134782</latitude>
+			<longitude>-889218</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Miguel Tobias -- (State: Chalatenango)">
+			<state>Chalatenango</state>
+			<latitude>141282</latitude>
+			<longitude>-890052</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Miguelito -- (State: Ahuachapan)">
+			<state>Ahuachapan</state>
+			<latitude>138282</latitude>
+			<longitude>-899385</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Miguelito -- (State: Santa Ana)">
+			<state>Santa Ana</state>
+			<latitude>139973</latitude>
+			<longitude>-894368</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Salvador -- (State: La Libertad)">
+			<state>La Libertad</state>
+			<latitude>137559</latitude>
+			<longitude>-892449</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Salvador">
+			<state></state>
+			<latitude>137201</latitude>
+			<longitude>-891916</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Ana -- (State: Chalatenango)">
+			<state>Chalatenango</state>
+			<latitude>140448</latitude>
+			<longitude>-887885</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Ana -- (State: San Miguel)">
+			<state>San Miguel</state>
+			<latitude>132707</latitude>
+			<longitude>-881643</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Ana">
+			<state></state>
+			<latitude>140057</latitude>
+			<longitude>-895482</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulapa -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>135284</latitude>
+			<longitude>-888716</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umana -- (State: Usulutan)">
+			<state>Usulutan</state>
+			<latitude>136284</latitude>
+			<longitude>-885383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upatoro -- (State: Chalatenango)">
+			<state>Chalatenango</state>
+			<latitude>140617</latitude>
+			<longitude>-889383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upire -- (State: La Union)">
+			<state>La Union</state>
+			<latitude>138950</latitude>
+			<longitude>-878550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usulutan">
+			<state></state>
+			<latitude>133617</latitude>
+			<longitude>-884383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xilobasco -- (State: Cabanas)">
+			<state>Cabanas</state>
+			<latitude>138620</latitude>
+			<longitude>-888380</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaguatique -- (State: San Miguel)">
+			<state>San Miguel</state>
+			<latitude>134038</latitude>
+			<longitude>-881462</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamabal -- (State: Morazan)">
+			<state>Morazan</state>
+			<latitude>136788</latitude>
+			<longitude>-881546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yancolo -- (State: Morazan)">
+			<state>Morazan</state>
+			<latitude>138121</latitude>
+			<longitude>-880879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yologual -- (State: La Union)">
+			<state>La Union</state>
+			<latitude>133121</latitude>
+			<longitude>-878212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yomo -- (State: Usulutan)">
+			<state>Usulutan</state>
+			<latitude>135288</latitude>
+			<longitude>-884712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yucuaiquin -- (State: La Union)">
+			<state>La Union</state>
+			<latitude>135621</latitude>
+			<longitude>-879879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yurique -- (State: Chalatenango)">
+			<state>Chalatenango</state>
+			<latitude>141121</latitude>
+			<longitude>-888212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yzalco -- (State: Sonsonate)">
+			<state>Sonsonate</state>
+			<latitude>137568</latitude>
+			<longitude>-896610</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabanetas -- (State: Santa Ana)">
+			<state>Santa Ana</state>
+			<latitude>141622</latitude>
+			<longitude>-896878</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zacamil -- (State: La Libertad)">
+			<state>La Libertad</state>
+			<latitude>137100</latitude>
+			<longitude>-894761</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zacatal -- (State: Santa Ana)">
+			<state>Santa Ana</state>
+			<latitude>138955</latitude>
+			<longitude>-894711</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zambombera -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>134622</latitude>
+			<longitude>-890878</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zambullido -- (State: La Union)">
+			<state>La Union</state>
+			<latitude>132153</latitude>
+			<longitude>-876897</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanjon El Rosario -- (State: Ahuachapan)">
+			<state>Ahuachapan</state>
+			<latitude>137016</latitude>
+			<longitude>-899772</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanjon El Salado -- (State: Ahuachapan)">
+			<state>Ahuachapan</state>
+			<latitude>137525</latitude>
+			<longitude>-900614</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapua -- (State: Ahuachapan)">
+			<state>Ahuachapan</state>
+			<latitude>138186</latitude>
+			<longitude>-898492</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zunca -- (State: Ahuachapan)">
+			<state>Ahuachapan</state>
+			<latitude>140122</latitude>
+			<longitude>-897545</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,1167 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Singapore">
+		<city name="Abingdon Prison">
+			<state></state>
+			<latitude>13775</latitude>
+			<longitude>1039903</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ah Soo Garden">
+			<state></state>
+			<latitude>13600</latitude>
+			<longitude>1039100</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aik Hong and Aik Chiang Estate">
+			<state></state>
+			<latitude>13961</latitude>
+			<longitude>1037844</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ajax Shoal">
+			<state></state>
+			<latitude>12411</latitude>
+			<longitude>1036769</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alexandra Hospital">
+			<state></state>
+			<latitude>12964</latitude>
+			<longitude>1038111</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aljunied">
+			<state></state>
+			<latitude>13444</latitude>
+			<longitude>1038947</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aljunied Park">
+			<state></state>
+			<latitude>13400</latitude>
+			<longitude>1038975</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alligator-eiland">
+			<state></state>
+			<latitude>11961</latitude>
+			<longitude>1037350</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ama Keng">
+			<state></state>
+			<latitude>14141</latitude>
+			<longitude>1037164</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ang Mo Kio">
+			<state></state>
+			<latitude>13789</latitude>
+			<longitude>1038594</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ang Mo Kio II">
+			<state></state>
+			<latitude>13661</latitude>
+			<longitude>1038408</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ang Mo Kio III">
+			<state></state>
+			<latitude>13569</latitude>
+			<longitude>1038597</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ang Mo Kio Industrial Park">
+			<state></state>
+			<latitude>13986</latitude>
+			<longitude>1038566</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ang Mo Kio New Town">
+			<state></state>
+			<latitude>13900</latitude>
+			<longitude>1038494</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ang Mo Kio Park">
+			<state></state>
+			<latitude>13700</latitude>
+			<longitude>1038586</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ang Mo Kio VI">
+			<state></state>
+			<latitude>13675</latitude>
+			<longitude>1038558</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anson">
+			<state></state>
+			<latitude>12803</latitude>
+			<longitude>1038591</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ardmore Flats">
+			<state></state>
+			<latitude>13191</latitude>
+			<longitude>1038397</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bedok">
+			<state></state>
+			<latitude>13265</latitude>
+			<longitude>1039431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bedok New Town">
+			<state></state>
+			<latitude>13362</latitude>
+			<longitude>1039515</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bedok Reservoir">
+			<state></state>
+			<latitude>13526</latitude>
+			<longitude>1039451</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bedok Town Park">
+			<state></state>
+			<latitude>13467</latitude>
+			<longitude>1039481</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bishan New Town">
+			<state></state>
+			<latitude>13562</latitude>
+			<longitude>1038629</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bishan Park">
+			<state></state>
+			<latitude>13751</latitude>
+			<longitude>1038456</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boon Lay">
+			<state></state>
+			<latitude>13431</latitude>
+			<longitude>1037098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukit Batok">
+			<state></state>
+			<latitude>13709</latitude>
+			<longitude>1037662</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukit Chermin">
+			<state></state>
+			<latitude>12756</latitude>
+			<longitude>1038190</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukit Gombak">
+			<state></state>
+			<latitude>13740</latitude>
+			<longitude>1037670</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukit Merah">
+			<state></state>
+			<latitude>12956</latitude>
+			<longitude>1038292</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukit Panjang">
+			<state></state>
+			<latitude>14026</latitude>
+			<longitude>1038023</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukit Panjang Estate">
+			<state></state>
+			<latitude>13915</latitude>
+			<longitude>1037623</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukit Timah">
+			<state></state>
+			<latitude>13598</latitude>
+			<longitude>1037931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chai Chee Estate">
+			<state></state>
+			<latitude>13366</latitude>
+			<longitude>1039432</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changi">
+			<state></state>
+			<latitude>14027</latitude>
+			<longitude>1040002</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changi Beach">
+			<state></state>
+			<latitude>13982</latitude>
+			<longitude>1040113</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changi Village">
+			<state></state>
+			<latitude>13943</latitude>
+			<longitude>1039930</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Choa Chu Kang">
+			<state></state>
+			<latitude>14207</latitude>
+			<longitude>1037213</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Choa Chu Kang New Town">
+			<state></state>
+			<latitude>13924</latitude>
+			<longitude>1037596</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chua Chu Kang">
+			<state></state>
+			<latitude>14377</latitude>
+			<longitude>1037080</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="City">
+			<state></state>
+			<latitude>12957</latitude>
+			<longitude>1038421</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clementi">
+			<state></state>
+			<latitude>13246</latitude>
+			<longitude>1037788</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clementi Park">
+			<state></state>
+			<latitude>13374</latitude>
+			<longitude>1037780</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Defu Industrial Estate">
+			<state></state>
+			<latitude>13681</latitude>
+			<longitude>1039153</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dunearn Estate">
+			<state></state>
+			<latitude>13353</latitude>
+			<longitude>1038331</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Coast Park">
+			<state></state>
+			<latitude>13243</latitude>
+			<longitude>1039443</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eunos">
+			<state></state>
+			<latitude>13370</latitude>
+			<longitude>1039259</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farrer Park">
+			<state></state>
+			<latitude>13216</latitude>
+			<longitude>1038630</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="First Bukom">
+			<state></state>
+			<latitude>12474</latitude>
+			<longitude>1037824</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geylang">
+			<state></state>
+			<latitude>13378</latitude>
+			<longitude>1039422</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geylang Serai">
+			<state></state>
+			<latitude>13353</latitude>
+			<longitude>1039053</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geylang Serai Village">
+			<state></state>
+			<latitude>13303</latitude>
+			<longitude>1039203</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geylang West">
+			<state></state>
+			<latitude>13253</latitude>
+			<longitude>1038881</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Havelock Delta Estate">
+			<state></state>
+			<latitude>13015</latitude>
+			<longitude>1038398</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haw Par Villa">
+			<state></state>
+			<latitude>12957</latitude>
+			<longitude>1037932</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heap Guan">
+			<state></state>
+			<latitude>12771</latitude>
+			<longitude>1038104</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Henderson">
+			<state></state>
+			<latitude>12926</latitude>
+			<longitude>1038360</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Henderson Shoal">
+			<state></state>
+			<latitude>14323</latitude>
+			<longitude>1039982</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ho Tong Jen Estate">
+			<state></state>
+			<latitude>13437</latitude>
+			<longitude>1039604</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoe San Estate">
+			<state></state>
+			<latitude>13937</latitude>
+			<longitude>1036937</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hong Leong Garden">
+			<state></state>
+			<latitude>13298</latitude>
+			<longitude>1037651</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hong Lim Park">
+			<state></state>
+			<latitude>12957</latitude>
+			<longitude>1038557</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horsburgh">
+			<state></state>
+			<latitude>13407</latitude>
+			<longitude>1044179</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horseshoe Reef">
+			<state></state>
+			<latitude>14526</latitude>
+			<longitude>1037057</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hougang">
+			<state></state>
+			<latitude>13596</latitude>
+			<longitude>1039032</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hougang New Town">
+			<state></state>
+			<latitude>13671</latitude>
+			<longitude>1039012</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hume Heights">
+			<state></state>
+			<latitude>13654</latitude>
+			<longitude>1037754</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hun Yeang">
+			<state></state>
+			<latitude>13790</latitude>
+			<longitude>1039423</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Istana Negara">
+			<state></state>
+			<latitude>13183</latitude>
+			<longitude>1038536</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalan Besar">
+			<state></state>
+			<latitude>13200</latitude>
+			<longitude>1038750</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalan Kayu">
+			<state></state>
+			<latitude>14123</latitude>
+			<longitude>1039006</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joo Chiat">
+			<state></state>
+			<latitude>13173</latitude>
+			<longitude>1039217</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong">
+			<state></state>
+			<latitude>13309</latitude>
+			<longitude>1037042</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Basin">
+			<state></state>
+			<latitude>13162</latitude>
+			<longitude>1037400</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Bird Park">
+			<state></state>
+			<latitude>13298</latitude>
+			<longitude>1037167</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong East">
+			<state></state>
+			<latitude>13520</latitude>
+			<longitude>1037498</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Golf Course">
+			<state></state>
+			<latitude>13464</latitude>
+			<longitude>1037417</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Hill">
+			<state></state>
+			<latitude>13281</latitude>
+			<longitude>1037181</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Hill Park">
+			<state></state>
+			<latitude>13292</latitude>
+			<longitude>1037170</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Hospital">
+			<state></state>
+			<latitude>13414</latitude>
+			<longitude>1037350</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Industrial Estate">
+			<state></state>
+			<latitude>13281</latitude>
+			<longitude>1037003</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Lake">
+			<state></state>
+			<latitude>13525</latitude>
+			<longitude>1037370</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Park">
+			<state></state>
+			<latitude>13375</latitude>
+			<longitude>1037389</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Power Station">
+			<state></state>
+			<latitude>13220</latitude>
+			<longitude>1037225</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Shipyard">
+			<state></state>
+			<latitude>13109</latitude>
+			<longitude>1037078</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Town Hall">
+			<state></state>
+			<latitude>13389</latitude>
+			<longitude>1037525</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong West">
+			<state></state>
+			<latitude>13609</latitude>
+			<longitude>1037334</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurong Wharf">
+			<state></state>
+			<latitude>13150</latitude>
+			<longitude>1037306</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kallang">
+			<state></state>
+			<latitude>13310</latitude>
+			<longitude>1038751</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labrador Nature Reserve">
+			<state></state>
+			<latitude>12766</latitude>
+			<longitude>1038127</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lokyang">
+			<state></state>
+			<latitude>13408</latitude>
+			<longitude>1036922</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="MacPherson">
+			<state></state>
+			<latitude>13378</latitude>
+			<longitude>1039128</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marine Parade">
+			<state></state>
+			<latitude>13140</latitude>
+			<longitude>1039348</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marine Parade Estate">
+			<state></state>
+			<latitude>13151</latitude>
+			<longitude>1039356</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marsiling">
+			<state></state>
+			<latitude>14520</latitude>
+			<longitude>1037817</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marsiling Estate">
+			<state></state>
+			<latitude>14406</latitude>
+			<longitude>1037784</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mayflower Estate">
+			<state></state>
+			<latitude>13828</latitude>
+			<longitude>1038503</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanyang University">
+			<state></state>
+			<latitude>13560</latitude>
+			<longitude>1036927</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="National University of Singapore">
+			<state></state>
+			<latitude>13071</latitude>
+			<longitude>1037907</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nee Soon">
+			<state></state>
+			<latitude>14307</latitude>
+			<longitude>1038482</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nenas Channel">
+			<state></state>
+			<latitude>14354</latitude>
+			<longitude>1039896</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Pier">
+			<state></state>
+			<latitude>12918</latitude>
+			<longitude>1038641</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nus">
+			<state></state>
+			<latitude>13096</latitude>
+			<longitude>1037827</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oei Tiong Ham Park">
+			<state></state>
+			<latitude>13264</latitude>
+			<longitude>1038050</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Kallang Airport Estate">
+			<state></state>
+			<latitude>13200</latitude>
+			<longitude>1039125</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ong Lee">
+			<state></state>
+			<latitude>13611</latitude>
+			<longitude>1037611</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orchard">
+			<state></state>
+			<latitude>13155</latitude>
+			<longitude>1038434</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orchid Golf Course">
+			<state></state>
+			<latitude>14189</latitude>
+			<longitude>1038355</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ordnance Reach">
+			<state></state>
+			<latitude>14725</latitude>
+			<longitude>1037939</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outer Roads">
+			<state></state>
+			<latitude>12944</latitude>
+			<longitude>1038778</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outer Rock">
+			<state></state>
+			<latitude>13942</latitude>
+			<longitude>1040436</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outram Park">
+			<state></state>
+			<latitude>12936</latitude>
+			<longitude>1038492</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasir Panjang Wharf">
+			<state></state>
+			<latitude>12859</latitude>
+			<longitude>1037968</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasir Ris">
+			<state></state>
+			<latitude>13834</latitude>
+			<longitude>1039590</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasir Ris Beach Park">
+			<state></state>
+			<latitude>13948</latitude>
+			<longitude>1039565</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punggol">
+			<state></state>
+			<latitude>14040</latitude>
+			<longitude>1039112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queen Astrid Park">
+			<state></state>
+			<latitude>13302</latitude>
+			<longitude>1038021</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queen s Dock">
+			<state></state>
+			<latitude>12777</latitude>
+			<longitude>1038244</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queenstown">
+			<state></state>
+			<latitude>13107</latitude>
+			<longitude>1038171</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queenway">
+			<state></state>
+			<latitude>13052</latitude>
+			<longitude>1038105</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quemoy Park">
+			<state></state>
+			<latitude>13555</latitude>
+			<longitude>1039085</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Valley">
+			<state></state>
+			<latitude>13092</latitude>
+			<longitude>1038442</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rochor Canal">
+			<state></state>
+			<latitude>13170</latitude>
+			<longitude>1038789</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saga">
+			<state></state>
+			<latitude>12782</latitude>
+			<longitude>1038448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sea View Estate">
+			<state></state>
+			<latitude>13115</latitude>
+			<longitude>1039204</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sembawang">
+			<state></state>
+			<latitude>14371</latitude>
+			<longitude>1038276</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sembawang Terminal">
+			<state></state>
+			<latitude>14754</latitude>
+			<longitude>1038490</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serangoon">
+			<state></state>
+			<latitude>14073</latitude>
+			<longitude>1038554</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serangoon Garden">
+			<state></state>
+			<latitude>13726</latitude>
+			<longitude>1038712</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serangoon Garden Estate">
+			<state></state>
+			<latitude>13754</latitude>
+			<longitude>1038690</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serangoon Harbour">
+			<state></state>
+			<latitude>14093</latitude>
+			<longitude>1039523</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serangoon Park">
+			<state></state>
+			<latitude>13621</latitude>
+			<longitude>1038784</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serangoon Sewage">
+			<state></state>
+			<latitude>13996</latitude>
+			<longitude>1039376</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siglap">
+			<state></state>
+			<latitude>13257</latitude>
+			<longitude>1039479</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Simei">
+			<state></state>
+			<latitude>13590</latitude>
+			<longitude>1039754</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Simei Estate">
+			<state></state>
+			<latitude>13526</latitude>
+			<longitude>1039676</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore">
+			<state></state>
+			<latitude>13046</latitude>
+			<longitude>1038673</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Airport">
+			<state></state>
+			<latitude>13723</latitude>
+			<longitude>1039209</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Aviation Academy">
+			<state></state>
+			<latitude>14004</latitude>
+			<longitude>1040021</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Changi">
+			<state></state>
+			<latitude>13732</latitude>
+			<longitude>1040029</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore General Hospital">
+			<state></state>
+			<latitude>12921</latitude>
+			<longitude>1038482</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Highway Strip Bedok">
+			<state></state>
+			<latitude>13276</latitude>
+			<longitude>1039665</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Highway Strip Pioneer">
+			<state></state>
+			<latitude>13340</latitude>
+			<longitude>1036604</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Island">
+			<state></state>
+			<latitude>13782</latitude>
+			<longitude>1038115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Railway Station">
+			<state></state>
+			<latitude>12846</latitude>
+			<longitude>1038479</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore River">
+			<state></state>
+			<latitude>12982</latitude>
+			<longitude>1038640</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Road">
+			<state></state>
+			<latitude>12948</latitude>
+			<longitude>1038615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Science Centre">
+			<state></state>
+			<latitude>13443</latitude>
+			<longitude>1037473</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore Tuas West Highway">
+			<state></state>
+			<latitude>13434</latitude>
+			<longitude>1036523</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singapore United Plantation">
+			<state></state>
+			<latitude>13907</latitude>
+			<longitude>1038693</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tampines">
+			<state></state>
+			<latitude>13863</latitude>
+			<longitude>1039569</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tampines Estate">
+			<state></state>
+			<latitude>13697</latitude>
+			<longitude>1039519</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tampines New Town">
+			<state></state>
+			<latitude>13608</latitude>
+			<longitude>1039613</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Telok Blangah">
+			<state></state>
+			<latitude>12597</latitude>
+			<longitude>1038491</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toa Payoh">
+			<state></state>
+			<latitude>13477</latitude>
+			<longitude>1038619</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tropical Garden">
+			<state></state>
+			<latitude>13422</latitude>
+			<longitude>1037424</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulu Bedok">
+			<state></state>
+			<latitude>13595</latitude>
+			<longitude>1039681</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Serangoon">
+			<state></state>
+			<latitude>13695</latitude>
+			<longitude>1038950</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whampoa">
+			<state></state>
+			<latitude>13358</latitude>
+			<longitude>1038705</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodlands">
+			<state></state>
+			<latitude>14561</latitude>
+			<longitude>1037852</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodlands Garden">
+			<state></state>
+			<latitude>14505</latitude>
+			<longitude>1037819</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodlands New Town">
+			<state></state>
+			<latitude>14563</latitude>
+			<longitude>1037886</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xilin Estate">
+			<state></state>
+			<latitude>13442</latitude>
+			<longitude>1039778</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yew Tee">
+			<state></state>
+			<latitude>14065</latitude>
+			<longitude>1037660</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yio Chu Kang">
+			<state></state>
+			<latitude>14032</latitude>
+			<longitude>1038635</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yishun">
+			<state></state>
+			<latitude>14435</latitude>
+			<longitude>1038413</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yishun New Town">
+			<state></state>
+			<latitude>14454</latitude>
+			<longitude>1038432</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

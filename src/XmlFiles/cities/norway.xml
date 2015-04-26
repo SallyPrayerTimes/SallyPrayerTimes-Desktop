@@ -1,0 +1,1979 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Norway">
+		<city name="7 Sostre -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>621388</latitude>
+			<longitude>71388</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aalesund -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>624764</latitude>
+			<longitude>61597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aamot-Modum -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>599097</latitude>
+			<longitude>99097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Akershus Fylke -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>600097</latitude>
+			<longitude>111764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alesund -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>614764</latitude>
+			<longitude>54764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Algard -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>587764</latitude>
+			<longitude>58597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alta -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>699764</latitude>
+			<longitude>232514</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alta -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>700264</latitude>
+			<longitude>220097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andenes -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>693300</latitude>
+			<longitude>161525</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andenes -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>618264</latitude>
+			<longitude>61430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ardal -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>615597</latitude>
+			<longitude>63597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arendal -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>592930</latitude>
+			<longitude>102597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arendal -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>584700</latitude>
+			<longitude>87764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="As -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>596764</latitude>
+			<longitude>108097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Asker -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>598430</latitude>
+			<longitude>104430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Askeroy -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>586286</latitude>
+			<longitude>91130</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Askim -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>595930</latitude>
+			<longitude>111764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Askim -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>604097</latitude>
+			<longitude>104597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Askoy -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>604097</latitude>
+			<longitude>51930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aukra -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>627930</latitude>
+			<longitude>69097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aurdal -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>601930</latitude>
+			<longitude>103764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baatsfjord -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>707026</latitude>
+			<longitude>230473</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baerums Verk -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>599598</latitude>
+			<longitude>105098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballangen -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>683537</latitude>
+			<longitude>168901</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballstad -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>680765</latitude>
+			<longitude>135598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballstad -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>628326</latitude>
+			<longitude>82570</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballstad -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>632765</latitude>
+			<longitude>110098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Batnfjordsora -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>628931</latitude>
+			<longitude>77098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Batsfjord -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>706701</latitude>
+			<longitude>298220</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Begen -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>688098</latitude>
+			<longitude>153765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergan">
+			<state></state>
+			<latitude>614598</latitude>
+			<longitude>125765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergen -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>603431</latitude>
+			<longitude>53431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergendal -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>586587</latitude>
+			<longitude>91142</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergenes -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>695673</latitude>
+			<longitude>196873</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergeneset -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>688012</latitude>
+			<longitude>160020</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergenhus -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>604098</latitude>
+			<longitude>53265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergensdalen -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>605598</latitude>
+			<longitude>60265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergenshalvoya -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>603431</latitude>
+			<longitude>54265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Birkeland -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>583431</latitude>
+			<longitude>82431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bjerke -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>621098</latitude>
+			<longitude>65765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bjorkelangen -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>598931</latitude>
+			<longitude>115765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bo i Telemark -- (State: Telemark)">
+			<state>Telemark</state>
+			<latitude>594265</latitude>
+			<longitude>90765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bo i Vesteralen -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>686265</latitude>
+			<longitude>145598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bodo -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>672931</latitude>
+			<longitude>143931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bomlo -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>596190</latitude>
+			<longitude>52248</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borkenes -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>687931</latitude>
+			<longitude>161931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brandbu -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>604431</latitude>
+			<longitude>104765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brattvag -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>626098</latitude>
+			<longitude>64598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brekstad -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>636931</latitude>
+			<longitude>96931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bremnes -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>598051</latitude>
+			<longitude>51851</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bronnoysund -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>654765</latitude>
+			<longitude>122265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brumunddal -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>608931</latitude>
+			<longitude>109431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bryne -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>587431</latitude>
+			<longitude>56765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bygland -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>588598</latitude>
+			<longitude>78598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Byglandsfjord -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>586931</latitude>
+			<longitude>78098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drageset -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>618433</latitude>
+			<longitude>66433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drammen -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>597525</latitude>
+			<longitude>102217</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drammenselva">
+			<state></state>
+			<latitude>597458</latitude>
+			<longitude>102492</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drammensfjorden">
+			<state></state>
+			<latitude>596422</latitude>
+			<longitude>104303</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drangedal -- (State: Telemark)">
+			<state>Telemark</state>
+			<latitude>591100</latitude>
+			<longitude>90767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drevsjo -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>615933</latitude>
+			<longitude>123600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drobak -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>596733</latitude>
+			<longitude>106411</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egersund -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>584601</latitude>
+			<longitude>60101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eid -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>619268</latitude>
+			<longitude>59934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elverum -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>608934</latitude>
+			<longitude>115768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Evje -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>593768</latitude>
+			<longitude>106934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Evje og Hornnes Herad -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>585934</latitude>
+			<longitude>77601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fagernes -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>609935</latitude>
+			<longitude>92602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farsund -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>580935</latitude>
+			<longitude>68102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fauske -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>672602</latitude>
+			<longitude>154102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fauske -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>614602</latitude>
+			<longitude>56769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Finnsnes -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>692435</latitude>
+			<longitude>179935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flekke -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>613269</latitude>
+			<longitude>53769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flekkefjord -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>582602</latitude>
+			<longitude>66602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flora -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>615769</latitude>
+			<longitude>51435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Floro -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>616102</latitude>
+			<longitude>50102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fosnavag -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>623602</latitude>
+			<longitude>56602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fredrikkested -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>634102</latitude>
+			<longitude>105269</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fredrikstad -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>592269</latitude>
+			<longitude>109602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fyresdal -- (State: Telemark)">
+			<state>Telemark</state>
+			<latitude>591935</latitude>
+			<longitude>81102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geiranger -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>621103</latitude>
+			<longitude>72103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gjovik -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>608103</latitude>
+			<longitude>107103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gol -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>607103</latitude>
+			<longitude>89603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gravdal -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>614770</latitude>
+			<longitude>58103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gravdal -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>681317</latitude>
+			<longitude>135134</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Greaker -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>592770</latitude>
+			<longitude>110436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grimstad -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>583509</latitude>
+			<longitude>85989</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grong -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>644603</latitude>
+			<longitude>123436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gvarv -- (State: Telemark)">
+			<state>Telemark</state>
+			<latitude>593936</latitude>
+			<longitude>91603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halden -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>591604</latitude>
+			<longitude>113937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamar -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>608104</latitude>
+			<longitude>111104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamar -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>646271</latitude>
+			<longitude>123104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hammerfest -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>706721</latitude>
+			<longitude>236987</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haneborg -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>599271</latitude>
+			<longitude>115937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hareid -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>623771</latitude>
+			<longitude>60437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harstad -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>688129</latitude>
+			<longitude>165560</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harstad -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>629104</latitude>
+			<longitude>76937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harstad -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>601604</latitude>
+			<longitude>110271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harstad -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>628937</latitude>
+			<longitude>98437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haugalandet -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>594271</latitude>
+			<longitude>53437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haugesund -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>594223</latitude>
+			<longitude>52879</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hemnesberget -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>662437</latitude>
+			<longitude>136437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hierggejavrre -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>676937</latitude>
+			<longitude>164104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hjelmeland Herad -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>593104</latitude>
+			<longitude>65104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hjelset -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>627937</latitude>
+			<longitude>74937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holmestrand -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>594987</latitude>
+			<longitude>103132</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hommelvik -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>634271</latitude>
+			<longitude>108104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Honefoss -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>601771</latitude>
+			<longitude>103104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Honningsvag -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>709937</latitude>
+			<longitude>259937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horten -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>594240</latitude>
+			<longitude>104773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hovden -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>595437</latitude>
+			<longitude>73604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hurum -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>596248</latitude>
+			<longitude>104698</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Husnes -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>598776</latitude>
+			<longitude>57690</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jessheim -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>601606</latitude>
+			<longitude>111939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jorpeland -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>590273</latitude>
+			<longitude>60606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karmoy -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>592607</latitude>
+			<longitude>52607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kautokeino -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>689940</latitude>
+			<longitude>231440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirkenes -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>697357</latitude>
+			<longitude>300624</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klepp -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>587774</latitude>
+			<longitude>56774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kolbotn -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>598221</latitude>
+			<longitude>108090</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kolbotn -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>650107</latitude>
+			<longitude>122107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kolgrov -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>611607</latitude>
+			<longitude>52940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kongsberg -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>596607</latitude>
+			<longitude>96607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kongsberg -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>691440</latitude>
+			<longitude>190774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kongsvinger -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>602107</latitude>
+			<longitude>120107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kongsvinger">
+			<state></state>
+			<latitude>602607</latitude>
+			<longitude>122607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konnerud -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>597274</latitude>
+			<longitude>101607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kopervik -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>592940</latitude>
+			<longitude>53107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koppang -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>615774</latitude>
+			<longitude>110774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krakhaug -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>631107</latitude>
+			<longitude>89607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kristiansand -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>581774</latitude>
+			<longitude>80107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kristianslund -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>609107</latitude>
+			<longitude>94440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kristiansund Nord -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>631274</latitude>
+			<longitude>77607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krokstadelva -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>597607</latitude>
+			<longitude>100274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kyrksaeterora -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>632940</latitude>
+			<longitude>91107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lakselv -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>700608</latitude>
+			<longitude>249441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langevag -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>624608</latitude>
+			<longitude>62108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langhus -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>584941</latitude>
+			<longitude>63275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Larvik -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>590775</latitude>
+			<longitude>100108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leknes -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>605775</latitude>
+			<longitude>53941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leknes -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>651108</latitude>
+			<longitude>117108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leknes -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>603441</latitude>
+			<longitude>96441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leknes -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>622275</latitude>
+			<longitude>65441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leknes -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>614775</latitude>
+			<longitude>54275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leland -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>660775</latitude>
+			<longitude>129608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Levanger -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>636441</latitude>
+			<longitude>112441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Levanger Herad -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>636775</latitude>
+			<longitude>112608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lier -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>597941</latitude>
+			<longitude>102441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lillehammer -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>611441</latitude>
+			<longitude>105108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lillesand -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>582630</latitude>
+			<longitude>83891</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lillestrom -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>599608</latitude>
+			<longitude>110941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lisleby -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>592441</latitude>
+			<longitude>109941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lodingen -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>684180</latitude>
+			<longitude>160027</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Loen -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>618775</latitude>
+			<longitude>68775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lorenskog -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>599441</latitude>
+			<longitude>109941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyngdal -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>581441</latitude>
+			<longitude>70941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyngdal -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>702430</latitude>
+			<longitude>220644</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maaloey -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>619492</latitude>
+			<longitude>51242</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mandal -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>587776</latitude>
+			<longitude>63609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mandal -- (State: Telemark)">
+			<state>Telemark</state>
+			<latitude>595942</latitude>
+			<longitude>84442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mandal -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>580442</latitude>
+			<longitude>74609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Melbu -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>685153</latitude>
+			<longitude>148406</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mo -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>630109</latitude>
+			<longitude>90109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mo i Rana -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>663276</latitude>
+			<longitude>141776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moelv -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>609442</latitude>
+			<longitude>106942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moi -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>583776</latitude>
+			<longitude>86609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moi -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>586609</latitude>
+			<longitude>59442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moi -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>582609</latitude>
+			<longitude>71942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Molde -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>627776</latitude>
+			<longitude>75109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Molde -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>609442</latitude>
+			<longitude>51609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mosjoen -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>658442</latitude>
+			<longitude>132109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moss -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>594476</latitude>
+			<longitude>106801</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Myre -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>689109</latitude>
+			<longitude>150942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mysen -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>595609</latitude>
+			<longitude>113442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naerbo -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>586777</latitude>
+			<longitude>56610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naervik -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>614610</latitude>
+			<longitude>52610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Namsos -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>644943</latitude>
+			<longitude>115110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Namsskogan -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>649277</latitude>
+			<longitude>131777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narvik -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>684466</latitude>
+			<longitude>174482</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narvik Bay -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>684277</latitude>
+			<longitude>174277</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nesan -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>648777</latitude>
+			<longitude>128943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nesna -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>662110</latitude>
+			<longitude>130443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nordfjordeid -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>619110</latitude>
+			<longitude>60110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Notodden -- (State: Telemark)">
+			<state>Telemark</state>
+			<latitude>595777</latitude>
+			<longitude>92943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odda -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>600778</latitude>
+			<longitude>65611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orkanger -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>633278</latitude>
+			<longitude>98778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orsta -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>622111</latitude>
+			<longitude>61611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Os -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>675444</latitude>
+			<longitude>148444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Os i Osterdalen -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>625111</latitude>
+			<longitude>112111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oslo">
+			<state></state>
+			<latitude>599278</latitude>
+			<longitude>107611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oslo Fylke -- (State: Oslo)">
+			<state>Oslo</state>
+			<latitude>599111</latitude>
+			<longitude>107278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oslo-Havn -- (State: Oslo)">
+			<state>Oslo</state>
+			<latitude>599111</latitude>
+			<longitude>107778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oslofjord">
+			<state></state>
+			<latitude>593575</latitude>
+			<longitude>106008</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otta -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>617778</latitude>
+			<longitude>95278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ottestad -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>607444</latitude>
+			<longitude>111611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ovre Ardal -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>613278</latitude>
+			<longitude>78111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porsgrunn -- (State: Telemark)">
+			<state>Telemark</state>
+			<latitude>591612</latitude>
+			<longitude>96779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvandal -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>604946</latitude>
+			<longitude>66113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rakkestad -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>594447</latitude>
+			<longitude>113614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rana -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>664281</latitude>
+			<longitude>145947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Randaberg -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>590114</latitude>
+			<longitude>56114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ringerike -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>601281</latitude>
+			<longitude>102781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Risor -- (State: Aust-Agder)">
+			<state>Aust-Agder</state>
+			<latitude>587281</latitude>
+			<longitude>92447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rjukan -- (State: Telemark)">
+			<state>Telemark</state>
+			<latitude>598947</latitude>
+			<longitude>86114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rognan -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>671114</latitude>
+			<longitude>153947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roros -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>625947</latitude>
+			<longitude>114114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rorvik -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>648614</latitude>
+			<longitude>112447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rykkem -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>628881</latitude>
+			<longitude>84947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sande Fjord -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>590448</latitude>
+			<longitude>102782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandefjord -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>591448</latitude>
+			<longitude>102448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandnes -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>661948</latitude>
+			<longitude>130615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandnes -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>588615</latitude>
+			<longitude>57448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandnesosen -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>608171</latitude>
+			<longitude>52979</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandnessjoen -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>660282</latitude>
+			<longitude>126448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandvika -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>604229</latitude>
+			<longitude>52482</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandvika -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>599032</latitude>
+			<longitude>105362</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarpsborg -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>592948</latitude>
+			<longitude>111282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Selbu -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>632282</latitude>
+			<longitude>110448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Setermoen -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>688782</latitude>
+			<longitude>183782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sjovegan -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>688848</latitude>
+			<longitude>178759</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ski -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>597282</latitude>
+			<longitude>108448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skien -- (State: Telemark)">
+			<state>Telemark</state>
+			<latitude>592115</latitude>
+			<longitude>96115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skorkeberg -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>596740</latitude>
+			<longitude>106807</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skui -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>599448</latitude>
+			<longitude>104448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sogndal -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>612448</latitude>
+			<longitude>71115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sogndal -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>583448</latitude>
+			<longitude>63115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sola -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>588948</latitude>
+			<longitude>56115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sortland -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>632782</latitude>
+			<longitude>99948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sortland -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>682615</latitude>
+			<longitude>136115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sotra -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>603126</latitude>
+			<longitude>50943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Spydeberg -- (State: Ostfold)">
+			<state>Ostfold</state>
+			<latitude>596115</latitude>
+			<longitude>110948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stavanger -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>589782</latitude>
+			<longitude>57615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Steinkjer -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>641782</latitude>
+			<longitude>125115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stjordal -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>634615</latitude>
+			<longitude>109615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stokke -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>592282</latitude>
+			<longitude>102948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stokke Herad -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>592615</latitude>
+			<longitude>102615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stokmarknes -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>685734</latitude>
+			<longitude>149201</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stord -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>598004</latitude>
+			<longitude>55232</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Storslett -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>695948</latitude>
+			<longitude>205948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Strommen -- (State: Akershus)">
+			<state>Akershus</state>
+			<latitude>599615</latitude>
+			<longitude>110115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stryn -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>619282</latitude>
+			<longitude>67948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sundal -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>620115</latitude>
+			<longitude>55948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sunndal -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>626782</latitude>
+			<longitude>85782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sunndalsora -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>626782</latitude>
+			<longitude>85615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Surnadal -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>629948</latitude>
+			<longitude>87115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svelgen -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>604687</latitude>
+			<longitude>49684</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svelgen -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>617782</latitude>
+			<longitude>53115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svolvaer -- (State: Nordland)">
+			<state>Nordland</state>
+			<latitude>682448</latitude>
+			<longitude>145782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sykkylven -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>624115</latitude>
+			<longitude>65948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tananger -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>589449</latitude>
+			<longitude>56116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tingvoll -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>629235</latitude>
+			<longitude>81930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tolga -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>624283</latitude>
+			<longitude>110116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tolga-Os -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>624116</latitude>
+			<longitude>112116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tonsberg -- (State: Vestfold)">
+			<state>Vestfold</state>
+			<latitude>592974</latitude>
+			<longitude>104297</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Troms Fylke -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>692616</latitude>
+			<longitude>196783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tromsa -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>639330</latitude>
+			<longitude>88777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tromso -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>696783</latitude>
+			<longitude>189783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tromso Island -- (State: Troms)">
+			<state>Troms</state>
+			<latitude>696783</latitude>
+			<longitude>189616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trondheim -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>634283</latitude>
+			<longitude>104283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trondheim Bay -- (State: Sor-Trondelag)">
+			<state>Sor-Trondelag</state>
+			<latitude>634449</latitude>
+			<longitude>103949</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trysil -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>613283</latitude>
+			<longitude>122783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tynset -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>622616</latitude>
+			<longitude>106783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulsteinvik -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>623450</latitude>
+			<longitude>58950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaagaa -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>616785</latitude>
+			<longitude>90118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vadso -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>700849</latitude>
+			<longitude>297815</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vagamo -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>618951</latitude>
+			<longitude>91118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vang -- (State: Oppland)">
+			<state>Oppland</state>
+			<latitude>611451</latitude>
+			<longitude>85951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vanse -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>581285</latitude>
+			<longitude>67118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vardo -- (State: Finnmark)">
+			<state>Finnmark</state>
+			<latitude>703785</latitude>
+			<longitude>311118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varhaug -- (State: Rogaland)">
+			<state>Rogaland</state>
+			<latitude>586285</latitude>
+			<longitude>56618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Verdal -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>637951</latitude>
+			<longitude>115118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Verdal -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>585118</latitude>
+			<longitude>73451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vigeland -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>580951</latitude>
+			<longitude>73118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vik -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>613618</latitude>
+			<longitude>51785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vik i Sogn -- (State: Sogn og Fjordane)">
+			<state>Sogn og Fjordane</state>
+			<latitude>610951</latitude>
+			<longitude>65785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vikersund -- (State: Buskerud)">
+			<state>Buskerud</state>
+			<latitude>599951</latitude>
+			<longitude>100451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vikna Herad -- (State: Nord-Trondelag)">
+			<state>Nord-Trondelag</state>
+			<latitude>649118</latitude>
+			<longitude>109285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Volda -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>621618</latitude>
+			<longitude>61118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Voss -- (State: Hordaland)">
+			<state>Hordaland</state>
+			<latitude>606618</latitude>
+			<longitude>64451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Western Harbor -- (State: Vest-Agder)">
+			<state>Vest-Agder</state>
+			<latitude>581452</latitude>
+			<longitude>79952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakariasvatn -- (State: More og Romsdal)">
+			<state>More og Romsdal</state>
+			<latitude>623289</latitude>
+			<longitude>72789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zille Bronken -- (State: Hedmark)">
+			<state>Hedmark</state>
+			<latitude>607122</latitude>
+			<longitude>116289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

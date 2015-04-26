@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Falkland Islands Malvinas">
+		<city name="Abra Crooked">
+			<state></state>
+			<latitude>-515403</latitude>
+			<longitude>-602736</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="George Island">
+			<state></state>
+			<latitude>-523064</latitude>
+			<longitude>-597397</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Stanley">
+			<state></state>
+			<latitude>-516888</latitude>
+			<longitude>-578388</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

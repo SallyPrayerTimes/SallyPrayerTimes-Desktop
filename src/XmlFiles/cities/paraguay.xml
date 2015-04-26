@@ -1,0 +1,1097 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Paraguay">
+		<city name="24 De Julio -- (State: Cordillera)">
+			<state>Cordillera</state>
+			<latitude>-250783</latitude>
+			<longitude>-572950</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="28 Km Paranambu -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-258117</latitude>
+			<longitude>-548283</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Asuncion -- (State: Central)">
+			<state>Central</state>
+			<latitude>-252570</latitude>
+			<longitude>-576570</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bobi Pucu -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-267902</latitude>
+			<longitude>-562569</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ciudad del Este -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-255068</latitude>
+			<longitude>-546068</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Encarnacion -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-273232</latitude>
+			<longitude>-558899</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="General Genes -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-240064</latitude>
+			<longitude>-595397</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="General Pando -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-195897</latitude>
+			<longitude>-597564</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hachita -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-245896</latitude>
+			<longitude>-561729</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hohenau -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-270729</latitude>
+			<longitude>-557396</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hotel Rio Negro -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-241563</latitude>
+			<longitude>-583063</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyhaty -- (State: Guaira)">
+			<state>Guaira</state>
+			<latitude>-257229</latitude>
+			<longitude>-565063</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iba-Pobo -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-236370</latitude>
+			<longitude>-573806</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibapobo -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-196562</latitude>
+			<longitude>-587228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Igatimi -- (State: Canindeyu)">
+			<state>Canindeyu</state>
+			<latitude>-240728</latitude>
+			<longitude>-554895</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ihacanguazu -- (State: Guaira)">
+			<state>Guaira</state>
+			<latitude>-259395</latitude>
+			<longitude>-564728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ihu -- (State: Caaguazu)">
+			<state>Caaguazu</state>
+			<latitude>-249728</latitude>
+			<longitude>-559728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ijhoby -- (State: Central)">
+			<state>Central</state>
+			<latitude>-254395</latitude>
+			<longitude>-573062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Independencia -- (State: Guaira)">
+			<state>Guaira</state>
+			<latitude>-257062</latitude>
+			<longitude>-562395</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Independencia -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-215562</latitude>
+			<longitude>-621562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Industrial Mbaracayu -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-251895</latitude>
+			<longitude>-546395</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ingavi -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-199062</latitude>
+			<longitude>-607728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Insfran-cue -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-245395</latitude>
+			<longitude>-579062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipacarai -- (State: Central)">
+			<state>Central</state>
+			<latitude>-253728</latitude>
+			<longitude>-572562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irala -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-258895</latitude>
+			<longitude>-547062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irendague -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-205062</latitude>
+			<longitude>-621228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isidro -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-273562</latitude>
+			<longitude>-558062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Alta -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-269895</latitude>
+			<longitude>-563062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Banco -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-252728</latitude>
+			<longitude>-576562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Boby-nu -- (State: Neembucu)">
+			<state>Neembucu</state>
+			<latitude>-272228</latitude>
+			<longitude>-584062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Caraya -- (State: Caazapa)">
+			<state>Caazapa</state>
+			<latitude>-265895</latitude>
+			<longitude>-564395</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Clavel -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-273728</latitude>
+			<longitude>-565895</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Cuatro -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-197395</latitude>
+			<longitude>-582228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Cururu -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-273562</latitude>
+			<longitude>-565062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Fretes -- (State: Paraguari)">
+			<state>Paraguari</state>
+			<latitude>-259562</latitude>
+			<longitude>-574062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Guazu -- (State: Cordillera)">
+			<state>Cordillera</state>
+			<latitude>-252728</latitude>
+			<longitude>-567728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Hermosa -- (State: Neembucu)">
+			<state>Neembucu</state>
+			<latitude>-258895</latitude>
+			<longitude>-578062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Ity a -- (State: Caaguazu)">
+			<state>Caaguazu</state>
+			<latitude>-254562</latitude>
+			<longitude>-566228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla La Muerta -- (State: Amambay)">
+			<state>Amambay</state>
+			<latitude>-225395</latitude>
+			<longitude>-566562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Laguna -- (State: Caaguazu)">
+			<state>Caaguazu</state>
+			<latitude>-254228</latitude>
+			<longitude>-566562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Mborevi -- (State: Misiones)">
+			<state>Misiones</state>
+			<latitude>-274062</latitude>
+			<longitude>-568228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Oculto -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-275228</latitude>
+			<longitude>-564728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Palo Seco -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-274395</latitude>
+			<longitude>-563728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Paloma -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-273395</latitude>
+			<longitude>-564062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Paray -- (State: Central)">
+			<state>Central</state>
+			<latitude>-258062</latitude>
+			<longitude>-577728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Poi">
+			<state></state>
+			<latitude>-224895</latitude>
+			<longitude>-597228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Pucu -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-273562</latitude>
+			<longitude>-562395</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Pucu -- (State: Cordillera)">
+			<state>Cordillera</state>
+			<latitude>-252895</latitude>
+			<longitude>-568895</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Real -- (State: Concepcion)">
+			<state>Concepcion</state>
+			<latitude>-226062</latitude>
+			<longitude>-576395</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Saca -- (State: Caazapa)">
+			<state>Caazapa</state>
+			<latitude>-265062</latitude>
+			<longitude>-563395</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla San Pablo -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-273728</latitude>
+			<longitude>-563728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Sapucai -- (State: Cordillera)">
+			<state>Cordillera</state>
+			<latitude>-254062</latitude>
+			<longitude>-566728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Talavera -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-275228</latitude>
+			<longitude>-564228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Umbu -- (State: Neembucu)">
+			<state>Neembucu</state>
+			<latitude>-269895</latitude>
+			<longitude>-582895</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Yacyreta -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-274062</latitude>
+			<longitude>-564895</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Yapepo -- (State: Caazapa)">
+			<state>Caazapa</state>
+			<latitude>-267228</latitude>
+			<longitude>-564728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Ybycui -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-272728</latitude>
+			<longitude>-561228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla Ypecua -- (State: Cordillera)">
+			<state>Cordillera</state>
+			<latitude>-249895</latitude>
+			<longitude>-573062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Islas de la Limosna">
+			<state></state>
+			<latitude>-272562</latitude>
+			<longitude>-581062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ita Vepa -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-259562</latitude>
+			<longitude>-546228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ita Ydate -- (State: Central)">
+			<state>Central</state>
+			<latitude>-255395</latitude>
+			<longitude>-575062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itacora -- (State: Neembucu)">
+			<state>Neembucu</state>
+			<latitude>-271895</latitude>
+			<longitude>-582562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itacurabi -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-244895</latitude>
+			<longitude>-566728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itacurbi -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-235895</latitude>
+			<longitude>-571062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itacurubi -- (State: Concepcion)">
+			<state>Concepcion</state>
+			<latitude>-233228</latitude>
+			<longitude>-573562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itacurubi -- (State: Cordillera)">
+			<state>Cordillera</state>
+			<latitude>-254395</latitude>
+			<longitude>-568395</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itaipu -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-253895</latitude>
+			<longitude>-545895</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itanara -- (State: Canindeyu)">
+			<state>Canindeyu</state>
+			<latitude>-238062</latitude>
+			<longitude>-557728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itape -- (State: Guaira)">
+			<state>Guaira</state>
+			<latitude>-258395</latitude>
+			<longitude>-566062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itapua Poty -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-265728</latitude>
+			<longitude>-555562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itapucumi -- (State: Concepcion)">
+			<state>Concepcion</state>
+			<latitude>-227395</latitude>
+			<longitude>-578562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itaquyry -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-249228</latitude>
+			<longitude>-552062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itaquyry -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-235728</latitude>
+			<longitude>-559562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itaugua Guazu -- (State: Central)">
+			<state>Central</state>
+			<latitude>-253895</latitude>
+			<longitude>-573062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itayuru -- (State: Misiones)">
+			<state>Misiones</state>
+			<latitude>-265395</latitude>
+			<longitude>-570562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iturbe -- (State: Guaira)">
+			<state>Guaira</state>
+			<latitude>-260395</latitude>
+			<longitude>-564728</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="J J Perez -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-194061</latitude>
+			<longitude>-602394</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="J. D. Ocampos -- (State: Caaguazu)">
+			<state>Caaguazu</state>
+			<latitude>-253894</latitude>
+			<longitude>-554227</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="J. E. Estigarribia -- (State: Caaguazu)">
+			<state>Caaguazu</state>
+			<latitude>-253727</latitude>
+			<longitude>-555894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="J. Leon Mallorquin -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-253894</latitude>
+			<longitude>-552561</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="J. R. Chavez -- (State: Caaguazu)">
+			<state>Caaguazu</state>
+			<latitude>-249561</latitude>
+			<longitude>-562394</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="J. Rodriguez -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-220061</latitude>
+			<longitude>-583227</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="J. Saldivar -- (State: Central)">
+			<state>Central</state>
+			<latitude>-254394</latitude>
+			<longitude>-573894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jara-cue -- (State: Paraguari)">
+			<state>Paraguari</state>
+			<latitude>-264561</latitude>
+			<longitude>-567894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jardin -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-244061</latitude>
+			<longitude>-561061</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jayucubas -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-225561</latitude>
+			<longitude>-606727</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jejui -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-240894</latitude>
+			<longitude>-564727</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jejui Guazu -- (State: Canindeyu)">
+			<state>Canindeyu</state>
+			<latitude>-242061</latitude>
+			<longitude>-555894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jesuitas -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-198394</latitude>
+			<longitude>-592727</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jhugua -- (State: Guaira)">
+			<state>Guaira</state>
+			<latitude>-256894</latitude>
+			<longitude>-565227</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jimenez -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-200561</latitude>
+			<longitude>-582061</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jjovy -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-202894</latitude>
+			<longitude>-600894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jorge Bolf -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-272727</latitude>
+			<longitude>-564227</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jose Eduvigis Diaz -- (State: Neembucu)">
+			<state>Neembucu</state>
+			<latitude>-271561</latitude>
+			<longitude>-584061</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jose Fassardi -- (State: Guaira)">
+			<state>Guaira</state>
+			<latitude>-259561</latitude>
+			<longitude>-561061</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jose Potrero -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-268727</latitude>
+			<longitude>-559894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juan Cue -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-219727</latitude>
+			<longitude>-595227</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juan De Ayolas -- (State: Misiones)">
+			<state>Misiones</state>
+			<latitude>-273894</latitude>
+			<longitude>-568894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juan de Zalazar -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-230894</latitude>
+			<longitude>-592894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juan E. O leary -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-254061</latitude>
+			<longitude>-553727</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juan M. Fruto -- (State: Caaguazu)">
+			<state>Caaguazu</state>
+			<latitude>-253561</latitude>
+			<longitude>-557894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juan Piru-cue -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-251061</latitude>
+			<longitude>-577727</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juanita -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-251061</latitude>
+			<longitude>-550394</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Julio Silva -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-226727</latitude>
+			<longitude>-583561</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Junin -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-201227</latitude>
+			<longitude>-601894</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katupyry -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-264726</latitude>
+			<longitude>-555226</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kendall -- (State: Central)">
+			<state>Central</state>
+			<latitude>-253060</latitude>
+			<longitude>-573393</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilometro 160">
+			<state></state>
+			<latitude>-220726</latitude>
+			<longitude>-593226</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilometro 262 -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-220560</latitude>
+			<longitude>-603393</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neembucu">
+			<state></state>
+			<latitude>-269890</latitude>
+			<longitude>-579890</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obligado -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-270222</latitude>
+			<longitude>-556222</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obraje Natalia -- (State: Amambay)">
+			<state>Amambay</state>
+			<latitude>-234722</latitude>
+			<longitude>-560556</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obraje San Miguel -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-219645</latitude>
+			<longitude>-605767</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ocampo-cue -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-239222</latitude>
+			<longitude>-569556</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ochoa -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-217617</latitude>
+			<longitude>-609347</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Octavo Departamento -- (State: Misiones)">
+			<state>Misiones</state>
+			<latitude>-269889</latitude>
+			<longitude>-569889</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ohia -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-204722</latitude>
+			<longitude>-587056</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olimpo -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-210222</latitude>
+			<longitude>-578889</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oliva -- (State: Neembucu)">
+			<state>Neembucu</state>
+			<latitude>-260056</latitude>
+			<longitude>-578722</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olivares -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-238222</latitude>
+			<longitude>-597222</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Omasuyos -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-210222</latitude>
+			<longitude>-611389</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oratorio Antonio -- (State: Misiones)">
+			<state>Misiones</state>
+			<latitude>-267056</latitude>
+			<longitude>-569556</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oratorio Juan Bautista -- (State: Paraguari)">
+			<state>Paraguari</state>
+			<latitude>-263056</latitude>
+			<longitude>-569222</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oratorio Perpetuo Socorro -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-267056</latitude>
+			<longitude>-560889</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oratorio San Antonio -- (State: Misiones)">
+			<state>Misiones</state>
+			<latitude>-268722</latitude>
+			<longitude>-568722</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ordonez -- (State: Alto Parana)">
+			<state>Alto Parana</state>
+			<latitude>-257389</latitude>
+			<longitude>-546222</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orihuela -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-234056</latitude>
+			<longitude>-586556</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otacio -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-219556</latitude>
+			<longitude>-614889</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otazu -- (State: Alto Paraguay)">
+			<state>Alto Paraguay</state>
+			<latitude>-219722</latitude>
+			<longitude>-583556</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quiindy -- (State: Paraguari)">
+			<state>Paraguari</state>
+			<latitude>-259887</latitude>
+			<longitude>-571554</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quintana -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-234720</latitude>
+			<longitude>-611720</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinto Departamento -- (State: Caaguazu)">
+			<state>Caaguazu</state>
+			<latitude>-253220</latitude>
+			<longitude>-558220</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quiteria -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-272720</latitude>
+			<longitude>-558887</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quyquyho -- (State: Paraguari)">
+			<state>Paraguari</state>
+			<latitude>-262220</latitude>
+			<longitude>-569720</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ugarte Cue -- (State: Concepcion)">
+			<state>Concepcion</state>
+			<latitude>-229383</latitude>
+			<longitude>-573050</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ultimo Rancho -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-234216</latitude>
+			<longitude>-582550</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Chaco -- (State: Boqueron)">
+			<state>Boqueron</state>
+			<latitude>-214050</latitude>
+			<longitude>-599883</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uruguaita Estancia -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-247383</latitude>
+			<longitude>-571383</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urusapucai -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-271716</latitude>
+			<longitude>-559383</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vacay -- (State: Itapua)">
+			<state>Itapua</state>
+			<latitude>-268882</latitude>
+			<longitude>-555882</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valenzuela -- (State: Cordillera)">
+			<state>Cordillera</state>
+			<latitude>-255715</latitude>
+			<longitude>-568549</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valle Apua -- (State: Paraguari)">
+			<state>Paraguari</state>
+			<latitude>-260215</latitude>
+			<longitude>-572382</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vapor Cue -- (State: Cordillera)">
+			<state>Cordillera</state>
+			<latitude>-251882</latitude>
+			<longitude>-567715</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villa Curuguaty -- (State: Canindeyu)">
+			<state>Canindeyu</state>
+			<latitude>-245049</latitude>
+			<longitude>-556882</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villarrica -- (State: Guaira)">
+			<state>Guaira</state>
+			<latitude>-257382</latitude>
+			<longitude>-564215</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanja Cora -- (State: Caazapa)">
+			<state>Caazapa</state>
+			<latitude>-261211</latitude>
+			<longitude>-558045</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanja Jhu -- (State: San Pedro)">
+			<state>San Pedro</state>
+			<latitude>-243878</latitude>
+			<longitude>-561045</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanja Pyta -- (State: Amambay)">
+			<state>Amambay</state>
+			<latitude>-226211</latitude>
+			<longitude>-556545</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanjita -- (State: Paraguari)">
+			<state>Paraguari</state>
+			<latitude>-259378</latitude>
+			<longitude>-571045</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanjita -- (State: Neembucu)">
+			<state>Neembucu</state>
+			<latitude>-260878</latitude>
+			<longitude>-578878</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zapatero-cue -- (State: Concepcion)">
+			<state>Concepcion</state>
+			<latitude>-232711</latitude>
+			<longitude>-573378</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zarate Isla -- (State: Central)">
+			<state>Central</state>
+			<latitude>-252211</latitude>
+			<longitude>-574878</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zarza -- (State: Caazapa)">
+			<state>Caazapa</state>
+			<latitude>-266878</latitude>
+			<longitude>-563878</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeballos-cue -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-252045</latitude>
+			<longitude>-575711</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebollo -- (State: Concepcion)">
+			<state>Concepcion</state>
+			<latitude>-223711</latitude>
+			<longitude>-576545</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zenteno -- (State: Presidente Hayes)">
+			<state>Presidente Hayes</state>
+			<latitude>-231545</latitude>
+			<longitude>-599711</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

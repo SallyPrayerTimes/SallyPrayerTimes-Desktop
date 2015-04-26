@@ -1,0 +1,2056 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Belize">
+		<city name="Aberdeen -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>171264</latitude>
+			<longitude>-883903</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adams Eddy -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172597</latitude>
+			<longitude>-885736</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aguacate Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161716</latitude>
+			<longitude>-890434</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aguacate Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168264</latitude>
+			<longitude>-884070</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alexanders -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170930</latitude>
+			<longitude>-889236</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="All Pines -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>167930</latitude>
+			<longitude>-882736</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alligator Point -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>177097</latitude>
+			<longitude>-886236</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ambergris Cay -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>180097</latitude>
+			<longitude>-879236</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="American Camp -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162930</latitude>
+			<longitude>-890903</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Andersons Camp -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>177264</latitude>
+			<longitude>-890070</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antelope Hill -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>169430</latitude>
+			<longitude>-883903</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arabato Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>166264</latitude>
+			<longitude>-890403</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arena Blanca Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>170430</latitude>
+			<longitude>-883070</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arroyo Ceibo Chico -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>165641</latitude>
+			<longitude>-891070</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arroyo del Guarda -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>171311</latitude>
+			<longitude>-891295</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="August Pine Ridge -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179764</latitude>
+			<longitude>-887070</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Augustine -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>169764</latitude>
+			<longitude>-889736</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balize">
+			<state></state>
+			<latitude>172598</latitude>
+			<longitude>-887402</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belize City -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174931</latitude>
+			<longitude>-881735</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belmopan -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172598</latitude>
+			<longitude>-887569</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dangriga Lighthouse -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>169767</latitude>
+			<longitude>-882067</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dew Creek -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>172433</latitude>
+			<longitude>-883733</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dolores -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>159933</latitude>
+			<longitude>-891900</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Snake Cay -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162101</latitude>
+			<longitude>-884899</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edenthal -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179268</latitude>
+			<longitude>-889566</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eiley -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>177101</latitude>
+			<longitude>-884732</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Arenal -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170268</latitude>
+			<longitude>-891399</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Brazo -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>182101</latitude>
+			<longitude>-886066</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Cayo -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>171662</latitude>
+			<longitude>-890613</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Posito -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179768</latitude>
+			<longitude>-886232</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Remate -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>182101</latitude>
+			<longitude>-884232</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Retiro Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>167287</latitude>
+			<longitude>-891302</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Thermo Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>169629</latitude>
+			<longitude>-891366</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Tigre -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>167934</latitude>
+			<longitude>-891066</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elbow Cays -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>166768</latitude>
+			<longitude>-881566</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eldorado -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161601</latitude>
+			<longitude>-888566</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ellen Broaster Work -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>176101</latitude>
+			<longitude>-885732</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ellen Cut -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>167934</latitude>
+			<longitude>-880566</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Encalada Potrero -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179101</latitude>
+			<longitude>-890899</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="English Cay -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173268</latitude>
+			<longitude>-880066</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="English Cay Channel -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173434</latitude>
+			<longitude>-880566</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="English Cay Lighthouse -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173268</latitude>
+			<longitude>-880232</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entrada de Mato -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>179934</latitude>
+			<longitude>-888899</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entrada San Pedro -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>179101</latitude>
+			<longitude>-879399</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erindale -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174934</latitude>
+			<longitude>-885566</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ernesto Creek -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>179268</latitude>
+			<longitude>-882566</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esperanza -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>164934</latitude>
+			<longitude>-888566</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esperanza -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>173768</latitude>
+			<longitude>-891232</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esperanza -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>169037</latitude>
+			<longitude>-891463</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esperanza Camp -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>164273</latitude>
+			<longitude>-890130</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esperanza Creek -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>179601</latitude>
+			<longitude>-883066</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esso Landing -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161601</latitude>
+			<longitude>-887566</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Estero -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>184101</latitude>
+			<longitude>-884899</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Estevez">
+			<state></state>
+			<latitude>179101</latitude>
+			<longitude>-883732</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Estrecho de Bacalar Chico">
+			<state></state>
+			<latitude>182101</latitude>
+			<longitude>-878732</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Estrella -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>182934</latitude>
+			<longitude>-884399</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fabers Lagoon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174769</latitude>
+			<longitude>-882398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fabers Lagoon">
+			<state></state>
+			<latitude>179769</latitude>
+			<longitude>-883231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falle Cay -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174602</latitude>
+			<longitude>-880565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="False Cay -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>166102</latitude>
+			<longitude>-883231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="False Cay Bight -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>166269</latitude>
+			<longitude>-883231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="False Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>169769</latitude>
+			<longitude>-883898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="False Point -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>165935</latitude>
+			<longitude>-883398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="False Sittee Point -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168435</latitude>
+			<longitude>-882398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanny Young Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168102</latitude>
+			<longitude>-883231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farls Bogue -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174435</latitude>
+			<longitude>-880398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferguson Bank -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174435</latitude>
+			<longitude>-882731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fermin Reyes -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172691</latitude>
+			<longitude>-890434</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fireburn -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>182102</latitude>
+			<longitude>-881898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="First Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>169769</latitude>
+			<longitude>-884231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fishers Bight -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>171935</latitude>
+			<longitude>-883231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Five Blues Lake -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>171269</latitude>
+			<longitude>-885731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Floral Park -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172102</latitude>
+			<longitude>-889398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flour Camp -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>180435</latitude>
+			<longitude>-881398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flour Camp Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>166102</latitude>
+			<longitude>-883731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flour Landing -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170571</latitude>
+			<longitude>-890501</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fork Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>165269</latitude>
+			<longitude>-890398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Forward Cairn -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>169269</latitude>
+			<longitude>-889065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Four Mile Lagoon -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>184602</latitude>
+			<longitude>-883731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fowl Guts Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168602</latitude>
+			<longitude>-883065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fowlers Work -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172269</latitude>
+			<longitude>-891065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frank Knoll Beacon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174102</latitude>
+			<longitude>-881898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Franks Eddy -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172602</latitude>
+			<longitude>-886231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freetown Area -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168269</latitude>
+			<longitude>-882731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freetown Sibun -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174269</latitude>
+			<longitude>-883398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fresco -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>171602</latitude>
+			<longitude>-885231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freshwater Creek -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173769</latitude>
+			<longitude>-883398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freshwater Creek -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>174435</latitude>
+			<longitude>-886565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freshwater Creek Lagoon -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168769</latitude>
+			<longitude>-882898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freshwater Hill -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173602</latitude>
+			<longitude>-883731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funk Cay -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>165435</latitude>
+			<longitude>-880565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Half Moon Cay -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>172104</latitude>
+			<longitude>-875229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halfway Beacon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173771</latitude>
+			<longitude>-881396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamidli Creek Settlement -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162271</latitude>
+			<longitude>-888896</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanging Rock -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172271</latitude>
+			<longitude>-887729</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harley Point -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>172271</latitude>
+			<longitude>-883229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harvest Cay -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>164771</latitude>
+			<longitude>-883896</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harvest Cay Work -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>164771</latitude>
+			<longitude>-884563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harvest Hill -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>164937</latitude>
+			<longitude>-883896</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hatchet Cay -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>164604</latitude>
+			<longitude>-880563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hattieville -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174604</latitude>
+			<longitude>-883729</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haulover -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>175437</latitude>
+			<longitude>-882229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Havana Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>169604</latitude>
+			<longitude>-882063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hawiia -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162765</latitude>
+			<longitude>-890846</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hector Creek -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174604</latitude>
+			<longitude>-883396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hector Creek Lagoon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174604</latitude>
+			<longitude>-883229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hellgate -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172437</latitude>
+			<longitude>-885896</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hellgate -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>163771</latitude>
+			<longitude>-887896</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hellgate Cut -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>164437</latitude>
+			<longitude>-888396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hemsley Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>166104</latitude>
+			<longitude>-883563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hen and Chicken Cays -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>175771</latitude>
+			<longitude>-882063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hercules -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>165271</latitude>
+			<longitude>-883896</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hermitage -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>171646</latitude>
+			<longitude>-890243</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiccattee Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>159271</latitude>
+			<longitude>-891729</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hicks Cayes -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>176771</latitude>
+			<longitude>-881229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hidden Valley Falls -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170604</latitude>
+			<longitude>-888229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hillbank -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>171304</latitude>
+			<longitude>-890335</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hillbank Laguana -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>176771</latitude>
+			<longitude>-886396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hinchasones -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161437</latitude>
+			<longitude>-890396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hobente Rio -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>160604</latitude>
+			<longitude>-888396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Holec Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>166573</latitude>
+			<longitude>-890913</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hollow Valley -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>170771</latitude>
+			<longitude>-885229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Honey Camp Jib -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>180437</latitude>
+			<longitude>-884396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoyuk -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>175437</latitude>
+			<longitude>-890229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hughes Estate -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>167604</latitude>
+			<longitude>-883563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humming Bird Gap -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>170604</latitude>
+			<longitude>-885396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hunting Cay -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161104</latitude>
+			<longitude>-882563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Icacos Road -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162272</latitude>
+			<longitude>-886728</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iedro Redondo Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>166438</latitude>
+			<longitude>-885728</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iguana Cay -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>177105</latitude>
+			<longitude>-882395</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iguana Creek -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172438</latitude>
+			<longitude>-889062</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iguana Creek Bank -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172272</latitude>
+			<longitude>-889062</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indian Creek">
+			<state></state>
+			<latitude>172772</latitude>
+			<longitude>-885562</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indian Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>163605</latitude>
+			<longitude>-887895</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inner Channel -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>166272</latitude>
+			<longitude>-882728</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irish Creek -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>176605</latitude>
+			<longitude>-886395</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isabella -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>175938</latitude>
+			<longitude>-885228</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isla -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>180105</latitude>
+			<longitude>-887728</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isla Albion -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>181438</latitude>
+			<longitude>-886728</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isla Turneffe -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173438</latitude>
+			<longitude>-878562</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ixcanha -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>180105</latitude>
+			<longitude>-883395</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacinto Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162106</latitude>
+			<longitude>-888227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacinto Landing -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161773</latitude>
+			<longitude>-888394</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalacle Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161773</latitude>
+			<longitude>-880894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalacte -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161687</latitude>
+			<longitude>-891361</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joe Goff s Pine Ridge -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>178273</latitude>
+			<longitude>-884561</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joe Wagner Boom -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174273</latitude>
+			<longitude>-883561</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Jose Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>170106</latitude>
+			<longitude>-882227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Piles Creek -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>182939</latitude>
+			<longitude>-883394</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joventud -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161278</latitude>
+			<longitude>-891594</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joyful Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>170273</latitude>
+			<longitude>-884561</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juan Gongora Creek -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>173106</latitude>
+			<longitude>-889394</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kate s Lagoon -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179940</latitude>
+			<longitude>-884560</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaway Camp -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>173774</latitude>
+			<longitude>-890393</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaxil Uinic -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>175607</latitude>
+			<longitude>-890893</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaxil Unic -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>175440</latitude>
+			<longitude>-891226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kendal -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168274</latitude>
+			<longitude>-883560</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="King s Run -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>176607</latitude>
+			<longitude>-884060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinloch s Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>168940</latitude>
+			<longitude>-888726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitty Bank -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>173274</latitude>
+			<longitude>-887393</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ladyville -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>175608</latitude>
+			<longitude>-881059</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nafreda -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162443</latitude>
+			<longitude>-889723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nago Bank -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>178777</latitude>
+			<longitude>-882723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nancy Perry -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>182777</latitude>
+			<longitude>-883723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranial -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>175277</latitude>
+			<longitude>-889390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranjal Burgos -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>181777</latitude>
+			<longitude>-885390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narrows -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>165110</latitude>
+			<longitude>-883223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narrows -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>181777</latitude>
+			<longitude>-885223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narrows Branch">
+			<state></state>
+			<latitude>181943</latitude>
+			<longitude>-884723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narrows Forest Reserve -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>182110</latitude>
+			<longitude>-885390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narrows Landing -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>181777</latitude>
+			<longitude>-884890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nasario Perez -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>164341</latitude>
+			<longitude>-891162</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negroman -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170929</latitude>
+			<longitude>-890707</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nelly Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>170943</latitude>
+			<longitude>-883057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nelson Hill -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>165110</latitude>
+			<longitude>-886557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neuendorf -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179110</latitude>
+			<longitude>-888723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neustadt -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179110</latitude>
+			<longitude>-890223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Bight -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>172777</latitude>
+			<longitude>-878390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Campa Chico -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>167110</latitude>
+			<longitude>-885890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New River Bight -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>183777</latitude>
+			<longitude>-883390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Windsor -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>175610</latitude>
+			<longitude>-883390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nicholas Cut -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161110</latitude>
+			<longitude>-882390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nim Li Punit -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162610</latitude>
+			<longitude>-888557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nimu Punit -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>163277</latitude>
+			<longitude>-887890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noh Mul -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>182277</latitude>
+			<longitude>-885723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nohock Ek -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>171277</latitude>
+			<longitude>-890890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Norland -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>171777</latitude>
+			<longitude>-889890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Norport Airstrip -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>171943</latitude>
+			<longitude>-889890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Drowned Cay -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>175110</latitude>
+			<longitude>-881390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Fork -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>167277</latitude>
+			<longitude>-886223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northeast Cay -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>167610</latitude>
+			<longitude>-877557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northeast Cay -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>166777</latitude>
+			<longitude>-881723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northeast Sapodilla Cay -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>161443</latitude>
+			<longitude>-882223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northeast Spit -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173943</latitude>
+			<longitude>-880723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northeast Spit Beacon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173777</latitude>
+			<longitude>-880723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northern Bogue -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174277</latitude>
+			<longitude>-878057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northern Bulkhead -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>180277</latitude>
+			<longitude>-881890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northern Lagoon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174943</latitude>
+			<longitude>-878223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northern Two Cays -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174443</latitude>
+			<longitude>-874890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Norval Cay -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>167110</latitude>
+			<longitude>-881390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Number 4 Cave">
+			<state></state>
+			<latitude>171610</latitude>
+			<longitude>-885390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Number 5 Cave">
+			<state></state>
+			<latitude>171443</latitude>
+			<longitude>-885390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Number Fifty -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>180777</latitude>
+			<longitude>-882390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Number Fifty-Two -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>181610</latitude>
+			<longitude>-882390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oak Burn -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170444</latitude>
+			<longitude>-889556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Campa Chico -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>167278</latitude>
+			<longitude>-885889</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old San Pastor Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>167303</latitude>
+			<longitude>-889983</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orange Walk Airstrip -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>180778</latitude>
+			<longitude>-885389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otoxha -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>160358</latitude>
+			<longitude>-891686</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oyster Banks -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>164278</latitude>
+			<longitude>-884222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quaco Creek -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172613</latitude>
+			<longitude>-888387</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quam Bank -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>167780</latitude>
+			<longitude>-884554</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quam Hill -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>177096</latitude>
+			<longitude>-890012</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quamina Cay -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>166446</latitude>
+			<longitude>-882054</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quamina Creek -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>171780</latitude>
+			<longitude>-883054</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarry Hill -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>169946</latitude>
+			<longitude>-883387</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartz Ridge -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>164113</latitude>
+			<longitude>-890720</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quashie Banner Creek -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>178946</latitude>
+			<longitude>-882554</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quashie Point -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>178946</latitude>
+			<longitude>-882220</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quashie Trap -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>172280</latitude>
+			<longitude>-883054</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quashie Trap Lagoon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>172113</latitude>
+			<longitude>-883054</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatro Leguas -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179113</latitude>
+			<longitude>-889554</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebrada de Oro Camp -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>165280</latitude>
+			<longitude>-887887</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queen Cay Entrance -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>164613</latitude>
+			<longitude>-879887</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queen Cays -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>164446</latitude>
+			<longitude>-880220</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uncle Sam -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168117</latitude>
+			<longitude>-883383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>166392</latitude>
+			<longitude>-890072</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union Camp -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>164081</latitude>
+			<longitude>-891302</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unitedville -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172117</latitude>
+			<longitude>-889216</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Freshwater Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>163450</latitude>
+			<longitude>-885883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Half Kentucky -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168450</latitude>
+			<longitude>-883716</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Half Ossory -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>169450</latitude>
+			<longitude>-884550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uxbentun -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162784</latitude>
+			<longitude>-889550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaca -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170443</latitude>
+			<longitude>-890515</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaca Falls -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170618</latitude>
+			<longitude>-890382</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaca River -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>171785</latitude>
+			<longitude>-890549</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vachel Keene -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>170285</latitude>
+			<longitude>-888049</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valentin Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>167782</latitude>
+			<longitude>-891507</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaquaros -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179618</latitude>
+			<longitude>-887549</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaqueros Creek -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170451</latitude>
+			<longitude>-889715</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ventura Creek -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173118</latitude>
+			<longitude>-885049</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria Creek -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>178451</latitude>
+			<longitude>-889382</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria Falls -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>177687</latitude>
+			<longitude>-890240</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieras Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>160118</latitude>
+			<longitude>-889715</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Bight -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>168951</latitude>
+			<longitude>-882549</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viper Rocks -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>165285</latitude>
+			<longitude>-882049</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waca Falls -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170452</latitude>
+			<longitude>-890548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waddy -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>178952</latitude>
+			<longitude>-885881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wagner Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>170786</latitude>
+			<longitude>-883214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wagner Lagoon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173119</latitude>
+			<longitude>-883214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waha Leaf Camp -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>165952</latitude>
+			<longitude>-886214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waha Leaf Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>165786</latitude>
+			<longitude>-886048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walton Creek -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>176452</latitude>
+			<longitude>-883714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wamil -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>175452</latitude>
+			<longitude>-889214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wamil Creek -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>176619</latitude>
+			<longitude>-888714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warree Bight -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>183452</latitude>
+			<longitude>-882048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warree Camp -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>179952</latitude>
+			<longitude>-882881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warrie Creek -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>163786</latitude>
+			<longitude>-886881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warrie Creek -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>180286</latitude>
+			<longitude>-883048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Water Cay Spit -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173619</latitude>
+			<longitude>-880548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waterhole Camp -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170286</latitude>
+			<longitude>-890548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Watters Bank -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173119</latitude>
+			<longitude>-883381</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wee Wee Cay -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>167619</latitude>
+			<longitude>-881214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Westward Patch Beacon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>174286</latitude>
+			<longitude>-881714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="White Grounds Spit -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173952</latitude>
+			<longitude>-881048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="White Grounds Spit Beacon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>173786</latitude>
+			<longitude>-880881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wild Cane Cay -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>161952</latitude>
+			<longitude>-886214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Will Edwards Lagoon -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>179452</latitude>
+			<longitude>-881714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willows Bank -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>175286</latitude>
+			<longitude>-885548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wippan Cay -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>165452</latitude>
+			<longitude>-882048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woman Pond -- (State: Belize)">
+			<state>Belize</state>
+			<latitude>177786</latitude>
+			<longitude>-884048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xaibe -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>183953</latitude>
+			<longitude>-884213</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xaxe Venic Road -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>175287</latitude>
+			<longitude>-889713</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xcanluum -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>183953</latitude>
+			<longitude>-884380</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xcopen -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>181787</latitude>
+			<longitude>-886713</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xpicilha -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>160406</latitude>
+			<longitude>-892013</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xpicilha Indian Reservation -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>160306</latitude>
+			<longitude>-892002</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xunantanich -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>170953</latitude>
+			<longitude>-891213</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaccos Lagoon -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162788</latitude>
+			<longitude>-885879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaha Creek -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>172288</latitude>
+			<longitude>-885546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalbac -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>173788</latitude>
+			<longitude>-889212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalbac Hills -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>174288</latitude>
+			<longitude>-889379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalbac-San Jose Road -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>174288</latitude>
+			<longitude>-889546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalback Creek">
+			<state></state>
+			<latitude>174121</latitude>
+			<longitude>-888712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ycacos Point -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>162454</latitude>
+			<longitude>-885712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yemeri Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>169454</latitude>
+			<longitude>-882212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yo Chen -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>183621</latitude>
+			<longitude>-884712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yo Swamp -- (State: Corozal)">
+			<state>Corozal</state>
+			<latitude>180621</latitude>
+			<longitude>-883546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapotillos Cut -- (State: Toledo)">
+			<state>Toledo</state>
+			<latitude>160955</latitude>
+			<longitude>-882545</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zayden Creek -- (State: Cayo)">
+			<state>Cayo</state>
+			<latitude>168728</latitude>
+			<longitude>-890189</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zibal Camp -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>173789</latitude>
+			<longitude>-890211</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zompopero -- (State: Orange Walk)">
+			<state>Orange Walk</state>
+			<latitude>174289</latitude>
+			<longitude>-891211</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuniga Creek -- (State: Stann Creek)">
+			<state>Stann Creek</state>
+			<latitude>166455</latitude>
+			<longitude>-884211</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

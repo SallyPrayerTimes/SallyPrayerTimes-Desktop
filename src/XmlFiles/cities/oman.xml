@@ -1,0 +1,1629 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Oman">
+		<city name="Adam">
+			<state></state>
+			<latitude>223930</latitude>
+			<longitude>575430</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Buraymi">
+			<state></state>
+			<latitude>242450</latitude>
+			<longitude>557619</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Farfarah">
+			<state></state>
+			<latitude>234219</latitude>
+			<longitude>580997</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Ghabirah">
+			<state></state>
+			<latitude>232564</latitude>
+			<longitude>573833</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Musana`a">
+			<state></state>
+			<latitude>237878</latitude>
+			<longitude>576539</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="As Suwaiq -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>238591</latitude>
+			<longitude>574483</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bahla">
+			<state></state>
+			<latitude>229765</latitude>
+			<longitude>573098</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barkah">
+			<state></state>
+			<latitude>237190</latitude>
+			<longitude>578967</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bay`ah -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>256842</latitude>
+			<longitude>562740</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bisiyah">
+			<state></state>
+			<latitude>227265</latitude>
+			<longitude>572431</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buraimi">
+			<state></state>
+			<latitude>242598</latitude>
+			<longitude>557598</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Camp Hill -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>206766</latitude>
+			<longitude>588932</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chashawfi">
+			<state></state>
+			<latitude>260913</latitude>
+			<longitude>561763</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Horn Reef -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>207101</latitude>
+			<longitude>589101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Khawr -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170332</latitude>
+			<longitude>541865</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastern Hajar">
+			<state></state>
+			<latitude>230101</latitude>
+			<longitude>585101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastern Hajr -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>228459</latitude>
+			<longitude>591101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edhell -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171790</latitude>
+			<longitude>540904</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edoff Assayr">
+			<state></state>
+			<latitude>171268</latitude>
+			<longitude>450934</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edoff Assayr -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171229</latitude>
+			<longitude>540726</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eerdeent -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171423</latitude>
+			<longitude>540048</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eirehseer -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171732</latitude>
+			<longitude>540404</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ejfoh -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171520</latitude>
+			<longitude>541118</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elphinstone Inlet -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>262193</latitude>
+			<longitude>563595</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Engardhat Taqah -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170379</latitude>
+			<longitude>544434</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enhorelah -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171873</latitude>
+			<longitude>541432</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ennerdale Rock -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>264732</latitude>
+			<longitude>565095</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entainoot -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>172018</latitude>
+			<longitude>544704</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erdit">
+			<state></state>
+			<latitude>167101</latitude>
+			<longitude>532434</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erigfien -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170782</latitude>
+			<longitude>545509</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erikob">
+			<state></state>
+			<latitude>172434</latitude>
+			<longitude>540434</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erkot -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171518</latitude>
+			<longitude>541726</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erqoot Daham -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171015</latitude>
+			<longitude>543934</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erqut Daham -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171654</latitude>
+			<longitude>543918</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eshto -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171623</latitude>
+			<longitude>540315</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ethli">
+			<state></state>
+			<latitude>220220</latitude>
+			<longitude>582962</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ethom Dhann -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171307</latitude>
+			<longitude>543762</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eyeetaut -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171532</latitude>
+			<longitude>540673</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fahud">
+			<state></state>
+			<latitude>223269</latitude>
+			<longitude>565602</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaj al Qaba il -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>244383</latitude>
+			<longitude>566213</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaj Wusta -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>235733</latitude>
+			<longitude>574544</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghubrah">
+			<state></state>
+			<latitude>191603</latitude>
+			<longitude>566270</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghubrah -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>235995</latitude>
+			<longitude>584159</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haima">
+			<state></state>
+			<latitude>199437</latitude>
+			<longitude>563271</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harat Hadd -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>245026</latitude>
+			<longitude>565971</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassas">
+			<state></state>
+			<latitude>233265</latitude>
+			<longitude>580848</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibb">
+			<state></state>
+			<latitude>205105</latitude>
+			<longitude>581772</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibra">
+			<state></state>
+			<latitude>227008</latitude>
+			<longitude>585574</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibri">
+			<state></state>
+			<latitude>232469</latitude>
+			<longitude>565149</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iliyet -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171455</latitude>
+			<longitude>547419</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indaf -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170938</latitude>
+			<longitude>543874</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inkeyzeti -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171511</latitude>
+			<longitude>540774</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inqita`at Mirbat -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170374</latitude>
+			<longitude>544536</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Insaid">
+			<state></state>
+			<latitude>234605</latitude>
+			<longitude>567938</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inshaf -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171938</latitude>
+			<longitude>541202</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irad">
+			<state></state>
+			<latitude>183438</latitude>
+			<longitude>558772</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irowk -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171219</latitude>
+			<longitude>544177</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq adh Dhubb">
+			<state></state>
+			<latitude>205772</latitude>
+			<longitude>566105</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq al Haza -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>234883</latitude>
+			<longitude>556908</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq al Khatrah -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>230552</latitude>
+			<longitude>555766</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq ar Ruwayk -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>232702</latitude>
+			<longitude>560386</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq at Tarif">
+			<state></state>
+			<latitude>226772</latitude>
+			<longitude>556438</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq Bu al Lahath">
+			<state></state>
+			<latitude>208438</latitude>
+			<longitude>564272</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq Raydah">
+			<state></state>
+			<latitude>226938</latitude>
+			<longitude>555605</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq Sabtah -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>235583</latitude>
+			<longitude>556936</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq Salil -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>232274</latitude>
+			<longitude>555783</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq Salil">
+			<state></state>
+			<latitude>232605</latitude>
+			<longitude>555105</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq Sufaiqi">
+			<state></state>
+			<latitude>207438</latitude>
+			<longitude>560938</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irqat -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170877</latitude>
+			<longitude>546299</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Island Reef -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>207152</latitude>
+			<longitude>589013</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ithaff">
+			<state></state>
+			<latitude>170474</latitude>
+			<longitude>539933</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ithi -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171761</latitude>
+			<longitude>545536</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izakhar -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171341</latitude>
+			<longitude>543974</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izki">
+			<state></state>
+			<latitude>229438</latitude>
+			<longitude>577772</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izz">
+			<state></state>
+			<latitude>225611</latitude>
+			<longitude>586969</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ja alan and Sur -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>221448</latitude>
+			<longitude>592534</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabal Akhbar">
+			<state></state>
+			<latitude>231289</latitude>
+			<longitude>588964</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khasab -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>262024</latitude>
+			<longitude>562543</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La aqaybah -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>263202</latitude>
+			<longitude>564286</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labijah">
+			<state></state>
+			<latitude>234722</latitude>
+			<longitude>576758</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lahaaf -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171947</latitude>
+			<longitude>540269</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laifaat">
+			<state></state>
+			<latitude>246258</latitude>
+			<longitude>558255</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lakbah">
+			<state></state>
+			<latitude>180941</latitude>
+			<longitude>564941</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lali Laynah">
+			<state></state>
+			<latitude>231252</latitude>
+			<longitude>575883</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamehos -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>261044</latitude>
+			<longitude>562416</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lansab -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>235450</latitude>
+			<longitude>583533</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lashkharah">
+			<state></state>
+			<latitude>218608</latitude>
+			<longitude>595775</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lasmu">
+			<state></state>
+			<latitude>231161</latitude>
+			<longitude>588586</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lawt">
+			<state></state>
+			<latitude>195775</latitude>
+			<longitude>576941</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Layh -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>224322</latitude>
+			<longitude>592633</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Layjah">
+			<state></state>
+			<latitude>233114</latitude>
+			<longitude>575561</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leger -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>172016</latitude>
+			<longitude>549525</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lekfayir -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>260500</latitude>
+			<longitude>563558</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lekhwair">
+			<state></state>
+			<latitude>227608</latitude>
+			<longitude>555108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lihaban">
+			<state></state>
+			<latitude>238016</latitude>
+			<longitude>568839</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limah -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>259525</latitude>
+			<longitude>564361</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limhas -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>260627</latitude>
+			<longitude>563897</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liqbi">
+			<state></state>
+			<latitude>182108</latitude>
+			<longitude>565608</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lishgar">
+			<state></state>
+			<latitude>243275</latitude>
+			<longitude>561441</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lislat">
+			<state></state>
+			<latitude>237127</latitude>
+			<longitude>567630</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liwa -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>245469</latitude>
+			<longitude>565764</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lizq">
+			<state></state>
+			<latitude>227250</latitude>
+			<longitude>581825</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lokhbeb">
+			<state></state>
+			<latitude>244441</latitude>
+			<longitude>560608</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lothera">
+			<state></state>
+			<latitude>243775</latitude>
+			<longitude>560441</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lub -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170858</latitude>
+			<longitude>540530</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luqmat Umm al Baqr">
+			<state></state>
+			<latitude>239077</latitude>
+			<longitude>560689</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lutaym -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>230622</latitude>
+			<longitude>557480</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luwami -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>236811</latitude>
+			<longitude>582147</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luwayb">
+			<state></state>
+			<latitude>257814</latitude>
+			<longitude>562269</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luwaydhijah">
+			<state></state>
+			<latitude>222108</latitude>
+			<longitude>570608</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luzuq">
+			<state></state>
+			<latitude>233414</latitude>
+			<longitude>581333</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mabrah -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>236681</latitude>
+			<longitude>571687</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manah">
+			<state></state>
+			<latitude>227942</latitude>
+			<longitude>576109</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marmul">
+			<state></state>
+			<latitude>181442</latitude>
+			<longitude>552776</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mirbat -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>169995</latitude>
+			<longitude>547031</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Musairif">
+			<state></state>
+			<latitude>188109</latitude>
+			<longitude>539776</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muscat -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>236242</latitude>
+			<longitude>586042</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muscat">
+			<state></state>
+			<latitude>210109</latitude>
+			<longitude>570109</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muscat Island -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>236340</latitude>
+			<longitude>586101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nizwa">
+			<state></state>
+			<latitude>229443</latitude>
+			<longitude>575443</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okkad -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170144</latitude>
+			<longitude>540489</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oman">
+			<state></state>
+			<latitude>221778</latitude>
+			<longitude>580111</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oman Promontory -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>262817</latitude>
+			<longitude>564003</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Owtar -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171789</latitude>
+			<longitude>540953</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pillar Rock -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>236220</latitude>
+			<longitude>586151</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Qaboos -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>236334</latitude>
+			<longitude>585823</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port salalah -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>169509</latitude>
+			<longitude>540168</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarn Alam">
+			<state></state>
+			<latitude>214113</latitude>
+			<longitude>569780</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qurm">
+			<state></state>
+			<latitude>236280</latitude>
+			<longitude>585113</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rustaq">
+			<state></state>
+			<latitude>234022</latitude>
+			<longitude>574358</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ruwi -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>236020</latitude>
+			<longitude>585614</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saham -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>241837</latitude>
+			<longitude>569001</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sahma">
+			<state></state>
+			<latitude>202615</latitude>
+			<longitude>557615</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saih Rawl">
+			<state></state>
+			<latitude>212615</latitude>
+			<longitude>561282</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salala -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170290</latitude>
+			<longitude>540943</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seeb International Airport">
+			<state></state>
+			<latitude>235948</latitude>
+			<longitude>581948</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shinas -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>247548</latitude>
+			<longitude>564773</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sohar -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>243804</latitude>
+			<longitude>567554</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sur -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>225782</latitude>
+			<longitude>595404</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thamarit -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>176816</latitude>
+			<longitude>540449</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thermod">
+			<state></state>
+			<latitude>238083</latitude>
+			<longitude>575141</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubaylah">
+			<state></state>
+			<latitude>242784</latitude>
+			<longitude>561617</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udhaybah -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>236123</latitude>
+			<longitude>583881</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uhi -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>244075</latitude>
+			<longitude>566820</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ujaydah">
+			<state></state>
+			<latitude>244617</latitude>
+			<longitude>560617</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukhayzir">
+			<state></state>
+			<latitude>226384</latitude>
+			<longitude>580181</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulub -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171014</latitude>
+			<longitude>540764</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulya">
+			<state></state>
+			<latitude>229392</latitude>
+			<longitude>580900</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Adailan">
+			<state></state>
+			<latitude>217117</latitude>
+			<longitude>586450</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al Dharr">
+			<state></state>
+			<latitude>221117</latitude>
+			<longitude>564784</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al Fayarin -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>261909</latitude>
+			<longitude>565586</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al Hufayl -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>237623</latitude>
+			<longitude>556559</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al Jarad">
+			<state></state>
+			<latitude>205784</latitude>
+			<longitude>575284</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al Ja`arif -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>241231</latitude>
+			<longitude>569528</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al Samim">
+			<state></state>
+			<latitude>216520</latitude>
+			<longitude>559114</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al `Inah -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>246242</latitude>
+			<longitude>565495</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm az Zumul">
+			<state></state>
+			<latitude>227617</latitude>
+			<longitude>555284</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Bar">
+			<state></state>
+			<latitude>242195</latitude>
+			<longitude>559759</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Dibiyan">
+			<state></state>
+			<latitude>228784</latitude>
+			<longitude>565950</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Ghattah -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>232092</latitude>
+			<longitude>563309</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Salib -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>233664</latitude>
+			<longitude>563664</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Samasim">
+			<state></state>
+			<latitude>247450</latitude>
+			<longitude>564617</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="UmmRusays -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>204784</latitude>
+			<longitude>587950</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umq -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>229111</latitude>
+			<longitude>590975</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umran -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>170989</latitude>
+			<longitude>543000</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unkulth -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171436</latitude>
+			<longitude>542895</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uruq al Hazz">
+			<state></state>
+			<latitude>188450</latitude>
+			<longitude>523450</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urzuq">
+			<state></state>
+			<latitude>170284</latitude>
+			<longitude>536950</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usayy">
+			<state></state>
+			<latitude>196784</latitude>
+			<longitude>575784</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwayfi">
+			<state></state>
+			<latitude>222617</latitude>
+			<longitude>569950</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadi al Kabir">
+			<state></state>
+			<latitude>233000</latitude>
+			<longitude>565730</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadi Bani Khalid -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>224833</latitude>
+			<longitude>591275</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ya aribah">
+			<state></state>
+			<latitude>234007</latitude>
+			<longitude>577946</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahi Risakh">
+			<state></state>
+			<latitude>174954</latitude>
+			<longitude>545621</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yal Braik">
+			<state></state>
+			<latitude>237918</latitude>
+			<longitude>576304</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yal Bu Rashid -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>238760</latitude>
+			<longitude>573621</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yal Burayk -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>240282</latitude>
+			<longitude>570621</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yal Sa`d">
+			<state></state>
+			<latitude>237604</latitude>
+			<longitude>576013</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yal Wahiba">
+			<state></state>
+			<latitude>217621</latitude>
+			<longitude>586788</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanbu` -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>242677</latitude>
+			<longitude>565510</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanqal">
+			<state></state>
+			<latitude>235763</latitude>
+			<longitude>565440</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanqul">
+			<state></state>
+			<latitude>235977</latitude>
+			<longitude>565529</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yawiyah">
+			<state></state>
+			<latitude>231543</latitude>
+			<longitude>574593</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ya`aqib">
+			<state></state>
+			<latitude>232471</latitude>
+			<longitude>566371</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yenkit -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>235268</latitude>
+			<longitude>587124</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yibal">
+			<state></state>
+			<latitude>221788</latitude>
+			<longitude>560121</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yidah -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>261177</latitude>
+			<longitude>561690</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yida`ah">
+			<state></state>
+			<latitude>202121</latitude>
+			<longitude>577454</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yidiyah al Bahr -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>260974</latitude>
+			<longitude>564504</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yidiyah Safiyah -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>261049</latitude>
+			<longitude>564118</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yika">
+			<state></state>
+			<latitude>233904</latitude>
+			<longitude>572004</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yimah -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>257107</latitude>
+			<longitude>562202</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yistin -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>224282</latitude>
+			<longitude>591902</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yisub">
+			<state></state>
+			<latitude>178288</latitude>
+			<longitude>554121</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yiti -- (State: Masqat)">
+			<state>Masqat</state>
+			<latitude>235388</latitude>
+			<longitude>586771</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yiyailah -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>261679</latitude>
+			<longitude>564304</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zab">
+			<state></state>
+			<latitude>245622</latitude>
+			<longitude>559955</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabi`ah">
+			<state></state>
+			<latitude>234619</latitude>
+			<longitude>571269</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabyat">
+			<state></state>
+			<latitude>243622</latitude>
+			<longitude>563789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zab`in -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>245264</latitude>
+			<longitude>563716</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaghi">
+			<state></state>
+			<latitude>257130</latitude>
+			<longitude>562853</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahir">
+			<state></state>
+			<latitude>243122</latitude>
+			<longitude>561289</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahirah -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>234547</latitude>
+			<longitude>561311</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahiriyah -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>203789</latitude>
+			<longitude>588122</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahr">
+			<state></state>
+			<latitude>191122</latitude>
+			<longitude>569789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahr Sidrah">
+			<state></state>
+			<latitude>232622</latitude>
+			<longitude>585955</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahrayn -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>261150</latitude>
+			<longitude>562222</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahur">
+			<state></state>
+			<latitude>233111</latitude>
+			<longitude>575469</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zakhir">
+			<state></state>
+			<latitude>246455</latitude>
+			<longitude>558289</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zammah">
+			<state></state>
+			<latitude>232291</latitude>
+			<longitude>574147</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanair">
+			<state></state>
+			<latitude>175455</latitude>
+			<longitude>552789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanatiyat -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>203122</latitude>
+			<longitude>585955</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarub">
+			<state></state>
+			<latitude>242133</latitude>
+			<longitude>559708</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zawahir">
+			<state></state>
+			<latitude>246311</latitude>
+			<longitude>558144</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaydi">
+			<state></state>
+			<latitude>225572</latitude>
+			<longitude>581891</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaymi">
+			<state></state>
+			<latitude>244622</latitude>
+			<longitude>562955</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Za`ab -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>240153</latitude>
+			<longitude>570858</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Za`bah -- (State: Az Zahirah)">
+			<state>Az Zahirah</state>
+			<latitude>237305</latitude>
+			<longitude>555191</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Za`faran -- (State: Al Batinah)">
+			<state>Al Batinah</state>
+			<latitude>244278</latitude>
+			<longitude>567136</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zerbaiy -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>171122</latitude>
+			<longitude>540122</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zerd -- (State: Musandam)">
+			<state>Musandam</state>
+			<latitude>262380</latitude>
+			<longitude>564158</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zghiu">
+			<state></state>
+			<latitude>245766</latitude>
+			<longitude>559975</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zibarah">
+			<state></state>
+			<latitude>214122</latitude>
+			<longitude>584122</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zikt">
+			<state></state>
+			<latitude>231061</latitude>
+			<longitude>574428</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zilaft -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>226025</latitude>
+			<longitude>591030</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zimaima">
+			<state></state>
+			<latitude>221955</latitude>
+			<longitude>572122</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zirkur -- (State: Zufar)">
+			<state>Zufar</state>
+			<latitude>173483</latitude>
+			<longitude>544983</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziyan">
+			<state></state>
+			<latitude>238955</latitude>
+			<longitude>573289</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zufar">
+			<state></state>
+			<latitude>170547</latitude>
+			<longitude>541775</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuhayb">
+			<state></state>
+			<latitude>227955</latitude>
+			<longitude>565955</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zukayt">
+			<state></state>
+			<latitude>228955</latitude>
+			<longitude>577622</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuwayhir">
+			<state></state>
+			<latitude>243955</latitude>
+			<longitude>560455</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

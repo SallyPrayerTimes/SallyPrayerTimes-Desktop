@@ -1,0 +1,586 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Peru">
+		<city name="3 De Octubre -- (State: Ancash)">
+			<state>Ancash</state>
+			<latitude>-91116</latitude>
+			<longitude>-785449</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arequipa">
+			<state></state>
+			<latitude>-163892</latitude>
+			<longitude>-715253</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arequipa -- (State: Tacna)">
+			<state>Tacna</state>
+			<latitude>-173139</latitude>
+			<longitude>-703231</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Callao">
+			<state></state>
+			<latitude>-120568</latitude>
+			<longitude>-771401</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Callao -- (State: Loreto)">
+			<state>Loreto</state>
+			<latitude>-53401</latitude>
+			<longitude>-737568</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiclayo -- (State: Lambayeque)">
+			<state>Lambayeque</state>
+			<latitude>-67734</latitude>
+			<longitude>-798234</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiclayo -- (State: San Martin)">
+			<state>San Martin</state>
+			<latitude>-78901</latitude>
+			<longitude>-772734</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiclayo -- (State: Ayacucho)">
+			<state>Ayacucho</state>
+			<latitude>-138773</latitude>
+			<longitude>-737182</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiclayo -- (State: Loreto)">
+			<state>Loreto</state>
+			<latitude>-55234</latitude>
+			<longitude>-737568</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiclayo -- (State: Madre de Dios)">
+			<state>Madre de Dios</state>
+			<latitude>-113401</latitude>
+			<longitude>-697734</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiclayo -- (State: La Libertad)">
+			<state>La Libertad</state>
+			<latitude>-67568</latitude>
+			<longitude>-798401</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cuzco -- (State: San Martin)">
+			<state>San Martin</state>
+			<latitude>-69734</latitude>
+			<longitude>-764568</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cuzco -- (State: Cusco)">
+			<state>Cusco</state>
+			<latitude>-134901</latitude>
+			<longitude>-719901</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cuzco Puquio -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-151676</latitude>
+			<longitude>-717495</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huancayo -- (State: Apurimac)">
+			<state>Apurimac</state>
+			<latitude>-134821</latitude>
+			<longitude>-735340</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huancayo -- (State: Junin)">
+			<state>Junin</state>
+			<latitude>-120563</latitude>
+			<longitude>-752229</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iquitos -- (State: Loreto)">
+			<state>Loreto</state>
+			<latitude>-37376</latitude>
+			<longitude>-732367</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kahuis -- (State: Ancash)">
+			<state>Ancash</state>
+			<latitude>-97060</latitude>
+			<longitude>-771726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kakencolla -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-151901</latitude>
+			<longitude>-715410</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalajahuira -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-166726</latitude>
+			<longitude>-697726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamish -- (State: Cajamarca)">
+			<state>Cajamarca</state>
+			<latitude>-72393</latitude>
+			<longitude>-779726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kane -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-167560</latitude>
+			<longitude>-696893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanzel -- (State: Cajamarca)">
+			<state>Cajamarca</state>
+			<latitude>-74726</latitude>
+			<longitude>-783726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kasani -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-162060</latitude>
+			<longitude>-690726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kauta -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-152893</latitude>
+			<longitude>-698893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kcaira-Pampa -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-153485</latitude>
+			<longitude>-726679</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kcanahuayoc-Pampa -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-154835</latitude>
+			<longitude>-725210</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kechaya -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-152226</latitude>
+			<longitude>-697893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenco Ccasa -- (State: Apurimac)">
+			<state>Apurimac</state>
+			<latitude>-141393</latitude>
+			<longitude>-723060</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenjollo -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-161560</latitude>
+			<longitude>-710226</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kerguer -- (State: Lambayeque)">
+			<state>Lambayeque</state>
+			<latitude>-61732</latitude>
+			<longitude>-794996</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ketekete -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-153060</latitude>
+			<longitude>-699060</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiatari -- (State: Junin)">
+			<state>Junin</state>
+			<latitude>-114393</latitude>
+			<longitude>-744560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Killocona -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-164060</latitude>
+			<longitude>-713560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kilometro 30 -- (State: Piura)">
+			<state>Piura</state>
+			<latitude>-42643</latitude>
+			<longitude>-811799</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kimpitirique -- (State: Ayacucho)">
+			<state>Ayacucho</state>
+			<latitude>-122393</latitude>
+			<longitude>-738560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kisamojo -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-153393</latitude>
+			<longitude>-699226</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kishuara -- (State: Apurimac)">
+			<state>Apurimac</state>
+			<latitude>-136893</latitude>
+			<longitude>-730893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kita -- (State: Lima)">
+			<state>Lima</state>
+			<latitude>-118832</latitude>
+			<longitude>-764246</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitiriaro -- (State: Junin)">
+			<state>Junin</state>
+			<latitude>-105404</latitude>
+			<longitude>-748860</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koribeni -- (State: Cusco)">
+			<state>Cusco</state>
+			<latitude>-126726</latitude>
+			<longitude>-729560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kucuaza -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-33276</latitude>
+			<longitude>-778710</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima -- (State: Cajamarca)">
+			<state>Cajamarca</state>
+			<latitude>-56959</latitude>
+			<longitude>-792686</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima -- (State: Loreto)">
+			<state>Loreto</state>
+			<latitude>-58725</latitude>
+			<longitude>-761392</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-153706</latitude>
+			<longitude>-714634</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-159725</latitude>
+			<longitude>-695059</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima">
+			<state></state>
+			<latitude>-120725</latitude>
+			<longitude>-770725</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima Cota -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-156825</latitude>
+			<longitude>-715948</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima Huire -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-150456</latitude>
+			<longitude>-719789</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima Lima -- (State: Junin)">
+			<state>Junin</state>
+			<latitude>-112253</latitude>
+			<longitude>-756767</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima Pampa -- (State: Cusco)">
+			<state>Cusco</state>
+			<latitude>-140778</latitude>
+			<longitude>-713264</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lima Vieja -- (State: Ica)">
+			<state>Ica</state>
+			<latitude>-137059</latitude>
+			<longitude>-759392</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limabamba -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-64559</latitude>
+			<longitude>-774559</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limache -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-166892</latitude>
+			<longitude>-692392</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limacota -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-152636</latitude>
+			<longitude>-713131</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limactambo -- (State: Lima)">
+			<state>Lima</state>
+			<latitude>-119823</latitude>
+			<longitude>-760981</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limacucho -- (State: Huanuco)">
+			<state>Huanuco</state>
+			<latitude>-102881</latitude>
+			<longitude>-763561</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limahuiri -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-151481</latitude>
+			<longitude>-717245</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limaipuquio -- (State: Junin)">
+			<state>Junin</state>
+			<latitude>-113475</latitude>
+			<longitude>-757925</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limapampa -- (State: Arequipa)">
+			<state>Arequipa</state>
+			<latitude>-150611</latitude>
+			<longitude>-719011</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limapampa -- (State: Cajamarca)">
+			<state>Cajamarca</state>
+			<latitude>-72725</latitude>
+			<longitude>-781559</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limapampa -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-133559</latitude>
+			<longitude>-703392</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limapata -- (State: Cusco)">
+			<state>Cusco</state>
+			<latitude>-150859</latitude>
+			<longitude>-710920</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limaspampa -- (State: Moquegua)">
+			<state>Moquegua</state>
+			<latitude>-171064</latitude>
+			<longitude>-708220</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limatambo -- (State: Cusco)">
+			<state>Cusco</state>
+			<latitude>-134623</latitude>
+			<longitude>-724223</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limatambo Hacienda -- (State: Lima)">
+			<state>Lima</state>
+			<latitude>-120892</latitude>
+			<longitude>-770225</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limay -- (State: Ica)">
+			<state>Ica</state>
+			<latitude>-132225</latitude>
+			<longitude>-758059</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piura -- (State: Ancash)">
+			<state>Ancash</state>
+			<latitude>-94388</latitude>
+			<longitude>-783555</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piura">
+			<state></state>
+			<latitude>-54888</latitude>
+			<longitude>-805721</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piura -- (State: Loreto)">
+			<state>Loreto</state>
+			<latitude>-53888</latitude>
+			<longitude>-737888</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tacna">
+			<state></state>
+			<latitude>-180384</latitude>
+			<longitude>-702717</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tacna -- (State: Madre de Dios)">
+			<state>Madre de Dios</state>
+			<latitude>-109384</latitude>
+			<longitude>-695717</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tacna Libre -- (State: Tumbes)">
+			<state>Tumbes</state>
+			<latitude>-39409</latitude>
+			<longitude>-806478</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trujillo -- (State: Piura)">
+			<state>Piura</state>
+			<latitude>-55551</latitude>
+			<longitude>-737551</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trujillo -- (State: La Libertad)">
+			<state>La Libertad</state>
+			<latitude>-81051</latitude>
+			<longitude>-790217</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trujillo -- (State: San Martin)">
+			<state>San Martin</state>
+			<latitude>-74759</latitude>
+			<longitude>-764242</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadington -- (State: Lambayeque)">
+			<state>Lambayeque</state>
+			<latitude>-66870</latitude>
+			<longitude>-794398</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Washa -- (State: Lima)">
+			<state>Lima</state>
+			<latitude>-127881</latitude>
+			<longitude>-758048</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Western Ranges">
+			<state></state>
+			<latitude>-139881</latitude>
+			<longitude>-739881</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wichancalle -- (State: Puno)">
+			<state>Puno</state>
+			<latitude>-163881</latitude>
+			<longitude>-692714</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windon -- (State: Piura)">
+			<state>Piura</state>
+			<latitude>-51087</latitude>
+			<longitude>-797195</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiscachanayoc -- (State: Ayacucho)">
+			<state>Ayacucho</state>
+			<latitude>-146714</latitude>
+			<longitude>-743048</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wito -- (State: Apurimac)">
+			<state>Apurimac</state>
+			<latitude>-143314</latitude>
+			<longitude>-735064</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

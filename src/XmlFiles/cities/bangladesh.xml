@@ -1,0 +1,600 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bangladesh">
+		<city name="Bagdahar">
+			<state></state>
+			<latitude>238931</latitude>
+			<longitude>909765</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bagdahara">
+			<state></state>
+			<latitude>259431</latitude>
+			<longitude>891765</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baliadi">
+			<state></state>
+			<latitude>240598</latitude>
+			<longitude>902098</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barisal">
+			<state></state>
+			<latitude>227098</latitude>
+			<longitude>903765</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barisal River -- (State: Barisal)">
+			<state>Barisal</state>
+			<latitude>226765</latitude>
+			<longitude>903598</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barisal Zila -- (State: Barisal)">
+			<state>Barisal</state>
+			<latitude>228098</latitude>
+			<longitude>905098</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Biswanath">
+			<state></state>
+			<latitude>257431</latitude>
+			<longitude>894931</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brahmanbaria District -- (State: Chittagong)">
+			<state>Chittagong</state>
+			<latitude>239931</latitude>
+			<longitude>911765</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chittagong">
+			<state></state>
+			<latitude>223735</latitude>
+			<longitude>918132</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chittagong Hill Tract -- (State: Chittagong)">
+			<state>Chittagong</state>
+			<latitude>228099</latitude>
+			<longitude>923432</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chittagong Hills">
+			<state></state>
+			<latitude>230099</latitude>
+			<longitude>922599</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chittagong Port -- (State: Chittagong)">
+			<state>Chittagong</state>
+			<latitude>223432</latitude>
+			<longitude>918432</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chittagong Zila -- (State: Chittagong)">
+			<state>Chittagong</state>
+			<latitude>224932</latitude>
+			<longitude>919766</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Comilla -- (State: Chittagong)">
+			<state>Chittagong</state>
+			<latitude>234677</latitude>
+			<longitude>912143</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dacca Ramna">
+			<state></state>
+			<latitude>237433</latitude>
+			<longitude>904100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhaka">
+			<state></state>
+			<latitude>237331</latitude>
+			<longitude>904186</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhaka Chandragati">
+			<state></state>
+			<latitude>242267</latitude>
+			<longitude>888767</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhaka District -- (State: Dhaka)">
+			<state>Dhaka</state>
+			<latitude>240100</latitude>
+			<longitude>905100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhakadakshin">
+			<state></state>
+			<latitude>248267</latitude>
+			<longitude>920600</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhakairhati">
+			<state></state>
+			<latitude>230767</latitude>
+			<longitude>903600</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhakajhalpara">
+			<state></state>
+			<latitude>239100</latitude>
+			<longitude>890933</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhakanta">
+			<state></state>
+			<latitude>247933</latitude>
+			<longitude>892767</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhakargaon">
+			<state></state>
+			<latitude>235267</latitude>
+			<longitude>907600</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhamura">
+			<state></state>
+			<latitude>228933</latitude>
+			<longitude>902100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doulatpur">
+			<state></state>
+			<latitude>247100</latitude>
+			<longitude>905600</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feni District -- (State: Chittagong)">
+			<state>Chittagong</state>
+			<latitude>229769</latitude>
+			<longitude>913269</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gazipur District -- (State: Dhaka)">
+			<state>Dhaka</state>
+			<latitude>252603</latitude>
+			<longitude>895103</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Godagari">
+			<state></state>
+			<latitude>244770</latitude>
+			<longitude>883436</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jessore -- (State: Khulna)">
+			<state>Khulna</state>
+			<latitude>231773</latitude>
+			<longitude>892273</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jessore District -- (State: Khulna)">
+			<state>Khulna</state>
+			<latitude>230939</latitude>
+			<longitude>891773</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joydebpur -- (State: Dhaka)">
+			<state>Dhaka</state>
+			<latitude>240045</latitude>
+			<longitude>904414</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joypara -- (State: Dhaka)">
+			<state>Dhaka</state>
+			<latitude>236295</latitude>
+			<longitude>901367</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khulna">
+			<state></state>
+			<latitude>228107</latitude>
+			<longitude>895607</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khulna District -- (State: Khulna)">
+			<state>Khulna</state>
+			<latitude>225107</latitude>
+			<longitude>893440</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khulna Junction">
+			<state></state>
+			<latitude>228440</latitude>
+			<longitude>895607</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noakhali District -- (State: Chittagong)">
+			<state>Chittagong</state>
+			<latitude>227610</latitude>
+			<longitude>911777</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obhajani">
+			<state></state>
+			<latitude>238111</latitude>
+			<longitude>899611</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojharpara">
+			<state></state>
+			<latitude>239778</latitude>
+			<longitude>903778</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okarbari">
+			<state></state>
+			<latitude>249778</latitude>
+			<longitude>889611</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Bansi">
+			<state></state>
+			<latitude>239278</latitude>
+			<longitude>902444</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Bhairab">
+			<state></state>
+			<latitude>227278</latitude>
+			<longitude>897778</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Tumchar">
+			<state></state>
+			<latitude>229278</latitude>
+			<longitude>908278</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orabunia">
+			<state></state>
+			<latitude>225611</latitude>
+			<longitude>892944</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orain">
+			<state></state>
+			<latitude>233611</latitude>
+			<longitude>909611</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orthoki Tila">
+			<state></state>
+			<latitude>248278</latitude>
+			<longitude>918278</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osmanpur">
+			<state></state>
+			<latitude>238278</latitude>
+			<longitude>889111</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ostakhan">
+			<state></state>
+			<latitude>226444</latitude>
+			<longitude>901778</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otampur">
+			<state></state>
+			<latitude>226278</latitude>
+			<longitude>904778</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otra">
+			<state></state>
+			<latitude>228778</latitude>
+			<longitude>901778</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pabna">
+			<state></state>
+			<latitude>240112</latitude>
+			<longitude>892612</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qadirpara">
+			<state></state>
+			<latitude>215113</latitude>
+			<longitude>920780</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qasba">
+			<state></state>
+			<latitude>229613</latitude>
+			<longitude>914780</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qazipur">
+			<state></state>
+			<latitude>249780</latitude>
+			<longitude>893446</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qazirnager -- (State: BG80)">
+			<state>BG80</state>
+			<latitude>232360</latitude>
+			<longitude>909632</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoin Hill">
+			<state></state>
+			<latitude>210613</latitude>
+			<longitude>922113</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rajshahi">
+			<state></state>
+			<latitude>243781</latitude>
+			<longitude>886114</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangpur">
+			<state></state>
+			<latitude>229114</latitude>
+			<longitude>894781</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santahar">
+			<state></state>
+			<latitude>248115</latitude>
+			<longitude>889948</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sylhet">
+			<state></state>
+			<latitude>245448</latitude>
+			<longitude>918782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sylhet District -- (State: Sylhet)">
+			<state>Sylhet</state>
+			<latitude>249282</latitude>
+			<longitude>917782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sylhet Division -- (State: Sylhet)">
+			<state>Sylhet</state>
+			<latitude>245115</latitude>
+			<longitude>916782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tangail">
+			<state></state>
+			<latitude>242616</latitude>
+			<longitude>899283</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tangail District -- (State: Dhaka)">
+			<state>Dhaka</state>
+			<latitude>244116</latitude>
+			<longitude>900116</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vadrakali">
+			<state></state>
+			<latitude>249618</latitude>
+			<longitude>890285</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vellabaria">
+			<state></state>
+			<latitude>237451</latitude>
+			<longitude>896118</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vishnupur">
+			<state></state>
+			<latitude>232951</latitude>
+			<longitude>910451</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ya-lu-ts ang-pu Chiang">
+			<state></state>
+			<latitude>240454</latitude>
+			<longitude>909954</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakubpur">
+			<state></state>
+			<latitude>235121</latitude>
+			<longitude>910954</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakubpur -- (State: BG80)">
+			<state>BG80</state>
+			<latitude>229382</latitude>
+			<longitude>913454</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yambongtong">
+			<state></state>
+			<latitude>212954</latitude>
+			<longitude>925788</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanchha Khiang">
+			<state></state>
+			<latitude>217454</latitude>
+			<longitude>921621</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanchhapara">
+			<state></state>
+			<latitude>216954</latitude>
+			<longitude>921954</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarangchari">
+			<state></state>
+			<latitude>230788</latitude>
+			<longitude>921621</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youthful Lord">
+			<state></state>
+			<latitude>220954</latitude>
+			<longitude>899121</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yusafganj">
+			<state></state>
+			<latitude>238454</latitude>
+			<longitude>905121</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yusufpur">
+			<state></state>
+			<latitude>224788</latitude>
+			<longitude>891454</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zafar Khal">
+			<state></state>
+			<latitude>220455</latitude>
+			<longitude>895789</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zafarpur">
+			<state></state>
+			<latitude>238122</latitude>
+			<longitude>894455</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaffarpur">
+			<state></state>
+			<latitude>242622</latitude>
+			<longitude>908455</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zazira">
+			<state></state>
+			<latitude>249122</latitude>
+			<longitude>891455</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zigli">
+			<state></state>
+			<latitude>248455</latitude>
+			<longitude>916122</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zinbari">
+			<state></state>
+			<latitude>231122</latitude>
+			<longitude>901455</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zopui">
+			<state></state>
+			<latitude>236622</latitude>
+			<longitude>922455</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorarganj">
+			<state></state>
+			<latitude>228622</latitude>
+			<longitude>915455</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zulfiquar Channel">
+			<state></state>
+			<latitude>217622</latitude>
+			<longitude>895122</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

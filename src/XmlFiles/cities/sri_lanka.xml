@@ -1,0 +1,733 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Sri Lanka">
+		<city name="Addalachenai -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>72597</latitude>
+			<longitude>818597</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akkaraipattu -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>72264</latitude>
+			<longitude>818597</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akurana -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>76597</latitude>
+			<longitude>800264</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akurana -- (State: Central)">
+			<state>Central</state>
+			<latitude>73764</latitude>
+			<longitude>806264</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akurana -- (State: Sabaragamuwa)">
+			<state>Sabaragamuwa</state>
+			<latitude>67764</latitude>
+			<longitude>802930</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balangoda -- (State: Sabaragamuwa)">
+			<state>Sabaragamuwa</state>
+			<latitude>66590</latitude>
+			<longitude>806820</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bambalapitiya -- (State: Western)">
+			<state>Western</state>
+			<latitude>68976</latitude>
+			<longitude>798717</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Battaramulla -- (State: Western)">
+			<state>Western</state>
+			<latitude>69098</latitude>
+			<longitude>799265</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batticaloa District -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>77598</latitude>
+			<longitude>815098</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colombo -- (State: Western)">
+			<state>Western</state>
+			<latitude>69418</latitude>
+			<longitude>798577</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colombo District -- (State: Western)">
+			<state>Western</state>
+			<latitude>68766</latitude>
+			<longitude>800266</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colombo Fort -- (State: Western)">
+			<state>Western</state>
+			<latitude>69435</latitude>
+			<longitude>798602</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colombo Harbour -- (State: Western)">
+			<state>Western</state>
+			<latitude>69563</latitude>
+			<longitude>798605</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colombogama -- (State: Sabaragamuwa)">
+			<state>Sabaragamuwa</state>
+			<latitude>65932</latitude>
+			<longitude>805099</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colpetty -- (State: Western)">
+			<state>Western</state>
+			<latitude>68932</latitude>
+			<longitude>798599</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dehiwala -- (State: Western)">
+			<state>Western</state>
+			<latitude>68614</latitude>
+			<longitude>798753</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eravur -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>77768</latitude>
+			<longitude>816101</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairfield -- (State: Central)">
+			<state>Central</state>
+			<latitude>69269</latitude>
+			<longitude>806769</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairlawn -- (State: Central)">
+			<state>Central</state>
+			<latitude>67769</latitude>
+			<longitude>806435</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairlawn Falls -- (State: Central)">
+			<state>Central</state>
+			<latitude>67769</latitude>
+			<longitude>806269</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faithlie -- (State: Central)">
+			<state>Central</state>
+			<latitude>69602</latitude>
+			<longitude>806435</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fassifern West -- (State: Central)">
+			<state>Central</state>
+			<latitude>69102</latitude>
+			<longitude>807102</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fellside -- (State: Uva)">
+			<state>Uva</state>
+			<latitude>67935</latitude>
+			<longitude>810602</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fermoyle -- (State: Uva)">
+			<state>Uva</state>
+			<latitude>68602</latitude>
+			<longitude>811269</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferndale -- (State: Central)">
+			<state>Central</state>
+			<latitude>73602</latitude>
+			<longitude>808435</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferriby -- (State: Western)">
+			<state>Western</state>
+			<latitude>69269</latitude>
+			<longitude>801935</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fetteresso -- (State: Central)">
+			<state>Central</state>
+			<latitude>67769</latitude>
+			<longitude>806935</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Figland -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>63102</latitude>
+			<longitude>805935</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flensberg -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>77102</latitude>
+			<longitude>803769</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Florence -- (State: Central)">
+			<state>Central</state>
+			<latitude>70102</latitude>
+			<longitude>804602</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fordyce -- (State: Central)">
+			<state>Central</state>
+			<latitude>68769</latitude>
+			<longitude>806602</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Ostenburg -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>85435</latitude>
+			<longitude>812269</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Francewatta -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>60769</latitude>
+			<longitude>808102</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Friedlands -- (State: Central)">
+			<state>Central</state>
+			<latitude>67769</latitude>
+			<longitude>806769</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frotoft -- (State: Central)">
+			<state>Central</state>
+			<latitude>70769</latitude>
+			<longitude>807102</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fruithill -- (State: Central)">
+			<state>Central</state>
+			<latitude>69102</latitude>
+			<longitude>805935</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galle -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>60639</latitude>
+			<longitude>802220</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gurutalawa -- (State: Uva)">
+			<state>Uva</state>
+			<latitude>68534</latitude>
+			<longitude>809331</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hapugastalawa -- (State: Central)">
+			<state>Central</state>
+			<latitude>70771</latitude>
+			<longitude>805771</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J P Totum -- (State: Sabaragamuwa)">
+			<state>Sabaragamuwa</state>
+			<latitude>64939</latitude>
+			<longitude>806106</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ja Ela -- (State: Western)">
+			<state>Western</state>
+			<latitude>71092</latitude>
+			<longitude>798689</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaffna -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>96773</latitude>
+			<longitude>800106</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaffna Beacon -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>96439</latitude>
+			<longitude>800439</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaffna District -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>97606</latitude>
+			<longitude>800939</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaffna Jetty Number 1 -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>96606</latitude>
+			<longitude>800273</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaffna Lagoon -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>95939</latitude>
+			<longitude>802606</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaffna on Rocks -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>96606</latitude>
+			<longitude>800439</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaffna Peninsula -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>97606</latitude>
+			<longitude>801773</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaffna Road -- (State: North Central)">
+			<state>North Central</state>
+			<latitude>81606</latitude>
+			<longitude>805439</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaligoda -- (State: Western)">
+			<state>Western</state>
+			<latitude>68273</latitude>
+			<longitude>799273</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamburutugoda -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>60273</latitude>
+			<longitude>804106</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jankure -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>75273</latitude>
+			<longitude>805273</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jatunkanda -- (State: Sabaragamuwa)">
+			<state>Sabaragamuwa</state>
+			<latitude>63773</latitude>
+			<longitude>806439</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jawatta -- (State: Western)">
+			<state>Western</state>
+			<latitude>66273</latitude>
+			<longitude>799773</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jayamanna -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>60606</latitude>
+			<longitude>804939</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jayanthipura -- (State: North Central)">
+			<state>North Central</state>
+			<latitude>80106</latitude>
+			<longitude>810106</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Julgamuwa -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>62106</latitude>
+			<longitude>811606</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalubowila West -- (State: Western)">
+			<state>Western</state>
+			<latitude>68774</latitude>
+			<longitude>798774</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamburapola -- (State: Sabaragamuwa)">
+			<state>Sabaragamuwa</state>
+			<latitude>69940</latitude>
+			<longitude>802440</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kandy -- (State: Central)">
+			<state>Central</state>
+			<latitude>73071</latitude>
+			<longitude>806457</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kandy District -- (State: Central)">
+			<state>Central</state>
+			<latitude>72607</latitude>
+			<longitude>807607</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kandy Lake -- (State: Central)">
+			<state>Central</state>
+			<latitude>73107</latitude>
+			<longitude>806440</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kandy Plateau -- (State: Central)">
+			<state>Central</state>
+			<latitude>72607</latitude>
+			<longitude>806774</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kattankudi -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>76857</latitude>
+			<longitude>817407</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurunegala -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>74974</latitude>
+			<longitude>803754</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurunegala District -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>77607</latitude>
+			<longitude>802607</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maharagama -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>73609</latitude>
+			<longitude>801442</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maradana -- (State: Western)">
+			<state>Western</state>
+			<latitude>69356</latitude>
+			<longitude>798742</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matale Town -- (State: Central)">
+			<state>Central</state>
+			<latitude>74826</latitude>
+			<longitude>806353</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mawanella -- (State: Sabaragamuwa)">
+			<state>Sabaragamuwa</state>
+			<latitude>72576</latitude>
+			<longitude>804534</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miella -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>61276</latitude>
+			<longitude>806942</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monaragala District -- (State: Uva)">
+			<state>Uva</state>
+			<latitude>66776</latitude>
+			<longitude>813442</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moratuwa -- (State: Western)">
+			<state>Western</state>
+			<latitude>67842</latitude>
+			<longitude>798934</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moratuwa -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>74276</latitude>
+			<longitude>804109</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moratuwatta -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>74942</latitude>
+			<longitude>798442</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nawalapitiya -- (State: Central)">
+			<state>Central</state>
+			<latitude>70660</latitude>
+			<longitude>805468</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negombo -- (State: Western)">
+			<state>Western</state>
+			<latitude>72196</latitude>
+			<longitude>798468</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nintavur -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>73610</latitude>
+			<longitude>818610</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nugegoda -- (State: Western)">
+			<state>Western</state>
+			<latitude>68838</latitude>
+			<longitude>799018</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Panadura -- (State: Western)">
+			<state>Western</state>
+			<latitude>67245</latitude>
+			<longitude>799154</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paragahadeniya -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>74279</latitude>
+			<longitude>804779</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peradeniya -- (State: Central)">
+			<state>Central</state>
+			<latitude>72743</latitude>
+			<longitude>806140</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Polonnaruwa -- (State: North Central)">
+			<state>North Central</state>
+			<latitude>79445</latitude>
+			<longitude>810112</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puttalam -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>80445</latitude>
+			<longitude>798279</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queelwatte -- (State: Central)">
+			<state>Central</state>
+			<latitude>67946</latitude>
+			<longitude>806446</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queens Bay -- (State: Western)">
+			<state>Western</state>
+			<latitude>67446</latitude>
+			<longitude>801446</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queensberry -- (State: Central)">
+			<state>Central</state>
+			<latitude>69946</latitude>
+			<longitude>806113</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queensland -- (State: Central)">
+			<state>Central</state>
+			<latitude>68280</latitude>
+			<longitude>805780</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queenwood -- (State: Central)">
+			<state>Central</state>
+			<latitude>69113</latitude>
+			<longitude>806446</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quina Totam -- (State: Central)">
+			<state>Central</state>
+			<latitude>68113</latitude>
+			<longitude>807113</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinchberry -- (State: Central)">
+			<state>Central</state>
+			<latitude>69613</latitude>
+			<longitude>806946</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rajagiriya -- (State: Western)">
+			<state>Western</state>
+			<latitude>69242</latitude>
+			<longitude>799053</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saintamaruthu -- (State: North Eastern)">
+			<state>North Eastern</state>
+			<latitude>73948</latitude>
+			<longitude>818448</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sri Jayavardhanapura -- (State: Western)">
+			<state>Western</state>
+			<latitude>69143</latitude>
+			<longitude>799198</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tihariya -- (State: Western)">
+			<state>Western</state>
+			<latitude>71355</latitude>
+			<longitude>800833</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tundawela -- (State: Uva)">
+			<state>Uva</state>
+			<latitude>71116</latitude>
+			<longitude>810283</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyanwatta -- (State: Western)">
+			<state>Western</state>
+			<latitude>67450</latitude>
+			<longitude>800284</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wattala -- (State: Western)">
+			<state>Western</state>
+			<latitude>70016</latitude>
+			<longitude>799052</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weligama -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>59786</latitude>
+			<longitude>804286</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weuda -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>74119</latitude>
+			<longitude>801786</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weudagama -- (State: North Western)">
+			<state>North Western</state>
+			<latitude>75452</latitude>
+			<longitude>802119</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabedia -- (State: Western)">
+			<state>Western</state>
+			<latitude>72455</latitude>
+			<longitude>799122</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zowdegala -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>60789</latitude>
+			<longitude>804789</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zululand -- (State: Central)">
+			<state>Central</state>
+			<latitude>73455</latitude>
+			<longitude>807122</longitude>
+			<timezone>550</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

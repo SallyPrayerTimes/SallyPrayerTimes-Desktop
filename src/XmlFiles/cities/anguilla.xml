@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Anguilla">
+		<city name="Anegada Passage">
+			<state></state>
+			<latitude>185097</latitude>
+			<longitude>-636570</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anguillita Island">
+			<state></state>
+			<latitude>181597</latitude>
+			<longitude>-631736</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bendig Bay">
+			<state></state>
+			<latitude>182098</latitude>
+			<longitude>-630735</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bethel">
+			<state></state>
+			<latitude>182098</latitude>
+			<longitude>-630902</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Blowing Rock">
+			<state></state>
+			<latitude>181598</latitude>
+			<longitude>-631569</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bungalows">
+			<state></state>
+			<latitude>181931</latitude>
+			<longitude>-630902</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cannifist">
+			<state></state>
+			<latitude>182432</latitude>
+			<longitude>-630068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Captains Bay">
+			<state></state>
+			<latitude>182599</latitude>
+			<longitude>-629734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cauls Pond">
+			<state></state>
+			<latitude>182266</latitude>
+			<longitude>-630234</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coral Point">
+			<state></state>
+			<latitude>182932</latitude>
+			<longitude>-629401</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cove Bay">
+			<state></state>
+			<latitude>181766</latitude>
+			<longitude>-631234</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cove Pond">
+			<state></state>
+			<latitude>181766</latitude>
+			<longitude>-631401</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crocus Bay">
+			<state></state>
+			<latitude>182266</latitude>
+			<longitude>-630734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deadman s Bay">
+			<state></state>
+			<latitude>182933</latitude>
+			<longitude>-629233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deadman s Cay">
+			<state></state>
+			<latitude>182933</latitude>
+			<longitude>-629067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dog Islet">
+			<state></state>
+			<latitude>182933</latitude>
+			<longitude>-632567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dowling Shoal">
+			<state></state>
+			<latitude>182267</latitude>
+			<longitude>-631233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Cay">
+			<state></state>
+			<latitude>182934</latitude>
+			<longitude>-632399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ebenezer">
+			<state></state>
+			<latitude>182268</latitude>
+			<longitude>-630566</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elsie Bay">
+			<state></state>
+			<latitude>181934</latitude>
+			<longitude>-630399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flat Cap Point">
+			<state></state>
+			<latitude>182435</latitude>
+			<longitude>-630731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Forest Bay">
+			<state></state>
+			<latitude>181935</latitude>
+			<longitude>-630231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gibbon Point">
+			<state></state>
+			<latitude>182436</latitude>
+			<longitude>-629897</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gibbons Point">
+			<state></state>
+			<latitude>181770</latitude>
+			<longitude>-630564</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Great Bay">
+			<state></state>
+			<latitude>182770</latitude>
+			<longitude>-632397</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grey Pond">
+			<state></state>
+			<latitude>182436</latitude>
+			<longitude>-629730</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="High Cliff">
+			<state></state>
+			<latitude>182104</latitude>
+			<longitude>-629896</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Island Harbour">
+			<state></state>
+			<latitude>182605</latitude>
+			<longitude>-629895</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Island Head">
+			<state></state>
+			<latitude>182772</latitude>
+			<longitude>-629895</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junks Hole Bay">
+			<state></state>
+			<latitude>182606</latitude>
+			<longitude>-629561</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katouche Bay">
+			<state></state>
+			<latitude>182107</latitude>
+			<longitude>-630560</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limestone Bay">
+			<state></state>
+			<latitude>182441</latitude>
+			<longitude>-630559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Little Harbour">
+			<state></state>
+			<latitude>181941</latitude>
+			<longitude>-630559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Little Scrub Island">
+			<state></state>
+			<latitude>183108</latitude>
+			<longitude>-629559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mead Point">
+			<state></state>
+			<latitude>181942</latitude>
+			<longitude>-631224</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Wager">
+			<state></state>
+			<latitude>182777</latitude>
+			<longitude>-631557</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pelican Bay">
+			<state></state>
+			<latitude>181779</latitude>
+			<longitude>-630721</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prickley Pear Cays">
+			<state></state>
+			<latitude>182779</latitude>
+			<longitude>-631721</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rendezvous Bay">
+			<state></state>
+			<latitude>181781</latitude>
+			<longitude>-631053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rendezvous Pond">
+			<state></state>
+			<latitude>181947</latitude>
+			<longitude>-631053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rey Hill">
+			<state></state>
+			<latitude>182114</latitude>
+			<longitude>-630219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sandy Hill Bay">
+			<state></state>
+			<latitude>182282</latitude>
+			<longitude>-630052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sandy Island">
+			<state></state>
+			<latitude>182282</latitude>
+			<longitude>-631052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sea Feather Bay">
+			<state></state>
+			<latitude>182282</latitude>
+			<longitude>-629885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seal Islets">
+			<state></state>
+			<latitude>182782</latitude>
+			<longitude>-631385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seal Rocks">
+			<state></state>
+			<latitude>182782</latitude>
+			<longitude>-631218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shaddick Point">
+			<state></state>
+			<latitude>181782</latitude>
+			<longitude>-630885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shoal Bay">
+			<state></state>
+			<latitude>181615</latitude>
+			<longitude>-631385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Snake Point">
+			<state></state>
+			<latitude>182948</latitude>
+			<longitude>-629552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sombrero Island">
+			<state></state>
+			<latitude>186115</latitude>
+			<longitude>-634218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Souse Bay">
+			<state></state>
+			<latitude>182782</latitude>
+			<longitude>-629218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Copse">
+			<state></state>
+			<latitude>182283</latitude>
+			<longitude>-629717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Fountain">
+			<state></state>
+			<latitude>182449</latitude>
+			<longitude>-630217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Valley">
+			<state></state>
+			<latitude>182283</latitude>
+			<longitude>-630384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Maunday s Point">
+			<state></state>
+			<latitude>181617</latitude>
+			<longitude>-631216</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Shoal Bay">
+			<state></state>
+			<latitude>182617</latitude>
+			<longitude>-630050</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wallblake">
+			<state></state>
+			<latitude>182119</latitude>
+			<longitude>-630381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warner Point">
+			<state></state>
+			<latitude>185952</latitude>
+			<longitude>-634048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Cay">
+			<state></state>
+			<latitude>182786</latitude>
+			<longitude>-632714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Point">
+			<state></state>
+			<latitude>182786</latitude>
+			<longitude>-629381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windward Point Bay">
+			<state></state>
+			<latitude>182786</latitude>
+			<longitude>-629548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

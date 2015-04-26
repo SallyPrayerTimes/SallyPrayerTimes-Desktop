@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="French Polynesia">
+		<city name="Papeete">
+			<state></state>
+			<latitude>-175221</latitude>
+			<longitude>-1495555</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upolu">
+			<state></state>
+			<latitude>-166216</latitude>
+			<longitude>-1514883</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

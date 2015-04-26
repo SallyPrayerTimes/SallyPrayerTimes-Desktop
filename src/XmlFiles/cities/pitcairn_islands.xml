@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Pitcairn Islands">
+		<city name="Adams Rock">
+			<state></state>
+			<latitude>-250570</latitude>
+			<longitude>-1300570</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adamstown">
+			<state></state>
+			<latitude>-250570</latitude>
+			<longitude>-1300736</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ducie">
+			<state></state>
+			<latitude>-246567</latitude>
+			<longitude>-1247733</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elizabeth Island">
+			<state></state>
+			<latitude>-243566</latitude>
+			<longitude>-1283066</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gudgeen">
+			<state></state>
+			<latitude>-250564</latitude>
+			<longitude>-1300897</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manelee">
+			<state></state>
+			<latitude>-250724</latitude>
+			<longitude>-1300724</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North East Point">
+			<state></state>
+			<latitude>-239057</latitude>
+			<longitude>-1307223</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oeno Atoll">
+			<state></state>
+			<latitude>-239222</latitude>
+			<longitude>-1307222</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tahoutumah">
+			<state></state>
+			<latitude>-240717</latitude>
+			<longitude>-1300717</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youngs Rock">
+			<state></state>
+			<latitude>-250379</latitude>
+			<longitude>-1300879</longitude>
+			<timezone>-900</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

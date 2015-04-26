@@ -1,0 +1,656 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Macedonia">
+		<city name="Bitola">
+			<state></state>
+			<latitude>410409</latitude>
+			<longitude>213501</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Edinakovo">
+			<state></state>
+			<latitude>412715</latitude>
+			<longitude>212570</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erekovci">
+			<state></state>
+			<latitude>412229</latitude>
+			<longitude>214932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eren">
+			<state></state>
+			<latitude>416857</latitude>
+			<longitude>220723</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fakirovo Brdo">
+			<state></state>
+			<latitude>412435</latitude>
+			<longitude>225935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falise">
+			<state></state>
+			<latitude>419902</latitude>
+			<longitude>210152</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faris">
+			<state></state>
+			<latitude>414633</latitude>
+			<longitude>218113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fera Mala">
+			<state></state>
+			<latitude>421574</latitude>
+			<longitude>213496</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ferdinanka">
+			<state></state>
+			<latitude>412049</latitude>
+			<longitude>226985</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fisnik">
+			<state></state>
+			<latitude>419610</latitude>
+			<longitude>208680</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fisozica">
+			<state></state>
+			<latitude>416435</latitude>
+			<longitude>208269</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flora">
+			<state></state>
+			<latitude>412394</latitude>
+			<longitude>222935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Forino">
+			<state></state>
+			<latitude>418344</latitude>
+			<longitude>209727</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frlogoec">
+			<state></state>
+			<latitude>415633</latitude>
+			<longitude>208666</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ftosina">
+			<state></state>
+			<latitude>417263</latitude>
+			<longitude>208852</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Furka">
+			<state></state>
+			<latitude>412508</latitude>
+			<longitude>226235</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fus Reka">
+			<state></state>
+			<latitude>419913</latitude>
+			<longitude>213194</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gostivar">
+			<state></state>
+			<latitude>418075</latitude>
+			<longitude>209186</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gostivarski Vinogradi">
+			<state></state>
+			<latitude>418192</latitude>
+			<longitude>209075</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hadzi Hamzali">
+			<state></state>
+			<latitude>416932</latitude>
+			<longitude>220465</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hadziahmetovo">
+			<state></state>
+			<latitude>418112</latitude>
+			<longitude>219515</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamzali">
+			<state></state>
+			<latitude>415001</latitude>
+			<longitude>227535</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamzovec">
+			<state></state>
+			<latitude>414140</latitude>
+			<longitude>220140</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Han Mavrovo -- (State: Mavrovi Anovi)">
+			<state>Mavrovi Anovi</state>
+			<latitude>417110</latitude>
+			<longitude>207660</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hardzas">
+			<state></state>
+			<latitude>421601</latitude>
+			<longitude>215221</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasanli">
+			<state></state>
+			<latitude>412604</latitude>
+			<longitude>227104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasanova Cesma">
+			<state></state>
+			<latitude>415079</latitude>
+			<longitude>213165</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasin Bej Most">
+			<state></state>
+			<latitude>412060</latitude>
+			<longitude>217248</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hidrocentral Matke">
+			<state></state>
+			<latitude>419676</latitude>
+			<longitude>213090</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hidrocentrala Dosnica">
+			<state></state>
+			<latitude>413804</latitude>
+			<longitude>222323</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hidrocentrala Globocica">
+			<state></state>
+			<latitude>414054</latitude>
+			<longitude>205965</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hidrocentrala Kalimanci">
+			<state></state>
+			<latitude>419826</latitude>
+			<longitude>225971</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hidrocentrala Sapundzica">
+			<state></state>
+			<latitude>410410</latitude>
+			<longitude>212829</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hidrocentrala Spilje">
+			<state></state>
+			<latitude>415023</latitude>
+			<longitude>205162</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hidroelektrana Pena">
+			<state></state>
+			<latitude>420318</latitude>
+			<longitude>209601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hovska Reka">
+			<state></state>
+			<latitude>414796</latitude>
+			<longitude>220387</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hrani -- (State: Resen)">
+			<state>Resen</state>
+			<latitude>409498</latitude>
+			<longitude>211190</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hristifor">
+			<state></state>
+			<latitude>409937</latitude>
+			<longitude>213604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hudaverlija">
+			<state></state>
+			<latitude>416668</latitude>
+			<longitude>225679</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huma">
+			<state></state>
+			<latitude>411621</latitude>
+			<longitude>223379</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilino">
+			<state></state>
+			<latitude>411605</latitude>
+			<longitude>209694</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilino Brdo">
+			<state></state>
+			<latitude>417272</latitude>
+			<longitude>211105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilinska">
+			<state></state>
+			<latitude>413113</latitude>
+			<longitude>209794</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilovica">
+			<state></state>
+			<latitude>414811</latitude>
+			<longitude>228091</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivancista">
+			<state></state>
+			<latitude>414724</latitude>
+			<longitude>208022</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivankovci">
+			<state></state>
+			<latitude>418594</latitude>
+			<longitude>218308</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kicevo">
+			<state></state>
+			<latitude>415251</latitude>
+			<longitude>209740</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kicevo Belica">
+			<state></state>
+			<latitude>414138</latitude>
+			<longitude>209599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kumanove -- (State: Kumanovo)">
+			<state>Kumanovo</state>
+			<latitude>421429</latitude>
+			<longitude>217251</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Labunista">
+			<state></state>
+			<latitude>412794</latitude>
+			<longitude>206069</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ohrid">
+			<state></state>
+			<latitude>411283</latitude>
+			<longitude>208130</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prilep">
+			<state></state>
+			<latitude>413576</latitude>
+			<longitude>215656</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prilepac">
+			<state></state>
+			<latitude>413068</latitude>
+			<longitude>215968</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prilepska Reka">
+			<state></state>
+			<latitude>412962</latitude>
+			<longitude>214093</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prilepsko Ezero">
+			<state></state>
+			<latitude>413979</latitude>
+			<longitude>216106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prilepsko Pole">
+			<state></state>
+			<latitude>413445</latitude>
+			<longitude>214279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qafa e Rosnikut">
+			<state></state>
+			<latitude>418263</latitude>
+			<longitude>205788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qara Dagh">
+			<state></state>
+			<latitude>422527</latitude>
+			<longitude>215063</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qara Su">
+			<state></state>
+			<latitude>415666</latitude>
+			<longitude>219910</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qayali">
+			<state></state>
+			<latitude>413446</latitude>
+			<longitude>226446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qostrum">
+			<state></state>
+			<latitude>413685</latitude>
+			<longitude>226207</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skopje">
+			<state></state>
+			<latitude>420115</latitude>
+			<longitude>214448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skopje Sever">
+			<state></state>
+			<latitude>420387</latitude>
+			<longitude>214509</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Slupcane">
+			<state></state>
+			<latitude>421848</latitude>
+			<longitude>216393</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Struga">
+			<state></state>
+			<latitude>411896</latitude>
+			<longitude>206876</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Teovo">
+			<state></state>
+			<latitude>415908</latitude>
+			<longitude>215835</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tetovo">
+			<state></state>
+			<latitude>420222</latitude>
+			<longitude>209830</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tetovo Kale">
+			<state></state>
+			<latitude>420313</latitude>
+			<longitude>209719</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ubava">
+			<state></state>
+			<latitude>417784</latitude>
+			<longitude>213784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ubava Glava">
+			<state></state>
+			<latitude>411911</latitude>
+			<longitude>217109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ubovo">
+			<state></state>
+			<latitude>416520</latitude>
+			<longitude>219592</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Udha Male">
+			<state></state>
+			<latitude>412959</latitude>
+			<longitude>206623</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uica">
+			<state></state>
+			<latitude>419864</latitude>
+			<longitude>209156</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ukusa">
+			<state></state>
+			<latitude>413786</latitude>
+			<longitude>218836</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulanci">
+			<state></state>
+			<latitude>415998</latitude>
+			<longitude>219545</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ularci">
+			<state></state>
+			<latitude>418706</latitude>
+			<longitude>222759</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulerovo">
+			<state></state>
+			<latitude>412003</latitude>
+			<longitude>212336</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uliverica">
+			<state></state>
+			<latitude>420042</latitude>
+			<longitude>208806</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulivericka Reka">
+			<state></state>
+			<latitude>419875</latitude>
+			<longitude>209214</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umida">
+			<state></state>
+			<latitude>412784</latitude>
+			<longitude>223784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umin Dol">
+			<state></state>
+			<latitude>420984</latitude>
+			<longitude>216370</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umovo">
+			<state></state>
+			<latitude>418798</latitude>
+			<longitude>214403</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urupska Reka">
+			<state></state>
+			<latitude>410817</latitude>
+			<longitude>218436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urvic">
+			<state></state>
+			<latitude>419628</latitude>
+			<longitude>209061</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urvicki Potok">
+			<state></state>
+			<latitude>421486</latitude>
+			<longitude>214264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Usje">
+			<state></state>
+			<latitude>419678</latitude>
+			<longitude>214681</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utoec">
+			<state></state>
+			<latitude>411895</latitude>
+			<longitude>211345</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utovo">
+			<state></state>
+			<latitude>411942</latitude>
+			<longitude>212056</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzunica">
+			<state></state>
+			<latitude>419714</latitude>
+			<longitude>209531</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhepishta">
+			<state></state>
+			<latitude>414548</latitude>
+			<longitude>205448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yablanitsa">
+			<state></state>
+			<latitude>412621</latitude>
+			<longitude>205121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yelaska Potamos">
+			<state></state>
+			<latitude>409621</latitude>
+			<longitude>215454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yezero Okhridsko">
+			<state></state>
+			<latitude>410121</latitude>
+			<longitude>207621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

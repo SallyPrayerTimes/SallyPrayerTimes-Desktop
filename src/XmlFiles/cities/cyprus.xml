@@ -1,0 +1,2196 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Cyprus">
+		<city name="Ayia Napa -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>350014</latitude>
+			<longitude>340097</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayia Napa Forest -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>350014</latitude>
+			<longitude>340555</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayia Napa Monastery -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>350014</latitude>
+			<longitude>340055</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Famagusta">
+			<state></state>
+			<latitude>351352</latitude>
+			<longitude>339602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Famagusta Bay -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351769</latitude>
+			<longitude>340102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Famagusta Walled City -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351352</latitude>
+			<longitude>339519</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faraklos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350144</latitude>
+			<longitude>333852</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farfaris -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352644</latitude>
+			<longitude>335810</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farkonies -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349185</latitude>
+			<longitude>323852</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fasula -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347769</latitude>
+			<longitude>330394</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fasula">
+			<state></state>
+			<latitude>347602</latitude>
+			<longitude>326435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Felekkidhes -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351602</latitude>
+			<longitude>336352</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fella Eshei -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351727</latitude>
+			<longitude>335269</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Filegeia -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351102</latitude>
+			<longitude>326769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Filusa -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349852</latitude>
+			<longitude>325102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Finikaria -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347644</latitude>
+			<longitude>331102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Finoukli -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350769</latitude>
+			<longitude>326227</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fiti -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349394</latitude>
+			<longitude>325602</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Five Fingers">
+			<state></state>
+			<latitude>353102</latitude>
+			<longitude>333435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flasu -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350727</latitude>
+			<longitude>328977</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frenaros -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>350519</latitude>
+			<longitude>339352</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frodisia -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350769</latitude>
+			<longitude>326769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ftanokafkalla -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351560</latitude>
+			<longitude>332060</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fyllia -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351977</latitude>
+			<longitude>331019</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Girne -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353520</latitude>
+			<longitude>333270</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haji Alis -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>346854</latitude>
+			<longitude>326812</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haji Moustafa -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352146</latitude>
+			<longitude>337854</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hajipandelis House -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352146</latitude>
+			<longitude>338729</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hajisolomou -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353187</latitude>
+			<longitude>333062</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hala Sultan Tekesi -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348979</latitude>
+			<longitude>336187</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halasa -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347687</latitude>
+			<longitude>329312</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halbinsel Karpas -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>355104</latitude>
+			<longitude>342604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halevga -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>352979</latitude>
+			<longitude>335354</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halleri -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351787</latitude>
+			<longitude>326693</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamidmandiralari -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352354</latitude>
+			<longitude>333896</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamitkoy -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350851</latitude>
+			<longitude>329646</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hanbeli -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353104</latitude>
+			<longitude>331187</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hapotami -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>346937</latitude>
+			<longitude>326021</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haranga -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353354</latitude>
+			<longitude>339896</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hardasi -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>349062</latitude>
+			<longitude>329604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harita Tepesi -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>352812</latitude>
+			<longitude>330896</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasan Kiayia -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351396</latitude>
+			<longitude>329687</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haspolat -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352187</latitude>
+			<longitude>334312</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Havara Pit -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351396</latitude>
+			<longitude>336562</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hazreti Omer Turbesi -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353479</latitude>
+			<longitude>333979</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hesna Katin -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352229</latitude>
+			<longitude>333896</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hill Axylon -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348187</latitude>
+			<longitude>325687</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hill Cikko -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349937</latitude>
+			<longitude>327437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hiloraka -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348146</latitude>
+			<longitude>324187</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hirisida -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352521</latitude>
+			<longitude>334937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hirokitiya -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348104</latitude>
+			<longitude>333521</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hirsofu Korfezi -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>351104</latitude>
+			<longitude>324271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holi -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349896</latitude>
+			<longitude>324562</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hulu -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348812</latitude>
+			<longitude>325646</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Idhalion City-Site -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350355</latitude>
+			<longitude>334355</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilakas -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349313</latitude>
+			<longitude>326688</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilker Karter Havaalani -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352730</latitude>
+			<longitude>332772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Incesu -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353438</latitude>
+			<longitude>332188</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Incirli -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351772</latitude>
+			<longitude>333563</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inia -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349480</latitude>
+			<longitude>323938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inonu -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351688</latitude>
+			<longitude>337105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipsillat -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352605</latitude>
+			<longitude>336938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipso -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352688</latitude>
+			<longitude>337938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipsona -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>346938</latitude>
+			<longitude>329688</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irkas Teratsa -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>349938</latitude>
+			<longitude>326938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irkon Lithari -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>349313</latitude>
+			<longitude>327188</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irmi -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353099</latitude>
+			<longitude>329727</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isada -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348522</latitude>
+			<longitude>324855</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iskele -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352980</latitude>
+			<longitude>339022</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iskele -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349230</latitude>
+			<longitude>336438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istinjon -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349813</latitude>
+			<longitude>325313</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istrovulo -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351605</latitude>
+			<longitude>333522</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iyikoy -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351230</latitude>
+			<longitude>328855</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jatitika -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352856</latitude>
+			<longitude>336314</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jileros -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347814</latitude>
+			<longitude>328939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jilikas -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353023</latitude>
+			<longitude>337689</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jira Eleni -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347106</latitude>
+			<longitude>325773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jirkavli Mevkisi -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353439</latitude>
+			<longitude>337439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Larnaca">
+			<state></state>
+			<latitude>349358</latitude>
+			<longitude>336525</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Larnaca Bay">
+			<state></state>
+			<latitude>349275</latitude>
+			<longitude>337608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Larnaca Castle -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349191</latitude>
+			<longitude>336483</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Larnaca Marina -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349275</latitude>
+			<longitude>336525</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lefke -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351214</latitude>
+			<longitude>328614</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limasol District -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347941</latitude>
+			<longitude>329275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limassol">
+			<state></state>
+			<latitude>346608</latitude>
+			<longitude>330275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limassol Bay">
+			<state></state>
+			<latitude>346441</latitude>
+			<longitude>330941</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limassol Castle -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>346816</latitude>
+			<longitude>330525</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limassol Forest -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>348108</latitude>
+			<longitude>331275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limassol Sheraton Marina -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>347191</latitude>
+			<longitude>331775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liopetri -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>350191</latitude>
+			<longitude>339025</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naftes -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347027</latitude>
+			<longitude>325818</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nangomi -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>356402</latitude>
+			<longitude>344943</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nannatidhes -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350443</latitude>
+			<longitude>328902</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narlikoy -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351443</latitude>
+			<longitude>328777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nata -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347777</latitude>
+			<longitude>325777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nava -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>354027</latitude>
+			<longitude>337402</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nea Dimmata -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>351441</latitude>
+			<longitude>325341</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nea Pafo -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347693</latitude>
+			<longitude>324193</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nektovika Forest -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>355027</latitude>
+			<longitude>342985</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nektovikla Fortress -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>354985</latitude>
+			<longitude>343027</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nemourka -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348235</latitude>
+			<longitude>333443</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neohoryo -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352485</latitude>
+			<longitude>334860</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neokhorion -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350363</latitude>
+			<longitude>323757</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neraides -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>354110</latitude>
+			<longitude>337610</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neron tis Androuklias -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350152</latitude>
+			<longitude>327110</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neta -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>354818</latitude>
+			<longitude>342277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="New Appidhaki -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349443</latitude>
+			<longitude>334735</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="New Asprovikla -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353360</latitude>
+			<longitude>338527</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="New Mavro -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348610</latitude>
+			<longitude>334027</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="New Pyla -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>349652</latitude>
+			<longitude>338693</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="New Tekkele Khan -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352735</latitude>
+			<longitude>339193</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nicidari -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350777</latitude>
+			<longitude>330027</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nicosia">
+			<state></state>
+			<latitude>351777</latitude>
+			<longitude>333777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nicosia International Airport -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351652</latitude>
+			<longitude>332860</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nikitas">
+			<state></state>
+			<latitude>351860</latitude>
+			<longitude>329693</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nikokla -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347402</latitude>
+			<longitude>325860</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nikos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350102</latitude>
+			<longitude>328435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niokhoritika -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351568</latitude>
+			<longitude>331652</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niolimata -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348068</latitude>
+			<longitude>324152</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niolita -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351318</latitude>
+			<longitude>337277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisarka -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348568</latitude>
+			<longitude>323860</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisha -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>355902</latitude>
+			<longitude>342902</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisi -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349318</latitude>
+			<longitude>323318</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisiri -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>346777</latitude>
+			<longitude>326985</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisis Agios Georgios -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350852</latitude>
+			<longitude>323460</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisis Geronisos -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349110</latitude>
+			<longitude>323277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisis Glykiotissa -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353610</latitude>
+			<longitude>333027</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisis Kila -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>355110</latitude>
+			<longitude>343443</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisoi Kleides -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>357110</latitude>
+			<longitude>346110</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nisou -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350318</latitude>
+			<longitude>334027</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Norf Solter -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>349693</latitude>
+			<longitude>328693</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Notadhes -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>356443</latitude>
+			<longitude>344902</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odu -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348986</latitude>
+			<longitude>331611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oglakli -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350361</latitude>
+			<longitude>333361</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Okniaris -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353528</latitude>
+			<longitude>339653</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Okso Adasi -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351361</latitude>
+			<longitude>339653</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olos -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>355903</latitude>
+			<longitude>344278</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olympos -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353653</latitude>
+			<longitude>337569</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olympos -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>349528</latitude>
+			<longitude>328778</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olympus Range -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>349278</latitude>
+			<longitude>328444</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Omerika -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351361</latitude>
+			<longitude>337569</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Omerli -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351486</latitude>
+			<longitude>327778</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Omodhos -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>348611</latitude>
+			<longitude>328194</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Omorfo Korfezi -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351903</latitude>
+			<longitude>328430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Omorphita -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352028</latitude>
+			<longitude>333861</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Onespotika -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347861</latitude>
+			<longitude>325111</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oniseia -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>352986</latitude>
+			<longitude>333278</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ophrakas -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347944</latitude>
+			<longitude>326778</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Optomolia -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>355611</latitude>
+			<longitude>342361</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orga -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353736</latitude>
+			<longitude>330444</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orie -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351736</latitude>
+			<longitude>334028</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oritis Forest -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347319</latitude>
+			<longitude>326444</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orkos -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>355569</latitude>
+			<longitude>341861</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ormani -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349736</latitude>
+			<longitude>336569</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ormani -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>351153</latitude>
+			<longitude>325653</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ormanici">
+			<state></state>
+			<latitude>347778</latitude>
+			<longitude>331944</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ormanici -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351028</latitude>
+			<longitude>328403</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ormidhia Forest -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>350069</latitude>
+			<longitude>337861</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ormidia -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>350069</latitude>
+			<longitude>337944</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ormos Exarchos -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>356611</latitude>
+			<longitude>344736</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ormos Ronas -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>356111</latitude>
+			<longitude>343444</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ormos ton Korallion -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348611</latitude>
+			<longitude>323778</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ornithas -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347694</latitude>
+			<longitude>332028</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ornithi -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351694</latitude>
+			<longitude>335819</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ornithi Chiftlik -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351694</latitude>
+			<longitude>335694</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ornousa -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353403</latitude>
+			<longitude>335528</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orounta -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351153</latitude>
+			<longitude>331028</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ortakoy -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352153</latitude>
+			<longitude>333528</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osia Maria -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350486</latitude>
+			<longitude>323069</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osman Dere -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352361</latitude>
+			<longitude>335194</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otello Kulesi -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351403</latitude>
+			<longitude>339569</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otoun Yiolou -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352861</latitude>
+			<longitude>336861</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otuken -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348528</latitude>
+			<longitude>334528</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oumaes -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353903</latitude>
+			<longitude>339778</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oupia -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>347486</latitude>
+			<longitude>332403</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ourania City-Site -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>356653</latitude>
+			<longitude>344694</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouzoum Laxia -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352528</latitude>
+			<longitude>334111</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ovalik -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347444</latitude>
+			<longitude>325278</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ovgoros -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353778</latitude>
+			<longitude>339444</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ovgos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352319</latitude>
+			<longitude>329694</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ovgos Dam -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352278</latitude>
+			<longitude>330486</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oxies -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>347361</latitude>
+			<longitude>331819</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oxydena -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351569</latitude>
+			<longitude>337611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oxys">
+			<state></state>
+			<latitude>349444</latitude>
+			<longitude>332778</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ozalos -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>354569</latitude>
+			<longitude>341611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ozankoy -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353278</latitude>
+			<longitude>333611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ozhan -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>352861</latitude>
+			<longitude>331194</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paphos">
+			<state></state>
+			<latitude>347779</latitude>
+			<longitude>324279</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paphos Point -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347654</latitude>
+			<longitude>324140</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Protaras -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>350237</latitude>
+			<longitude>340695</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rakhasin -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347864</latitude>
+			<longitude>327739</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rakhmeli -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349572</latitude>
+			<longitude>336531</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rakhokambos -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347114</latitude>
+			<longitude>326156</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Randi Forest -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>346947</latitude>
+			<longitude>326364</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Repnia -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350281</latitude>
+			<longitude>325739</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rialas -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348364</latitude>
+			<longitude>332697</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rigatiko -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353906</latitude>
+			<longitude>338864</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rigopoulos -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350572</latitude>
+			<longitude>323489</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Alikos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350822</latitude>
+			<longitude>334614</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Asino -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351114</latitude>
+			<longitude>330031</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Ayia -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>354531</latitude>
+			<longitude>341822</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Elisis -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>354864</latitude>
+			<longitude>342781</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Kambos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351614</latitude>
+			<longitude>328197</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Karyoti -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351739</latitude>
+			<longitude>328781</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Katouris -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351989</latitude>
+			<longitude>326947</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Kharanka">
+			<state></state>
+			<latitude>351697</latitude>
+			<longitude>339114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Livadhi -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>351739</latitude>
+			<longitude>325572</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Pyrgos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351989</latitude>
+			<longitude>326958</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Xeros -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351572</latitude>
+			<longitude>328447</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="River Yalias -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351697</latitude>
+			<longitude>339239</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Riyena -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350656</latitude>
+			<longitude>325531</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rizokarpasso -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>356114</latitude>
+			<longitude>343864</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rock Dhora -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347864</latitude>
+			<longitude>327406</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rocky Ridge -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349989</latitude>
+			<longitude>325281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rodhino -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348947</latitude>
+			<longitude>335156</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rofesa -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347322</latitude>
+			<longitude>328406</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Romiu Kayaligi">
+			<state></state>
+			<latitude>346781</latitude>
+			<longitude>326447</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rophos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351864</latitude>
+			<longitude>331322</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rothesha -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351739</latitude>
+			<longitude>334822</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotseri -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350156</latitude>
+			<longitude>330697</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotsos -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349406</latitude>
+			<longitude>335281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roudia Bridge -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349031</latitude>
+			<longitude>326989</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rouskia -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348864</latitude>
+			<longitude>323531</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Royal Manor of Covocle -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347197</latitude>
+			<longitude>325864</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uc Sehitler -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349867</latitude>
+			<longitude>335284</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uczeytinler">
+			<state></state>
+			<latitude>349450</latitude>
+			<longitude>328117</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulucam -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347825</latitude>
+			<longitude>326784</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulukisla -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352284</latitude>
+			<longitude>336284</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Dikomo -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>352825</latitude>
+			<longitude>333367</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyku Tepesi -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>355409</latitude>
+			<longitude>343200</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzundere -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353450</latitude>
+			<longitude>334409</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzundere Goleti -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353367</latitude>
+			<longitude>334367</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzunkoy -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>350867</latitude>
+			<longitude>337784</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzunmese -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349867</latitude>
+			<longitude>324992</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Paltaniotissa Forest -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>352994</latitude>
+			<longitude>335036</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Shoulder -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>349369</latitude>
+			<longitude>328536</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="White Promontory -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>346952</latitude>
+			<longitude>326536</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xalona -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>347662</latitude>
+			<longitude>333912</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xalona -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351953</latitude>
+			<longitude>330037</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xalona -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350245</latitude>
+			<longitude>324787</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeraes -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347995</latitude>
+			<longitude>326203</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerargaka -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348203</latitude>
+			<longitude>327245</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerarkaja -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349370</latitude>
+			<longitude>326287</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerarkaka -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350662</latitude>
+			<longitude>328412</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerarkakon -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353828</latitude>
+			<longitude>336912</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeri -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350870</latitude>
+			<longitude>333328</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerojiladha -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347162</latitude>
+			<longitude>327578</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerolivadhia -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347453</latitude>
+			<longitude>327703</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeromoutta -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350245</latitude>
+			<longitude>328078</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeron -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347787</latitude>
+			<longitude>326870</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeropigi -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350203</latitude>
+			<longitude>326495</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeropotamos -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347120</latitude>
+			<longitude>325620</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeropotamos -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>347870</latitude>
+			<longitude>334787</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeropotamos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351953</latitude>
+			<longitude>329662</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeropotamos -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>352370</latitude>
+			<longitude>337912</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeropotamos Monastery -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351703</latitude>
+			<longitude>328870</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeros -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>348620</latitude>
+			<longitude>323953</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeros Potamos -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347453</latitude>
+			<longitude>325745</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerovounos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351620</latitude>
+			<longitude>327453</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerovounos Forest B -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351620</latitude>
+			<longitude>327370</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerovounos Forest D -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351578</latitude>
+			<longitude>327495</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xi-Vouno -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347412</latitude>
+			<longitude>330328</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xilimbos -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>348745</latitude>
+			<longitude>328995</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xindes -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>349537</latitude>
+			<longitude>334078</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xindous -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350828</latitude>
+			<longitude>330578</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xistaroudi Junction -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>349995</latitude>
+			<longitude>327620</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xomoutta -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351828</latitude>
+			<longitude>334287</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylias -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>349662</latitude>
+			<longitude>334037</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylias">
+			<state></state>
+			<latitude>349453</latitude>
+			<longitude>334078</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xyliatos -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350453</latitude>
+			<longitude>330578</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylna -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>350703</latitude>
+			<longitude>338453</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylomandron -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350745</latitude>
+			<longitude>323412</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylomodhousa -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>352412</latitude>
+			<longitude>331245</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylophaghou Forest -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349787</latitude>
+			<longitude>338453</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylophago -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349912</latitude>
+			<longitude>338620</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylosyrma -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348495</latitude>
+			<longitude>333245</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylotymbou -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>350287</latitude>
+			<longitude>337620</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xylourikos -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>348620</latitude>
+			<longitude>329912</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xystarka -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>350662</latitude>
+			<longitude>336620</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xystaroudhin -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350953</latitude>
+			<longitude>326828</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zacharou -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350597</latitude>
+			<longitude>326347</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zafer Burnu -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>357122</latitude>
+			<longitude>345955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaim Agha -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351205</latitude>
+			<longitude>330955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakati -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>346761</latitude>
+			<longitude>330122</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakerka -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351955</latitude>
+			<longitude>330622</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakharia -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>349955</latitude>
+			<longitude>325455</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakharou -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>350580</latitude>
+			<longitude>326289</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakharovouni -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348914</latitude>
+			<longitude>332872</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanaja -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347455</latitude>
+			<longitude>328914</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanatophoulia -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348872</latitude>
+			<longitude>333080</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanettis House -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>350747</latitude>
+			<longitude>335580</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zangalaki -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>351289</latitude>
+			<longitude>336372</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zefkos -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348205</latitude>
+			<longitude>333789</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeus Lavranios Sanctuary -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>347705</latitude>
+			<longitude>330414</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zevghari -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>345830</latitude>
+			<longitude>329455</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeybekkoy -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353955</latitude>
+			<longitude>340289</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeytin Burnu -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>353372</latitude>
+			<longitude>340747</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeytinlik -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353455</latitude>
+			<longitude>333080</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeytinlik -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>350705</latitude>
+			<longitude>331164</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeytinoza Tepesi -- (State: Kyrenia)">
+			<state>Kyrenia</state>
+			<latitude>353164</latitude>
+			<longitude>332539</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zgouros -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>348622</latitude>
+			<longitude>333830</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zigovuno -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>355414</latitude>
+			<longitude>342455</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ziouni -- (State: Paphos)">
+			<state>Paphos</state>
+			<latitude>347789</latitude>
+			<longitude>327122</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ziyamet -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>354830</latitude>
+			<longitude>341539</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ziyi -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>347455</latitude>
+			<longitude>333497</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zodhia -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351789</latitude>
+			<longitude>330122</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zonias -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>348205</latitude>
+			<longitude>331164</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zonias -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>349664</latitude>
+			<longitude>335039</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoodhokhos -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>349080</latitude>
+			<longitude>330205</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoopigi -- (State: Limassol)">
+			<state>Limassol</state>
+			<latitude>348789</latitude>
+			<longitude>330289</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zorras Forest -- (State: Famagusta)">
+			<state>Famagusta</state>
+			<latitude>354830</latitude>
+			<longitude>342414</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoulophtidhes -- (State: Larnaca)">
+			<state>Larnaca</state>
+			<latitude>347705</latitude>
+			<longitude>332955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zumrutkoy -- (State: Nicosia)">
+			<state>Nicosia</state>
+			<latitude>351872</latitude>
+			<longitude>330622</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,880 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Guinea Bissau">
+		<city name="Amedalai">
+			<state></state>
+			<latitude>126264</latitude>
+			<longitude>-140570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Assela -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>121703</latitude>
+			<longitude>-153992</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bafata">
+			<state></state>
+			<latitude>121765</latitude>
+			<longitude>-147402</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bafata -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>124726</latitude>
+			<longitude>-151905</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bafatandim -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>123909</latitude>
+			<longitude>-153391</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bissau">
+			<state></state>
+			<latitude>118431</latitude>
+			<longitude>-157402</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bissau Channel">
+			<state></state>
+			<latitude>116765</latitude>
+			<longitude>-157402</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bissau Novo">
+			<state></state>
+			<latitude>118765</latitude>
+			<longitude>-155902</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bissauzinho">
+			<state></state>
+			<latitude>119265</latitude>
+			<longitude>-157902</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Catio">
+			<state></state>
+			<latitude>112932</latitude>
+			<longitude>-152401</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cima">
+			<state></state>
+			<latitude>122932</latitude>
+			<longitude>-143901</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eboco">
+			<state></state>
+			<latitude>112601</latitude>
+			<longitude>-156899</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egara">
+			<state></state>
+			<latitude>112934</latitude>
+			<longitude>-164399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egbe">
+			<state></state>
+			<latitude>113601</latitude>
+			<longitude>-158732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egine -- (State: Cacheu)">
+			<state>Cacheu</state>
+			<latitude>122407</latitude>
+			<longitude>-164593</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egoba Island">
+			<state></state>
+			<latitude>113434</latitude>
+			<longitude>-160232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eguba">
+			<state></state>
+			<latitude>113601</latitude>
+			<longitude>-160066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ejatem -- (State: Cacheu)">
+			<state>Cacheu</state>
+			<latitude>123584</latitude>
+			<longitude>-165055</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elacunda">
+			<state></state>
+			<latitude>126434</latitude>
+			<longitude>-140232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elia -- (State: Cacheu)">
+			<state>Cacheu</state>
+			<latitude>123148</latitude>
+			<longitude>-163835</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embalocunda">
+			<state></state>
+			<latitude>120768</latitude>
+			<longitude>-146066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embande -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>121951</latitude>
+			<longitude>-156477</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embenhe">
+			<state></state>
+			<latitude>123768</latitude>
+			<longitude>-155566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embunhe -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>121693</latitude>
+			<longitude>-154096</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Empada">
+			<state></state>
+			<latitude>115601</latitude>
+			<longitude>-152232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Empanja">
+			<state></state>
+			<latitude>118934</latitude>
+			<longitude>-155899</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Empanquinhame -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>121945</latitude>
+			<longitude>-154882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enchanque -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>120884</latitude>
+			<longitude>-153921</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enchanque">
+			<state></state>
+			<latitude>120768</latitude>
+			<longitude>-154566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Encheia">
+			<state></state>
+			<latitude>123434</latitude>
+			<longitude>-155566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enchela -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>120737</latitude>
+			<longitude>-154599</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Encherte -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>120865</latitude>
+			<longitude>-155627</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enchumene">
+			<state></state>
+			<latitude>123934</latitude>
+			<longitude>-156066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Encoche -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>121179</latitude>
+			<longitude>-154174</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Encome">
+			<state></state>
+			<latitude>120934</latitude>
+			<longitude>-153732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Endasse -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>121173</latitude>
+			<longitude>-153727</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Endoja -- (State: Cacheu)">
+			<state>Cacheu</state>
+			<latitude>123890</latitude>
+			<longitude>-158330</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Endorna">
+			<state></state>
+			<latitude>117601</latitude>
+			<longitude>-148232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Engenegane">
+			<state></state>
+			<latitude>119601</latitude>
+			<longitude>-156566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ensalma">
+			<state></state>
+			<latitude>119934</latitude>
+			<longitude>-156232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enterramento">
+			<state></state>
+			<latitude>118768</latitude>
+			<longitude>-156399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entre Meio">
+			<state></state>
+			<latitude>120434</latitude>
+			<longitude>-148399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enxale">
+			<state></state>
+			<latitude>119934</latitude>
+			<longitude>-149566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enxerto">
+			<state></state>
+			<latitude>120434</latitude>
+			<longitude>-157066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enxude">
+			<state></state>
+			<latitude>118434</latitude>
+			<longitude>-154066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enxugal -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>120579</latitude>
+			<longitude>-154282</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Escoda Island">
+			<state></state>
+			<latitude>113434</latitude>
+			<longitude>-157066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esperanca">
+			<state></state>
+			<latitude>125434</latitude>
+			<longitude>-147232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Essoukoudiak Bolon">
+			<state></state>
+			<latitude>123454</latitude>
+			<longitude>-166493</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esteiro da Ga Pessoa">
+			<state></state>
+			<latitude>115768</latitude>
+			<longitude>-154566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esteiro de Intacha">
+			<state></state>
+			<latitude>115934</latitude>
+			<longitude>-154732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etecunda">
+			<state></state>
+			<latitude>115101</latitude>
+			<longitude>-163066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eticodeba">
+			<state></state>
+			<latitude>111768</latitude>
+			<longitude>-159232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eticoga">
+			<state></state>
+			<latitude>115934</latitude>
+			<longitude>-159399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etinhoque">
+			<state></state>
+			<latitude>110768</latitude>
+			<longitude>-161399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etiogo">
+			<state></state>
+			<latitude>111934</latitude>
+			<longitude>-160899</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farim -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>124941</latitude>
+			<longitude>-152115</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gabu">
+			<state></state>
+			<latitude>122936</latitude>
+			<longitude>-142064</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gabu Uol">
+			<state></state>
+			<latitude>116936</latitude>
+			<longitude>-147897</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hankey Point">
+			<state></state>
+			<latitude>115604</latitude>
+			<longitude>-154563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Helacunda">
+			<state></state>
+			<latitude>123437</latitude>
+			<longitude>-141396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hippo Creek">
+			<state></state>
+			<latitude>116604</latitude>
+			<longitude>-154396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imboe -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>120974</latitude>
+			<longitude>-154367</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabayana Creek -- (State: Cacheu)">
+			<state>Cacheu</state>
+			<latitude>123201</latitude>
+			<longitude>-160932</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabodo River">
+			<state></state>
+			<latitude>112774</latitude>
+			<longitude>-154060</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kadangayel">
+			<state></state>
+			<latitude>126774</latitude>
+			<longitude>-143393</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kafuai River">
+			<state></state>
+			<latitude>113774</latitude>
+			<longitude>-152893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kagboum">
+			<state></state>
+			<latitude>109940</latitude>
+			<longitude>-149393</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kajio River">
+			<state></state>
+			<latitude>114607</latitude>
+			<longitude>-152226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kajola River">
+			<state></state>
+			<latitude>113774</latitude>
+			<longitude>-153226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalebe">
+			<state></state>
+			<latitude>109774</latitude>
+			<longitude>-149893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanabak">
+			<state></state>
+			<latitude>112607</latitude>
+			<longitude>-157060</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanabak Reach">
+			<state></state>
+			<latitude>112607</latitude>
+			<longitude>-155726</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kandika">
+			<state></state>
+			<latitude>123107</latitude>
+			<longitude>-136893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanhenbe River">
+			<state></state>
+			<latitude>122940</latitude>
+			<longitude>-161226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kapey">
+			<state></state>
+			<latitude>116607</latitude>
+			<longitude>-141726</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karashe">
+			<state></state>
+			<latitude>115440</latitude>
+			<longitude>-163226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katak">
+			<state></state>
+			<latitude>109607</latitude>
+			<longitude>-150393</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katak Point">
+			<state></state>
+			<latitude>109607</latitude>
+			<longitude>-150893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katon Creek -- (State: Cacheu)">
+			<state>Cacheu</state>
+			<latitude>122385</latitude>
+			<longitude>-163568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katon Island -- (State: Cacheu)">
+			<state>Cacheu</state>
+			<latitude>122254</latitude>
+			<longitude>-163399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaur River">
+			<state></state>
+			<latitude>116607</latitude>
+			<longitude>-152560</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kayanga">
+			<state></state>
+			<latitude>119774</latitude>
+			<longitude>-149893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kayoum">
+			<state></state>
+			<latitude>123107</latitude>
+			<longitude>-137893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kionmaka">
+			<state></state>
+			<latitude>116440</latitude>
+			<longitude>-141060</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kissen">
+			<state></state>
+			<latitude>119440</latitude>
+			<longitude>-138393</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kissir -- (State: Cacheu)">
+			<state>Cacheu</state>
+			<latitude>124376</latitude>
+			<longitude>-155651</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Korbelha Island">
+			<state></state>
+			<latitude>114940</latitude>
+			<longitude>-162226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laba">
+			<state></state>
+			<latitude>123775</latitude>
+			<longitude>-138059</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labe">
+			<state></state>
+			<latitude>112441</latitude>
+			<longitude>-148059</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagoa Bionra">
+			<state></state>
+			<latitude>117941</latitude>
+			<longitude>-150725</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagoa de Cufada">
+			<state></state>
+			<latitude>117275</latitude>
+			<longitude>-150225</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamanezinho">
+			<state></state>
+			<latitude>116775</latitude>
+			<longitude>-151559</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamba">
+			<state></state>
+			<latitude>126630</latitude>
+			<longitude>-152239</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamo Coli Cherno">
+			<state></state>
+			<latitude>122941</latitude>
+			<longitude>-144892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamoi">
+			<state></state>
+			<latitude>125608</latitude>
+			<longitude>-148559</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lanchande">
+			<state></state>
+			<latitude>112775</latitude>
+			<longitude>-150725</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leibe Manga Tamba">
+			<state></state>
+			<latitude>117275</latitude>
+			<longitude>-140892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lengueel">
+			<state></state>
+			<latitude>125608</latitude>
+			<longitude>-145892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lenguel">
+			<state></state>
+			<latitude>114775</latitude>
+			<longitude>-149225</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lenque">
+			<state></state>
+			<latitude>120775</latitude>
+			<longitude>-145559</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lenquebembe">
+			<state></state>
+			<latitude>126775</latitude>
+			<longitude>-147892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lenquerim">
+			<state></state>
+			<latitude>122941</latitude>
+			<longitude>-141892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lenqueto">
+			<state></state>
+			<latitude>125441</latitude>
+			<longitude>-146559</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leon Creek">
+			<state></state>
+			<latitude>123608</latitude>
+			<longitude>-160725</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leto">
+			<state></state>
+			<latitude>123941</latitude>
+			<longitude>-154059</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Libar -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>122761</latitude>
+			<longitude>-155481</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limane -- (State: Cacheu)">
+			<state>Cacheu</state>
+			<latitude>124116</latitude>
+			<longitude>-155956</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limbi Afia">
+			<state></state>
+			<latitude>117441</latitude>
+			<longitude>-140725</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lome">
+			<state></state>
+			<latitude>120775</latitude>
+			<longitude>-153059</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Louvado">
+			<state></state>
+			<latitude>117608</latitude>
+			<longitude>-153392</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lubacunda -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>123866</latitude>
+			<longitude>-153175</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lugajole">
+			<state></state>
+			<latitude>118108</latitude>
+			<longitude>-138392</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lugure">
+			<state></state>
+			<latitude>118108</latitude>
+			<longitude>-141059</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lumbutugo">
+			<state></state>
+			<latitude>125608</latitude>
+			<longitude>-141892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mansoa -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>120842</latitude>
+			<longitude>-153080</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vare -- (State: Oio)">
+			<state>Oio</state>
+			<latitude>121385</latitude>
+			<longitude>-153813</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Varela">
+			<state></state>
+			<latitude>123118</latitude>
+			<longitude>-165549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendu Canhanquie">
+			<state></state>
+			<latitude>116618</latitude>
+			<longitude>-145549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warang Bank">
+			<state></state>
+			<latitude>116452</latitude>
+			<longitude>-166048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warang Channel">
+			<state></state>
+			<latitude>116452</latitude>
+			<longitude>-163214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xangol Carantaba">
+			<state></state>
+			<latitude>128120</latitude>
+			<longitude>-146880</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xedigan">
+			<state></state>
+			<latitude>115787</latitude>
+			<longitude>-159380</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xime">
+			<state></state>
+			<latitude>119787</latitude>
+			<longitude>-149213</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zegzeg Island">
+			<state></state>
+			<latitude>112955</latitude>
+			<longitude>-163711</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

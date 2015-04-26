@@ -1,0 +1,768 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Congo">
+		<city name="Brazzaville">
+			<state></state>
+			<latitude>-42419</latitude>
+			<longitude>152629</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Favre -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-41054</latitude>
+			<longitude>128358</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferme Kibouba -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-40248</latitude>
+			<longitude>129335</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fia -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-34206</latitude>
+			<longitude>148427</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fobo -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>-15220</latitude>
+			<longitude>158944</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Bangou -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-38792</latitude>
+			<longitude>144630</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Golembou -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-39506</latitude>
+			<longitude>157513</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Koukou -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-38984</latitude>
+			<longitude>143502</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Leko -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>-29673</latitude>
+			<longitude>143708</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Maloukou -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-39812</latitude>
+			<longitude>155566</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Mandiele -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-39731</latitude>
+			<longitude>155885</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Manpounou -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-39331</latitude>
+			<longitude>156971</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Mapounda -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-38420</latitude>
+			<longitude>121610</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Masage -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-37415</latitude>
+			<longitude>142355</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Mouso -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-39434</latitude>
+			<longitude>157841</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Ndoukou -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-44812</latitude>
+			<longitude>130605</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Ngourou -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-40656</latitude>
+			<longitude>135849</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret du Ndolo -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-36079</latitude>
+			<longitude>127688</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Pousset -- (State: CF03)">
+			<state>CF03</state>
+			<latitude>-4767</latitude>
+			<longitude>159183</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouari -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-27279</latitude>
+			<longitude>117269</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouatou -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-41737</latitude>
+			<longitude>147333</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foubou -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-44731</latitude>
+			<longitude>124769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foubou">
+			<state></state>
+			<latitude>-16231</latitude>
+			<longitude>158435</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouiloussao -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-46659</latitude>
+			<longitude>118566</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foula -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-33984</latitude>
+			<longitude>151216</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foulou -- (State: Lekoumou)">
+			<state>Lekoumou</state>
+			<latitude>-33317</latitude>
+			<longitude>131758</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouma -- (State: CF03)">
+			<state>CF03</state>
+			<latitude>-15679</latitude>
+			<longitude>149571</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foumbou -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-47165</latitude>
+			<longitude>144716</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foumo N Zabi -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-48323</latitude>
+			<longitude>147310</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foundiba -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-47223</latitude>
+			<longitude>146219</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foundou-Foundou -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-41248</latitude>
+			<longitude>143810</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Founika -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-38604</latitude>
+			<longitude>147874</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Founvou -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-42448</latitude>
+			<longitude>133260</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouomi -- (State: CF03)">
+			<state>CF03</state>
+			<latitude>-7901</latitude>
+			<longitude>148880</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouon -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-32645</latitude>
+			<longitude>161935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouta -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-49429</latitude>
+			<longitude>119833</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouya -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>-14284</latitude>
+			<longitude>151116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fulakari">
+			<state></state>
+			<latitude>-45726</latitude>
+			<longitude>149844</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gfou -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-33750</latitude>
+			<longitude>150717</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Bois -- (State: Lekoumou)">
+			<state>Lekoumou</state>
+			<latitude>-37161</latitude>
+			<longitude>134070</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hapilo -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-43615</latitude>
+			<longitude>137890</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haute Djouari -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-39574</latitude>
+			<longitude>150635</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haute Madzia -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-41790</latitude>
+			<longitude>148182</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hauteurs de Tatsa -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-34896</latitude>
+			<longitude>153604</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hidi -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-46007</latitude>
+			<longitude>136037</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hikolo -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-39913</latitude>
+			<longitude>139873</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hinda -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-46029</latitude>
+			<longitude>120540</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hinga Dinika -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-42390</latitude>
+			<longitude>127498</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hogoue -- (State: Sangha)">
+			<state>Sangha</state>
+			<latitude>15437</latitude>
+			<longitude>142437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Holle -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-45290</latitude>
+			<longitude>121576</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hollemoni -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-45204</latitude>
+			<longitude>117876</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hombo -- (State: CF03)">
+			<state>CF03</state>
+			<latitude>-9896</latitude>
+			<longitude>154271</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Houtziongo -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-27413</latitude>
+			<longitude>118082</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacob -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-41550</latitude>
+			<longitude>133034</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeudi -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-36602</latitude>
+			<longitude>145739</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jili -- (State: Lekoumou)">
+			<state>Lekoumou</state>
+			<latitude>-32550</latitude>
+			<longitude>140695</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimbekola -- (State: CF03)">
+			<state>CF03</state>
+			<latitude>8106</latitude>
+			<longitude>145106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joua -- (State: Sangha)">
+			<state>Sangha</state>
+			<latitude>22106</latitude>
+			<longitude>145773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinshassa -- (State: Sangha)">
+			<state>Sangha</state>
+			<latitude>19879</latitude>
+			<longitude>147868</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="L Alima-Lefini -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>-19892</latitude>
+			<longitude>150108</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loubomo -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-39706</latitude>
+			<longitude>122277</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Noire -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-47999</latitude>
+			<longitude>118987</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartier Tchinouka -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-47387</latitude>
+			<longitude>118780</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quimpanza -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-45587</latitude>
+			<longitude>149624</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Region de la Cuvette -- (State: Cuvette)">
+			<state>Cuvette</state>
+			<latitude>-4886</latitude>
+			<longitude>160114</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Region de la Lekoumou -- (State: Lekoumou)">
+			<state>Lekoumou</state>
+			<latitude>-29886</latitude>
+			<longitude>135114</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Region des Plateaux -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>-19886</latitude>
+			<longitude>155114</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reneville -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-39805</latitude>
+			<longitude>148420</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reserve de la Nyanga-Nord">
+			<state></state>
+			<latitude>-28972</latitude>
+			<longitude>118670</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Loema">
+			<state></state>
+			<latitude>-50219</latitude>
+			<longitude>120281</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Zaire">
+			<state></state>
+			<latitude>-60553</latitude>
+			<longitude>124114</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riviere M Vemba -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-47797</latitude>
+			<longitude>121620</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riviere N Gala -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-48261</latitude>
+			<longitude>120228</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ssanga">
+			<state></state>
+			<latitude>-12063</latitude>
+			<longitude>168307</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ssembe -- (State: Sangha)">
+			<state>Sangha</state>
+			<latitude>18723</latitude>
+			<longitude>147626</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uaga -- (State: Sangha)">
+			<state>Sangha</state>
+			<latitude>18659</latitude>
+			<longitude>140564</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uon -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>-22216</latitude>
+			<longitude>151567</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usine Electrique du Djoue">
+			<state></state>
+			<latitude>-43050</latitude>
+			<longitude>152284</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vandji -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-40524</latitude>
+			<longitude>113385</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villages Nghele -- (State: CF03)">
+			<state>CF03</state>
+			<latitude>3232</latitude>
+			<longitude>148187</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vindza -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-34063</latitude>
+			<longitude>145618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinnza -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-43288</latitude>
+			<longitude>147771</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voba -- (State: Lekoumou)">
+			<state>Lekoumou</state>
+			<latitude>-35532</latitude>
+			<longitude>133032</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouali -- (State: Lekoumou)">
+			<state>Lekoumou</state>
+			<latitude>-31349</latitude>
+			<longitude>141185</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouanza -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-45199</latitude>
+			<longitude>147751</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouga -- (State: Lekoumou)">
+			<state>Lekoumou</state>
+			<latitude>-29838</latitude>
+			<longitude>138860</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voula -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-45693</latitude>
+			<longitude>149835</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouloumamba -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-41435</latitude>
+			<longitude>146965</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vounda I -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-36310</latitude>
+			<longitude>121740</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vounda Loubetsi -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-36607</latitude>
+			<longitude>121187</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voungouta -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-43751</latitude>
+			<longitude>145751</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wala -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-37728</latitude>
+			<longitude>141236</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walala -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-43084</latitude>
+			<longitude>144630</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanda -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-45100</latitude>
+			<longitude>147238</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanda Kouni -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-44945</latitude>
+			<longitude>122741</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wandakousombi -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-45745</latitude>
+			<longitude>124516</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wandjia -- (State: Likouala)">
+			<state>Likouala</state>
+			<latitude>31300</latitude>
+			<longitude>173483</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wani -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>-22920</latitude>
+			<longitude>151783</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanyi -- (State: CF03)">
+			<state>CF03</state>
+			<latitude>-13178</latitude>
+			<longitude>151530</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wavou -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-44839</latitude>
+			<longitude>125636</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weme -- (State: Bouenza)">
+			<state>Bouenza</state>
+			<latitude>-35912</latitude>
+			<longitude>142005</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wendze -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>-23453</latitude>
+			<longitude>153186</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wongou -- (State: Pool)">
+			<state>Pool</state>
+			<latitude>-33953</latitude>
+			<longitude>141258</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wongou -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-43239</latitude>
+			<longitude>129341</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woulou -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>-14792</latitude>
+			<longitude>155933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuma -- (State: CF03)">
+			<state>CF03</state>
+			<latitude>-6412</latitude>
+			<longitude>160669</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zenzele -- (State: Sangha)">
+			<state>Sangha</state>
+			<latitude>6894</latitude>
+			<longitude>153480</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zevengue -- (State: Kouilou)">
+			<state>Kouilou</state>
+			<latitude>-41272</latitude>
+			<longitude>120386</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zilala -- (State: Niari)">
+			<state>Niari</state>
+			<latitude>-31389</latitude>
+			<longitude>121116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

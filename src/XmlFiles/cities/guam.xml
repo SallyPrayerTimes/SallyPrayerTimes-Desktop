@@ -1,0 +1,677 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Guam">
+		<city name="Adacao">
+			<state></state>
+			<latitude>134987</latitude>
+			<longitude>1448627</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afami">
+			<state></state>
+			<latitude>134657</latitude>
+			<longitude>1447687</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agana Heights">
+			<state></state>
+			<latitude>134787</latitude>
+			<longitude>1447537</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agat">
+			<state></state>
+			<latitude>133907</latitude>
+			<longitude>1446647</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anigua">
+			<state></state>
+			<latitude>134857</latitude>
+			<longitude>1447427</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apra Heights">
+			<state></state>
+			<latitude>134097</latitude>
+			<longitude>1446897</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apra Junction">
+			<state></state>
+			<latitude>134187</latitude>
+			<longitude>1446827</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apurguan">
+			<state></state>
+			<latitude>134927</latitude>
+			<longitude>1447807</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asan">
+			<state></state>
+			<latitude>134807</latitude>
+			<longitude>1447237</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asatdas">
+			<state></state>
+			<latitude>135267</latitude>
+			<longitude>1448737</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asbeco">
+			<state></state>
+			<latitude>134757</latitude>
+			<longitude>1448477</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asfaja">
+			<state></state>
+			<latitude>132877</latitude>
+			<longitude>1447547</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asmisen">
+			<state></state>
+			<latitude>134067</latitude>
+			<longitude>1447777</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asmuyao">
+			<state></state>
+			<latitude>134527</latitude>
+			<longitude>1448077</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aspengo">
+			<state></state>
+			<latitude>134717</latitude>
+			<longitude>1448037</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bacuna">
+			<state></state>
+			<latitude>134808</latitude>
+			<longitude>1447278</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barrigada">
+			<state></state>
+			<latitude>134778</latitude>
+			<longitude>1448088</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bile">
+			<state></state>
+			<latitude>132848</latitude>
+			<longitude>1446718</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bingot">
+			<state></state>
+			<latitude>132808</latitude>
+			<longitude>1446698</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Biyae">
+			<state></state>
+			<latitude>133688</latitude>
+			<longitude>1446558</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Calacag">
+			<state></state>
+			<latitude>134789</latitude>
+			<longitude>1447209</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Camp Dealy">
+			<state></state>
+			<latitude>133609</latitude>
+			<longitude>1447769</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Camp Roxas">
+			<state></state>
+			<latitude>134149</latitude>
+			<longitude>1446769</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Canada">
+			<state></state>
+			<latitude>134689</latitude>
+			<longitude>1447969</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Catan Maga">
+			<state></state>
+			<latitude>134409</latitude>
+			<longitude>1448039</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cerain">
+			<state></state>
+			<latitude>134039</latitude>
+			<longitude>1446689</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chagamin Lago">
+			<state></state>
+			<latitude>132879</latitude>
+			<longitude>1447599</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalan Mamajanao">
+			<state></state>
+			<latitude>135019</latitude>
+			<longitude>1447899</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalan Pago">
+			<state></state>
+			<latitude>134489</latitude>
+			<longitude>1447839</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coontz Junction">
+			<state></state>
+			<latitude>134869</latitude>
+			<longitude>1447369</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Corten Torres">
+			<state></state>
+			<latitude>134499</latitude>
+			<longitude>1448129</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dededo">
+			<state></state>
+			<latitude>135250</latitude>
+			<longitude>1448460</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Agana">
+			<state></state>
+			<latitude>134841</latitude>
+			<longitude>1447651</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gayinero">
+			<state></state>
+			<latitude>135393</latitude>
+			<longitude>1449123</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hagatna">
+			<state></state>
+			<latitude>134844</latitude>
+			<longitude>1447584</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harmon Village">
+			<state></state>
+			<latitude>135444</latitude>
+			<longitude>1448194</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inarajan">
+			<state></state>
+			<latitude>132865</latitude>
+			<longitude>1447535</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipapao">
+			<state></state>
+			<latitude>135285</latitude>
+			<longitude>1448665</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaotan">
+			<state></state>
+			<latitude>132656</latitude>
+			<longitude>1446866</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Julog">
+			<state></state>
+			<latitude>132666</latitude>
+			<longitude>1446936</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lalo">
+			<state></state>
+			<latitude>134628</latitude>
+			<longitude>1448128</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leary Junction">
+			<state></state>
+			<latitude>134868</latitude>
+			<longitude>1447618</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leyan">
+			<state></state>
+			<latitude>134668</latitude>
+			<longitude>1448138</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lingae">
+			<state></state>
+			<latitude>132668</latitude>
+			<longitude>1446908</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lockwood Terrace">
+			<state></state>
+			<latitude>134438</latitude>
+			<longitude>1446588</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lupog">
+			<state></state>
+			<latitude>135578</latitude>
+			<longitude>1449228</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Machaute">
+			<state></state>
+			<latitude>134779</latitude>
+			<longitude>1447999</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maina">
+			<state></state>
+			<latitude>134769</latitude>
+			<longitude>1447459</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maite">
+			<state></state>
+			<latitude>134859</latitude>
+			<longitude>1447749</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manaca">
+			<state></state>
+			<latitude>134699</latitude>
+			<longitude>1448119</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matugan">
+			<state></state>
+			<latitude>134779</latitude>
+			<longitude>1447379</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mayaya">
+			<state></state>
+			<latitude>132919</latitude>
+			<longitude>1447549</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Merizo">
+			<state></state>
+			<latitude>132739</latitude>
+			<longitude>1446809</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mongmong">
+			<state></state>
+			<latitude>134829</latitude>
+			<longitude>1447719</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Tipalao">
+			<state></state>
+			<latitude>134300</latitude>
+			<longitude>1446540</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oca">
+			<state></state>
+			<latitude>135111</latitude>
+			<longitude>1447841</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oceanview">
+			<state></state>
+			<latitude>135761</latitude>
+			<longitude>1448341</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ordot">
+			<state></state>
+			<latitude>134571</latitude>
+			<longitude>1447701</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pado">
+			<state></state>
+			<latitude>134792</latitude>
+			<longitude>1447832</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peca">
+			<state></state>
+			<latitude>132912</latitude>
+			<longitude>1447602</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pigo">
+			<state></state>
+			<latitude>134882</latitude>
+			<longitude>1447422</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pigua">
+			<state></state>
+			<latitude>132802</latitude>
+			<longitude>1446802</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piti">
+			<state></state>
+			<latitude>134722</latitude>
+			<longitude>1447022</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaza de Espana">
+			<state></state>
+			<latitude>134832</latitude>
+			<longitude>1447602</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Potts Junction">
+			<state></state>
+			<latitude>136002</latitude>
+			<longitude>1448732</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salinas">
+			<state></state>
+			<latitude>134025</latitude>
+			<longitude>1446705</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salisbury Junction">
+			<state></state>
+			<latitude>135745</latitude>
+			<longitude>1449085</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Antonio">
+			<state></state>
+			<latitude>134775</latitude>
+			<longitude>1448145</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Ramon">
+			<state></state>
+			<latitude>134805</latitude>
+			<longitude>1447635</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Vicente">
+			<state></state>
+			<latitude>134025</latitude>
+			<longitude>1446755</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Rita">
+			<state></state>
+			<latitude>133975</latitude>
+			<longitude>1446805</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Rosa">
+			<state></state>
+			<latitude>134025</latitude>
+			<longitude>1446775</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sella">
+			<state></state>
+			<latitude>134815</latitude>
+			<longitude>1447425</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sinajana">
+			<state></state>
+			<latitude>134725</latitude>
+			<longitude>1447635</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Tipalao">
+			<state></state>
+			<latitude>134265</latitude>
+			<longitude>1446595</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sumay">
+			<state></state>
+			<latitude>134465</latitude>
+			<longitude>1446615</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tacpi">
+			<state></state>
+			<latitude>134456</latitude>
+			<longitude>1448046</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Talofofo">
+			<state></state>
+			<latitude>133636</latitude>
+			<longitude>1447646</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Talona">
+			<state></state>
+			<latitude>132696</latitude>
+			<longitude>1446836</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamuning">
+			<state></state>
+			<latitude>134956</latitude>
+			<longitude>1447886</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tepungan">
+			<state></state>
+			<latitude>134766</latitude>
+			<longitude>1447066</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tijera">
+			<state></state>
+			<latitude>134096</latitude>
+			<longitude>1446726</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toto">
+			<state></state>
+			<latitude>134766</latitude>
+			<longitude>1447906</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tres Reyes">
+			<state></state>
+			<latitude>134126</latitude>
+			<longitude>1447806</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tumalaglago">
+			<state></state>
+			<latitude>134076</latitude>
+			<longitude>1446726</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tumon">
+			<state></state>
+			<latitude>135186</latitude>
+			<longitude>1448126</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tumon Chama">
+			<state></state>
+			<latitude>132916</latitude>
+			<longitude>1447596</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tutujan">
+			<state></state>
+			<latitude>134726</latitude>
+			<longitude>1447526</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umatac">
+			<state></state>
+			<latitude>133097</latitude>
+			<longitude>1446707</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ungaguan">
+			<state></state>
+			<latitude>134797</latitude>
+			<longitude>1448127</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utan">
+			<state></state>
+			<latitude>134787</latitude>
+			<longitude>1447767</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wettengel Junction">
+			<state></state>
+			<latitude>135339</latitude>
+			<longitude>1448329</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabai">
+			<state></state>
+			<latitude>132971</latitude>
+			<longitude>1447621</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yigo">
+			<state></state>
+			<latitude>135461</latitude>
+			<longitude>1448981</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yona">
+			<state></state>
+			<latitude>134221</latitude>
+			<longitude>1447851</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ypan">
+			<state></state>
+			<latitude>133581</latitude>
+			<longitude>1447791</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

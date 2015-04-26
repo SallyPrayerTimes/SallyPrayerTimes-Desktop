@@ -1,0 +1,1188 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Suriname">
+		<city name="Auca -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>44930</latitude>
+			<longitude>-544403</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Auca -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>53597</latitude>
+			<longitude>-550236</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aucaners -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>38097</latitude>
+			<longitude>-548403</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clevia -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>58766</latitude>
+			<longitude>-550901</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Domburg -- (State: Wanica)">
+			<state>Wanica</state>
+			<latitude>57100</latitude>
+			<longitude>-550733</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ede Tabiki">
+			<state></state>
+			<latitude>42434</latitude>
+			<longitude>-543566</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eduardkondre -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>54768</latitude>
+			<longitude>-540899</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eerste Bacoven Polder -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>58934</latitude>
+			<longitude>-569399</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eiland Kordonsanti -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>45101</latitude>
+			<longitude>-553399</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eiland Sannetje -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>52101</latitude>
+			<longitude>-550732</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eilerts de Haan Airstrip -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>31101</latitude>
+			<longitude>-564566</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eilerts de Haan Gebergte -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>30101</latitude>
+			<longitude>-561566</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elisabeth s Hoop -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>59101</latitude>
+			<longitude>-550232</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emma Rivier -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>38601</latitude>
+			<longitude>-545232</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emponou Tabiki -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>35268</latitude>
+			<longitude>-539899</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ephratha -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>58268</latitude>
+			<longitude>-547399</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Escudo de Guayana">
+			<state></state>
+			<latitude>40101</latitude>
+			<longitude>-599899</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fallawatra Rivier -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>51102</latitude>
+			<longitude>-565065</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fember Kreek -- (State: Saramacca)">
+			<state>Saramacca</state>
+			<latitude>54602</latitude>
+			<longitude>-554398</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feroelasi Val -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>43935</latitude>
+			<longitude>-553898</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fijikkoe Prati -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>40769</latitude>
+			<longitude>-558731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fingribado Kreek -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>55769</latitude>
+			<longitude>-544565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fleuve Maroni -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>57602</latitude>
+			<longitude>-539565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fobakka-kreek -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>49935</latitude>
+			<longitude>-549731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foendoegottro -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>50602</latitude>
+			<longitude>-555565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foendoeman Kreek -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>52769</latitude>
+			<longitude>-550731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foengoe Eiland -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>47435</latitude>
+			<longitude>-561898</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foengoe Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>47435</latitude>
+			<longitude>-562065</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foetoe Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>47602</latitude>
+			<longitude>-563565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foetoeswitie Gebergte -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>36435</latitude>
+			<longitude>-541565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Neu-Amsterdam -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>58935</latitude>
+			<longitude>-550731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fossiebergi -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>52269</latitude>
+			<longitude>-553231</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fransikasaba -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>43935</latitude>
+			<longitude>-557898</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fransman Landing -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>52102</latitude>
+			<longitude>-570565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frederick Willem IV-val -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>34769</latitude>
+			<longitude>-576065</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frederiks Lust -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>59769</latitude>
+			<longitude>-549398</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gloria -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>58936</latitude>
+			<longitude>-568897</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haarlem -- (State: Para)">
+			<state>Para</state>
+			<latitude>56604</latitude>
+			<longitude>-553229</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halte Berlijn -- (State: Para)">
+			<state>Para</state>
+			<latitude>54104</latitude>
+			<longitude>-552063</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hannover -- (State: Para)">
+			<state>Para</state>
+			<latitude>55104</latitude>
+			<longitude>-551396</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harikodja Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>49271</latitude>
+			<longitude>-544729</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hattioewanna Kreek -- (State: Coronie)">
+			<state>Coronie</state>
+			<latitude>53771</latitude>
+			<longitude>-560729</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hazzard -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>59271</latitude>
+			<longitude>-569396</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hebiweri -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>44271</latitude>
+			<longitude>-565563</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hede Kreek -- (State: Para)">
+			<state>Para</state>
+			<latitude>55104</latitude>
+			<longitude>-546563</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Helena Christinaweg -- (State: Wanica)">
+			<state>Wanica</state>
+			<latitude>57437</latitude>
+			<longitude>-552396</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heliba -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>47271</latitude>
+			<longitude>-555396</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hendriksen Kreek">
+			<state></state>
+			<latitude>56104</latitude>
+			<longitude>-546896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hermina Bank -- (State: Saramacca)">
+			<state>Saramacca</state>
+			<latitude>59271</latitude>
+			<longitude>-559229</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herstelling -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>60104</latitude>
+			<longitude>-549229</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herstellings Kreek -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>56104</latitude>
+			<longitude>-547563</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hertenrits -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>59104</latitude>
+			<longitude>-566396</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Himkar Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>46437</latitude>
+			<longitude>-562563</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoek Galibi -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>57604</latitude>
+			<longitude>-539896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoek van Meerzorg -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>58271</latitude>
+			<longitude>-551396</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoepel Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>53604</latitude>
+			<longitude>-561229</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hok-A-Hing Gebergte -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>49771</latitude>
+			<longitude>-547563</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoofdkamp -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>29771</latitude>
+			<longitude>-553563</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Houttuinweg -- (State: Wanica)">
+			<state>Wanica</state>
+			<latitude>57104</latitude>
+			<longitude>-551896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huntley Kreek -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>59437</latitude>
+			<longitude>-569063</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lelydorp -- (State: Wanica)">
+			<state>Wanica</state>
+			<latitude>57108</latitude>
+			<longitude>-552225</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lelydorp Project -- (State: Para)">
+			<state>Para</state>
+			<latitude>56275</latitude>
+			<longitude>-551892</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lelydorpweg -- (State: Wanica)">
+			<state>Wanica</state>
+			<latitude>56941</latitude>
+			<longitude>-552059</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanni Dam -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>58277</latitude>
+			<longitude>-569723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanni Kreek -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>58943</latitude>
+			<longitude>-570723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanni Meer -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>54110</latitude>
+			<longitude>-570057</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanni Sluis -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>58943</latitude>
+			<longitude>-570557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nason -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>48443</latitude>
+			<longitude>-544557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nassau Range -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>48110</latitude>
+			<longitude>-545890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nederlandisch Guyana">
+			<state></state>
+			<latitude>40110</latitude>
+			<longitude>-559890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negro Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>44110</latitude>
+			<longitude>-562557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neti Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>51943</latitude>
+			<longitude>-561390</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nickerie">
+			<state></state>
+			<latitude>59610</latitude>
+			<longitude>-569723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nickerie Punt -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>60110</latitude>
+			<longitude>-569890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nickerie River -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>47943</latitude>
+			<longitude>-567557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nickerie Rivier">
+			<state></state>
+			<latitude>59943</latitude>
+			<longitude>-569890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nieuw Bambeij -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>43277</latitude>
+			<longitude>-554057</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nieuw Mocha -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>59110</latitude>
+			<longitude>-548390</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nieuw Star Eiland -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>50110</latitude>
+			<longitude>-549723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nieuwe Rust -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>55943</latitude>
+			<longitude>-550223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nikerie -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>56777</latitude>
+			<longitude>-568223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ningre Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>45277</latitude>
+			<longitude>-560890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ningri Peprekondri">
+			<state></state>
+			<latitude>54943</latitude>
+			<longitude>-546223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nioe-konare -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>49610</latitude>
+			<longitude>-555390</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Njoeboeroe Kreek -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>55777</latitude>
+			<longitude>-544223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nonno Soela -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>46777</latitude>
+			<longitude>-562557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nooitgedacht -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>58610</latitude>
+			<longitude>-568390</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noord Kreek -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>52110</latitude>
+			<longitude>-553057</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novar -- (State: Coronie)">
+			<state>Coronie</state>
+			<latitude>58943</latitude>
+			<longitude>-563557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noya Kreek -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>55110</latitude>
+			<longitude>-565557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="October Kreek -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>54444</latitude>
+			<longitude>-572389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oelemari -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>31111</latitude>
+			<longitude>-545222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oelemari River -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>32278</latitude>
+			<longitude>-541389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oemakondre -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>49444</latitude>
+			<longitude>-555389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oeman Kreek -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>55444</latitude>
+			<longitude>-567222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oeman Santie -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>41778</latitude>
+			<longitude>-554222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojarikoela Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>31444</latitude>
+			<longitude>-541889</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojodidde Kreek -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>52111</latitude>
+			<longitude>-553556</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omosee Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>53444</latitude>
+			<longitude>-561389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onikaikondre -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>54611</latitude>
+			<longitude>-540889</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onobisi Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>53444</latitude>
+			<longitude>-560389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onobo Kreek -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>55611</latitude>
+			<longitude>-548056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onverdacht -- (State: Para)">
+			<state>Para</state>
+			<latitude>56111</latitude>
+			<longitude>-551389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Opak Val -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>28111</latitude>
+			<longitude>-553722</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oplanie -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>56944</latitude>
+			<longitude>-543222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oppegon Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>39778</latitude>
+			<longitude>-548056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oranje Stroom -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>58778</latitude>
+			<longitude>-545556</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orelana Kreek -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>58944</latitude>
+			<longitude>-549556</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oroprecaro Kreek -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>55278</latitude>
+			<longitude>-571889</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otto Savanne -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>53444</latitude>
+			<longitude>-551056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouamaouetpeu Icholi">
+			<state></state>
+			<latitude>29611</latitude>
+			<longitude>-541722</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oude Post Kreek -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>57944</latitude>
+			<longitude>-567222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oude Savana Kreek -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>54111</latitude>
+			<longitude>-567222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oudemans Kreek -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>57278</latitude>
+			<longitude>-546222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouekoeko Tabiki -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>49444</latitude>
+			<longitude>-544389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouman Kasiabra Soula">
+			<state></state>
+			<latitude>37111</latitude>
+			<longitude>-540722</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouroewossoe Pratie -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>45111</latitude>
+			<longitude>-557389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Overtoom -- (State: Para)">
+			<state>Para</state>
+			<latitude>55944</latitude>
+			<longitude>-551389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ovilonholloi -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>55278</latitude>
+			<longitude>-544056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paramaribo">
+			<state></state>
+			<latitude>58445</latitude>
+			<longitude>-551555</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phedra -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>53445</latitude>
+			<longitude>-550388</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queriman Island -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>57780</latitude>
+			<longitude>-571554</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rac a Rac -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>56447</latitude>
+			<longitude>-550386</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raleighvallen -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>47281</latitude>
+			<longitude>-561886</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rechter Adampada Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>45114</latitude>
+			<longitude>-566219</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rechter Pimba Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>34781</latitude>
+			<longitude>-549886</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rene Soela -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>45947</latitude>
+			<longitude>-562886</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Republiek -- (State: Para)">
+			<state>Para</state>
+			<latitude>55114</latitude>
+			<longitude>-551886</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reynsdorp -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>59447</latitude>
+			<longitude>-548886</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ribanica Kreek -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>54947</latitude>
+			<longitude>-546553</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ricanau Moffo -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>56947</latitude>
+			<longitude>-544053</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rijsdijkweg -- (State: Para)">
+			<state>Para</state>
+			<latitude>56281</latitude>
+			<longitude>-552219</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Coppename">
+			<state></state>
+			<latitude>58114</latitude>
+			<longitude>-559053</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Saramacca">
+			<state></state>
+			<latitude>58614</latitude>
+			<longitude>-558719</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Tapanahoni -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>43781</latitude>
+			<longitude>-544386</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Corentin">
+			<state></state>
+			<latitude>59614</latitude>
+			<longitude>-570886</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riviere Awa">
+			<state></state>
+			<latitude>43781</latitude>
+			<longitude>-544219</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riviere Litani">
+			<state></state>
+			<latitude>33114</latitude>
+			<longitude>-540886</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooseveltpiek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>33614</latitude>
+			<longitude>-551719</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rozen Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>48114</latitude>
+			<longitude>-561219</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rufin Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>36947</latitude>
+			<longitude>-540719</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uitkijk -- (State: Wanica)">
+			<state>Wanica</state>
+			<latitude>57784</latitude>
+			<longitude>-553216</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umuru Rapids -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>36784</latitude>
+			<longitude>-578050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unverwacht -- (State: Para)">
+			<state>Para</state>
+			<latitude>55950</latitude>
+			<longitude>-551716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utrecht -- (State: Nickerie)">
+			<state>Nickerie</state>
+			<latitude>57617</latitude>
+			<longitude>-566550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vliegveld Coronie -- (State: Coronie)">
+			<state>Coronie</state>
+			<latitude>58785</latitude>
+			<longitude>-563049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yzer Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>48454</latitude>
+			<longitude>-561046</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaja Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>43289</latitude>
+			<longitude>-553711</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zand Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>38622</latitude>
+			<longitude>-542211</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zand Val -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>48122</latitude>
+			<longitude>-574211</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanderij -- (State: Para)">
+			<state>Para</state>
+			<latitude>54622</latitude>
+			<longitude>-551878</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zandery -- (State: Para)">
+			<state>Para</state>
+			<latitude>54622</latitude>
+			<longitude>-551711</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaoe Tabriki -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>33955</latitude>
+			<longitude>-540378</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeekoe Kreek -- (State: Saramacca)">
+			<state>Saramacca</state>
+			<latitude>54955</latitude>
+			<longitude>-556045</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeven Broeders Vallen -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>35622</latitude>
+			<longitude>-574711</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziparij-kreek -- (State: Coronie)">
+			<state>Coronie</state>
+			<latitude>53622</latitude>
+			<longitude>-564045</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoelen -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>58955</latitude>
+			<longitude>-550545</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoetwater Kanaal -- (State: Coronie)">
+			<state>Coronie</state>
+			<latitude>59289</latitude>
+			<longitude>-563211</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoewatta -- (State: Brokopondo)">
+			<state>Brokopondo</state>
+			<latitude>45622</latitude>
+			<longitude>-552878</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zohigronpoenta -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>40289</latitude>
+			<longitude>-558711</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zondag Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>44789</latitude>
+			<longitude>-560211</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zondag Kreek -- (State: Coronie)">
+			<state>Coronie</state>
+			<latitude>58122</latitude>
+			<longitude>-556878</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zonnevis Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>51955</latitude>
+			<longitude>-560711</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorg en Hoop -- (State: Paramaribo)">
+			<state>Paramaribo</state>
+			<latitude>58289</latitude>
+			<longitude>-551878</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorgvliet -- (State: Commewijne)">
+			<state>Commewijne</state>
+			<latitude>58622</latitude>
+			<longitude>-550211</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoutoa Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>48455</latitude>
+			<longitude>-546878</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuid Rivier -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>33455</latitude>
+			<longitude>-568045</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zwamp Kreek -- (State: Sipaliwini)">
+			<state>Sipaliwini</state>
+			<latitude>50289</latitude>
+			<longitude>-566878</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zwampoekondre -- (State: Marowijne)">
+			<state>Marowijne</state>
+			<latitude>53455</latitude>
+			<longitude>-541878</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

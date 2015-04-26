@@ -1,0 +1,1069 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Gabon">
+		<city name="Arabian Bar -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-12236</latitude>
+			<longitude>89930</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Areowonga -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-10236</latitude>
+			<longitude>89430</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Black Point -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>1265</latitude>
+			<longitude>97598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Black Rock -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-35069</latitude>
+			<longitude>107265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Blavene -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>15598</latitude>
+			<longitude>122598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buengui -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-32735</latitude>
+			<longitude>116431</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buey -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>7598</latitude>
+			<longitude>114265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bumba -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>1765</latitude>
+			<longitude>99931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Butica Uvinia -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>10598</latitude>
+			<longitude>96931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Butterfly Bank -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>3765</latitude>
+			<longitude>93598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buzogo -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>15765</latitude>
+			<longitude>122431</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bwenguedi -- (State: Ogooue-Lolo)">
+			<state>Ogooue-Lolo</state>
+			<latitude>-11235</latitude>
+			<longitude>124931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Byal -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>5431</latitude>
+			<longitude>128598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Byemane -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>17765</latitude>
+			<longitude>114931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Byene -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-2902</latitude>
+			<longitude>105598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clainbanego -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-8234</latitude>
+			<longitude>98932</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fada -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>3769</latitude>
+			<longitude>101602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fala -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-9398</latitude>
+			<longitude>106269</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fala-Nzamata -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-5898</latitude>
+			<longitude>103602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaba -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-10231</latitude>
+			<longitude>90769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaise Roches Namino -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-17231</latitude>
+			<longitude>92602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaise Tsidoke -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-27731</latitude>
+			<longitude>102435</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="False Point Owendo -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>3102</latitude>
+			<longitude>95102</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fana -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>435</latitude>
+			<longitude>94769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fantele -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>12269</latitude>
+			<longitude>127602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fara -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>7102</latitude>
+			<longitude>101769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faux Cap -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>5269</latitude>
+			<longitude>93102</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Febezok -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>15435</latitude>
+			<longitude>118102</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feme -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>22102</latitude>
+			<longitude>115102</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fera -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-22898</latitude>
+			<longitude>113269</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fernan Vaz -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-4398</latitude>
+			<longitude>104769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fernan Vaz -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-15565</latitude>
+			<longitude>92602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fieng -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>-398</latitude>
+			<longitude>118769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Findou -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-25065</latitude>
+			<longitude>98935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foh -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>6102</latitude>
+			<longitude>103102</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foloe -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>9102</latitude>
+			<longitude>122769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fone -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>14602</latitude>
+			<longitude>116102</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fortifie du Lekoni -- (State: Haut-Ogooue)">
+			<state>Haut-Ogooue</state>
+			<latitude>-15731</latitude>
+			<longitude>142435</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouala -- (State: Ogooue-Lolo)">
+			<state>Ogooue-Lolo</state>
+			<latitude>-9731</latitude>
+			<longitude>128269</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouanga -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>2602</latitude>
+			<longitude>105269</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foubenzok -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>2435</latitude>
+			<longitude>119602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foubenzork -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>2769</latitude>
+			<longitude>119769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouelou -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-21731</latitude>
+			<longitude>111269</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fougamou -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-12065</latitude>
+			<longitude>106102</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouk Sole -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>7269</latitude>
+			<longitude>116602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foula -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>6769</latitude>
+			<longitude>100602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foula Fieng -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>2102</latitude>
+			<longitude>117935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foula Tendi -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-26065</latitude>
+			<longitude>100435</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foulamayong -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-11898</latitude>
+			<longitude>94935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foulameyong -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-5065</latitude>
+			<longitude>103435</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foulassi -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>8269</latitude>
+			<longitude>114935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foulayong -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>8602</latitude>
+			<longitude>98935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foulebeng II -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>10602</latitude>
+			<longitude>114935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foulenzem -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>-65</latitude>
+			<longitude>95935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouma -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>935</latitude>
+			<longitude>103269</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Founa -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-3898</latitude>
+			<longitude>113769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foundou -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-26398</latitude>
+			<longitude>100435</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foundou Nzambi -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-24231</latitude>
+			<longitude>109769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouramouanga -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-11065</latitude>
+			<longitude>106435</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouroumanga -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-21898</latitude>
+			<longitude>115435</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Franceville -- (State: Haut-Ogooue)">
+			<state>Haut-Ogooue</state>
+			<latitude>-16231</latitude>
+			<longitude>135935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fulabifum -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>2269</latitude>
+			<longitude>102435</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gamba -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-26397</latitude>
+			<longitude>99936</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gega Point -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-17897</latitude>
+			<longitude>92603</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghebida -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-12064</latitude>
+			<longitude>112770</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heide Island -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-14729</latitude>
+			<longitude>92604</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiaba -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-25563</latitude>
+			<longitude>99271</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Himba -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-19063</latitude>
+			<longitude>93771</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Houango -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-22229</latitude>
+			<longitude>114271</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hublin -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-16063</latitude>
+			<longitude>95437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huy I -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>5437</latitude>
+			<longitude>114771</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huy II -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>5271</latitude>
+			<longitude>114771</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jambi -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>1439</latitude>
+			<longitude>98439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jara -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-25561</latitude>
+			<longitude>108439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jobo -- (State: Haut-Ogooue)">
+			<state>Haut-Ogooue</state>
+			<latitude>-22227</latitude>
+			<longitude>138606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joctane -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-8227</latitude>
+			<longitude>101106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jogeboat -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>1773</latitude>
+			<longitude>101773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junckville -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-727</latitude>
+			<longitude>111773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jungu River -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-35727</latitude>
+			<longitude>108939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kvang">
+			<state></state>
+			<latitude>9107</latitude>
+			<longitude>103940</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lambarene -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-6892</latitude>
+			<longitude>102275</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lambarene -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-16725</latitude>
+			<longitude>94441</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lambarene -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-10892</latitude>
+			<longitude>117441</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lambarene -- (State: Ogooue-Lolo)">
+			<state>Ogooue-Lolo</state>
+			<latitude>-11892</latitude>
+			<longitude>125108</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lambarene -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>6608</latitude>
+			<longitude>130441</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Libreville -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>3941</latitude>
+			<longitude>94608</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luxibi River -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-34392</latitude>
+			<longitude>107441</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lvouta -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-19725</latitude>
+			<longitude>113275</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nfagne -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>19277</latitude>
+			<longitude>115777</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nfigou -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-25390</latitude>
+			<longitude>109110</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nfongo -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>11610</latitude>
+			<longitude>116110</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nfoulameyong -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>2277</latitude>
+			<longitude>97277</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Gentil -- (State: Ogooue-Lolo)">
+			<state>Ogooue-Lolo</state>
+			<latitude>-11555</latitude>
+			<longitude>118612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port-Gentil -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-7055</latitude>
+			<longitude>87945</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quaben -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>4113</latitude>
+			<longitude>94446</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uale -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>7117</latitude>
+			<longitude>111950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukoko -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>9950</latitude>
+			<longitude>96117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unoco -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-10216</latitude>
+			<longitude>90617</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwinia-Spitz -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>10617</latitude>
+			<longitude>96784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanayeme -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>2785</latitude>
+			<longitude>101285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vandarene -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-16549</latitude>
+			<longitude>95785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vane -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>9618</latitude>
+			<longitude>98785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Varie -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-8882</latitude>
+			<longitude>94785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vedi -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-13882</latitude>
+			<longitude>117951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vema -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>20785</latitude>
+			<longitude>120285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendze">
+			<state></state>
+			<latitude>12285</latitude>
+			<longitude>132118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veolop -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>18618</latitude>
+			<longitude>116618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viafe -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-5882</latitude>
+			<longitude>102451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viafe -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>3451</latitude>
+			<longitude>114285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vigne -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>4951</latitude>
+			<longitude>101285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vijue Point -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>1118</latitude>
+			<longitude>97451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Bama -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-21382</latitude>
+			<longitude>118951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Erogoue -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-6382</latitude>
+			<longitude>87285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinzi -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-17215</latitude>
+			<longitude>116285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vioboue -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>11951</latitude>
+			<longitude>141118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vodvi -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-23215</latitude>
+			<longitude>122785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vombie -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>9618</latitude>
+			<longitude>95785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vometsa -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>8285</latitude>
+			<longitude>123951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vongou -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-32715</latitude>
+			<longitude>117285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vonmozel -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>3451</latitude>
+			<longitude>96451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voumou -- (State: Haut-Ogooue)">
+			<state>Haut-Ogooue</state>
+			<latitude>-23715</latitude>
+			<longitude>135451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voungou -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-32049</latitude>
+			<longitude>117451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wafou -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-21214</latitude>
+			<longitude>112452</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wagny -- (State: Ogooue-Lolo)">
+			<state>Ogooue-Lolo</state>
+			<latitude>-5548</latitude>
+			<longitude>123286</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waka -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-13881</latitude>
+			<longitude>107619</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walee -- (State: Ogooue-Ivindo)">
+			<state>Ogooue-Ivindo</state>
+			<latitude>12786</latitude>
+			<longitude>143452</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wango">
+			<state></state>
+			<latitude>-9214</latitude>
+			<longitude>96119</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wano -- (State: Ngounie)">
+			<state>Ngounie</state>
+			<latitude>-20714</latitude>
+			<longitude>113952</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Welle -- (State: Haut-Ogooue)">
+			<state>Haut-Ogooue</state>
+			<latitude>-16214</latitude>
+			<longitude>133786</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weze -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-6381</latitude>
+			<longitude>91202</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wolo I -- (State: Ogooue-Lolo)">
+			<state>Ogooue-Lolo</state>
+			<latitude>-8714</latitude>
+			<longitude>129786</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wong">
+			<state></state>
+			<latitude>7286</latitude>
+			<longitude>129286</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonga-Wongue National Park -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-4048</latitude>
+			<longitude>95119</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wotogo -- (State: Haut-Ogooue)">
+			<state>Haut-Ogooue</state>
+			<latitude>-20881</latitude>
+			<longitude>140952</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woumou -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>21952</latitude>
+			<longitude>116619</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zalakouka -- (State: Ogooue-Lolo)">
+			<state>Ogooue-Lolo</state>
+			<latitude>-4545</latitude>
+			<longitude>124289</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamaliga -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>455</latitude>
+			<longitude>99955</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamata -- (State: Moyen-Ogooue)">
+			<state>Moyen-Ogooue</state>
+			<latitude>-1045</latitude>
+			<longitude>108955</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamelen I -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>18789</latitude>
+			<longitude>116455</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanangoue -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>13955</latitude>
+			<longitude>115789</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zangui Mamba -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-28711</latitude>
+			<longitude>102122</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zare -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>3622</latitude>
+			<longitude>101622</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zembi-Zanza -- (State: Nyanga)">
+			<state>Nyanga</state>
+			<latitude>-34878</latitude>
+			<longitude>108455</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zilmac -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-16545</latitude>
+			<longitude>97622</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zindzele -- (State: Ogooue-Lolo)">
+			<state>Ogooue-Lolo</state>
+			<latitude>-12878</latitude>
+			<longitude>125455</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zogogone -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>16289</latitude>
+			<longitude>115455</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zogueloumou -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>22122</latitude>
+			<longitude>118455</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zomogneu -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>1622</latitude>
+			<longitude>107122</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorengone -- (State: Woleu-Ntem)">
+			<state>Woleu-Ntem</state>
+			<latitude>8122</latitude>
+			<longitude>104622</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoulameyong -- (State: Estuaire)">
+			<state>Estuaire</state>
+			<latitude>2455</latitude>
+			<longitude>101789</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoungui -- (State: Ogooue-Lolo)">
+			<state>Ogooue-Lolo</state>
+			<latitude>-16211</latitude>
+			<longitude>124122</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zouri -- (State: Ogooue-Maritime)">
+			<state>Ogooue-Maritime</state>
+			<latitude>-10045</latitude>
+			<longitude>88955</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

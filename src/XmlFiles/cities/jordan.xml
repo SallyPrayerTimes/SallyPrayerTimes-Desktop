@@ -1,0 +1,1034 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Jordan">
+		<city name="Ajlun -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>323436</latitude>
+			<longitude>357605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Mazar -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>310753</latitude>
+			<longitude>357058</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amaun -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>303097</latitude>
+			<longitude>354764</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amman -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>319597</latitude>
+			<longitude>359430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amman Station -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>319764</latitude>
+			<longitude>359930</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aqaba -- (State: `Amman)">
+			<state>`Amman</state>
+			<latitude>295364</latitude>
+			<longitude>350175</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aqaba Airport -- (State: Al `Aqabah)">
+			<state>Al `Aqabah</state>
+			<latitude>295930</latitude>
+			<longitude>350930</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aqaba Station -- (State: Al `Aqabah)">
+			<state>Al `Aqabah</state>
+			<latitude>295097</latitude>
+			<longitude>350430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Az Zarqa -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>316597</latitude>
+			<longitude>357097</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azraq ash Shishan -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>318430</latitude>
+			<longitude>368264</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bayt Idis -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>324467</latitude>
+			<longitude>357095</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bayt Ra s -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>326098</latitude>
+			<longitude>358598</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bayt Yafa -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>325265</latitude>
+			<longitude>357931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cape Costigan">
+			<state></state>
+			<latitude>313599</latitude>
+			<longitude>354932</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cape Molineux">
+			<state></state>
+			<latitude>312599</latitude>
+			<longitude>354432</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chbeike -- (State: (JO10))">
+			<state>(JO10)</state>
+			<latitude>324099</latitude>
+			<longitude>372432</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doqara -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>326094</latitude>
+			<longitude>357447</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halawa -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>323968</latitude>
+			<longitude>356712</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hawwarah -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>325440</latitude>
+			<longitude>359182</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hawwarah -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>317104</latitude>
+			<longitude>358604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibbin -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>323772</latitude>
+			<longitude>358272</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibder -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>326772</latitude>
+			<longitude>357938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibharmala -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>314272</latitude>
+			<longitude>357605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibillin -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>323605</latitude>
+			<longitude>358438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibn Dhib -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>305605</latitude>
+			<longitude>355105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ihseinan -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>298772</latitude>
+			<longitude>357605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imra` -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>313622</latitude>
+			<longitude>356955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inbah -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>324908</latitude>
+			<longitude>357661</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iraq Abu az Zighan -- (State: (JO13))">
+			<state>(JO13)</state>
+			<latitude>321105</latitude>
+			<longitude>360438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iraq at Tahunah -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>322105</latitude>
+			<longitude>356938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irbed -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>325605</latitude>
+			<longitude>358605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irbid -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>325661</latitude>
+			<longitude>358605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irbid -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>312105</latitude>
+			<longitude>358438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irhab -- (State: (JO10))">
+			<state>(JO10)</state>
+			<latitude>323272</latitude>
+			<longitude>361105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irjan -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>324069</latitude>
+			<longitude>357422</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irjan el Gharbiya -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>319938</latitude>
+			<longitude>359272</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irmadan -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>319105</latitude>
+			<longitude>360438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ishtafeina -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>323772</latitude>
+			<longitude>357605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iskandar -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>318938</latitude>
+			<longitude>359772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iso`ar -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>310438</latitude>
+			<longitude>354772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itmayrah -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>324105</latitude>
+			<longitude>360105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izar -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>312063</latitude>
+			<longitude>356811</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jerash -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>322912</latitude>
+			<longitude>359059</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jordan">
+			<state></state>
+			<latitude>310106</latitude>
+			<longitude>360106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jordan Petroleum Refinery -- (State: (JO13))">
+			<state>(JO13)</state>
+			<latitude>321439</latitude>
+			<longitude>361106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karak -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>311954</latitude>
+			<longitude>357154</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karaka -- (State: At Tafilah)">
+			<state>At Tafilah</state>
+			<latitude>309107</latitude>
+			<longitude>356607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khalda -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>320107</latitude>
+			<longitude>358607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kufr Asad -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>326107</latitude>
+			<longitude>357274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kufr `Awan -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>324440</latitude>
+			<longitude>356940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kufrinjah -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>323079</latitude>
+			<longitude>357138</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahun -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>314775</latitude>
+			<longitude>358608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lajjun -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>312441</latitude>
+			<longitude>358775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Land of Gilead -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>324275</latitude>
+			<longitude>357608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lasan Awwal Station -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>300941</latitude>
+			<longitude>355275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La`ban -- (State: At Tafilah)">
+			<state>At Tafilah</state>
+			<latitude>309275</latitude>
+			<longitude>357108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La`ban -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>309608</latitude>
+			<longitude>357275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Libb -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>316108</latitude>
+			<longitude>357775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liwa al Balqa -- (State: Al Balqa)">
+			<state>Al Balqa</state>
+			<latitude>320108</latitude>
+			<longitude>356775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liwa al Karak -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>311775</latitude>
+			<longitude>357608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liwa Ma`an -- (State: Ma`an)">
+			<state>Ma`an</state>
+			<latitude>303441</latitude>
+			<longitude>365941</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liwa `Ajlun -- (State: `Ajlun)">
+			<state>`Ajlun</state>
+			<latitude>323441</latitude>
+			<longitude>357608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liwa `Ajlun -- (State: Irbid)">
+			<state>Irbid</state>
+			<latitude>325108</latitude>
+			<longitude>358441</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lshuni -- (State: Al Balqa)">
+			<state>Al Balqa</state>
+			<latitude>319008</latitude>
+			<longitude>355886</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maadi -- (State: Al Balqa)">
+			<state>Al Balqa</state>
+			<latitude>321776</latitude>
+			<longitude>356276</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Madaba -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>317276</latitude>
+			<longitude>358109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mafraq -- (State: (JO10))">
+			<state>(JO10)</state>
+			<latitude>323609</latitude>
+			<longitude>362109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mafraq Airport -- (State: (JO10))">
+			<state>(JO10)</state>
+			<latitude>323776</latitude>
+			<longitude>362609</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mafraq Governorate -- (State: Al Mafraq)">
+			<state>Al Mafraq</state>
+			<latitude>323442</latitude>
+			<longitude>379276</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mahattat Ma`an -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>301942</latitude>
+			<longitude>357776</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malka -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>326853</latitude>
+			<longitude>357631</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ma`ain -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>316912</latitude>
+			<longitude>357448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ma`an -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>302109</latitude>
+			<longitude>357442</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mu tah -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>311034</latitude>
+			<longitude>357053</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nabi Hud -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>322610</latitude>
+			<longitude>359277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nab` al Hammam -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>322277</latitude>
+			<longitude>359110</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nab` al Murayghah -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>301110</latitude>
+			<longitude>355277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nab` al Yamam -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>300277</latitude>
+			<longitude>354777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nab` er Ruseis -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>301610</latitude>
+			<longitude>354277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nab` Umm Rus -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>301277</latitude>
+			<longitude>354943</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nadira -- (State: (JO13))">
+			<state>(JO13)</state>
+			<latitude>323227</latitude>
+			<longitude>359879</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nafi` -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>318777</latitude>
+			<longitude>359610</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nahal Qishon">
+			<state></state>
+			<latitude>326277</latitude>
+			<longitude>355777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nahareyim -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>326443</latitude>
+			<longitude>355943</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nahlah -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>322943</latitude>
+			<longitude>358443</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Najdah -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>322443</latitude>
+			<longitude>358110</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nakb Shtar -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>300110</latitude>
+			<longitude>354943</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naqb ar Ruba`i -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>302777</latitude>
+			<longitude>353777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naqb Ashtar -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>299943</latitude>
+			<longitude>355277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naqqaz -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>311649</latitude>
+			<longitude>357157</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nasib -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>313443</latitude>
+			<longitude>357777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Natifah -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>325293</latitude>
+			<longitude>358363</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nawkhah -- (State: At Tafilah)">
+			<state>At Tafilah</state>
+			<latitude>308777</latitude>
+			<longitude>356443</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Na`ur -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>318943</latitude>
+			<longitude>358443</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nebi Yusha` -- (State: Al Balqa)">
+			<state>Al Balqa</state>
+			<latitude>320777</latitude>
+			<longitude>357277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nekhel -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>310777</latitude>
+			<longitude>357943</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nesheinish -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>310943</latitude>
+			<longitude>357610</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nessar -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>311110</latitude>
+			<longitude>358110</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Netel -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>316610</latitude>
+			<longitude>358777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niji -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>305277</latitude>
+			<longitude>355610</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nufaylat Wadi Musa -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>304443</latitude>
+			<longitude>353110</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nuhud al Bint -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>299766</latitude>
+			<longitude>370646</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Numeira -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>311479</latitude>
+			<longitude>355216</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nuqayb al Bawl -- (State: (JO10))">
+			<state>(JO10)</state>
+			<latitude>321777</latitude>
+			<longitude>361110</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nuqrat el Atrash -- (State: (JO10))">
+			<state>(JO10)</state>
+			<latitude>322777</latitude>
+			<longitude>361943</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nuweiga -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>301943</latitude>
+			<longitude>354777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nuweijis -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>319943</latitude>
+			<longitude>359610</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nu`aiyima -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>324313</latitude>
+			<longitude>359241</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouadi ech Shaumar -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>327111</latitude>
+			<longitude>359611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouadi el Aaqeb">
+			<state></state>
+			<latitude>321611</latitude>
+			<longitude>363111</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouadi el Hachad -- (State: (JO10))">
+			<state>(JO10)</state>
+			<latitude>324944</latitude>
+			<longitude>372611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouadi er Radjil">
+			<state></state>
+			<latitude>323778</latitude>
+			<longitude>371778</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouadi Mchami">
+			<state></state>
+			<latitude>324611</latitude>
+			<longitude>369944</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouadi Sarab">
+			<state></state>
+			<latitude>325944</latitude>
+			<longitude>372444</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petra -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>303445</latitude>
+			<longitude>354445</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pisga -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>317787</latitude>
+			<longitude>357379</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prince Abdullah Bridge">
+			<state></state>
+			<latitude>318112</latitude>
+			<longitude>355612</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qumaym -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>325816</latitude>
+			<longitude>357430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ramtha -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>325706</latitude>
+			<longitude>360183</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ruseifa -- (State: (JO13))">
+			<state>(JO13)</state>
+			<latitude>320281</latitude>
+			<longitude>360614</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sahab -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>318901</latitude>
+			<longitude>360159</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salt -- (State: Al Balqa)">
+			<state>Al Balqa</state>
+			<latitude>320507</latitude>
+			<longitude>357387</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sama -- (State: (JO10))">
+			<state>(JO10)</state>
+			<latitude>324782</latitude>
+			<longitude>362448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sama -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>326448</latitude>
+			<longitude>358282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shaubak -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>305448</latitude>
+			<longitude>355782</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shuna Shamaliya -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>326179</latitude>
+			<longitude>356237</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souf -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>323282</latitude>
+			<longitude>358448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sweifiye -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>319615</latitude>
+			<longitude>358782</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sweileh -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>320365</latitude>
+			<longitude>358496</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tafielah Governorate -- (State: At Tafilah)">
+			<state>At Tafilah</state>
+			<latitude>307616</latitude>
+			<longitude>355949</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tafila -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>308449</latitude>
+			<longitude>356116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tleil el Jmu`a -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>299458</latitude>
+			<longitude>368447</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tlul al- Esagef -- (State: (JO10))">
+			<state>(JO10)</state>
+			<latitude>322449</latitude>
+			<longitude>376283</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Musa -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>303786</latitude>
+			<longitude>354286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Musaymir -- (State: (JO07))">
+			<state>(JO07)</state>
+			<latitude>301680</latitude>
+			<longitude>351997</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yabboq">
+			<state></state>
+			<latitude>321277</latitude>
+			<longitude>355538</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaduda -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>318621</latitude>
+			<longitude>359288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yajuz -- (State: (JO11))">
+			<state>(JO11)</state>
+			<latitude>320454</latitude>
+			<longitude>359288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaribah -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>325454</latitude>
+			<longitude>359621</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yarmouk University -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>324954</latitude>
+			<longitude>360121</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yarmuk River">
+			<state></state>
+			<latitude>326454</latitude>
+			<longitude>355788</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yarut -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>313107</latitude>
+			<longitude>357329</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yerqa -- (State: Al Balqa)">
+			<state>Al Balqa</state>
+			<latitude>319907</latitude>
+			<longitude>357054</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yubla -- (State: (JO14))">
+			<state>(JO14)</state>
+			<latitude>326954</latitude>
+			<longitude>358288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zara`a -- (State: Al Karak)">
+			<state>Al Karak</state>
+			<latitude>312455</latitude>
+			<longitude>357789</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zarqa -- (State: (JO13))">
+			<state>(JO13)</state>
+			<latitude>320955</latitude>
+			<longitude>361122</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zarqa Governorate -- (State: At Tafilah)">
+			<state>At Tafilah</state>
+			<latitude>318455</latitude>
+			<longitude>368455</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

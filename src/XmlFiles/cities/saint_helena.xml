@@ -1,0 +1,817 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Saint Helena">
+		<city name="Alarm Cottage">
+			<state></state>
+			<latitude>-159403</latitude>
+			<longitude>-56903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anchorstock Point">
+			<state></state>
+			<latitude>-370903</latitude>
+			<longitude>-123403</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Archway Rock">
+			<state></state>
+			<latitude>-403070</latitude>
+			<longitude>-98736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arnos Vale">
+			<state></state>
+			<latitude>-159570</latitude>
+			<longitude>-56736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ascension">
+			<state></state>
+			<latitude>-79403</latitude>
+			<longitude>-143403</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baltic Bay">
+			<state></state>
+			<latitude>-402902</latitude>
+			<longitude>-99902</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Camp Glen">
+			<state></state>
+			<latitude>-402568</latitude>
+			<longitude>-99234</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carlisle Bay">
+			<state></state>
+			<latitude>-372734</latitude>
+			<longitude>-126401</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carlisle Beach">
+			<state></state>
+			<latitude>-370734</latitude>
+			<longitude>-122068</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cavalho Hole">
+			<state></state>
+			<latitude>-159068</latitude>
+			<longitude>-56901</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cave Cove">
+			<state></state>
+			<latitude>-402568</latitude>
+			<longitude>-99568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cavern Head">
+			<state></state>
+			<latitude>-403734</latitude>
+			<longitude>-98901</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clarence Bay">
+			<state></state>
+			<latitude>-79068</latitude>
+			<longitude>-144068</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coconut Bay">
+			<state></state>
+			<latitude>-79734</latitude>
+			<longitude>-143234</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Comer Dale">
+			<state></state>
+			<latitude>-402568</latitude>
+			<longitude>-99401</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cone Islet">
+			<state></state>
+			<latitude>-402901</latitude>
+			<longitude>-99734</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cotar Hill">
+			<state></state>
+			<latitude>-79568</latitude>
+			<longitude>-143901</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crawford Point">
+			<state></state>
+			<latitude>-371401</latitude>
+			<longitude>-123068</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cricket Valley">
+			<state></state>
+			<latitude>-79401</latitude>
+			<longitude>-143234</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deadwood">
+			<state></state>
+			<latitude>-159233</latitude>
+			<longitude>-56733</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deep Glen">
+			<state></state>
+			<latitude>-402733</latitude>
+			<longitude>-99067</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Devils Cap">
+			<state></state>
+			<latitude>-159900</latitude>
+			<longitude>-57400</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dry Gut">
+			<state></state>
+			<latitude>-159400</latitude>
+			<longitude>-57567</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eagles Eyrie">
+			<state></state>
+			<latitude>-159732</latitude>
+			<longitude>-57732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Crater">
+			<state></state>
+			<latitude>-79066</latitude>
+			<longitude>-143566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Lodge">
+			<state></state>
+			<latitude>-159399</latitude>
+			<longitude>-57066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edinburgh">
+			<state></state>
+			<latitude>-370399</latitude>
+			<longitude>-122899</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edinburgh Peak">
+			<state></state>
+			<latitude>-402982</latitude>
+			<longitude>-99321</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egg Island">
+			<state></state>
+			<latitude>-159566</latitude>
+			<longitude>-57566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elephant">
+			<state></state>
+			<latitude>-159732</latitude>
+			<longitude>-56399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Evans Bluff">
+			<state></state>
+			<latitude>-79399</latitude>
+			<longitude>-144066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Expedition Peak">
+			<state></state>
+			<latitude>-402899</latitude>
+			<longitude>-99566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farmost Point">
+			<state></state>
+			<latitude>-370398</latitude>
+			<longitude>-122398</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fisher Valley">
+			<state></state>
+			<latitude>-159398</latitude>
+			<longitude>-56565</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gannet Bay">
+			<state></state>
+			<latitude>-79897</latitude>
+			<longitude>-143730</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="George Islet">
+			<state></state>
+			<latitude>-159730</latitude>
+			<longitude>-56230</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Georgetown">
+			<state></state>
+			<latitude>-79230</latitude>
+			<longitude>-144064</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="God Be Thanked Tank">
+			<state></state>
+			<latitude>-79230</latitude>
+			<longitude>-143730</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gough Island">
+			<state></state>
+			<latitude>-403230</latitude>
+			<longitude>-99897</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gregorys Battery">
+			<state></state>
+			<latitude>-159230</latitude>
+			<longitude>-56564</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guggins Point">
+			<state></state>
+			<latitude>-403230</latitude>
+			<longitude>-99480</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inaccessible">
+			<state></state>
+			<latitude>-372728</latitude>
+			<longitude>-127395</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Island of Ascension">
+			<state></state>
+			<latitude>-79395</latitude>
+			<longitude>-143562</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isolda Rock">
+			<state></state>
+			<latitude>-402723</latitude>
+			<longitude>-99895</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamestown Valley">
+			<state></state>
+			<latitude>-159227</latitude>
+			<longitude>-57061</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jar">
+			<state></state>
+			<latitude>-160061</latitude>
+			<longitude>-57394</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jews Point">
+			<state></state>
+			<latitude>-370394</latitude>
+			<longitude>-122227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kern Crag">
+			<state></state>
+			<latitude>-402893</latitude>
+			<longitude>-98893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="King and Queen Rocks">
+			<state></state>
+			<latitude>-159393</latitude>
+			<longitude>-56226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knotty Ridge">
+			<state></state>
+			<latitude>-159060</latitude>
+			<longitude>-56560</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Long Ledge">
+			<state></state>
+			<latitude>-159392</latitude>
+			<longitude>-57392</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Longwood Farm">
+			<state></state>
+			<latitude>-159392</latitude>
+			<longitude>-56725</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lots Wife Ponds">
+			<state></state>
+			<latitude>-160059</latitude>
+			<longitude>-57225</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luff Islet">
+			<state></state>
+			<latitude>-403559</latitude>
+			<longitude>-98725</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luff Point">
+			<state></state>
+			<latitude>-403225</latitude>
+			<longitude>-98559</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyon Point">
+			<state></state>
+			<latitude>-371059</latitude>
+			<longitude>-122225</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manati Bay">
+			<state></state>
+			<latitude>-159891</latitude>
+			<longitude>-57558</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="McArthur Point">
+			<state></state>
+			<latitude>-79558</latitude>
+			<longitude>-144058</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Middle Fell">
+			<state></state>
+			<latitude>-402891</latitude>
+			<longitude>-99058</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mount Ross">
+			<state></state>
+			<latitude>-159558</latitude>
+			<longitude>-57224</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mount Rowett">
+			<state></state>
+			<latitude>-403391</latitude>
+			<longitude>-99391</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mount Vesey">
+			<state></state>
+			<latitude>-159724</latitude>
+			<longitude>-57224</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Needles Tank">
+			<state></state>
+			<latitude>-79223</latitude>
+			<longitude>-143890</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Newfoundland">
+			<state></state>
+			<latitude>-159557</latitude>
+			<longitude>-56890</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noisy Beach">
+			<state></state>
+			<latitude>-371223</latitude>
+			<longitude>-122223</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North East Reef">
+			<state></state>
+			<latitude>-402890</latitude>
+			<longitude>-99390</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Rowett">
+			<state></state>
+			<latitude>-403057</latitude>
+			<longitude>-99057</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nullah">
+			<state></state>
+			<latitude>-78890</latitude>
+			<longitude>-143390</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Joan Point">
+			<state></state>
+			<latitude>-159889</latitude>
+			<longitude>-57722</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peaked Island">
+			<state></state>
+			<latitude>-159555</latitude>
+			<longitude>-57721</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pig Bite">
+			<state></state>
+			<latitude>-370388</latitude>
+			<longitude>-122721</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pillar Bay">
+			<state></state>
+			<latitude>-79721</latitude>
+			<longitude>-143388</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Porches Gate">
+			<state></state>
+			<latitude>-159555</latitude>
+			<longitude>-56221</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Potatoe Bay">
+			<state></state>
+			<latitude>-159888</latitude>
+			<longitude>-57055</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Powells Gut">
+			<state></state>
+			<latitude>-159888</latitude>
+			<longitude>-56888</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prospect">
+			<state></state>
+			<latitude>-159721</latitude>
+			<longitude>-57388</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prosperous Bay">
+			<state></state>
+			<latitude>-159221</latitude>
+			<longitude>-56388</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pummel Crag">
+			<state></state>
+			<latitude>-403555</latitude>
+			<longitude>-99055</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pyramid Rock">
+			<state></state>
+			<latitude>-79055</latitude>
+			<longitude>-143888</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queen Mary s Peak">
+			<state></state>
+			<latitude>-370887</latitude>
+			<longitude>-122720</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ragged Hill">
+			<state></state>
+			<latitude>-79553</latitude>
+			<longitude>-143386</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Redhole">
+			<state></state>
+			<latitude>-370553</latitude>
+			<longitude>-123053</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Redpole Monument">
+			<state></state>
+			<latitude>-79144</latitude>
+			<longitude>-143961</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reef Point">
+			<state></state>
+			<latitude>-403053</latitude>
+			<longitude>-99219</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Repetto Bay">
+			<state></state>
+			<latitude>-403386</latitude>
+			<longitude>-99053</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Repulse Point">
+			<state></state>
+			<latitude>-158886</latitude>
+			<longitude>-56886</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Richmond Hill">
+			<state></state>
+			<latitude>-403386</latitude>
+			<longitude>-98719</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riding Stones">
+			<state></state>
+			<latitude>-159719</latitude>
+			<longitude>-57053</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rockhopper Point">
+			<state></state>
+			<latitude>-403553</latitude>
+			<longitude>-99219</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rofe Rock">
+			<state></state>
+			<latitude>-159719</latitude>
+			<longitude>-56553</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rose Bower">
+			<state></state>
+			<latitude>-159553</latitude>
+			<longitude>-57053</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rosemary Hall">
+			<state></state>
+			<latitude>-159386</latitude>
+			<longitude>-57219</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Royalist Point">
+			<state></state>
+			<latitude>-403053</latitude>
+			<longitude>-99886</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rupert Bay">
+			<state></state>
+			<latitude>-159053</latitude>
+			<longitude>-57053</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharks Valley">
+			<state></state>
+			<latitude>-159552</latitude>
+			<longitude>-56552</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Buoys">
+			<state></state>
+			<latitude>-159884</latitude>
+			<longitude>-56717</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Glen">
+			<state></state>
+			<latitude>-403051</latitude>
+			<longitude>-98884</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thistle Hill">
+			<state></state>
+			<latitude>-79217</latitude>
+			<longitude>-143551</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thompsons Valley">
+			<state></state>
+			<latitude>-159717</latitude>
+			<longitude>-57551</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tipleys Ridge">
+			<state></state>
+			<latitude>-159717</latitude>
+			<longitude>-56884</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Triple Peak">
+			<state></state>
+			<latitude>-402717</latitude>
+			<longitude>-99551</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tripot Bay">
+			<state></state>
+			<latitude>-371384</latitude>
+			<longitude>-122384</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tristan">
+			<state></state>
+			<latitude>-370717</latitude>
+			<longitude>-122717</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tristan da Cunha">
+			<state></state>
+			<latitude>-372384</latitude>
+			<longitude>-124884</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trypot Penguin Rookery">
+			<state></state>
+			<latitude>-371217</latitude>
+			<longitude>-122384</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Two Gun Saddle">
+			<state></state>
+			<latitude>-159217</latitude>
+			<longitude>-56884</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unicorn Point">
+			<state></state>
+			<latitude>-79550</latitude>
+			<longitude>-143050</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Valley Crater">
+			<state></state>
+			<latitude>-79216</latitude>
+			<longitude>-143383</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whale Point">
+			<state></state>
+			<latitude>-79381</latitude>
+			<longitude>-142881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wideawake Airfield">
+			<state></state>
+			<latitude>-79631</latitude>
+			<longitude>-143798</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wideawake Fair">
+			<state></state>
+			<latitude>-79548</latitude>
+			<longitude>-143714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wig Hill">
+			<state></state>
+			<latitude>-79381</latitude>
+			<longitude>-143048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wild Cattle Pound">
+			<state></state>
+			<latitude>-169714</latitude>
+			<longitude>-57548</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodlands">
+			<state></state>
+			<latitude>-159548</latitude>
+			<longitude>-57381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woody Point">
+			<state></state>
+			<latitude>-159048</latitude>
+			<longitude>-56714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youngs Valley">
+			<state></state>
+			<latitude>-159212</latitude>
+			<longitude>-57212</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,222 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Cocos Islands">
+		<city name="Alor Batu Kapala">
+			<state></state>
+			<latitude>-121070</latitude>
+			<longitude>968264</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alor Pinyu">
+			<state></state>
+			<latitude>-121528</latitude>
+			<longitude>968305</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bechat Besar">
+			<state></state>
+			<latitude>-121402</latitude>
+			<longitude>968354</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Burial Island">
+			<state></state>
+			<latitude>-121902</latitude>
+			<longitude>968765</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cocos Islands">
+			<state></state>
+			<latitude>-119901</latitude>
+			<longitude>968432</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Cay">
+			<state></state>
+			<latitude>-121732</latitude>
+			<longitude>968768</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Home Island">
+			<state></state>
+			<latitude>-121063</latitude>
+			<longitude>968937</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horsburgh Island">
+			<state></state>
+			<latitude>-120563</latitude>
+			<longitude>968437</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keche Pecha">
+			<state></state>
+			<latitude>-121893</latitude>
+			<longitude>968440</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klapa Tuju">
+			<state></state>
+			<latitude>-121976</latitude>
+			<longitude>968565</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Keeling">
+			<state></state>
+			<latitude>-118223</latitude>
+			<longitude>968277</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Lagoon">
+			<state></state>
+			<latitude>-121623</latitude>
+			<longitude>968360</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Refuge">
+			<state></state>
+			<latitude>-120721</latitude>
+			<longitude>968779</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Possession Point">
+			<state></state>
+			<latitude>-120721</latitude>
+			<longitude>968612</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulo Ampang Kechil">
+			<state></state>
+			<latitude>-121138</latitude>
+			<longitude>969140</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulo Atas">
+			<state></state>
+			<latitude>-121888</latitude>
+			<longitude>969279</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulo Jambatan">
+			<state></state>
+			<latitude>-121388</latitude>
+			<longitude>969279</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulo Labu">
+			<state></state>
+			<latitude>-121471</latitude>
+			<longitude>969293</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulo Pandang">
+			<state></state>
+			<latitude>-121221</latitude>
+			<longitude>969279</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulo Panjang">
+			<state></state>
+			<latitude>-121555</latitude>
+			<longitude>968445</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulo Wa-idas">
+			<state></state>
+			<latitude>-121180</latitude>
+			<longitude>969181</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulu Ampang">
+			<state></state>
+			<latitude>-121166</latitude>
+			<longitude>969154</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulu Blekok">
+			<state></state>
+			<latitude>-121194</latitude>
+			<longitude>969181</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulu Kembang">
+			<state></state>
+			<latitude>-121221</latitude>
+			<longitude>969181</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Keeling Island">
+			<state></state>
+			<latitude>-121385</latitude>
+			<longitude>968782</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Lagoon">
+			<state></state>
+			<latitude>-121885</latitude>
+			<longitude>968615</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ujong Pulo Jau">
+			<state></state>
+			<latitude>-121841</latitude>
+			<longitude>968992</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ujong Tanjong">
+			<state></state>
+			<latitude>-121216</latitude>
+			<longitude>968284</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Cay">
+			<state></state>
+			<latitude>-121714</latitude>
+			<longitude>968619</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Workhouse Island">
+			<state></state>
+			<latitude>-120881</latitude>
+			<longitude>968952</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wreck Point">
+			<state></state>
+			<latitude>-118048</latitude>
+			<longitude>968286</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

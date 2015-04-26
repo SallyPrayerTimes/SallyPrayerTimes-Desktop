@@ -1,0 +1,866 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Djibouti">
+		<city name="Callida">
+			<state></state>
+			<latitude>127280</latitude>
+			<longitude>431668</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Camp Boulaos -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>115932</latitude>
+			<longitude>431599</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Obock -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>119699</latitude>
+			<longitude>432982</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Korati">
+			<state></state>
+			<latitude>115932</latitude>
+			<longitude>428099</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cercle d `Ali Sabih -- (State: `Ali Sabih)">
+			<state>`Ali Sabih</state>
+			<latitude>112599</latitude>
+			<longitude>430099</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cercle de Dikhil -- (State: Dikhil)">
+			<state>Dikhil</state>
+			<latitude>115099</latitude>
+			<longitude>422599</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chabellei">
+			<state></state>
+			<latitude>114991</latitude>
+			<longitude>430874</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chabellei Yar -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>114668</latitude>
+			<longitude>430877</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charbiyo -- (State: Dikhil)">
+			<state>Dikhil</state>
+			<latitude>113930</latitude>
+			<longitude>427980</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaykh Gabod -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>115866</latitude>
+			<longitude>431696</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheik Sabir">
+			<state></state>
+			<latitude>112616</latitude>
+			<longitude>422402</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheikh Bourad">
+			<state></state>
+			<latitude>110624</latitude>
+			<longitude>429091</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chekheyti">
+			<state></state>
+			<latitude>110932</latitude>
+			<longitude>422932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chil `Igal -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>115538</latitude>
+			<longitude>430552</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chinle">
+			<state></state>
+			<latitude>111932</latitude>
+			<longitude>427432</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chinnile -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>114380</latitude>
+			<longitude>429749</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chinnile">
+			<state></state>
+			<latitude>114507</latitude>
+			<longitude>429552</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chire">
+			<state></state>
+			<latitude>115443</latitude>
+			<longitude>427882</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cor di Ras Ali -- (State: Tadjoura)">
+			<state>Tadjoura</state>
+			<latitude>117843</latitude>
+			<longitude>429468</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Couboulto">
+			<state></state>
+			<latitude>117080</latitude>
+			<longitude>426585</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Curieuse Bank -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>116599</latitude>
+			<longitude>431932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djibouti">
+			<state></state>
+			<latitude>116050</latitude>
+			<longitude>431581</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jallelo">
+			<state></state>
+			<latitude>109939</latitude>
+			<longitude>429939</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jezirat Seba -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>124712</latitude>
+			<longitude>434348</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nabad">
+			<state></state>
+			<latitude>110110</latitude>
+			<longitude>421110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nafour -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>125804</latitude>
+			<longitude>430982</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagad">
+			<state></state>
+			<latitude>110802</latitude>
+			<longitude>423643</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagag">
+			<state></state>
+			<latitude>118777</latitude>
+			<longitude>421110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagourale">
+			<state></state>
+			<latitude>123443</latitude>
+			<longitude>431610</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakila">
+			<state></state>
+			<latitude>125521</latitude>
+			<longitude>428532</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakilti Gona">
+			<state></state>
+			<latitude>115777</latitude>
+			<longitude>419610</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakir">
+			<state></state>
+			<latitude>122610</latitude>
+			<longitude>423443</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namma Afdera">
+			<state></state>
+			<latitude>123443</latitude>
+			<longitude>426610</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namma Haki">
+			<state></state>
+			<latitude>117963</latitude>
+			<longitude>422407</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namma-Hilou -- (State: Tadjoura)">
+			<state>Tadjoura</state>
+			<latitude>118960</latitude>
+			<longitude>421652</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nararte">
+			<state></state>
+			<latitude>117699</latitude>
+			<longitude>426593</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narig Dabba">
+			<state></state>
+			<latitude>116929</latitude>
+			<longitude>420496</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narige Douloul -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>126466</latitude>
+			<longitude>431260</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narigueita">
+			<state></state>
+			<latitude>121110</latitude>
+			<longitude>429110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Na`asle">
+			<state></state>
+			<latitude>111693</latitude>
+			<longitude>429177</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Na`aslei -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>115132</latitude>
+			<longitude>428674</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Na`asou">
+			<state></state>
+			<latitude>126296</latitude>
+			<longitude>429016</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Na`sibada">
+			<state></state>
+			<latitude>123893</latitude>
+			<longitude>433007</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ne nele">
+			<state></state>
+			<latitude>113763</latitude>
+			<longitude>422996</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nidiq">
+			<state></state>
+			<latitude>114054</latitude>
+			<longitude>430588</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ni`ille">
+			<state></state>
+			<latitude>118163</latitude>
+			<longitude>430021</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ni`in Bouha">
+			<state></state>
+			<latitude>117610</latitude>
+			<longitude>420943</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ni`in Bouyyi">
+			<state></state>
+			<latitude>116849</latitude>
+			<longitude>424741</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nohta">
+			<state></state>
+			<latitude>126218</latitude>
+			<longitude>429191</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouho Dabba">
+			<state></state>
+			<latitude>124688</latitude>
+			<longitude>424718</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noumhelo">
+			<state></state>
+			<latitude>122816</latitude>
+			<longitude>422927</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nounkak`ide Bolo">
+			<state></state>
+			<latitude>121941</latitude>
+			<longitude>430574</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuri Bouyyi">
+			<state></state>
+			<latitude>113277</latitude>
+			<longitude>423443</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pain de Sucre -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>123093</latitude>
+			<longitude>431954</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petit Bara -- (State: Dikhil)">
+			<state>Dikhil</state>
+			<latitude>113718</latitude>
+			<longitude>427043</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petite Passe">
+			<state></state>
+			<latitude>115612</latitude>
+			<longitude>426945</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phare d Ambouli">
+			<state></state>
+			<latitude>115726</latitude>
+			<longitude>431348</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phare de Hayyabley">
+			<state></state>
+			<latitude>115645</latitude>
+			<longitude>431337</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pianura di Gouroumo">
+			<state></state>
+			<latitude>113445</latitude>
+			<longitude>430112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pic Delonche">
+			<state></state>
+			<latitude>117701</latitude>
+			<longitude>426973</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pic du Hussard -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>120526</latitude>
+			<longitude>430945</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pic Lagarde">
+			<state></state>
+			<latitude>117612</latitude>
+			<longitude>426779</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine de Daala -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>125229</latitude>
+			<longitude>431048</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine de Gaggade -- (State: Dikhil)">
+			<state>Dikhil</state>
+			<latitude>115004</latitude>
+			<longitude>422920</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine du Gobaad -- (State: Dikhil)">
+			<state>Dikhil</state>
+			<latitude>110479</latitude>
+			<longitude>421626</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateau de Ghen">
+			<state></state>
+			<latitude>123445</latitude>
+			<longitude>432612</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateau de Gueguegindo -- (State: Dikhil)">
+			<state>Dikhil</state>
+			<latitude>113895</latitude>
+			<longitude>428768</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateau du Heron -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>116315</latitude>
+			<longitude>431623</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateau of Danakil">
+			<state></state>
+			<latitude>130112</latitude>
+			<longitude>410112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateaux de Ghelao -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>122534</latitude>
+			<longitude>431934</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateaux de Goeuh -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>122468</latitude>
+			<longitude>432556</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe d Oroboru">
+			<state></state>
+			<latitude>119112</latitude>
+			<longitude>431445</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe de Mido">
+			<state></state>
+			<latitude>118612</latitude>
+			<longitude>431112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe des Palmiers">
+			<state></state>
+			<latitude>116945</latitude>
+			<longitude>427612</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe du Serpent -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>116137</latitude>
+			<longitude>431693</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Noire -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>116062</latitude>
+			<longitude>430787</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port du Nord-Est">
+			<state></state>
+			<latitude>119945</latitude>
+			<longitude>433279</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Heron">
+			<state></state>
+			<latitude>116279</latitude>
+			<longitude>431612</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Obock">
+			<state></state>
+			<latitude>119779</latitude>
+			<longitude>433112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poste d Anghor -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>123979</latitude>
+			<longitude>433459</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poste de Moulhoule">
+			<state></state>
+			<latitude>125779</latitude>
+			<longitude>432279</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta Oursin">
+			<state></state>
+			<latitude>119612</latitude>
+			<longitude>432445</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qayrre Goube -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>115707</latitude>
+			<longitude>429560</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qormaad">
+			<state></state>
+			<latitude>113624</latitude>
+			<longitude>431838</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tadjourah -- (State: Tadjoura)">
+			<state>Tadjoura</state>
+			<latitude>120116</latitude>
+			<longitude>425116</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uardelissan">
+			<state></state>
+			<latitude>116584</latitude>
+			<longitude>426036</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulel">
+			<state></state>
+			<latitude>123309</latitude>
+			<longitude>429681</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de Lutela">
+			<state></state>
+			<latitude>119785</latitude>
+			<longitude>432451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de Taguarre -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>119654</latitude>
+			<longitude>432124</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee des Jardins">
+			<state></state>
+			<latitude>119951</latitude>
+			<longitude>432951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Visage de Minerve">
+			<state></state>
+			<latitude>120285</latitude>
+			<longitude>431285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaali">
+			<state></state>
+			<latitude>121288</latitude>
+			<longitude>429121</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabdi">
+			<state></state>
+			<latitude>119410</latitude>
+			<longitude>429657</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabe">
+			<state></state>
+			<latitude>112835</latitude>
+			<longitude>427346</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabillou">
+			<state></state>
+			<latitude>123360</latitude>
+			<longitude>426882</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yagali">
+			<state></state>
+			<latitude>122954</latitude>
+			<longitude>428788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yager -- (State: Dikhil)">
+			<state>Dikhil</state>
+			<latitude>116852</latitude>
+			<longitude>420985</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalahtou">
+			<state></state>
+			<latitude>120529</latitude>
+			<longitude>422193</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamarougle">
+			<state></state>
+			<latitude>125365</latitude>
+			<longitude>430077</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangoula Dalou`">
+			<state></state>
+			<latitude>116246</latitude>
+			<longitude>426938</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangoula Koma">
+			<state></state>
+			<latitude>111746</latitude>
+			<longitude>422035</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangoula `Ale">
+			<state></state>
+			<latitude>116288</latitude>
+			<longitude>419288</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangoulabbahi">
+			<state></state>
+			<latitude>123954</latitude>
+			<longitude>428954</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangoulakkomah Bahari">
+			<state></state>
+			<latitude>111929</latitude>
+			<longitude>422004</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangoulli">
+			<state></state>
+			<latitude>122621</latitude>
+			<longitude>429788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangoura Ma`our">
+			<state></state>
+			<latitude>121896</latitude>
+			<longitude>424427</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaouli`i">
+			<state></state>
+			<latitude>120813</latitude>
+			<longitude>421268</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarde Madag -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>122224</latitude>
+			<longitude>431771</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yardi">
+			<state></state>
+			<latitude>124121</latitude>
+			<longitude>429121</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yardigoble">
+			<state></state>
+			<latitude>111002</latitude>
+			<longitude>429888</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaw`en Telentou -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>123688</latitude>
+			<longitude>433668</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaya -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>118415</latitude>
+			<longitude>430802</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaygori">
+			<state></state>
+			<latitude>122340</latitude>
+			<longitude>427354</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ya`koubta -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>124727</latitude>
+			<longitude>433243</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yew`e Douloul -- (State: Obock)">
+			<state>Obock</state>
+			<latitude>125782</latitude>
+			<longitude>431879</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yey -- (State: Djibouti)">
+			<state>Djibouti</state>
+			<latitude>115615</latitude>
+			<longitude>429121</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yiddigille Afah">
+			<state></state>
+			<latitude>123865</latitude>
+			<longitude>424227</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yi`a">
+			<state></state>
+			<latitude>119440</latitude>
+			<longitude>421138</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yi`alou">
+			<state></state>
+			<latitude>124704</latitude>
+			<longitude>424415</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoboki">
+			<state></state>
+			<latitude>115563</latitude>
+			<longitude>421107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoboki -- (State: Dikhil)">
+			<state>Dikhil</state>
+			<latitude>115235</latitude>
+			<longitude>421185</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoorein">
+			<state></state>
+			<latitude>119474</latitude>
+			<longitude>428602</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoouren">
+			<state></state>
+			<latitude>111618</latitude>
+			<longitude>421582</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

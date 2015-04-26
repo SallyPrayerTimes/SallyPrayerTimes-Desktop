@@ -1,0 +1,453 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Moldova">
+		<city name="Balti">
+			<state></state>
+			<latitude>477715</latitude>
+			<longitude>279387</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chisinau">
+			<state></state>
+			<latitude>470155</latitude>
+			<longitude>288674</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Japca">
+			<state></state>
+			<latitude>479925</latitude>
+			<longitude>287142</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeloboc">
+			<state></state>
+			<latitude>473675</latitude>
+			<longitude>289153</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jidavca">
+			<state></state>
+			<latitude>476203</latitude>
+			<longitude>289889</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joltai">
+			<state></state>
+			<latitude>461931</latitude>
+			<longitude>288867</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jora de Jos">
+			<state></state>
+			<latitude>474756</latitude>
+			<longitude>291189</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jora de Mijloc">
+			<state></state>
+			<latitude>474862</latitude>
+			<longitude>291067</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jora de Sus">
+			<state></state>
+			<latitude>474973</latitude>
+			<longitude>290867</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Judetul Balti -- (State: Balti)">
+			<state>Balti</state>
+			<latitude>476773</latitude>
+			<longitude>278439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Judetul Cahul -- (State: Cahul)">
+			<state>Cahul</state>
+			<latitude>459273</latitude>
+			<longitude>284273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Judetul Chisinau -- (State: Chisinau)">
+			<state>Chisinau</state>
+			<latitude>470106</latitude>
+			<longitude>288439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Judetul Dubasari -- (State: Stinga Nistrului)">
+			<state>Stinga Nistrului</state>
+			<latitude>473439</latitude>
+			<longitude>292606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Judetul Lapusna -- (State: Lapusna)">
+			<state>Lapusna</state>
+			<latitude>466773</latitude>
+			<longitude>285106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Judetul Tighina -- (State: Tighina)">
+			<state>Tighina</state>
+			<latitude>466773</latitude>
+			<longitude>295106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jura">
+			<state></state>
+			<latitude>475284</latitude>
+			<longitude>290537</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tighina">
+			<state></state>
+			<latitude>468422</latitude>
+			<longitude>294827</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tiraspol -- (State: Stinga Nistrului)">
+			<state>Stinga Nistrului</state>
+			<latitude>468519</latitude>
+			<longitude>296549</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ukrainka -- (State: Tighina)">
+			<state>Tighina</state>
+			<latitude>464428</latitude>
+			<longitude>292845</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulmu">
+			<state></state>
+			<latitude>470317</latitude>
+			<longitude>285575</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulmul Mic">
+			<state></state>
+			<latitude>477645</latitude>
+			<longitude>291336</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unchitesti">
+			<state></state>
+			<latitude>479195</latitude>
+			<longitude>285014</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ungenskiy Rayon">
+			<state></state>
+			<latitude>473450</latitude>
+			<longitude>279284</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ungeny -- (State: Ungheni)">
+			<state>Ungheni</state>
+			<latitude>472159</latitude>
+			<longitude>278075</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ungheni">
+			<state></state>
+			<latitude>472173</latitude>
+			<longitude>278153</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unguri">
+			<state></state>
+			<latitude>484128</latitude>
+			<longitude>278792</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unkitesht">
+			<state></state>
+			<latitude>479409</latitude>
+			<longitude>285375</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unteni">
+			<state></state>
+			<latitude>474273</latitude>
+			<longitude>275942</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Untesht">
+			<state></state>
+			<latitude>472553</latitude>
+			<longitude>278345</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Untesti">
+			<state></state>
+			<latitude>472564</latitude>
+			<longitude>278400</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urochishche Timush">
+			<state></state>
+			<latitude>471628</latitude>
+			<longitude>294367</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursar">
+			<state></state>
+			<latitude>472331</latitude>
+			<longitude>282011</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursoaia">
+			<state></state>
+			<latitude>458648</latitude>
+			<longitude>283273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursoaia Noua -- (State: Tighina)">
+			<state>Tighina</state>
+			<latitude>467386</latitude>
+			<longitude>293506</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursoya -- (State: Tighina)">
+			<state>Tighina</state>
+			<latitude>467175</latitude>
+			<longitude>294573</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Usatovka">
+			<state></state>
+			<latitude>466434</latitude>
+			<longitude>285650</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ust ye">
+			<state></state>
+			<latitude>476736</latitude>
+			<longitude>276067</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ustya">
+			<state></state>
+			<latitude>472684</latitude>
+			<longitude>291367</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Usurei">
+			<state></state>
+			<latitude>479025</latitude>
+			<longitude>276070</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyutnoye -- (State: Stinga Nistrului)">
+			<state>Stinga Nistrului</state>
+			<latitude>468523</latitude>
+			<longitude>298778</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woronkow">
+			<state></state>
+			<latitude>477175</latitude>
+			<longitude>291311</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yablona Noua">
+			<state></state>
+			<latitude>478277</latitude>
+			<longitude>276252</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yablona Veke">
+			<state></state>
+			<latitude>478182</latitude>
+			<longitude>276360</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yagorlyk">
+			<state></state>
+			<latitude>474104</latitude>
+			<longitude>292324</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yakobstal -- (State: Tighina)">
+			<state>Tighina</state>
+			<latitude>464999</latitude>
+			<longitude>295885</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaloveny">
+			<state></state>
+			<latitude>469552</latitude>
+			<longitude>287899</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yalpuzhel">
+			<state></state>
+			<latitude>460396</latitude>
+			<longitude>285854</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yalpuzheny">
+			<state></state>
+			<latitude>465913</latitude>
+			<longitude>286346</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yar Mokov">
+			<state></state>
+			<latitude>479535</latitude>
+			<longitude>290702</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yargora">
+			<state></state>
+			<latitude>464396</latitude>
+			<longitude>284488</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yasnaya Polyana">
+			<state></state>
+			<latitude>461532</latitude>
+			<longitude>283165</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yedintsy-Tyrg -- (State: Edinet)">
+			<state>Edinet</state>
+			<latitude>481802</latitude>
+			<longitude>273171</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yegaren">
+			<state></state>
+			<latitude>482113</latitude>
+			<longitude>283671</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yegorovka">
+			<state></state>
+			<latitude>479218</latitude>
+			<longitude>276268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yekimoutsy">
+			<state></state>
+			<latitude>477063</latitude>
+			<longitude>289124</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yenikoy">
+			<state></state>
+			<latitude>462338</latitude>
+			<longitude>284321</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yepureni">
+			<state></state>
+			<latitude>462754</latitude>
+			<longitude>282335</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yerzhovo">
+			<state></state>
+			<latitude>478190</latitude>
+			<longitude>290202</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yetuliya">
+			<state></state>
+			<latitude>455513</latitude>
+			<longitude>284549</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yezereni-Nouy">
+			<state></state>
+			<latitude>476007</latitude>
+			<longitude>281093</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yezerini-Vek">
+			<state></state>
+			<latitude>475774</latitude>
+			<longitude>281015</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yur yevka">
+			<state></state>
+			<latitude>466802</latitude>
+			<longitude>287763</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yurchany">
+			<state></state>
+			<latitude>470932</latitude>
+			<longitude>282713</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yuzhnoye">
+			<state></state>
+			<latitude>457646</latitude>
+			<longitude>284896</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

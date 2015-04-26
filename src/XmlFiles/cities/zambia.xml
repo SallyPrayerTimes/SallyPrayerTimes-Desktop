@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Zambia">
+		<city name="Chipata District -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-134901</latitude>
+			<longitude>321766</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hombwe -- (State: North-Western)">
+			<state>North-Western</state>
+			<latitude>-122063</latitude>
+			<longitude>273271</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitwe -- (State: Copperbelt)">
+			<state>Copperbelt</state>
+			<latitude>-128060</latitude>
+			<longitude>282607</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lusaka -- (State: Central)">
+			<state>Central</state>
+			<latitude>-142892</latitude>
+			<longitude>291275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lusaka">
+			<state></state>
+			<latitude>-154059</latitude>
+			<longitude>282941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lusaka East Forest Reserve -- (State: Central)">
+			<state>Central</state>
+			<latitude>-154225</latitude>
+			<longitude>284108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lusaka North Forest Reserve">
+			<state></state>
+			<latitude>-153559</latitude>
+			<longitude>282775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lusaka South Forest Reserve">
+			<state></state>
+			<latitude>-154892</latitude>
+			<longitude>283775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lusaka Urban">
+			<state></state>
+			<latitude>-154059</latitude>
+			<longitude>290108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mongu -- (State: Western)">
+			<state>Western</state>
+			<latitude>-152391</latitude>
+			<longitude>231442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mongu -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-120558</latitude>
+			<longitude>330442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mongu District -- (State: Western)">
+			<state>Western</state>
+			<latitude>-151558</latitude>
+			<longitude>235109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monguma -- (State: North-Western)">
+			<state>North-Western</state>
+			<latitude>-117224</latitude>
+			<longitude>254442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ndola -- (State: Copperbelt)">
+			<state>Copperbelt</state>
+			<latitude>-129557</latitude>
+			<longitude>286443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ndola Central -- (State: Copperbelt)">
+			<state>Copperbelt</state>
+			<latitude>-129557</latitude>
+			<longitude>286610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ndola District -- (State: Copperbelt)">
+			<state>Copperbelt</state>
+			<latitude>-128223</latitude>
+			<longitude>285943</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ndola Location -- (State: Copperbelt)">
+			<state>Copperbelt</state>
+			<latitude>-129723</latitude>
+			<longitude>286443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Mambwe -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-90556</latitude>
+			<longitude>320278</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queen Elizabeth Island -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>-178887</latitude>
+			<longitude>258280</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Machili -- (State: Western)">
+			<state>Western</state>
+			<latitude>-167383</latitude>
+			<longitude>250117</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xmas Gift -- (State: Central)">
+			<state>Central</state>
+			<latitude>-155380</latitude>
+			<longitude>279787</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

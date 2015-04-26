@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Tuvalu">
+		<city name="Amatuku">
+			<state></state>
+			<latitude>-84236</latitude>
+			<longitude>1791930</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asau">
+			<state></state>
+			<latitude>-74903</latitude>
+			<longitude>1786764</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avalau">
+			<state></state>
+			<latitude>-86403</latitude>
+			<longitude>1790930</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brewis Rock">
+			<state></state>
+			<latitude>-85735</latitude>
+			<longitude>1791265</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coal Island">
+			<state></state>
+			<latitude>-79734</latitude>
+			<longitude>1783599</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dawson Patches">
+			<state></state>
+			<latitude>-85400</latitude>
+			<longitude>1791267</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deafatule Islands">
+			<state></state>
+			<latitude>-79567</latitude>
+			<longitude>1783600</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eeg Island">
+			<state></state>
+			<latitude>-72566</latitude>
+			<longitude>1771768</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ellice Group">
+			<state></state>
+			<latitude>-79899</latitude>
+			<longitude>1780101</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entrance Island">
+			<state></state>
+			<latitude>-79732</latitude>
+			<longitude>1783434</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fatato">
+			<state></state>
+			<latitude>-85398</latitude>
+			<longitude>1791935</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fualopa">
+			<state></state>
+			<latitude>-84731</latitude>
+			<longitude>1790769</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funafara Island">
+			<state></state>
+			<latitude>-86065</latitude>
+			<longitude>1791269</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funafuti">
+			<state></state>
+			<latitude>-85065</latitude>
+			<longitude>1792269</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funafuti Atoll">
+			<state></state>
+			<latitude>-85065</latitude>
+			<longitude>1791435</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funangongo">
+			<state></state>
+			<latitude>-85398</latitude>
+			<longitude>1791602</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funaota">
+			<state></state>
+			<latitude>-79231</latitude>
+			<longitude>1783935</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hounson Rock">
+			<state></state>
+			<latitude>-85563</latitude>
+			<longitude>1791437</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hudson Island">
+			<state></state>
+			<latitude>-62896</latitude>
+			<longitude>1763437</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lafaga">
+			<state></state>
+			<latitude>-79559</latitude>
+			<longitude>1784441</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lafongoki">
+			<state></state>
+			<latitude>-56559</latitude>
+			<longitude>1761275</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lakina">
+			<state></state>
+			<latitude>-56392</latitude>
+			<longitude>1761108</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lolua">
+			<state></state>
+			<latitude>-56559</latitude>
+			<longitude>1761441</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lynx">
+			<state></state>
+			<latitude>-61059</latitude>
+			<longitude>1773108</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matala">
+			<state></state>
+			<latitude>-93391</latitude>
+			<longitude>1798442</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mateika">
+			<state></state>
+			<latitude>-85891</latitude>
+			<longitude>1791276</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mitchell Island">
+			<state></state>
+			<latitude>-93724</latitude>
+			<longitude>1798776</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moriapepe">
+			<state></state>
+			<latitude>-56391</latitude>
+			<longitude>1761442</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motolalo">
+			<state></state>
+			<latitude>-80558</latitude>
+			<longitude>1783776</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mototupo">
+			<state></state>
+			<latitude>-93224</latitude>
+			<longitude>1798609</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motuforiki">
+			<state></state>
+			<latitude>-93724</latitude>
+			<longitude>1798942</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motuloa">
+			<state></state>
+			<latitude>-93391</latitude>
+			<longitude>1798776</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motuloa Niuelosolo">
+			<state></state>
+			<latitude>-80058</latitude>
+			<longitude>1784109</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motumua">
+			<state></state>
+			<latitude>-80224</latitude>
+			<longitude>1783276</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motungie">
+			<state></state>
+			<latitude>-86391</latitude>
+			<longitude>1791109</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mutulotu">
+			<state></state>
+			<latitude>-94058</latitude>
+			<longitude>1798776</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nares Patch">
+			<state></state>
+			<latitude>-84557</latitude>
+			<longitude>1791610</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuwak">
+			<state></state>
+			<latitude>-93890</latitude>
+			<longitude>1798943</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oaitupu">
+			<state></state>
+			<latitude>-74556</latitude>
+			<longitude>1786944</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peyster s Group">
+			<state></state>
+			<latitude>-79888</latitude>
+			<longitude>1783779</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocky Island">
+			<state></state>
+			<latitude>-107386</latitude>
+			<longitude>1795114</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Agustine Island">
+			<state></state>
+			<latitude>-56718</latitude>
+			<longitude>1761615</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Te Akau Taula Buga">
+			<state></state>
+			<latitude>-84384</latitude>
+			<longitude>1791949</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Te Ava Kumkum">
+			<state></state>
+			<latitude>-84717</latitude>
+			<longitude>1790949</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulu Bunga">
+			<state></state>
+			<latitude>-85050</latitude>
+			<longitude>1792117</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unemai">
+			<state></state>
+			<latitude>-72716</latitude>
+			<longitude>1771784</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaitupu">
+			<state></state>
+			<latitude>-74715</latitude>
+			<longitude>1786951</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vasafua">
+			<state></state>
+			<latitude>-85549</latitude>
+			<longitude>1790785</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vasamotu">
+			<state></state>
+			<latitude>-80215</latitude>
+			<longitude>1783951</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vasamotu Lafaga">
+			<state></state>
+			<latitude>-79882</latitude>
+			<longitude>1784285</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

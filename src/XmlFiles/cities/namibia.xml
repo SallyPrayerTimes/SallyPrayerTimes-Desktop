@@ -1,0 +1,1342 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Namibia">
+		<city name="10 Kilometre Kop -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-286284</latitude>
+			<longitude>189882</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibbu -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-179395</latitude>
+			<longitude>245272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibenstein -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-229395</latitude>
+			<longitude>176438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibolokwa -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-178062</latitude>
+			<longitude>244272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ichaboe Island -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-262728</latitude>
+			<longitude>149605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iihamyongwe -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-178895</latitude>
+			<longitude>152272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iihongo -- (State: Oshikoto)">
+			<state>Oshikoto</state>
+			<latitude>-180395</latitude>
+			<longitude>161772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iikango -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-178395</latitude>
+			<longitude>152105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iikelo -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-176895</latitude>
+			<longitude>157272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iikokla -- (State: Oshikoto)">
+			<state>Oshikoto</state>
+			<latitude>-178562</latitude>
+			<longitude>161605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iilambo -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-179562</latitude>
+			<longitude>150438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iindangungu -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-177728</latitude>
+			<longitude>159772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iipopo -- (State: Oshikoto)">
+			<state>Oshikoto</state>
+			<latitude>-181562</latitude>
+			<longitude>160938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iiputu -- (State: Ohangwena)">
+			<state>Ohangwena</state>
+			<latitude>-175895</latitude>
+			<longitude>156272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iithindi -- (State: Oshikoto)">
+			<state>Oshikoto</state>
+			<latitude>-177562</latitude>
+			<longitude>168438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ikaba -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-176062</latitude>
+			<longitude>249772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ikoma -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-178228</latitude>
+			<longitude>243605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilango -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-177062</latitude>
+			<longitude>248605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilumba -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-175895</latitude>
+			<longitude>244938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imperani -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-238395</latitude>
+			<longitude>177272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imukusi -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-174728</latitude>
+			<longitude>243605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inachab -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-270228</latitude>
+			<longitude>172938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inachabkuppe -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-270228</latitude>
+			<longitude>174105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inaubrivier -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-283895</latitude>
+			<longitude>174105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Indibi River -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-177228</latitude>
+			<longitude>251772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ined -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-233895</latitude>
+			<longitude>189105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ingururu -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-184562</latitude>
+			<longitude>147438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innisfree -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-226728</latitude>
+			<longitude>164272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Intabeni -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-254728</latitude>
+			<longitude>188105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irene -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-237728</latitude>
+			<longitude>191438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isabis -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-234062</latitude>
+			<longitude>165105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isabis -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-234228</latitude>
+			<longitude>165272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isanpan -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-233562</latitude>
+			<longitude>188772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ishesha -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-177395</latitude>
+			<longitude>228272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isolionke -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-175062</latitude>
+			<longitude>245105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itomba -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-176728</latitude>
+			<longitude>249105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itsawisis -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-262228</latitude>
+			<longitude>181772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iturea -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-227092</latitude>
+			<longitude>172722</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iutzema -- (State: Otjozondjupa)">
+			<state>Otjozondjupa</state>
+			<latitude>-198228</latitude>
+			<longitude>204938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivoma -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-179395</latitude>
+			<longitude>246438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="J.G. Strijdom Lughawe -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-224700</latitude>
+			<longitude>174798</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ja Dennoch -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-237227</latitude>
+			<longitude>181439</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jagd-schlucht -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-250394</latitude>
+			<longitude>162106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jagerhofberge -- (State: Otjozondjupa)">
+			<state>Otjozondjupa</state>
+			<latitude>-202561</latitude>
+			<longitude>167606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jakhalswater -- (State: Erongo)">
+			<state>Erongo</state>
+			<latitude>-226061</latitude>
+			<longitude>153606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jakkalsdraai -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-257894</latitude>
+			<longitude>177106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jakkalsfontein -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-248227</latitude>
+			<longitude>178939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jakkalskop -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-265894</latitude>
+			<longitude>166273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jakkalspan -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-247727</latitude>
+			<longitude>189106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jakkalsvlei -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-258227</latitude>
+			<longitude>184773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jammerbaai -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-271561</latitude>
+			<longitude>152606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jan Jonkerberg -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-230727</latitude>
+			<longitude>161939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joloyi -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-178394</latitude>
+			<longitude>235773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jonkershoek -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-220227</latitude>
+			<longitude>193606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jonkheer -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-248227</latitude>
+			<longitude>186606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Josephine -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-227227</latitude>
+			<longitude>181773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joubertsberge -- (State: Kunene)">
+			<state>Kunene</state>
+			<latitude>-184061</latitude>
+			<longitude>139273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jules Vley -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-266227</latitude>
+			<longitude>188939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juliana -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-222227</latitude>
+			<longitude>191939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jungfrau -- (State: Erongo)">
+			<state>Erongo</state>
+			<latitude>-220227</latitude>
+			<longitude>159773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jurgen -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-267727</latitude>
+			<longitude>179273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juriesdraai -- (State: Kunene)">
+			<state>Kunene</state>
+			<latitude>-199227</latitude>
+			<longitude>139106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katima Mulilo -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-174893</latitude>
+			<longitude>242774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katima Mulilo Rapids">
+			<state></state>
+			<latitude>-174560</latitude>
+			<longitude>242607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luderitz -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-266392</latitude>
+			<longitude>151441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luderitz -- (State: (WA09))">
+			<state>(WA09)</state>
+			<latitude>-264892</latitude>
+			<longitude>160108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luderitz Aerodrome -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-266761</latitude>
+			<longitude>152541</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luderitz Harbour -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-266339</latitude>
+			<longitude>151552</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luderitzbaai -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-265978</latitude>
+			<longitude>151486</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qaganiha Pan -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-178054</latitude>
+			<longitude>226280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qanja -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-180387</latitude>
+			<longitude>227780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qeya -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-179387</latitude>
+			<longitude>231780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qobengili -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-178554</latitude>
+			<longitude>223446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qoha -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-179220</latitude>
+			<longitude>222946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qonisha -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-179887</latitude>
+			<longitude>230113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qowasha -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-179220</latitude>
+			<longitude>224780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quartzhugel -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-225720</latitude>
+			<longitude>177113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quartzkoppie -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-284220</latitude>
+			<longitude>193780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarzriff -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-276720</latitude>
+			<longitude>184280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Que Sera Sera -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-246054</latitude>
+			<longitude>193280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quedas Montenegro">
+			<state></state>
+			<latitude>-169887</latitude>
+			<longitude>132613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quelle Kuppe -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-272054</latitude>
+			<longitude>157113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quellort -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-268720</latitude>
+			<longitude>198946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qugap -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-283720</latitude>
+			<longitude>187280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinta -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-223720</latitude>
+			<longitude>194113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quises -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-239054</latitude>
+			<longitude>171946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quiver Tree Forest -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-264554</latitude>
+			<longitude>182446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quork -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-182054</latitude>
+			<longitude>159280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quqali -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-180387</latitude>
+			<longitude>225113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qwinikwa -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-180887</latitude>
+			<longitude>216446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rundu -- (State: Okavango)">
+			<state>Okavango</state>
+			<latitude>-179219</latitude>
+			<longitude>197781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tsumeb -- (State: Oshikoto)">
+			<state>Oshikoto</state>
+			<latitude>-192051</latitude>
+			<longitude>177116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tsumeb -- (State: (WA18))">
+			<state>(WA18)</state>
+			<latitude>-189884</latitude>
+			<longitude>170116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windhoek -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-225581</latitude>
+			<longitude>170955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windhoek -- (State: Khomas)">
+			<state>Khomas</state>
+			<latitude>-224881</latitude>
+			<longitude>170119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windhoek Noord -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-225367</latitude>
+			<longitude>170850</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windhoek Town and Townlands -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-226048</latitude>
+			<longitude>169786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xabpoort -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-227547</latitude>
+			<longitude>186620</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xae-sca -- (State: Otjozondjupa)">
+			<state>Otjozondjupa</state>
+			<latitude>-198380</latitude>
+			<longitude>204787</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xao -- (State: Otjozondjupa)">
+			<state>Otjozondjupa</state>
+			<latitude>-192213</latitude>
+			<longitude>202120</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xaraxab -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-227047</latitude>
+			<longitude>189120</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xaubehunis -- (State: Erongo)">
+			<state>Erongo</state>
+			<latitude>-214047</latitude>
+			<longitude>151453</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xaudum">
+			<state></state>
+			<latitude>-186047</latitude>
+			<longitude>216620</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeidang -- (State: Okavango)">
+			<state>Okavango</state>
+			<latitude>-186713</latitude>
+			<longitude>202953</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhamukwe -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-180380</latitude>
+			<longitude>214620</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xo-niuma -- (State: Otjozondjupa)">
+			<state>Otjozondjupa</state>
+			<latitude>-199047</latitude>
+			<longitude>205453</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaamugenga -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-180546</latitude>
+			<longitude>159954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaanguyeenkono -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-179546</latitude>
+			<longitude>157288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yafululula -- (State: Ohangwena)">
+			<state>Ohangwena</state>
+			<latitude>-175879</latitude>
+			<longitude>157954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yahamukmata -- (State: Ohangwena)">
+			<state>Ohangwena</state>
+			<latitude>-176379</latitude>
+			<longitude>159121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaheti -- (State: Ohangwena)">
+			<state>Ohangwena</state>
+			<latitude>-174379</latitude>
+			<longitude>162454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yahoma -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-245046</latitude>
+			<longitude>195954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaka -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-181046</latitude>
+			<longitude>239621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yakalongo -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-174212</latitude>
+			<longitude>153121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yakandonga -- (State: Kunene)">
+			<state>Kunene</state>
+			<latitude>-205546</latitude>
+			<longitude>162788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yakapeto -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-178046</latitude>
+			<longitude>153954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yakeenene -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-179212</latitude>
+			<longitude>155454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yalwege -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-180379</latitude>
+			<longitude>157788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yanaipadi -- (State: Ohangwena)">
+			<state>Ohangwena</state>
+			<latitude>-174212</latitude>
+			<longitude>159621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yanamutai -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-176879</latitude>
+			<longitude>158288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yanangali -- (State: Ohangwena)">
+			<state>Ohangwena</state>
+			<latitude>-173879</latitude>
+			<longitude>159788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yanepaya -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-179712</latitude>
+			<longitude>157954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yangenga -- (State: Ohangwena)">
+			<state>Ohangwena</state>
+			<latitude>-174212</latitude>
+			<longitude>156788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yanghandja -- (State: Ohangwena)">
+			<state>Ohangwena</state>
+			<latitude>-175546</latitude>
+			<longitude>160288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaro -- (State: Okavango)">
+			<state>Okavango</state>
+			<latitude>-179879</latitude>
+			<longitude>206121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yashe -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-175879</latitude>
+			<longitude>150288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yashepumbi -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-179712</latitude>
+			<longitude>156454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yashikuku -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-176712</latitude>
+			<longitude>154788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yatamanzi -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-179546</latitude>
+			<longitude>152788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yatananga -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-177212</latitude>
+			<longitude>151121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yatulo -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-179046</latitude>
+			<longitude>155121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yenolyegaya -- (State: Oshana)">
+			<state>Oshana</state>
+			<latitude>-180212</latitude>
+			<longitude>158288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yikurukadi -- (State: Okavango)">
+			<state>Okavango</state>
+			<latitude>-177879</latitude>
+			<longitude>186454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yinsu -- (State: Okavango)">
+			<state>Okavango</state>
+			<latitude>-177712</latitude>
+			<longitude>185954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ysterberg -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-281046</latitude>
+			<longitude>181454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ysterkop -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-249046</latitude>
+			<longitude>160454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ysterputs -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-282379</latitude>
+			<longitude>180954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yumbwa -- (State: Omusati)">
+			<state>Omusati</state>
+			<latitude>-177712</latitude>
+			<longitude>151621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yunguru -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-179046</latitude>
+			<longitude>220954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabubegas-Ost -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-266211</latitude>
+			<longitude>191789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabubegas-Wes -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-266711</latitude>
+			<longitude>190955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zachas -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-226378</latitude>
+			<longitude>193122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zackenberg -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-257711</latitude>
+			<longitude>162789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zackenberge -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-256211</latitude>
+			<longitude>170955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagenicht -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-224792</latitude>
+			<longitude>171350</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zais -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-240045</latitude>
+			<longitude>161455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zambesi">
+			<state></state>
+			<latitude>-188211</latitude>
+			<longitude>362955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zamenkomst -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-261045</latitude>
+			<longitude>192289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zamnarib -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-243378</latitude>
+			<longitude>175622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zamnarib-Ost -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-243711</latitude>
+			<longitude>176122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zandfontein">
+			<state></state>
+			<latitude>-229711</latitude>
+			<longitude>145455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zania -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-234711</latitude>
+			<longitude>184955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zarachaibes -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-234545</latitude>
+			<longitude>172455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaracheibis -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-273878</latitude>
+			<longitude>173955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaris -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-249378</latitude>
+			<longitude>163789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaris Berge -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-248211</latitude>
+			<longitude>163455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zastroberg -- (State: Otjozondjupa)">
+			<state>Otjozondjupa</state>
+			<latitude>-202378</latitude>
+			<longitude>172289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaudaus -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-246711</latitude>
+			<longitude>186789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebedeus -- (State: Erongo)">
+			<state>Erongo</state>
+			<latitude>-213045</latitude>
+			<longitude>148122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebra -- (State: Kunene)">
+			<state>Kunene</state>
+			<latitude>-171211</latitude>
+			<longitude>134622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebra Rivier -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-245045</latitude>
+			<longitude>163122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebraberg -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-232211</latitude>
+			<longitude>174955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebrafontein -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-277211</latitude>
+			<longitude>168955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebrafontein -- (State: Kunene)">
+			<state>Kunene</state>
+			<latitude>-206378</latitude>
+			<longitude>152455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebrapomp -- (State: Kunene)">
+			<state>Kunene</state>
+			<latitude>-193545</latitude>
+			<longitude>145122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebrarivier -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-245045</latitude>
+			<longitude>160789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zelda -- (State: Omaheke)">
+			<state>Omaheke</state>
+			<latitude>-222711</latitude>
+			<longitude>198289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zendelingshoek -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-248711</latitude>
+			<longitude>188122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zesfontein -- (State: Kunene)">
+			<state>Kunene</state>
+			<latitude>-191211</latitude>
+			<longitude>136289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ziegenberge -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-225689</latitude>
+			<longitude>174908</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ziegenrucken -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-235378</latitude>
+			<longitude>163122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zieglerberg -- (State: Otjozondjupa)">
+			<state>Otjozondjupa</state>
+			<latitude>-219211</latitude>
+			<longitude>168455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zilitene -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-178211</latitude>
+			<longitude>243789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zisabspitze -- (State: Erongo)">
+			<state>Erongo</state>
+			<latitude>-211378</latitude>
+			<longitude>146622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zonnewald -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-244878</latitude>
+			<longitude>183789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoutputz -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-265545</latitude>
+			<longitude>194122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoutriver -- (State: Erongo)">
+			<state>Erongo</state>
+			<latitude>-235711</latitude>
+			<longitude>150289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoveha -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-181378</latitude>
+			<longitude>216955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zuckerhutberg -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-224378</latitude>
+			<longitude>169122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zukaus -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-270378</latitude>
+			<longitude>182289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zulowkopf -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-269045</latitude>
+			<longitude>154455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zumbwabizu -- (State: Caprivi)">
+			<state>Caprivi</state>
+			<latitude>-177211</latitude>
+			<longitude>251622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zunichab -- (State: Kunene)">
+			<state>Kunene</state>
+			<latitude>-199545</latitude>
+			<longitude>155622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwartbank -- (State: Erongo)">
+			<state>Erongo</state>
+			<latitude>-233211</latitude>
+			<longitude>148622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwartbankberg -- (State: Erongo)">
+			<state>Erongo</state>
+			<latitude>-232878</latitude>
+			<longitude>148122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwei Point -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-268453</latitude>
+			<longitude>151597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zweikuppenberg -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-269045</latitude>
+			<longitude>153289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zweiseckstein -- (State: (WA40))">
+			<state>(WA40)</state>
+			<latitude>-224725</latitude>
+			<longitude>172353</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwiebel-Hochebene -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-251545</latitude>
+			<longitude>170955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwillingrivier -- (State: Hardap)">
+			<state>Hardap</state>
+			<latitude>-248378</latitude>
+			<longitude>174455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwischenpunkt -- (State: Karas)">
+			<state>Karas</state>
+			<latitude>-270211</latitude>
+			<longitude>192122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

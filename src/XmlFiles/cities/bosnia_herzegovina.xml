@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bosnia Herzegovina">
+		<city name="Banja Luka -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>447856</latitude>
+			<longitude>171954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bihac -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>448267</latitude>
+			<longitude>158806</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bijeljina -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>447667</latitude>
+			<longitude>192259</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bugojno -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>440670</latitude>
+			<longitude>174606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buzim -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>450645</latitude>
+			<longitude>160417</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cazin -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>449768</latitude>
+			<longitude>159530</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dragodol -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>445561</latitude>
+			<longitude>186725</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glavicine -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>434072</latitude>
+			<longitude>174278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gorazde -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>436772</latitude>
+			<longitude>189867</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gornji Vakuf -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>439484</latitude>
+			<longitude>175986</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gracanica -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>437814</latitude>
+			<longitude>176817</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kljaci -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>442215</latitude>
+			<longitude>177901</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konjic -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>442685</latitude>
+			<longitude>191724</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konjic -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>436626</latitude>
+			<longitude>179721</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kozarac -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>446457</latitude>
+			<longitude>174174</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostar -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>434315</latitude>
+			<longitude>180192</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostar -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>433542</latitude>
+			<longitude>178190</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostar Blato -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>433420</latitude>
+			<longitude>177051</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostar Central Zone -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>433567</latitude>
+			<longitude>178006</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostar Jug -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>432587</latitude>
+			<longitude>177965</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostar Jugoistok -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>433128</latitude>
+			<longitude>179259</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostar Jugozapad -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>433653</latitude>
+			<longitude>177528</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostar Sjever -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>434928</latitude>
+			<longitude>178909</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostar Zapad -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>434378</latitude>
+			<longitude>177634</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostarici -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>442892</latitude>
+			<longitude>191601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostarska Vrata -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>432126</latitude>
+			<longitude>175762</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mostarsko Polje -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>432984</latitude>
+			<longitude>178456</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Novi Seher -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>445213</latitude>
+			<longitude>180368</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pridjel -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>447123</latitude>
+			<longitude>181001</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sanski Most -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>447768</latitude>
+			<longitude>166771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarajevo">
+			<state></state>
+			<latitude>438615</latitude>
+			<longitude>183948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarajevo -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>450801</latitude>
+			<longitude>170062</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarajevo Canton -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>438548</latitude>
+			<longitude>182537</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarajevo-Ilidza -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>438421</latitude>
+			<longitude>182909</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarajevo-Novi Grad -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>438696</latitude>
+			<longitude>183315</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarajevo-Stari Grad -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>438687</latitude>
+			<longitude>184998</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarajevo-Vogosca -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>439212</latitude>
+			<longitude>183601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Teocak -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>446197</latitude>
+			<longitude>190238</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tesanj -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>446233</latitude>
+			<longitude>179988</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torlakovac -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>448199</latitude>
+			<longitude>161833</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Travnik -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>442383</latitude>
+			<longitude>176822</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Travnik -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>433860</latitude>
+			<longitude>187602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tuzla -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>445652</latitude>
+			<longitude>186702</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tuzla">
+			<state></state>
+			<latitude>445544</latitude>
+			<longitude>186810</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tuzla Canton -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>445566</latitude>
+			<longitude>186133</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tuzlani -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>450158</latitude>
+			<longitude>186002</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tuzlanska -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>447405</latitude>
+			<longitude>186394</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Visoko -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>440007</latitude>
+			<longitude>181899</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vitez -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>440343</latitude>
+			<longitude>195365</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vrnograc -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>451754</latitude>
+			<longitude>159654</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zavidovici">
+			<state></state>
+			<latitude>444580</latitude>
+			<longitude>181619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zavidovici -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>443614</latitude>
+			<longitude>182372</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zenica -- (State: Republika Srpska)">
+			<state>Republika Srpska</state>
+			<latitude>446989</latitude>
+			<longitude>173769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zenica -- (State: Federation of Bosnia and Herzegovina)">
+			<state>Federation of Bosnia and Herzegovina</state>
+			<latitude>439047</latitude>
+			<longitude>183264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

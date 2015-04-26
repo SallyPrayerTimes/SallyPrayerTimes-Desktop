@@ -1,0 +1,635 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Ethiopia">
+		<city name="Addis Ababa -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>90430</latitude>
+			<longitude>387097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agarfa -- (State: (ET03))">
+			<state>(ET03)</state>
+			<latitude>72930</latitude>
+			<longitude>398264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Awasa -- (State: (ET11))">
+			<state>(ET11)</state>
+			<latitude>70597</latitude>
+			<longitude>384764</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aweday -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>93597</latitude>
+			<longitude>420597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Babile -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>92098</latitude>
+			<longitude>410098</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Babile -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>107598</latitude>
+			<longitude>398431</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bahir Dar -- (State: (ET06))">
+			<state>(ET06)</state>
+			<latitude>116098</latitude>
+			<longitude>373931</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bedele -- (State: (ET08))">
+			<state>(ET08)</state>
+			<latitude>84598</latitude>
+			<longitude>363598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Butajera -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>81265</latitude>
+			<longitude>383765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dessye -- (State: (ET14))">
+			<state>(ET14)</state>
+			<latitude>111433</latitude>
+			<longitude>396433</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dire Dawa -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>95933</latitude>
+			<longitude>418767</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dire Dawa and Gurgura -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>102600</latitude>
+			<longitude>421767</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dire Dawa Astedader -- (State: Dire Dawa)">
+			<state>Dire Dawa</state>
+			<latitude>95100</latitude>
+			<longitude>420100</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gode -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>59603</latitude>
+			<longitude>434603</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gondar -- (State: (ET02))">
+			<state>(ET02)</state>
+			<latitude>125103</latitude>
+			<longitude>370103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamaresa YeT or Sefer -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>93437</latitude>
+			<longitude>421104</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harar -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>95104</latitude>
+			<longitude>415104</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harar Zuria -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>90104</latitude>
+			<longitude>421771</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harardighet -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>77437</latitude>
+			<longitude>444437</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hararte">
+			<state></state>
+			<latitude>121246</latitude>
+			<longitude>421337</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hararu Terara">
+			<state></state>
+			<latitude>121798</latitude>
+			<longitude>408229</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jigjiga -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>93606</latitude>
+			<longitude>428106</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jijiga -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>96773</latitude>
+			<longitude>387606</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimma -- (State: (ET09))">
+			<state>(ET09)</state>
+			<latitude>76773</latitude>
+			<longitude>368439</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimma -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>94773</latitude>
+			<longitude>386106</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mek ele -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>135076</latitude>
+			<longitude>394862</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mek ele Bete Mengist -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>135109</latitude>
+			<longitude>394776</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nazret -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>85610</latitude>
+			<longitude>392777</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qa Dibayu -- (State: (ET11))">
+			<state>(ET11)</state>
+			<latitude>35946</latitude>
+			<longitude>391780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qa Kobo">
+			<state></state>
+			<latitude>35446</latitude>
+			<longitude>391113</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qabanawa -- (State: (ET11))">
+			<state>(ET11)</state>
+			<latitude>34946</latitude>
+			<longitude>395446</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qabradahare -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>67446</latitude>
+			<longitude>442946</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qabtya -- (State: (ET02))">
+			<state>(ET02)</state>
+			<latitude>139113</latitude>
+			<longitude>371280</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qadaduma -- (State: (ET11))">
+			<state>(ET11)</state>
+			<latitude>34613</latitude>
+			<longitude>395780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qalat Luban -- (State: (ET02))">
+			<state>(ET02)</state>
+			<latitude>136613</latitude>
+			<longitude>364280</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qalqalcha -- (State: (ET11))">
+			<state>(ET11)</state>
+			<latitude>35613</latitude>
+			<longitude>394780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal`at az Zaraf">
+			<state></state>
+			<latitude>139780</latitude>
+			<longitude>364780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal`at Hamadi">
+			<state></state>
+			<latitude>139113</latitude>
+			<longitude>364780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal`at Hameg -- (State: (ET02))">
+			<state>(ET02)</state>
+			<latitude>138946</latitude>
+			<longitude>366780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal`at Uod Absciar -- (State: (ET02))">
+			<state>(ET02)</state>
+			<latitude>138446</latitude>
+			<longitude>367113</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarsa -- (State: (ET01))">
+			<state>(ET01)</state>
+			<latitude>83946</latitude>
+			<longitude>397446</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarsa -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>94613</latitude>
+			<longitude>418780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarsa Sukela -- (State: (ET11))">
+			<state>(ET11)</state>
+			<latitude>35280</latitude>
+			<longitude>395280</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qeissan -- (State: (ET13))">
+			<state>(ET13)</state>
+			<latitude>107446</latitude>
+			<longitude>347946</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qellafo -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>56280</latitude>
+			<longitude>441446</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qito -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>90613</latitude>
+			<longitude>371280</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qoljeit">
+			<state></state>
+			<latitude>100946</latitude>
+			<longitude>430113</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qorahe -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>66280</latitude>
+			<longitude>443113</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quamnum -- (State: (ET08))">
+			<state>(ET08)</state>
+			<latitude>83113</latitude>
+			<longitude>338446</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quara -- (State: (ET02))">
+			<state>(ET02)</state>
+			<latitude>123113</latitude>
+			<longitude>362280</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarib -- (State: (ET06))">
+			<state>(ET06)</state>
+			<latitude>110780</latitude>
+			<longitude>378113</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quf Tika -- (State: (ET11))">
+			<state>(ET11)</state>
+			<latitude>35280</latitude>
+			<longitude>396113</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qulubi -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>94446</latitude>
+			<longitude>416946</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quni -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>90113</latitude>
+			<longitude>408946</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoram -- (State: (ET14))">
+			<state>(ET14)</state>
+			<latitude>125171</latitude>
+			<longitude>395341</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quorcu">
+			<state></state>
+			<latitude>147613</latitude>
+			<longitude>377280</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quorta -- (State: (ET02))">
+			<state>(ET02)</state>
+			<latitude>117446</latitude>
+			<longitude>374613</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quosquam -- (State: (ET06))">
+			<state>(ET06)</state>
+			<latitude>108446</latitude>
+			<longitude>370946</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qus Biyaad -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>84113</latitude>
+			<longitude>445280</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vacille Wells -- (State: (ET11))">
+			<state>(ET11)</state>
+			<latitude>45451</latitude>
+			<longitude>390785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vagia -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>125285</latitude>
+			<longitude>399785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaideddo -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>138285</latitude>
+			<longitude>402618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaito">
+			<state></state>
+			<latitude>115935</latitude>
+			<longitude>416404</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valico Sasso Daba -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>132285</latitude>
+			<longitude>400618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valle di Dol -- (State: (ET14))">
+			<state>(ET14)</state>
+			<latitude>123285</latitude>
+			<longitude>415618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valle Gogheita -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>97285</latitude>
+			<longitude>427785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valle Gumma -- (State: (ET14))">
+			<state>(ET14)</state>
+			<latitude>120785</latitude>
+			<longitude>418118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valle Haraua -- (State: (ET07))">
+			<state>(ET07)</state>
+			<latitude>99285</latitude>
+			<longitude>425951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valledo -- (State: (ET14))">
+			<state>(ET14)</state>
+			<latitude>129451</latitude>
+			<longitude>413951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vato -- (State: (ET13))">
+			<state>(ET13)</state>
+			<latitude>90618</latitude>
+			<longitude>349951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veima -- (State: (ET14))">
+			<state>(ET14)</state>
+			<latitude>122618</latitude>
+			<longitude>423118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vennio -- (State: (ET09))">
+			<state>(ET09)</state>
+			<latitude>74285</latitude>
+			<longitude>367618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verme Falls -- (State: (ET03))">
+			<state>(ET03)</state>
+			<latitude>54618</latitude>
+			<longitude>402951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vertaddaba">
+			<state></state>
+			<latitude>137285</latitude>
+			<longitude>411785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vit a -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>104118</latitude>
+			<longitude>392118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vogga -- (State: (ET09))">
+			<state>(ET09)</state>
+			<latitude>75118</latitude>
+			<longitude>363118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vogheri -- (State: (ET06))">
+			<state>(ET06)</state>
+			<latitude>118118</latitude>
+			<longitude>357118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voltu -- (State: (ET09))">
+			<state>(ET09)</state>
+			<latitude>70785</latitude>
+			<longitude>358951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuca -- (State: (ET08))">
+			<state>(ET08)</state>
+			<latitude>75618</latitude>
+			<longitude>358451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuddita -- (State: (ET08))">
+			<state>(ET08)</state>
+			<latitude>75285</latitude>
+			<longitude>357785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulcano Borele Ale -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>138049</latitude>
+			<longitude>405646</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulcano Chebrit Ale -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>139785</latitude>
+			<longitude>401451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulcano Ertale -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>136132</latitude>
+			<longitude>406729</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulcano Gabuli -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>136785</latitude>
+			<longitude>402785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulcano Ummuna -- (State: (ET12))">
+			<state>(ET12)</state>
+			<latitude>135229</latitude>
+			<longitude>406440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulu -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>98285</latitude>
+			<longitude>389951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vumbaro -- (State: (ET09))">
+			<state>(ET09)</state>
+			<latitude>66618</latitude>
+			<longitude>358618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vungalat -- (State: (ET11))">
+			<state>(ET11)</state>
+			<latitude>39451</latitude>
+			<longitude>381618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vusciule -- (State: (ET09))">
+			<state>(ET09)</state>
+			<latitude>73451</latitude>
+			<longitude>375285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Werabie -- (State: (ET10))">
+			<state>(ET10)</state>
+			<latitude>87119</latitude>
+			<longitude>378952</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

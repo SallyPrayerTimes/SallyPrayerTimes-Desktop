@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bouvet Island">
+		<city name="Benn Skerries">
+			<state></state>
+			<latitude>-544402</latitude>
+			<longitude>33265</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Black Cliff">
+			<state></state>
+			<latitude>-544285</latitude>
+			<longitude>34331</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bolle Bay">
+			<state></state>
+			<latitude>-544402</latitude>
+			<longitude>33431</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bouvet Island">
+			<state></state>
+			<latitude>-544235</latitude>
+			<longitude>34098</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Fie">
+			<state></state>
+			<latitude>-544345</latitude>
+			<longitude>34257</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Valdivia">
+			<state></state>
+			<latitude>-543776</latitude>
+			<longitude>33655</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cato Point">
+			<state></state>
+			<latitude>-544412</latitude>
+			<longitude>33293</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Christensens Bre">
+			<state></state>
+			<latitude>-544362</latitude>
+			<longitude>33605</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djevleporten">
+			<state></state>
+			<latitude>-543761</latitude>
+			<longitude>33628</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esmarchkysten">
+			<state></state>
+			<latitude>-544149</latitude>
+			<longitude>33032</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gross Kari">
+			<state></state>
+			<latitude>-543772</latitude>
+			<longitude>33875</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horns-revet">
+			<state></state>
+			<latitude>-544563</latitude>
+			<longitude>33604</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horntvedts Bre">
+			<state></state>
+			<latitude>-543827</latitude>
+			<longitude>33715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaap Circoncision">
+			<state></state>
+			<latitude>-543860</latitude>
+			<longitude>33024</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaap Lollo">
+			<state></state>
+			<latitude>-544007</latitude>
+			<longitude>34385</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaap Meteor">
+			<state></state>
+			<latitude>-544121</latitude>
+			<longitude>34446</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Larsoya">
+			<state></state>
+			<latitude>-544420</latitude>
+			<longitude>33247</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lille Kari Rock">
+			<state></state>
+			<latitude>-543842</latitude>
+			<longitude>34219</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lindsayrevet">
+			<state></state>
+			<latitude>-544225</latitude>
+			<longitude>34941</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lykkes Topp">
+			<state></state>
+			<latitude>-544259</latitude>
+			<longitude>33316</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morgenstiernekysten">
+			<state></state>
+			<latitude>-543905</latitude>
+			<longitude>33415</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morrellrevet">
+			<state></state>
+			<latitude>-544391</latitude>
+			<longitude>34942</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mosbytoppen">
+			<state></state>
+			<latitude>-544127</latitude>
+			<longitude>33178</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mottesundet">
+			<state></state>
+			<latitude>-544424</latitude>
+			<longitude>33303</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mowinckelkysten">
+			<state></state>
+			<latitude>-544238</latitude>
+			<longitude>34381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Norrisrevet">
+			<state></state>
+			<latitude>-543940</latitude>
+			<longitude>32888</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Norvegiabaen">
+			<state></state>
+			<latitude>-543890</latitude>
+			<longitude>34277</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Norvegiaodden">
+			<state></state>
+			<latitude>-544212</latitude>
+			<longitude>33013</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nyroysa">
+			<state></state>
+			<latitude>-543987</latitude>
+			<longitude>32971</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olavtoppen">
+			<state></state>
+			<latitude>-543981</latitude>
+			<longitude>33639</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ole Hoilandstotta">
+			<state></state>
+			<latitude>-543870</latitude>
+			<longitude>34133</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Posadowskys Bre">
+			<state></state>
+			<latitude>-544055</latitude>
+			<longitude>33779</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Randi Glacier">
+			<state></state>
+			<latitude>-544322</latitude>
+			<longitude>34047</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Randibaen">
+			<state></state>
+			<latitude>-544397</latitude>
+			<longitude>34003</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rover Anchorage">
+			<state></state>
+			<latitude>-544386</latitude>
+			<longitude>33614</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rustadkollen">
+			<state></state>
+			<latitude>-544378</latitude>
+			<longitude>33433</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Skarven">
+			<state></state>
+			<latitude>-543857</latitude>
+			<longitude>32921</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria Terrace">
+			<state></state>
+			<latitude>-543854</latitude>
+			<longitude>34132</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vogt Coast">
+			<state></state>
+			<latitude>-544326</latitude>
+			<longitude>33868</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Westwindstranda">
+			<state></state>
+			<latitude>-543981</latitude>
+			<longitude>32972</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilhelmplataet">
+			<state></state>
+			<latitude>-544034</latitude>
+			<longitude>33355</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Williams Reef">
+			<state></state>
+			<latitude>-544367</latitude>
+			<longitude>34302</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

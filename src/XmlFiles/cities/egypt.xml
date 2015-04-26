@@ -1,0 +1,1965 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Egypt">
+		<city name="1 `Ezbet Has Salib -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>309907</latitude>
+			<longitude>310085</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="10 Ramadan City">
+			<state></state>
+			<latitude>303049</latitude>
+			<longitude>317549</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="257Izbat Ahmad `Ali `Udah -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>312731</latitude>
+			<longitude>314592</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abo-Redis -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>288597</latitude>
+			<longitude>332097</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abou Kir -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>313316</latitude>
+			<longitude>300705</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu Hammad -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>305433</latitude>
+			<longitude>316761</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu Rudeis -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>289133</latitude>
+			<longitude>331972</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu Tisht -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>261297</latitude>
+			<longitude>321044</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu Zenima -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>290594</latitude>
+			<longitude>331133</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aga -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>308764</latitude>
+			<longitude>313430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akhmim -- (State: Suhaj)">
+			<state>Suhaj</state>
+			<latitude>265764</latitude>
+			<longitude>317430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Abqa`ayn -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>308858</latitude>
+			<longitude>303616</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al assaniyah -- (State: Al Qalyubiyah)">
+			<state>Al Qalyubiyah</state>
+			<latitude>303039</latitude>
+			<longitude>312072</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Bahriyah -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>311247</latitude>
+			<longitude>304841</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Basrah -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>308919</latitude>
+			<longitude>297864</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Mansurah -- (State: Al Fayyum)">
+			<state>Al Fayyum</state>
+			<latitude>292375</latitude>
+			<longitude>310236</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Manzalah -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>311680</latitude>
+			<longitude>319466</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Manzalah -- (State: Al Qalyubiyah)">
+			<state>Al Qalyubiyah</state>
+			<latitude>303494</latitude>
+			<longitude>312566</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Maraghah -- (State: Suhaj)">
+			<state>Suhaj</state>
+			<latitude>267097</latitude>
+			<longitude>316097</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al `Arish -- (State: Shamal Sina)">
+			<state>Shamal Sina</state>
+			<latitude>311341</latitude>
+			<longitude>338103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alexandria -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>312078</latitude>
+			<longitude>299289</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alexandria Governorate -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>311764</latitude>
+			<longitude>298930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alexandria Harbour -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>311930</latitude>
+			<longitude>298764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ar Rishah -- (State: Shamal Sina)">
+			<state>Shamal Sina</state>
+			<latitude>308330</latitude>
+			<longitude>333225</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="As Sawwan -- (State: Shamal Sina)">
+			<state>Shamal Sina</state>
+			<latitude>309308</latitude>
+			<longitude>343666</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ashmun -- (State: Al Minufiyah)">
+			<state>Al Minufiyah</state>
+			<latitude>303097</latitude>
+			<longitude>309764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asiut -- (State: Asyut)">
+			<state>Asyut</state>
+			<latitude>272264</latitude>
+			<longitude>310597</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Assiut -- (State: Asyut)">
+			<state>Asyut</state>
+			<latitude>273430</latitude>
+			<longitude>308430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aswan">
+			<state></state>
+			<latitude>240972</latitude>
+			<longitude>329086</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asyut">
+			<state></state>
+			<latitude>271925</latitude>
+			<longitude>311925</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ataqa -- (State: As Suways)">
+			<state>As Suways</state>
+			<latitude>299097</latitude>
+			<longitude>324597</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atris -- (State: Al Jizah)">
+			<state>Al Jizah</state>
+			<latitude>303430</latitude>
+			<longitude>308930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aulad Saqr -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>309397</latitude>
+			<longitude>317061</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Awlad Isma`il -- (State: Suhaj)">
+			<state>Suhaj</state>
+			<latitude>266764</latitude>
+			<longitude>315597</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Badr -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>305848</latitude>
+			<longitude>307209</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Badr -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>301434</latitude>
+			<longitude>317401</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bahariya Oasis -- (State: Al Jizah)">
+			<state>Al Jizah</state>
+			<latitude>282598</latitude>
+			<longitude>289598</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baltim -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>315642</latitude>
+			<longitude>311001</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bana Abu Sir -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>308915</latitude>
+			<longitude>312462</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banha -- (State: Al Qalyubiyah)">
+			<state>Al Qalyubiyah</state>
+			<latitude>304706</latitude>
+			<longitude>311973</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bani Suwayf">
+			<state></state>
+			<latitude>290737</latitude>
+			<longitude>310987</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Basyun -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>309501</latitude>
+			<longitude>308237</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beba -- (State: Bani Suwayf)">
+			<state>Bani Suwayf</state>
+			<latitude>289348</latitude>
+			<longitude>309931</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beer al-Abd -- (State: Shamal Sina)">
+			<state>Shamal Sina</state>
+			<latitude>310265</latitude>
+			<longitude>330098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belbeis -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>304265</latitude>
+			<longitude>315765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belbes -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>304431</latitude>
+			<longitude>315598</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benha -- (State: Al Qalyubiyah)">
+			<state>Al Qalyubiyah</state>
+			<latitude>304431</latitude>
+			<longitude>311765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beni Mazar -- (State: Al Minya)">
+			<state>Al Minya</state>
+			<latitude>285134</latitude>
+			<longitude>308090</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beni Suef -- (State: Bani Suwayf)">
+			<state>Bani Suwayf</state>
+			<latitude>290598</latitude>
+			<longitude>310431</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bilqas -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>312229</latitude>
+			<longitude>313673</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bir el Nuss -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>302598</latitude>
+			<longitude>263098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Birimbal el-Gedida -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>311515</latitude>
+			<longitude>317226</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Biteina -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>309945</latitude>
+			<longitude>312073</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Biyala -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>311842</latitude>
+			<longitude>312312</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Burg el `Arab -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>309265</latitude>
+			<longitude>295431</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cairn Point -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>290432</latitude>
+			<longitude>331432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cairo -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>300599</latitude>
+			<longitude>312599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cairo Governorate -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>300432</latitude>
+			<longitude>312266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Canal Cassel -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>245266</latitude>
+			<longitude>330266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Canal Haran -- (State: Aswan)">
+			<state>Aswan</state>
+			<latitude>245599</latitude>
+			<longitude>330266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cannon Reef -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>266766</latitude>
+			<longitude>340099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Canobus -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>313266</latitude>
+			<longitude>300599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Banas -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>239102</latitude>
+			<longitude>358002</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cara Oasis -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>296099</latitude>
+			<longitude>265266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carrs Lake -- (State: Al Isma`iliyah)">
+			<state>Al Isma`iliyah</state>
+			<latitude>302932</latitude>
+			<longitude>324766</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Casius Mons -- (State: Shamal Sina)">
+			<state>Shamal Sina</state>
+			<latitude>312299</latitude>
+			<longitude>330824</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chantier Island -- (State: Bur Sa`id)">
+			<state>Bur Sa`id</state>
+			<latitude>312599</latitude>
+			<longitude>323266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charing Cross -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>312599</latitude>
+			<longitude>271266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chatby -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>312099</latitude>
+			<longitude>299266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheops -- (State: Al Jizah)">
+			<state>Al Jizah</state>
+			<latitude>299932</latitude>
+			<longitude>311432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chobba Shad-el-Ayun -- (State: As Suways)">
+			<state>As Suways</state>
+			<latitude>298766</latitude>
+			<longitude>326099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cicely Hill -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>295266</latitude>
+			<longitude>275766</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cleopatra Beach -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>312368</latitude>
+			<longitude>299468</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colossi of Memnon -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>257266</latitude>
+			<longitude>326266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Conical Hill -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>294266</latitude>
+			<longitude>298099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Conical Hill -- (State: Al Jizah)">
+			<state>Al Jizah</state>
+			<latitude>283932</latitude>
+			<longitude>294266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Contellet Garaiyeh -- (State: Shamal Sina)">
+			<state>Shamal Sina</state>
+			<latitude>301999</latitude>
+			<longitude>344313</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Contra Apollonos -- (State: Aswan)">
+			<state>Aswan</state>
+			<latitude>249424</latitude>
+			<longitude>329018</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Contra Latopolis -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>252935</latitude>
+			<longitude>325924</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coptos -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>260099</latitude>
+			<longitude>328266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Corvette Pass -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>311932</latitude>
+			<longitude>298432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Culloden Reef -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>313766</latitude>
+			<longitude>301099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cusae -- (State: Asyut)">
+			<state>Asyut</state>
+			<latitude>274543</latitude>
+			<longitude>308266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cygnet Rock -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>239099</latitude>
+			<longitude>359266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cynopolis -- (State: Al Minya)">
+			<state>Al Minya</state>
+			<latitude>284849</latitude>
+			<longitude>307932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dahab -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>284933</latitude>
+			<longitude>345100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dakahlieh -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>309267</latitude>
+			<longitude>315100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dakhla -- (State: Al Wadi al Jadid)">
+			<state>Al Wadi al Jadid</state>
+			<latitude>255100</latitude>
+			<longitude>291767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damanhour -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>310433</latitude>
+			<longitude>304767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damanhur -- (State: Asyut)">
+			<state>Asyut</state>
+			<latitude>273933</latitude>
+			<longitude>309600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damanhur -- (State: Al Qalyubiyah)">
+			<state>Al Qalyubiyah</state>
+			<latitude>301292</latitude>
+			<longitude>312425</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damas -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>308153</latitude>
+			<longitude>313361</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damietta -- (State: Dumyat)">
+			<state>Dumyat</state>
+			<latitude>314294</latitude>
+			<longitude>318250</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damietta Nile">
+			<state></state>
+			<latitude>315433</latitude>
+			<longitude>318600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dekernes -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>310983</latitude>
+			<longitude>316069</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dessouk -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>311394</latitude>
+			<longitude>306564</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diarb Negm -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>307642</latitude>
+			<longitude>314506</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Domyat -- (State: Dumyat)">
+			<state>Dumyat</state>
+			<latitude>313433</latitude>
+			<longitude>317600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edfu -- (State: Aswan)">
+			<state>Aswan</state>
+			<latitude>249768</latitude>
+			<longitude>328768</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edkou -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>313157</latitude>
+			<longitude>303093</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egypt">
+			<state></state>
+			<latitude>270101</latitude>
+			<longitude>300101</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Agami -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>311507</latitude>
+			<longitude>297954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Alamein -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>305101</latitude>
+			<longitude>287601</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Hammam -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>308434</latitude>
+			<longitude>293934</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Kuraimat -- (State: Al Jizah)">
+			<state>Al Jizah</state>
+			<latitude>293045</latitude>
+			<longitude>312284</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Mahalla el Kubra -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>310434</latitude>
+			<longitude>310934</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El-Bagalat -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>311754</latitude>
+			<longitude>316376</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El-Mansura -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>310268</latitude>
+			<longitude>315101</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El-Manzala -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>311768</latitude>
+			<longitude>318434</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El-Nakkariya -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>306101</latitude>
+			<longitude>314768</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El-Rehab">
+			<state></state>
+			<latitude>300723</latitude>
+			<longitude>314873</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esna -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>253032</latitude>
+			<longitude>325629</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fakous -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>307399</latitude>
+			<longitude>318074</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanar el- Burullus -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>316091</latitude>
+			<longitude>310913</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farshut -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>260652</latitude>
+			<longitude>321719</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayoum -- (State: Al Fayyum)">
+			<state>Al Fayyum</state>
+			<latitude>293269</latitude>
+			<longitude>308102</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fowa -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>312127</latitude>
+			<longitude>305574</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gamgara el-Gedida -- (State: Al Qalyubiyah)">
+			<state>Al Qalyubiyah</state>
+			<latitude>305111</latitude>
+			<longitude>312425</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gharbia -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>308436</latitude>
+			<longitude>310103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Giza -- (State: Al Jizah)">
+			<state>Al Jizah</state>
+			<latitude>297770</latitude>
+			<longitude>313103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Giza Canal">
+			<state></state>
+			<latitude>300270</latitude>
+			<longitude>312436</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gizai -- (State: Al Minufiyah)">
+			<state>Al Minufiyah</state>
+			<latitude>304770</latitude>
+			<longitude>308603</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hehia -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>306804</latitude>
+			<longitude>315976</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heliopolis -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>301104</latitude>
+			<longitude>313437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Helwan -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>298604</latitude>
+			<longitude>313437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hod el Maarri Qibli -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>258771</latitude>
+			<longitude>327937</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hurghada -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>272604</latitude>
+			<longitude>338271</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikhtab -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>308480</latitude>
+			<longitude>313058</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iqfahs -- (State: Bani Suwayf)">
+			<state>Bani Suwayf</state>
+			<latitude>287938</latitude>
+			<longitude>308313</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ismailia -- (State: Al Isma`iliyah)">
+			<state>Al Isma`iliyah</state>
+			<latitude>305938</latitude>
+			<longitude>322772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ismailia Canal">
+			<state></state>
+			<latitude>300772</latitude>
+			<longitude>312772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itay al Barud -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>308972</latitude>
+			<longitude>306755</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jirja -- (State: Suhaj)">
+			<state>Suhaj</state>
+			<latitude>263564</latitude>
+			<longitude>318967</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jizzayah -- (State: Al Jizah)">
+			<state>Al Jizah</state>
+			<latitude>301948</latitude>
+			<longitude>310456</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kafr ad Dawwar -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>311504</latitude>
+			<longitude>301399</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kafr al-Sheikh -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>312607</latitude>
+			<longitude>308440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kafr ash Shaykh">
+			<state></state>
+			<latitude>311221</latitude>
+			<longitude>309471</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kafr el Sheikh -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>308113</latitude>
+			<longitude>316043</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kafr el-Sheikh -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>313440</latitude>
+			<longitude>308440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kafr el-Zaiyat -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>308440</latitude>
+			<longitude>308440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kafr el-Zayat -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>308313</latitude>
+			<longitude>308265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalin -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>310607</latitude>
+			<longitude>308440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kharga -- (State: Al Wadi al Jadid)">
+			<state>Al Wadi al Jadid</state>
+			<latitude>254440</latitude>
+			<longitude>305607</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kharga Oasis -- (State: Al Wadi al Jadid)">
+			<state>Al Wadi al Jadid</state>
+			<latitude>252607</latitude>
+			<longitude>305940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khargah -- (State: Al Wadi al Jadid)">
+			<state>Al Wadi al Jadid</state>
+			<latitude>253440</latitude>
+			<longitude>305940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knm Abu Radi -- (State: Al Fayyum)">
+			<state>Al Fayyum</state>
+			<latitude>293421</latitude>
+			<longitude>311482</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kom Hamada -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>307440</latitude>
+			<longitude>306774</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luxor -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>256941</latitude>
+			<longitude>326608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maghagha -- (State: Al Minya)">
+			<state>Al Minya</state>
+			<latitude>286595</latitude>
+			<longitude>308512</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahalla el Kubra -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>309870</latitude>
+			<longitude>311778</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahallet Abu `Ali el-Qantara -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>309776</latitude>
+			<longitude>312109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahallet Misir -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>310287</latitude>
+			<longitude>309865</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mallawi -- (State: Al Minya)">
+			<state>Al Minya</state>
+			<latitude>277428</latitude>
+			<longitude>308520</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manfalut -- (State: Asyut)">
+			<state>Asyut</state>
+			<latitude>273220</latitude>
+			<longitude>309803</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mansoura -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>310540</latitude>
+			<longitude>313876</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mansuria -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>310609</latitude>
+			<longitude>314109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marsa Abu Dabbab -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>253442</latitude>
+			<longitude>347442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marsa al `Alam -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>250942</latitude>
+			<longitude>349109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marsa Matruh -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>313776</latitude>
+			<longitude>272442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matrouh -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>300109</latitude>
+			<longitude>280109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ma`adi -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>299776</latitude>
+			<longitude>312609</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Menouf -- (State: Al Minufiyah)">
+			<state>Al Minufiyah</state>
+			<latitude>304776</latitude>
+			<longitude>309442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Menoufiya -- (State: Al Minufiyah)">
+			<state>Al Minufiyah</state>
+			<latitude>305109</latitude>
+			<longitude>310109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minia -- (State: Al Minya)">
+			<state>Al Minya</state>
+			<latitude>284442</latitude>
+			<longitude>307109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minya -- (State: Al Minya)">
+			<state>Al Minya</state>
+			<latitude>281303</latitude>
+			<longitude>307553</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mit Ghamr -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>307276</latitude>
+			<longitude>312634</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mit Habib -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>304606</latitude>
+			<longitude>315270</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mit Habib ash Sharqiyah -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>308906</latitude>
+			<longitude>312245</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mit Salsil -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>311734</latitude>
+			<longitude>318228</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nabaroh -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>311096</latitude>
+			<longitude>313157</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nabq -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>280896</latitude>
+			<longitude>344382</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naga Hamadi -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>260624</latitude>
+			<longitude>322496</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naj` Kawm Jabir -- (State: Suhaj)">
+			<state>Suhaj</state>
+			<latitude>261324</latitude>
+			<longitude>320446</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nasr City -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>300777</latitude>
+			<longitude>313110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Valley -- (State: Al Wadi al Jadid)">
+			<state>Al Wadi al Jadid</state>
+			<latitude>250110</latitude>
+			<longitude>290110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Sinai -- (State: Shamal Sina)">
+			<state>Shamal Sina</state>
+			<latitude>315110</latitude>
+			<longitude>340110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuwaybi` at Tarabin -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>290610</latitude>
+			<longitude>346777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuweiba -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>290443</latitude>
+			<longitude>346777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oasi di Giarabub">
+			<state></state>
+			<latitude>296944</latitude>
+			<longitude>247278</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oasi di Melfa">
+			<state></state>
+			<latitude>297778</latitude>
+			<longitude>248111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oasis Junction -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>260944</latitude>
+			<longitude>321111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="October 6 -- (State: Al Jizah)">
+			<state>Al Jizah</state>
+			<latitude>298278</latitude>
+			<longitude>310611</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="oEzbet el- Qirdahi -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>311444</latitude>
+			<longitude>302444</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ofedinah -- (State: Aswan)">
+			<state>Aswan</state>
+			<latitude>230944</latitude>
+			<longitude>326944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Offeduniya -- (State: Aswan)">
+			<state>Aswan</state>
+			<latitude>230778</latitude>
+			<longitude>326944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogla -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>291944</latitude>
+			<longitude>287111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Om Bogma -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>290025</latitude>
+			<longitude>333655</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Om el Zein -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>306589</latitude>
+			<longitude>314086</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Om Elgharadeek -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>299278</latitude>
+			<longitude>280111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombos -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>299944</latitude>
+			<longitude>327444</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombos -- (State: Aswan)">
+			<state>Aswan</state>
+			<latitude>244903</latitude>
+			<longitude>329547</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omm el Kyaman -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>278444</latitude>
+			<longitude>335944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ophira">
+			<state></state>
+			<latitude>280111</latitude>
+			<longitude>344611</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Owstons Dump -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>294278</latitude>
+			<longitude>288778</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oxford Circus -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>312278</latitude>
+			<longitude>260778</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oxyrynkhos -- (State: Al Minya)">
+			<state>Al Minya</state>
+			<latitude>285464</latitude>
+			<longitude>306694</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Fouad -- (State: Bur Sa`id)">
+			<state>Bur Sa`id</state>
+			<latitude>312620</latitude>
+			<longitude>323284</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Said -- (State: Bur Sa`id)">
+			<state>Bur Sa`id</state>
+			<latitude>312779</latitude>
+			<longitude>323112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Said Free Zone -- (State: Bur Sa`id)">
+			<state>Bur Sa`id</state>
+			<latitude>312279</latitude>
+			<longitude>323279</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Said Salt Association Limited Lake -- (State: Bur Sa`id)">
+			<state>Bur Sa`id</state>
+			<latitude>311909</latitude>
+			<longitude>323601</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pyramid of Onnos -- (State: Al Jizah)">
+			<state>Al Jizah</state>
+			<latitude>298779</latitude>
+			<longitude>312279</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qaha -- (State: Al Qalyubiyah)">
+			<state>Al Qalyubiyah</state>
+			<latitude>302913</latitude>
+			<longitude>312149</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarun -- (State: Al Fayyum)">
+			<state>Al Fayyum</state>
+			<latitude>294280</latitude>
+			<longitude>304280</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qena -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>258446</latitude>
+			<longitude>327613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qina">
+			<state></state>
+			<latitude>261813</latitude>
+			<longitude>327385</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quesna Station -- (State: Al Minufiyah)">
+			<state>Al Minufiyah</state>
+			<latitude>305613</latitude>
+			<longitude>311446</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qus -- (State: Qina)">
+			<state>Qina</state>
+			<latitude>259280</latitude>
+			<longitude>327613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qusayr al Qadim -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>261613</latitude>
+			<longitude>342613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quseir -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>261113</latitude>
+			<longitude>342946</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quwaysina -- (State: Al Minufiyah)">
+			<state>Al Minufiyah</state>
+			<latitude>305780</latitude>
+			<longitude>311613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ra s Abu Bakr -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>285614</latitude>
+			<longitude>329447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ra s Abu Sawmah -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>268614</latitude>
+			<longitude>339947</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ra s Badran -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>289447</latitude>
+			<longitude>331781</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ra s Bakr -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>284947</latitude>
+			<longitude>329614</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ra s Gharib -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>283667</latitude>
+			<longitude>331122</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ra s Shukhayr -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>281447</latitude>
+			<longitude>332781</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rafah -- (State: Shamal Sina)">
+			<state>Shamal Sina</state>
+			<latitude>312947</latitude>
+			<longitude>342447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras Ghareb -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>283853</latitude>
+			<longitude>330742</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras Gharib Anchorage -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>283614</latitude>
+			<longitude>331114</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras Shukhair -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>281456</latitude>
+			<longitude>332850</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras-el-Hikma -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>311447</latitude>
+			<longitude>278447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Red Sea">
+			<state></state>
+			<latitude>250114</latitude>
+			<longitude>350114</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Red Sea -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>260114</latitude>
+			<longitude>340114</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rosetta -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>314158</latitude>
+			<longitude>304278</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sadat City -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>303865</latitude>
+			<longitude>305118</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Safaga -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>267448</latitude>
+			<longitude>339448</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Safaga Island -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>267615</latitude>
+			<longitude>339948</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Catherine s Monastery of Mount Sinai -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>285654</latitude>
+			<longitude>339848</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sallum -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>315782</latitude>
+			<longitude>251615</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samalut -- (State: Al Minya)">
+			<state>Al Minya</state>
+			<latitude>283115</latitude>
+			<longitude>307115</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samannud -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>309743</latitude>
+			<longitude>312559</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanbukht -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>309871</latitude>
+			<longitude>313018</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shabin al Qanatir -- (State: Al Qalyubiyah)">
+			<state>Al Qalyubiyah</state>
+			<latitude>303243</latitude>
+			<longitude>313326</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharkia -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>308115</latitude>
+			<longitude>318115</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharm al Shaikh -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>278751</latitude>
+			<longitude>342996</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharm el- Moiya -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>278659</latitude>
+			<longitude>343082</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharm el- Naqa -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>269115</latitude>
+			<longitude>339782</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharm el- Sheikh -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>278634</latitude>
+			<longitude>342946</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shebin al-Kom -- (State: Al Minufiyah)">
+			<state>Al Minufiyah</state>
+			<latitude>305701</latitude>
+			<longitude>310215</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sherbin -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>312054</latitude>
+			<longitude>315359</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shoubra -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>300948</latitude>
+			<longitude>312448</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shubra al Khaymah -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>301401</latitude>
+			<longitude>312537</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shubra Khet -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>310396</latitude>
+			<longitude>307243</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Barrani -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>316115</latitude>
+			<longitude>259282</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Salim -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>312834</latitude>
+			<longitude>307987</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siwa -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>291782</latitude>
+			<longitude>256782</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sohag -- (State: Suhaj)">
+			<state>Suhaj</state>
+			<latitude>265615</latitude>
+			<longitude>316615</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sohag -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>265615</latitude>
+			<longitude>317115</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Sinai -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>290115</latitude>
+			<longitude>340115</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suez -- (State: As Suways)">
+			<state>As Suways</state>
+			<latitude>299782</latitude>
+			<longitude>325615</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suez Bay">
+			<state></state>
+			<latitude>299282</latitude>
+			<longitude>325448</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suez Canal -- (State: As Suways)">
+			<state>As Suways</state>
+			<latitude>299282</latitude>
+			<longitude>325615</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suez Creek -- (State: As Suways)">
+			<state>As Suways</state>
+			<latitude>299615</latitude>
+			<longitude>325782</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suez Governorate -- (State: As Suways)">
+			<state>As Suways</state>
+			<latitude>299948</latitude>
+			<longitude>325615</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taba -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>294980</latitude>
+			<longitude>349135</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tahta -- (State: Suhaj)">
+			<state>Suhaj</state>
+			<latitude>267797</latitude>
+			<longitude>315055</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tala -- (State: Al Minufiyah)">
+			<state>Al Minufiyah</state>
+			<latitude>306935</latitude>
+			<longitude>309591</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tala -- (State: Bani Suwayf)">
+			<state>Bani Suwayf</state>
+			<latitude>288908</latitude>
+			<longitude>308630</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Talkha -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>310647</latitude>
+			<longitude>313855</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamit -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>224116</latitude>
+			<longitude>317116</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanah -- (State: Ad Daqahliyah)">
+			<state>Ad Daqahliyah</state>
+			<latitude>310469</latitude>
+			<longitude>315660</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanta -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>308027</latitude>
+			<longitude>310097</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tima -- (State: Suhaj)">
+			<state>Suhaj</state>
+			<latitude>269202</latitude>
+			<longitude>314444</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tor -- (State: Janub Sina)">
+			<state>Janub Sina</state>
+			<latitude>282488</latitude>
+			<longitude>336255</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toshka -- (State: Aswan)">
+			<state>Aswan</state>
+			<latitude>225116</latitude>
+			<longitude>318949</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toukh -- (State: Al Qalyubiyah)">
+			<state>Al Qalyubiyah</state>
+			<latitude>303599</latitude>
+			<longitude>311697</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verdan Bridge -- (State: Al Isma`iliyah)">
+			<state>Al Isma`iliyah</state>
+			<latitude>306951</latitude>
+			<longitude>323451</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vetus Hydreuma -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>240618</latitude>
+			<longitude>353118</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria College Halt -- (State: Al Iskandariyah)">
+			<state>Al Iskandariyah</state>
+			<latitude>312615</latitude>
+			<longitude>299932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victorieuse Rock -- (State: Matruh)">
+			<state>Matruh</state>
+			<latitude>309951</latitude>
+			<longitude>294118</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xois -- (State: Kafr ash Shaykh)">
+			<state>Kafr ash Shaykh</state>
+			<latitude>310987</latitude>
+			<longitude>309589</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yasdenia -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>309621</latitude>
+			<longitude>300788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yihya -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>311832</latitude>
+			<longitude>301157</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yotvat Island">
+			<state></state>
+			<latitude>279454</latitude>
+			<longitude>345788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yusri Canal -- (State: Al Buhayrah)">
+			<state>Al Buhayrah</state>
+			<latitude>310788</latitude>
+			<longitude>300788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zagazig -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>305789</latitude>
+			<longitude>315122</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamalek -- (State: Al Qahirah)">
+			<state>Al Qahirah</state>
+			<latitude>300789</latitude>
+			<longitude>312289</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaqaziq -- (State: Ash Sharqiyah)">
+			<state>Ash Sharqiyah</state>
+			<latitude>306036</latitude>
+			<longitude>315225</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeit Bay -- (State: Al Bahr al Ahmar)">
+			<state>Al Bahr al Ahmar</state>
+			<latitude>278122</latitude>
+			<longitude>335289</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zifta -- (State: Al Gharbiyah)">
+			<state>Al Gharbiyah</state>
+			<latitude>307258</latitude>
+			<longitude>312561</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

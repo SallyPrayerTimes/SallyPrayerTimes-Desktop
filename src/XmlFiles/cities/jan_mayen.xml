@@ -1,0 +1,1160 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Jan Mayen">
+		<city name="7 Hollander Bucht">
+			<state></state>
+			<latitude>709263</latitude>
+			<longitude>-89045</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alkevika">
+			<state></state>
+			<latitude>709097</latitude>
+			<longitude>-87403</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antarcticberget">
+			<state></state>
+			<latitude>709600</latitude>
+			<longitude>-87386</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arnethkrateret">
+			<state></state>
+			<latitude>708689</latitude>
+			<longitude>-90317</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Askheimtoppen">
+			<state></state>
+			<latitude>709408</latitude>
+			<longitude>-87472</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Austbukta">
+			<state></state>
+			<latitude>711194</latitude>
+			<longitude>-79786</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Austkapp">
+			<state></state>
+			<latitude>711550</latitude>
+			<longitude>-79234</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Austre Sorbremorena">
+			<state></state>
+			<latitude>710122</latitude>
+			<longitude>-81847</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Basissletta">
+			<state></state>
+			<latitude>709931</latitude>
+			<longitude>-84069</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batvika">
+			<state></state>
+			<latitude>709242</latitude>
+			<longitude>-87110</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Rudson">
+			<state></state>
+			<latitude>709432</latitude>
+			<longitude>-88609</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carl Stephantoppen">
+			<state></state>
+			<latitude>709485</latitude>
+			<longitude>-87195</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charcotbreen">
+			<state></state>
+			<latitude>710899</latitude>
+			<longitude>-82729</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clandeboy Creek">
+			<state></state>
+			<latitude>711313</latitude>
+			<longitude>-79607</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clarkebreen">
+			<state></state>
+			<latitude>710807</latitude>
+			<longitude>-80790</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cross Cape">
+			<state></state>
+			<latitude>710443</latitude>
+			<longitude>-84504</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danielssenkrateret">
+			<state></state>
+			<latitude>709969</latitude>
+			<longitude>-85186</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Devolddjupet">
+			<state></state>
+			<latitude>707767</latitude>
+			<longitude>-76567</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Domen">
+			<state></state>
+			<latitude>710083</latitude>
+			<longitude>-84883</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dotten">
+			<state></state>
+			<latitude>711058</latitude>
+			<longitude>-81133</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Draugen">
+			<state></state>
+			<latitude>708828</latitude>
+			<longitude>-87889</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Driftwood Bay">
+			<state></state>
+			<latitude>709639</latitude>
+			<longitude>-85419</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dufferinbreen">
+			<state></state>
+			<latitude>711167</latitude>
+			<longitude>-80208</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dvergane">
+			<state></state>
+			<latitude>710778</latitude>
+			<longitude>-81453</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egg Bluff">
+			<state></state>
+			<latitude>709809</latitude>
+			<longitude>-83816</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eggoybukta">
+			<state></state>
+			<latitude>709768</latitude>
+			<longitude>-84141</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eggoykalven">
+			<state></state>
+			<latitude>709773</latitude>
+			<longitude>-83852</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eggoyodden">
+			<state></state>
+			<latitude>709782</latitude>
+			<longitude>-83799</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekerolddalen">
+			<state></state>
+			<latitude>710129</latitude>
+			<longitude>-83041</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elizabethtoppen">
+			<state></state>
+			<latitude>708898</latitude>
+			<longitude>-88699</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Engelsbukta">
+			<state></state>
+			<latitude>709673</latitude>
+			<longitude>-87482</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eskkrateret">
+			<state></state>
+			<latitude>710048</latitude>
+			<longitude>-82852</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flykollen">
+			<state></state>
+			<latitude>708858</latitude>
+			<longitude>-88106</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fotherbybreen">
+			<state></state>
+			<latitude>710446</latitude>
+			<longitude>-80823</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Franz Josef Spitze">
+			<state></state>
+			<latitude>708960</latitude>
+			<longitude>-88626</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frielebreen">
+			<state></state>
+			<latitude>711102</latitude>
+			<longitude>-80231</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fyrgangen">
+			<state></state>
+			<latitude>708721</latitude>
+			<longitude>-88051</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fyrtaarnet">
+			<state></state>
+			<latitude>708691</latitude>
+			<longitude>-88081</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gjuvbreen">
+			<state></state>
+			<latitude>711261</latitude>
+			<longitude>-81539</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gjuvtinden">
+			<state></state>
+			<latitude>711020</latitude>
+			<longitude>-81419</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gouwernaerbaen">
+			<state></state>
+			<latitude>709722</latitude>
+			<longitude>-83233</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Greenland Sea">
+			<state></state>
+			<latitude>750103</latitude>
+			<longitude>-99897</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Griegbreen">
+			<state></state>
+			<latitude>710884</latitude>
+			<longitude>-80797</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gronberg">
+			<state></state>
+			<latitude>710120</latitude>
+			<longitude>-81503</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gronkapp">
+			<state></state>
+			<latitude>709825</latitude>
+			<longitude>-86875</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guinea Bucht">
+			<state></state>
+			<latitude>708917</latitude>
+			<longitude>-90028</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haakon VII Toppen">
+			<state></state>
+			<latitude>710912</latitude>
+			<longitude>-81693</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakluytoppen">
+			<state></state>
+			<latitude>710990</latitude>
+			<longitude>-81310</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamarbreen">
+			<state></state>
+			<latitude>711110</latitude>
+			<longitude>-82204</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamarskaftet">
+			<state></state>
+			<latitude>711032</latitude>
+			<longitude>-82015</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Helleryggen">
+			<state></state>
+			<latitude>710362</latitude>
+			<longitude>-81032</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Himmelstigen">
+			<state></state>
+			<latitude>710990</latitude>
+			<longitude>-80538</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hjelmen">
+			<state></state>
+			<latitude>708446</latitude>
+			<longitude>-89402</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoppberget">
+			<state></state>
+			<latitude>710829</latitude>
+			<longitude>-79888</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hornbaekbukta">
+			<state></state>
+			<latitude>708696</latitude>
+			<longitude>-88540</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoyberg">
+			<state></state>
+			<latitude>708701</latitude>
+			<longitude>-90615</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isbrodden">
+			<state></state>
+			<latitude>711177</latitude>
+			<longitude>-81764</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isneset">
+			<state></state>
+			<latitude>711536</latitude>
+			<longitude>-81481</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iversengrunnen">
+			<state></state>
+			<latitude>707316</latitude>
+			<longitude>-88089</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jameson Bukt">
+			<state></state>
+			<latitude>709823</latitude>
+			<longitude>-83466</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan Mayen">
+			<state></state>
+			<latitude>709939</latitude>
+			<longitude>-84894</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan Mayenbanken">
+			<state></state>
+			<latitude>705106</latitude>
+			<longitude>-84894</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jettegryteodden">
+			<state></state>
+			<latitude>709081</latitude>
+			<longitude>-89680</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jorisbreen">
+			<state></state>
+			<latitude>711106</latitude>
+			<longitude>-82561</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jutulen">
+			<state></state>
+			<latitude>711064</latitude>
+			<longitude>-81511</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jutulslottet">
+			<state></state>
+			<latitude>711184</latitude>
+			<longitude>-81527</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kreklinghaug">
+			<state></state>
+			<latitude>710013</latitude>
+			<longitude>-82362</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laguneflya">
+			<state></state>
+			<latitude>709966</latitude>
+			<longitude>-84295</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagunevollen">
+			<state></state>
+			<latitude>709791</latitude>
+			<longitude>-85167</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Langbakken">
+			<state></state>
+			<latitude>711941</latitude>
+			<longitude>-90225</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lavastraumen">
+			<state></state>
+			<latitude>709314</latitude>
+			<longitude>-88306</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leina">
+			<state></state>
+			<latitude>708441</latitude>
+			<longitude>-84892</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lordnuten">
+			<state></state>
+			<latitude>711200</latitude>
+			<longitude>-80461</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lunckekjegla">
+			<state></state>
+			<latitude>709480</latitude>
+			<longitude>-87417</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lundquistflaket">
+			<state></state>
+			<latitude>710441</latitude>
+			<longitude>-89892</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makeskjera">
+			<state></state>
+			<latitude>708770</latitude>
+			<longitude>-87908</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Margarethhytta">
+			<state></state>
+			<latitude>709137</latitude>
+			<longitude>-89310</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mary Muss Bucht">
+			<state></state>
+			<latitude>710109</latitude>
+			<longitude>-84949</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Merganserskjeret">
+			<state></state>
+			<latitude>708406</latitude>
+			<longitude>-90438</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Midtfjellet">
+			<state></state>
+			<latitude>709267</latitude>
+			<longitude>-87819</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minnarenna">
+			<state></state>
+			<latitude>711109</latitude>
+			<longitude>-85391</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mohnberget">
+			<state></state>
+			<latitude>710042</latitude>
+			<longitude>-84738</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mount Hackluyt">
+			<state></state>
+			<latitude>710942</latitude>
+			<longitude>-81558</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mount Hann">
+			<state></state>
+			<latitude>709637</latitude>
+			<longitude>-86422</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Munken">
+			<state></state>
+			<latitude>710965</latitude>
+			<longitude>-80713</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nieders Sud Spitze">
+			<state></state>
+			<latitude>708885</latitude>
+			<longitude>-90398</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nord Lagune">
+			<state></state>
+			<latitude>710118</latitude>
+			<longitude>-84626</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nord-Jan">
+			<state></state>
+			<latitude>710777</latitude>
+			<longitude>-81557</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nordahl Grieglia">
+			<state></state>
+			<latitude>711104</latitude>
+			<longitude>-83179</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nordkapp">
+			<state></state>
+			<latitude>711196</latitude>
+			<longitude>-83087</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nordre Hollendarbaen">
+			<state></state>
+			<latitude>707021</latitude>
+			<longitude>-88448</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nordvbakken">
+			<state></state>
+			<latitude>711943</latitude>
+			<longitude>-81057</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nova">
+			<state></state>
+			<latitude>709568</latitude>
+			<longitude>-87540</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oienaksla">
+			<state></state>
+			<latitude>710564</latitude>
+			<longitude>-79933</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olsbu">
+			<state></state>
+			<latitude>709483</latitude>
+			<longitude>-88008</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ostliche Kreuz Bucht">
+			<state></state>
+			<latitude>711611</latitude>
+			<longitude>-80889</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palfty Krater">
+			<state></state>
+			<latitude>710376</latitude>
+			<longitude>-82996</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petersenbreen">
+			<state></state>
+			<latitude>710640</latitude>
+			<longitude>-80285</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pockkrateret">
+			<state></state>
+			<latitude>708884</latitude>
+			<longitude>-89519</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poolsenboot Klippe">
+			<state></state>
+			<latitude>709359</latitude>
+			<longitude>-86452</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Presidentsteinen">
+			<state></state>
+			<latitude>709984</latitude>
+			<longitude>-81735</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prins Haralds Bre">
+			<state></state>
+			<latitude>711043</latitude>
+			<longitude>-80455</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pukkelryggen">
+			<state></state>
+			<latitude>709873</latitude>
+			<longitude>-85463</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasstupet">
+			<state></state>
+			<latitude>708753</latitude>
+			<longitude>-88600</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Revodden">
+			<state></state>
+			<latitude>709222</latitude>
+			<longitude>-89286</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Richterkrateret">
+			<state></state>
+			<latitude>708820</latitude>
+			<longitude>-90308</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ringkollen">
+			<state></state>
+			<latitude>709200</latitude>
+			<longitude>-88394</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Risen">
+			<state></state>
+			<latitude>710808</latitude>
+			<longitude>-81311</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ronden">
+			<state></state>
+			<latitude>708447</latitude>
+			<longitude>-90053</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooberg">
+			<state></state>
+			<latitude>709322</latitude>
+			<longitude>-88892</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rorenryggen">
+			<state></state>
+			<latitude>711447</latitude>
+			<longitude>-85886</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roysflya">
+			<state></state>
+			<latitude>709947</latitude>
+			<longitude>-83386</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rudolftoppen">
+			<state></state>
+			<latitude>709022</latitude>
+			<longitude>-88611</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rylandt Rheydt Krateret">
+			<state></state>
+			<latitude>710845</latitude>
+			<longitude>-82967</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sarsbanken">
+			<state></state>
+			<latitude>708782</latitude>
+			<longitude>-75718</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sarskrateret">
+			<state></state>
+			<latitude>711609</latitude>
+			<longitude>-79621</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Scottlia">
+			<state></state>
+			<latitude>710832</latitude>
+			<longitude>-83810</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sigurdbreen">
+			<state></state>
+			<latitude>711293</latitude>
+			<longitude>-80016</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Skjoldkollen">
+			<state></state>
+			<latitude>708551</latitude>
+			<longitude>-89466</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Skrukkefjell">
+			<state></state>
+			<latitude>708782</latitude>
+			<longitude>-88885</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Slettfjellet">
+			<state></state>
+			<latitude>709659</latitude>
+			<longitude>-86729</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Snorabben">
+			<state></state>
+			<latitude>710490</latitude>
+			<longitude>-81404</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Solheimfjell">
+			<state></state>
+			<latitude>708659</latitude>
+			<longitude>-89299</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soraustkapp">
+			<state></state>
+			<latitude>710329</latitude>
+			<longitude>-79777</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sorbreen">
+			<state></state>
+			<latitude>710296</latitude>
+			<longitude>-81854</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sorkappgrunnen">
+			<state></state>
+			<latitude>708173</latitude>
+			<longitude>-89732</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sorlaguna">
+			<state></state>
+			<latitude>709826</latitude>
+			<longitude>-85296</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soyla">
+			<state></state>
+			<latitude>709854</latitude>
+			<longitude>-85424</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stimen">
+			<state></state>
+			<latitude>708948</latitude>
+			<longitude>-92718</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stimrenna">
+			<state></state>
+			<latitude>708948</latitude>
+			<longitude>-94885</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stokkoyra">
+			<state></state>
+			<latitude>709704</latitude>
+			<longitude>-86060</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Straumflaket">
+			<state></state>
+			<latitude>707129</latitude>
+			<longitude>-88924</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Straumskallen">
+			<state></state>
+			<latitude>706362</latitude>
+			<longitude>-87910</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sud Cap">
+			<state></state>
+			<latitude>708379</latitude>
+			<longitude>-89852</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Svend Foynbre">
+			<state></state>
+			<latitude>711429</latitude>
+			<longitude>-81002</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taggodden">
+			<state></state>
+			<latitude>711294</latitude>
+			<longitude>-79712</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takefjellet">
+			<state></state>
+			<latitude>708808</latitude>
+			<longitude>-88762</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Seven Rocks">
+			<state></state>
+			<latitude>708391</latitude>
+			<longitude>-90490</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Titeltbukta">
+			<state></state>
+			<latitude>709174</latitude>
+			<longitude>-89409</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tommerbukta">
+			<state></state>
+			<latitude>709558</latitude>
+			<longitude>-87620</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tornoebekken">
+			<state></state>
+			<latitude>710158</latitude>
+			<longitude>-84398</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tronfjellstupet">
+			<state></state>
+			<latitude>708924</latitude>
+			<longitude>-87906</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turn Bucht">
+			<state></state>
+			<latitude>709877</latitude>
+			<longitude>-82934</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ullerenglaguna">
+			<state></state>
+			<latitude>710000</latitude>
+			<longitude>-82319</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ullerengsanden">
+			<state></state>
+			<latitude>709989</latitude>
+			<longitude>-82400</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ullringbukta">
+			<state></state>
+			<latitude>708564</latitude>
+			<longitude>-89116</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vakta">
+			<state></state>
+			<latitude>711332</latitude>
+			<longitude>-82771</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vassbergtjorna">
+			<state></state>
+			<latitude>710193</latitude>
+			<longitude>-80724</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vesle Vedbukta">
+			<state></state>
+			<latitude>709376</latitude>
+			<longitude>-86915</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vesledjupet">
+			<state></state>
+			<latitude>711951</latitude>
+			<longitude>-86882</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vestisen">
+			<state></state>
+			<latitude>710949</latitude>
+			<longitude>-82421</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vestre Kross Bukt">
+			<state></state>
+			<latitude>710629</latitude>
+			<longitude>-84293</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vestre Sorbremorena">
+			<state></state>
+			<latitude>710146</latitude>
+			<longitude>-82085</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vogel Saule">
+			<state></state>
+			<latitude>709251</latitude>
+			<longitude>-89335</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vogt Crater">
+			<state></state>
+			<latitude>710193</latitude>
+			<longitude>-83207</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voringenkrateret">
+			<state></state>
+			<latitude>708565</latitude>
+			<longitude>-90076</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulkanlia">
+			<state></state>
+			<latitude>710199</latitude>
+			<longitude>-82676</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wallross Gat">
+			<state></state>
+			<latitude>709786</latitude>
+			<longitude>-86881</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wardbreen">
+			<state></state>
+			<latitude>710388</latitude>
+			<longitude>-81153</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Jan Mayen Ridge">
+			<state></state>
+			<latitude>710119</latitude>
+			<longitude>-129881</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wexelskrateret">
+			<state></state>
+			<latitude>710472</latitude>
+			<longitude>-82898</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weyprechtbreen">
+			<state></state>
+			<latitude>711263</latitude>
+			<longitude>-81750</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wildberget">
+			<state></state>
+			<latitude>710105</latitude>
+			<longitude>-84231</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willebreen">
+			<state></state>
+			<latitude>710769</latitude>
+			<longitude>-80848</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youngs Foreland">
+			<state></state>
+			<latitude>711699</latitude>
+			<longitude>-79421</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

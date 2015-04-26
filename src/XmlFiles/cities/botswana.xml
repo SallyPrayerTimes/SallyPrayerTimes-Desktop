@@ -1,0 +1,2189 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Botswana">
+		<city name="Ad Ao Island">
+			<state></state>
+			<latitude>-193903</latitude>
+			<longitude>234264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adjutant Vley">
+			<state></state>
+			<latitude>-206570</latitude>
+			<longitude>215264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aha">
+			<state></state>
+			<latitude>-197736</latitude>
+			<longitude>211097</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ai Ao Island">
+			<state></state>
+			<latitude>-195570</latitude>
+			<longitude>229430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aphiri">
+			<state></state>
+			<latitude>-225403</latitude>
+			<longitude>275430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Araruamis">
+			<state></state>
+			<latitude>-220070</latitude>
+			<longitude>206930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Artesia">
+			<state></state>
+			<latitude>-240403</latitude>
+			<longitude>263430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atholl Holme -- (State: South East)">
+			<state>South East</state>
+			<latitude>-247409</latitude>
+			<longitude>258853</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Babusi -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246683</latitude>
+			<longitude>259267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bachuhura Vlei">
+			<state></state>
+			<latitude>-218569</latitude>
+			<longitude>258265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Badungwe">
+			<state></state>
+			<latitude>-232402</latitude>
+			<longitude>270265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baralong Farms">
+			<state></state>
+			<latitude>-256569</latitude>
+			<longitude>255098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bikwe Hill">
+			<state></state>
+			<latitude>-226902</latitude>
+			<longitude>269265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bobo Island">
+			<state></state>
+			<latitude>-196569</latitude>
+			<longitude>231098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bobonong">
+			<state></state>
+			<latitude>-219569</latitude>
+			<longitude>283431</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bogo Gobo">
+			<state></state>
+			<latitude>-266402</latitude>
+			<longitude>219265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bohelo Batwana Pan">
+			<state></state>
+			<latitude>-238735</latitude>
+			<longitude>214431</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boitshoko -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246516</latitude>
+			<longitude>259359</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bokaa">
+			<state></state>
+			<latitude>-244402</latitude>
+			<longitude>260265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bokspits">
+			<state></state>
+			<latitude>-268902</latitude>
+			<longitude>207098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bokwi Island">
+			<state></state>
+			<latitude>-196569</latitude>
+			<longitude>231765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bonwapitse">
+			<state></state>
+			<latitude>-232402</latitude>
+			<longitude>267598</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Borakanelo -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246494</latitude>
+			<longitude>259259</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Borokwe Island">
+			<state></state>
+			<latitude>-194569</latitude>
+			<longitude>232765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boshwelakhosi">
+			<state></state>
+			<latitude>-244235</latitude>
+			<longitude>259598</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Botlhuku Pan">
+			<state></state>
+			<latitude>-243235</latitude>
+			<longitude>217431</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Botswelelo -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246469</latitude>
+			<longitude>259331</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Breslaudrif">
+			<state></state>
+			<latitude>-222402</latitude>
+			<longitude>290265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Broadhurst -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246310</latitude>
+			<longitude>259309</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buitsivango">
+			<state></state>
+			<latitude>-218902</latitude>
+			<longitude>213931</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Central District -- (State: Central)">
+			<state>Central</state>
+			<latitude>-219901</latitude>
+			<longitude>260099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chadibi">
+			<state></state>
+			<latitude>-229734</latitude>
+			<longitude>275599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chainyane Pan">
+			<state></state>
+			<latitude>-255068</latitude>
+			<longitude>253266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chakahire">
+			<state></state>
+			<latitude>-184401</latitude>
+			<longitude>212266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chakamakwe Pan">
+			<state></state>
+			<latitude>-239401</latitude>
+			<longitude>222099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chakane Pan">
+			<state></state>
+			<latitude>-227234</latitude>
+			<longitude>270099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalmers Well">
+			<state></state>
+			<latitude>-268234</latitude>
+			<longitude>213599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chamka">
+			<state></state>
+			<latitude>-194901</latitude>
+			<longitude>222932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chanokha Drift Rapids">
+			<state></state>
+			<latitude>-201568</latitude>
+			<longitude>236432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chawe Pan">
+			<state></state>
+			<latitude>-240401</latitude>
+			<longitude>220599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chichales">
+			<state></state>
+			<latitude>-194068</latitude>
+			<longitude>224599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiro Pan">
+			<state></state>
+			<latitude>-194568</latitude>
+			<longitude>239432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chobe District -- (State: (BC02))">
+			<state>(BC02)</state>
+			<latitude>-184901</latitude>
+			<longitude>250099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chobe National Park">
+			<state></state>
+			<latitude>-186568</latitude>
+			<longitude>245099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chokana">
+			<state></state>
+			<latitude>-225568</latitude>
+			<longitude>277932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chor-he-samuke">
+			<state></state>
+			<latitude>-207234</latitude>
+			<longitude>244266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuaning">
+			<state></state>
+			<latitude>-255401</latitude>
+			<longitude>249599</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuaning Pan">
+			<state></state>
+			<latitude>-255068</latitude>
+			<longitude>249932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuchwa">
+			<state></state>
+			<latitude>-241568</latitude>
+			<longitude>214099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuchwani Pan">
+			<state></state>
+			<latitude>-241401</latitude>
+			<longitude>214266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuela">
+			<state></state>
+			<latitude>-230068</latitude>
+			<longitude>272266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chukudu Kraal">
+			<state></state>
+			<latitude>-224401</latitude>
+			<longitude>233932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chukudu Pan">
+			<state></state>
+			<latitude>-224068</latitude>
+			<longitude>234099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chukukana">
+			<state></state>
+			<latitude>-248401</latitude>
+			<longitude>255266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chukutsa Pan">
+			<state></state>
+			<latitude>-212734</latitude>
+			<longitude>250266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuma">
+			<state></state>
+			<latitude>-206401</latitude>
+			<longitude>249266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chwainyana Hill">
+			<state></state>
+			<latitude>-255901</latitude>
+			<longitude>249932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chwapong Hills">
+			<state></state>
+			<latitude>-225734</latitude>
+			<longitude>275099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chwarelangwana">
+			<state></state>
+			<latitude>-195734</latitude>
+			<longitude>232099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chwete Kop">
+			<state></state>
+			<latitude>-244568</latitude>
+			<longitude>256266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cream of Tartar Pan">
+			<state></state>
+			<latitude>-188068</latitude>
+			<longitude>258266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cresta Lodge -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246726</latitude>
+			<longitude>259188</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crocodile Pools -- (State: South East)">
+			<state>South East</state>
+			<latitude>-247409</latitude>
+			<longitude>257802</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cwaing">
+			<state></state>
+			<latitude>-229734</latitude>
+			<longitude>268766</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damara">
+			<state></state>
+			<latitude>-220900</latitude>
+			<longitude>224600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dauga">
+			<state></state>
+			<latitude>-207567</latitude>
+			<longitude>244100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deception">
+			<state></state>
+			<latitude>-214733</latitude>
+			<longitude>238767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deka">
+			<state></state>
+			<latitude>-180567</latitude>
+			<longitude>267100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dekar">
+			<state></state>
+			<latitude>-215233</latitude>
+			<longitude>219433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Demarara">
+			<state></state>
+			<latitude>-204067</latitude>
+			<longitude>227600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Denman Rural Training Center -- (State: South East)">
+			<state>South East</state>
+			<latitude>-245714</latitude>
+			<longitude>259514</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Detoie">
+			<state></state>
+			<latitude>-215400</latitude>
+			<longitude>256767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dibete">
+			<state></state>
+			<latitude>-237400</latitude>
+			<longitude>264933</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dibiti Kop">
+			<state></state>
+			<latitude>-237733</latitude>
+			<longitude>265433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dichaobe Ramokwena">
+			<state></state>
+			<latitude>-184733</latitude>
+			<longitude>219933</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dikabi">
+			<state></state>
+			<latitude>-224067</latitude>
+			<longitude>272267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dikabia Spruit">
+			<state></state>
+			<latitude>-225233</latitude>
+			<longitude>272767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dikomu di Kai">
+			<state></state>
+			<latitude>-248567</latitude>
+			<longitude>246267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dikongyane">
+			<state></state>
+			<latitude>-242733</latitude>
+			<longitude>252767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dilalelo -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246542</latitude>
+			<longitude>259306</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dilichwane Kop">
+			<state></state>
+			<latitude>-222400</latitude>
+			<longitude>272433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dimaphuti">
+			<state></state>
+			<latitude>-222733</latitude>
+			<longitude>288100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dinokana">
+			<state></state>
+			<latitude>-229067</latitude>
+			<longitude>275767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diremogolo Hill -- (State: Kweneng)">
+			<state>Kweneng</state>
+			<latitude>-246325</latitude>
+			<longitude>258108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dirolos">
+			<state></state>
+			<latitude>-201067</latitude>
+			<longitude>231767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ditauana">
+			<state></state>
+			<latitude>-219233</latitude>
+			<longitude>269600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ditsinane">
+			<state></state>
+			<latitude>-214067</latitude>
+			<longitude>258433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dobe">
+			<state></state>
+			<latitude>-195567</latitude>
+			<longitude>210433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dodo">
+			<state></state>
+			<latitude>-187400</latitude>
+			<longitude>254100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Domtchetchu Pan">
+			<state></state>
+			<latitude>-192567</latitude>
+			<longitude>260767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dotama Pan">
+			<state></state>
+			<latitude>-197233</latitude>
+			<longitude>264433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dow Meer">
+			<state></state>
+			<latitude>-212400</latitude>
+			<longitude>246767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Draai Pan">
+			<state></state>
+			<latitude>-224400</latitude>
+			<longitude>219100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dugamcha">
+			<state></state>
+			<latitude>-183900</latitude>
+			<longitude>215767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dukwe">
+			<state></state>
+			<latitude>-205733</latitude>
+			<longitude>264267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duma">
+			<state></state>
+			<latitude>-187400</latitude>
+			<longitude>227767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dumadumana -- (State: Kweneng)">
+			<state>Kweneng</state>
+			<latitude>-245772</latitude>
+			<longitude>258844</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dunkaka">
+			<state></state>
+			<latitude>-222233</latitude>
+			<longitude>226933</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dutlwe">
+			<state></state>
+			<latitude>-239733</latitude>
+			<longitude>239100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dwaha">
+			<state></state>
+			<latitude>-209233</latitude>
+			<longitude>246600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dzivanini">
+			<state></state>
+			<latitude>-198900</latitude>
+			<longitude>265100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dzivanini Pan">
+			<state></state>
+			<latitude>-197733</latitude>
+			<longitude>265767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elebe">
+			<state></state>
+			<latitude>-225899</latitude>
+			<longitude>279768</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elephant Vlei">
+			<state></state>
+			<latitude>-189566</latitude>
+			<longitude>218268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fefden">
+			<state></state>
+			<latitude>-267898</latitude>
+			<longitude>209102</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Five Dunes">
+			<state></state>
+			<latitude>-268231</latitude>
+			<longitude>210102</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foley">
+			<state></state>
+			<latitude>-216731</latitude>
+			<longitude>273269</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Forest Hill -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246787</latitude>
+			<longitude>258708</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Francistown">
+			<state></state>
+			<latitude>-211565</latitude>
+			<longitude>275269</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Francistown District -- (State: North East)">
+			<state>North East</state>
+			<latitude>-209898</latitude>
+			<longitude>275102</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gabane -- (State: Kweneng)">
+			<state>Kweneng</state>
+			<latitude>-246564</latitude>
+			<longitude>257925</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gabasari Island">
+			<state></state>
+			<latitude>-206230</latitude>
+			<longitude>251936</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaborone -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246361</latitude>
+			<longitude>259222</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaborone Block -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246564</latitude>
+			<longitude>259270</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaborone Dam -- (State: South East)">
+			<state>South East</state>
+			<latitude>-247080</latitude>
+			<longitude>259050</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaborone Industrial Site -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246605</latitude>
+			<longitude>259147</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gerufa">
+			<state></state>
+			<latitude>-191897</latitude>
+			<longitude>259603</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghanziland">
+			<state></state>
+			<latitude>-214897</latitude>
+			<longitude>215103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Great Makalakari Lake">
+			<state></state>
+			<latitude>-206564</latitude>
+			<longitude>256770</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gukwa Pan">
+			<state></state>
+			<latitude>-231730</latitude>
+			<longitude>209603</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habakobis">
+			<state></state>
+			<latitude>-220396</latitude>
+			<longitude>206437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habangan">
+			<state></state>
+			<latitude>-205563</latitude>
+			<longitude>275604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haina">
+			<state></state>
+			<latitude>-207063</latitude>
+			<longitude>234771</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakobis Pan">
+			<state></state>
+			<latitude>-204063</latitude>
+			<longitude>210437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hendricks Vlei">
+			<state></state>
+			<latitude>-191229</latitude>
+			<longitude>259104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hildavale">
+			<state></state>
+			<latitude>-253563</latitude>
+			<longitude>256271</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Honye">
+			<state></state>
+			<latitude>-249396</latitude>
+			<longitude>248104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hukuntsi">
+			<state></state>
+			<latitude>-239896</latitude>
+			<longitude>217604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hunghukwe">
+			<state></state>
+			<latitude>-234229</latitude>
+			<longitude>212604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikwaka">
+			<state></state>
+			<latitude>-188895</latitude>
+			<longitude>223772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inkangwe">
+			<state></state>
+			<latitude>-240062</latitude>
+			<longitude>258105</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inkonane Pan">
+			<state></state>
+			<latitude>-219062</latitude>
+			<longitude>258938</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ironstone Kopje">
+			<state></state>
+			<latitude>-252228</latitude>
+			<longitude>240938</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jakops">
+			<state></state>
+			<latitude>-210227</latitude>
+			<longitude>243773</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janeng">
+			<state></state>
+			<latitude>-254061</latitude>
+			<longitude>255606</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerewa Pan">
+			<state></state>
+			<latitude>-194227</latitude>
+			<longitude>261773</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joani">
+			<state></state>
+			<latitude>-201227</latitude>
+			<longitude>245106</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jolleys Pan">
+			<state></state>
+			<latitude>-188227</latitude>
+			<longitude>258439</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joverega">
+			<state></state>
+			<latitude>-191227</latitude>
+			<longitude>242606</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jwaneng">
+			<state></state>
+			<latitude>-245727</latitude>
+			<longitude>247106</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kang">
+			<state></state>
+			<latitude>-237393</latitude>
+			<longitude>228440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labani">
+			<state></state>
+			<latitude>-202392</latitude>
+			<longitude>240775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lechomos">
+			<state></state>
+			<latitude>-189392</latitude>
+			<longitude>228441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lefatsis">
+			<state></state>
+			<latitude>-186559</latitude>
+			<longitude>220775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leftka">
+			<state></state>
+			<latitude>-247725</latitude>
+			<longitude>256775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Legwe">
+			<state></state>
+			<latitude>-179725</latitude>
+			<longitude>242275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lehwerane">
+			<state></state>
+			<latitude>-258392</latitude>
+			<longitude>223441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lekala">
+			<state></state>
+			<latitude>-227725</latitude>
+			<longitude>276275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lenake">
+			<state></state>
+			<latitude>-237392</latitude>
+			<longitude>245941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Letlakara">
+			<state></state>
+			<latitude>-226725</latitude>
+			<longitude>266441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Letlhajweng -- (State: Kweneng)">
+			<state>Kweneng</state>
+			<latitude>-245245</latitude>
+			<longitude>258950</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Letlhakane">
+			<state></state>
+			<latitude>-214059</latitude>
+			<longitude>255941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Letlhakeng">
+			<state></state>
+			<latitude>-240559</latitude>
+			<longitude>250441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Letsili">
+			<state></state>
+			<latitude>-219559</latitude>
+			<longitude>285275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lime Pan">
+			<state></state>
+			<latitude>-233225</latitude>
+			<longitude>257941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limone Pan">
+			<state></state>
+			<latitude>-227059</latitude>
+			<longitude>270275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limpopa Pan">
+			<state></state>
+			<latitude>-198725</latitude>
+			<longitude>263275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Little Sisuma Pan">
+			<state></state>
+			<latitude>-183392</latitude>
+			<longitude>241608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobatse">
+			<state></state>
+			<latitude>-252059</latitude>
+			<longitude>256775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobatse Block">
+			<state></state>
+			<latitude>-251559</latitude>
+			<longitude>257108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobilos">
+			<state></state>
+			<latitude>-188392</latitude>
+			<longitude>226608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lohohane Hill">
+			<state></state>
+			<latitude>-260892</latitude>
+			<longitude>223941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lohohane Pan">
+			<state></state>
+			<latitude>-261059</latitude>
+			<longitude>224275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lohoklane">
+			<state></state>
+			<latitude>-218725</latitude>
+			<longitude>257775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lokala">
+			<state></state>
+			<latitude>-239725</latitude>
+			<longitude>266941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lokerane">
+			<state></state>
+			<latitude>-248725</latitude>
+			<longitude>246775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lokhohat">
+			<state></state>
+			<latitude>-249059</latitude>
+			<longitude>257608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lokokane Pan">
+			<state></state>
+			<latitude>-219725</latitude>
+			<longitude>259108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lokwabe">
+			<state></state>
+			<latitude>-241559</latitude>
+			<longitude>218441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lolale">
+			<state></state>
+			<latitude>-246225</latitude>
+			<longitude>235275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lonetree Pan">
+			<state></state>
+			<latitude>-204392</latitude>
+			<longitude>248941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lotlakani">
+			<state></state>
+			<latitude>-250725</latitude>
+			<longitude>254441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lotsane">
+			<state></state>
+			<latitude>-226892</latitude>
+			<longitude>281775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lupani">
+			<state></state>
+			<latitude>-226059</latitude>
+			<longitude>270608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lutlhe">
+			<state></state>
+			<latitude>-239559</latitude>
+			<longitude>238275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyshuma River">
+			<state></state>
+			<latitude>-178059</latitude>
+			<longitude>252941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahalapye">
+			<state></state>
+			<latitude>-230558</latitude>
+			<longitude>268442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maun">
+			<state></state>
+			<latitude>-199724</latitude>
+			<longitude>234276</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maunatlala">
+			<state></state>
+			<latitude>-225558</latitude>
+			<longitude>275776</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Molepolole">
+			<state></state>
+			<latitude>-244058</latitude>
+			<longitude>255442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakala Tlou Pan">
+			<state></state>
+			<latitude>-241723</latitude>
+			<longitude>223610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naledi -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246707</latitude>
+			<longitude>259135</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namakha Island">
+			<state></state>
+			<latitude>-194890</latitude>
+			<longitude>235443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namasseri">
+			<state></state>
+			<latitude>-186223</latitude>
+			<longitude>221610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nami Pan">
+			<state></state>
+			<latitude>-242223</latitude>
+			<longitude>212610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namissa Drift">
+			<state></state>
+			<latitude>-204057</latitude>
+			<longitude>243777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nata">
+			<state></state>
+			<latitude>-202223</latitude>
+			<longitude>261777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="National Stadium -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246457</latitude>
+			<longitude>259438</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nekati">
+			<state></state>
+			<latitude>-200723</latitude>
+			<longitude>260277</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nemtungu Pan">
+			<state></state>
+			<latitude>-196890</latitude>
+			<longitude>264110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngamaseri">
+			<state></state>
+			<latitude>-185723</latitude>
+			<longitude>219443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngami">
+			<state></state>
+			<latitude>-204890</latitude>
+			<longitude>226777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngamiland">
+			<state></state>
+			<latitude>-204890</latitude>
+			<longitude>225110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngamiland District -- (State: North West)">
+			<state>North West</state>
+			<latitude>-199890</latitude>
+			<longitude>225110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngaru Pan">
+			<state></state>
+			<latitude>-182557</latitude>
+			<longitude>242443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nghabe">
+			<state></state>
+			<latitude>-203890</latitude>
+			<longitude>229777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngiana">
+			<state></state>
+			<latitude>-185223</latitude>
+			<longitude>214777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngoga">
+			<state></state>
+			<latitude>-193390</latitude>
+			<longitude>232610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngoma Pan">
+			<state></state>
+			<latitude>-186557</latitude>
+			<longitude>241443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngunungu Pan">
+			<state></state>
+			<latitude>-187057</latitude>
+			<longitude>240610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngwaketsi -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>-249890</latitude>
+			<longitude>250110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngwala">
+			<state></state>
+			<latitude>-204557</latitude>
+			<longitude>245277</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngwanalekau Hills">
+			<state></state>
+			<latitude>-208390</latitude>
+			<longitude>227443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngwasha Pan">
+			<state></state>
+			<latitude>-195390</latitude>
+			<longitude>261777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngwezumba">
+			<state></state>
+			<latitude>-179057</latitude>
+			<longitude>252110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Njinga">
+			<state></state>
+			<latitude>-187723</latitude>
+			<longitude>227443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nkoehaphiri -- (State: Kweneng)">
+			<state>Kweneng</state>
+			<latitude>-246140</latitude>
+			<longitude>258432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nkoyaphiri -- (State: Kweneng)">
+			<state>Kweneng</state>
+			<latitude>-246212</latitude>
+			<longitude>258424</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noang">
+			<state></state>
+			<latitude>-243390</latitude>
+			<longitude>227443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nojane">
+			<state></state>
+			<latitude>-231557</latitude>
+			<longitude>202777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nokanen">
+			<state></state>
+			<latitude>-196557</latitude>
+			<longitude>222777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northern Bechuanaland">
+			<state></state>
+			<latitude>-219890</latitude>
+			<longitude>240110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Notwani">
+			<state></state>
+			<latitude>-247390</latitude>
+			<longitude>258277</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Notwani -- (State: South East)">
+			<state>South East</state>
+			<latitude>-247009</latitude>
+			<longitude>259632</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ntabis">
+			<state></state>
+			<latitude>-200390</latitude>
+			<longitude>233777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ntwetwe Pan">
+			<state></state>
+			<latitude>-205723</latitude>
+			<longitude>255110</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nwali">
+			<state></state>
+			<latitude>-230723</latitude>
+			<longitude>202277</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nwanaeanoka">
+			<state></state>
+			<latitude>-188890</latitude>
+			<longitude>226777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nwatle">
+			<state></state>
+			<latitude>-237390</latitude>
+			<longitude>211443</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nyeruku Pan">
+			<state></state>
+			<latitude>-187390</latitude>
+			<longitude>240610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ochwe">
+			<state></state>
+			<latitude>-231556</latitude>
+			<longitude>210111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Odanakumadona">
+			<state></state>
+			<latitude>-208722</latitude>
+			<longitude>247611</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Odeake Pan">
+			<state></state>
+			<latitude>-200722</latitude>
+			<longitude>252944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okovanggo Basin">
+			<state></state>
+			<latitude>-194889</latitude>
+			<longitude>230111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okwa">
+			<state></state>
+			<latitude>-224056</latitude>
+			<longitude>219111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okwani Hill">
+			<state></state>
+			<latitude>-259556</latitude>
+			<longitude>224278</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Tati">
+			<state></state>
+			<latitude>-215056</latitude>
+			<longitude>278111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olifants Kloof">
+			<state></state>
+			<latitude>-221722</latitude>
+			<longitude>200944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omagaga">
+			<state></state>
+			<latitude>-203389</latitude>
+			<longitude>243278</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omdrai">
+			<state></state>
+			<latitude>-200722</latitude>
+			<longitude>219111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ootsi Siding">
+			<state></state>
+			<latitude>-250056</latitude>
+			<longitude>257444</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orapa">
+			<state></state>
+			<latitude>-212722</latitude>
+			<longitude>253778</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pakwe">
+			<state></state>
+			<latitude>-221888</latitude>
+			<longitude>285779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palapshwe">
+			<state></state>
+			<latitude>-225555</latitude>
+			<longitude>273112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palatswe">
+			<state></state>
+			<latitude>-225388</latitude>
+			<longitude>271445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palla Road">
+			<state></state>
+			<latitude>-233888</latitude>
+			<longitude>266779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palmiet Pan">
+			<state></state>
+			<latitude>-211555</latitude>
+			<longitude>222612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pamashaba">
+			<state></state>
+			<latitude>-224221</latitude>
+			<longitude>267779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pandamatenga">
+			<state></state>
+			<latitude>-182555</latitude>
+			<longitude>256612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Papamara">
+			<state></state>
+			<latitude>-218555</latitude>
+			<longitude>264612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Papane Hill">
+			<state></state>
+			<latitude>-244221</latitude>
+			<longitude>260945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paranatungu">
+			<state></state>
+			<latitude>-180388</latitude>
+			<longitude>242779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pataletsaba Hills">
+			<state></state>
+			<latitude>-247388</latitude>
+			<longitude>255945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Patlana">
+			<state></state>
+			<latitude>-205388</latitude>
+			<longitude>224279</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penhalonga">
+			<state></state>
+			<latitude>-213388</latitude>
+			<longitude>276945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pepani Pan">
+			<state></state>
+			<latitude>-239055</latitude>
+			<longitude>218445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pepascheem">
+			<state></state>
+			<latitude>-223055</latitude>
+			<longitude>259112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pepe">
+			<state></state>
+			<latitude>-221221</latitude>
+			<longitude>286779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phakalane Estate -- (State: South East)">
+			<state>South East</state>
+			<latitude>-245577</latitude>
+			<longitude>259948</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phala">
+			<state></state>
+			<latitude>-237388</latitude>
+			<longitude>269612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phologolo -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246405</latitude>
+			<longitude>259370</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phukumakahu">
+			<state></state>
+			<latitude>-206888</latitude>
+			<longitude>244279</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pikwe-Selibe">
+			<state></state>
+			<latitude>-220055</latitude>
+			<longitude>278445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pilane">
+			<state></state>
+			<latitude>-244388</latitude>
+			<longitude>261445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pilikwe">
+			<state></state>
+			<latitude>-227721</latitude>
+			<longitude>272445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pitsane">
+			<state></state>
+			<latitude>-254555</latitude>
+			<longitude>255945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piwaning">
+			<state></state>
+			<latitude>-221888</latitude>
+			<longitude>284945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Polontswa">
+			<state></state>
+			<latitude>-245221</latitude>
+			<longitude>204112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poto Poto Vlei">
+			<state></state>
+			<latitude>-186555</latitude>
+			<longitude>248445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puduhuche Pan">
+			<state></state>
+			<latitude>-240888</latitude>
+			<longitude>215112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puluhelo">
+			<state></state>
+			<latitude>-196888</latitude>
+			<longitude>236945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Putimolonwane Pan">
+			<state></state>
+			<latitude>-212388</latitude>
+			<longitude>248945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Radisele">
+			<state></state>
+			<latitude>-228053</latitude>
+			<longitude>270114</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raiher Vlei">
+			<state></state>
+			<latitude>-200053</latitude>
+			<longitude>221447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakabochwa">
+			<state></state>
+			<latitude>-228219</latitude>
+			<longitude>267281</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakhuna">
+			<state></state>
+			<latitude>-255553</latitude>
+			<longitude>255947</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakops">
+			<state></state>
+			<latitude>-210386</latitude>
+			<longitude>244281</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakuku">
+			<state></state>
+			<latitude>-195053</latitude>
+			<longitude>238781</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramakonami">
+			<state></state>
+			<latitude>-229219</latitude>
+			<longitude>274781</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramaphato">
+			<state></state>
+			<latitude>-247053</latitude>
+			<longitude>255281</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramaquabane">
+			<state></state>
+			<latitude>-205719</latitude>
+			<longitude>276614</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rammu">
+			<state></state>
+			<latitude>-199053</latitude>
+			<longitude>226614</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramokgwebana">
+			<state></state>
+			<latitude>-215553</latitude>
+			<longitude>280114</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramoselwana">
+			<state></state>
+			<latitude>-235886</latitude>
+			<longitude>260614</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramotsaodi">
+			<state></state>
+			<latitude>-197719</latitude>
+			<longitude>223447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramoutsa">
+			<state></state>
+			<latitude>-248553</latitude>
+			<longitude>258281</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ranchupile Pan">
+			<state></state>
+			<latitude>-254553</latitude>
+			<longitude>253447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ranku -- (State: Kweneng)">
+			<state>Kweneng</state>
+			<latitude>-246972</latitude>
+			<longitude>257808</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ranku Hill -- (State: Kweneng)">
+			<state>Kweneng</state>
+			<latitude>-246883</latitude>
+			<longitude>257739</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rantsadi">
+			<state></state>
+			<latitude>-200219</latitude>
+			<longitude>225114</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ranwanalenaus">
+			<state></state>
+			<latitude>-195719</latitude>
+			<longitude>227947</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasemong Hills -- (State: Kweneng)">
+			<state>Kweneng</state>
+			<latitude>-247344</latitude>
+			<longitude>257797</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ratolo">
+			<state></state>
+			<latitude>-226719</latitude>
+			<longitude>275947</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rempo">
+			<state></state>
+			<latitude>-247386</latitude>
+			<longitude>204447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Daukha">
+			<state></state>
+			<latitude>-201219</latitude>
+			<longitude>233947</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocks">
+			<state></state>
+			<latitude>-218386</latitude>
+			<longitude>276614</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooibock Laagte">
+			<state></state>
+			<latitude>-203219</latitude>
+			<longitude>212614</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serowe">
+			<state></state>
+			<latitude>-223718</latitude>
+			<longitude>267282</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukwi Pan">
+			<state></state>
+			<latitude>-234383</latitude>
+			<longitude>204617</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="University of Botswana -- (State: South East)">
+			<state>South East</state>
+			<latitude>-246494</latitude>
+			<longitude>259434</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaalpens Pan">
+			<state></state>
+			<latitude>-253882</latitude>
+			<longitude>252618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venter">
+			<state></state>
+			<latitude>-195882</latitude>
+			<longitude>210785</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vilnoa">
+			<state></state>
+			<latitude>-183049</latitude>
+			<longitude>214951</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vlei">
+			<state></state>
+			<latitude>-251215</latitude>
+			<longitude>254785</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vukwe">
+			<state></state>
+			<latitude>-210215</latitude>
+			<longitude>273285</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wegdraai">
+			<state></state>
+			<latitude>-253214</latitude>
+			<longitude>235119</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Werda">
+			<state></state>
+			<latitude>-252548</latitude>
+			<longitude>232952</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Werribee -- (State: South East)">
+			<state>South East</state>
+			<latitude>-247323</latitude>
+			<longitude>259177</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wheeler Vley">
+			<state></state>
+			<latitude>-206048</latitude>
+			<longitude>214286</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wia Pan">
+			<state></state>
+			<latitude>-187548</latitude>
+			<longitude>243786</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wildebeeskop">
+			<state></state>
+			<latitude>-246714</latitude>
+			<longitude>261952</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wolf Hills">
+			<state></state>
+			<latitude>-213214</latitude>
+			<longitude>275119</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xgara Island">
+			<state></state>
+			<latitude>-191380</latitude>
+			<longitude>224453</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xgi Vlei">
+			<state></state>
+			<latitude>-211880</latitude>
+			<longitude>235120</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xhane">
+			<state></state>
+			<latitude>-202213</latitude>
+			<longitude>250787</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yafhubenyana Pan">
+			<state></state>
+			<latitude>-200712</latitude>
+			<longitude>255288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yomyu Vlei">
+			<state></state>
+			<latitude>-199712</latitude>
+			<longitude>214788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zebra Vlei">
+			<state></state>
+			<latitude>-190045</latitude>
+			<longitude>215955</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zonye Pan">
+			<state></state>
+			<latitude>-237878</latitude>
+			<longitude>212622</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuni">
+			<state></state>
+			<latitude>-239045</latitude>
+			<longitude>235955</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuwe">
+			<state></state>
+			<latitude>-230378</latitude>
+			<longitude>248455</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zweizwe">
+			<state></state>
+			<latitude>-185878</latitude>
+			<longitude>243789</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

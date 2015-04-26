@@ -1,0 +1,558 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="East Timor">
+		<city name="Bacau">
+			<state></state>
+			<latitude>-84613</latitude>
+			<longitude>1264681</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dili">
+			<state></state>
+			<latitude>-85486</latitude>
+			<longitude>1255836</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecapo">
+			<state></state>
+			<latitude>-86682</latitude>
+			<longitude>1253826</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eduquele">
+			<state></state>
+			<latitude>-86071</latitude>
+			<longitude>1265320</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ejomenu">
+			<state></state>
+			<latitude>-94316</latitude>
+			<longitude>1243132</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elomar">
+			<state></state>
+			<latitude>-86991</latitude>
+			<longitude>1268384</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erbean">
+			<state></state>
+			<latitude>-88391</latitude>
+			<longitude>1255507</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ergoa">
+			<state></state>
+			<latitude>-86732</latitude>
+			<longitude>1253748</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ergoi">
+			<state></state>
+			<latitude>-87299</latitude>
+			<longitude>1254604</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erhetu">
+			<state></state>
+			<latitude>-88243</latitude>
+			<longitude>1255304</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erito">
+			<state></state>
+			<latitude>-86424</latitude>
+			<longitude>1251815</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ermera">
+			<state></state>
+			<latitude>-87421</latitude>
+			<longitude>1254070</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ernaro">
+			<state></state>
+			<latitude>-88318</latitude>
+			<longitude>1256701</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eroho">
+			<state></state>
+			<latitude>-87210</latitude>
+			<longitude>1253918</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esloso">
+			<state></state>
+			<latitude>-86674</latitude>
+			<longitude>1252451</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etevata">
+			<state></state>
+			<latitude>-86857</latitude>
+			<longitude>1268223</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilalein">
+			<state></state>
+			<latitude>-86892</latitude>
+			<longitude>1265802</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilatkora">
+			<state></state>
+			<latitude>-89151</latitude>
+			<longitude>1253999</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilicoa">
+			<state></state>
+			<latitude>-85981</latitude>
+			<longitude>1270149</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilimbaba">
+			<state></state>
+			<latitude>-85126</latitude>
+			<longitude>1259122</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilpo">
+			<state></state>
+			<latitude>-91248</latitude>
+			<longitude>1252177</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inur Gouilo">
+			<state></state>
+			<latitude>-85787</latitude>
+			<longitude>1253211</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inur Kemaledegana">
+			<state></state>
+			<latitude>-85945</latitude>
+			<longitude>1252322</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inur Kliseilu">
+			<state></state>
+			<latitude>-85692</latitude>
+			<longitude>1253624</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inur Siailo">
+			<state></state>
+			<latitude>-85928</latitude>
+			<longitude>1252619</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ioro">
+			<state></state>
+			<latitude>-83887</latitude>
+			<longitude>1272611</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ira Lalaro">
+			<state></state>
+			<latitude>-84395</latitude>
+			<longitude>1271438</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irabere Rivier">
+			<state></state>
+			<latitude>-87459</latitude>
+			<longitude>1267522</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iralafai">
+			<state></state>
+			<latitude>-83376</latitude>
+			<longitude>1269974</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iraosso">
+			<state></state>
+			<latitude>-85884</latitude>
+			<longitude>1266744</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaco">
+			<state></state>
+			<latitude>-84144</latitude>
+			<longitude>1273356</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jembatankik">
+			<state></state>
+			<latitude>-85333</latitude>
+			<longitude>1256834</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimelai">
+			<state></state>
+			<latitude>-90708</latitude>
+			<longitude>1252750</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maliana">
+			<state></state>
+			<latitude>-89808</latitude>
+			<longitude>1252306</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qeorema">
+			<state></state>
+			<latitude>-88715</latitude>
+			<longitude>1255474</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queleborouai">
+			<state></state>
+			<latitude>-85734</latitude>
+			<longitude>1263910</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quelicai">
+			<state></state>
+			<latitude>-85912</latitude>
+			<longitude>1265732</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quintal Arbiro">
+			<state></state>
+			<latitude>-85562</latitude>
+			<longitude>1255966</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quintal Bot">
+			<state></state>
+			<latitude>-85529</latitude>
+			<longitude>1255938</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quintal Qik">
+			<state></state>
+			<latitude>-85487</latitude>
+			<longitude>1255944</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quintaportugal">
+			<state></state>
+			<latitude>-86940</latitude>
+			<longitude>1255724</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suai">
+			<state></state>
+			<latitude>-93010</latitude>
+			<longitude>1252671</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viqueque">
+			<state></state>
+			<latitude>-88457</latitude>
+			<longitude>1263765</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waiderek">
+			<state></state>
+			<latitude>-86306</latitude>
+			<longitude>1259891</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waidua">
+			<state></state>
+			<latitude>-85164</latitude>
+			<longitude>1264930</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waniuma">
+			<state></state>
+			<latitude>-84300</latitude>
+			<longitude>1264597</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waudu">
+			<state></state>
+			<latitude>-88845</latitude>
+			<longitude>1253030</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="We Hedan">
+			<state></state>
+			<latitude>-94009</latitude>
+			<longitude>1251486</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wecian">
+			<state></state>
+			<latitude>-90573</latitude>
+			<longitude>1259308</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wefau">
+			<state></state>
+			<latitude>-90300</latitude>
+			<longitude>1250113</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Welaluhu">
+			<state></state>
+			<latitude>-90175</latitude>
+			<longitude>1260066</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weluli">
+			<state></state>
+			<latitude>-92650</latitude>
+			<longitude>1250769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wemer">
+			<state></state>
+			<latitude>-92475</latitude>
+			<longitude>1251833</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wesi">
+			<state></state>
+			<latitude>-89931</latitude>
+			<longitude>1250194</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zefaliu">
+			<state></state>
+			<latitude>-84964</latitude>
+			<longitude>1268444</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zobelis">
+			<state></state>
+			<latitude>-90056</latitude>
+			<longitude>1253658</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoilpo">
+			<state></state>
+			<latitude>-91128</latitude>
+			<longitude>1253241</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Bemutin">
+			<state></state>
+			<latitude>-90814</latitude>
+			<longitude>1253803</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Berumau">
+			<state></state>
+			<latitude>-90167</latitude>
+			<longitude>1251997</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Hief">
+			<state></state>
+			<latitude>-91384</latitude>
+			<longitude>1253839</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Ilsa">
+			<state></state>
+			<latitude>-90528</latitude>
+			<longitude>1253175</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Kasamau">
+			<state></state>
+			<latitude>-90553</latitude>
+			<longitude>1254864</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Laco">
+			<state></state>
+			<latitude>-90570</latitude>
+			<longitude>1253497</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Laro">
+			<state></state>
+			<latitude>-91559</latitude>
+			<longitude>1253075</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Lelos">
+			<state></state>
+			<latitude>-91714</latitude>
+			<longitude>1251364</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Leoe">
+			<state></state>
+			<latitude>-90642</latitude>
+			<longitude>1254875</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Letepo">
+			<state></state>
+			<latitude>-91020</latitude>
+			<longitude>1253130</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Lora">
+			<state></state>
+			<latitude>-91670</latitude>
+			<longitude>1253078</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Mabesi">
+			<state></state>
+			<latitude>-90222</latitude>
+			<longitude>1253566</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Mauluto">
+			<state></state>
+			<latitude>-90603</latitude>
+			<longitude>1253864</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Mauteo">
+			<state></state>
+			<latitude>-89989</latitude>
+			<longitude>1254911</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Oegeta">
+			<state></state>
+			<latitude>-91609</latitude>
+			<longitude>1252639</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Pa">
+			<state></state>
+			<latitude>-90842</latitude>
+			<longitude>1253814</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Sola">
+			<state></state>
+			<latitude>-91172</latitude>
+			<longitude>1253711</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Toren">
+			<state></state>
+			<latitude>-91036</latitude>
+			<longitude>1253178</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zol Zola">
+			<state></state>
+			<latitude>-91636</latitude>
+			<longitude>1254058</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zulo">
+			<state></state>
+			<latitude>-90978</latitude>
+			<longitude>1254205</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zulokota">
+			<state></state>
+			<latitude>-91417</latitude>
+			<longitude>1254625</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zulotos">
+			<state></state>
+			<latitude>-91003</latitude>
+			<longitude>1254239</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

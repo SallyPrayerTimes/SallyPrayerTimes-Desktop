@@ -1,0 +1,600 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Zimbabwe">
+		<city name="100 Acre Lots -- (State: Matabeleland North)">
+			<state>Matabeleland North</state>
+			<latitude>-202037</latitude>
+			<longitude>287263</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Birchenough Bridge">
+			<state></state>
+			<latitude>-199569</latitude>
+			<longitude>323431</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bulawayo -- (State: Matabeleland North)">
+			<state>Matabeleland North</state>
+			<latitude>-201402</latitude>
+			<longitude>285931</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bulawayo Airport -- (State: Matabeleland North)">
+			<state>Matabeleland North</state>
+			<latitude>-200094</latitude>
+			<longitude>286340</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bulawayo Central Hospital -- (State: Matabeleland North)">
+			<state>Matabeleland North</state>
+			<latitude>-201566</latitude>
+			<longitude>286267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bulawayo District -- (State: Matabeleland North)">
+			<state>Matabeleland North</state>
+			<latitude>-200735</latitude>
+			<longitude>285098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bulawayo Spruit -- (State: Matabeleland North)">
+			<state>Matabeleland North</state>
+			<latitude>-200755</latitude>
+			<longitude>286179</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bulawayo Township -- (State: Matabeleland North)">
+			<state>Matabeleland North</state>
+			<latitude>-201288</latitude>
+			<longitude>286481</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clydesdale">
+			<state></state>
+			<latitude>-192734</latitude>
+			<longitude>327099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harare">
+			<state></state>
+			<latitude>-179896</latitude>
+			<longitude>309271</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harare -- (State: Mashonaland East)">
+			<state>Mashonaland East</state>
+			<latitude>-178074</latitude>
+			<longitude>310551</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harare International Airport -- (State: Mashonaland East)">
+			<state>Mashonaland East</state>
+			<latitude>-179099</latitude>
+			<longitude>311115</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harare Province -- (State: Harare)">
+			<state>Harare</state>
+			<latitude>-178063</latitude>
+			<longitude>310437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masvingo">
+			<state></state>
+			<latitude>-200724</latitude>
+			<longitude>308442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masvingo District">
+			<state></state>
+			<latitude>-204891</latitude>
+			<longitude>310109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masvingo Province -- (State: Masvingo)">
+			<state>Masvingo</state>
+			<latitude>-209891</latitude>
+			<longitude>310109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mutare">
+			<state></state>
+			<latitude>-189558</latitude>
+			<longitude>326776</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outpost">
+			<state></state>
+			<latitude>-179222</latitude>
+			<longitude>297444</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quagga Kloof">
+			<state></state>
+			<latitude>-186887</latitude>
+			<longitude>323113</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quagga Mine">
+			<state></state>
+			<latitude>-190387</latitude>
+			<longitude>322446</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quagga Mine Reserve">
+			<state></state>
+			<latitude>-190220</latitude>
+			<longitude>322446</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quagga Pan Ranch">
+			<state></state>
+			<latitude>-214054</latitude>
+			<longitude>305946</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quaggas Hoek">
+			<state></state>
+			<latitude>-195554</latitude>
+			<longitude>327613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quando">
+			<state></state>
+			<latitude>-179387</latitude>
+			<longitude>322613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarantine Camp">
+			<state></state>
+			<latitude>-207220</latitude>
+			<longitude>314613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarrie">
+			<state></state>
+			<latitude>-170220</latitude>
+			<longitude>297613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarrie Kraal">
+			<state></state>
+			<latitude>-202054</latitude>
+			<longitude>295780</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarries">
+			<state></state>
+			<latitude>-184887</latitude>
+			<longitude>309280</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarry">
+			<state></state>
+			<latitude>-183220</latitude>
+			<longitude>300780</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quedajaha">
+			<state></state>
+			<latitude>-192554</latitude>
+			<longitude>274446</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queens Inn Hotel">
+			<state></state>
+			<latitude>-197887</latitude>
+			<longitude>287613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queens Prize">
+			<state></state>
+			<latitude>-184387</latitude>
+			<longitude>301613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queensdale">
+			<state></state>
+			<latitude>-184220</latitude>
+			<longitude>301613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queensdale -- (State: Matabeleland North)">
+			<state>Matabeleland North</state>
+			<latitude>-200837</latitude>
+			<longitude>286241</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queensdale -- (State: Mashonaland East)">
+			<state>Mashonaland East</state>
+			<latitude>-178429</latitude>
+			<longitude>311035</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queenswood">
+			<state></state>
+			<latitude>-191387</latitude>
+			<longitude>296613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Questeds Dam">
+			<state></state>
+			<latitude>-204220</latitude>
+			<longitude>278446</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinnington -- (State: Mashonaland East)">
+			<state>Mashonaland East</state>
+			<latitude>-177234</latitude>
+			<longitude>311332</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quizizi">
+			<state></state>
+			<latitude>-183554</latitude>
+			<longitude>263946</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utserenga">
+			<state></state>
+			<latitude>-192716</latitude>
+			<longitude>323784</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria Falls">
+			<state></state>
+			<latitude>-179049</latitude>
+			<longitude>258618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xabamude">
+			<state></state>
+			<latitude>-192880</latitude>
+			<longitude>274287</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xanadu">
+			<state></state>
+			<latitude>-180547</latitude>
+			<longitude>312620</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xanixani">
+			<state></state>
+			<latitude>-194713</latitude>
+			<longitude>274453</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xanthippe">
+			<state></state>
+			<latitude>-191213</latitude>
+			<longitude>295287</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xekene Estate">
+			<state></state>
+			<latitude>-183713</latitude>
+			<longitude>309453</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xixi-Amabandi Pan">
+			<state></state>
+			<latitude>-193047</latitude>
+			<longitude>264620</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xmas">
+			<state></state>
+			<latitude>-202213</latitude>
+			<longitude>307953</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xmas Pass">
+			<state></state>
+			<latitude>-189047</latitude>
+			<longitude>326453</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xoboholo">
+			<state></state>
+			<latitude>-194213</latitude>
+			<longitude>272453</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xoce -- (State: Matabeleland North)">
+			<state>Matabeleland North</state>
+			<latitude>-200244</latitude>
+			<longitude>287601</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xotjeni">
+			<state></state>
+			<latitude>-192880</latitude>
+			<longitude>275453</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabongwe">
+			<state></state>
+			<latitude>-177212</latitude>
+			<longitude>296121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yadkin">
+			<state></state>
+			<latitude>-210379</latitude>
+			<longitude>284788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yadziyavana">
+			<state></state>
+			<latitude>-186879</latitude>
+			<longitude>285954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahokwe">
+			<state></state>
+			<latitude>-181046</latitude>
+			<longitude>327121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahombi">
+			<state></state>
+			<latitude>-209379</latitude>
+			<longitude>309288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yak">
+			<state></state>
+			<latitude>-186212</latitude>
+			<longitude>298121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yale">
+			<state></state>
+			<latitude>-182379</latitude>
+			<longitude>299621</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamarombe">
+			<state></state>
+			<latitude>-175212</latitude>
+			<longitude>311288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamazura">
+			<state></state>
+			<latitude>-169712</latitude>
+			<longitude>296121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yambigwe">
+			<state></state>
+			<latitude>-210046</latitude>
+			<longitude>307454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yandi">
+			<state></state>
+			<latitude>-213879</latitude>
+			<longitude>311121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yank Iron">
+			<state></state>
+			<latitude>-182546</latitude>
+			<longitude>299954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yankee Doodle">
+			<state></state>
+			<latitude>-197046</latitude>
+			<longitude>299954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yardley">
+			<state></state>
+			<latitude>-188879</latitude>
+			<longitude>326788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarrowdale">
+			<state></state>
+			<latitude>-174546</latitude>
+			<longitude>309954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeanling">
+			<state></state>
+			<latitude>-171046</latitude>
+			<longitude>299788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yekabiyinhle">
+			<state></state>
+			<latitude>-198379</latitude>
+			<longitude>284288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yekabiyinhle Extension">
+			<state></state>
+			<latitude>-198379</latitude>
+			<longitude>284454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yellow Jacket Mine -- (State: Mashonaland Central)">
+			<state>Mashonaland Central</state>
+			<latitude>-174679</latitude>
+			<longitude>311132</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeoville">
+			<state></state>
+			<latitude>-190712</latitude>
+			<longitude>296788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeovilton">
+			<state></state>
+			<latitude>-196712</latitude>
+			<longitude>303454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yettom">
+			<state></state>
+			<latitude>-199546</latitude>
+			<longitude>313288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="YMT">
+			<state></state>
+			<latitude>-195046</latitude>
+			<longitude>300621</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yomba Extension">
+			<state></state>
+			<latitude>-169379</latitude>
+			<longitude>304121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yonder">
+			<state></state>
+			<latitude>-199379</latitude>
+			<longitude>281288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="York">
+			<state></state>
+			<latitude>-182879</latitude>
+			<longitude>320788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yorkshire">
+			<state></state>
+			<latitude>-193212</latitude>
+			<longitude>297288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yorkshire Estate">
+			<state></state>
+			<latitude>-182712</latitude>
+			<longitude>321288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yova Borehole">
+			<state></state>
+			<latitude>-189879</latitude>
+			<longitude>284454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ypres">
+			<state></state>
+			<latitude>-202712</latitude>
+			<longitude>326788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yukon">
+			<state></state>
+			<latitude>-211712</latitude>
+			<longitude>288288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuma">
+			<state></state>
+			<latitude>-202546</latitude>
+			<longitude>311954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yungusa Borehole">
+			<state></state>
+			<latitude>-189212</latitude>
+			<longitude>283788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

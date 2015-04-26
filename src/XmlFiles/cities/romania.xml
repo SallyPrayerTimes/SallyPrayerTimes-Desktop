@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Romania">
+		<city name="1 Prim Decembrie">
+			<state></state>
+			<latitude>442957</latitude>
+			<longitude>260630</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="16 Februarie">
+			<state></state>
+			<latitude>444716</latitude>
+			<longitude>260382</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="23 Comuna August">
+			<state></state>
+			<latitude>439217</latitude>
+			<longitude>285883</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="23 Mila">
+			<state></state>
+			<latitude>451883</latitude>
+			<longitude>294050</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="30 Comuna Decembrie">
+			<state></state>
+			<latitude>442884</latitude>
+			<longitude>260551</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="6 Martie">
+			<state></state>
+			<latitude>447721</latitude>
+			<longitude>288887</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arad">
+			<state></state>
+			<latitude>461930</latitude>
+			<longitude>213264</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bacau">
+			<state></state>
+			<latitude>465765</latitude>
+			<longitude>269098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bistrita">
+			<state></state>
+			<latitude>470765</latitude>
+			<longitude>244265</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bistrita -- (State: Mehedinti)">
+			<state>Mehedinti</state>
+			<latitude>445954</latitude>
+			<longitude>228026</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bistrita -- (State: Bistrita-Nasaud)">
+			<state>Bistrita-Nasaud</state>
+			<latitude>471431</latitude>
+			<longitude>244931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Botosani">
+			<state></state>
+			<latitude>477598</latitude>
+			<longitude>266765</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Braila">
+			<state></state>
+			<latitude>452765</latitude>
+			<longitude>279931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasov">
+			<state></state>
+			<latitude>456431</latitude>
+			<longitude>255931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasov Suburbie">
+			<state></state>
+			<latitude>456598</latitude>
+			<longitude>255931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buc">
+			<state></state>
+			<latitude>472098</latitude>
+			<longitude>228431</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bucharest -- (State: Bucuresti)">
+			<state>Bucuresti</state>
+			<latitude>444431</latitude>
+			<longitude>261098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bucuresti">
+			<state></state>
+			<latitude>460598</latitude>
+			<longitude>275931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cluj">
+			<state></state>
+			<latitude>467599</latitude>
+			<longitude>235932</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cluj-Napoca -- (State: Cluj)">
+			<state>Cluj</state>
+			<latitude>467766</latitude>
+			<longitude>236099</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Constanta -- (State: Timis)">
+			<state>Timis</state>
+			<latitude>458913</latitude>
+			<longitude>205957</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Constanta">
+			<state></state>
+			<latitude>441932</latitude>
+			<longitude>286599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Craiova -- (State: Dolj)">
+			<state>Dolj</state>
+			<latitude>443266</latitude>
+			<longitude>238099</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Craiova">
+			<state></state>
+			<latitude>465932</latitude>
+			<longitude>219766</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dorohoi">
+			<state></state>
+			<latitude>479600</latitude>
+			<longitude>264100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Focsani -- (State: Vrancea)">
+			<state>Vrancea</state>
+			<latitude>457102</latitude>
+			<longitude>271935</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Galati">
+			<state></state>
+			<latitude>455270</latitude>
+			<longitude>230770</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Galatii Bistritei">
+			<state></state>
+			<latitude>469936</latitude>
+			<longitude>244103</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ialomita">
+			<state></state>
+			<latitude>447105</latitude>
+			<longitude>278605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iasi">
+			<state></state>
+			<latitude>471772</latitude>
+			<longitude>276105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Macin">
+			<state></state>
+			<latitude>452609</latitude>
+			<longitude>281609</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mangalla">
+			<state></state>
+			<latitude>438109</latitude>
+			<longitude>285942</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Medias">
+			<state></state>
+			<latitude>461776</latitude>
+			<longitude>243609</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mures">
+			<state></state>
+			<latitude>466776</latitude>
+			<longitude>245942</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neamt">
+			<state></state>
+			<latitude>472610</latitude>
+			<longitude>265777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oltenita">
+			<state></state>
+			<latitude>440944</latitude>
+			<longitude>266444</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oradea -- (State: Bihor)">
+			<state>Bihor</state>
+			<latitude>470778</latitude>
+			<longitude>219444</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Piatra Neamt -- (State: Neamt)">
+			<state>Neamt</state>
+			<latitude>469279</latitude>
+			<longitude>263445</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pitesti -- (State: Arges)">
+			<state>Arges</state>
+			<latitude>448612</latitude>
+			<longitude>248779</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ploiesti -- (State: Prahova)">
+			<state>Prahova</state>
+			<latitude>449612</latitude>
+			<longitude>260279</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ploiesti Sud -- (State: Prahova)">
+			<state>Prahova</state>
+			<latitude>449412</latitude>
+			<longitude>260543</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reghin">
+			<state></state>
+			<latitude>467781</latitude>
+			<longitude>247114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sibiu">
+			<state></state>
+			<latitude>458115</latitude>
+			<longitude>241615</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Simeria">
+			<state></state>
+			<latitude>458615</latitude>
+			<longitude>230282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Slobozia">
+			<state></state>
+			<latitude>450448</latitude>
+			<longitude>232448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Suceava">
+			<state></state>
+			<latitude>475448</latitude>
+			<longitude>265448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Timisoara -- (State: Timis)">
+			<state>Timis</state>
+			<latitude>457610</latitude>
+			<longitude>212388</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tirgu Mures -- (State: Mures)">
+			<state>Mures</state>
+			<latitude>465616</latitude>
+			<longitude>245783</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tulcea">
+			<state></state>
+			<latitude>451783</latitude>
+			<longitude>288116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valcea">
+			<state></state>
+			<latitude>451951</latitude>
+			<longitude>245118</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waldau">
+			<state></state>
+			<latitude>454641</latitude>
+			<longitude>215325</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yeni sala">
+			<state></state>
+			<latitude>448954</latitude>
+			<longitude>288288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yuzlin">
+			<state></state>
+			<latitude>450788</latitude>
+			<longitude>292454</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zarnesti">
+			<state></state>
+			<latitude>455622</latitude>
+			<longitude>253122</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

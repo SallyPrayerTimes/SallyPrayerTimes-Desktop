@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Europa Island">
+		<city name="Europa">
+			<state></state>
+			<latitude>-223232</latitude>
+			<longitude>403768</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

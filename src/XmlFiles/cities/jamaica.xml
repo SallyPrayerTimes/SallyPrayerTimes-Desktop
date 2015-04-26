@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Jamaica">
+		<city name="Discovery Bay -- (State: Saint Ann)">
+			<state>Saint Ann</state>
+			<latitude>184767</latitude>
+			<longitude>-773900</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galina Point -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>184103</latitude>
+			<longitude>-768730</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indian Coney River -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>179438</latitude>
+			<longitude>-763062</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inner Oyster Bay -- (State: Trelawny)">
+			<state>Trelawny</state>
+			<latitude>184938</latitude>
+			<longitude>-776228</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Innes Bay -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>180272</latitude>
+			<longitude>-762562</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Innswood -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>179938</latitude>
+			<longitude>-770228</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inverness -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>179272</latitude>
+			<longitude>-771562</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ippery Gully -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>184605</latitude>
+			<longitude>-778395</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipswich -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>182105</latitude>
+			<longitude>-778228</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipswich -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>182272</latitude>
+			<longitude>-766895</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irish Town -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>180605</latitude>
+			<longitude>-767062</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ironshore -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>185272</latitude>
+			<longitude>-778562</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isles -- (State: Manchester)">
+			<state>Manchester</state>
+			<latitude>179605</latitude>
+			<longitude>-775228</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iter Boreale -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>182772</latitude>
+			<longitude>-767228</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iver Cottage -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>179772</latitude>
+			<longitude>-777062</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivy Mount -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>182105</latitude>
+			<longitude>-770728</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacks Hill -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>180606</latitude>
+			<longitude>-767394</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacks Rock -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>182773</latitude>
+			<longitude>-767894</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacobs Brook">
+			<state></state>
+			<latitude>180439</latitude>
+			<longitude>-763727</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jefferey Town -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>182939</latitude>
+			<longitude>-770061</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jericho -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>181606</latitude>
+			<longitude>-770394</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Crow Hill -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>180439</latitude>
+			<longitude>-764561</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Crow Peak">
+			<state></state>
+			<latitude>181106</latitude>
+			<longitude>-766394</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Crow River -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>180606</latitude>
+			<longitude>-766227</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johns Hall -- (State: Saint Ann)">
+			<state>Saint Ann</state>
+			<latitude>183106</latitude>
+			<longitude>-773894</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johns Lodge -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>179773</latitude>
+			<longitude>-777227</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johns Rock -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>179273</latitude>
+			<longitude>-778061</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johns Town -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>178939</latitude>
+			<longitude>-763394</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juan de Bolas -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>180939</latitude>
+			<longitude>-771394</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junction -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>179106</latitude>
+			<longitude>-775894</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keanwood -- (State: Manchester)">
+			<state>Manchester</state>
+			<latitude>182107</latitude>
+			<longitude>-776060</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kellets -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>181607</latitude>
+			<longitude>-772226</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kelps River -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>180440</latitude>
+			<longitude>-771726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenkoo Hill -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>180440</latitude>
+			<longitude>-772726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenmure Ridge -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>180274</latitude>
+			<longitude>-765560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kennedys -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>179607</latitude>
+			<longitude>-771893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kensington -- (State: Saint Ann)">
+			<state>Saint Ann</state>
+			<latitude>183440</latitude>
+			<longitude>-773226</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kensington -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>179107</latitude>
+			<longitude>-776393</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keppoch -- (State: Saint Ann)">
+			<state>Saint Ann</state>
+			<latitude>183274</latitude>
+			<longitude>-773726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kew -- (State: Hanover)">
+			<state>Hanover</state>
+			<latitude>184440</latitude>
+			<longitude>-781393</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kildare -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>182440</latitude>
+			<longitude>-766393</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kilmorey -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>180607</latitude>
+			<longitude>-778893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kingston -- (State: Kingston-Saint John)">
+			<state>Kingston-Saint John</state>
+			<latitude>179774</latitude>
+			<longitude>-767893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kingston">
+			<state></state>
+			<latitude>180107</latitude>
+			<longitude>-767893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kingston Bank">
+			<state></state>
+			<latitude>175940</latitude>
+			<longitude>-779060</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kingston Harbor -- (State: Kingston-Saint John)">
+			<state>Kingston-Saint John</state>
+			<latitude>179607</latitude>
+			<longitude>-767726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kingwood -- (State: Westmoreland)">
+			<state>Westmoreland</state>
+			<latitude>182440</latitude>
+			<longitude>-781226</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinloss Village -- (State: Trelawny)">
+			<state>Trelawny</state>
+			<latitude>184107</latitude>
+			<longitude>-775560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kirkvine -- (State: Manchester)">
+			<state>Manchester</state>
+			<latitude>180774</latitude>
+			<longitude>-774560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knibbs Pen -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>179940</latitude>
+			<longitude>-769726</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knights -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>177940</latitude>
+			<longitude>-772893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knockpatrick -- (State: Manchester)">
+			<state>Manchester</state>
+			<latitude>180107</latitude>
+			<longitude>-775060</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koningsburgh -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>182440</latitude>
+			<longitude>-768560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kupuis -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>181274</latitude>
+			<longitude>-772893</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandeville -- (State: Manchester)">
+			<state>Manchester</state>
+			<latitude>180276</latitude>
+			<longitude>-774724</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="May Pen -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>179942</latitude>
+			<longitude>-772058</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montego Bay -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>184776</latitude>
+			<longitude>-779224</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montego Bay Point -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>185109</latitude>
+			<longitude>-779224</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negril -- (State: Westmoreland)">
+			<state>Westmoreland</state>
+			<latitude>182777</latitude>
+			<longitude>-783390</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negril -- (State: Hanover)">
+			<state>Hanover</state>
+			<latitude>183443</latitude>
+			<longitude>-783223</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocho Rios -- (State: Saint Ann)">
+			<state>Saint Ann</state>
+			<latitude>184278</latitude>
+			<longitude>-771056</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocho Rios Bay -- (State: Saint Ann)">
+			<state>Saint Ann</state>
+			<latitude>184278</latitude>
+			<longitude>-771222</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Harbour -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>179444</latitude>
+			<longitude>-771056</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Harbour -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>179444</latitude>
+			<longitude>-771389</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Harbour Bay -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>179111</latitude>
+			<longitude>-772556</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parks Road -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>180945</latitude>
+			<longitude>-768555</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Portmore -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>179779</latitude>
+			<longitude>-768555</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quaco Gully -- (State: Saint Ann)">
+			<state>Saint Ann</state>
+			<latitude>184446</latitude>
+			<longitude>-774387</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quaco Rock -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>181446</latitude>
+			<longitude>-774387</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quaco Spring -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>181446</latitude>
+			<longitude>-772887</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quasheba Mountain -- (State: Hanover)">
+			<state>Hanover</state>
+			<latitude>183946</latitude>
+			<longitude>-781387</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quashies River -- (State: Trelawny)">
+			<state>Trelawny</state>
+			<latitude>182946</latitude>
+			<longitude>-775220</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebec -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>183613</latitude>
+			<longitude>-768720</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queen of Spains Valley">
+			<state></state>
+			<latitude>184446</latitude>
+			<longitude>-777387</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queenhythe -- (State: Saint Ann)">
+			<state>Saint Ann</state>
+			<latitude>184446</latitude>
+			<longitude>-774054</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queensbury Ridge -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>180446</latitude>
+			<longitude>-765720</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Savanna-la-Mar -- (State: Westmoreland)">
+			<state>Westmoreland</state>
+			<latitude>182282</latitude>
+			<longitude>-781218</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Spanish Town -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>179948</latitude>
+			<longitude>-769385</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ugly River -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>182284</latitude>
+			<longitude>-767716</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulster Spring -- (State: Trelawny)">
+			<state>Trelawny</state>
+			<latitude>183284</latitude>
+			<longitude>-775050</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umbrella Point -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>185284</latitude>
+			<longitude>-778883</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unity Airstrip -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>183117</latitude>
+			<longitude>-768716</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Leyton -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>182284</latitude>
+			<longitude>-766050</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Warminster -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>179450</latitude>
+			<longitude>-776550</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usher Mount -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>180784</latitude>
+			<longitude>-769216</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanity Fair -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>181618</latitude>
+			<longitude>-770215</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaughansfield -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>183285</latitude>
+			<longitude>-777882</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vauxhall -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>181618</latitude>
+			<longitude>-777549</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaz Delight -- (State: Saint Catherine)">
+			<state>Saint Catherine</state>
+			<latitude>180285</latitude>
+			<longitude>-770382</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verama Hollis Savanna -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>181951</latitude>
+			<longitude>-773215</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vernam -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>178951</latitude>
+			<longitude>-772882</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village of Christiana -- (State: Manchester)">
+			<state>Manchester</state>
+			<latitude>181785</latitude>
+			<longitude>-774715</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village of Davyton -- (State: Manchester)">
+			<state>Manchester</state>
+			<latitude>180785</latitude>
+			<longitude>-774382</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village of Kettering -- (State: Trelawny)">
+			<state>Trelawny</state>
+			<latitude>184785</latitude>
+			<longitude>-775215</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village of Pilox -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>179285</latitude>
+			<longitude>-763882</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village of Shiloah -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>181785</latitude>
+			<longitude>-777049</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village of Spaldings -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>181618</latitude>
+			<longitude>-774382</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinegar Hill -- (State: Westmoreland)">
+			<state>Westmoreland</state>
+			<latitude>181618</latitude>
+			<longitude>-779549</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinegar Hill -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>180285</latitude>
+			<longitude>-763049</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vineyard -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>179951</latitude>
+			<longitude>-767715</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vineyard -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>180285</latitude>
+			<longitude>-777715</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vineyard Hill -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>180618</latitude>
+			<longitude>-763215</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Y.S. River -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>180621</latitude>
+			<longitude>-778212</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yallahs Bay -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>178788</latitude>
+			<longitude>-765546</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yallahs Hill -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>179121</latitude>
+			<longitude>-764879</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yallahs River">
+			<state></state>
+			<latitude>178788</latitude>
+			<longitude>-765879</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yankee River -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>181954</latitude>
+			<longitude>-774212</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarmouth -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>178954</latitude>
+			<longitude>-772712</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yates Savanna -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>178621</latitude>
+			<longitude>-772212</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeary Yeary Gully -- (State: Clarendon)">
+			<state>Clarendon</state>
+			<latitude>181621</latitude>
+			<longitude>-774046</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ylhanside -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>181954</latitude>
+			<longitude>-766046</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Young Gal Hill -- (State: Portland)">
+			<state>Portland</state>
+			<latitude>181121</latitude>
+			<longitude>-763879</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ys House -- (State: Saint Elizabeth)">
+			<state>Saint Elizabeth</state>
+			<latitude>181621</latitude>
+			<longitude>-778046</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zion Hill -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>180955</latitude>
+			<longitude>-768211</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

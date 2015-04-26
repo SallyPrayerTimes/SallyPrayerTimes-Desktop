@@ -1,0 +1,1573 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Uruguay">
+		<city name="18 de Julio -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-336784</latitude>
+			<longitude>-535451</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="19 de Abril -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-343618</latitude>
+			<longitude>-540618</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Agosto -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-344067</latitude>
+			<longitude>-563972</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-341842</latitude>
+			<longitude>-563344</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daca -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-332233</latitude>
+			<longitude>-580400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dayman -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-315400</latitude>
+			<longitude>-579400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="de la Chacra -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-330233</latitude>
+			<longitude>-569400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="de la Isla -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-324233</latitude>
+			<longitude>-570400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="de la Tuna Sola -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-324900</latitude>
+			<longitude>-539400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="de las Conchas -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-329567</latitude>
+			<longitude>-553733</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="de las Palmas -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-334400</latitude>
+			<longitude>-537233</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="De Pando -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-347900</latitude>
+			<longitude>-558567</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="del Ceibo -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-335400</latitude>
+			<longitude>-536067</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Del Marco -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-343400</latitude>
+			<longitude>-537400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Del Medio -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-339400</latitude>
+			<longitude>-557067</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Del Medio -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-335733</latitude>
+			<longitude>-573900</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="del Tala -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-307067</latitude>
+			<longitude>-569400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="del Totoral -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-327733</latitude>
+			<longitude>-568233</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Departamento de Florida -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-338233</latitude>
+			<longitude>-559067</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Departamento de Maldonado -- (State: Maldonado)">
+			<state>Maldonado</state>
+			<latitude>-346567</latitude>
+			<longitude>-549067</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Departamento de Soriano -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-334900</latitude>
+			<longitude>-577400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Descarnado -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-345567</latitude>
+			<longitude>-559233</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diablo -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-343567</latitude>
+			<longitude>-537567</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dique Maua -- (State: Montevideo)">
+			<state>Montevideo</state>
+			<latitude>-349011</latitude>
+			<longitude>-561867</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Divisa -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-305567</latitude>
+			<longitude>-572067</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Divisoria -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-324400</latitude>
+			<longitude>-540400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doctor Alejandro Gallinal -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-336400</latitude>
+			<longitude>-557900</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Don Carlos -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-343400</latitude>
+			<longitude>-539733</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Don Esteban Chico -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-325567</latitude>
+			<longitude>-573900</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dona Maria -- (State: Colonia)">
+			<state>Colonia</state>
+			<latitude>-341733</latitude>
+			<longitude>-571233</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Drable -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-336733</latitude>
+			<longitude>-575400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duran -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-346592</latitude>
+			<longitude>-564364</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duraznito -- (State: Flores)">
+			<state>Flores</state>
+			<latitude>-335900</latitude>
+			<longitude>-565733</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durazno -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-310067</latitude>
+			<longitude>-569400</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durazno">
+			<state></state>
+			<latitude>-334031</latitude>
+			<longitude>-564906</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fagundez -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-324565</latitude>
+			<longitude>-551731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fajina -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>-341898</latitude>
+			<longitude>-567565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falagian -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-343565</latitude>
+			<longitude>-551565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falso Mandiyu -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-305231</latitude>
+			<longitude>-577065</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fangoso -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-324398</latitude>
+			<longitude>-577898</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farias -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-304565</latitude>
+			<longitude>-570898</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fariha -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-304398</latitude>
+			<longitude>-566731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faro del Polonio -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-343898</latitude>
+			<longitude>-537731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fea -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-319731</latitude>
+			<longitude>-578231</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fernandez -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-320731</latitude>
+			<longitude>-549731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fernandez -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-312065</latitude>
+			<longitude>-563065</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferrer -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-334731</latitude>
+			<longitude>-555565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferro Carril -- (State: Montevideo)">
+			<state>Montevideo</state>
+			<latitude>-347898</latitude>
+			<longitude>-562065</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fidencio -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-307898</latitude>
+			<longitude>-576565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fierro -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-326065</latitude>
+			<longitude>-545065</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flor de Maronas -- (State: Montevideo)">
+			<state>Montevideo</state>
+			<latitude>-348398</latitude>
+			<longitude>-561065</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flores">
+			<state></state>
+			<latitude>-335731</latitude>
+			<longitude>-568231</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Floresta -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-347398</latitude>
+			<longitude>-556731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fortaleza San Miguel -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-336731</latitude>
+			<longitude>-535231</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fraile Muerto -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-323065</latitude>
+			<longitude>-548398</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frances -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-345231</latitude>
+			<longitude>-554398</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Francia -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-306231</latitude>
+			<longitude>-573565</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Francisco Soca -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-346731</latitude>
+			<longitude>-556731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frasquito -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-347231</latitude>
+			<longitude>-559398</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fray Bentos -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-331223</latitude>
+			<longitude>-582854</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fray Marcos -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-341731</latitude>
+			<longitude>-557231</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frayle Muerto -- (State: Montevideo)">
+			<state>Montevideo</state>
+			<latitude>-325065</latitude>
+			<longitude>-545231</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuerte -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-313065</latitude>
+			<longitude>-568398</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habas -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-346063</latitude>
+			<longitude>-557396</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haedo -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-316563</latitude>
+			<longitude>-562896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haedo -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-329729</latitude>
+			<longitude>-579729</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heriberto -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-318063</latitude>
+			<longitude>-554896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hernandarias -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-336563</latitude>
+			<longitude>-558896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hervidero -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-315563</latitude>
+			<longitude>-579729</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higueras -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-329396</latitude>
+			<longitude>-560229</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higueritas -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-310563</latitude>
+			<longitude>-564896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horno -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-324563</latitude>
+			<longitude>-544063</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horno -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>-340463</latitude>
+			<longitude>-566357</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horno -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-322563</latitude>
+			<longitude>-572063</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hornos -- (State: Flores)">
+			<state>Flores</state>
+			<latitude>-334229</latitude>
+			<longitude>-565563</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horqueta -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-311229</latitude>
+			<longitude>-567896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horqueta -- (State: Colonia)">
+			<state>Colonia</state>
+			<latitude>-340729</latitude>
+			<longitude>-571896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horqueta -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-305063</latitude>
+			<longitude>-575896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horqueta -- (State: Rivera)">
+			<state>Rivera</state>
+			<latitude>-310729</latitude>
+			<longitude>-560563</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horqueta del Queguay Chico -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-319229</latitude>
+			<longitude>-568229</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horquetas -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-335896</latitude>
+			<longitude>-581229</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J. Suarez -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-347230</latitude>
+			<longitude>-560261</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J.E. Rodo -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-336727</latitude>
+			<longitude>-575561</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J.L. Lacaze -- (State: Colonia)">
+			<state>Colonia</state>
+			<latitude>-344227</latitude>
+			<longitude>-574061</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaboneria -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-318227</latitude>
+			<longitude>-561394</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacinta -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-314561</latitude>
+			<longitude>-579561</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaureguiberry -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-347894</latitude>
+			<longitude>-553894</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Javier de Viana -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-303894</latitude>
+			<longitude>-567727</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimenez -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-329894</latitude>
+			<longitude>-557727</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joanico -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-345894</latitude>
+			<longitude>-562394</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joaquin Suarez -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-347227</latitude>
+			<longitude>-560227</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jose Batlle y Ordonez -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-334561</latitude>
+			<longitude>-551061</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jose Enrique -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-336394</latitude>
+			<longitude>-575227</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jose Ignacio -- (State: Maldonado)">
+			<state>Maldonado</state>
+			<latitude>-348394</latitude>
+			<longitude>-546227</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juan Isidro -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>-340061</latitude>
+			<longitude>-568227</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juan J. Castro -- (State: Flores)">
+			<state>Flores</state>
+			<latitude>-334894</latitude>
+			<longitude>-567394</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juan Macedo -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-306394</latitude>
+			<longitude>-562894</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juan Soler -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>-343086</latitude>
+			<longitude>-567947</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juanin -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-328061</latitude>
+			<longitude>-580561</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Julio Maria Sanz -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-331394</latitude>
+			<longitude>-541394</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junca -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-333061</latitude>
+			<longitude>-560394</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juncal -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-310061</latitude>
+			<longitude>-566394</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junco -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-308227</latitude>
+			<longitude>-573894</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kilometro 77 -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-342893</latitude>
+			<longitude>-563893</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiyu -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>-346393</latitude>
+			<longitude>-567393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melo -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-323558</latitude>
+			<longitude>-541724</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melo -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-321058</latitude>
+			<longitude>-546724</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mercedes -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-313224</latitude>
+			<longitude>-576224</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mercedes -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-332449</latitude>
+			<longitude>-580083</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minas -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-328724</latitude>
+			<longitude>-563058</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minas -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-343591</latitude>
+			<longitude>-552141</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minas de Callorda -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-328224</latitude>
+			<longitude>-564058</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minas de Corrales -- (State: Rivera)">
+			<state>Rivera</state>
+			<latitude>-315724</latitude>
+			<longitude>-554558</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minas de Zapucay -- (State: Rivera)">
+			<state>Rivera</state>
+			<latitude>-317058</latitude>
+			<longitude>-553224</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minas Vieja -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-344224</latitude>
+			<longitude>-552058</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montevideo">
+			<state></state>
+			<latitude>-348472</latitude>
+			<longitude>-561599</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montevideo Bay -- (State: Montevideo)">
+			<state>Montevideo</state>
+			<latitude>-348766</latitude>
+			<longitude>-562019</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montevideo Chico -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-322058</latitude>
+			<longitude>-555891</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montevideo Chico -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-322391</latitude>
+			<longitude>-565058</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montevideo Road -- (State: Montevideo)">
+			<state>Montevideo</state>
+			<latitude>-349224</latitude>
+			<longitude>-562224</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacurutu Chico -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-322723</latitude>
+			<longitude>-574057</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacurutu Grande -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-321723</latitude>
+			<longitude>-574390</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nandubay -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-329057</latitude>
+			<longitude>-572890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naquina -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-304557</latitude>
+			<longitude>-577890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navarro -- (State: Colonia)">
+			<state>Colonia</state>
+			<latitude>-342723</latitude>
+			<longitude>-572723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negra -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-340390</latitude>
+			<longitude>-536557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negros -- (State: Maldonado)">
+			<state>Maldonado</state>
+			<latitude>-346890</latitude>
+			<longitude>-546723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negros Nanez -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-325723</latitude>
+			<longitude>-579557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nicho -- (State: Colonia)">
+			<state>Colonia</state>
+			<latitude>-341890</latitude>
+			<longitude>-576723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nieto -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-336390</latitude>
+			<longitude>-580557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nogues -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-329723</latitude>
+			<longitude>-552057</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noguez -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-346390</latitude>
+			<longitude>-543390</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novillos -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-330723</latitude>
+			<longitude>-548890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novillos -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-319723</latitude>
+			<longitude>-556723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nueva Helvecia -- (State: Colonia)">
+			<state>Colonia</state>
+			<latitude>-342890</latitude>
+			<longitude>-572223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nueva Palmira -- (State: Colonia)">
+			<state>Colonia</state>
+			<latitude>-338723</latitude>
+			<longitude>-584057</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuevo Paris -- (State: Montevideo)">
+			<state>Montevideo</state>
+			<latitude>-348390</latitude>
+			<longitude>-562223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nutrias -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-320223</latitude>
+			<longitude>-562057</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nutrias -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-345557</latitude>
+			<longitude>-556890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oeste -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-344556</latitude>
+			<longitude>-543389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojo de Agua -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-318056</latitude>
+			<longitude>-543889</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojos de Agua -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>-347056</latitude>
+			<longitude>-563556</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojos de Agua -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-307056</latitude>
+			<longitude>-575222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojosmin -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-336389</latitude>
+			<longitude>-571556</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojosmin -- (State: Flores)">
+			<state>Flores</state>
+			<latitude>-337222</latitude>
+			<longitude>-571222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olimar -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-332556</latitude>
+			<longitude>-538556</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olimar Chico -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-332222</latitude>
+			<longitude>-545056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olimar Santa Clara -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-329056</latitude>
+			<longitude>-549556</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olivera -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-323389</latitude>
+			<longitude>-565389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olivera -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-311722</latitude>
+			<longitude>-569222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olivera -- (State: Soriano)">
+			<state>Soriano</state>
+			<latitude>-335722</latitude>
+			<longitude>-576889</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olivera -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-336056</latitude>
+			<longitude>-537056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olmos -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-346889</latitude>
+			<longitude>-558889</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombu -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-337556</latitude>
+			<longitude>-556889</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombu -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-307889</latitude>
+			<longitude>-565389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombu -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-318056</latitude>
+			<longitude>-543222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombucitos -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-330722</latitude>
+			<longitude>-580722</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombues de Lavalle -- (State: Colonia)">
+			<state>Colonia</state>
+			<latitude>-339056</latitude>
+			<longitude>-578222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombues de Oribe -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-332889</latitude>
+			<longitude>-563389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oratorio -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-339722</latitude>
+			<longitude>-539722</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ordeig -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>-346389</latitude>
+			<longitude>-567056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orgoroso -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-323722</latitude>
+			<longitude>-574889</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oribe -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-314889</latitude>
+			<longitude>-571056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oro -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-330389</latitude>
+			<longitude>-540389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortiz -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-343389</latitude>
+			<longitude>-553722</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortiz Bank">
+			<state></state>
+			<latitude>-346556</latitude>
+			<longitude>-573222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ovejas -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-332556</latitude>
+			<longitude>-558056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ovidio Morato -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-323722</latitude>
+			<longitude>-566722</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta del Este -- (State: Maldonado)">
+			<state>Maldonado</state>
+			<latitude>-349555</latitude>
+			<longitude>-549388</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebracho -- (State: Rocha)">
+			<state>Rocha</state>
+			<latitude>-336554</latitude>
+			<longitude>-540387</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebracho -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-307054</latitude>
+			<longitude>-561054</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebracho -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-326720</latitude>
+			<longitude>-546220</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebracho -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-346554</latitude>
+			<longitude>-554720</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebracho -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-311387</latitude>
+			<longitude>-561554</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebracho -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-319387</latitude>
+			<longitude>-578720</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebracho Chico -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-319554</latitude>
+			<longitude>-577887</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebrada Chico -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-319887</latitude>
+			<longitude>-560220</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebrada de los Cuervos -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-331554</latitude>
+			<longitude>-544387</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quebrada Grande -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-321720</latitude>
+			<longitude>-560220</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queguay -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-320720</latitude>
+			<longitude>-579054</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queguay Chico -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-321554</latitude>
+			<longitude>-574554</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queguay Grande -- (State: Paysandu)">
+			<state>Paysandu</state>
+			<latitude>-321387</latitude>
+			<longitude>-581387</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quiebra Yugos -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-316554</latitude>
+			<longitude>-561554</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quiebra Yuyos -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-325220</latitude>
+			<longitude>-547720</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quiebra Yuyos -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-339220</latitude>
+			<longitude>-563720</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quillay -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-320554</latitude>
+			<longitude>-562054</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinta -- (State: Colonia)">
+			<state>Colonia</state>
+			<latitude>-341387</latitude>
+			<longitude>-571554</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinta -- (State: Maldonado)">
+			<state>Maldonado</state>
+			<latitude>-346220</latitude>
+			<longitude>-548554</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinta -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-346220</latitude>
+			<longitude>-564054</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quintana -- (State: Canelones)">
+			<state>Canelones</state>
+			<latitude>-344220</latitude>
+			<longitude>-562220</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quintana -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-313887</latitude>
+			<longitude>-563554</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quirquincho -- (State: Maldonado)">
+			<state>Maldonado</state>
+			<latitude>-345387</latitude>
+			<longitude>-549220</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rivera">
+			<state></state>
+			<latitude>-308886</latitude>
+			<longitude>-555053</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salto">
+			<state></state>
+			<latitude>-313718</latitude>
+			<longitude>-579552</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salto -- (State: Flores)">
+			<state>Flores</state>
+			<latitude>-332385</latitude>
+			<longitude>-572552</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salto Chico">
+			<state></state>
+			<latitude>-313552</latitude>
+			<longitude>-579718</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salto Grande">
+			<state></state>
+			<latitude>-312218</latitude>
+			<longitude>-579052</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Una de Gato -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-330716</latitude>
+			<longitude>-536550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Una de Gato -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-307216</latitude>
+			<longitude>-568050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Una de Gato -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-308383</latitude>
+			<longitude>-574716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urioste -- (State: Florida)">
+			<state>Florida</state>
+			<latitude>-340216</latitude>
+			<longitude>-560383</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uvas -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-326550</latitude>
+			<longitude>-540550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenceslao Silveira -- (State: Montevideo)">
+			<state>Montevideo</state>
+			<latitude>-325048</latitude>
+			<longitude>-545714</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yacare -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-310546</latitude>
+			<longitude>-573546</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yacare -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-330212</latitude>
+			<longitude>-580546</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yacare -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-305379</latitude>
+			<longitude>-574546</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yacare Chico -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-301212</latitude>
+			<longitude>-569879</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yacat -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-301046</latitude>
+			<longitude>-568879</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaguan -- (State: Rivera)">
+			<state>Rivera</state>
+			<latitude>-315046</latitude>
+			<longitude>-549546</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaguarete -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-331046</latitude>
+			<longitude>-582712</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaguarete Chico -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-331379</latitude>
+			<longitude>-582546</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaguari -- (State: Tacuarembo)">
+			<state>Tacuarembo</state>
+			<latitude>-322046</latitude>
+			<longitude>-554046</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yala -- (State: Salto)">
+			<state>Salto</state>
+			<latitude>-313546</latitude>
+			<longitude>-563212</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yapeyu -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-330379</latitude>
+			<longitude>-576046</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeguada -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-329712</latitude>
+			<longitude>-580546</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeguada -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-329879</latitude>
+			<longitude>-548879</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerbal -- (State: Lavalleja)">
+			<state>Lavalleja</state>
+			<latitude>-334879</latitude>
+			<longitude>-546546</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerbal -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-333046</latitude>
+			<longitude>-546879</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerbal Chico -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-330879</latitude>
+			<longitude>-543879</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerbalito -- (State: Cerro Largo)">
+			<state>Cerro Largo</state>
+			<latitude>-321379</latitude>
+			<longitude>-537046</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerbalito -- (State: Treinta y Tres)">
+			<state>Treinta y Tres</state>
+			<latitude>-329879</latitude>
+			<longitude>-544712</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yi -- (State: Durazno)">
+			<state>Durazno</state>
+			<latitude>-333379</latitude>
+			<longitude>-564879</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yi">
+			<state></state>
+			<latitude>-331046</latitude>
+			<longitude>-571212</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yucutuja Mini -- (State: Artigas)">
+			<state>Artigas</state>
+			<latitude>-304212</latitude>
+			<longitude>-573046</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

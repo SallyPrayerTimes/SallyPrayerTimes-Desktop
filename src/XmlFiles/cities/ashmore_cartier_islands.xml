@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Ashmore Cartier Islands">
+		<city name="Ashmore and Cartier Islands">
+			<state></state>
+			<latitude>-124070</latitude>
+			<longitude>1233430</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ashmore Reef">
+			<state></state>
+			<latitude>-122236</latitude>
+			<longitude>1230930</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cartier Islet">
+			<state></state>
+			<latitude>-125234</latitude>
+			<longitude>1235432</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Islet">
+			<state></state>
+			<latitude>-122232</latitude>
+			<longitude>1231601</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hibernia Reef">
+			<state></state>
+			<latitude>-119896</latitude>
+			<longitude>1233937</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johnson Bank">
+			<state></state>
+			<latitude>-123727</latitude>
+			<longitude>1232939</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marlin Bank">
+			<state></state>
+			<latitude>-121724</latitude>
+			<longitude>1229942</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osborn Passage">
+			<state></state>
+			<latitude>-126556</latitude>
+			<longitude>1240611</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasco Passage">
+			<state></state>
+			<latitude>-124721</latitude>
+			<longitude>1235445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wave Governor Bank">
+			<state></state>
+			<latitude>-125548</latitude>
+			<longitude>1236119</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Islet">
+			<state></state>
+			<latitude>-122048</latitude>
+			<longitude>1230286</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodbine Bank">
+			<state></state>
+			<latitude>-123881</latitude>
+			<longitude>1235119</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

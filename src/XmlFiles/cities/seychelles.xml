@@ -1,0 +1,621 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Seychelles">
+		<city name="Adelaide Bank">
+			<state></state>
+			<latitude>-65736</latitude>
+			<longitude>568097</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Albatross Rocks">
+			<state></state>
+			<latitude>-42903</latitude>
+			<longitude>558764</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alphonse Island">
+			<state></state>
+			<latitude>-69903</latitude>
+			<longitude>527430</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baie Chevalier">
+			<state></state>
+			<latitude>-42735</latitude>
+			<longitude>556931</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baie Curieuse">
+			<state></state>
+			<latitude>-42735</latitude>
+			<longitude>557431</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baie Lazare">
+			<state></state>
+			<latitude>-47402</latitude>
+			<longitude>554931</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baie Sainte Anne">
+			<state></state>
+			<latitude>-43069</latitude>
+			<longitude>557431</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baie Ternay">
+			<state></state>
+			<latitude>-46235</latitude>
+			<longitude>553765</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baillon River">
+			<state></state>
+			<latitude>-46902</latitude>
+			<longitude>554931</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bar Silhouette">
+			<state></state>
+			<latitude>-38235</latitude>
+			<longitude>552265</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barbarons">
+			<state></state>
+			<latitude>-46735</latitude>
+			<longitude>554598</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beau Vallon">
+			<state></state>
+			<latitude>-46069</latitude>
+			<longitude>554431</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bel Air">
+			<state></state>
+			<latitude>-46235</latitude>
+			<longitude>554598</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bel Ombre">
+			<state></state>
+			<latitude>-46069</latitude>
+			<longitude>554265</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benjamen islet">
+			<state></state>
+			<latitude>-54402</latitude>
+			<longitude>533598</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Blanchisseuse Rocks">
+			<state></state>
+			<latitude>-43902</latitude>
+			<longitude>555765</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Booby islet">
+			<state></state>
+			<latitude>-42402</latitude>
+			<longitude>556765</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boudeuse Cay">
+			<state></state>
+			<latitude>-60735</latitude>
+			<longitude>528598</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brisans Rocks">
+			<state></state>
+			<latitude>-45235</latitude>
+			<longitude>554931</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brule Island">
+			<state></state>
+			<latitude>-46569</latitude>
+			<longitude>555431</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caiman Rocks">
+			<state></state>
+			<latitude>-43734</latitude>
+			<longitude>557766</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caimant Point">
+			<state></state>
+			<latitude>-42568</latitude>
+			<longitude>557266</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Macons">
+			<state></state>
+			<latitude>-47568</latitude>
+			<longitude>555266</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Capucin Rock">
+			<state></state>
+			<latitude>-48068</latitude>
+			<longitude>555266</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cascade">
+			<state></state>
+			<latitude>-46568</latitude>
+			<longitude>554932</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cascade Estate">
+			<state></state>
+			<latitude>-46734</latitude>
+			<longitude>555099</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cerf Islands">
+			<state></state>
+			<latitude>-95234</latitude>
+			<longitude>509932</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chauve Souris">
+			<state></state>
+			<latitude>-47234</latitude>
+			<longitude>554766</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chauve Souris islet">
+			<state></state>
+			<latitude>-42901</latitude>
+			<longitude>557599</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chien islet">
+			<state></state>
+			<latitude>-54234</latitude>
+			<longitude>533432</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coconut Islet">
+			<state></state>
+			<latitude>-93901</latitude>
+			<longitude>464599</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coetivy">
+			<state></state>
+			<latitude>-71234</latitude>
+			<longitude>562766</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Conquest Shoal">
+			<state></state>
+			<latitude>-43734</latitude>
+			<longitude>542766</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cosmoledo">
+			<state></state>
+			<latitude>-97068</latitude>
+			<longitude>475932</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cousine">
+			<state></state>
+			<latitude>-43401</latitude>
+			<longitude>556432</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dennis Island">
+			<state></state>
+			<latitude>-37900</latitude>
+			<longitude>556767</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eagle islet">
+			<state></state>
+			<latitude>-51066</latitude>
+			<longitude>533268</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gilberte">
+			<state></state>
+			<latitude>-51230</latitude>
+			<longitude>556603</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Glacis">
+			<state></state>
+			<latitude>-45730</latitude>
+			<longitude>554436</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goelette Island">
+			<state></state>
+			<latitude>-102064</latitude>
+			<longitude>511436</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Anse">
+			<state></state>
+			<latitude>-46730</latitude>
+			<longitude>554436</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande Barbe">
+			<state></state>
+			<latitude>-44897</latitude>
+			<longitude>552270</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande Passe">
+			<state></state>
+			<latitude>-93564</latitude>
+			<longitude>462603</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haddon Point">
+			<state></state>
+			<latitude>-44729</latitude>
+			<longitude>552771</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hangard">
+			<state></state>
+			<latitude>-45896</latitude>
+			<longitude>554771</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harrison Rocks">
+			<state></state>
+			<latitude>-46063</latitude>
+			<longitude>555271</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hermes">
+			<state></state>
+			<latitude>-50396</latitude>
+			<longitude>550437</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Houdoul Rock">
+			<state></state>
+			<latitude>-45729</latitude>
+			<longitude>554771</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joao de Nova">
+			<state></state>
+			<latitude>-101561</latitude>
+			<longitude>511773</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junon Bank">
+			<state></state>
+			<latitude>-52061</latitude>
+			<longitude>570939</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="L Enponcement">
+			<state></state>
+			<latitude>-47392</latitude>
+			<longitude>555275</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="L Ilot">
+			<state></state>
+			<latitude>-45892</latitude>
+			<longitude>559108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Blague Bay">
+			<state></state>
+			<latitude>-43059</latitude>
+			<longitude>557941</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Digue">
+			<state></state>
+			<latitude>-43392</latitude>
+			<longitude>558441</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Plaine Estate">
+			<state></state>
+			<latitude>-46392</latitude>
+			<longitude>554108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Le Rocher">
+			<state></state>
+			<latitude>-46392</latitude>
+			<longitude>554775</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Les Parisiennes">
+			<state></state>
+			<latitude>-42892</latitude>
+			<longitude>556941</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Les Roches Canales">
+			<state></state>
+			<latitude>-43225</latitude>
+			<longitude>558108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Les Soeurs">
+			<state></state>
+			<latitude>-42725</latitude>
+			<longitude>558775</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Les Trois Freres">
+			<state></state>
+			<latitude>-46225</latitude>
+			<longitude>554441</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahe">
+			<state></state>
+			<latitude>-46558</latitude>
+			<longitude>554776</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noody Rock">
+			<state></state>
+			<latitude>-45557</latitude>
+			<longitude>559443</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Cousin Islet">
+			<state></state>
+			<latitude>-43057</latitude>
+			<longitude>556610</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatres Bornes">
+			<state></state>
+			<latitude>-47720</latitude>
+			<longitude>555280</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recif islet">
+			<state></state>
+			<latitude>-45719</latitude>
+			<longitude>557614</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Remire Reef">
+			<state></state>
+			<latitude>-50719</latitude>
+			<longitude>533781</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Renommee Rock">
+			<state></state>
+			<latitude>-44553</latitude>
+			<longitude>558614</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ressource Island">
+			<state></state>
+			<latitude>-53886</latitude>
+			<longitude>533447</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rouge Point">
+			<state></state>
+			<latitude>-42553</latitude>
+			<longitude>557614</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Anns Bay">
+			<state></state>
+			<latitude>-43218</latitude>
+			<longitude>557782</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sea Cow island">
+			<state></state>
+			<latitude>-37052</latitude>
+			<longitude>552115</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seychelles">
+			<state></state>
+			<latitude>-45718</latitude>
+			<longitude>556782</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shark Rock">
+			<state></state>
+			<latitude>-43885</latitude>
+			<longitude>557782</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shark Rocks">
+			<state></state>
+			<latitude>-55552</latitude>
+			<longitude>536782</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sherard Osborn Patch">
+			<state></state>
+			<latitude>-47718</latitude>
+			<longitude>545115</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stork Patch">
+			<state></state>
+			<latitude>-47052</latitude>
+			<longitude>554115</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takamaka">
+			<state></state>
+			<latitude>-47551</latitude>
+			<longitude>555116</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ternay Pass">
+			<state></state>
+			<latitude>-46384</latitude>
+			<longitude>553783</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="the Amirante archipelago">
+			<state></state>
+			<latitude>-59884</latitude>
+			<longitude>531783</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Cousins">
+			<state></state>
+			<latitude>-43217</latitude>
+			<longitude>556783</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Therese Island">
+			<state></state>
+			<latitude>-46551</latitude>
+			<longitude>554116</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tortue Rock">
+			<state></state>
+			<latitude>-46551</latitude>
+			<longitude>555616</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trois Dames">
+			<state></state>
+			<latitude>-46717</latitude>
+			<longitude>554283</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trompeuse Rocks">
+			<state></state>
+			<latitude>-43717</latitude>
+			<longitude>556283</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umzinto Bank">
+			<state></state>
+			<latitude>-96216</latitude>
+			<longitude>513117</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria">
+			<state></state>
+			<latitude>-46049</latitude>
+			<longitude>554618</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria Harbour">
+			<state></state>
+			<latitude>-46049</latitude>
+			<longitude>554951</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whale Rocks">
+			<state></state>
+			<latitude>-42714</latitude>
+			<longitude>556619</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

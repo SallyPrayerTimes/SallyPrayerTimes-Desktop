@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Wallis Futuna">
+		<city name="Ahoa">
+			<state></state>
+			<latitude>-132736</latitude>
+			<longitude>-1761903</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alele">
+			<state></state>
+			<latitude>-132236</latitude>
+			<longitude>-1761403</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alo">
+			<state></state>
+			<latitude>-143070</latitude>
+			<longitude>-1781070</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baie de Mata utu">
+			<state></state>
+			<latitude>-133069</latitude>
+			<longitude>-1761069</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baie de Mua">
+			<state></state>
+			<latitude>-133735</latitude>
+			<longitude>-1761402</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banc Adolph">
+			<state></state>
+			<latitude>-119069</latitude>
+			<longitude>-1781569</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banc de la Meurthe">
+			<state></state>
+			<latitude>-143402</latitude>
+			<longitude>-1779569</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banka Tuskarora">
+			<state></state>
+			<latitude>-118235</latitude>
+			<longitude>-1782402</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bayonnaise Seamount">
+			<state></state>
+			<latitude>-121069</latitude>
+			<longitude>-1797069</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chenal Sain">
+			<state></state>
+			<latitude>-143234</latitude>
+			<longitude>-1780401</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Circonscription d Alo">
+			<state></state>
+			<latitude>-143068</latitude>
+			<longitude>-1780234</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fakauita">
+			<state></state>
+			<latitude>-132398</latitude>
+			<longitude>-1761731</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaleu">
+			<state></state>
+			<latitude>-132898</latitude>
+			<longitude>-1761398</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feletoa">
+			<state></state>
+			<latitude>-133731</latitude>
+			<longitude>-1761731</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fineveke">
+			<state></state>
+			<latitude>-133065</latitude>
+			<longitude>-1761898</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foi">
+			<state></state>
+			<latitude>-142898</latitude>
+			<longitude>-1780731</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foss Bank">
+			<state></state>
+			<latitude>-144065</latitude>
+			<longitude>-1759898</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fungauvea Pass">
+			<state></state>
+			<latitude>-132398</latitude>
+			<longitude>-1762065</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gamua">
+			<state></state>
+			<latitude>-132397</latitude>
+			<longitude>-1761230</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Green Point">
+			<state></state>
+			<latitude>-143230</latitude>
+			<longitude>-1780064</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haatofo">
+			<state></state>
+			<latitude>-133229</latitude>
+			<longitude>-1761396</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halalo">
+			<state></state>
+			<latitude>-133396</latitude>
+			<longitude>-1761729</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Homeknoll Island">
+			<state></state>
+			<latitude>-129063</latitude>
+			<longitude>-1756063</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iles Futuna">
+			<state></state>
+			<latitude>-143062</latitude>
+			<longitude>-1780728</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Nukufotu">
+			<state></state>
+			<latitude>-131728</latitude>
+			<longitude>-1761562</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isabella Reef">
+			<state></state>
+			<latitude>-124062</latitude>
+			<longitude>-1774062</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kolopopo">
+			<state></state>
+			<latitude>-133393</latitude>
+			<longitude>-1761560</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Lanutuli">
+			<state></state>
+			<latitude>-133059</latitude>
+			<longitude>-1761725</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lalla Rookh Bank">
+			<state></state>
+			<latitude>-129059</latitude>
+			<longitude>-1756559</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liku">
+			<state></state>
+			<latitude>-132559</latitude>
+			<longitude>-1761225</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loka Hill">
+			<state></state>
+			<latitude>-132559</latitude>
+			<longitude>-1761392</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mamelon Vert">
+			<state></state>
+			<latitude>-143391</latitude>
+			<longitude>-1779724</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mata utu">
+			<state></state>
+			<latitude>-132724</latitude>
+			<longitude>-1761224</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mont Bougainville">
+			<state></state>
+			<latitude>-143391</latitude>
+			<longitude>-1780224</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mont Holo">
+			<state></state>
+			<latitude>-132724</latitude>
+			<longitude>-1761558</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mont Lausikula">
+			<state></state>
+			<latitude>-133058</latitude>
+			<longitude>-1762058</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mont Lulu Fakahega">
+			<state></state>
+			<latitude>-132558</latitude>
+			<longitude>-1761558</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mont Singavi">
+			<state></state>
+			<latitude>-142558</latitude>
+			<longitude>-1781391</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mouillage de Matalaa">
+			<state></state>
+			<latitude>-133224</latitude>
+			<longitude>-1761224</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nukufetao">
+			<state></state>
+			<latitude>-133390</latitude>
+			<longitude>-1761390</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasco Reef">
+			<state></state>
+			<latitude>-130721</latitude>
+			<longitude>-1744055</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Passe Faioa">
+			<state></state>
+			<latitude>-133555</latitude>
+			<longitude>-1761388</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Point Finekova">
+			<state></state>
+			<latitude>-133555</latitude>
+			<longitude>-1761221</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe de Sable">
+			<state></state>
+			<latitude>-143055</latitude>
+			<longitude>-1780388</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Falaise">
+			<state></state>
+			<latitude>-142888</latitude>
+			<longitude>-1780555</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Lalofetau">
+			<state></state>
+			<latitude>-133721</latitude>
+			<longitude>-1761221</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Puko">
+			<state></state>
+			<latitude>-133555</latitude>
+			<longitude>-1761721</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pugega Point">
+			<state></state>
+			<latitude>-132721</latitude>
+			<longitude>-1762055</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Robbie Bank">
+			<state></state>
+			<latitude>-110386</latitude>
+			<longitude>-1768719</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rochers de Champeaux">
+			<state></state>
+			<latitude>-142053</latitude>
+			<longitude>-1781719</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rotumah Reef">
+			<state></state>
+			<latitude>-134053</latitude>
+			<longitude>-1793386</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sail Rock">
+			<state></state>
+			<latitude>-133552</latitude>
+			<longitude>-1761552</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siafiafi Seamount">
+			<state></state>
+			<latitude>-122385</latitude>
+			<longitude>-1754885</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sigave">
+			<state></state>
+			<latitude>-142885</latitude>
+			<longitude>-1781552</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singave">
+			<state></state>
+			<latitude>-142385</latitude>
+			<longitude>-1781385</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tepa">
+			<state></state>
+			<latitude>-133051</latitude>
+			<longitude>-1761384</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tufuone">
+			<state></state>
+			<latitude>-132051</latitude>
+			<longitude>-1761551</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utuloa">
+			<state></state>
+			<latitude>-132550</latitude>
+			<longitude>-1761716</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uvea">
+			<state></state>
+			<latitude>-132883</latitude>
+			<longitude>-1761550</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vele">
+			<state></state>
+			<latitude>-143049</latitude>
+			<longitude>-1780549</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wallis et Futuna">
+			<state></state>
+			<latitude>-132881</latitude>
+			<longitude>-1761881</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

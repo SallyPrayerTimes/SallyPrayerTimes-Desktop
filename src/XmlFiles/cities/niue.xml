@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Niue">
+		<city name="Aleuta">
+			<state></state>
+			<latitude>-190403</latitude>
+			<longitude>-1699403</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alofi">
+			<state></state>
+			<latitude>-190070</latitude>
+			<longitude>-1699070</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alofi Bay">
+			<state></state>
+			<latitude>-190070</latitude>
+			<longitude>-1699236</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ana">
+			<state></state>
+			<latitude>-190570</latitude>
+			<longitude>-1698070</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anaheke">
+			<state></state>
+			<latitude>-189736</latitude>
+			<longitude>-1699070</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avatele">
+			<state></state>
+			<latitude>-190903</latitude>
+			<longitude>-1699070</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avatele Bay">
+			<state></state>
+			<latitude>-190736</latitude>
+			<longitude>-1699236</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fagalilika">
+			<state></state>
+			<latitude>-190565</latitude>
+			<longitude>-1699065</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falehavaiki">
+			<state></state>
+			<latitude>-190898</latitude>
+			<longitude>-1698565</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fatiau">
+			<state></state>
+			<latitude>-191065</latitude>
+			<longitude>-1698898</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuata">
+			<state></state>
+			<latitude>-190565</latitude>
+			<longitude>-1698898</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fugigie">
+			<state></state>
+			<latitude>-189898</latitude>
+			<longitude>-1699065</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fulalatea">
+			<state></state>
+			<latitude>-190898</latitude>
+			<longitude>-1698898</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fumaila">
+			<state></state>
+			<latitude>-189398</latitude>
+			<longitude>-1698731</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grutulili">
+			<state></state>
+			<latitude>-189564</latitude>
+			<longitude>-1698064</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hikutivake">
+			<state></state>
+			<latitude>-189229</latitude>
+			<longitude>-1698729</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huvalu">
+			<state></state>
+			<latitude>-190563</latitude>
+			<longitude>-1697896</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iniue">
+			<state></state>
+			<latitude>-190228</latitude>
+			<longitude>-1698562</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaimite">
+			<state></state>
+			<latitude>-190393</latitude>
+			<longitude>-1699060</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaopa">
+			<state></state>
+			<latitude>-190060</latitude>
+			<longitude>-1697726</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lalole">
+			<state></state>
+			<latitude>-189559</latitude>
+			<longitude>-1697892</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liha">
+			<state></state>
+			<latitude>-189392</latitude>
+			<longitude>-1697892</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makanga">
+			<state></state>
+			<latitude>-189891</latitude>
+			<longitude>-1697891</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makatugi">
+			<state></state>
+			<latitude>-190724</latitude>
+			<longitude>-1699058</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mamakula">
+			<state></state>
+			<latitude>-189391</latitude>
+			<longitude>-1698891</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matalakuti">
+			<state></state>
+			<latitude>-189391</latitude>
+			<longitude>-1698058</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motule">
+			<state></state>
+			<latitude>-189224</latitude>
+			<longitude>-1698224</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Natuku">
+			<state></state>
+			<latitude>-190223</latitude>
+			<longitude>-1697723</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nukufetau">
+			<state></state>
+			<latitude>-190890</latitude>
+			<longitude>-1698390</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pikiona">
+			<state></state>
+			<latitude>-190721</latitude>
+			<longitude>-1698055</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takaogo">
+			<state></state>
+			<latitude>-190384</latitude>
+			<longitude>-1697717</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taoli">
+			<state></state>
+			<latitude>-190884</latitude>
+			<longitude>-1698717</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tialeuta">
+			<state></state>
+			<latitude>-189384</latitude>
+			<longitude>-1698384</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tomb Point">
+			<state></state>
+			<latitude>-190217</latitude>
+			<longitude>-1699051</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tumea">
+			<state></state>
+			<latitude>-189717</latitude>
+			<longitude>-1697884</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vahavaha">
+			<state></state>
+			<latitude>-190882</latitude>
+			<longitude>-1698215</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

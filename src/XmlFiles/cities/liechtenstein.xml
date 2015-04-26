@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Liechtenstein">
+		<city name="Balzers">
+			<state></state>
+			<latitude>470765</latitude>
+			<longitude>95098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bettlerjoch">
+			<state></state>
+			<latitude>470765</latitude>
+			<longitude>96265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drei Schwestern">
+			<state></state>
+			<latitude>471767</latitude>
+			<longitude>95600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ebenholz">
+			<state></state>
+			<latitude>471601</latitude>
+			<longitude>95268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enderlin Horn">
+			<state></state>
+			<latitude>470601</latitude>
+			<longitude>95768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eschen">
+			<state></state>
+			<latitude>472268</latitude>
+			<longitude>95268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frastanzer Sand">
+			<state></state>
+			<latitude>472102</latitude>
+			<longitude>95935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Furstensteig">
+			<state></state>
+			<latitude>471435</latitude>
+			<longitude>95602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gaflei">
+			<state></state>
+			<latitude>471436</latitude>
+			<longitude>95436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gallinakopf">
+			<state></state>
+			<latitude>471603</latitude>
+			<longitude>96270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gamprin">
+			<state></state>
+			<latitude>472270</latitude>
+			<longitude>95103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Garsellakopf">
+			<state></state>
+			<latitude>471770</latitude>
+			<longitude>95770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grauspitz">
+			<state></state>
+			<latitude>470603</latitude>
+			<longitude>95936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lichtenstein">
+			<state></state>
+			<latitude>471775</latitude>
+			<longitude>95441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naafkopf">
+			<state></state>
+			<latitude>470610</latitude>
+			<longitude>96110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nendeln">
+			<state></state>
+			<latitude>472110</latitude>
+			<longitude>95610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ochsenberg">
+			<state></state>
+			<latitude>471278</latitude>
+			<longitude>96444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Planken">
+			<state></state>
+			<latitude>471945</latitude>
+			<longitude>95445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ratikon">
+			<state></state>
+			<latitude>470614</latitude>
+			<longitude>97614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotaboda">
+			<state></state>
+			<latitude>471281</latitude>
+			<longitude>95614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ruggell">
+			<state></state>
+			<latitude>472447</latitude>
+			<longitude>95281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saminatal">
+			<state></state>
+			<latitude>471782</latitude>
+			<longitude>95948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schaan">
+			<state></state>
+			<latitude>471782</latitude>
+			<longitude>95115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schaanwald">
+			<state></state>
+			<latitude>472282</latitude>
+			<longitude>95782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Scheienkopf">
+			<state></state>
+			<latitude>471448</latitude>
+			<longitude>96448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Triesen">
+			<state></state>
+			<latitude>471116</latitude>
+			<longitude>95449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Triesenberg">
+			<state></state>
+			<latitude>471283</latitude>
+			<longitude>95449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unteres Riet">
+			<state></state>
+			<latitude>472617</latitude>
+			<longitude>95450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaduz">
+			<state></state>
+			<latitude>471451</latitude>
+			<longitude>95285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valuna">
+			<state></state>
+			<latitude>470951</latitude>
+			<longitude>95951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

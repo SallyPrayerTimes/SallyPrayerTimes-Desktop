@@ -1,0 +1,474 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Ecuador">
+		<city name="10 de Agosto -- (State: Manabi)">
+			<state>Manabi</state>
+			<latitude>-12618</latitude>
+			<longitude>-803784</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="24 de Mayo -- (State: Manabi)">
+			<state>Manabi</state>
+			<latitude>-12617</latitude>
+			<longitude>-804283</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Junio -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-28544</latitude>
+			<longitude>-776314</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="26 de Agosto -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-28747</latitude>
+			<longitude>-776661</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="28 de Mayo -- (State: Zamora-Chinchipe)">
+			<state>Zamora-Chinchipe</state>
+			<latitude>-36278</latitude>
+			<longitude>-789194</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ambato -- (State: Tungurahua)">
+			<state>Tungurahua</state>
+			<latitude>-12403</latitude>
+			<longitude>-786070</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cuenca -- (State: Azuay)">
+			<state>Azuay</state>
+			<latitude>-28734</latitude>
+			<longitude>-789734</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esmeraldas -- (State: Guayas)">
+			<state>Guayas</state>
+			<latitude>-18566</latitude>
+			<longitude>-797899</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esmeraldas">
+			<state></state>
+			<latitude>9934</latitude>
+			<longitude>-796899</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esmeraldas -- (State: Azuay)">
+			<state>Azuay</state>
+			<latitude>-33232</latitude>
+			<longitude>-793899</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esmeraldas Libre -- (State: Sucumbios)">
+			<state>Sucumbios</state>
+			<latitude>876</latitude>
+			<longitude>-768735</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guayaquil -- (State: Guayas)">
+			<state>Guayas</state>
+			<latitude>-21564</latitude>
+			<longitude>-798897</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaank Chico -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-28610</latitude>
+			<longitude>-778574</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kampan Naint -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-30318</latitude>
+			<longitude>-779082</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaniants -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-27171</latitude>
+			<longitude>-775301</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kapantinentza -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-26676</latitude>
+			<longitude>-774660</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaputna -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-30062</latitude>
+			<longitude>-779110</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kashaints -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-26893</latitude>
+			<longitude>-775243</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaspaimi -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-28118</latitude>
+			<longitude>-776974</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kayamas -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-29054</latitude>
+			<longitude>-778521</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kicker Rock -- (State: Galapagos)">
+			<state>Galapagos</state>
+			<latitude>-7560</latitude>
+			<longitude>-895060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koango -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-30887</latitude>
+			<longitude>-782146</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuchints -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-25768</latitude>
+			<longitude>-770799</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kunchai -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-27437</latitude>
+			<longitude>-777749</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Machala -- (State: El Oro)">
+			<state>El Oro</state>
+			<latitude>-32558</latitude>
+			<longitude>-799558</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manta -- (State: Manabi)">
+			<state>Manabi</state>
+			<latitude>-9391</latitude>
+			<longitude>-807224</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Portoviejo -- (State: Manabi)">
+			<state>Manabi</state>
+			<latitude>-10388</latitude>
+			<longitude>-804388</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Portoviejo -- (State: El Oro)">
+			<state>El Oro</state>
+			<latitude>-37055</latitude>
+			<longitude>-796055</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quito -- (State: Pichincha)">
+			<state>Pichincha</state>
+			<latitude>-2054</latitude>
+			<longitude>-784887</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quito Basin -- (State: Pichincha)">
+			<state>Pichincha</state>
+			<latitude>113</latitude>
+			<longitude>-783220</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quitocucho -- (State: Tungurahua)">
+			<state>Tungurahua</state>
+			<latitude>-13554</latitude>
+			<longitude>-785720</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quitoloma -- (State: Chimborazo)">
+			<state>Chimborazo</state>
+			<latitude>-16220</latitude>
+			<longitude>-787220</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salinas -- (State: El Oro)">
+			<state>El Oro</state>
+			<latitude>-33718</latitude>
+			<longitude>-803052</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salinas -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>-13885</latitude>
+			<longitude>-790052</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salinas -- (State: Manabi)">
+			<state>Manabi</state>
+			<latitude>-6218</latitude>
+			<longitude>-802885</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salinas -- (State: Guayas)">
+			<state>Guayas</state>
+			<latitude>-29385</latitude>
+			<longitude>-801218</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salinas -- (State: Imbabura)">
+			<state>Imbabura</state>
+			<latitude>5615</latitude>
+			<longitude>-781218</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salinas Point -- (State: Guayas)">
+			<state>Guayas</state>
+			<latitude>-30552</latitude>
+			<longitude>-802552</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubillas -- (State: Pichincha)">
+			<state>Pichincha</state>
+			<latitude>-4216</latitude>
+			<longitude>-783716</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubillus -- (State: Pichincha)">
+			<state>Pichincha</state>
+			<latitude>-4050</latitude>
+			<longitude>-783716</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uchupucun -- (State: Canar)">
+			<state>Canar</state>
+			<latitude>-27216</latitude>
+			<longitude>-788216</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uculoma -- (State: Canar)">
+			<state>Canar</state>
+			<latitude>-25550</latitude>
+			<longitude>-789216</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ucumarina -- (State: Azuay)">
+			<state>Azuay</state>
+			<latitude>-26550</latitude>
+			<longitude>-786216</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udushapa -- (State: Azuay)">
+			<state>Azuay</state>
+			<latitude>-34050</latitude>
+			<longitude>-791216</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uimbi -- (State: Esmeraldas)">
+			<state>Esmeraldas</state>
+			<latitude>9617</latitude>
+			<longitude>-787716</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulba -- (State: Tungurahua)">
+			<state>Tungurahua</state>
+			<latitude>-13883</latitude>
+			<longitude>-783550</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulchayacu Grande -- (State: Azuay)">
+			<state>Azuay</state>
+			<latitude>-29716</latitude>
+			<longitude>-790216</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unagua -- (State: Pichincha)">
+			<state>Pichincha</state>
+			<latitude>-5216</latitude>
+			<longitude>-785550</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union y Progreso -- (State: Sucumbios)">
+			<state>Sucumbios</state>
+			<latitude>948</latitude>
+			<longitude>-768791</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upayacu -- (State: Pichincha)">
+			<state>Pichincha</state>
+			<latitude>-550</latitude>
+			<longitude>-785716</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urbina -- (State: Tungurahua)">
+			<state>Tungurahua</state>
+			<latitude>-11383</latitude>
+			<longitude>-785383</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urbina -- (State: Carchi)">
+			<state>Carchi</state>
+			<latitude>8284</latitude>
+			<longitude>-776550</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urcuqui -- (State: Imbabura)">
+			<state>Imbabura</state>
+			<latitude>4450</latitude>
+			<longitude>-781883</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urcusique -- (State: Napo)">
+			<state>Napo</state>
+			<latitude>-6383</latitude>
+			<longitude>-778050</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uspud -- (State: Azuay)">
+			<state>Azuay</state>
+			<latitude>-28383</latitude>
+			<longitude>-787383</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utuana -- (State: Loja)">
+			<state>Loja</state>
+			<latitude>-43716</latitude>
+			<longitude>-796883</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyachuli -- (State: Pichincha)">
+			<state>Pichincha</state>
+			<latitude>-716</latitude>
+			<longitude>-784883</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warintza -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-31728</latitude>
+			<longitude>-782584</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waruints -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-26014</latitude>
+			<longitude>-772067</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasekentza -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-25362</latitude>
+			<longitude>-771859</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wawaim -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-28448</latitude>
+			<longitude>-779725</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weeknunka -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-28528</latitude>
+			<longitude>-775045</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Cutucu -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-27381</latitude>
+			<longitude>-780714</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Western Lowlands">
+			<state></state>
+			<latitude>-9881</latitude>
+			<longitude>-799881</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wichimi -- (State: Morona-Santiago)">
+			<state>Morona-Santiago</state>
+			<latitude>-27292</latitude>
+			<longitude>-773564</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerovi -- (State: Cotopaxi)">
+			<state>Cotopaxi</state>
+			<latitude>-8046</latitude>
+			<longitude>-785879</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zidmad -- (State: Azuay)">
+			<state>Azuay</state>
+			<latitude>-29211</latitude>
+			<longitude>-788878</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

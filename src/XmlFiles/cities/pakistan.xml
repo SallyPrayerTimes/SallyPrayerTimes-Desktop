@@ -1,0 +1,2504 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Pakistan">
+		<city name="Aada -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>321097</latitude>
+			<longitude>750764</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abbottabad -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>341319</latitude>
+			<longitude>731430</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abbottabad District -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340097</latitude>
+			<longitude>730097</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abbottabad Lines -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>249597</latitude>
+			<longitude>672097</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ahmadpur East -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>291597</latitude>
+			<longitude>712764</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Akora Khattak -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340039</latitude>
+			<longitude>721528</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amarpura -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>336430</latitude>
+			<longitude>730930</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arifwala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>302930</latitude>
+			<longitude>730764</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Attock -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>338839</latitude>
+			<longitude>722511</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Attock City -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>337819</latitude>
+			<longitude>723780</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Attock District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>334264</latitude>
+			<longitude>723430</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aza Khel -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>338097</latitude>
+			<longitude>716264</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aza Khel Payan -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>339930</latitude>
+			<longitude>718930</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Badin District -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>246765</latitude>
+			<longitude>690098</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baghiarmar -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>312215</latitude>
+			<longitude>740801</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bahawalnagar -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>305606</latitude>
+			<longitude>734006</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bahawalpur -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>268320</latitude>
+			<longitude>677098</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bahawalpur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>305431</latitude>
+			<longitude>719931</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bahawalpur District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>288431</latitude>
+			<longitude>716765</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bahawalpur Division -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>285098</latitude>
+			<longitude>715098</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bajhianwala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>301904</latitude>
+			<longitude>722265</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bakhshali -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>342931</latitude>
+			<longitude>721598</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Balakot -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>345598</latitude>
+			<longitude>733598</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballowali -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>323765</latitude>
+			<longitude>747431</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bannu -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>329967</latitude>
+			<longitude>706167</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bannu District -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>327598</latitude>
+			<longitude>707598</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Besham -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>349681</latitude>
+			<longitude>728265</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bhakkar -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>287237</latitude>
+			<longitude>709431</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bhaun -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>328765</latitude>
+			<longitude>727598</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bohat Drain -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>324765</latitude>
+			<longitude>735959</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bulrewala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>295431</latitude>
+			<longitude>704737</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buner -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>344598</latitude>
+			<longitude>723848</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burewala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>317931</latitude>
+			<longitude>735265</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="But -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>312254</latitude>
+			<longitude>740573</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cantt -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>303710</latitude>
+			<longitude>686043</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chak Chatta -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>320766</latitude>
+			<longitude>737599</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chak Number Fifteen -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315366</latitude>
+			<longitude>740566</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chakwal -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>331066</latitude>
+			<longitude>726338</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chale Wahan Distributary -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>296016</latitude>
+			<longitude>719724</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chaman -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>304599</latitude>
+			<longitude>670766</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Changa Manga -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>311016</latitude>
+			<longitude>740296</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charsadda -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>341552</latitude>
+			<longitude>717407</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chichawatni -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>305432</latitude>
+			<longitude>727099</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chiniot -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>316266</latitude>
+			<longitude>725099</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chishtian Mandi -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>298099</latitude>
+			<longitude>728766</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Choha Khalsa -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>334266</latitude>
+			<longitude>734932</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="D G Khan Link -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>300253</latitude>
+			<longitude>707836</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Daharki -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>249267</latitude>
+			<longitude>685100</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Daro -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>252711</latitude>
+			<longitude>689794</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Daro Branch -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>244267</latitude>
+			<longitude>680086</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Darsamand -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>334478</latitude>
+			<longitude>706733</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Daska -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>323600</latitude>
+			<longitude>744267</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deo Khara -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>308933</latitude>
+			<longitude>740933</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dera Ghazi Khan -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>300661</latitude>
+			<longitude>706444</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dera Ghazi Khan District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>298433</latitude>
+			<longitude>705100</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dera Ismail Khan -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>318433</latitude>
+			<longitude>709100</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dherai -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>346242</latitude>
+			<longitude>719144</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dhok Budha -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>334742</latitude>
+			<longitude>729261</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dina -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>330433</latitude>
+			<longitude>736100</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dina -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>282433</latitude>
+			<longitude>686600</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dipalpur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>306767</latitude>
+			<longitude>736600</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ehsanpur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>304101</latitude>
+			<longitude>716268</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ejara Kalle -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>343832</latitude>
+			<longitude>716901</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erin Kas -- (State: Azad Kashmir)">
+			<state>Azad Kashmir</state>
+			<latitude>340907</latitude>
+			<longitude>735476</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ezhgai -- (State: Federally Administered Tribal Areas)">
+			<state>Federally Administered Tribal Areas</state>
+			<latitude>324837</latitude>
+			<longitude>694282</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fadda -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>298016</latitude>
+			<longitude>722038</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faisal Town -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>314880</latitude>
+			<longitude>743185</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faisalabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>314269</latitude>
+			<longitude>730935</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faisalabad District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>312602</latitude>
+			<longitude>730102</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faisalabad Division -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>312602</latitude>
+			<longitude>728102</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farooka -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>318985</latitude>
+			<longitude>724210</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fatahjang -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>335760</latitude>
+			<longitude>726594</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fateh Jang -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>332274</latitude>
+			<longitude>727208</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gaggar Kalan -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>329936</latitude>
+			<longitude>735603</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Galoch -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>348603</latitude>
+			<longitude>722770</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ghakhar -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>323103</latitude>
+			<longitude>741603</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ghotki -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>279936</latitude>
+			<longitude>693270</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gilgit -- (State: Northern Areas)">
+			<state>Northern Areas</state>
+			<latitude>357603</latitude>
+			<longitude>745103</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gilgit District -- (State: Northern Areas)">
+			<state>Northern Areas</state>
+			<latitude>362603</latitude>
+			<longitude>742603</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gojra -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>332936</latitude>
+			<longitude>733603</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gojra -- (State: Azad Kashmir)">
+			<state>Azad Kashmir</state>
+			<latitude>334159</latitude>
+			<longitude>738770</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gojrah -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>343284</latitude>
+			<longitude>730784</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Golarchi -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>246603</latitude>
+			<longitude>685103</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guddu Barrage">
+			<state></state>
+			<latitude>284436</latitude>
+			<longitude>697436</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guirat -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>297728</latitude>
+			<longitude>716547</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujar Khan -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>332436</latitude>
+			<longitude>729936</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujaranwali -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>332295</latitude>
+			<longitude>725095</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujarwala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>295159</latitude>
+			<longitude>708978</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujranwala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>321936</latitude>
+			<longitude>723936</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujranwala Distributary -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>321867</latitude>
+			<longitude>742436</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujranwala District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>321770</latitude>
+			<longitude>738436</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujranwala Division -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>324603</latitude>
+			<longitude>741436</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujranwala Main Drainage -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>321034</latitude>
+			<longitude>741325</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujrat -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>323609</latitude>
+			<longitude>713011</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujrat -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>302742</latitude>
+			<longitude>671992</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujrat -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>342936</latitude>
+			<longitude>721770</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gujrat District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>325936</latitude>
+			<longitude>737603</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gurguri -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>333086</latitude>
+			<longitude>707967</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haddowali -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>331704</latitude>
+			<longitude>719054</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hafizabad -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>278798</latitude>
+			<longitude>684298</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hafizabad -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>317496</latitude>
+			<longitude>703021</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hafizabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>314104</latitude>
+			<longitude>734771</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hala Nawa -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>258326</latitude>
+			<longitude>684271</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halani -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>270937</latitude>
+			<longitude>683271</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hangu -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>335432</latitude>
+			<longitude>710704</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hanjarwal -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315012</latitude>
+			<longitude>742460</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haripur -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340076</latitude>
+			<longitude>729440</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haripur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>310104</latitude>
+			<longitude>725771</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haroonabad Municipality -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>296237</latitude>
+			<longitude>731493</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasan Abdal -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>304437</latitude>
+			<longitude>727104</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasilpur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>297226</latitude>
+			<longitude>725657</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hazro -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>339201</latitude>
+			<longitude>725032</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hira Singh -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>306604</latitude>
+			<longitude>740437</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hota -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>301937</latitude>
+			<longitude>732104</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hubco Power Plant">
+			<state></state>
+			<latitude>249604</latitude>
+			<longitude>667104</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hydarabad Branch -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>254854</latitude>
+			<longitude>684548</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyderabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>304882</latitude>
+			<longitude>722507</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyderabad -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>253687</latitude>
+			<longitude>684104</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyderabad Branch -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>256548</latitude>
+			<longitude>685701</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyderabad District -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>255104</latitude>
+			<longitude>687604</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyderabad Division -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>252604</latitude>
+			<longitude>687604</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyderabad Lines -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>249271</latitude>
+			<longitude>672104</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isa -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>295938</latitude>
+			<longitude>655272</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Islam Barrage -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>298272</latitude>
+			<longitude>725605</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Islamabad">
+			<state></state>
+			<latitude>337105</latitude>
+			<longitude>731772</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Islamabad -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>335747</latitude>
+			<longitude>714205</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Islamabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315105</latitude>
+			<longitude>731438</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Islamabad -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>280272</latitude>
+			<longitude>696230</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Islamabad Capital Territory -- (State: Islamabad)">
+			<state>Islamabad</state>
+			<latitude>336772</latitude>
+			<longitude>731772</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Islamabad Gharbi -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315327</latitude>
+			<longitude>737147</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaburi -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>346189</latitude>
+			<longitude>732856</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jack Lines -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315120</latitude>
+			<longitude>743856</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jacobabad -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>282550</latitude>
+			<longitude>683675</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jahanian -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>317037</latitude>
+			<longitude>730606</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jalalpur Jattan -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>326439</latitude>
+			<longitude>742106</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jam Shoro -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>254439</latitude>
+			<longitude>683439</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jandila -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>330106</latitude>
+			<longitude>737273</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaranwala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>313773</latitude>
+			<longitude>734606</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaranwala Distributary -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>313439</latitude>
+			<longitude>734273</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jauharabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>322948</latitude>
+			<longitude>722892</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jhang -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>314787</latitude>
+			<longitude>710356</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jhang Sadar -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>312714</latitude>
+			<longitude>723395</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jhelum -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>325800</latitude>
+			<longitude>730773</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jhelum -- (State: Azad Kashmir)">
+			<state>Azad Kashmir</state>
+			<latitude>341217</latitude>
+			<longitude>739023</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jhelum District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>328439</latitude>
+			<longitude>730106</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jhelum River">
+			<state></state>
+			<latitude>312106</latitude>
+			<longitude>721439</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaarai -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>342532</latitude>
+			<longitude>718243</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kabirwala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>304774</latitude>
+			<longitude>717982</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kadanwari -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>271774</latitude>
+			<longitude>693274</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kahenwal -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>331224</latitude>
+			<longitude>728065</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kahror Pakka -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>296274</latitude>
+			<longitude>719274</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kahuta -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>335940</latitude>
+			<longitude>733940</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kakrali -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>328440</latitude>
+			<longitude>740940</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kakul -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>342163</latitude>
+			<longitude>732996</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kala Gujran -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>331907</latitude>
+			<longitude>729771</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalar Kahar -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>327940</latitude>
+			<longitude>727107</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kamalia -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>307440</latitude>
+			<longitude>726607</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kamar Mushani -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>328546</latitude>
+			<longitude>713776</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kamoke -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>319851</latitude>
+			<longitude>742351</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kamoke Distributary -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>319013</latitude>
+			<longitude>741815</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kamra Airfield -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>338793</latitude>
+			<longitude>724138</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karachi -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>248774</latitude>
+			<longitude>670607</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karachi Cantonment -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>248568</latitude>
+			<longitude>670546</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karachi Central Railroad Station -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>249179</latitude>
+			<longitude>670854</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karachi Circular Railway -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>248957</latitude>
+			<longitude>669860</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karachi District -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>250107</latitude>
+			<longitude>672607</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karachi Harbour -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>248257</latitude>
+			<longitude>669796</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karachi Lines -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>249274</latitude>
+			<longitude>671940</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karachi Manora -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>248010</latitude>
+			<longitude>669904</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karachi University Railroad Station -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>249282</latitude>
+			<longitude>671160</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karahi -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>331951</latitude>
+			<longitude>727160</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karak -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>331307</latitude>
+			<longitude>711054</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kashi -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>267246</latitude>
+			<longitude>663560</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kasur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>311010</latitude>
+			<longitude>744190</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kasur District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>310107</latitude>
+			<longitude>741774</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khairpur -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>245199</latitude>
+			<longitude>675643</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khairpur Mirs -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>275440</latitude>
+			<longitude>687774</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khanewal -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>303107</latitude>
+			<longitude>719440</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharian -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>327774</latitude>
+			<longitude>737274</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharian Cantt Railroad Station -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>327829</latitude>
+			<longitude>738996</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khewra Soda Company -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>326440</latitude>
+			<longitude>730329</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khipro -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>258190</latitude>
+			<longitude>694135</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khojki -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>330107</latitude>
+			<longitude>735440</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khuiratta -- (State: Azad Kashmir)">
+			<state>Azad Kashmir</state>
+			<latitude>333607</latitude>
+			<longitude>740440</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khushab -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>323074</latitude>
+			<longitude>723632</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kohat -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>337218</latitude>
+			<longitude>720132</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kohat District -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>333440</latitude>
+			<longitude>711774</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kot Addu -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>304807</latitude>
+			<longitude>709751</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kot Radha Kishan -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>311832</latitude>
+			<longitude>741104</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lab -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>338652</latitude>
+			<longitude>727650</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahar -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>317561</latitude>
+			<longitude>699344</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahere -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>308566</latitude>
+			<longitude>680552</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahor -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>346414</latitude>
+			<longitude>725275</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahor -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>303441</latitude>
+			<longitude>665941</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahor -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340608</latitude>
+			<longitude>723775</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahor -- (State: Federally Administered Tribal Areas)">
+			<state>Federally Administered Tribal Areas</state>
+			<latitude>344889</latitude>
+			<longitude>713016</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahore -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315605</latitude>
+			<longitude>743544</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahore -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>304108</latitude>
+			<longitude>687941</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahore Anarkali -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315775</latitude>
+			<longitude>743269</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahore Cantonment -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315439</latitude>
+			<longitude>743872</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahore District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>314275</latitude>
+			<longitude>743441</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahore Division -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>311775</latitude>
+			<longitude>745108</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahore Walton Airfield -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315119</latitude>
+			<longitude>743511</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lakki Marwat -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>327011</latitude>
+			<longitude>708455</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lala Musa -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>326997</latitude>
+			<longitude>739719</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Larkana -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>276080</latitude>
+			<longitude>682608</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Larkana District -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>276775</latitude>
+			<longitude>679275</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leiah -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>309775</latitude>
+			<longitude>709441</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liaquatpur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>285566</latitude>
+			<longitude>708775</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lodhran -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>298816</latitude>
+			<longitude>727566</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mahmud Kot -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>309276</latitude>
+			<longitude>719109</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mailsi -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>298112</latitude>
+			<longitude>721867</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maini -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>341276</latitude>
+			<longitude>726276</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mandi Bahauddin -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>325942</latitude>
+			<longitude>735109</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mangla Dam">
+			<state></state>
+			<latitude>331609</latitude>
+			<longitude>736609</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mansehra -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>343442</latitude>
+			<longitude>732109</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mansehra District -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>345109</latitude>
+			<longitude>732609</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mardan -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>301776</latitude>
+			<longitude>664609</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mardan -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>342109</latitude>
+			<longitude>720442</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mardan District -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>342609</latitude>
+			<longitude>722609</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martung -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>346942</latitude>
+			<longitude>727609</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Matli -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>269276</latitude>
+			<longitude>637442</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Matli -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>250651</latitude>
+			<longitude>686498</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mian Channun -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>304609</latitude>
+			<longitude>723776</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mianianwali -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>325109</latitude>
+			<longitude>718442</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mianwala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>317276</latitude>
+			<longitude>736276</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mianwali -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>326234</latitude>
+			<longitude>717609</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mianwali District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>320109</latitude>
+			<longitude>715109</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Milam -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340101</latitude>
+			<longitude>729076</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mingora -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>347942</latitude>
+			<longitude>723776</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mirpur -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>285442</latitude>
+			<longitude>677442</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mirpur -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>281776</latitude>
+			<longitude>687470</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mirpur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>305776</latitude>
+			<longitude>711109</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mirpur -- (State: Azad Kashmir)">
+			<state>Azad Kashmir</state>
+			<latitude>344609</latitude>
+			<longitude>738276</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mirpur -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>342109</latitude>
+			<longitude>732609</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mirpur District -- (State: Azad Kashmir)">
+			<state>Azad Kashmir</state>
+			<latitude>331776</latitude>
+			<longitude>739276</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mirpur Khas -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>255567</latitude>
+			<longitude>690817</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Model Town -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>314953</latitude>
+			<longitude>743353</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moghalpura -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>315726</latitude>
+			<longitude>743887</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mohmand Agency -- (State: Federally Administered Tribal Areas)">
+			<state>Federally Administered Tribal Areas</state>
+			<latitude>345109</latitude>
+			<longitude>713442</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mohsinabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>291220</latitude>
+			<longitude>709165</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Momanpur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>339762</latitude>
+			<longitude>725420</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mu -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>319678</latitude>
+			<longitude>709970</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>302065</latitude>
+			<longitude>714862</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>327565</latitude>
+			<longitude>708381</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan Branch -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>303331</latitude>
+			<longitude>717387</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan Distributary -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>303192</latitude>
+			<longitude>714831</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>300942</latitude>
+			<longitude>716776</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan Division -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>300109</latitude>
+			<longitude>716776</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan Kili -- (State: Federally Administered Tribal Areas)">
+			<state>Federally Administered Tribal Areas</state>
+			<latitude>342406</latitude>
+			<longitude>712551</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan Manjiwala -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>327595</latitude>
+			<longitude>708470</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan Sar -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>348015</latitude>
+			<longitude>719720</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multan Sirki Khel -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>329384</latitude>
+			<longitude>708503</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multanai -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>311928</latitude>
+			<longitude>678262</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multanai Acha -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>318637</latitude>
+			<longitude>694781</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multanai Kili -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>312556</latitude>
+			<longitude>692390</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multanai Shela -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>317476</latitude>
+			<longitude>681287</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multanai Zawar -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>316662</latitude>
+			<longitude>684231</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multanal -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>312220</latitude>
+			<longitude>678165</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multani -- (State: Federally Administered Tribal Areas)">
+			<state>Federally Administered Tribal Areas</state>
+			<latitude>320726</latitude>
+			<longitude>700987</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multani -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>328531</latitude>
+			<longitude>706487</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multani Band -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>311762</latitude>
+			<longitude>678095</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multani Ghar -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>309109</latitude>
+			<longitude>687151</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multani Sar -- (State: Federally Administered Tribal Areas)">
+			<state>Federally Administered Tribal Areas</state>
+			<latitude>341112</latitude>
+			<longitude>712976</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multanipur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>300151</latitude>
+			<longitude>711734</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multaniwala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>304720</latitude>
+			<longitude>722109</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Multanwala -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>298998</latitude>
+			<longitude>706303</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Murree -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>339109</latitude>
+			<longitude>734109</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Murree Hills -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>339276</latitude>
+			<longitude>734276</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mustafa Abad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>307776</latitude>
+			<longitude>737109</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Muzaffarabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>322859</latitude>
+			<longitude>725059</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Muzaffarabad -- (State: Azad Kashmir)">
+			<state>Azad Kashmir</state>
+			<latitude>343581</latitude>
+			<longitude>735331</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Muzaffarabad -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>257067</latitude>
+			<longitude>683151</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Muzaffargarh -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>305942</latitude>
+			<longitude>716776</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Muzaffargarh District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>303442</latitude>
+			<longitude>710942</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naiyeke -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>311824</latitude>
+			<longitude>740952</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nankana Sahib -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>314585</latitude>
+			<longitude>737082</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narowal -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>320277</latitude>
+			<longitude>726110</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nawabshah -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>262610</latitude>
+			<longitude>684277</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nawabshah District -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>265943</latitude>
+			<longitude>681777</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nowshera -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340263</latitude>
+			<longitude>719857</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nowshera Cantonment -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340077</latitude>
+			<longitude>720241</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odherwal -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>329444</latitude>
+			<longitude>728111</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Okara -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>308192</latitude>
+			<longitude>734569</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pakistan">
+			<state></state>
+			<latitude>300112</latitude>
+			<longitude>700112</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pakpattan -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>303612</latitude>
+			<longitude>734112</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pattoki -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>310279</latitude>
+			<longitude>738612</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peshawar -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>303098</latitude>
+			<longitude>680626</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peshawar -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340195</latitude>
+			<longitude>715840</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peshawar District -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340112</latitude>
+			<longitude>717612</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peshawar Division -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340112</latitude>
+			<longitude>720112</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peshawar Lines -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>249612</latitude>
+			<longitude>671945</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peshawar Valley -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340109</latitude>
+			<longitude>716779</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Phalia -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>324445</latitude>
+			<longitude>735945</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pir Mahal -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>307779</latitude>
+			<longitude>724445</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quetta -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>302113</latitude>
+			<longitude>670113</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quetta Cantonment -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>302260</latitude>
+			<longitude>670416</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quetta District -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>301780</latitude>
+			<longitude>670113</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quetta Division -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>302613</latitude>
+			<longitude>685113</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rabwah -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>317672</latitude>
+			<longitude>729311</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rahimyar Khan -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>284281</latitude>
+			<longitude>703114</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rahimyar Khan Branch -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>289614</latitude>
+			<longitude>706447</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rahimyar Khan District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>284281</latitude>
+			<longitude>705114</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Raiwind -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>312658</latitude>
+			<longitude>742292</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rawala Kot -- (State: Azad Kashmir)">
+			<state>Azad Kashmir</state>
+			<latitude>338781</latitude>
+			<longitude>737781</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rawalpindi -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>336114</latitude>
+			<longitude>730781</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rawalpindi Cantonment -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>335947</latitude>
+			<longitude>730614</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rawalpindi District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>333447</latitude>
+			<longitude>732614</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rawalpindi Division -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>331781</latitude>
+			<longitude>730114</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rawalpindi Lines -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>249614</latitude>
+			<longitude>672281</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rawalpindi West Ridge -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>336281</latitude>
+			<longitude>730281</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Renala Khurd -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>308947</latitude>
+			<longitude>736114</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Risalpur -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340706</latitude>
+			<longitude>720100</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Risalpur Airfield -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340878</latitude>
+			<longitude>719864</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sadiqabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>283115</latitude>
+			<longitude>701448</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sahiwal -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>306782</latitude>
+			<longitude>731115</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sahiwal District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>305948</latitude>
+			<longitude>733448</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sanawan -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>303340</latitude>
+			<longitude>709884</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sanjarpur -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>282615</latitude>
+			<longitude>699948</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sargodha -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>320951</latitude>
+			<longitude>726826</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sargodha District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>321782</latitude>
+			<longitude>725115</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sargodha Division -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>317915</latitude>
+			<longitude>723029</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sheikhupura -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>316782</latitude>
+			<longitude>740115</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shikarpur -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>280671</latitude>
+			<longitude>687615</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shikarpur District -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>280115</latitude>
+			<longitude>686782</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shorkot -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>309615</latitude>
+			<longitude>720948</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shujabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>304948</latitude>
+			<longitude>725948</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sialkot -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>325865</latitude>
+			<longitude>744282</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sialkot -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>348382</latitude>
+			<longitude>719843</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sialkot District -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>323448</latitude>
+			<longitude>746782</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sialkot Reserved Forest -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>342448</latitude>
+			<longitude>733782</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skardu -- (State: Northern Areas)">
+			<state>Northern Areas</state>
+			<latitude>353115</latitude>
+			<longitude>756282</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sui -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>286282</latitude>
+			<longitude>693282</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sukkur -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>278087</latitude>
+			<longitude>687615</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sukkur Barrage -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>276948</latitude>
+			<longitude>688615</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sukkur District -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>276782</latitude>
+			<longitude>695115</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sukkur Division -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>272615</latitude>
+			<longitude>690115</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Swabi -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>341282</latitude>
+			<longitude>724782</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Swabi Minor -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>341573</latitude>
+			<longitude>724948</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Swat -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>353898</latitude>
+			<longitude>721912</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Swat">
+			<state></state>
+			<latitude>343565</latitude>
+			<longitude>715707</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Talagang -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>330844</latitude>
+			<longitude>719438</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tando Adam -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>257783</latitude>
+			<longitude>686783</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tando Mohammad Khan -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>251449</latitude>
+			<longitude>685449</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taxila -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>337713</latitude>
+			<longitude>728491</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taxila Station -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>337535</latitude>
+			<longitude>728266</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Toba Tek Singh -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>309783</latitude>
+			<longitude>724949</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Topi -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>304560</latitude>
+			<longitude>679685</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Topi -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>340783</latitude>
+			<longitude>726283</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vehari -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>300451</latitude>
+			<longitude>723618</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wah -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>338102</latitude>
+			<longitude>727075</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wah -- (State: Balochistan)">
+			<state>Balochistan</state>
+			<latitude>311711</latitude>
+			<longitude>698852</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wah Arsenal Pakistan Ordnance Factory -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>337813</latitude>
+			<longitude>727838</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wazirabad -- (State: North-West Frontier)">
+			<state>North-West Frontier</state>
+			<latitude>345102</latitude>
+			<longitude>718855</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wazirabad -- (State: Punjab)">
+			<state>Punjab</state>
+			<latitude>323036</latitude>
+			<longitude>738869</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wazirabad -- (State: Sindh)">
+			<state>Sindh</state>
+			<latitude>278869</latitude>
+			<longitude>687119</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xiangquan He">
+			<state></state>
+			<latitude>293953</latitude>
+			<longitude>710453</longitude>
+			<timezone>500</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

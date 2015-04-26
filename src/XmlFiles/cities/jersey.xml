@@ -1,0 +1,1279 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Jersey">
+		<city name="Aiguillon">
+			<state></state>
+			<latitude>491764</latitude>
+			<longitude>-22070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albert Pier">
+			<state></state>
+			<latitude>491886</latitude>
+			<longitude>-21034</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anne Port">
+			<state></state>
+			<latitude>492097</latitude>
+			<longitude>-20070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bailhache">
+			<state></state>
+			<latitude>491667</latitude>
+			<longitude>-20896</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baleine">
+			<state></state>
+			<latitude>491845</latitude>
+			<longitude>-21252</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banc de Saint Brelade">
+			<state></state>
+			<latitude>491767</latitude>
+			<longitude>-21974</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banc De Violet">
+			<state></state>
+			<latitude>491598</latitude>
+			<longitude>-20235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banc Desormes">
+			<state></state>
+			<latitude>493223</latitude>
+			<longitude>-22652</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banc du Chateau">
+			<state></state>
+			<latitude>492015</latitude>
+			<longitude>-19735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banc Le Fret">
+			<state></state>
+			<latitude>491748</latitude>
+			<longitude>-21788</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beau Port">
+			<state></state>
+			<latitude>491892</latitude>
+			<longitude>-21963</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beaumont">
+			<state></state>
+			<latitude>492098</latitude>
+			<longitude>-21569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bel Royal">
+			<state></state>
+			<latitude>492098</latitude>
+			<longitude>-21402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belcroute Bay">
+			<state></state>
+			<latitude>491931</latitude>
+			<longitude>-21569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belle Hougue Point">
+			<state></state>
+			<latitude>492598</latitude>
+			<longitude>-20902</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belle Vue">
+			<state></state>
+			<latitude>492098</latitude>
+			<longitude>-21735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belval Cove">
+			<state></state>
+			<latitude>492315</latitude>
+			<longitude>-20133</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bouley Bay">
+			<state></state>
+			<latitude>492598</latitude>
+			<longitude>-20569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brayes Rocks">
+			<state></state>
+			<latitude>492442</latitude>
+			<longitude>-20105</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chevel Rock">
+			<state></state>
+			<latitude>492641</latitude>
+			<longitude>-21040</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clump Rock">
+			<state></state>
+			<latitude>493224</latitude>
+			<longitude>-20176</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corbiere Point">
+			<state></state>
+			<latitude>491932</latitude>
+			<longitude>-22401</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cormorant Rock">
+			<state></state>
+			<latitude>492663</latitude>
+			<longitude>-21193</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cotil Point">
+			<state></state>
+			<latitude>492643</latitude>
+			<longitude>-21232</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coupe Rock">
+			<state></state>
+			<latitude>492424</latitude>
+			<longitude>-20037</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crabbe">
+			<state></state>
+			<latitude>492591</latitude>
+			<longitude>-21723</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crabiere Rock">
+			<state></state>
+			<latitude>491827</latitude>
+			<longitude>-20962</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crapaud of the Castle">
+			<state></state>
+			<latitude>491841</latitude>
+			<longitude>-21098</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crapaud of the Mangeuse">
+			<state></state>
+			<latitude>491818</latitude>
+			<longitude>-21065</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crow Rock">
+			<state></state>
+			<latitude>491830</latitude>
+			<longitude>-21148</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Danger Rock">
+			<state></state>
+			<latitude>491594</latitude>
+			<longitude>-21364</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Demie de la Tour">
+			<state></state>
+			<latitude>492556</latitude>
+			<longitude>-20397</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Demie de Pas">
+			<state></state>
+			<latitude>491614</latitude>
+			<longitude>-20908</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Demie Rock">
+			<state></state>
+			<latitude>492689</latitude>
+			<longitude>-21114</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Diamond Rock">
+			<state></state>
+			<latitude>491800</latitude>
+			<longitude>-21336</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dirouilles">
+			<state></state>
+			<latitude>493100</latitude>
+			<longitude>-20233</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dog s Nest Rock">
+			<state></state>
+			<latitude>491778</latitude>
+			<longitude>-21039</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Douet de la Mer">
+			<state></state>
+			<latitude>492433</latitude>
+			<longitude>-20233</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East La Cloche">
+			<state></state>
+			<latitude>491754</latitude>
+			<longitude>-21107</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East Pier">
+			<state></state>
+			<latitude>491890</latitude>
+			<longitude>-21049</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ecreviere Bank">
+			<state></state>
+			<latitude>492851</latitude>
+			<longitude>-18891</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eureka">
+			<state></state>
+			<latitude>492320</latitude>
+			<longitude>-19930</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fairway Rock">
+			<state></state>
+			<latitude>491641</latitude>
+			<longitude>-21198</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fiquet Bay">
+			<state></state>
+			<latitude>491874</latitude>
+			<longitude>-22026</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fliquet Bay">
+			<state></state>
+			<latitude>492435</latitude>
+			<longitude>-20065</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Elizabeth">
+			<state></state>
+			<latitude>491871</latitude>
+			<longitude>-21151</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Henry">
+			<state></state>
+			<latitude>491974</latitude>
+			<longitude>-20229</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Regent">
+			<state></state>
+			<latitude>491921</latitude>
+			<longitude>-20937</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fourche">
+			<state></state>
+			<latitude>491849</latitude>
+			<longitude>-21865</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fournier du Havre">
+			<state></state>
+			<latitude>491894</latitude>
+			<longitude>-21887</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fournier Rock">
+			<state></state>
+			<latitude>491852</latitude>
+			<longitude>-21962</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fremont Point">
+			<state></state>
+			<latitude>492602</latitude>
+			<longitude>-21065</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frouquie">
+			<state></state>
+			<latitude>493071</latitude>
+			<longitude>-20292</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frouquie des Vracheres">
+			<state></state>
+			<latitude>491541</latitude>
+			<longitude>-21862</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grand Becquet">
+			<state></state>
+			<latitude>492653</latitude>
+			<longitude>-22000</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Havre de Fontaines">
+			<state></state>
+			<latitude>491771</latitude>
+			<longitude>-20540</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Havre des Pas">
+			<state></state>
+			<latitude>491871</latitude>
+			<longitude>-20921</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hermitage">
+			<state></state>
+			<latitude>491771</latitude>
+			<longitude>-21063</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hermitage Breakwater">
+			<state></state>
+			<latitude>491832</latitude>
+			<longitude>-21124</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hiaux">
+			<state></state>
+			<latitude>492515</latitude>
+			<longitude>-20304</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hinguette">
+			<state></state>
+			<latitude>491654</latitude>
+			<longitude>-21146</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hougue Bie">
+			<state></state>
+			<latitude>492104</latitude>
+			<longitude>-20563</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hubaut">
+			<state></state>
+			<latitude>491629</latitude>
+			<longitude>-21827</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Icho Bank">
+			<state></state>
+			<latitude>491249</latitude>
+			<longitude>-20612</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isle Agois">
+			<state></state>
+			<latitude>492605</latitude>
+			<longitude>-21701</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jersey">
+			<state></state>
+			<latitude>492273</latitude>
+			<longitude>-21061</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jinquet Rock">
+			<state></state>
+			<latitude>491559</latitude>
+			<longitude>-20497</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joli">
+			<state></state>
+			<latitude>493025</latitude>
+			<longitude>-20366</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jument">
+			<state></state>
+			<latitude>491889</latitude>
+			<longitude>-22291</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="L Etac">
+			<state></state>
+			<latitude>492441</latitude>
+			<longitude>-22225</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="L teton">
+			<state></state>
+			<latitude>491730</latitude>
+			<longitude>-20273</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Boue">
+			<state></state>
+			<latitude>491944</latitude>
+			<longitude>-22467</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Coniere">
+			<state></state>
+			<latitude>491691</latitude>
+			<longitude>-20200</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Cotte Point">
+			<state></state>
+			<latitude>491941</latitude>
+			<longitude>-21725</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Grune">
+			<state></state>
+			<latitude>492547</latitude>
+			<longitude>-20686</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Joie">
+			<state></state>
+			<latitude>493216</latitude>
+			<longitude>-20217</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Plaine">
+			<state></state>
+			<latitude>492700</latitude>
+			<longitude>-21531</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Platte">
+			<state></state>
+			<latitude>493064</latitude>
+			<longitude>-20042</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Rousse">
+			<state></state>
+			<latitude>491619</latitude>
+			<longitude>-20364</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Sambue">
+			<state></state>
+			<latitude>491664</latitude>
+			<longitude>-20689</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Villaise">
+			<state></state>
+			<latitude>492530</latitude>
+			<longitude>-22239</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Vrachere">
+			<state></state>
+			<latitude>491933</latitude>
+			<longitude>-21136</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Col de la Rocque">
+			<state></state>
+			<latitude>492622</latitude>
+			<longitude>-21675</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Giffard">
+			<state></state>
+			<latitude>491864</latitude>
+			<longitude>-19711</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Graveur">
+			<state></state>
+			<latitude>492330</latitude>
+			<longitude>-20073</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Le Ruquet">
+			<state></state>
+			<latitude>493175</latitude>
+			<longitude>-19628</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Boiteaux">
+			<state></state>
+			<latitude>491902</latitude>
+			<longitude>-22492</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Burons">
+			<state></state>
+			<latitude>493100</latitude>
+			<longitude>-20231</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Creux">
+			<state></state>
+			<latitude>491927</latitude>
+			<longitude>-21934</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Ecrehou">
+			<state></state>
+			<latitude>493108</latitude>
+			<longitude>-19059</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Grunes">
+			<state></state>
+			<latitude>493227</latitude>
+			<longitude>-20292</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Troupeurs">
+			<state></state>
+			<latitude>492580</latitude>
+			<longitude>-20531</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maitre Ile">
+			<state></state>
+			<latitude>492942</latitude>
+			<longitude>-19169</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Margaret Rock">
+			<state></state>
+			<latitude>491584</latitude>
+			<longitude>-20641</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marmotier">
+			<state></state>
+			<latitude>493026</latitude>
+			<longitude>-19169</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Millbrook">
+			<state></state>
+			<latitude>492109</latitude>
+			<longitude>-21224</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mont Fiquet">
+			<state></state>
+			<latitude>491915</latitude>
+			<longitude>-22019</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mouilliere Rock">
+			<state></state>
+			<latitude>492553</latitude>
+			<longitude>-22541</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moulet Rock">
+			<state></state>
+			<latitude>491790</latitude>
+			<longitude>-21063</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mount Bingham">
+			<state></state>
+			<latitude>491884</latitude>
+			<longitude>-20966</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mount Mado">
+			<state></state>
+			<latitude>492587</latitude>
+			<longitude>-21116</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mourier Bay">
+			<state></state>
+			<latitude>492692</latitude>
+			<longitude>-21319</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nez du Guet">
+			<state></state>
+			<latitude>492518</latitude>
+			<longitude>-20315</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nipple Rock">
+			<state></state>
+			<latitude>491752</latitude>
+			<longitude>-20987</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noire Roque">
+			<state></state>
+			<latitude>493152</latitude>
+			<longitude>-20209</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noirmont Point">
+			<state></state>
+			<latitude>491777</latitude>
+			<longitude>-21557</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noirmontaise Reef">
+			<state></state>
+			<latitude>491904</latitude>
+			<longitude>-22440</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noirs Hommes">
+			<state></state>
+			<latitude>491704</latitude>
+			<longitude>-21451</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North Quay">
+			<state></state>
+			<latitude>491913</latitude>
+			<longitude>-20993</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Harbour">
+			<state></state>
+			<latitude>491917</latitude>
+			<longitude>-20981</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouaisne Bay">
+			<state></state>
+			<latitude>491911</latitude>
+			<longitude>-21750</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oyster Rocks">
+			<state></state>
+			<latitude>492530</latitude>
+			<longitude>-20517</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Passage Rock">
+			<state></state>
+			<latitude>491704</latitude>
+			<longitude>-21899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Passe de l Etoc">
+			<state></state>
+			<latitude>493112</latitude>
+			<longitude>-19888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Perruque">
+			<state></state>
+			<latitude>492631</latitude>
+			<longitude>-21294</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petite Etaquerel">
+			<state></state>
+			<latitude>492518</latitude>
+			<longitude>-22371</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petite Grune">
+			<state></state>
+			<latitude>491704</latitude>
+			<longitude>-21785</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petite Mangeuse">
+			<state></state>
+			<latitude>491834</latitude>
+			<longitude>-21016</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petite Rousse">
+			<state></state>
+			<latitude>493029</latitude>
+			<longitude>-19555</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pierre de Lecq">
+			<state></state>
+			<latitude>492945</latitude>
+			<longitude>-22055</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pignonet">
+			<state></state>
+			<latitude>491768</latitude>
+			<longitude>-21482</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pillon Rock">
+			<state></state>
+			<latitude>492348</latitude>
+			<longitude>-19935</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plat Rocque Point">
+			<state></state>
+			<latitude>491779</latitude>
+			<longitude>-20221</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plateau de la Frouquie">
+			<state></state>
+			<latitude>491112</latitude>
+			<longitude>-19555</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Platte Rock">
+			<state></state>
+			<latitude>491945</latitude>
+			<longitude>-21452</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pleinmont Point">
+			<state></state>
+			<latitude>492779</latitude>
+			<longitude>-22221</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plemont Deep">
+			<state></state>
+			<latitude>492779</latitude>
+			<longitude>-21888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Point La Moye">
+			<state></state>
+			<latitude>491945</latitude>
+			<longitude>-22055</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Point Le Croc">
+			<state></state>
+			<latitude>491779</latitude>
+			<longitude>-20721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Point Le Fret">
+			<state></state>
+			<latitude>491779</latitude>
+			<longitude>-21721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Point le Grouin">
+			<state></state>
+			<latitude>491940</latitude>
+			<longitude>-21771</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Portelet Ledge">
+			<state></state>
+			<latitude>491784</latitude>
+			<longitude>-21663</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Portinfer">
+			<state></state>
+			<latitude>492631</latitude>
+			<longitude>-22124</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quereme Rock">
+			<state></state>
+			<latitude>491810</latitude>
+			<longitude>-21029</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rigdon Bank">
+			<state></state>
+			<latitude>492508</latitude>
+			<longitude>-22767</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rocque Herbeuse">
+			<state></state>
+			<latitude>491758</latitude>
+			<longitude>-20483</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rocque Larron">
+			<state></state>
+			<latitude>491720</latitude>
+			<longitude>-20525</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rocquemin">
+			<state></state>
+			<latitude>491897</latitude>
+			<longitude>-21197</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ronez Point">
+			<state></state>
+			<latitude>492781</latitude>
+			<longitude>-21386</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rouge Nez">
+			<state></state>
+			<latitude>492614</latitude>
+			<longitude>-21886</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Round Rouget">
+			<state></state>
+			<latitude>491667</latitude>
+			<longitude>-20769</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rousse">
+			<state></state>
+			<latitude>491781</latitude>
+			<longitude>-21886</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Royal Bay of Grouville">
+			<state></state>
+			<latitude>491947</latitude>
+			<longitude>-20053</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rozel">
+			<state></state>
+			<latitude>492447</latitude>
+			<longitude>-20386</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ruaudiere Rock">
+			<state></state>
+			<latitude>491745</latitude>
+			<longitude>-21303</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Aubins Bay">
+			<state></state>
+			<latitude>491948</latitude>
+			<longitude>-21218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Aubins Fort">
+			<state></state>
+			<latitude>491968</latitude>
+			<longitude>-21482</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Brelade">
+			<state></state>
+			<latitude>491948</latitude>
+			<longitude>-21885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Catherines Bay">
+			<state></state>
+			<latitude>492282</latitude>
+			<longitude>-20052</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Clement">
+			<state></state>
+			<latitude>491865</latitude>
+			<longitude>-20441</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Clements Bay">
+			<state></state>
+			<latitude>491782</latitude>
+			<longitude>-20552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Helier">
+			<state></state>
+			<latitude>491948</latitude>
+			<longitude>-20885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Helier Harbour">
+			<state></state>
+			<latitude>491893</latitude>
+			<longitude>-21002</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Helier Marina">
+			<state></state>
+			<latitude>491937</latitude>
+			<longitude>-20985</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Johns Bay">
+			<state></state>
+			<latitude>492615</latitude>
+			<longitude>-21218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Ouen">
+			<state></state>
+			<latitude>492382</latitude>
+			<longitude>-21941</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Ouens Bay">
+			<state></state>
+			<latitude>492282</latitude>
+			<longitude>-22385</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Ouens Pond">
+			<state></state>
+			<latitude>492282</latitude>
+			<longitude>-22052</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Peters Church">
+			<state></state>
+			<latitude>492282</latitude>
+			<longitude>-21718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Saviour">
+			<state></state>
+			<latitude>492096</latitude>
+			<longitude>-20807</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shamrock Bank">
+			<state></state>
+			<latitude>492740</latitude>
+			<longitude>-21157</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sillette">
+			<state></state>
+			<latitude>491651</latitude>
+			<longitude>-21491</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Six Rues">
+			<state></state>
+			<latitude>492448</latitude>
+			<longitude>-21385</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sorel Point">
+			<state></state>
+			<latitude>492782</latitude>
+			<longitude>-21552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="South West Grune">
+			<state></state>
+			<latitude>492965</latitude>
+			<longitude>-21929</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Southeast Rock">
+			<state></state>
+			<latitude>491859</latitude>
+			<longitude>-21099</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Southwest Rock">
+			<state></state>
+			<latitude>491562</latitude>
+			<longitude>-21582</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Swashway Channel">
+			<state></state>
+			<latitude>492448</latitude>
+			<longitude>-22718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tas de Pois">
+			<state></state>
+			<latitude>491694</latitude>
+			<longitude>-20923</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Demies">
+			<state></state>
+			<latitude>492644</latitude>
+			<longitude>-21865</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Quennevais">
+			<state></state>
+			<latitude>492116</latitude>
+			<longitude>-21884</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tour de Rozel">
+			<state></state>
+			<latitude>492616</latitude>
+			<longitude>-20384</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trinity">
+			<state></state>
+			<latitude>492463</latitude>
+			<longitude>-20784</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trois Grunes">
+			<state></state>
+			<latitude>491710</latitude>
+			<longitude>-20967</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valley des Vaux">
+			<state></state>
+			<latitude>492118</latitude>
+			<longitude>-20882</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vicard Harbour">
+			<state></state>
+			<latitude>492610</latitude>
+			<longitude>-20738</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vicard Point">
+			<state></state>
+			<latitude>492618</latitude>
+			<longitude>-20715</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria Pier">
+			<state></state>
+			<latitude>491885</latitude>
+			<longitude>-20999</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ville Bagot">
+			<state></state>
+			<latitude>492565</latitude>
+			<longitude>-21935</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ville es Nouaux">
+			<state></state>
+			<latitude>492074</latitude>
+			<longitude>-21149</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vinchelez de Haut">
+			<state></state>
+			<latitude>492618</latitude>
+			<longitude>-22049</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West La Cloche">
+			<state></state>
+			<latitude>491772</latitude>
+			<longitude>-21120</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

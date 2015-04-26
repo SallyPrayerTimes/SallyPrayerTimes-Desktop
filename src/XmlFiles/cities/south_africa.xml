@@ -1,0 +1,719 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="South Africa">
+		<city name="Alberton -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-262236</latitude>
+			<longitude>281430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alice -- (State: Eastern Cape)">
+			<state>Eastern Cape</state>
+			<latitude>-327736</latitude>
+			<longitude>268430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amanzimtoti -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-300403</latitude>
+			<longitude>308930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benoni -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-300902</latitude>
+			<longitude>263598</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benoni -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-261735</latitude>
+			<longitude>283265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bloemfontein -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-303069</latitude>
+			<longitude>268098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boksburg -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-262069</latitude>
+			<longitude>282598</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boksburg East -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-262069</latitude>
+			<longitude>282765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boksburg Small Holdings -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-261902</latitude>
+			<longitude>282765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bosmont -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-261735</latitude>
+			<longitude>279598</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brackenhurst -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-280902</latitude>
+			<longitude>263265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Breyten -- (State: Mpumalanga)">
+			<state>Mpumalanga</state>
+			<latitude>-262902</latitude>
+			<longitude>299931</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brixton -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-261735</latitude>
+			<longitude>280098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Flats -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-340234</latitude>
+			<longitude>186432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Peninsula -- (State: (SF01))">
+			<state>(SF01)</state>
+			<latitude>-341568</latitude>
+			<longitude>183432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Point -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-343401</latitude>
+			<longitude>184932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Town -- (State: (SF01))">
+			<state>(SF01)</state>
+			<latitude>-338901</latitude>
+			<longitude>184432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Town -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-339068</latitude>
+			<longitude>184266</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Centurion -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-258645</latitude>
+			<longitude>281805</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chatsworth -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-282234</latitude>
+			<longitude>295432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chatsworth -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-299068</latitude>
+			<longitude>309099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chatsworth -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-221901</latitude>
+			<longitude>297432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chatsworth -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-335401</latitude>
+			<longitude>185932</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durban -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-226067</latitude>
+			<longitude>295267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durban -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-261733</latitude>
+			<longitude>278100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durban -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-298400</latitude>
+			<longitude>310267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durban Bay -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-298567</latitude>
+			<longitude>310267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durban Central -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-298400</latitude>
+			<longitude>310433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durban North -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-297900</latitude>
+			<longitude>310433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durbanville -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-338233</latitude>
+			<longitude>186600</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durbanville Hills -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-338400</latitude>
+			<longitude>186433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durbanweg -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-298400</latitude>
+			<longitude>302933</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East London -- (State: (SF01))">
+			<state>(SF01)</state>
+			<latitude>-330232</latitude>
+			<longitude>279268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emmarentia -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-305066</latitude>
+			<longitude>265101</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Estcourt -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-290232</latitude>
+			<longitude>299101</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gauteng">
+			<state></state>
+			<latitude>-260730</latitude>
+			<longitude>282603</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="George -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-339564</latitude>
+			<longitude>224270</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Germiston -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-262064</latitude>
+			<longitude>281936</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grahamstown -- (State: Eastern Cape)">
+			<state>Eastern Cape</state>
+			<latitude>-332564</latitude>
+			<longitude>264936</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huguenot -- (State: Eastern Cape)">
+			<state>Eastern Cape</state>
+			<latitude>-310729</latitude>
+			<longitude>266104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huguenot -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-337063</latitude>
+			<longitude>189771</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johannesberg -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-234561</latitude>
+			<longitude>280773</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johannesburg -- (State: Mpumalanga)">
+			<state>Mpumalanga</state>
+			<latitude>-250894</latitude>
+			<longitude>300606</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johannesburg -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-229227</latitude>
+			<longitude>289773</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johannesburg -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-304061</latitude>
+			<longitude>257439</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johannesburg -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-261894</latitude>
+			<longitude>280939</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johannesburg Station -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-261727</latitude>
+			<longitude>280606</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kimberley -- (State: Northern Cape)">
+			<state>Northern Cape</state>
+			<latitude>-287226</latitude>
+			<longitude>247774</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klerksdorp -- (State: North-West)">
+			<state>North-West</state>
+			<latitude>-268560</latitude>
+			<longitude>267274</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krugersdorp -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-260893</latitude>
+			<longitude>277440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ladysmith -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-285559</latitude>
+			<longitude>297441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laudium -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-257725</latitude>
+			<longitude>281108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lenasia -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-263059</latitude>
+			<longitude>278441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mafeking -- (State: North-West)">
+			<state>North-West</state>
+			<latitude>-258224</latitude>
+			<longitude>256276</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mayfair -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-303724</latitude>
+			<longitude>273609</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mecca -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-279224</latitude>
+			<longitude>276942</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Midrand -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-259724</latitude>
+			<longitude>281776</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mossel Bay -- (State: (SF01))">
+			<state>(SF01)</state>
+			<latitude>-341724</latitude>
+			<longitude>221442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nelspruit -- (State: Mpumalanga)">
+			<state>Mpumalanga</state>
+			<latitude>-254890</latitude>
+			<longitude>309277</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Newcastle -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-277557</latitude>
+			<longitude>299943</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oudtshoorn -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-335889</latitude>
+			<longitude>221944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pieter Maritzburg -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-296221</latitude>
+			<longitude>304112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pietermaritzburg -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-296055</latitude>
+			<longitude>303945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pietermaritzburg Townlands -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-295555</latitude>
+			<longitude>303612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Polokwane -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-238888</latitude>
+			<longitude>294612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Elizabeth -- (State: Eastern Cape)">
+			<state>Eastern Cape</state>
+			<latitude>-339555</latitude>
+			<longitude>255945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Elizabeth -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-247055</latitude>
+			<longitude>265279</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoria -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-256957</latitude>
+			<longitude>282406</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoria -- (State: Eastern Cape)">
+			<state>Eastern Cape</state>
+			<latitude>-307721</latitude>
+			<longitude>285945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoria -- (State: North-West)">
+			<state>North-West</state>
+			<latitude>-271888</latitude>
+			<longitude>239779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoria -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-277555</latitude>
+			<longitude>279779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoria -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-288555</latitude>
+			<longitude>302445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoria -- (State: Northern Cape)">
+			<state>Northern Cape</state>
+			<latitude>-272555</latitude>
+			<longitude>230945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoria -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-245388</latitude>
+			<longitude>304112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoria North -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-256510</latitude>
+			<longitude>281765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoria West -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-257388</latitude>
+			<longitude>281779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoriakloof -- (State: Eastern Cape)">
+			<state>Eastern Cape</state>
+			<latitude>-335221</latitude>
+			<longitude>242279</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pretoriakop -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-240721</latitude>
+			<longitude>303779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queensburgh -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-298554</latitude>
+			<longitude>309446</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queenstown -- (State: Eastern Cape)">
+			<state>Eastern Cape</state>
+			<latitude>-318887</latitude>
+			<longitude>268780</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Richards Bay -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-288053</latitude>
+			<longitude>320447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Richards Bay Harbour -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-287886</latitude>
+			<longitude>320947</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roshnee -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-265553</latitude>
+			<longitude>279447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rustenburg -- (State: North-West)">
+			<state>North-West</state>
+			<latitude>-256219</latitude>
+			<longitude>272781</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saldanha -- (State: (SF01))">
+			<state>(SF01)</state>
+			<latitude>-330052</latitude>
+			<longitude>179615</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sandton -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-260885</latitude>
+			<longitude>280782</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Secunda -- (State: Mpumalanga)">
+			<state>Mpumalanga</state>
+			<latitude>-265385</latitude>
+			<longitude>291782</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Springs -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-262385</latitude>
+			<longitude>284782</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stanger -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-293218</latitude>
+			<longitude>313115</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stellenbosch -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-339218</latitude>
+			<longitude>188615</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stellenbosch -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-302052</latitude>
+			<longitude>270282</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stellenbosch -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-242552</latitude>
+			<longitude>301115</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sun City -- (State: North-West)">
+			<state>North-West</state>
+			<latitude>-253218</latitude>
+			<longitude>271115</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vereenigeen Aerodrome -- (State: Gauteng)">
+			<state>Gauteng</state>
+			<latitude>-265549</latitude>
+			<longitude>279618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vlakpoort -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-247882</latitude>
+			<longitude>272451</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vlakpoort -- (State: Northern Cape)">
+			<state>Northern Cape</state>
+			<latitude>-305715</latitude>
+			<longitude>182285</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vlakpoort -- (State: KwaZulu-Natal)">
+			<state>KwaZulu-Natal</state>
+			<latitude>-284549</latitude>
+			<longitude>313285</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vlakpoort -- (State: Mpumalanga)">
+			<state>Mpumalanga</state>
+			<latitude>-271382</latitude>
+			<longitude>299785</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Welkom -- (State: Free State)">
+			<state>Free State</state>
+			<latitude>-289881</latitude>
+			<longitude>256286</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Worcester -- (State: Western Cape)">
+			<state>Western Cape</state>
+			<latitude>-336381</latitude>
+			<longitude>194286</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Worcester -- (State: Mpumalanga)">
+			<state>Mpumalanga</state>
+			<latitude>-256048</latitude>
+			<longitude>309786</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Worcester -- (State: Northern Province)">
+			<state>Northern Province</state>
+			<latitude>-242881</latitude>
+			<longitude>305286</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,873 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Samoa">
+		<city name="Afiamalu">
+			<state></state>
+			<latitude>-139070</latitude>
+			<longitude>-1717070</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afutina">
+			<state></state>
+			<latitude>-136403</latitude>
+			<longitude>-1721403</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aopo">
+			<state></state>
+			<latitude>-134736</latitude>
+			<longitude>-1724903</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apia">
+			<state></state>
+			<latitude>-138236</latitude>
+			<longitude>-1717236</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apia Harbor">
+			<state></state>
+			<latitude>-137903</latitude>
+			<longitude>-1717236</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asaga">
+			<state></state>
+			<latitude>-135736</latitude>
+			<longitude>-1721236</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asau Harbor">
+			<state></state>
+			<latitude>-134403</latitude>
+			<longitude>-1726070</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asi">
+			<state></state>
+			<latitude>-136570</latitude>
+			<longitude>-1720903</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atufiu">
+			<state></state>
+			<latitude>-134403</latitude>
+			<longitude>-1724236</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Auala">
+			<state></state>
+			<latitude>-134570</latitude>
+			<longitude>-1725903</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avao">
+			<state></state>
+			<latitude>-134403</latitude>
+			<longitude>-1723570</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avatele Pass">
+			<state></state>
+			<latitude>-137403</latitude>
+			<longitude>-1721403</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bauman Islands">
+			<state></state>
+			<latitude>-139902</latitude>
+			<longitude>-1709902</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Asuisui">
+			<state></state>
+			<latitude>-137734</latitude>
+			<longitude>-1724734</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Faleula">
+			<state></state>
+			<latitude>-137734</latitude>
+			<longitude>-1717901</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Fatuosofia">
+			<state></state>
+			<latitude>-138568</latitude>
+			<longitude>-1720401</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Mauga">
+			<state></state>
+			<latitude>-134568</latitude>
+			<longitude>-1726068</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Nuutoi">
+			<state></state>
+			<latitude>-140234</latitude>
+			<longitude>-1717234</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Oloinono">
+			<state></state>
+			<latitude>-139401</latitude>
+			<longitude>-1713734</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Paepaeoleia">
+			<state></state>
+			<latitude>-137734</latitude>
+			<longitude>-1721401</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Puava">
+			<state></state>
+			<latitude>-134234</latitude>
+			<longitude>-1727068</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Tagisia">
+			<state></state>
+			<latitude>-139068</latitude>
+			<longitude>-1714234</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Tuasiui">
+			<state></state>
+			<latitude>-136568</latitude>
+			<longitude>-1721068</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Vailaoa">
+			<state></state>
+			<latitude>-134734</latitude>
+			<longitude>-1727734</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clilate River">
+			<state></state>
+			<latitude>-137401</latitude>
+			<longitude>-1723401</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emmon Point">
+			<state></state>
+			<latitude>-139066</latitude>
+			<longitude>-1714566</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etemuli">
+			<state></state>
+			<latitude>-140066</latitude>
+			<longitude>-1714899</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ewa Point">
+			<state></state>
+			<latitude>-138566</latitude>
+			<longitude>-1715732</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faani">
+			<state></state>
+			<latitude>-135565</latitude>
+			<longitude>-1723731</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gagaemalae">
+			<state></state>
+			<latitude>-136564</latitude>
+			<longitude>-1725564</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gagaemalae Point">
+			<state></state>
+			<latitude>-136564</latitude>
+			<longitude>-1725730</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gagaifomaga">
+			<state></state>
+			<latitude>-134897</latitude>
+			<longitude>-1724897</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaga`emauga">
+			<state></state>
+			<latitude>-134897</latitude>
+			<longitude>-1722397</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaogao">
+			<state></state>
+			<latitude>-140064</latitude>
+			<longitude>-1716230</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gasegase River">
+			<state></state>
+			<latitude>-138064</latitude>
+			<longitude>-1717397</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gataivai">
+			<state></state>
+			<latitude>-137397</latitude>
+			<longitude>-1723730</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gautavai">
+			<state></state>
+			<latitude>-137397</latitude>
+			<longitude>-1723564</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iliili">
+			<state></state>
+			<latitude>-140062</latitude>
+			<longitude>-1716895</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itu Anoamaa">
+			<state></state>
+			<latitude>-138728</latitude>
+			<longitude>-1715895</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itu I Toga">
+			<state></state>
+			<latitude>-139228</latitude>
+			<longitude>-1717728</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iva">
+			<state></state>
+			<latitude>-136728</latitude>
+			<longitude>-1721562</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laloanea">
+			<state></state>
+			<latitude>-138892</latitude>
+			<longitude>-1718059</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lalomanu">
+			<state></state>
+			<latitude>-139892</latitude>
+			<longitude>-1713892</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lano">
+			<state></state>
+			<latitude>-135892</latitude>
+			<longitude>-1721225</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lata">
+			<state></state>
+			<latitude>-140059</latitude>
+			<longitude>-1713725</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lata Uta">
+			<state></state>
+			<latitude>-137225</latitude>
+			<longitude>-1724892</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lataiuta">
+			<state></state>
+			<latitude>-137059</latitude>
+			<longitude>-1725059</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lauli`i">
+			<state></state>
+			<latitude>-138392</latitude>
+			<longitude>-1716725</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Le Pu">
+			<state></state>
+			<latitude>-140225</latitude>
+			<longitude>-1717059</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leagiaga">
+			<state></state>
+			<latitude>-134392</latitude>
+			<longitude>-1723892</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leava`a">
+			<state></state>
+			<latitude>-137892</latitude>
+			<longitude>-1718392</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lepa Ma Lotofaga">
+			<state></state>
+			<latitude>-139725</latitude>
+			<longitude>-1714892</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Letogo">
+			<state></state>
+			<latitude>-138225</latitude>
+			<longitude>-1716892</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leulumoega">
+			<state></state>
+			<latitude>-138059</latitude>
+			<longitude>-1719059</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leuo Point">
+			<state></state>
+			<latitude>-134225</latitude>
+			<longitude>-1724892</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leusoalii">
+			<state></state>
+			<latitude>-138392</latitude>
+			<longitude>-1716559</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lona Cataract">
+			<state></state>
+			<latitude>-139225</latitude>
+			<longitude>-1714725</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lotofaga">
+			<state></state>
+			<latitude>-139725</latitude>
+			<longitude>-1718225</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namoa">
+			<state></state>
+			<latitude>-140057</latitude>
+			<longitude>-1717890</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namua">
+			<state></state>
+			<latitude>-139890</latitude>
+			<longitude>-1713557</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naneivi">
+			<state></state>
+			<latitude>-138557</latitude>
+			<longitude>-1715223</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nefunefu">
+			<state></state>
+			<latitude>-139057</latitude>
+			<longitude>-1719890</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niusuatia">
+			<state></state>
+			<latitude>-139557</latitude>
+			<longitude>-1717890</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nonoa">
+			<state></state>
+			<latitude>-137890</latitude>
+			<longitude>-1718557</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuulopa">
+			<state></state>
+			<latitude>-138390</latitude>
+			<longitude>-1720723</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuusafee">
+			<state></state>
+			<latitude>-140223</latitude>
+			<longitude>-1716723</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nu`ulua">
+			<state></state>
+			<latitude>-140390</latitude>
+			<longitude>-1713557</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olemaga">
+			<state></state>
+			<latitude>-139722</latitude>
+			<longitude>-1714056</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olofetu">
+			<state></state>
+			<latitude>-134556</latitude>
+			<longitude>-1726389</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olomanu">
+			<state></state>
+			<latitude>-136222</latitude>
+			<longitude>-1722056</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ooutu">
+			<state></state>
+			<latitude>-134889</latitude>
+			<longitude>-1727556</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Opoloo">
+			<state></state>
+			<latitude>-139056</latitude>
+			<longitude>-1717389</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oteewhy">
+			<state></state>
+			<latitude>-135722</latitude>
+			<longitude>-1724056</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palapala">
+			<state></state>
+			<latitude>-135055</latitude>
+			<longitude>-1721388</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palauli">
+			<state></state>
+			<latitude>-137221</latitude>
+			<longitude>-1722555</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Papa">
+			<state></state>
+			<latitude>-134555</latitude>
+			<longitude>-1726888</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pata">
+			<state></state>
+			<latitude>-139055</latitude>
+			<longitude>-1719721</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piu">
+			<state></state>
+			<latitude>-139888</latitude>
+			<longitude>-1715555</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piula">
+			<state></state>
+			<latitude>-138388</latitude>
+			<longitude>-1715388</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Point Mulinuu">
+			<state></state>
+			<latitude>-137888</latitude>
+			<longitude>-1717721</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Point Suga">
+			<state></state>
+			<latitude>-138221</latitude>
+			<longitude>-1717055</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poutasi">
+			<state></state>
+			<latitude>-140055</latitude>
+			<longitude>-1716721</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pue">
+			<state></state>
+			<latitude>-135055</latitude>
+			<longitude>-1723721</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puga">
+			<state></state>
+			<latitude>-135555</latitude>
+			<longitude>-1722055</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pula">
+			<state></state>
+			<latitude>-135388</latitude>
+			<longitude>-1723721</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pu`apu`a">
+			<state></state>
+			<latitude>-135721</latitude>
+			<longitude>-1722055</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salelologa">
+			<state></state>
+			<latitude>-137218</latitude>
+			<longitude>-1721552</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tafua Savaii Hill">
+			<state></state>
+			<latitude>-137717</latitude>
+			<longitude>-1721717</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taumuafa">
+			<state></state>
+			<latitude>-138217</latitude>
+			<longitude>-1717717</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uafato Bay">
+			<state></state>
+			<latitude>-139216</latitude>
+			<longitude>-1714216</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uanamo Pass">
+			<state></state>
+			<latitude>-136716</latitude>
+			<longitude>-1720883</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uliamoa">
+			<state></state>
+			<latitude>-136716</latitude>
+			<longitude>-1723050</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulutogia">
+			<state></state>
+			<latitude>-139883</latitude>
+			<longitude>-1713716</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usoali`i">
+			<state></state>
+			<latitude>-139383</latitude>
+			<longitude>-1713883</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utuavanua">
+			<state></state>
+			<latitude>-137716</latitude>
+			<longitude>-1718050</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utufaalalafa">
+			<state></state>
+			<latitude>-139550</latitude>
+			<longitude>-1713550</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utuloa Point">
+			<state></state>
+			<latitude>-138883</latitude>
+			<longitude>-1714716</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaaifetu">
+			<state></state>
+			<latitude>-139049</latitude>
+			<longitude>-1716382</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaea Vorberg">
+			<state></state>
+			<latitude>-138215</latitude>
+			<longitude>-1717549</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vai Vai">
+			<state></state>
+			<latitude>-139382</latitude>
+			<longitude>-1717382</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaiala">
+			<state></state>
+			<latitude>-136549</latitude>
+			<longitude>-1721215</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaiauau">
+			<state></state>
+			<latitude>-138049</latitude>
+			<longitude>-1719549</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaifoa">
+			<state></state>
+			<latitude>-137882</latitude>
+			<longitude>-1717882</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaigalu">
+			<state></state>
+			<latitude>-140049</latitude>
+			<longitude>-1714382</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaijee Point">
+			<state></state>
+			<latitude>-139715</latitude>
+			<longitude>-1718049</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vailele Mountain">
+			<state></state>
+			<latitude>-138382</latitude>
+			<longitude>-1717049</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaimoa">
+			<state></state>
+			<latitude>-138382</latitude>
+			<longitude>-1720215</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaimoso">
+			<state></state>
+			<latitude>-138215</latitude>
+			<longitude>-1717382</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vainamo Bay">
+			<state></state>
+			<latitude>-138382</latitude>
+			<longitude>-1716382</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaipouli">
+			<state></state>
+			<latitude>-134382</latitude>
+			<longitude>-1723382</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaipua">
+			<state></state>
+			<latitude>-136215</latitude>
+			<longitude>-1726049</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaisala Bay">
+			<state></state>
+			<latitude>-134715</latitude>
+			<longitude>-1726215</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaisigano">
+			<state></state>
+			<latitude>-135215</latitude>
+			<longitude>-1727215</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaitele">
+			<state></state>
+			<latitude>-138049</latitude>
+			<longitude>-1717715</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaitoa">
+			<state></state>
+			<latitude>-139049</latitude>
+			<longitude>-1717215</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaitupua">
+			<state></state>
+			<latitude>-134882</latitude>
+			<longitude>-1727715</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaiyee Itai">
+			<state></state>
+			<latitude>-139882</latitude>
+			<longitude>-1718049</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanusapa Stream">
+			<state></state>
+			<latitude>-134215</latitude>
+			<longitude>-1723882</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaovai">
+			<state></state>
+			<latitude>-140049</latitude>
+			<longitude>-1716382</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vattele Bay">
+			<state></state>
+			<latitude>-137882</latitude>
+			<longitude>-1717549</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Va`a-o-Fonoti">
+			<state></state>
+			<latitude>-139382</latitude>
+			<longitude>-1715215</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veiloa">
+			<state></state>
+			<latitude>-138049</latitude>
+			<longitude>-1717549</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vini">
+			<state></state>
+			<latitude>-140215</latitude>
+			<longitude>-1713549</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vorberg">
+			<state></state>
+			<latitude>-138382</latitude>
+			<longitude>-1717882</longitude>
+			<timezone>-1100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,761 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Benin">
+		<city name="Abomey -- (State: Zou)">
+			<state>Zou</state>
+			<latitude>71930</latitude>
+			<longitude>19930</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bohicon">
+			<state></state>
+			<latitude>72098</latitude>
+			<longitude>20765</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cabare">
+			<state></state>
+			<latitude>104766</latitude>
+			<longitude>17099</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Campouya">
+			<state></state>
+			<latitude>104099</latitude>
+			<longitude>16266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cana">
+			<state></state>
+			<latitude>71432</latitude>
+			<longitude>20766</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carnoville">
+			<state></state>
+			<latitude>88099</latitude>
+			<longitude>23266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chabale">
+			<state></state>
+			<latitude>79266</latitude>
+			<longitude>19266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chabe">
+			<state></state>
+			<latitude>80432</latitude>
+			<longitude>25099</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chabegoguekparou">
+			<state></state>
+			<latitude>102266</latitude>
+			<longitude>32099</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chabi-Kouma">
+			<state></state>
+			<latitude>100099</latitude>
+			<longitude>14766</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chachu">
+			<state></state>
+			<latitude>91266</latitude>
+			<longitude>25766</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaine de l Atakopa">
+			<state></state>
+			<latitude>107599</latitude>
+			<longitude>15099</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaine des Dassas">
+			<state></state>
+			<latitude>77599</latitude>
+			<longitude>21766</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalagoye">
+			<state></state>
+			<latitude>84099</latitude>
+			<longitude>25932</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chatehoue">
+			<state></state>
+			<latitude>69766</latitude>
+			<longitude>18432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chefu">
+			<state></state>
+			<latitude>114432</latitude>
+			<longitude>30932</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chetti">
+			<state></state>
+			<latitude>78432</latitude>
+			<longitude>16766</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiakanoukone">
+			<state></state>
+			<latitude>103266</latitude>
+			<longitude>21266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chien-Bouanbou">
+			<state></state>
+			<latitude>97932</latitude>
+			<longitude>32432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Choparacha">
+			<state></state>
+			<latitude>93766</latitude>
+			<longitude>14266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clove">
+			<state></state>
+			<latitude>70266</latitude>
+			<longitude>16599</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cobedjo">
+			<state></state>
+			<latitude>68932</latitude>
+			<longitude>27266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cococodji">
+			<state></state>
+			<latitude>63932</latitude>
+			<longitude>22932</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Doukor">
+			<state></state>
+			<latitude>95099</latitude>
+			<longitude>16599</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Dourh">
+			<state></state>
+			<latitude>95266</latitude>
+			<longitude>16766</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Collines">
+			<state></state>
+			<latitude>80099</latitude>
+			<longitude>21766</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Condji">
+			<state></state>
+			<latitude>65766</latitude>
+			<longitude>17432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Copargo -- (State: (BN01))">
+			<state>(BN01)</state>
+			<latitude>98474</latitude>
+			<longitude>15580</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Corossa">
+			<state></state>
+			<latitude>67766</latitude>
+			<longitude>26266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cosso-Kame">
+			<state></state>
+			<latitude>79266</latitude>
+			<longitude>22432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cotonou -- (State: Littoral)">
+			<state>Littoral</state>
+			<latitude>63599</latitude>
+			<longitude>24432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cotonou Lagoon">
+			<state></state>
+			<latitude>63766</latitude>
+			<longitude>24432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Couba">
+			<state></state>
+			<latitude>104766</latitude>
+			<longitude>16432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Couffo -- (State: Kouffo)">
+			<state>Kouffo</state>
+			<latitude>70932</latitude>
+			<longitude>18432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Couffonou">
+			<state></state>
+			<latitude>65932</latitude>
+			<longitude>20099</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cousse">
+			<state></state>
+			<latitude>68432</latitude>
+			<longitude>21266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Couzoume">
+			<state></state>
+			<latitude>64766</latitude>
+			<longitude>20432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cove">
+			<state></state>
+			<latitude>72432</latitude>
+			<longitude>23099</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cuffo">
+			<state></state>
+			<latitude>65932</latitude>
+			<longitude>19932</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djougou -- (State: Donga)">
+			<state>Donga</state>
+			<latitude>97150</latitude>
+			<longitude>16769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edahi">
+			<state></state>
+			<latitude>83434</latitude>
+			<longitude>25934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edin">
+			<state></state>
+			<latitude>74101</latitude>
+			<longitude>17268</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edjiridji">
+			<state></state>
+			<latitude>96434</latitude>
+			<longitude>14434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eglime">
+			<state></state>
+			<latitude>70934</latitude>
+			<longitude>16768</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ehwe">
+			<state></state>
+			<latitude>80768</latitude>
+			<longitude>25434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekanikle">
+			<state></state>
+			<latitude>103768</latitude>
+			<longitude>9934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekle">
+			<state></state>
+			<latitude>84268</latitude>
+			<longitude>24434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekpa">
+			<state></state>
+			<latitude>80101</latitude>
+			<longitude>17101</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekpe">
+			<state></state>
+			<latitude>64101</latitude>
+			<longitude>25434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekpelegnou">
+			<state></state>
+			<latitude>95101</latitude>
+			<longitude>14268</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekpi">
+			<state></state>
+			<latitude>74601</latitude>
+			<longitude>16934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elaou">
+			<state></state>
+			<latitude>95601</latitude>
+			<longitude>14601</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elekowa">
+			<state></state>
+			<latitude>91101</latitude>
+			<longitude>21768</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emayou">
+			<state></state>
+			<latitude>74101</latitude>
+			<longitude>19601</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eouihera">
+			<state></state>
+			<latitude>77601</latitude>
+			<longitude>16768</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eratio -- (State: (BN01))">
+			<state>(BN01)</state>
+			<latitude>95482</latitude>
+			<longitude>15595</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Essaignon">
+			<state></state>
+			<latitude>79934</latitude>
+			<longitude>18268</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esseakouon">
+			<state></state>
+			<latitude>85768</latitude>
+			<longitude>23768</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esuime">
+			<state></state>
+			<latitude>71268</latitude>
+			<longitude>16434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etchin">
+			<state></state>
+			<latitude>81934</latitude>
+			<longitude>18934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eveji">
+			<state></state>
+			<latitude>73601</latitude>
+			<longitude>25768</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ewe">
+			<state></state>
+			<latitude>74601</latitude>
+			<longitude>25934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guessou-Sud -- (State: (BN03))">
+			<state>(BN03)</state>
+			<latitude>100567</latitude>
+			<longitude>26559</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ifemi">
+			<state></state>
+			<latitude>88772</latitude>
+			<longitude>20272</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabeta">
+			<state></state>
+			<latitude>79106</latitude>
+			<longitude>26773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janko">
+			<state></state>
+			<latitude>101439</latitude>
+			<longitude>34939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jassi">
+			<state></state>
+			<latitude>100439</latitude>
+			<longitude>35106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiatin">
+			<state></state>
+			<latitude>104939</latitude>
+			<longitude>37773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiga">
+			<state></state>
+			<latitude>73439</latitude>
+			<longitude>19439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimmba">
+			<state></state>
+			<latitude>91606</latitude>
+			<longitude>25273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jougoi">
+			<state></state>
+			<latitude>107606</latitude>
+			<longitude>35773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kandi -- (State: Alibori)">
+			<state>Alibori</state>
+			<latitude>111449</latitude>
+			<longitude>29493</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kandia Koubong">
+			<state></state>
+			<latitude>96440</latitude>
+			<longitude>14940</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kandifo">
+			<state></state>
+			<latitude>111274</latitude>
+			<longitude>29774</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ketou">
+			<state></state>
+			<latitude>91440</latitude>
+			<longitude>15774</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nikki -- (State: (BN03))">
+			<state>(BN03)</state>
+			<latitude>99449</latitude>
+			<longitude>32154</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parakou -- (State: Borgou)">
+			<state>Borgou</state>
+			<latitude>93612</latitude>
+			<longitude>26279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parakou">
+			<state></state>
+			<latitude>103279</latitude>
+			<longitude>30445</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Porto-Novo -- (State: Queme)">
+			<state>Queme</state>
+			<latitude>64945</latitude>
+			<longitude>26279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quereke">
+			<state></state>
+			<latitude>97446</latitude>
+			<longitude>25280</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rabanou">
+			<state></state>
+			<latitude>106781</latitude>
+			<longitude>28447</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rafaitchikpa">
+			<state></state>
+			<latitude>94614</latitude>
+			<longitude>14781</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapides d Adjarala">
+			<state></state>
+			<latitude>69114</latitude>
+			<longitude>16114</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapides d Agbako">
+			<state></state>
+			<latitude>68281</latitude>
+			<longitude>16281</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapides d Arandoule">
+			<state></state>
+			<latitude>68614</latitude>
+			<longitude>16114</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapides de Belia">
+			<state></state>
+			<latitude>69447</latitude>
+			<longitude>15947</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapides de Katong">
+			<state></state>
+			<latitude>69281</latitude>
+			<longitude>15947</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapides du Barou">
+			<state></state>
+			<latitude>123614</latitude>
+			<longitude>27781</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Republique du Dahomey">
+			<state></state>
+			<latitude>95114</latitude>
+			<longitude>22614</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhomte">
+			<state></state>
+			<latitude>71447</latitude>
+			<longitude>17281</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rini Lafia">
+			<state></state>
+			<latitude>119781</latitude>
+			<longitude>32281</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Odwo">
+			<state></state>
+			<latitude>88447</latitude>
+			<longitude>22281</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Opesuku">
+			<state></state>
+			<latitude>78614</latitude>
+			<longitude>26781</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riviere Zou">
+			<state></state>
+			<latitude>64781</latitude>
+			<longitude>24281</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sakete -- (State: Plateau)">
+			<state>Plateau</state>
+			<latitude>67282</latitude>
+			<longitude>26782</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sakete">
+			<state></state>
+			<latitude>73782</latitude>
+			<longitude>19948</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Segbana -- (State: (BN03))">
+			<state>(BN03)</state>
+			<latitude>109393</latitude>
+			<longitude>37046</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ueme">
+			<state></state>
+			<latitude>64950</latitude>
+			<longitude>25450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unet">
+			<state></state>
+			<latitude>112450</latitude>
+			<longitude>24284</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vacon">
+			<state></state>
+			<latitude>65451</latitude>
+			<longitude>25785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanhoui">
+			<state></state>
+			<latitude>95785</latitude>
+			<longitude>18618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venahoue">
+			<state></state>
+			<latitude>68285</latitude>
+			<longitude>16951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vergou">
+			<state></state>
+			<latitude>97285</latitude>
+			<longitude>18285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vionna">
+			<state></state>
+			<latitude>109951</latitude>
+			<longitude>32785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vivime">
+			<state></state>
+			<latitude>72285</latitude>
+			<longitude>16785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vodome">
+			<state></state>
+			<latitude>64285</latitude>
+			<longitude>17951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vome-Vegame">
+			<state></state>
+			<latitude>72451</latitude>
+			<longitude>16618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vossa">
+			<state></state>
+			<latitude>85118</latitude>
+			<longitude>23618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

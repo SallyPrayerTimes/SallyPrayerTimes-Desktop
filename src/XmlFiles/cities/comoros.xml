@@ -1,0 +1,1216 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Comoros">
+		<city name="Abakambouni -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123481</latitude>
+			<longitude>445103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Acoua">
+			<state></state>
+			<latitude>-127236</latitude>
+			<longitude>450597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adda-Doueni -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122828</latitude>
+			<longitude>445069</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agnachindra -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123575</latitude>
+			<longitude>445080</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agniamuada">
+			<state></state>
+			<latitude>-123070</latitude>
+			<longitude>438597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agnochi -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123303</latitude>
+			<longitude>444914</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agogo -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122220</latitude>
+			<longitude>443755</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ahibambo -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118761</latitude>
+			<longitude>434630</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ajangua">
+			<state></state>
+			<latitude>-128570</latitude>
+			<longitude>452264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amadzi -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-122870</latitude>
+			<longitude>436444</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amaha Point">
+			<state></state>
+			<latitude>-127570</latitude>
+			<longitude>452597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amohoa -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123106</latitude>
+			<longitude>444850</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amoro">
+			<state></state>
+			<latitude>-128736</latitude>
+			<longitude>452430</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Angaro">
+			<state></state>
+			<latitude>-127403</latitude>
+			<longitude>452430</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Angaziga -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115764</latitude>
+			<longitude>433428</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anihani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-114011</latitude>
+			<longitude>433050</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ankibani -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121836</latitude>
+			<longitude>443714</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Bambo">
+			<state></state>
+			<latitude>-129236</latitude>
+			<longitude>451930</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Bandeli">
+			<state></state>
+			<latitude>-128903</latitude>
+			<longitude>452264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Choa">
+			<state></state>
+			<latitude>-127736</latitude>
+			<longitude>452597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse des Cocotiers">
+			<state></state>
+			<latitude>-128403</latitude>
+			<longitude>451097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Doueny">
+			<state></state>
+			<latitude>-122570</latitude>
+			<longitude>437597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Ironi">
+			<state></state>
+			<latitude>-128236</latitude>
+			<longitude>452264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Miambani">
+			<state></state>
+			<latitude>-129403</latitude>
+			<longitude>451930</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Nord Bambo">
+			<state></state>
+			<latitude>-129070</latitude>
+			<longitude>451930</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antsahe -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123467</latitude>
+			<longitude>445322</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aombe">
+			<state></state>
+			<latitude>-127403</latitude>
+			<longitude>452930</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Assimpao -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122234</latitude>
+			<longitude>443294</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Assomai -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123106</latitude>
+			<longitude>444744</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avourouni -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-122961</latitude>
+			<longitude>436575</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etat Comorien">
+			<state></state>
+			<latitude>-121566</latitude>
+			<longitude>442601</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Famare -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118484</latitude>
+			<longitude>434335</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fombani">
+			<state></state>
+			<latitude>-121731</latitude>
+			<longitude>443102</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fomboni -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118515</latitude>
+			<longitude>434944</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fomboni -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-122698</latitude>
+			<longitude>437527</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fomboni Road">
+			<state></state>
+			<latitude>-122565</latitude>
+			<longitude>437769</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foreni -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121059</latitude>
+			<longitude>444910</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Moya -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122726</latitude>
+			<longitude>444708</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret du Kartala -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118090</latitude>
+			<longitude>433944</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foro Islet -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123629</latitude>
+			<longitude>437716</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foumboudzivouni -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-116956</latitude>
+			<longitude>434344</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foundroni -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121715</latitude>
+			<longitude>442530</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Founga -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-114617</latitude>
+			<longitude>433052</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foungue -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123312</latitude>
+			<longitude>436938</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gadjou-Lamdjahala -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115583</latitude>
+			<longitude>433367</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaouani -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123272</latitude>
+			<longitude>437556</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gnambo Yamaore -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-122405</latitude>
+			<longitude>436795</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gnantranga -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121253</latitude>
+			<longitude>444492</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gnavivi -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122725</latitude>
+			<longitude>444256</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gnignijo -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123622</latitude>
+			<longitude>445320</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gnouma -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122894</latitude>
+			<longitude>445192</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gomajou -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123333</latitude>
+			<longitude>445470</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goudjoudai -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123353</latitude>
+			<longitude>437725</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goudjoulachamle -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-114341</latitude>
+			<longitude>432747</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gouhantsahe -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123516</latitude>
+			<longitude>445347</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goulagnoundi -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123239</latitude>
+			<longitude>438156</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goulaivouani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-113775</latitude>
+			<longitude>434020</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goungouamoue -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121494</latitude>
+			<longitude>444128</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gouni -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-116433</latitude>
+			<longitude>432670</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gounzini -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118447</latitude>
+			<longitude>434061</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gozibi -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115469</latitude>
+			<longitude>433475</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Recif du Nord-Est">
+			<state></state>
+			<latitude>-126897</latitude>
+			<longitude>452436</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande Passe de l Ouest">
+			<state></state>
+			<latitude>-127897</latitude>
+			<longitude>450103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande Terre">
+			<state></state>
+			<latitude>-128230</latitude>
+			<longitude>451770</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guamarumbo">
+			<state></state>
+			<latitude>-122397</latitude>
+			<longitude>436936</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itsikoudi -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115731</latitude>
+			<longitude>433863</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamaue -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121830</latitude>
+			<longitude>443206</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jandza -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122886</latitude>
+			<longitude>445078</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeje -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122127</latitude>
+			<longitude>445331</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiandro">
+			<state></state>
+			<latitude>-123061</latitude>
+			<longitude>437939</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimilime -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-120830</latitude>
+			<longitude>444742</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johanna">
+			<state></state>
+			<latitude>-122394</latitude>
+			<longitude>444273</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jomani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-114197</latitude>
+			<longitude>432700</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jongoni -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121908</latitude>
+			<longitude>443773</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joumbi -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-120691</latitude>
+			<longitude>444656</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juaezi -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118341</latitude>
+			<longitude>433264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumajini Island">
+			<state></state>
+			<latitude>-123727</latitude>
+			<longitude>437273</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumeaux Shoals">
+			<state></state>
+			<latitude>-126394</latitude>
+			<longitude>451606</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jungoni Bay">
+			<state></state>
+			<latitude>-128394</latitude>
+			<longitude>451439</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kavele -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121571</latitude>
+			<longitude>445132</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kombajou -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123007</latitude>
+			<longitude>444610</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kotchi -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122746</latitude>
+			<longitude>444371</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kounoudjou -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-117974</latitude>
+			<longitude>432835</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Convalescence -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-117442</latitude>
+			<longitude>433305</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labanda">
+			<state></state>
+			<latitude>-123059</latitude>
+			<longitude>438275</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lake Dziani">
+			<state></state>
+			<latitude>-127559</latitude>
+			<longitude>453108</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Longoni">
+			<state></state>
+			<latitude>-127392</latitude>
+			<longitude>451941</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mbeni -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-114905</latitude>
+			<longitude>433884</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mnoungou -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115069</latitude>
+			<longitude>433848</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moroni -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-116933</latitude>
+			<longitude>432512</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mutsamudu -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121519</latitude>
+			<longitude>444073</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nioumadzaha -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-117796</latitude>
+			<longitude>432774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nioumadzaha Voumbari -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118284</latitude>
+			<longitude>434657</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oichilidjou -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115906</latitude>
+			<longitude>433447</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ongoujou -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122989</latitude>
+			<longitude>445250</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ongoujou">
+			<state></state>
+			<latitude>-128389</latitude>
+			<longitude>451778</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oreilles de Chat -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122120</latitude>
+			<longitude>444380</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orestes Rock">
+			<state></state>
+			<latitude>-127722</latitude>
+			<longitude>452778</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oua Madji -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123053</latitude>
+			<longitude>438136</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouagombe -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-114186</latitude>
+			<longitude>432925</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouallah -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123145</latitude>
+			<longitude>436744</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouamlamaele -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115820</latitude>
+			<longitude>433625</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouangani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-113708</latitude>
+			<longitude>433705</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouangoni -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123058</latitude>
+			<longitude>445355</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouela -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-113792</latitude>
+			<longitude>433430</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouhoni -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123117</latitude>
+			<longitude>437961</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouhozi -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-113939</latitude>
+			<longitude>432933</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouimbi -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122206</latitude>
+			<longitude>443267</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oungoni -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-117420</latitude>
+			<longitude>434550</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ounzouni -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-123139</latitude>
+			<longitude>445261</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouongobabounou -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-122778</latitude>
+			<longitude>436869</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouroveni -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118986</latitude>
+			<longitude>434997</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ousini -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122561</latitude>
+			<longitude>444908</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ousivo -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115739</latitude>
+			<longitude>432783</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outsa -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122675</latitude>
+			<longitude>445089</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outsa Daoueni -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122542</latitude>
+			<longitude>445161</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rade de Papany">
+			<state></state>
+			<latitude>-122553</latitude>
+			<longitude>445614</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras Habou">
+			<state></state>
+			<latitude>-113386</latitude>
+			<longitude>434114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rassi Douamougno">
+			<state></state>
+			<latitude>-126553</latitude>
+			<longitude>451447</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rassi Gouja">
+			<state></state>
+			<latitude>-129386</latitude>
+			<longitude>451114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rassijou -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121783</latitude>
+			<longitude>443233</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recif Ajangua">
+			<state></state>
+			<latitude>-128719</latitude>
+			<longitude>452947</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recif Bambo">
+			<state></state>
+			<latitude>-129386</latitude>
+			<longitude>452447</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recif Bandele">
+			<state></state>
+			<latitude>-128886</latitude>
+			<longitude>452781</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recif du Sud">
+			<state></state>
+			<latitude>-129886</latitude>
+			<longitude>450947</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recif Nord">
+			<state></state>
+			<latitude>-125886</latitude>
+			<longitude>451114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recif Pamandzi">
+			<state></state>
+			<latitude>-128553</latitude>
+			<longitude>453114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recif Point">
+			<state></state>
+			<latitude>-129053</latitude>
+			<longitude>451114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recifs du Laminoir">
+			<state></state>
+			<latitude>-128886</latitude>
+			<longitude>452447</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reef Islet">
+			<state></state>
+			<latitude>-128053</latitude>
+			<longitude>453114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riviere Damu -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123028</latitude>
+			<longitude>436592</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riviere Debeney">
+			<state></state>
+			<latitude>-128219</latitude>
+			<longitude>452114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roche Moya -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122783</latitude>
+			<longitude>444389</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roche Percee">
+			<state></state>
+			<latitude>-124053</latitude>
+			<longitude>437447</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocher Blanc">
+			<state></state>
+			<latitude>-123386</latitude>
+			<longitude>439447</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocher Conique">
+			<state></state>
+			<latitude>-122219</latitude>
+			<longitude>445447</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocher Noir">
+			<state></state>
+			<latitude>-123719</latitude>
+			<longitude>437114</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rochers Bateaux">
+			<state></state>
+			<latitude>-123719</latitude>
+			<longitude>436614</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roches Chiconi">
+			<state></state>
+			<latitude>-122553</latitude>
+			<longitude>436281</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roches Plates">
+			<state></state>
+			<latitude>-123719</latitude>
+			<longitude>436947</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sadani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-116132</latitude>
+			<longitude>433729</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sangani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115099</latitude>
+			<longitude>433384</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shendini -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-119093</latitude>
+			<longitude>434926</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sima Ambouani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-119041</latitude>
+			<longitude>434732</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Simouni -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118879</latitude>
+			<longitude>435076</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118341</latitude>
+			<longitude>433207</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sombe -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121807</latitude>
+			<longitude>443321</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sulu Bay">
+			<state></state>
+			<latitude>-127718</latitude>
+			<longitude>451282</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uchongui Peak">
+			<state></state>
+			<latitude>-129383</latitude>
+			<longitude>451617</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vailheu Shoal">
+			<state></state>
+			<latitude>-117882</latitude>
+			<longitude>430785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanadjou -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115957</latitude>
+			<longitude>432879</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanambouani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115996</latitude>
+			<longitude>432649</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vassy -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122201</latitude>
+			<longitude>443543</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vatou">
+			<state></state>
+			<latitude>-127549</latitude>
+			<longitude>452785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaucluse">
+			<state></state>
+			<latitude>-126382</latitude>
+			<longitude>451451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verte Islet">
+			<state></state>
+			<latitude>-127049</latitude>
+			<longitude>451618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veza -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-114379</latitude>
+			<longitude>433815</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vindjajou -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121954</latitude>
+			<longitude>443215</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voani -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-122324</latitude>
+			<longitude>443862</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouazissia -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-118563</latitude>
+			<longitude>435007</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vounambadani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115990</latitude>
+			<longitude>432740</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voundrouvou -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-122751</latitude>
+			<longitude>436721</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouvouni -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-117382</latitude>
+			<longitude>432551</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanani -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123256</latitude>
+			<longitude>438094</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenefu -- (State: Moheli)">
+			<state>Moheli</state>
+			<latitude>-123862</latitude>
+			<longitude>437180</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilson -- (State: Anjouan)">
+			<state>Anjouan</state>
+			<latitude>-121437</latitude>
+			<longitude>444491</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamburu Island">
+			<state></state>
+			<latitude>-126378</latitude>
+			<longitude>450455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaudzi Island">
+			<state></state>
+			<latitude>-127711</latitude>
+			<longitude>452955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zembadjou -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-114720</latitude>
+			<longitude>433469</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zikaledjou -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-117900</latitude>
+			<longitude>432814</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zironi -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-115722</latitude>
+			<longitude>433933</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zivandani -- (State: Grande Comore)">
+			<state>Grande Comore</state>
+			<latitude>-116336</latitude>
+			<longitude>432780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoumougine">
+			<state></state>
+			<latitude>-127211</latitude>
+			<longitude>451455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

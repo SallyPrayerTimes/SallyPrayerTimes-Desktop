@@ -1,0 +1,1370 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="United Arab Emirates">
+		<city name="Abadilah -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>254480</latitude>
+			<longitude>562011</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu al Aby -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>241872</latitude>
+			<longitude>537958</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu Dhabi -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>244764</latitude>
+			<longitude>543764</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ad Dab`iyah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243347</latitude>
+			<longitude>541541</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ad Dafrah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>234264</latitude>
+			<longitude>534264</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adh Dhibah -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>249930</latitude>
+			<longitude>550930</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ajima -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>254122</latitude>
+			<longitude>561528</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ajman -- (State: `Ajman)">
+			<state>`Ajman</state>
+			<latitude>253930</latitude>
+			<longitude>555264</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ajman">
+			<state></state>
+			<latitude>254158</latitude>
+			<longitude>554525</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al A lim -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>250516</latitude>
+			<longitude>551903</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Ail -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>255597</latitude>
+			<longitude>557264</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Ain -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>242264</latitude>
+			<longitude>557764</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Hamriyah -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>254905</latitude>
+			<longitude>555080</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Qusays -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>252800</latitude>
+			<longitude>554128</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asab Field -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>233430</latitude>
+			<longitude>541764</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bani Yas -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>238592</latitude>
+			<longitude>526451</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barr Dubayy -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>252723</latitude>
+			<longitude>553042</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bidyah -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>254412</latitude>
+			<longitude>563581</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bid` Sa`id -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>236598</latitude>
+			<longitude>524931</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bu Hasa -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>235431</latitude>
+			<longitude>533098</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Camp Island -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>245577</latitude>
+			<longitude>545580</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Castle Rock -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>252541</latitude>
+			<longitude>542374</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chabtiya -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>246432</latitude>
+			<longitude>555766</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chebra -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>239457</latitude>
+			<longitude>536841</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chitha -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243432</latitude>
+			<longitude>556599</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuwais -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>257846</latitude>
+			<longitude>559796</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cobb Rock -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>241591</latitude>
+			<longitude>523852</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalmah Island -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>245206</latitude>
+			<longitude>523203</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Das Island -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>251600</latitude>
+			<longitude>528933</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deira -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>252822</latitude>
+			<longitude>553211</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhaid -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>252922</latitude>
+			<longitude>559003</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diba">
+			<state></state>
+			<latitude>256269</latitude>
+			<longitude>562681</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diba al Hisn -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>256267</latitude>
+			<longitude>562767</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duaida -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>246233</latitude>
+			<longitude>547100</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dub -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>256206</latitude>
+			<longitude>562911</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dubai -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>252622</latitude>
+			<longitude>552900</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dubaiba -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>234433</latitude>
+			<longitude>545100</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dubayy">
+			<state></state>
+			<latitude>250100</latitude>
+			<longitude>553433</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Bunduq -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>251101</latitude>
+			<longitude>536101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Fazaya -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243132</latitude>
+			<longitude>516712</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fa iyah -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>250435</latitude>
+			<longitude>558102</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairsh">
+			<state></state>
+			<latitude>245352</latitude>
+			<longitude>554996</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faiya Pass -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>250477</latitude>
+			<longitude>558091</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaaha -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>235871</latitude>
+			<longitude>538774</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falahiyah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>230719</latitude>
+			<longitude>538649</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaiyah -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>257505</latitude>
+			<longitude>559902</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaj -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>250102</latitude>
+			<longitude>562269</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaj al Mu`alla -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>253602</latitude>
+			<longitude>558602</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaj as Salj -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>254574</latitude>
+			<longitude>559930</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaj Dayd -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>252935</latitude>
+			<longitude>558935</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falaj Wasit -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>253688</latitude>
+			<longitude>554549</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falariyah -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>252102</latitude>
+			<longitude>558769</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faliya -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>237102</latitude>
+			<longitude>548769</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falq Al Ali -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>253633</latitude>
+			<longitude>558635</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faqi -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>254208</latitude>
+			<longitude>561455</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fara -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>254224</latitude>
+			<longitude>560999</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faraijdat -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243935</latitude>
+			<longitude>517269</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farashah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>234769</latitude>
+			<longitude>546769</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farfar -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>251580</latitude>
+			<longitude>562321</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fariq -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>242083</latitude>
+			<longitude>535446</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fariq Tarif -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>240602</latitude>
+			<longitude>537935</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fashra -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>248902</latitude>
+			<longitude>562166</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht al Bazm -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>242955</latitude>
+			<longitude>533883</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht `Azizi -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>244746</latitude>
+			<longitude>517305</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fata ir -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243769</latitude>
+			<longitude>528602</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fateh -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>255935</latitude>
+			<longitude>543435</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayyad -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>249683</latitude>
+			<longitude>562135</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferda -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>248602</latitude>
+			<longitude>549769</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feteisi -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243769</latitude>
+			<longitude>543269</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fiyya -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243035</latitude>
+			<longitude>532077</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujairah -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>251435</latitude>
+			<longitude>562602</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funud -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>229435</latitude>
+			<longitude>533269</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuqqa">
+			<state></state>
+			<latitude>246974</latitude>
+			<longitude>555805</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furaykh -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>253602</latitude>
+			<longitude>559269</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuwayhij -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>231769</latitude>
+			<longitude>542602</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghantut -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>249145</latitude>
+			<longitude>549303</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghayyafi -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>238506</latitude>
+			<longitude>528561</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habshan -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>239465</latitude>
+			<longitude>536532</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hatta">
+			<state></state>
+			<latitude>247904</latitude>
+			<longitude>564546</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibeidil -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>245272</latitude>
+			<longitude>513438</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Idhn -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>254691</latitude>
+			<longitude>560261</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imarat Abu Zaby -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>236772</latitude>
+			<longitude>540105</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imshash -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>245605</latitude>
+			<longitude>513605</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irhib -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>228772</latitude>
+			<longitude>533438</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irkut -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>231183</latitude>
+			<longitude>539672</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ish -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243149</latitude>
+			<longitude>528886</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isteiha -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>233272</latitude>
+			<longitude>540772</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabal `Ali -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>250364</latitude>
+			<longitude>551381</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Ali -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>250100</latitude>
+			<longitude>550612</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumaira -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>252203</latitude>
+			<longitude>552584</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalba -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>250940</latitude>
+			<longitude>563440</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khor al Fakkan -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>253765</latitude>
+			<longitude>563740</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khor Fakkan -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>253499</latitude>
+			<longitude>563668</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ladhaynah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>229275</latitude>
+			<longitude>542608</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lafat">
+			<state></state>
+			<latitude>243375</latitude>
+			<longitude>556019</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lafayd">
+			<state></state>
+			<latitude>243027</latitude>
+			<longitude>555975</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laghbibah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>228441</latitude>
+			<longitude>533275</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lahamma -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>240275</latitude>
+			<longitude>553827</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lahmizi -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>230641</latitude>
+			<longitude>535558</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lahwir -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>229275</latitude>
+			<longitude>533108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laifaar -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>246108</latitude>
+			<longitude>558275</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laiya -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243775</latitude>
+			<longitude>550441</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laiyis -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>249608</latitude>
+			<longitude>552441</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lakayym -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>257816</latitude>
+			<longitude>562719</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lakkaliyah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>242739</latitude>
+			<longitude>538880</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Latir -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>231747</latitude>
+			<longitude>537461</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Layyah -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>253616</latitude>
+			<longitude>553822</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lazimah -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>255969</latitude>
+			<longitude>555741</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Librayr -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>228941</latitude>
+			<longitude>534275</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Libreir -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>230755</latitude>
+			<longitude>537272</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liffah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243064</latitude>
+			<longitude>532391</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Likemela -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>230997</latitude>
+			<longitude>539491</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lilja -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>254180</latitude>
+			<longitude>560869</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limaha -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>254783</latitude>
+			<longitude>557961</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lisaili -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>256275</latitude>
+			<longitude>560108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liwa -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>230108</latitude>
+			<longitude>540108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liwa Villages -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>231441</latitude>
+			<longitude>537608</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lu lu iyah -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>254014</latitude>
+			<longitude>563655</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lufuk -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>238341</latitude>
+			<longitude>539433</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lufuq -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>237830</latitude>
+			<longitude>539830</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lughzi -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>228608</latitude>
+			<longitude>533941</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lumweijah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>242125</latitude>
+			<longitude>557272</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madinat Zayid -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>236276</latitude>
+			<longitude>537609</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Margham">
+			<state></state>
+			<latitude>249153</latitude>
+			<longitude>556434</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masfut -- (State: `Ajman)">
+			<state>`Ajman</state>
+			<latitude>248209</latitude>
+			<longitude>561203</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mirfa -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>241020</latitude>
+			<longitude>535056</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Musaffah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243834</latitude>
+			<longitude>545220</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Odaid -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>246278</latitude>
+			<longitude>514111</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palhain -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>256954</latitude>
+			<longitude>559779</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petty Patches -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>244945</latitude>
+			<longitude>524612</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pirate Coast">
+			<state></state>
+			<latitude>240112</latitude>
+			<longitude>530112</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Rashid -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>252818</latitude>
+			<longitude>553020</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Saqr -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>258029</latitude>
+			<longitude>559645</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Zayed -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>245445</latitude>
+			<longitude>543945</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qidfa` -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>253113</latitude>
+			<longitude>563696</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ra s al Khaimah -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>258447</latitude>
+			<longitude>559947</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rak al Hajji -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>245114</latitude>
+			<longitude>533781</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras Abu Kashasha -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243220</latitude>
+			<longitude>541795</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras al Khaima -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>256781</latitude>
+			<longitude>560114</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras al Khaimah -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>258025</latitude>
+			<longitude>559542</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ruwais -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>241217</latitude>
+			<longitude>527420</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shaam -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>260359</latitude>
+			<longitude>560954</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>228615</latitude>
+			<longitude>539282</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharjah -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>253737</latitude>
+			<longitude>554026</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharjah State -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>250115</latitude>
+			<longitude>557615</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sha`biyah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>242948</latitude>
+			<longitude>544948</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sila -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>240448</latitude>
+			<longitude>517782</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Smeih -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>247348</latitude>
+			<longitude>547871</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taiyibah -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>254249</latitude>
+			<longitude>561802</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tarif -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>240655</latitude>
+			<longitude>537774</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al Qaiwain -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>255770</latitude>
+			<longitude>555650</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm al Qawain -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>255117</latitude>
+			<longitude>557617</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="United Arab Emirates">
+			<state></state>
+			<latitude>240117</latitude>
+			<longitude>540117</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wusha -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>252422</latitude>
+			<longitude>559236</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yafnah -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>257488</latitude>
+			<longitude>561121</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yafur -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>242982</latitude>
+			<longitude>546510</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahiliyah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>237621</latitude>
+			<longitude>525621</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahli -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>239954</latitude>
+			<longitude>547121</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaif -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>231743</latitude>
+			<longitude>537865</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yairad -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>248185</latitude>
+			<longitude>550446</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakhun -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>249024</latitude>
+			<longitude>557343</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarirah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>228788</latitude>
+			<longitude>542121</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yasat Safli -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>241974</latitude>
+			<longitude>520102</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yathi -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>231185</latitude>
+			<longitude>538915</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yilaiyis -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>238621</latitude>
+			<longitude>554454</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yilak -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>230771</latitude>
+			<longitude>536846</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yinainir -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>259202</latitude>
+			<longitude>561821</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yinas -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>257535</latitude>
+			<longitude>561424</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuwaybir -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>229288</latitude>
+			<longitude>543454</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabia -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>249789</latitude>
+			<longitude>550789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahr -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243716</latitude>
+			<longitude>526180</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahrani -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>232289</latitude>
+			<longitude>541955</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahuriyin -- (State: Ra s al Khaymah)">
+			<state>Ra s al Khaymah</state>
+			<latitude>260622</latitude>
+			<longitude>561455</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zakum -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>248455</latitude>
+			<longitude>537622</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaraf -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>237955</latitude>
+			<longitude>542122</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarakkuh -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>248964</latitude>
+			<longitude>530844</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zararah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>226789</latitude>
+			<longitude>541455</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarqa -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>253622</latitude>
+			<longitude>558789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarub -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>250303</latitude>
+			<longitude>562222</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zawr -- (State: Umm al Qaywayn)">
+			<state>Umm al Qaywayn</state>
+			<latitude>255397</latitude>
+			<longitude>556089</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zayqat -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>233789</latitude>
+			<longitude>521622</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Za`bil -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>252219</latitude>
+			<longitude>552958</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zidm -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>254955</latitude>
+			<longitude>561622</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziffah -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>250455</latitude>
+			<longitude>562789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zihum">
+			<state></state>
+			<latitude>252622</latitude>
+			<longitude>560789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zikt -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>255244</latitude>
+			<longitude>563278</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zinad -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>245122</latitude>
+			<longitude>552455</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zira`ah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>240789</latitude>
+			<longitude>555455</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zi`ab -- (State: Ash Shariqah)">
+			<state>Ash Shariqah</state>
+			<latitude>250455</latitude>
+			<longitude>563789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zubarah -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>254147</latitude>
+			<longitude>563736</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zubayyah -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>243383</latitude>
+			<longitude>541619</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zubbaya -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>242122</latitude>
+			<longitude>539789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zulaymah -- (State: Dubayy)">
+			<state>Dubayy</state>
+			<latitude>246622</latitude>
+			<longitude>555455</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuwayghir -- (State: Abu Zaby)">
+			<state>Abu Zaby</state>
+			<latitude>240955</latitude>
+			<longitude>552789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuyud -- (State: Al Fujayrah)">
+			<state>Al Fujayrah</state>
+			<latitude>252122</latitude>
+			<longitude>562289</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,1279 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Qatar">
+		<city name="Abu Hamur">
+			<state></state>
+			<latitude>252453</latitude>
+			<longitude>515053</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Gharafah">
+			<state></state>
+			<latitude>253472</latitude>
+			<longitude>514347</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Gharrafah">
+			<state></state>
+			<latitude>253250</latitude>
+			<longitude>514483</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Khawr">
+			<state></state>
+			<latitude>256936</latitude>
+			<longitude>515155</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Khor -- (State: Al Khawr)">
+			<state>Al Khawr</state>
+			<latitude>257597</latitude>
+			<longitude>514264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Nasraniyah">
+			<state></state>
+			<latitude>254097</latitude>
+			<longitude>510764</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Rayyan -- (State: Ar Rayyan)">
+			<state>Ar Rayyan</state>
+			<latitude>252597</latitude>
+			<longitude>514264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balad Ibrahim -- (State: Ad Dawhah)">
+			<state>Ad Dawhah</state>
+			<latitude>252565</latitude>
+			<longitude>516079</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baladiyat al Wakrah -- (State: (QA05))">
+			<state>(QA05)</state>
+			<latitude>250098</latitude>
+			<longitude>515098</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baladiyat Jarayan al Batinah -- (State: (QA07))">
+			<state>(QA07)</state>
+			<latitude>247598</latitude>
+			<longitude>511765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baladiyat Madinat ash Shamal -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>260765</latitude>
+			<longitude>512598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baladiyat Umm Salal -- (State: Umm Salal)">
+			<state>Umm Salal</state>
+			<latitude>255431</latitude>
+			<longitude>514265</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barthat al Khursa`ah">
+			<state></state>
+			<latitude>252765</latitude>
+			<longitude>509431</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bi r al Husayn -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>255487</latitude>
+			<longitude>509495</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bi r Rawdat al Jarrah">
+			<state></state>
+			<latitude>254598</latitude>
+			<longitude>508265</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bi r `Uwaynat `Ali">
+			<state></state>
+			<latitude>254931</latitude>
+			<longitude>507931</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bin Gharah">
+			<state></state>
+			<latitude>257598</latitude>
+			<longitude>514765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brook">
+			<state></state>
+			<latitude>255265</latitude>
+			<longitude>508765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bu Sidrah">
+			<state></state>
+			<latitude>257265</latitude>
+			<longitude>510598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bul Hanine">
+			<state></state>
+			<latitude>254265</latitude>
+			<longitude>526765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bul Khaipan">
+			<state></state>
+			<latitude>251640</latitude>
+			<longitude>519734</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Burna`at Maraqqat">
+			<state></state>
+			<latitude>256073</latitude>
+			<longitude>515848</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Busaiyir-al- Aud">
+			<state></state>
+			<latitude>253931</latitude>
+			<longitude>512098</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalib">
+			<state></state>
+			<latitude>253599</latitude>
+			<longitude>507766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalib bis">
+			<state></state>
+			<latitude>253432</latitude>
+			<longitude>507766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daasah">
+			<state></state>
+			<latitude>254061</latitude>
+			<longitude>507750</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dahail">
+			<state></state>
+			<latitude>253683</latitude>
+			<longitude>514767</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dahl al Hammam">
+			<state></state>
+			<latitude>253433</latitude>
+			<longitude>514933</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dahl al Misfar">
+			<state></state>
+			<latitude>252100</latitude>
+			<longitude>512100</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dahl al Mudhlam">
+			<state></state>
+			<latitude>251267</latitude>
+			<longitude>512100</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dakhira -- (State: Al Khawr)">
+			<state>Al Khawr</state>
+			<latitude>257447</latitude>
+			<longitude>515575</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dawi">
+			<state></state>
+			<latitude>247706</latitude>
+			<longitude>514914</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doha -- (State: Ad Dawhah)">
+			<state>Ad Dawhah</state>
+			<latitude>252967</latitude>
+			<longitude>515433</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doha Harbour">
+			<state></state>
+			<latitude>253100</latitude>
+			<longitude>515433</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dohat al Hasain">
+			<state></state>
+			<latitude>255825</latitude>
+			<longitude>509022</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dohat al Usaiwid">
+			<state></state>
+			<latitude>258100</latitude>
+			<longitude>509767</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dohat as Salwa">
+			<state></state>
+			<latitude>253567</latitude>
+			<longitude>506544</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dohat az Zekrit">
+			<state></state>
+			<latitude>255183</latitude>
+			<longitude>508386</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dohat Faishshakh -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>256183</latitude>
+			<longitude>509750</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dukhan">
+			<state></state>
+			<latitude>253100</latitude>
+			<longitude>508100</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dukhan -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>254397</latitude>
+			<longitude>507958</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edh Dha ain -- (State: Al Khawr)">
+			<state>Al Khawr</state>
+			<latitude>255770</latitude>
+			<longitude>514948</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Mafier -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>261434</latitude>
+			<longitude>513101</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fahahil Pumping Station">
+			<state></state>
+			<latitude>252935</latitude>
+			<longitude>507769</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fahal -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>253238</latitude>
+			<longitude>507833</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faishakh">
+			<state></state>
+			<latitude>256269</latitude>
+			<longitude>510269</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fareiha -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>260102</latitude>
+			<longitude>510435</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farhut">
+			<state></state>
+			<latitude>245980</latitude>
+			<longitude>511799</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fariq al Ghanim al Jadid">
+			<state></state>
+			<latitude>252533</latitude>
+			<longitude>514627</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farshiyah -- (State: Al Khawr)">
+			<state>Al Khawr</state>
+			<latitude>256610</latitude>
+			<longitude>515269</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht Abu al Mushut -- (State: Ad Dawhah)">
+			<state>Ad Dawhah</state>
+			<latitude>252846</latitude>
+			<longitude>516185</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht ad Dibal">
+			<state></state>
+			<latitude>262602</latitude>
+			<longitude>509602</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht al Arif">
+			<state></state>
+			<latitude>249349</latitude>
+			<longitude>516910</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht al Hurabi">
+			<state></state>
+			<latitude>255619</latitude>
+			<longitude>516321</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht al Odaid">
+			<state></state>
+			<latitude>248641</latitude>
+			<longitude>517844</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht al Yabis">
+			<state></state>
+			<latitude>257644</latitude>
+			<longitude>516324</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht Ard an Nawf">
+			<state></state>
+			<latitude>256780</latitude>
+			<longitude>516374</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht Shuwaymisah">
+			<state></state>
+			<latitude>250385</latitude>
+			<longitude>516455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fasht-al- `Arq">
+			<state></state>
+			<latitude>249927</latitude>
+			<longitude>516230</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuhayhil">
+			<state></state>
+			<latitude>259102</latitude>
+			<longitude>510102</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fulayyih">
+			<state></state>
+			<latitude>248702</latitude>
+			<longitude>512963</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuwaira">
+			<state></state>
+			<latitude>250435</latitude>
+			<longitude>513769</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuwayrit -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>260319</latitude>
+			<longitude>513771</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghaf Makin -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>264514</latitude>
+			<longitude>511992</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghaf Makin">
+			<state></state>
+			<latitude>259936</latitude>
+			<longitude>511936</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghaf umhat Anz">
+			<state></state>
+			<latitude>251936</latitude>
+			<longitude>509770</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghafat">
+			<state></state>
+			<latitude>252436</latitude>
+			<longitude>511603</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghaniya">
+			<state></state>
+			<latitude>259936</latitude>
+			<longitude>513936</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghar al Burayd">
+			<state></state>
+			<latitude>247936</latitude>
+			<longitude>509103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gharib ath Thawr">
+			<state></state>
+			<latitude>246259</latitude>
+			<longitude>510256</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghariyah -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>260884</latitude>
+			<longitude>513720</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gharrah">
+			<state></state>
+			<latitude>257270</latitude>
+			<longitude>510270</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghashamiyah">
+			<state></state>
+			<latitude>259936</latitude>
+			<longitude>514103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghuwair">
+			<state></state>
+			<latitude>258603</latitude>
+			<longitude>512936</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghuwairiyah">
+			<state></state>
+			<latitude>258400</latitude>
+			<longitude>512556</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gulf of Bahrayn">
+			<state></state>
+			<latitude>257603</latitude>
+			<longitude>506770</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gurain al Balbul">
+			<state></state>
+			<latitude>249564</latitude>
+			<longitude>511947</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hazm Mushah as Sabha">
+			<state></state>
+			<latitude>251771</latitude>
+			<longitude>507937</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hjizm Umm el Hul -- (State: (QA05))">
+			<state>(QA05)</state>
+			<latitude>251001</latitude>
+			<longitude>515990</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hulwan">
+			<state></state>
+			<latitude>259604</latitude>
+			<longitude>510771</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huwailah">
+			<state></state>
+			<latitude>259437</latitude>
+			<longitude>514604</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Idd el Shardi">
+			<state></state>
+			<latitude>254272</latitude>
+			<longitude>524272</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ingaiah">
+			<state></state>
+			<latitude>257624</latitude>
+			<longitude>509313</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Istad Khalifah">
+			<state></state>
+			<latitude>252772</latitude>
+			<longitude>514605</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalam">
+			<state></state>
+			<latitude>258940</latitude>
+			<longitude>515440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kar`anah">
+			<state></state>
+			<latitude>250107</latitude>
+			<longitude>510607</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katah ad Jaradeh">
+			<state></state>
+			<latitude>261940</latitude>
+			<longitude>509107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katat Ekhchejera">
+			<state></state>
+			<latitude>260274</latitude>
+			<longitude>508940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khakhil">
+			<state></state>
+			<latitude>252940</latitude>
+			<longitude>507940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kharaib">
+			<state></state>
+			<latitude>254440</latitude>
+			<longitude>512274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kharaib 1">
+			<state></state>
+			<latitude>254774</latitude>
+			<longitude>512274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kharais">
+			<state></state>
+			<latitude>258607</latitude>
+			<longitude>514440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kharazat ad Darb">
+			<state></state>
+			<latitude>248376</latitude>
+			<longitude>509699</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khari 2">
+			<state></state>
+			<latitude>257107</latitude>
+			<longitude>512774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kharitiyat">
+			<state></state>
+			<latitude>248396</latitude>
+			<longitude>512104</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khashm en Nakhsa">
+			<state></state>
+			<latitude>248935</latitude>
+			<longitude>509138</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khatiyah">
+			<state></state>
+			<latitude>254440</latitude>
+			<longitude>507940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khawr Hassan -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>260854</latitude>
+			<longitude>510943</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khawzan -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>254913</latitude>
+			<longitude>509496</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khirzah Baidhat al Ga">
+			<state></state>
+			<latitude>250440</latitude>
+			<longitude>511774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khnaimat al Hamala">
+			<state></state>
+			<latitude>252607</latitude>
+			<longitude>507774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khor al- Udaid">
+			<state></state>
+			<latitude>246274</latitude>
+			<longitude>513274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khrefi">
+			<state></state>
+			<latitude>248235</latitude>
+			<longitude>510746</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khurayj">
+			<state></state>
+			<latitude>250440</latitude>
+			<longitude>508440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khursa at al Kar anah">
+			<state></state>
+			<latitude>250107</latitude>
+			<longitude>510940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khuwaimat al Mishabiyah">
+			<state></state>
+			<latitude>247940</latitude>
+			<longitude>508940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khuwaitim">
+			<state></state>
+			<latitude>250363</latitude>
+			<longitude>515001</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lach">
+			<state></state>
+			<latitude>250275</latitude>
+			<longitude>516275</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lakhrass">
+			<state></state>
+			<latitude>258941</latitude>
+			<longitude>514608</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laqta">
+			<state></state>
+			<latitude>253108</latitude>
+			<longitude>515275</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Las Hat">
+			<state></state>
+			<latitude>247605</latitude>
+			<longitude>516225</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Latariyah">
+			<state></state>
+			<latitude>255441</latitude>
+			<longitude>512275</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lisha">
+			<state></state>
+			<latitude>259686</latitude>
+			<longitude>510861</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lubwairdah -- (State: Al Khawr)">
+			<state>Al Khawr</state>
+			<latitude>257777</latitude>
+			<longitude>515464</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lusail">
+			<state></state>
+			<latitude>255083</latitude>
+			<longitude>514961</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madinat Khalifah">
+			<state></state>
+			<latitude>253362</latitude>
+			<longitude>514809</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Na aman">
+			<state></state>
+			<latitude>258677</latitude>
+			<longitude>510943</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nabat al Wasil -- (State: (QA05))">
+			<state>(QA05)</state>
+			<latitude>251199</latitude>
+			<longitude>515466</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nahi">
+			<state></state>
+			<latitude>259443</latitude>
+			<longitude>511943</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naqa Abu `Anfus">
+			<state></state>
+			<latitude>248713</latitude>
+			<longitude>515054</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naslat Umm Hadidah -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>253910</latitude>
+			<longitude>508916</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niqyan al Baghlah">
+			<state></state>
+			<latitude>248049</latitude>
+			<longitude>514824</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niqyan al Waniyah">
+			<state></state>
+			<latitude>246988</latitude>
+			<longitude>513432</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niqyan Qatar">
+			<state></state>
+			<latitude>246957</latitude>
+			<longitude>514271</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niqyan Umm Sa`id">
+			<state></state>
+			<latitude>249429</latitude>
+			<longitude>515266</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nu`aija -- (State: Ad Dawhah)">
+			<state>Ad Dawhah</state>
+			<latitude>252635</latitude>
+			<longitude>515702</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qahahil">
+			<state></state>
+			<latitude>253280</latitude>
+			<longitude>507780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qalat al Areij">
+			<state></state>
+			<latitude>248113</latitude>
+			<longitude>509946</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qalat al Darab">
+			<state></state>
+			<latitude>249205</latitude>
+			<longitude>509144</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qal`at Murayr">
+			<state></state>
+			<latitude>259780</latitude>
+			<longitude>510613</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarn Abu Wa il">
+			<state></state>
+			<latitude>246838</latitude>
+			<longitude>508719</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qasr al Huraythi">
+			<state></state>
+			<latitude>248260</latitude>
+			<longitude>510891</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qasr Bi r Zikrit">
+			<state></state>
+			<latitude>254946</latitude>
+			<longitude>508613</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qatar">
+			<state></state>
+			<latitude>255113</latitude>
+			<longitude>512613</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarna al `Ashairiq">
+			<state></state>
+			<latitude>251446</latitude>
+			<longitude>521780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qubathah -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>257169</latitude>
+			<longitude>509716</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qulban as Salamah">
+			<state></state>
+			<latitude>245863</latitude>
+			<longitude>509560</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qutayfan">
+			<state></state>
+			<latitude>253946</latitude>
+			<longitude>514946</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ra s Laffan">
+			<state></state>
+			<latitude>259200</latitude>
+			<longitude>515897</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raiyan">
+			<state></state>
+			<latitude>253033</latitude>
+			<longitude>514358</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sailiyah">
+			<state></state>
+			<latitude>252304</latitude>
+			<longitude>513912</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shara`iwah">
+			<state></state>
+			<latitude>250448</latitude>
+			<longitude>522448</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Subaihah">
+			<state></state>
+			<latitude>250282</latitude>
+			<longitude>509948</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ta as Umm Jarrah">
+			<state></state>
+			<latitude>247919</latitude>
+			<longitude>510897</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tabab Rahmah">
+			<state></state>
+			<latitude>251283</latitude>
+			<longitude>523116</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tawar al Kharrarah">
+			<state></state>
+			<latitude>248883</latitude>
+			<longitude>511363</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thumayd ad Dayhab">
+			<state></state>
+			<latitude>247616</latitude>
+			<longitude>511449</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thuwaiyir al Hamir">
+			<state></state>
+			<latitude>247310</latitude>
+			<longitude>510599</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tinbak -- (State: Al Khawr)">
+			<state>Al Khawr</state>
+			<latitude>256219</latitude>
+			<longitude>514869</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tinbik">
+			<state></state>
+			<latitude>256283</latitude>
+			<longitude>514783</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tiwar al Huraythi">
+			<state></state>
+			<latitude>248172</latitude>
+			<longitude>511049</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ti`s Kar`anah">
+			<state></state>
+			<latitude>249952</latitude>
+			<longitude>509558</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tlaim">
+			<state></state>
+			<latitude>249227</latitude>
+			<longitude>510919</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Sa`id -- (State: (QA05))">
+			<state>(QA05)</state>
+			<latitude>250078</latitude>
+			<longitude>515606</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unayzah -- (State: Umm Salal)">
+			<state>Umm Salal</state>
+			<latitude>253536</latitude>
+			<longitude>515192</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uqayf">
+			<state></state>
+			<latitude>253784</latitude>
+			<longitude>508950</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uraydah -- (State: Al Khawr)">
+			<state>Al Khawr</state>
+			<latitude>252617</latitude>
+			<longitude>515950</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usail">
+			<state></state>
+			<latitude>255003</latitude>
+			<longitude>514934</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usayrif -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>255367</latitude>
+			<longitude>508478</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadi al Banat">
+			<state></state>
+			<latitude>254119</latitude>
+			<longitude>514952</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadi al Ghirban">
+			<state></state>
+			<latitude>247325</latitude>
+			<longitude>512997</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadi Diyab">
+			<state></state>
+			<latitude>250952</latitude>
+			<longitude>509119</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadi Huwaila">
+			<state></state>
+			<latitude>250952</latitude>
+			<longitude>508452</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadi Jallal">
+			<state></state>
+			<latitude>250427</latitude>
+			<longitude>512872</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wajbah">
+			<state></state>
+			<latitude>253127</latitude>
+			<longitude>514063</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakrah -- (State: (QA05))">
+			<state>(QA05)</state>
+			<latitude>251797</latitude>
+			<longitude>516188</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakrah Hill -- (State: (QA05))">
+			<state>(QA05)</state>
+			<latitude>251616</latitude>
+			<longitude>516261</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waqbat al Barraq -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>252577</latitude>
+			<longitude>509425</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wa`b al Abariq">
+			<state></state>
+			<latitude>258952</latitude>
+			<longitude>513119</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamail -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>261118</latitude>
+			<longitude>511732</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yughbi">
+			<state></state>
+			<latitude>258618</latitude>
+			<longitude>510102</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaghab -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>261203</latitude>
+			<longitude>512569</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaghawah">
+			<state></state>
+			<latitude>253622</latitude>
+			<longitude>514289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zara al Mafjar -- (State: Madinat ash Shamal)">
+			<state>Madinat ash Shamal</state>
+			<latitude>261122</latitude>
+			<longitude>513122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarqah">
+			<state></state>
+			<latitude>249789</latitude>
+			<longitude>513955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zar` al `Atiyah">
+			<state></state>
+			<latitude>253389</latitude>
+			<longitude>513625</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zar`at Fahd -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>257469</latitude>
+			<longitude>509372</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zekrit">
+			<state></state>
+			<latitude>254455</latitude>
+			<longitude>508789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zikrit -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>255072</latitude>
+			<longitude>508589</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zubara">
+			<state></state>
+			<latitude>259955</latitude>
+			<longitude>510455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zugain al Bahath">
+			<state></state>
+			<latitude>253122</latitude>
+			<longitude>508789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zughayn al Bahath -- (State: Al Jumayliyah)">
+			<state>Al Jumayliyah</state>
+			<latitude>253261</latitude>
+			<longitude>508955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,320 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Turkmenistan">
+		<city name="Ashgabat -- (State: Ahal)">
+			<state>Ahal</state>
+			<latitude>379597</latitude>
+			<longitude>583930</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ashgabat">
+			<state></state>
+			<latitude>379525</latitude>
+			<longitude>584058</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ashgabat Oblasty -- (State: Ahal)">
+			<state>Ahal</state>
+			<latitude>382597</latitude>
+			<longitude>597597</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheleken">
+			<state></state>
+			<latitude>392266</latitude>
+			<longitude>531099</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheleken -- (State: Balkan)">
+			<state>Balkan</state>
+			<latitude>394546</latitude>
+			<longitude>531249</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eason-Ali">
+			<state></state>
+			<latitude>383101</latitude>
+			<longitude>547101</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egri">
+			<state></state>
+			<latitude>380268</latitude>
+			<longitude>651434</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esenguly">
+			<state></state>
+			<latitude>374757</latitude>
+			<longitude>539826</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esenguly Demirgazyk">
+			<state></state>
+			<latitude>375240</latitude>
+			<longitude>540023</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esenguly Reydy">
+			<state></state>
+			<latitude>374448</latitude>
+			<longitude>538657</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farab">
+			<state></state>
+			<latitude>391435</latitude>
+			<longitude>636769</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farab -- (State: Lebap)">
+			<state>Lebap</state>
+			<latitude>391816</latitude>
+			<longitude>636133</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferma Shal-Cheken">
+			<state></state>
+			<latitude>382935</latitude>
+			<longitude>566102</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Firyuza">
+			<state></state>
+			<latitude>379260</latitude>
+			<longitude>581013</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fistashkovyy Khrebet -- (State: Mary)">
+			<state>Mary</state>
+			<latitude>352835</latitude>
+			<longitude>624399</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyaurs">
+			<state></state>
+			<latitude>378064</latitude>
+			<longitude>587389</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyaurskiy Rayon">
+			<state></state>
+			<latitude>378770</latitude>
+			<longitude>585270</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hari Rod -- (State: Ahal)">
+			<state>Ahal</state>
+			<latitude>374012</latitude>
+			<longitude>605273</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leninizm -- (State: Lebap)">
+			<state>Lebap</state>
+			<latitude>385222</latitude>
+			<longitude>640716</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mary">
+			<state></state>
+			<latitude>376109</latitude>
+			<longitude>618442</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maryyskiy Rayon">
+			<state></state>
+			<latitude>380109</latitude>
+			<longitude>617609</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nebitdag -- (State: Balkan)">
+			<state>Balkan</state>
+			<latitude>395229</latitude>
+			<longitude>543760</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qara Bel">
+			<state></state>
+			<latitude>362113</latitude>
+			<longitude>635946</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qareh Tikan Su -- (State: Ahal)">
+			<state>Ahal</state>
+			<latitude>370830</latitude>
+			<longitude>605355</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qura Gel -- (State: Balkan)">
+			<state>Balkan</state>
+			<latitude>393902</latitude>
+			<longitude>531932</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sarakhs -- (State: Ahal)">
+			<state>Ahal</state>
+			<latitude>365346</latitude>
+			<longitude>612254</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tagta">
+			<state></state>
+			<latitude>416616</latitude>
+			<longitude>599116</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turkmenabad -- (State: Lebap)">
+			<state>Lebap</state>
+			<latitude>391130</latitude>
+			<longitude>635866</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turkmenbashy -- (State: Balkan)">
+			<state>Balkan</state>
+			<latitude>400347</latitude>
+			<longitude>529813</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vpadina Akchakaya">
+			<state></state>
+			<latitude>410618</latitude>
+			<longitude>582618</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yak-Kala">
+			<state></state>
+			<latitude>381288</latitude>
+			<longitude>579621</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakeper -- (State: Mary)">
+			<state>Mary</state>
+			<latitude>382293</latitude>
+			<longitude>621115</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangi-Kuyu">
+			<state></state>
+			<latitude>371621</latitude>
+			<longitude>627454</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangi-Su">
+			<state></state>
+			<latitude>410121</latitude>
+			<longitude>547788</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yashguch">
+			<state></state>
+			<latitude>372788</latitude>
+			<longitude>606454</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaskhan">
+			<state></state>
+			<latitude>396788</latitude>
+			<longitude>555621</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yasman">
+			<state></state>
+			<latitude>380788</latitude>
+			<longitude>582288</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yasydepe -- (State: Balkan)">
+			<state>Balkan</state>
+			<latitude>375352</latitude>
+			<longitude>547496</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaz-Tepe">
+			<state></state>
+			<latitude>390954</latitude>
+			<longitude>633954</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerazli">
+			<state></state>
+			<latitude>377454</latitude>
+			<longitude>594621</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerbent">
+			<state></state>
+			<latitude>393288</latitude>
+			<longitude>586121</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yesheksiyen">
+			<state></state>
+			<latitude>388454</latitude>
+			<longitude>586621</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoloten">
+			<state></state>
+			<latitude>373121</latitude>
+			<longitude>623621</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuldy-Dere">
+			<state></state>
+			<latitude>382954</latitude>
+			<longitude>567621</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yurta-Baba">
+			<state></state>
+			<latitude>376129</latitude>
+			<longitude>544365</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,271 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Albania">
+		<city name="1 Maj -- (State: Vlore)">
+			<state>Vlore</state>
+			<latitude>401149</latitude>
+			<longitude>197671</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="1 Maji -- (State: Korce)">
+			<state>Korce</state>
+			<latitude>407124</latitude>
+			<longitude>203996</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berat">
+			<state></state>
+			<latitude>407156</latitude>
+			<longitude>199620</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berat Kucove -- (State: Berat)">
+			<state>Berat</state>
+			<latitude>407765</latitude>
+			<longitude>199098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berat Rreth -- (State: Berat)">
+			<state>Berat</state>
+			<latitude>406765</latitude>
+			<longitude>200098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beratianos Potamos">
+			<state></state>
+			<latitude>405931</latitude>
+			<longitude>200931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Durres">
+			<state></state>
+			<latitude>413331</latitude>
+			<longitude>194514</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Durres Bay -- (State: Durres)">
+			<state>Durres</state>
+			<latitude>412767</latitude>
+			<longitude>194767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elbasan">
+			<state></state>
+			<latitude>411226</latitude>
+			<longitude>200923</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erzen">
+			<state></state>
+			<latitude>414451</latitude>
+			<longitude>194593</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Esanje -- (State: Berat)">
+			<state>Berat</state>
+			<latitude>406545</latitude>
+			<longitude>200007</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kavaja -- (State: Durres)">
+			<state>Durres</state>
+			<latitude>412107</latitude>
+			<longitude>195107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kavaja -- (State: Tirane)">
+			<state>Tirane</state>
+			<latitude>411963</latitude>
+			<longitude>195676</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ngjilishti -- (State: Korce)">
+			<state>Korce</state>
+			<latitude>405057</latitude>
+			<longitude>204843</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ngrancija -- (State: Fier)">
+			<state>Fier</state>
+			<latitude>406574</latitude>
+			<longitude>197341</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nje Bistrice -- (State: Vlore)">
+			<state>Vlore</state>
+			<latitude>399277</latitude>
+			<longitude>201277</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nje Maj -- (State: Korce)">
+			<state>Korce</state>
+			<latitude>407277</latitude>
+			<longitude>204277</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nje Maj -- (State: Fier)">
+			<state>Fier</state>
+			<latitude>407632</latitude>
+			<longitude>195860</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pogradec -- (State: Korce)">
+			<state>Korce</state>
+			<latitude>409137</latitude>
+			<longitude>206637</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shkoder">
+			<state></state>
+			<latitude>420790</latitude>
+			<longitude>195246</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shkoder-Shtojri -- (State: Shkoder)">
+			<state>Shkoder</state>
+			<latitude>421276</latitude>
+			<longitude>195521</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sqele e Patkut -- (State: Durres)">
+			<state>Durres</state>
+			<latitude>416376</latitude>
+			<longitude>196040</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sqelja e Patkut -- (State: Durres)">
+			<state>Durres</state>
+			<latitude>416376</latitude>
+			<longitude>196132</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sqepur -- (State: Berat)">
+			<state>Berat</state>
+			<latitude>407965</latitude>
+			<longitude>198296</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Squpurit Pass -- (State: Berat)">
+			<state>Berat</state>
+			<latitude>407948</latitude>
+			<longitude>198282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tirane">
+			<state></state>
+			<latitude>413449</latitude>
+			<longitude>197949</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tirane Rinas -- (State: Durres)">
+			<state>Durres</state>
+			<latitude>414283</latitude>
+			<longitude>197283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vlore">
+			<state></state>
+			<latitude>404785</latitude>
+			<longitude>195015</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="White Drim">
+			<state></state>
+			<latitude>419286</latitude>
+			<longitude>203577</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yefira Hassan Beut -- (State: Berat)">
+			<state>Berat</state>
+			<latitude>407810</latitude>
+			<longitude>198899</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yexulli -- (State: Lezhe)">
+			<state>Lezhe</state>
+			<latitude>417649</latitude>
+			<longitude>198996</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yiannar -- (State: Vlore)">
+			<state>Vlore</state>
+			<latitude>397146</latitude>
+			<longitude>202718</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ymer Efendi -- (State: Vlore)">
+			<state>Vlore</state>
+			<latitude>398763</latitude>
+			<longitude>201221</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ymeraj -- (State: Fier)">
+			<state>Fier</state>
+			<latitude>406807</latitude>
+			<longitude>197224</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ymishte-e Gurit -- (State: Kukes)">
+			<state>Kukes</state>
+			<latitude>419204</latitude>
+			<longitude>203590</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yrshek -- (State: Tirane)">
+			<state>Tirane</state>
+			<latitude>413582</latitude>
+			<longitude>197607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yzberish -- (State: Tirane)">
+			<state>Tirane</state>
+			<latitude>413365</latitude>
+			<longitude>197824</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yzeiraj -- (State: Fier)">
+			<state>Fier</state>
+			<latitude>405660</latitude>
+			<longitude>198240</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

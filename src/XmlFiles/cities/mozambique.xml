@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Mozambique">
+		<city name="25 de Junho A -- (State: Maputo)">
+			<state>Maputo</state>
+			<latitude>-258953</latitude>
+			<longitude>325606</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Junho B -- (State: Maputo)">
+			<state>Maputo</state>
+			<latitude>-258961</latitude>
+			<longitude>325825</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3 de Feveiro -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-150252</latitude>
+			<longitude>375587</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3 de Fevereiro -- (State: Maputo)">
+			<state>Maputo</state>
+			<latitude>-258846</latitude>
+			<longitude>326273</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="7 de Abril -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-151384</latitude>
+			<longitude>397108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="A. Titoche -- (State: Gaza)">
+			<state>Gaza</state>
+			<latitude>-244347</latitude>
+			<longitude>331300</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afonso -- (State: Zambezia)">
+			<state>Zambezia</state>
+			<latitude>-164925</latitude>
+			<longitude>389555</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afonso -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-164797</latitude>
+			<longitude>391558</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afreda -- (State: Zambezia)">
+			<state>Zambezia</state>
+			<latitude>-166561</latitude>
+			<longitude>371189</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Andrea -- (State: Gaza)">
+			<state>Gaza</state>
+			<latitude>-238556</latitude>
+			<longitude>330069</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apiadeuca -- (State: Manica)">
+			<state>Manica</state>
+			<latitude>-192517</latitude>
+			<longitude>334350</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atecume -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-164784</latitude>
+			<longitude>390750</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atoto -- (State: Cabo Delgado)">
+			<state>Cabo Delgado</state>
+			<latitude>-128747</latitude>
+			<longitude>398775</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atua -- (State: Zambezia)">
+			<state>Zambezia</state>
+			<latitude>-160353</latitude>
+			<longitude>375516</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Augusto -- (State: Sofala)">
+			<state>Sofala</state>
+			<latitude>-211459</latitude>
+			<longitude>344200</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beira">
+			<state></state>
+			<latitude>-180569</latitude>
+			<longitude>332265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beira -- (State: Sofala)">
+			<state>Sofala</state>
+			<latitude>-198316</latitude>
+			<longitude>348334</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beira Old -- (State: Sofala)">
+			<state>Sofala</state>
+			<latitude>-198255</latitude>
+			<longitude>348709</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beira-Rio -- (State: Niassa)">
+			<state>Niassa</state>
+			<latitude>-147746</latitude>
+			<longitude>367126</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chibuto -- (State: Manica)">
+			<state>Manica</state>
+			<latitude>-208443</latitude>
+			<longitude>326377</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chibuto -- (State: Gaza)">
+			<state>Gaza</state>
+			<latitude>-244318</latitude>
+			<longitude>335291</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chibuto">
+			<state></state>
+			<latitude>-194901</latitude>
+			<longitude>339099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chimoio -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-158643</latitude>
+			<longitude>392313</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chimoio -- (State: Sofala)">
+			<state>Sofala</state>
+			<latitude>-181265</latitude>
+			<longitude>345091</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chimoio -- (State: Manica)">
+			<state>Manica</state>
+			<latitude>-189818</latitude>
+			<longitude>334302</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chimoio Upland">
+			<state></state>
+			<latitude>-189901</latitude>
+			<longitude>335099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iangua -- (State: Cabo Delgado)">
+			<state>Cabo Delgado</state>
+			<latitude>-117253</latitude>
+			<longitude>401866</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iena -- (State: Cabo Delgado)">
+			<state>Cabo Delgado</state>
+			<latitude>-138764</latitude>
+			<longitude>385886</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iene -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-162737</latitude>
+			<longitude>396838</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iero -- (State: Zambezia)">
+			<state>Zambezia</state>
+			<latitude>-170809</latitude>
+			<longitude>369222</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ietemane -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-219076</latitude>
+			<longitude>346413</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iremba -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-149920</latitude>
+			<longitude>406624</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabvulamtenga Hill">
+			<state></state>
+			<latitude>-169821</latitude>
+			<longitude>350740</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kadzi">
+			<state></state>
+			<latitude>-159893</latitude>
+			<longitude>310940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kagana">
+			<state></state>
+			<latitude>-153560</latitude>
+			<longitude>345274</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalawiri Hill">
+			<state></state>
+			<latitude>-142060</latitude>
+			<longitude>333607</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaliquoqua">
+			<state></state>
+			<latitude>-257060</latitude>
+			<longitude>319774</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaliwata">
+			<state></state>
+			<latitude>-143329</latitude>
+			<longitude>359504</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaphiridzaje -- (State: Tete)">
+			<state>Tete</state>
+			<latitude>-157904</latitude>
+			<longitude>342543</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kapiribveu Hill">
+			<state></state>
+			<latitude>-140060</latitude>
+			<longitude>331940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kero Nyuni">
+			<state></state>
+			<latitude>-116226</latitude>
+			<longitude>405774</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kifinga Point -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-148676</latitude>
+			<longitude>408268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kirk Point">
+			<state></state>
+			<latitude>-189226</latitude>
+			<longitude>358940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiss -- (State: Maputo)">
+			<state>Maputo</state>
+			<latitude>-253226</latitude>
+			<longitude>320440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobinja">
+			<state></state>
+			<latitude>-258226</latitude>
+			<longitude>319440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Komati -- (State: Maputo)">
+			<state>Maputo</state>
+			<latitude>-258474</latitude>
+			<longitude>327407</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kombola -- (State: Tete)">
+			<state>Tete</state>
+			<latitude>-150046</latitude>
+			<longitude>302871</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kope">
+			<state></state>
+			<latitude>-166726</latitude>
+			<longitude>327107</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koromo">
+			<state></state>
+			<latitude>-159893</latitude>
+			<longitude>304440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuzilonde">
+			<state></state>
+			<latitude>-268560</latitude>
+			<longitude>328774</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwamba -- (State: Niassa)">
+			<state>Niassa</state>
+			<latitude>-147924</latitude>
+			<longitude>365479</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lago Maducudele -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-226278</latitude>
+			<longitude>336083</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leal e Imaos -- (State: Maputo)">
+			<state>Maputo</state>
+			<latitude>-260145</latitude>
+			<longitude>321691</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mabuto -- (State: Manica)">
+			<state>Manica</state>
+			<latitude>-200249</latitude>
+			<longitude>330137</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandie -- (State: Manica)">
+			<state>Manica</state>
+			<latitude>-164388</latitude>
+			<longitude>335359</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maputo">
+			<state></state>
+			<latitude>-259544</latitude>
+			<longitude>326001</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maputo -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-148366</latitude>
+			<longitude>407312</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maputo Province -- (State: Maputo)">
+			<state>Maputo</state>
+			<latitude>-254891</latitude>
+			<longitude>323442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Maduni">
+			<state></state>
+			<latitude>-165224</latitude>
+			<longitude>368276</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mwere">
+			<state></state>
+			<latitude>-143391</latitude>
+			<longitude>323442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacala -- (State: Zambezia)">
+			<state>Zambezia</state>
+			<latitude>-156871</latitude>
+			<longitude>382946</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacala">
+			<state></state>
+			<latitude>-140887</latitude>
+			<longitude>403846</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacala -- (State: Cabo Delgado)">
+			<state>Cabo Delgado</state>
+			<latitude>-132782</latitude>
+			<longitude>398666</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacala -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-144712</latitude>
+			<longitude>407199</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacala Port -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-145282</latitude>
+			<longitude>406818</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacala-a-Velha -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-144901</latitude>
+			<longitude>405841</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacala-Velha -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-145426</latitude>
+			<longitude>406360</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacalala -- (State: Manica)">
+			<state>Manica</state>
+			<latitude>-183798</latitude>
+			<longitude>333757</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacalamo -- (State: Cabo Delgado)">
+			<state>Cabo Delgado</state>
+			<latitude>-117837</latitude>
+			<longitude>394318</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacalase -- (State: Niassa)">
+			<state>Niassa</state>
+			<latitude>-124957</latitude>
+			<longitude>358068</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacalaua -- (State: Zambezia)">
+			<state>Zambezia</state>
+			<latitude>-161882</latitude>
+			<longitude>377896</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacalaua">
+			<state></state>
+			<latitude>-167390</latitude>
+			<longitude>392610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacalava -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-137026</latitude>
+			<longitude>402821</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nampula">
+			<state></state>
+			<latitude>-149279</latitude>
+			<longitude>391502</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olembe -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-245728</latitude>
+			<longitude>350625</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Q. Tandavato -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-234395</latitude>
+			<longitude>353252</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quelimane -- (State: Zambezia)">
+			<state>Zambezia</state>
+			<latitude>-181137</latitude>
+			<longitude>368196</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quelimane -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-158323</latitude>
+			<longitude>396210</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quelimane -- (State: Cabo Delgado)">
+			<state>Cabo Delgado</state>
+			<latitude>-111518</latitude>
+			<longitude>403155</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quelimane do Sal">
+			<state></state>
+			<latitude>-179887</latitude>
+			<longitude>369113</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quelimane River -- (State: Zambezia)">
+			<state>Zambezia</state>
+			<latitude>-180218</latitude>
+			<longitude>369877</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Scheraiber -- (State: Cabo Delgado)">
+			<state>Cabo Delgado</state>
+			<latitude>-130963</latitude>
+			<longitude>396048</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ucha">
+			<state></state>
+			<latitude>-149050</latitude>
+			<longitude>305950</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ucunha">
+			<state></state>
+			<latitude>-169716</latitude>
+			<longitude>377450</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uliane -- (State: Niassa)">
+			<state>Niassa</state>
+			<latitude>-115830</latitude>
+			<longitude>351709</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vila de Manjacaze -- (State: Gaza)">
+			<state>Gaza</state>
+			<latitude>-246999</latitude>
+			<longitude>338946</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="W. Lambo -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-239809</latitude>
+			<longitude>350841</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wabaudla -- (State: Gaza)">
+			<state>Gaza</state>
+			<latitude>-237589</latitude>
+			<longitude>333977</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waite -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-229306</latitude>
+			<longitude>343030</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Watch -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-227945</latitude>
+			<longitude>340100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wawi -- (State: Cabo Delgado)">
+			<state>Cabo Delgado</state>
+			<latitude>-117531</latitude>
+			<longitude>397061</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whuambu">
+			<state></state>
+			<latitude>-187214</latitude>
+			<longitude>329619</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wigam -- (State: Manica)">
+			<state>Manica</state>
+			<latitude>-189128</latitude>
+			<longitude>335613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wikson">
+			<state></state>
+			<latitude>-145048</latitude>
+			<longitude>344619</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiliam -- (State: Gaza)">
+			<state>Gaza</state>
+			<latitude>-246075</latitude>
+			<longitude>332725</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiliam -- (State: Manica)">
+			<state>Manica</state>
+			<latitude>-189759</latitude>
+			<longitude>333708</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiliams -- (State: Gaza)">
+			<state>Gaza</state>
+			<latitude>-237895</latitude>
+			<longitude>322697</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilson -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-211831</latitude>
+			<longitude>347569</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilson -- (State: Tete)">
+			<state>Tete</state>
+			<latitude>-146037</latitude>
+			<longitude>343575</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wina -- (State: Cabo Delgado)">
+			<state>Cabo Delgado</state>
+			<latitude>-109459</latitude>
+			<longitude>398366</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wing Koon -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-216645</latitude>
+			<longitude>352822</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Witwatersrand Labor Association -- (State: Gaza)">
+			<state>Gaza</state>
+			<latitude>-249303</latitude>
+			<longitude>334722</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Witwatersrand Native Labor Association -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-247562</latitude>
+			<longitude>343169</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Witwatersrand Native Labor Association -- (State: Maputo)">
+			<state>Maputo</state>
+			<latitude>-244628</latitude>
+			<longitude>320663</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wolf -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-148403</latitude>
+			<longitude>403458</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wong -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-229134</latitude>
+			<longitude>355641</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuane -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-230192</latitude>
+			<longitude>345750</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Y Chee Fori -- (State: Inhambane)">
+			<state>Inhambane</state>
+			<latitude>-212515</latitude>
+			<longitude>351249</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ze Matito -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-164520</latitude>
+			<longitude>392372</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zefania -- (State: Gaza)">
+			<state>Gaza</state>
+			<latitude>-247197</latitude>
+			<longitude>339858</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoare -- (State: Nampula)">
+			<state>Nampula</state>
+			<latitude>-159209</latitude>
+			<longitude>393839</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

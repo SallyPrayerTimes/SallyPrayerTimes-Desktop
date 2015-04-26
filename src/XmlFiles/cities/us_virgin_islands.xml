@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Us Virgin Islands">
+		<city name="Anna s Retreat -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>183497</latitude>
+			<longitude>-648803</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charlotte Amalie -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>183599</latitude>
+			<longitude>-649301</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charlotte Amalie East -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>183499</latitude>
+			<longitude>-649001</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charlotte Amalie West -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>183499</latitude>
+			<longitude>-649501</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Christiansted -- (State: Saint Croix)">
+			<state>Saint Croix</state>
+			<latitude>177599</latitude>
+			<longitude>-647001</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cruz Bay -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>183499</latitude>
+			<longitude>-647901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frederiksted -- (State: Saint Croix)">
+			<state>Saint Croix</state>
+			<latitude>177302</latitude>
+			<longitude>-648698</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frederiksted Southeast -- (State: Saint Croix)">
+			<state>Saint Croix</state>
+			<latitude>177202</latitude>
+			<longitude>-648698</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grove Place -- (State: Saint Croix)">
+			<state>Saint Croix</state>
+			<latitude>177403</latitude>
+			<longitude>-648197</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Thomas">
+			<state></state>
+			<latitude>183448</latitude>
+			<longitude>-649215</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

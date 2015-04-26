@@ -1,0 +1,957 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Lebanon">
+		<city name="Aitaroun -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>331253</latitude>
+			<longitude>354819</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Akka -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>344264</latitude>
+			<longitude>362264</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anout -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>336430</latitude>
+			<longitude>355264</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ansar -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>333894</latitude>
+			<longitude>353622</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baalbek -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>340598</latitude>
+			<longitude>361931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baaloul -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>335992</latitude>
+			<longitude>357590</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bakhaoun -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>344265</latitude>
+			<longitude>360265</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barja -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>336601</latitude>
+			<longitude>354531</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beirut -- (State: Beyrouth)">
+			<state>Beyrouth</state>
+			<latitude>338817</latitude>
+			<longitude>355195</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beirut International Airport -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>338431</latitude>
+			<longitude>355098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bent Jbail -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>331301</latitude>
+			<longitude>354423</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chehim -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>336335</latitude>
+			<longitude>354935</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dalhoun -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>336433</latitude>
+			<longitude>354767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falougha -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>338435</latitude>
+			<longitude>357435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Garzuze -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>341936</latitude>
+			<longitude>356770</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ghabe -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>338936</latitude>
+			<longitude>356603</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ghabshun -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>342270</latitude>
+			<longitude>363436</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ghabun -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>337936</latitude>
+			<longitude>356103</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gharib Afqa -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>340603</latitude>
+			<longitude>358936</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gharifah -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>336456</latitude>
+			<longitude>355675</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ghazzah -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>336772</latitude>
+			<longitude>358347</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ghbalah -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>340603</latitude>
+			<longitude>357270</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haret Sakhr -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>339937</latitude>
+			<longitude>356437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ibel es Saqi -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>333674</latitude>
+			<longitude>356438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iddah -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>341438</latitude>
+			<longitude>356772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ihdin -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>343016</latitude>
+			<longitude>359755</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ihmij -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>341272</latitude>
+			<longitude>357938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ijd Aabrine -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>342772</latitude>
+			<longitude>357438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ijdabra -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>342605</latitude>
+			<longitude>357105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilman -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>333105</latitude>
+			<longitude>354772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imsiya -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>331272</latitude>
+			<longitude>353772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="In Nahr -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>338605</latitude>
+			<longitude>360938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ind es Saide -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>340105</latitude>
+			<longitude>357605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ine Maufeck -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>338272</latitude>
+			<longitude>356605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innsariye -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>334272</latitude>
+			<longitude>352938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iqab al Fuhul -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>336772</latitude>
+			<longitude>357272</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iqab al Ghurab -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>336141</latitude>
+			<longitude>356688</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iqab az Zu`rurah -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>335958</latitude>
+			<longitude>356580</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iqab Salih -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>335938</latitude>
+			<longitude>358772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iqab `Ajaj -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>336272</latitude>
+			<longitude>358938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irmiss -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>331552</latitude>
+			<longitude>352027</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irnaba -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>335194</latitude>
+			<longitude>354094</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irq al Jabal -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>335858</latitude>
+			<longitude>356480</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irzay -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>333438</latitude>
+			<longitude>353105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iskanderuna -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>331649</latitude>
+			<longitude>351766</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istabil -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>337605</latitude>
+			<longitude>358938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itrin -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>336772</latitude>
+			<longitude>355772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izal -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>343919</latitude>
+			<longitude>359922</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izzah -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>334605</latitude>
+			<longitude>354438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izziyat Qana -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>331938</latitude>
+			<longitude>352438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jbail -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>341273</latitude>
+			<longitude>356606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kafr Hunah -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>335051</latitude>
+			<longitude>356010</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kafr Shuba -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>333388</latitude>
+			<longitude>357026</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Labboune -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>331091</latitude>
+			<longitude>351619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lac de Qaraaoun">
+			<state></state>
+			<latitude>335761</latitude>
+			<longitude>357039</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahlah -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>331055</latitude>
+			<longitude>351997</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lala -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>336108</latitude>
+			<longitude>357775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lasa -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>340941</latitude>
+			<longitude>358608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lawkas -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>344775</latitude>
+			<longitude>358108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Layat al Qaws -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>336211</latitude>
+			<longitude>357222</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lebanon">
+			<state></state>
+			<latitude>338441</latitude>
+			<longitude>358441</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lebqa -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>335594</latitude>
+			<longitude>354630</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Levant">
+			<state></state>
+			<latitude>340108</latitude>
+			<longitude>360108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Libbaya -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>334911</latitude>
+			<longitude>357344</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lihfid -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>341775</latitude>
+			<longitude>357941</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lisan ath Thawr -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>339941</latitude>
+			<longitude>358775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lizaq Abu Faru`ah -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>335414</latitude>
+			<longitude>356177</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lizaq al Ghanam -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>338108</latitude>
+			<longitude>357608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lizaq an Nahlah -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>341108</latitude>
+			<longitude>358275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lizaq at Tawari` -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>340108</latitude>
+			<longitude>358608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lizaq Mshikha -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>338941</latitude>
+			<longitude>357441</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lubyah -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>334441</latitude>
+			<longitude>352941</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lukat `Ayn al `Amud -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>339441</latitude>
+			<longitude>360941</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lusi -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>336608</latitude>
+			<longitude>358441</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lusya -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>334608</latitude>
+			<longitude>356608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lzaq Bebe -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>335705</latitude>
+			<longitude>355552</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lzaq el Hajj -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>335483</latitude>
+			<longitude>356205</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naqoura -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>331291</latitude>
+			<longitude>351507</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Place de Canons -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>339112</latitude>
+			<longitude>355112</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plaine de Aakkar">
+			<state></state>
+			<latitude>346612</latitude>
+			<longitude>360612</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poste Christofmi -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>334056</latitude>
+			<longitude>357279</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qabb Ilyas -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>338069</latitude>
+			<longitude>358319</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidon -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>335746</latitude>
+			<longitude>353804</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tibnin -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>332060</latitude>
+			<longitude>354185</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tripoli -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>344449</latitude>
+			<longitude>358616</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tyre -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>332827</latitude>
+			<longitude>352080</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ubays -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>339617</latitude>
+			<longitude>360950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Udaysah -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>332617</latitude>
+			<longitude>355450</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ukaymah -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>335698</latitude>
+			<longitude>357375</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ukfur -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>342117</latitude>
+			<longitude>358450</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umm al `Amad -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>331409</latitude>
+			<longitude>351659</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umm at Tut -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>331284</latitude>
+			<longitude>352617</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umm Ayyub -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>337950</latitude>
+			<longitude>359117</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umm Harithayn -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>345450</latitude>
+			<longitude>362950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umm Ya`qub -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>344784</latitude>
+			<longitude>359450</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umm `Ufayyah -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>331378</latitude>
+			<longitude>351775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unaysah -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>331450</latitude>
+			<longitude>354950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdan al Bast -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>337284</latitude>
+			<longitude>356950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdan al Fuqur -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>333756</latitude>
+			<longitude>356089</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdan al Hawa -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>334450</latitude>
+			<longitude>356784</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdan al Laban -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>335117</latitude>
+			<longitude>357784</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdan al Marj -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>340117</latitude>
+			<longitude>358950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdan as Saqiyah -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>339284</latitude>
+			<longitude>358923</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdan ash Shawiyah -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>340284</latitude>
+			<longitude>358284</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdan `Ayn Bahr -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>340784</latitude>
+			<longitude>359284</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urqub -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>343950</latitude>
+			<longitude>361117</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="ursh an Nuqayri -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>334103</latitude>
+			<longitude>357367</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="uruf al Bi r -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>334284</latitude>
+			<longitude>356617</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ushsh ad Dajajah -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>335700</latitude>
+			<longitude>358075</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ushsh al Qaq -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>343784</latitude>
+			<longitude>363617</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ushsh an Nimri -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>331323</latitude>
+			<longitude>352203</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyun al Bashir -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>338784</latitude>
+			<longitude>362284</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyun al Ghizlan -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>344784</latitude>
+			<longitude>360284</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyun an Nikha` -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>341284</latitude>
+			<longitude>358450</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyun as Siman -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>339950</latitude>
+			<longitude>358450</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyun Qarnub -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>344950</latitude>
+			<longitude>362784</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyun Quzhah -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>335339</latitude>
+			<longitude>358339</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyun Urghush -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>342784</latitude>
+			<longitude>361450</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uyun `Ishash -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>344284</latitude>
+			<longitude>359450</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzayz -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>331950</latitude>
+			<longitude>352617</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="valley of Bekaa -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>338451</latitude>
+			<longitude>360118</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yahfufah -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>338621</latitude>
+			<longitude>361288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yahshush -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>340788</latitude>
+			<longitude>357454</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yamle -- (State: Liban-Nord)">
+			<state>Liban-Nord</state>
+			<latitude>342635</latitude>
+			<longitude>360560</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yanta -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>336160</latitude>
+			<longitude>359574</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yanuh -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>341121</latitude>
+			<longitude>358954</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yanuh -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>332788</latitude>
+			<longitude>353121</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yarin -- (State: Liban-Sud)">
+			<state>Liban-Sud</state>
+			<latitude>331188</latitude>
+			<longitude>352438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yarun -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>330932</latitude>
+			<longitude>354346</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yarutah -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>337121</latitude>
+			<longitude>354454</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yatar -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>331671</latitude>
+			<longitude>353424</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yazid -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>339954</latitude>
+			<longitude>361121</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yuhmur -- (State: (LE02))">
+			<state>(LE02)</state>
+			<latitude>334965</latitude>
+			<longitude>356813</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yuhmur al Biqa` -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>334954</latitude>
+			<longitude>356788</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yunin -- (State: Beqaa)">
+			<state>Beqaa</state>
+			<latitude>340954</latitude>
+			<longitude>362954</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zahle -- (State: Mont-Liban)">
+			<state>Mont-Liban</state>
+			<latitude>338619</latitude>
+			<longitude>359164</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

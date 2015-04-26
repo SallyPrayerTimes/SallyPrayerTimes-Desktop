@@ -1,0 +1,740 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Mexico">
+		<city name="Acapulco -- (State: Guerrero)">
+			<state>Guerrero</state>
+			<latitude>168597</latitude>
+			<longitude>-999070</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Acapulco -- (State: Sinaloa)">
+			<state>Sinaloa</state>
+			<latitude>249628</latitude>
+			<longitude>-1076122</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Acapulco -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>320844</latitude>
+			<longitude>-1152097</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Acapulco -- (State: Puebla)">
+			<state>Puebla</state>
+			<latitude>188764</latitude>
+			<longitude>-984236</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Acapulco -- (State: Jalisco)">
+			<state>Jalisco</state>
+			<latitude>219430</latitude>
+			<longitude>-1035236</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ahualulco -- (State: Jalisco)">
+			<state>Jalisco</state>
+			<latitude>206930</latitude>
+			<longitude>-1039570</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campeche">
+			<state></state>
+			<latitude>200099</latitude>
+			<longitude>-939901</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cancun -- (State: Quintana Roo)">
+			<state>Quintana Roo</state>
+			<latitude>211766</latitude>
+			<longitude>-868234</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chihuahua -- (State: Nuevo Leon)">
+			<state>Nuevo Leon</state>
+			<latitude>251932</latitude>
+			<longitude>-997401</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chihuahua">
+			<state></state>
+			<latitude>286432</latitude>
+			<longitude>-1060734</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chihuahua -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>274766</latitude>
+			<longitude>-1103068</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chihuahua -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>324943</latitude>
+			<longitude>-1152290</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chihuahua -- (State: Chiapas)">
+			<state>Chiapas</state>
+			<latitude>160349</latitude>
+			<longitude>-919651</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chihuahua International -- (State: Chihuahua)">
+			<state>Chihuahua</state>
+			<latitude>287099</latitude>
+			<longitude>-1059568</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ciudad Juarez -- (State: Chihuahua)">
+			<state>Chihuahua</state>
+			<latitude>316432</latitude>
+			<longitude>-1063234</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ciudad Juarez -- (State: Mexico)">
+			<state>Mexico</state>
+			<latitude>317432</latitude>
+			<longitude>-1064734</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cordoba -- (State: Chiapas)">
+			<state>Chiapas</state>
+			<latitude>167099</latitude>
+			<longitude>-939109</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coyoacan -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>289766</latitude>
+			<longitude>-1116568</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coyoacan -- (State: Distrito Federal)">
+			<state>Distrito Federal</state>
+			<latitude>193388</latitude>
+			<longitude>-991504</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cozumel -- (State: Quintana Roo)">
+			<state>Quintana Roo</state>
+			<latitude>205182</latitude>
+			<longitude>-869359</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuernavaca -- (State: Morelos)">
+			<state>Morelos</state>
+			<latitude>189266</latitude>
+			<longitude>-992401</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Distrito Federal">
+			<state></state>
+			<latitude>192600</latitude>
+			<longitude>-991567</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Distrito Federal -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>325014</latitude>
+			<longitude>-1150269</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ensenada -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>318768</latitude>
+			<longitude>-1166066</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guadalajara -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>325545</latitude>
+			<longitude>-1148544</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guadalajara -- (State: Durango)">
+			<state>Durango</state>
+			<latitude>243436</latitude>
+			<longitude>-1043230</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guadalajara -- (State: Jalisco)">
+			<state>Jalisco</state>
+			<latitude>206770</latitude>
+			<longitude>-1033230</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guadalajara -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>287770</latitude>
+			<longitude>-1117564</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guadalajara -- (State: Chihuahua)">
+			<state>Chihuahua</state>
+			<latitude>274436</latitude>
+			<longitude>-1079730</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hermosillo -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>290771</latitude>
+			<longitude>-1109563</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hermosillo -- (State: Hidalgo)">
+			<state>Hidalgo</state>
+			<latitude>204271</latitude>
+			<longitude>-989396</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hermosillo -- (State: Guanajuato)">
+			<state>Guanajuato</state>
+			<latitude>205860</latitude>
+			<longitude>-1015193</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hermosillo -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>325207</latitude>
+			<longitude>-1149129</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leon -- (State: Guanajuato)">
+			<state>Guanajuato</state>
+			<latitude>211275</latitude>
+			<longitude>-1016559</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leon -- (State: San Luis Potosi)">
+			<state>San Luis Potosi</state>
+			<latitude>225275</latitude>
+			<longitude>-1006559</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leon -- (State: Chihuahua)">
+			<state>Chihuahua</state>
+			<latitude>307275</latitude>
+			<longitude>-1076225</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leon -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>285275</latitude>
+			<longitude>-1137725</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leon Fonseca -- (State: Sinaloa)">
+			<state>Sinaloa</state>
+			<latitude>257441</latitude>
+			<longitude>-1083392</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leon Garcia -- (State: San Luis Potosi)">
+			<state>San Luis Potosi</state>
+			<latitude>220275</latitude>
+			<longitude>-989559</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leon Guzman -- (State: Durango)">
+			<state>Durango</state>
+			<latitude>255108</latitude>
+			<longitude>-1036392</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leon Zarate -- (State: Tabasco)">
+			<state>Tabasco</state>
+			<latitude>182400</latitude>
+			<longitude>-933059</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leona -- (State: Coahuila de Zaragoza)">
+			<state>Coahuila de Zaragoza</state>
+			<latitude>260108</latitude>
+			<longitude>-1011225</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leona Vicario -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>321225</latitude>
+			<longitude>-1151770</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leona Vicario -- (State: Tabasco)">
+			<state>Tabasco</state>
+			<latitude>177066</latitude>
+			<longitude>-915309</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leonardo -- (State: Chihuahua)">
+			<state>Chihuahua</state>
+			<latitude>274775</latitude>
+			<longitude>-1049059</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leoncito -- (State: San Luis Potosi)">
+			<state>San Luis Potosi</state>
+			<latitude>233608</latitude>
+			<longitude>-1007725</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leones -- (State: Zacatecas)">
+			<state>Zacatecas</state>
+			<latitude>227275</latitude>
+			<longitude>-1030725</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leones -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>298941</latitude>
+			<longitude>-1109725</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leones -- (State: Chihuahua)">
+			<state>Chihuahua</state>
+			<latitude>287608</latitude>
+			<longitude>-1059392</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leones -- (State: Nuevo Leon)">
+			<state>Nuevo Leon</state>
+			<latitude>249608</latitude>
+			<longitude>-993559</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leonidas -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>294108</latitude>
+			<longitude>-1115392</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leonides -- (State: Veracruz-Llave)">
+			<state>Veracruz-Llave</state>
+			<latitude>203275</latitude>
+			<longitude>-973559</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leontina -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>298275</latitude>
+			<longitude>-1111392</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lerdo -- (State: Durango)">
+			<state>Durango</state>
+			<latitude>255441</latitude>
+			<longitude>-1035225</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Merida -- (State: Yucatan)">
+			<state>Yucatan</state>
+			<latitude>209776</latitude>
+			<longitude>-896058</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mexicali -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>326442</latitude>
+			<longitude>-1154224</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mexico">
+			<state></state>
+			<latitude>194109</latitude>
+			<longitude>-990391</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mexico -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>286442</latitude>
+			<longitude>-1116224</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mexico -- (State: Chiapas)">
+			<state>Chiapas</state>
+			<latitude>159942</latitude>
+			<longitude>-931974</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mexico -- (State: Chihuahua)">
+			<state>Chihuahua</state>
+			<latitude>283609</latitude>
+			<longitude>-1067891</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mexico -- (State: Durango)">
+			<state>Durango</state>
+			<latitude>267109</latitude>
+			<longitude>-1058891</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mexico -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>325248</latitude>
+			<longitude>-1149652</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mexico -- (State: Distrito Federal)">
+			<state>Distrito Federal</state>
+			<latitude>194451</latitude>
+			<longitude>-991277</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mexico Libre -- (State: Tamaulipas)">
+			<state>Tamaulipas</state>
+			<latitude>226442</latitude>
+			<longitude>-991391</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey -- (State: Tamaulipas)">
+			<state>Tamaulipas</state>
+			<latitude>260442</latitude>
+			<longitude>-980724</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey -- (State: Sinaloa)">
+			<state>Sinaloa</state>
+			<latitude>256776</latitude>
+			<longitude>-1075224</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey -- (State: Chiapas)">
+			<state>Chiapas</state>
+			<latitude>169276</latitude>
+			<longitude>-932224</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey -- (State: Tabasco)">
+			<state>Tabasco</state>
+			<latitude>178942</latitude>
+			<longitude>-935724</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>325590</latitude>
+			<longitude>-1150597</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey -- (State: Campeche)">
+			<state>Campeche</state>
+			<latitude>184109</latitude>
+			<longitude>-911058</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>292276</latitude>
+			<longitude>-1107558</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey -- (State: Durango)">
+			<state>Durango</state>
+			<latitude>254942</latitude>
+			<longitude>-1036058</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey -- (State: Nuevo Leon)">
+			<state>Nuevo Leon</state>
+			<latitude>256776</latitude>
+			<longitude>-1003058</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monterrey Private -- (State: Nuevo Leon)">
+			<state>Nuevo Leon</state>
+			<latitude>257442</latitude>
+			<longitude>-1002891</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Morelia -- (State: Michoacan de Ocampo)">
+			<state>Michoacan de Ocampo</state>
+			<latitude>197109</latitude>
+			<longitude>-1011058</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naucalpan de Juarez -- (State: Mexico)">
+			<state>Mexico</state>
+			<latitude>194904</latitude>
+			<longitude>-992273</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oaxaca">
+			<state></state>
+			<latitude>170611</latitude>
+			<longitude>-967056</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Playa del Carmen -- (State: Quintana Roo)">
+			<state>Quintana Roo</state>
+			<latitude>206279</latitude>
+			<longitude>-870555</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Puebla">
+			<state></state>
+			<latitude>188445</latitude>
+			<longitude>-979888</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Puebla -- (State: Coahuila de Zaragoza)">
+			<state>Coahuila de Zaragoza</state>
+			<latitude>254445</latitude>
+			<longitude>-1012888</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Puebla -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>325756</latitude>
+			<longitude>-1153421</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Puebla -- (State: Campeche)">
+			<state>Campeche</state>
+			<latitude>181445</latitude>
+			<longitude>-920888</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Puebla -- (State: Chiapas)">
+			<state>Chiapas</state>
+			<latitude>166612</latitude>
+			<longitude>-918546</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Puerto Vallarta -- (State: Jalisco)">
+			<state>Jalisco</state>
+			<latitude>206279</latitude>
+			<longitude>-1052388</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queretaro -- (State: Queretaro de Arteaga)">
+			<state>Queretaro de Arteaga</state>
+			<latitude>206113</latitude>
+			<longitude>-1003887</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rancho Las Palomas -- (State: Coahuila de Zaragoza)">
+			<state>Coahuila de Zaragoza</state>
+			<latitude>277281</latitude>
+			<longitude>-1012053</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reynosa -- (State: Tamaulipas)">
+			<state>Tamaulipas</state>
+			<latitude>260947</latitude>
+			<longitude>-982719</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saltillo -- (State: Coahuila de Zaragoza)">
+			<state>Coahuila de Zaragoza</state>
+			<latitude>254282</latitude>
+			<longitude>-1009885</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saltillo New -- (State: Coahuila de Zaragoza)">
+			<state>Coahuila de Zaragoza</state>
+			<latitude>255448</latitude>
+			<longitude>-1009052</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="San Cristobal de Las Casas -- (State: Chiapas)">
+			<state>Chiapas</state>
+			<latitude>167615</latitude>
+			<longitude>-926218</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tampico -- (State: Tamaulipas)">
+			<state>Tamaulipas</state>
+			<latitude>223116</latitude>
+			<longitude>-978384</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tequesquitengo -- (State: Morelos)">
+			<state>Morelos</state>
+			<latitude>186116</latitude>
+			<longitude>-992551</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tijuana -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>325449</latitude>
+			<longitude>-1169717</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tijuana -- (State: Baja California Sur)">
+			<state>Baja California Sur</state>
+			<latitude>252616</latitude>
+			<longitude>-1111217</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tlalnepantla -- (State: Mexico)">
+			<state>Mexico</state>
+			<latitude>195385</latitude>
+			<longitude>-992101</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torreon -- (State: Coahuila de Zaragoza)">
+			<state>Coahuila de Zaragoza</state>
+			<latitude>255616</latitude>
+			<longitude>-1034217</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veracruz -- (State: Chiapas)">
+			<state>Chiapas</state>
+			<latitude>153118</latitude>
+			<longitude>-924882</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villa Flores -- (State: Chiapas)">
+			<state>Chiapas</state>
+			<latitude>162451</latitude>
+			<longitude>-932215</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadley -- (State: San Luis Potosi)">
+			<state>San Luis Potosi</state>
+			<latitude>236286</latitude>
+			<longitude>-1009714</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warne -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>321786</latitude>
+			<longitude>-1162548</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Watamo -- (State: Sinaloa)">
+			<state>Sinaloa</state>
+			<latitude>231286</latitude>
+			<longitude>-1062381</longitude>
+			<timezone>-700</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whitewater Creek">
+			<state></state>
+			<latitude>310786</latitude>
+			<longitude>-1093048</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilberth -- (State: Baja California)">
+			<state>Baja California</state>
+			<latitude>324119</latitude>
+			<longitude>-1166548</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Willard -- (State: Sonora)">
+			<state>Sonora</state>
+			<latitude>289786</latitude>
+			<longitude>-1108548</longitude>
+			<timezone>-800</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xalapa -- (State: Veracruz-Llave)">
+			<state>Veracruz-Llave</state>
+			<latitude>195453</latitude>
+			<longitude>-969047</longitude>
+			<timezone>-600</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

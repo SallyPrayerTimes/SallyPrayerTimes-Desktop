@@ -1,0 +1,1846 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="China">
+		<city name="Anqing -- (State: Anhui)">
+			<state>Anhui</state>
+			<latitude>305189</latitude>
+			<longitude>1170603</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baoding Diqu -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>388765</latitude>
+			<longitude>1154931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baoji -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>375137</latitude>
+			<longitude>1178690</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baoji Xian -- (State: Shaanxi)">
+			<state>Shaanxi</state>
+			<latitude>343598</latitude>
+			<longitude>1073931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bei Jiang -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>230431</latitude>
+			<longitude>1129765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijing">
+			<state></state>
+			<latitude>399387</latitude>
+			<longitude>1163981</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijing -- (State: Shanxi)">
+			<state>Shanxi</state>
+			<latitude>352190</latitude>
+			<longitude>1107426</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijing -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>398923</latitude>
+			<longitude>1239217</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijing Beizhan -- (State: Beijing)">
+			<state>Beijing</state>
+			<latitude>399565</latitude>
+			<longitude>1163548</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijing Dongzhan -- (State: Beijing)">
+			<state>Beijing</state>
+			<latitude>399117</latitude>
+			<longitude>1164981</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijing Nanzhan -- (State: Beijing)">
+			<state>Beijing</state>
+			<latitude>398784</latitude>
+			<longitude>1163970</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijing Paiwuhe">
+			<state></state>
+			<latitude>392851</latitude>
+			<longitude>1173781</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijing Shi -- (State: Beijing)">
+			<state>Beijing</state>
+			<latitude>402598</latitude>
+			<longitude>1165098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijing Zhan -- (State: Beijing)">
+			<state>Beijing</state>
+			<latitude>399106</latitude>
+			<longitude>1164326</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijinggang -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>293537</latitude>
+			<longitude>1125001</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijingshan -- (State: Anhui)">
+			<state>Anhui</state>
+			<latitude>295473</latitude>
+			<longitude>1181098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beijingtou -- (State: Shaanxi)">
+			<state>Shaanxi</state>
+			<latitude>352037</latitude>
+			<longitude>1095906</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benxi -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>412984</latitude>
+			<longitude>1237748</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Canton River -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>227799</latitude>
+			<longitude>1136355</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ch ang-ch un -- (State: Jilin)">
+			<state>Jilin</state>
+			<latitude>427568</latitude>
+			<longitude>1262566</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ch ang-sha -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>281891</latitude>
+			<longitude>1131235</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chang an -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>238932</latitude>
+			<longitude>1119099</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changchun -- (State: Jilin)">
+			<state>Jilin</state>
+			<latitude>438899</latitude>
+			<longitude>1253327</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changge -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>342274</latitude>
+			<longitude>1137788</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changsha -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>282099</latitude>
+			<longitude>1129766</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changsha -- (State: Guizhou)">
+			<state>Guizhou</state>
+			<latitude>286977</latitude>
+			<longitude>1059996</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changsha -- (State: Hainan)">
+			<state>Hainan</state>
+			<latitude>188188</latitude>
+			<longitude>1100268</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changsha -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>324166</latitude>
+			<longitude>1212907</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changsha -- (State: Anhui)">
+			<state>Anhui</state>
+			<latitude>307516</latitude>
+			<longitude>1174738</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changsha -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>219660</latitude>
+			<longitude>1128960</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changsha -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>283213</latitude>
+			<longitude>1214291</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changzhou -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>321738</latitude>
+			<longitude>1201793</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chengdu -- (State: Sichuan)">
+			<state>Sichuan</state>
+			<latitude>306766</latitude>
+			<longitude>1040766</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chongqing">
+			<state></state>
+			<latitude>295727</latitude>
+			<longitude>1065627</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chongqing Shuiku -- (State: Beijing)">
+			<state>Beijing</state>
+			<latitude>397977</latitude>
+			<longitude>1160799</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chongqing Xian -- (State: Sichuan)">
+			<state>Sichuan</state>
+			<latitude>306432</latitude>
+			<longitude>1036766</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dali -- (State: Yunnan)">
+			<state>Yunnan</state>
+			<latitude>257100</latitude>
+			<longitude>1001933</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalian -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>256494</latitude>
+			<longitude>1196958</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalian -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>264194</latitude>
+			<longitude>1103439</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalian -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>389222</latitude>
+			<longitude>1216122</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalian -- (State: Guizhou)">
+			<state>Guizhou</state>
+			<latitude>289933</latitude>
+			<longitude>1075433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalian -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>368647</latitude>
+			<longitude>1145075</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalian -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>337767</latitude>
+			<longitude>1149933</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalian -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>291603</latitude>
+			<longitude>1202372</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dong an -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>221600</latitude>
+			<longitude>1109433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dongguan -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>230589</latitude>
+			<longitude>1137547</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fancheng -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>338769</latitude>
+			<longitude>1138102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foshan -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>230435</latitude>
+			<longitude>1131269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujian">
+			<state></state>
+			<latitude>265552</latitude>
+			<longitude>1178530</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuzhou -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>260716</latitude>
+			<longitude>1193163</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ganzhou Shi -- (State: Jiangxi)">
+			<state>Jiangxi</state>
+			<latitude>258603</latitude>
+			<longitude>1149436</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guan Gou -- (State: Beijing)">
+			<state>Beijing</state>
+			<latitude>401270</latitude>
+			<longitude>1164936</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guanchangxu -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>206309</latitude>
+			<longitude>1103136</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guanchao -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>235603</latitude>
+			<longitude>1166436</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guandong -- (State: Guizhou)">
+			<state>Guizhou</state>
+			<latitude>258464</latitude>
+			<longitude>1090450</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guandong -- (State: Jiangxi)">
+			<state>Jiangxi</state>
+			<latitude>248311</latitude>
+			<longitude>1149870</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guandong -- (State: Guangxi)">
+			<state>Guangxi</state>
+			<latitude>224436</latitude>
+			<longitude>1096770</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guandong Shuiku -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>231067</latitude>
+			<longitude>1142581</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guangdong Shan -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>407122</latitude>
+			<longitude>1184864</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guangdong Sheng -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>230103</latitude>
+			<longitude>1130103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guangzhou -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>231270</latitude>
+			<longitude>1132603</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guangzhouyiyaogongsi -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>236820</latitude>
+			<longitude>1137142</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guanzhou -- (State: Guizhou)">
+			<state>Guizhou</state>
+			<latitude>285711</latitude>
+			<longitude>1083484</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guanzhu -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>217103</latitude>
+			<longitude>1111770</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guilin -- (State: Guangxi)">
+			<state>Guangxi</state>
+			<latitude>252936</latitude>
+			<longitude>1102936</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guma -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>396436</latitude>
+			<longitude>1186603</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guma -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>376236</latitude>
+			<longitude>782803</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guzhen -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>226256</latitude>
+			<longitude>1131861</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haidian -- (State: Beijing)">
+			<state>Beijing</state>
+			<latitude>399896</latitude>
+			<longitude>1163096</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haikou -- (State: Hainan)">
+			<state>Hainan</state>
+			<latitude>200562</latitude>
+			<longitude>1103521</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Handan -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>366110</latitude>
+			<longitude>1144782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hangzhou -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>302657</latitude>
+			<longitude>1201793</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hangzhou Shi -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>302604</latitude>
+			<longitude>1201771</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harbin -- (State: Heilongjiang)">
+			<state>Heilongjiang</state>
+			<latitude>457604</latitude>
+			<longitude>1266604</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hebao -- (State: Chongqing)">
+			<state>Chongqing</state>
+			<latitude>295762</latitude>
+			<longitude>1055548</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hebei -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>253796</latitude>
+			<longitude>1120951</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hefei -- (State: Anhui)">
+			<state>Anhui</state>
+			<latitude>318743</latitude>
+			<longitude>1172912</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hefei Shi -- (State: Anhui)">
+			<state>Anhui</state>
+			<latitude>318604</latitude>
+			<longitude>1172937</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heilongjiang Sheng -- (State: Heilongjiang)">
+			<state>Heilongjiang</state>
+			<latitude>480104</latitude>
+			<longitude>1280104</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hetaoshu -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>339148</latitude>
+			<longitude>1122443</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ho-t ien-chen -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>371101</latitude>
+			<longitude>799373</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Houhe -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>342604</latitude>
+			<longitude>1136712</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huanggang -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>234432</latitude>
+			<longitude>1118412</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huhehot -- (State: Nei Mongol)">
+			<state>Nei Mongol</state>
+			<latitude>408210</latitude>
+			<longitude>1116626</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huizhou -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>230937</latitude>
+			<longitude>1144104</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiamusi -- (State: Heilongjiang)">
+			<state>Heilongjiang</state>
+			<latitude>468439</latitude>
+			<longitude>1303606</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jilin -- (State: Heilongjiang)">
+			<state>Heilongjiang</state>
+			<latitude>452650</latitude>
+			<longitude>1312503</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinan -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>366789</latitude>
+			<longitude>1170078</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinhua -- (State: Guizhou)">
+			<state>Guizhou</state>
+			<latitude>265939</latitude>
+			<longitude>1065773</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinjiang -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>248284</latitude>
+			<longitude>1185870</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinzhou -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>391106</latitude>
+			<longitude>1217273</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiujiang -- (State: Jiangxi)">
+			<state>Jiangxi</state>
+			<latitude>297439</latitude>
+			<longitude>1159939</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaifeng -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>348018</latitude>
+			<longitude>1143590</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kargalik -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>378957</latitude>
+			<longitude>774238</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kashgar -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>394021</latitude>
+			<longitude>760507</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kashi -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>394654</latitude>
+			<longitude>759904</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kashi Shi -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>394940</latitude>
+			<longitude>759774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kashing -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>307763</latitude>
+			<longitude>1207590</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keqiao -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>300793</latitude>
+			<longitude>1204815</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kunming -- (State: Yunnan)">
+			<state>Yunnan</state>
+			<latitude>250496</latitude>
+			<longitude>1027290</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kunshan -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>313951</latitude>
+			<longitude>1209621</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Langfang -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>395205</latitude>
+			<longitude>1167055</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lanzhou -- (State: Gansu)">
+			<state>Gansu</state>
+			<latitude>360672</latitude>
+			<longitude>1038030</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lanzhou Shi -- (State: Gansu)">
+			<state>Gansu</state>
+			<latitude>360608</latitude>
+			<longitude>1036941</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Linyi -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>350739</latitude>
+			<longitude>1183536</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Longgang -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>240080</latitude>
+			<longitude>1162408</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanchang -- (State: Jiangxi)">
+			<state>Jiangxi</state>
+			<latitude>286943</latitude>
+			<longitude>1158943</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjing -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>233513</latitude>
+			<longitude>1163018</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjing -- (State: Jiangxi)">
+			<state>Jiangxi</state>
+			<latitude>247110</latitude>
+			<longitude>1143943</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjing -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>240560</latitude>
+			<longitude>1178741</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjing -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>320727</latitude>
+			<longitude>1187888</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjing -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>271296</latitude>
+			<longitude>1106041</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjing Shi -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>320610</latitude>
+			<longitude>1187943</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjing Xian -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>245277</latitude>
+			<longitude>1173610</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjing Xizhan -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>321104</latitude>
+			<longitude>1187513</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjing Zhan -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>320999</latitude>
+			<longitude>1188021</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjinggang -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>293443</latitude>
+			<longitude>1131029</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjingjiazhuang -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>324610</latitude>
+			<longitude>1203777</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjingkou -- (State: Jiangxi)">
+			<state>Jiangxi</state>
+			<latitude>249141</latitude>
+			<longitude>1148577</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjingqiao -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>263743</latitude>
+			<longitude>1127054</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjingtang -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>382035</latitude>
+			<longitude>1156371</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjingtou -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>255252</latitude>
+			<longitude>1189807</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjinguan -- (State: Hubei)">
+			<state>Hubei</state>
+			<latitude>307718</latitude>
+			<longitude>1112921</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjingzhuang -- (State: Shanxi)">
+			<state>Shanxi</state>
+			<latitude>399443</latitude>
+			<longitude>1127227</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanjingzi -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>409588</latitude>
+			<longitude>1216904</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanning -- (State: Guangxi)">
+			<state>Guangxi</state>
+			<latitude>228277</latitude>
+			<longitude>1083277</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nantong -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>259585</latitude>
+			<longitude>1192657</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nantong -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>320413</latitude>
+			<longitude>1208857</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ningbo -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>298860</latitude>
+			<longitude>1215529</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ningbo Shi -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>298943</latitude>
+			<longitude>1215610</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penglai -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>378198</latitude>
+			<longitude>1207620</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pudong -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>241598</latitude>
+			<longitude>1122684</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pudong -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>364601</latitude>
+			<longitude>1203268</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pudong -- (State: Shanxi)">
+			<state>Shanxi</state>
+			<latitude>370381</latitude>
+			<longitude>1121809</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pudong -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>280598</latitude>
+			<longitude>1206420</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pudong -- (State: Guizhou)">
+			<state>Guizhou</state>
+			<latitude>261798</latitude>
+			<longitude>1090006</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pudong -- (State: Shanghai)">
+			<state>Shanghai</state>
+			<latitude>312506</latitude>
+			<longitude>1215151</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qing Dao -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>365002</latitude>
+			<longitude>1210085</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qingdao -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>361099</latitude>
+			<longitude>1203832</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qingdao Shi -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>360780</latitude>
+			<longitude>1203280</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qinghai -- (State: Guizhou)">
+			<state>Guizhou</state>
+			<latitude>258196</latitude>
+			<longitude>1060863</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qinghai Hu -- (State: Qinghai)">
+			<state>Qinghai</state>
+			<latitude>370182</latitude>
+			<longitude>1001160</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qinghai Nanshan -- (State: Qinghai)">
+			<state>Qinghai</state>
+			<latitude>365946</latitude>
+			<longitude>1000113</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qinghai Sheng -- (State: Qinghai)">
+			<state>Qinghai</state>
+			<latitude>360113</latitude>
+			<longitude>960113</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qinghaihu -- (State: Qinghai)">
+			<state>Qinghai</state>
+			<latitude>368496</latitude>
+			<longitude>1008321</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quanzhou -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>249252</latitude>
+			<longitude>1185971</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quanzhou Shi -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>249263</latitude>
+			<longitude>1185966</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rui an -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>277928</latitude>
+			<longitude>1206397</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanya -- (State: Hainan)">
+			<state>Hainan</state>
+			<latitude>182546</latitude>
+			<longitude>1095165</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shache -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>384282</latitude>
+			<longitude>772521</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shache Xian -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>384115</latitude>
+			<longitude>772615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shachenchi -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>363457</latitude>
+			<longitude>1157979</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shacheng -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>271768</latitude>
+			<longitude>1204315</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shacheng -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>404029</latitude>
+			<longitude>1155229</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shacheng Gang">
+			<state></state>
+			<latitude>271684</latitude>
+			<longitude>1204540</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shang-hai -- (State: Shanghai)">
+			<state>Shanghai</state>
+			<latitude>310165</latitude>
+			<longitude>1214201</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghai">
+			<state></state>
+			<latitude>312337</latitude>
+			<longitude>1214696</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghai - Hangchow - Ningpo Railway">
+			<state></state>
+			<latitude>312648</latitude>
+			<longitude>1214657</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghai Shan -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>304962</latitude>
+			<longitude>1223846</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghai Station -- (State: Shanghai)">
+			<state>Shanghai</state>
+			<latitude>312646</latitude>
+			<longitude>1214659</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghai Xian -- (State: Shanghai)">
+			<state>Shanghai</state>
+			<latitude>311282</latitude>
+			<longitude>1213782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghai Xizhan -- (State: Shanghai)">
+			<state>Shanghai</state>
+			<latitude>312796</latitude>
+			<longitude>1214034</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghaimiao Muchang -- (State: Nei Mongol)">
+			<state>Nei Mongol</state>
+			<latitude>382282</latitude>
+			<longitude>1068282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghainongchang -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>329782</latitude>
+			<longitude>1207282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghaitang -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>307115</latitude>
+			<longitude>1200448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shanghaitang">
+			<state></state>
+			<latitude>308584</latitude>
+			<longitude>1211304</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shantou -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>233782</latitude>
+			<longitude>1166782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shaoxing -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>300132</latitude>
+			<longitude>1205926</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shaoxing Station -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>300279</latitude>
+			<longitude>1205879</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shekou -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>225079</latitude>
+			<longitude>1139315</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenyang -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>418037</latitude>
+			<longitude>1234443</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenyang -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>234065</latitude>
+			<longitude>1164398</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenyang -- (State: Jilin)">
+			<state>Jilin</state>
+			<latitude>436448</latitude>
+			<longitude>1240615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenyang Zhan -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>417948</latitude>
+			<longitude>1234037</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenyangdong Zhan -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>418293</latitude>
+			<longitude>1235248</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenyangtai -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>324357</latitude>
+			<longitude>1137918</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenyangxi Zhan -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>418501</latitude>
+			<longitude>1233312</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenzhen -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>222115</latitude>
+			<longitude>1111282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenzhen -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>294315</latitude>
+			<longitude>1213507</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenzhen Shuiku -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>225782</latitude>
+			<longitude>1141448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenzhen Wan -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>224562</latitude>
+			<longitude>1139107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shenzhengqiaocun -- (State: Jiangxi)">
+			<state>Jiangxi</state>
+			<latitude>277179</latitude>
+			<longitude>1154829</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shihezi -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>443115</latitude>
+			<longitude>860448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shijiazhuang -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>306354</latitude>
+			<longitude>1211051</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shijiazhuang -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>324765</latitude>
+			<longitude>1210918</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shijiazhuang -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>380529</latitude>
+			<longitude>1144901</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shijiazhuang -- (State: Shanxi)">
+			<state>Shanxi</state>
+			<latitude>395165</latitude>
+			<longitude>1141587</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shijiazhuang -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>359076</latitude>
+			<longitude>1137134</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shishi -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>253276</latitude>
+			<longitude>1185712</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shishi -- (State: Anhui)">
+			<state>Anhui</state>
+			<latitude>295532</latitude>
+			<longitude>1184573</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shishi -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>319532</latitude>
+			<longitude>1191254</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shishi -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>257448</latitude>
+			<longitude>1124115</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shishi -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>288804</latitude>
+			<longitude>1189182</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shishi Shi -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>247512</latitude>
+			<longitude>1184373</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shunde -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>228523</latitude>
+			<longitude>1132568</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suzhou -- (State: Anhui)">
+			<state>Anhui</state>
+			<latitude>336476</latitude>
+			<longitude>1169904</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suzhou -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>313229</latitude>
+			<longitude>1206296</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suzhou -- (State: Gansu)">
+			<state>Gansu</state>
+			<latitude>397782</latitude>
+			<longitude>985782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suzhou Shi -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>313115</latitude>
+			<longitude>1206282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taizhou -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>288616</latitude>
+			<longitude>1211283</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tianjin">
+			<state></state>
+			<latitude>391538</latitude>
+			<longitude>1171883</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tianjin Shi -- (State: Tianjin)">
+			<state>Tianjin</state>
+			<latitude>391449</latitude>
+			<longitude>1172116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urumqi -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>438117</latitude>
+			<longitude>875950</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urumqi He -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>435617</latitude>
+			<longitude>873617</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenzhou -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>280311</latitude>
+			<longitude>1206663</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenzhou -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>241575</latitude>
+			<longitude>1176608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenzhou Dao -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>279744</latitude>
+			<longitude>1209000</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenzhou Jiao -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>279969</latitude>
+			<longitude>1209755</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenzhou Qiantan -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>279491</latitude>
+			<longitude>1209388</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenzhou Wan -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>279286</latitude>
+			<longitude>1212619</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenzhouzhi -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>297219</latitude>
+			<longitude>1220191</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wu Jiang">
+			<state></state>
+			<latitude>297286</latitude>
+			<longitude>1074119</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wu Xi -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>276952</latitude>
+			<longitude>1199786</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wu-ch ang -- (State: Hubei)">
+			<state>Hubei</state>
+			<latitude>303452</latitude>
+			<longitude>1141286</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuhan -- (State: Hubei)">
+			<state>Hubei</state>
+			<latitude>305952</latitude>
+			<longitude>1142786</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuhang -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>305097</latitude>
+			<longitude>1202713</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wujiang Shi -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>311694</latitude>
+			<longitude>1206536</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuxi -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>282780</latitude>
+			<longitude>1100702</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuxi -- (State: Sichuan)">
+			<state>Sichuan</state>
+			<latitude>309786</latitude>
+			<longitude>1002286</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuxi -- (State: Anhui)">
+			<state>Anhui</state>
+			<latitude>305786</latitude>
+			<longitude>1184619</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuxi -- (State: Chongqing)">
+			<state>Chongqing</state>
+			<latitude>314786</latitude>
+			<longitude>1096119</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuxi -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>315891</latitude>
+			<longitude>1203058</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuxi -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>275194</latitude>
+			<longitude>1197069</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuxi -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>280827</latitude>
+			<longitude>1195669</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuzhi -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>351075</latitude>
+			<longitude>1134019</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xi an -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>279953</latitude>
+			<longitude>1204120</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xi an -- (State: Shaanxi)">
+			<state>Shaanxi</state>
+			<latitude>342742</latitude>
+			<longitude>1089498</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xi an Shi -- (State: Shaanxi)">
+			<state>Shaanxi</state>
+			<latitude>342787</latitude>
+			<longitude>1089120</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xiamen -- (State: Shanxi)">
+			<state>Shanxi</state>
+			<latitude>368287</latitude>
+			<longitude>1117120</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xiamen -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>244795</latitude>
+			<longitude>1181051</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xiamen Dao -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>245053</latitude>
+			<longitude>1181431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xiamen Shi -- (State: Fujian)">
+			<state>Fujian</state>
+			<latitude>244720</latitude>
+			<longitude>1180909</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xian Xian -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>382120</latitude>
+			<longitude>1161287</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xinjiang -- (State: Hunan)">
+			<state>Hunan</state>
+			<latitude>264878</latitude>
+			<longitude>1096628</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xinjiang -- (State: Shanxi)">
+			<state>Shanxi</state>
+			<latitude>356248</latitude>
+			<longitude>1112298</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xinjiang -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>304453</latitude>
+			<longitude>1204453</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xinjiang -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>244787</latitude>
+			<longitude>1138453</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xinjiang -- (State: Jiangxi)">
+			<state>Jiangxi</state>
+			<latitude>278917</latitude>
+			<longitude>1153612</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xinjiang -- (State: Liaoning)">
+			<state>Liaoning</state>
+			<latitude>414173</latitude>
+			<longitude>1255398</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xinjiang Uygur Zizhiqu -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>425812</latitude>
+			<longitude>854681</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xuancheng -- (State: Anhui)">
+			<state>Anhui</state>
+			<latitude>309645</latitude>
+			<longitude>1187673</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xuchang Shi -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>340287</latitude>
+			<longitude>1138287</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xunhua Salarzu Zizhixian -- (State: Qinghai)">
+			<state>Qinghai</state>
+			<latitude>358453</latitude>
+			<longitude>1024453</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xuzhou -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>342789</latitude>
+			<longitude>1172037</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xuzhou Shi -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>342787</latitude>
+			<longitude>1171953</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangzhou -- (State: Jiangsu)">
+			<state>Jiangsu</state>
+			<latitude>324093</latitude>
+			<longitude>1194479</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangzhou -- (State: Jiangxi)">
+			<state>Jiangxi</state>
+			<latitude>291788</latitude>
+			<longitude>1153788</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangzhou -- (State: Shaanxi)">
+			<state>Shaanxi</state>
+			<latitude>332343</latitude>
+			<longitude>1075513</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yantai -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>375454</latitude>
+			<longitude>1214121</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yichang -- (State: Hubei)">
+			<state>Hubei</state>
+			<latitude>307265</latitude>
+			<longitude>1112968</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yiwu -- (State: Zhejiang)">
+			<state>Zhejiang</state>
+			<latitude>293207</latitude>
+			<longitude>1200818</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yiwu -- (State: Yunnan)">
+			<state>Yunnan</state>
+			<latitude>219954</latitude>
+			<longitude>1014788</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yiwu -- (State: Xinjiang)">
+			<state>Xinjiang</state>
+			<latitude>432621</latitude>
+			<longitude>945954</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaozhuang -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>348769</latitude>
+			<longitude>1175664</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaozhuang Shi -- (State: Shandong)">
+			<state>Shandong</state>
+			<latitude>348955</latitude>
+			<longitude>1175789</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhejiang">
+			<state></state>
+			<latitude>290122</latitude>
+			<longitude>1200122</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhengzhou -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>347700</latitude>
+			<longitude>1136608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="zhengzhou -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>346958</latitude>
+			<longitude>1135447</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhengzhou Shi -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>347622</latitude>
+			<longitude>1136789</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhongshan -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>213325</latitude>
+			<longitude>1106008</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhoukou Shi -- (State: Henan)">
+			<state>Henan</state>
+			<latitude>336455</latitude>
+			<longitude>1146455</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhuhai -- (State: Guangdong)">
+			<state>Guangdong</state>
+			<latitude>222891</latitude>
+			<longitude>1135800</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhuozhou -- (State: Hebei)">
+			<state>Hebei</state>
+			<latitude>394933</latitude>
+			<longitude>1159755</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

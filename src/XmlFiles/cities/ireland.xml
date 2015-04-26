@@ -1,0 +1,1405 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Ireland">
+		<city name="Achill Island -- (State: Mayo)">
+			<state>Mayo</state>
+			<latitude>539722</latitude>
+			<longitude>-99806</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arklow -- (State: Wicklow)">
+			<state>Wicklow</state>
+			<latitude>528028</latitude>
+			<longitude>-61317</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Athlone -- (State: Westmeath)">
+			<state>Westmeath</state>
+			<latitude>534325</latitude>
+			<longitude>-79275</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Balbriggan -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>536226</latitude>
+			<longitude>-61721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballaghaderreen -- (State: Roscommon)">
+			<state>Roscommon</state>
+			<latitude>539098</latitude>
+			<longitude>-85735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballinasloe -- (State: Galway)">
+			<state>Galway</state>
+			<latitude>533373</latitude>
+			<longitude>-82096</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballincollig -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>518931</latitude>
+			<longitude>-85735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballinrobe -- (State: Mayo)">
+			<state>Mayo</state>
+			<latitude>536431</latitude>
+			<longitude>-92235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballyhaunis -- (State: Mayo)">
+			<state>Mayo</state>
+			<latitude>537765</latitude>
+			<longitude>-87569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandon -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>517567</latitude>
+			<longitude>-87327</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bantry -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>516931</latitude>
+			<longitude>-94402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Birr -- (State: Offaly)">
+			<state>Offaly</state>
+			<latitude>531012</latitude>
+			<longitude>-79035</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blachardstown -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>533979</latitude>
+			<longitude>-63658</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bray -- (State: Wicklow)">
+			<state>Wicklow</state>
+			<latitude>532126</latitude>
+			<longitude>-60885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cahersiveen -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>519585</latitude>
+			<longitude>-102123</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carlow">
+			<state></state>
+			<latitude>528507</latitude>
+			<longitude>-69162</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carrick on Shannon -- (State: Leitrim)">
+			<state>Leitrim</state>
+			<latitude>539568</latitude>
+			<longitude>-80801</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Castle Troy -- (State: Limerick)">
+			<state>Limerick</state>
+			<latitude>526863</latitude>
+			<longitude>-85440</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Castlebar -- (State: Mayo)">
+			<state>Mayo</state>
+			<latitude>538599</latitude>
+			<longitude>-92901</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Castleisland -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>522432</latitude>
+			<longitude>-94568</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavan -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>548324</latitude>
+			<longitude>-76884</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavan -- (State: Monaghan)">
+			<state>Monaghan</state>
+			<latitude>544093</latitude>
+			<longitude>-70295</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavan">
+			<state></state>
+			<latitude>540007</latitude>
+			<longitude>-73507</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clonee -- (State: Meath)">
+			<state>Meath</state>
+			<latitude>534216</latitude>
+			<longitude>-64343</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clonmel -- (State: Tipperary)">
+			<state>Tipperary</state>
+			<latitude>523649</latitude>
+			<longitude>-76940</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cobh -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>518671</latitude>
+			<longitude>-82893</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cork">
+			<state></state>
+			<latitude>519085</latitude>
+			<longitude>-84859</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cork Lough -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>518960</latitude>
+			<longitude>-84782</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dalkey -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>532883</latitude>
+			<longitude>-60903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Donegal">
+			<state></state>
+			<latitude>546600</latitude>
+			<longitude>-81067</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Donnybrook -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>533311</latitude>
+			<longitude>-62053</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drogheda -- (State: Louth)">
+			<state>Louth</state>
+			<latitude>537289</latitude>
+			<longitude>-63378</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dublin -- (State: Tipperary)">
+			<state>Tipperary</state>
+			<latitude>525844</latitude>
+			<longitude>-75403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dublin">
+			<state></state>
+			<latitude>533431</latitude>
+			<longitude>-62389</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dublin Bar -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>533600</latitude>
+			<longitude>-61233</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dublin Bay -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>533444</latitude>
+			<longitude>-61006</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dublin Castle -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>533433</latitude>
+			<longitude>-62400</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dublin Harbour -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>533600</latitude>
+			<longitude>-62067</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dublin Pike -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>519403</latitude>
+			<longitude>-84542</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dundalk -- (State: Louth)">
+			<state>Louth</state>
+			<latitude>540100</latitude>
+			<longitude>-64067</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dundrum -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>533022</latitude>
+			<longitude>-62569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ennis -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>528537</latitude>
+			<longitude>-89763</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enniscorthy -- (State: Wexford)">
+			<state>Wexford</state>
+			<latitude>525109</latitude>
+			<longitude>-65477</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Galway">
+			<state></state>
+			<latitude>532822</latitude>
+			<longitude>-90386</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Galway Bay -- (State: Galway)">
+			<state>Galway</state>
+			<latitude>532100</latitude>
+			<longitude>-92200</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Galway Harbour -- (State: Galway)">
+			<state>Galway</state>
+			<latitude>532770</latitude>
+			<longitude>-90397</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gorey">
+			<state></state>
+			<latitude>552603</latitude>
+			<longitude>-71897</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gort -- (State: Galway)">
+			<state>Galway</state>
+			<latitude>530767</latitude>
+			<longitude>-88064</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="J. F. Kennedy Memorial Park -- (State: Wexford)">
+			<state>Wexford</state>
+			<latitude>523312</latitude>
+			<longitude>-68969</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jackstown -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>550392</latitude>
+			<longitude>-82605</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jar Connaught">
+			<state></state>
+			<latitude>533773</latitude>
+			<longitude>-93394</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeffrys Wood -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>522125</latitude>
+			<longitude>-82238</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jenkinstown -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>527273</latitude>
+			<longitude>-72727</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jerpoint Abbey -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>525220</latitude>
+			<longitude>-71469</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joanstown -- (State: Waterford)">
+			<state>Waterford</state>
+			<latitude>523384</latitude>
+			<longitude>-74325</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jockey Hall -- (State: Kildare)">
+			<state>Kildare</state>
+			<latitude>531428</latitude>
+			<longitude>-68077</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Johnduffswood -- (State: Carlow)">
+			<state>Carlow</state>
+			<latitude>527612</latitude>
+			<longitude>-70236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Johns River">
+			<state></state>
+			<latitude>522773</latitude>
+			<longitude>-70894</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Johnsbrook -- (State: Meath)">
+			<state>Meath</state>
+			<latitude>536792</latitude>
+			<longitude>-69475</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Johnstown -- (State: Wicklow)">
+			<state>Wicklow</state>
+			<latitude>528406</latitude>
+			<longitude>-61186</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Johnstown -- (State: Meath)">
+			<state>Meath</state>
+			<latitude>534178</latitude>
+			<longitude>-68283</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Johnstownbridge -- (State: Leitrim)">
+			<state>Leitrim</state>
+			<latitude>538439</latitude>
+			<longitude>-78561</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Johnswell -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>527123</latitude>
+			<longitude>-71577</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jonestown Cross Roads -- (State: Offaly)">
+			<state>Offaly</state>
+			<latitude>533653</latitude>
+			<longitude>-70450</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joneville House -- (State: Waterford)">
+			<state>Waterford</state>
+			<latitude>520978</latitude>
+			<longitude>-79552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jordans Bay -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>517225</latitude>
+			<longitude>-83691</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jordanstown House -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>526892</latitude>
+			<longitude>-70325</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joyces River">
+			<state></state>
+			<latitude>535439</latitude>
+			<longitude>-96061</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Judgeville -- (State: Westmeath)">
+			<state>Westmeath</state>
+			<latitude>533587</latitude>
+			<longitude>-73705</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Julianstown -- (State: Meath)">
+			<state>Meath</state>
+			<latitude>536878</latitude>
+			<longitude>-63086</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kerry">
+			<state></state>
+			<latitude>521774</latitude>
+			<longitude>-97393</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilcock -- (State: Kildare)">
+			<state>Kildare</state>
+			<latitude>534129</latitude>
+			<longitude>-66601</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilkenny">
+			<state></state>
+			<latitude>526649</latitude>
+			<longitude>-72415</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Killarney -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>520607</latitude>
+			<longitude>-95060</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Killarney -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>525679</latitude>
+			<longitude>-71660</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lagacurry -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>553208</latitude>
+			<longitude>-73289</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laytown -- (State: Meath)">
+			<state>Meath</state>
+			<latitude>536927</latitude>
+			<longitude>-62284</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Letterkenny -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>549608</latitude>
+			<longitude>-77225</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limerick">
+			<state></state>
+			<latitude>526755</latitude>
+			<longitude>-86123</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limerick -- (State: Wexford)">
+			<state>Wexford</state>
+			<latitude>527436</latitude>
+			<longitude>-62823</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limerick Canal -- (State: Limerick)">
+			<state>Limerick</state>
+			<latitude>526775</latitude>
+			<longitude>-86059</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limerick Harbour -- (State: Limerick)">
+			<state>Limerick</state>
+			<latitude>526775</latitude>
+			<longitude>-86225</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Longford">
+			<state></state>
+			<latitude>537441</latitude>
+			<longitude>-77892</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lucan -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>533700</latitude>
+			<longitude>-64281</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mallow -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>521442</latitude>
+			<longitude>-86224</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manorhamilton -- (State: Leitrim)">
+			<state>Leitrim</state>
+			<latitude>543173</latitude>
+			<longitude>-81652</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monaghan">
+			<state></state>
+			<latitude>542609</latitude>
+			<longitude>-69558</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monasterevin -- (State: Kildare)">
+			<state>Kildare</state>
+			<latitude>531515</latitude>
+			<longitude>-70555</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mullingar -- (State: Westmeath)">
+			<state>Westmeath</state>
+			<latitude>535442</latitude>
+			<longitude>-73391</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mullingar -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>548162</latitude>
+			<longitude>-76655</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naas -- (State: Kildare)">
+			<state>Kildare</state>
+			<latitude>532268</latitude>
+			<longitude>-66559</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Navan -- (State: Meath)">
+			<state>Meath</state>
+			<latitude>536638</latitude>
+			<longitude>-66704</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nenagh -- (State: Tipperary)">
+			<state>Tipperary</state>
+			<latitude>528729</latitude>
+			<longitude>-81857</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Newbridge -- (State: Kildare)">
+			<state>Kildare</state>
+			<latitude>531929</latitude>
+			<longitude>-67857</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Laoise -- (State: Laois)">
+			<state>Laois</state>
+			<latitude>530434</latitude>
+			<longitude>-72888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quagmire River">
+			<state></state>
+			<latitude>520780</latitude>
+			<longitude>-94054</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quaker Island">
+			<state></state>
+			<latitude>535946</latitude>
+			<longitude>-79887</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quakers Cross Roads -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>516132</latitude>
+			<longitude>-90073</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarry Cross Roads -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>518188</latitude>
+			<longitude>-88248</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarry Lodge -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>521419</latitude>
+			<longitude>-92806</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarry Lough -- (State: Monaghan)">
+			<state>Monaghan</state>
+			<latitude>541124</latitude>
+			<longitude>-71418</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarrymount">
+			<state></state>
+			<latitude>536113</latitude>
+			<longitude>-88554</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quartertown Upper -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>521194</latitude>
+			<longitude>-86384</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quay Island -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>526949</latitude>
+			<longitude>-88006</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queen s Cottage -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>519824</latitude>
+			<longitude>-95876</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queensborough -- (State: Meath)">
+			<state>Meath</state>
+			<latitude>537424</latitude>
+			<longitude>-62479</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queenstown Junction -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>519280</latitude>
+			<longitude>-83054</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Querrin -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>526460</latitude>
+			<longitude>-95840</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Querrin Point -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>526388</latitude>
+			<longitude>-95723</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quig Lough Reservoir -- (State: Monaghan)">
+			<state>Monaghan</state>
+			<latitude>542746</latitude>
+			<longitude>-70168</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quignalahy">
+			<state></state>
+			<latitude>542780</latitude>
+			<longitude>-90220</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quignalegan -- (State: Mayo)">
+			<state>Mayo</state>
+			<latitude>541427</latitude>
+			<longitude>-90995</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quilty -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>528282</latitude>
+			<longitude>-94395</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinagh -- (State: Carlow)">
+			<state>Carlow</state>
+			<latitude>528266</latitude>
+			<longitude>-69243</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinn -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>528299</latitude>
+			<longitude>-88556</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinsborough -- (State: Kildare)">
+			<state>Kildare</state>
+			<latitude>531782</latitude>
+			<longitude>-70481</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinsborough House -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>527044</latitude>
+			<longitude>-86179</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quintagh -- (State: Wicklow)">
+			<state>Wicklow</state>
+			<latitude>530910</latitude>
+			<longitude>-64898</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinville Abbey -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>528377</latitude>
+			<longitude>-88534</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quitrentmountain -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>522877</latitude>
+			<longitude>-84762</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quivvy Lough">
+			<state></state>
+			<latitude>541502</latitude>
+			<longitude>-73981</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quoylach Bay -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>517149</latitude>
+			<longitude>-99954</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Raheen -- (State: Wexford)">
+			<state>Wexford</state>
+			<latitude>524064</latitude>
+			<longitude>-67861</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Randalstown -- (State: Meath)">
+			<state>Meath</state>
+			<latitude>536950</latitude>
+			<longitude>-67033</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roscommon">
+			<state></state>
+			<latitude>536447</latitude>
+			<longitude>-81719</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shannon -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>527154</latitude>
+			<longitude>-88527</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sligo">
+			<state></state>
+			<latitude>542782</latitude>
+			<longitude>-84718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallaght -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>532994</latitude>
+			<longitude>-63295</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thurles -- (State: Tipperary)">
+			<state>Tipperary</state>
+			<latitude>526935</latitude>
+			<longitude>-77906</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tralee -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>522783</latitude>
+			<longitude>-97051</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tralee Bay -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>522899</latitude>
+			<longitude>-99198</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tramore -- (State: Waterford)">
+			<state>Waterford</state>
+			<latitude>521705</latitude>
+			<longitude>-71348</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tullamore -- (State: Offaly)">
+			<state>Offaly</state>
+			<latitude>532855</latitude>
+			<longitude>-74773</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uachtar Ard -- (State: Galway)">
+			<state>Galway</state>
+			<latitude>534284</latitude>
+			<longitude>-93216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uctough -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>520184</latitude>
+			<longitude>-87811</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulla -- (State: Limerick)">
+			<state>Limerick</state>
+			<latitude>525414</latitude>
+			<longitude>-82466</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ullard -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>525914</latitude>
+			<longitude>-69191</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ullard Bridge -- (State: Carlow)">
+			<state>Carlow</state>
+			<latitude>527228</latitude>
+			<longitude>-68144</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ullid -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>523261</latitude>
+			<longitude>-71969</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ultans Well -- (State: Louth)">
+			<state>Louth</state>
+			<latitude>539609</latitude>
+			<longitude>-65672</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umeras House -- (State: Kildare)">
+			<state>Kildare</state>
+			<latitude>531953</latitude>
+			<longitude>-70302</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umfin Island -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>551136</latitude>
+			<longitude>-83541</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umgall -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>553445</latitude>
+			<longitude>-72877</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umma House">
+			<state></state>
+			<latitude>534617</latitude>
+			<longitude>-76883</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ummera -- (State: Leitrim)">
+			<state>Leitrim</state>
+			<latitude>542053</latitude>
+			<longitude>-80647</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ummeraboy -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>521481</latitude>
+			<longitude>-91580</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ummoon -- (State: Mayo)">
+			<state>Mayo</state>
+			<latitude>539561</latitude>
+			<longitude>-90902</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umrycam -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>551720</latitude>
+			<longitude>-74208</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umrygar House -- (State: Wicklow)">
+			<state>Wicklow</state>
+			<latitude>527098</latitude>
+			<longitude>-64819</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unshin River -- (State: Sligo)">
+			<state>Sligo</state>
+			<latitude>542031</latitude>
+			<longitude>-84700</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unshinagh -- (State: Leitrim)">
+			<state>Leitrim</state>
+			<latitude>544500</latitude>
+			<longitude>-83022</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Ballycotteen -- (State: Clare)">
+			<state>Clare</state>
+			<latitude>529909</latitude>
+			<longitude>-94014</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Convamore -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>521703</latitude>
+			<longitude>-83994</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Glanmire -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>519620</latitude>
+			<longitude>-84166</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upperchurch -- (State: Tipperary)">
+			<state>Tipperary</state>
+			<latitude>527150</latitude>
+			<longitude>-80058</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upton -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>518039</latitude>
+			<longitude>-86616</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upton Farm -- (State: Tipperary)">
+			<state>Tipperary</state>
+			<latitude>530942</latitude>
+			<longitude>-81472</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uragh -- (State: Cavan)">
+			<state>Cavan</state>
+			<latitude>542048</latitude>
+			<longitude>-76855</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urbalreagh -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>553481</latitude>
+			<longitude>-72736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uregare">
+			<state></state>
+			<latitude>524617</latitude>
+			<longitude>-85550</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urelands House -- (State: Wexford)">
+			<state>Wexford</state>
+			<latitude>527473</latitude>
+			<longitude>-66108</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urgllin Glebe -- (State: Carlow)">
+			<state>Carlow</state>
+			<latitude>528442</latitude>
+			<longitude>-68561</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urlaur Lough">
+			<state></state>
+			<latitude>538450</latitude>
+			<longitude>-87216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urlingford -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>527323</latitude>
+			<longitude>-75708</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urney House -- (State: Offaly)">
+			<state>Offaly</state>
+			<latitude>532192</latitude>
+			<longitude>-72772</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urraghil -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>521728</latitude>
+			<longitude>-91039</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urraghry Hill -- (State: Galway)">
+			<state>Galway</state>
+			<latitude>533114</latitude>
+			<longitude>-82677</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urrahill -- (State: Tipperary)">
+			<state>Tipperary</state>
+			<latitude>529584</latitude>
+			<longitude>-82633</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urrin River -- (State: Wexford)">
+			<state>Wexford</state>
+			<latitude>525045</latitude>
+			<longitude>-65555</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urris Hills -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>552356</latitude>
+			<longitude>-75072</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uskerty -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>527939</latitude>
+			<longitude>-71466</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vale of Avoca -- (State: Wicklow)">
+			<state>Wicklow</state>
+			<latitude>528504</latitude>
+			<longitude>-62068</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valentia Harbour -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>519285</latitude>
+			<longitude>-102715</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valentia Island -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>519201</latitude>
+			<longitude>-103601</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valentia River -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>519440</latitude>
+			<longitude>-102663</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valleyfield House -- (State: Laois)">
+			<state>Laois</state>
+			<latitude>529040</latitude>
+			<longitude>-72960</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vances Point -- (State: Donegal)">
+			<state>Donegal</state>
+			<latitude>551604</latitude>
+			<longitude>-71413</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vartry Reservoir -- (State: Wicklow)">
+			<state>Wicklow</state>
+			<latitude>530690</latitude>
+			<longitude>-61949</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vartry River -- (State: Wicklow)">
+			<state>Wicklow</state>
+			<latitude>530146</latitude>
+			<longitude>-60435</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vauchluce Cottage -- (State: Limerick)">
+			<state>Limerick</state>
+			<latitude>526979</latitude>
+			<longitude>-83207</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Velvet Strand -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>534332</latitude>
+			<longitude>-61088</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ventry -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>521443</latitude>
+			<longitude>-103551</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ventry Harbour -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>521346</latitude>
+			<longitude>-103440</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vermont -- (State: Galway)">
+			<state>Galway</state>
+			<latitude>534307</latitude>
+			<longitude>-85346</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vermont -- (State: Limerick)">
+			<state>Limerick</state>
+			<latitude>526485</latitude>
+			<longitude>-87290</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vermount -- (State: Carlow)">
+			<state>Carlow</state>
+			<latitude>528565</latitude>
+			<longitude>-65790</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Verolme Cork Dockyard -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>518607</latitude>
+			<longitude>-83118</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Verschoyles Hill -- (State: Dublin)">
+			<state>Dublin</state>
+			<latitude>532743</latitude>
+			<longitude>-64243</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vicarstown -- (State: Cork)">
+			<state>Cork</state>
+			<latitude>519451</latitude>
+			<longitude>-86382</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vicarstown -- (State: Laois)">
+			<state>Laois</state>
+			<latitude>530610</latitude>
+			<longitude>-70768</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villierstown -- (State: Waterford)">
+			<state>Waterford</state>
+			<latitude>521007</latitude>
+			<longitude>-78413</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vinegar Hill -- (State: Wexford)">
+			<state>Wexford</state>
+			<latitude>525160</latitude>
+			<longitude>-65343</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vinnaunmore Rock -- (State: Kerry)">
+			<state>Kerry</state>
+			<latitude>521582</latitude>
+			<longitude>-104513</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Violetstown House">
+			<state></state>
+			<latitude>534951</latitude>
+			<longitude>-72715</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waterford">
+			<state></state>
+			<latitude>522702</latitude>
+			<longitude>-71000</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waterford -- (State: Kilkenny)">
+			<state>Kilkenny</state>
+			<latitude>522786</latitude>
+			<longitude>-71048</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waterford Harbour">
+			<state></state>
+			<latitude>521911</latitude>
+			<longitude>-69187</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Westport -- (State: Mayo)">
+			<state>Mayo</state>
+			<latitude>538119</latitude>
+			<longitude>-95048</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wexford">
+			<state></state>
+			<latitude>523461</latitude>
+			<longitude>-64456</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wicklow">
+			<state></state>
+			<latitude>529869</latitude>
+			<longitude>-60375</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

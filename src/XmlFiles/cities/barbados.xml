@@ -1,0 +1,1034 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Barbados">
+		<city name="Airy Hill -- (State: Saint Joseph)">
+			<state>Saint Joseph</state>
+			<latitude>131930</latitude>
+			<longitude>-595403</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alexandra -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>132930</latitude>
+			<longitude>-595903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="All Saints Church -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132764</latitude>
+			<longitude>-595903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Allmans -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>132764</latitude>
+			<longitude>-596236</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ananias Point -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130430</latitude>
+			<longitude>-595070</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Animal Flower Cave -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133430</latitude>
+			<longitude>-595903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antilles Flat -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133264</latitude>
+			<longitude>-595736</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apes Hill -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>132264</latitude>
+			<longitude>-595903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Appleby -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>131597</latitude>
+			<longitude>-596236</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Applewhaites -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>131764</latitude>
+			<longitude>-595570</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ashford -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>131764</latitude>
+			<longitude>-594903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ashton Hall -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132597</latitude>
+			<longitude>-596236</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bakers -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132431</latitude>
+			<longitude>-596069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belle -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131265</latitude>
+			<longitude>-595735</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belle Hill -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132598</latitude>
+			<longitude>-595569</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bridgetown -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131098</latitude>
+			<longitude>-596069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bridgetown Harbour -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131098</latitude>
+			<longitude>-596235</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Christ Church">
+			<state></state>
+			<latitude>130932</latitude>
+			<longitude>-595234</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dover -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130600</latitude>
+			<longitude>-595567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Drax Hall -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131433</latitude>
+			<longitude>-595067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dukes -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>131933</latitude>
+			<longitude>-595733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ealing Park -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130434</latitude>
+			<longitude>-594899</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Lynne -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>131268</latitude>
+			<longitude>-595232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastbourne -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131268</latitude>
+			<longitude>-594232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ebenezer -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131268</latitude>
+			<longitude>-594899</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ebworth -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132768</latitude>
+			<longitude>-596066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ellerton -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131434</latitude>
+			<longitude>-595399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ellesmere -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131601</latitude>
+			<longitude>-595232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Endeavour -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>132101</latitude>
+			<longitude>-595899</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Endeavour -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>131768</latitude>
+			<longitude>-595732</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairfield -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131269</latitude>
+			<longitude>-595898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farley Hill -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132769</latitude>
+			<longitude>-595731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farmers -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>132102</latitude>
+			<longitude>-595731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fisher Pond -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>131769</latitude>
+			<longitude>-595398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fitts -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>131435</latitude>
+			<longitude>-596231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flatfield -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133269</latitude>
+			<longitude>-595898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Folkestone Park -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>131935</latitude>
+			<longitude>-596231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fortescue -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131769</latitude>
+			<longitude>-594398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foster Hall -- (State: Saint Joseph)">
+			<state>Saint Joseph</state>
+			<latitude>132102</latitude>
+			<longitude>-594898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Four Roads -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131102</latitude>
+			<longitude>-594565</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Friendship Terrace -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131435</latitude>
+			<longitude>-595898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frizers -- (State: Saint Joseph)">
+			<state>Saint Joseph</state>
+			<latitude>132269</latitude>
+			<longitude>-595231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fruitful Hill -- (State: Saint Joseph)">
+			<state>Saint Joseph</state>
+			<latitude>132102</latitude>
+			<longitude>-595565</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garrison -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>130770</latitude>
+			<longitude>-595897</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gemswick -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>130770</latitude>
+			<longitude>-594564</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gibbes Bay -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132270</latitude>
+			<longitude>-596230</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goodland -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130603</latitude>
+			<longitude>-595064</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Graeme Hall Swamp -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130770</latitude>
+			<longitude>-595564</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grantley Adams Airport -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130770</latitude>
+			<longitude>-594730</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grape Hall -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133270</latitude>
+			<longitude>-596230</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Greens -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>131603</latitude>
+			<longitude>-595064</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Greenwich -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>131936</latitude>
+			<longitude>-596064</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hacklestons Cliff -- (State: Saint Joseph)">
+			<state>Saint Joseph</state>
+			<latitude>132104</latitude>
+			<longitude>-595063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halton -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131437</latitude>
+			<longitude>-594729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hannays -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>131104</latitude>
+			<longitude>-595063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanson -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131104</latitude>
+			<longitude>-595563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harris -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133104</latitude>
+			<longitude>-596063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harrismith -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131271</latitude>
+			<longitude>-594063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harrison Point -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133104</latitude>
+			<longitude>-596396</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harrison Reefs">
+			<state></state>
+			<latitude>133271</latitude>
+			<longitude>-596563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harrisons -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133104</latitude>
+			<longitude>-596229</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haymans Factory -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132604</latitude>
+			<longitude>-596063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heywoods -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132604</latitude>
+			<longitude>-596396</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Highgate -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>130937</latitude>
+			<longitude>-595729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Highland -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131104</latitude>
+			<longitude>-594729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hillaby">
+			<state></state>
+			<latitude>132271</latitude>
+			<longitude>-595729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Holders -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>131771</latitude>
+			<longitude>-596063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Holetown -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>131937</latitude>
+			<longitude>-596396</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hothersal -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>131937</latitude>
+			<longitude>-594896</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoytes -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132271</latitude>
+			<longitude>-595563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Husbands -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>131604</latitude>
+			<longitude>-596063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Husbands -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>132937</latitude>
+			<longitude>-596396</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inch Marlowe -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130772</latitude>
+			<longitude>-594895</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inch Marlowe Swamp -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130605</latitude>
+			<longitude>-594895</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indian Ground -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132605</latitude>
+			<longitude>-595895</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jackmans -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131439</latitude>
+			<longitude>-595727</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jemmotts -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133106</latitude>
+			<longitude>-595894</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jezreel -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131273</latitude>
+			<longitude>-594394</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kelzer Hill -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130607</latitude>
+			<longitude>-595226</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kendal -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>131607</latitude>
+			<longitude>-594893</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kendal Hill -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130774</latitude>
+			<longitude>-595393</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kent -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130940</latitude>
+			<longitude>-595393</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kirtons -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131107</latitude>
+			<longitude>-594393</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kittridge Point -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131607</latitude>
+			<longitude>-594060</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lakes -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132441</latitude>
+			<longitude>-595392</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lears -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>131608</latitude>
+			<longitude>-595725</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lemon Arbour -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>131775</latitude>
+			<longitude>-595225</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Less Beholden -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132275</latitude>
+			<longitude>-595392</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Little Battaleys -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132441</latitude>
+			<longitude>-596225</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Locust Hall -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131608</latitude>
+			<longitude>-595559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lower Carlton -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>132275</latitude>
+			<longitude>-596392</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lowlands -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130941</latitude>
+			<longitude>-595059</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marley Vale -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131609</latitude>
+			<longitude>-594224</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Martins Bay -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>131942</latitude>
+			<longitude>-594724</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maycock -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>132942</latitude>
+			<longitude>-596224</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mount Wilton -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>131942</latitude>
+			<longitude>-595558</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Needham Point -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>130943</latitude>
+			<longitude>-595890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neils -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131277</latitude>
+			<longitude>-595557</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nesfield -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>132943</latitude>
+			<longitude>-596057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Fall Cliff -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>130943</latitude>
+			<longitude>-594390</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nicholas Abbey -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132943</latitude>
+			<longitude>-595723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oistins -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130778</latitude>
+			<longitude>-595222</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oughtersons -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131444</latitude>
+			<longitude>-594556</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Packers -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130945</latitude>
+			<longitude>-594888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Padmore -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131279</latitude>
+			<longitude>-594555</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palmetto Bay -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131445</latitude>
+			<longitude>-594055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parish Land -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130779</latitude>
+			<longitude>-595055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paynes Bay -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131779</latitude>
+			<longitude>-596221</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pennyhole Rock -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>130945</latitude>
+			<longitude>-594555</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pie Corner -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133112</latitude>
+			<longitude>-595721</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pine -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131112</latitude>
+			<longitude>-595888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poreys Spring -- (State: Saint Thomas)">
+			<state>Saint Thomas</state>
+			<latitude>131945</latitude>
+			<longitude>-595888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prospect -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>132612</latitude>
+			<longitude>-595721</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ragged Point -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131781</latitude>
+			<longitude>-594219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Redland -- (State: Saint Joseph)">
+			<state>Saint Joseph</state>
+			<latitude>131947</latitude>
+			<longitude>-595219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Regency Park -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130947</latitude>
+			<longitude>-595553</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rendezvous -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130781</latitude>
+			<longitude>-595719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roach -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131614</latitude>
+			<longitude>-595386</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roaches -- (State: Saint Lucy)">
+			<state>Saint Lucy</state>
+			<latitude>133281</latitude>
+			<longitude>-596053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rosegate -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>131781</latitude>
+			<longitude>-594719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rouen -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131114</latitude>
+			<longitude>-595719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rowans -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131447</latitude>
+			<longitude>-595553</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ruby -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131447</latitude>
+			<longitude>-594386</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Chase -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132783</latitude>
+			<longitude>-595551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Choyce -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132949</latitude>
+			<longitude>-595551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Crane -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131116</latitude>
+			<longitude>-594217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Glebe -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131283</latitude>
+			<longitude>-595384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Shallows">
+			<state></state>
+			<latitude>129783</latitude>
+			<longitude>-594551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Three Houses -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131616</latitude>
+			<longitude>-594551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trader Bank">
+			<state></state>
+			<latitude>130616</latitude>
+			<longitude>-596384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trents -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>132116</latitude>
+			<longitude>-596217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turners Hall -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132449</latitude>
+			<longitude>-595717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Carlton -- (State: Saint James)">
+			<state>Saint James</state>
+			<latitude>132284</latitude>
+			<longitude>-596050</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Parks -- (State: Saint Joseph)">
+			<state>Saint Joseph</state>
+			<latitude>132117</latitude>
+			<longitude>-595383</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venture -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>131951</latitude>
+			<longitude>-595049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vineyard -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131618</latitude>
+			<longitude>-594382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakefield Tenantry -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>131786</latitude>
+			<longitude>-595048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walkers Beach -- (State: Saint Andrew)">
+			<state>Saint Andrew</state>
+			<latitude>132619</latitude>
+			<longitude>-595381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanstead -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131452</latitude>
+			<longitude>-596048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warrens -- (State: Saint Michael)">
+			<state>Saint Michael</state>
+			<latitude>131619</latitude>
+			<longitude>-595881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Watts Village -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131119</latitude>
+			<longitude>-595214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waverley Cot -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>131452</latitude>
+			<longitude>-595214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Welches -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>130619</latitude>
+			<longitude>-595381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellhouse -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>131452</latitude>
+			<longitude>-594214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windsor">
+			<state></state>
+			<latitude>131286</latitude>
+			<longitude>-595048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodbourne -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>130952</latitude>
+			<longitude>-594714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yorkshire -- (State: Christ Church)">
+			<state>Christ Church</state>
+			<latitude>131121</latitude>
+			<longitude>-594879</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

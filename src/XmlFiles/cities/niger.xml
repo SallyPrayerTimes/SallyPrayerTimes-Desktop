@@ -1,0 +1,579 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Niger">
+		<city name="Agadez">
+			<state></state>
+			<latitude>169836</latitude>
+			<longitude>80005</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukul -- (State: Dosso)">
+			<state>Dosso</state>
+			<latitude>129676</latitude>
+			<longitude>35901</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damagaram -- (State: Zinder)">
+			<state>Zinder</state>
+			<latitude>137100</latitude>
+			<longitude>90100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damagaram Takaya -- (State: Zinder)">
+			<state>Zinder</state>
+			<latitude>141475</latitude>
+			<longitude>94925</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dzitumma -- (State: Diffa)">
+			<state>Diffa</state>
+			<latitude>136100</latitude>
+			<longitude>121933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fwangwaranga -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>124435</latitude>
+			<longitude>23269</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fyzoum -- (State: Diffa)">
+			<state>Diffa</state>
+			<latitude>143102</latitude>
+			<longitude>127102</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghabare -- (State: Maradi)">
+			<state>Maradi</state>
+			<latitude>137270</latitude>
+			<longitude>82103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghado Gado -- (State: Maradi)">
+			<state>Maradi</state>
+			<latitude>151436</latitude>
+			<longitude>74103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamba -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>147604</latitude>
+			<longitude>34437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdalay Hasan -- (State: Dosso)">
+			<state>Dosso</state>
+			<latitude>125604</latitude>
+			<longitude>29437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Housseyni -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>160104</latitude>
+			<longitude>48604</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaderi -- (State: Agadez)">
+			<state>Agadez</state>
+			<latitude>158106</latitude>
+			<longitude>68439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jajiri -- (State: Diffa)">
+			<state>Diffa</state>
+			<latitude>136014</latitude>
+			<longitude>115228</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jakasa -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>150606</latitude>
+			<longitude>33939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaki -- (State: Maradi)">
+			<state>Maradi</state>
+			<latitude>135106</latitude>
+			<longitude>68939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jali -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>150053</latitude>
+			<longitude>43192</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janbague -- (State: Zinder)">
+			<state>Zinder</state>
+			<latitude>147939</latitude>
+			<longitude>81273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jegou -- (State: Agadez)">
+			<state>Agadez</state>
+			<latitude>164606</latitude>
+			<longitude>69773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jere -- (State: Zinder)">
+			<state>Zinder</state>
+			<latitude>133409</latitude>
+			<longitude>91684</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jingui -- (State: Maradi)">
+			<state>Maradi</state>
+			<latitude>147606</latitude>
+			<longitude>71939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knogoude -- (State: Zinder)">
+			<state>Zinder</state>
+			<latitude>146107</latitude>
+			<longitude>113107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kreb de Batel Bakane -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>168940</latitude>
+			<longitude>41940</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kreb de Mantes -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>169440</latitude>
+			<longitude>43774</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kriram -- (State: Diffa)">
+			<state>Diffa</state>
+			<latitude>144274</latitude>
+			<longitude>135107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kriwajinga -- (State: Diffa)">
+			<state>Diffa</state>
+			<latitude>146274</latitude>
+			<longitude>136774</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krya -- (State: Dosso)">
+			<state>Dosso</state>
+			<latitude>140607</latitude>
+			<longitude>38607</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kukutua -- (State: Diffa)">
+			<state>Diffa</state>
+			<latitude>139107</latitude>
+			<longitude>111440</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kulia -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>137493</latitude>
+			<longitude>11051</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuradana -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>137940</latitude>
+			<longitude>49274</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurdififi -- (State: Zinder)">
+			<state>Zinder</state>
+			<latitude>145274</latitude>
+			<longitude>84440</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kure -- (State: Tillaberi)">
+			<state>Tillaberi</state>
+			<latitude>133249</latitude>
+			<longitude>25824</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurgussu -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>144274</latitude>
+			<longitude>7440</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurki -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>145107</latitude>
+			<longitude>4440</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuro -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>132651</latitude>
+			<longitude>10204</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malbaza -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>139559</latitude>
+			<longitude>55331</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maradi">
+			<state></state>
+			<latitude>135026</latitude>
+			<longitude>71073</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niamey">
+			<state></state>
+			<latitude>135324</latitude>
+			<longitude>21163</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niamey -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>140110</latitude>
+			<longitude>17277</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ofada -- (State: Agadez)">
+			<state>Agadez</state>
+			<latitude>161278</latitude>
+			<longitude>73111</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Padoras -- (State: Agadez)">
+			<state>Agadez</state>
+			<latitude>169112</latitude>
+			<longitude>73279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pamboudye -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>131109</latitude>
+			<longitude>10315</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pantyanlouti -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>123779</latitude>
+			<longitude>27445</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pate Tyaga -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>138029</latitude>
+			<longitude>11584</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paterga -- (State: Dosso)">
+			<state>Dosso</state>
+			<latitude>134112</latitude>
+			<longitude>29612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petay -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>128112</latitude>
+			<longitude>19445</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateau de Toudoumdabak -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>148112</latitude>
+			<longitude>41112</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateau du Djado -- (State: Agadez)">
+			<state>Agadez</state>
+			<latitude>217612</latitude>
+			<longitude>128445</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pogogdji -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>131112</latitude>
+			<longitude>17779</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pounga -- (State: Dosso)">
+			<state>Dosso</state>
+			<latitude>135279</latitude>
+			<longitude>28945</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qar`at Ra s al Hammadah">
+			<state></state>
+			<latitude>232446</latitude>
+			<longitude>123446</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reba -- (State: Maradi)">
+			<state>Maradi</state>
+			<latitude>137947</latitude>
+			<longitude>79447</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Regue Gaya -- (State: Zinder)">
+			<state>Zinder</state>
+			<latitude>143447</latitude>
+			<longitude>87781</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Say -- (State: Tillaberi)">
+			<state>Tillaberi</state>
+			<latitude>131196</latitude>
+			<longitude>23712</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sheri -- (State: Diffa)">
+			<state>Diffa</state>
+			<latitude>134371</latitude>
+			<longitude>113965</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sudan">
+			<state></state>
+			<latitude>100115</latitude>
+			<longitude>200115</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sunga -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>128948</latitude>
+			<longitude>24448</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tahoua">
+			<state></state>
+			<latitude>149019</latitude>
+			<longitude>52794</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tera -- (State: Tillaberi)">
+			<state>Tillaberi</state>
+			<latitude>140222</latitude>
+			<longitude>7647</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tera -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>138949</latitude>
+			<longitude>20116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teram Jelawi -- (State: Zinder)">
+			<state>Zinder</state>
+			<latitude>151449</latitude>
+			<longitude>101449</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terazena -- (State: Agadez)">
+			<state>Agadez</state>
+			<latitude>167783</latitude>
+			<longitude>67283</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terazet -- (State: Agadez)">
+			<state>Agadez</state>
+			<latitude>168616</latitude>
+			<longitude>80449</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ungore -- (State: Agadez)">
+			<state>Agadez</state>
+			<latitude>174784</latitude>
+			<longitude>77450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee d Abalemma -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>155785</latitude>
+			<longitude>63951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee d Adoua -- (State: Maradi)">
+			<state>Maradi</state>
+			<latitude>146285</latitude>
+			<longitude>66785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee d Agora -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>160618</latitude>
+			<longitude>41951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee d i-n- Karana -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>146785</latitude>
+			<longitude>64618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee d Ouroufa -- (State: Maradi)">
+			<state>Maradi</state>
+			<latitude>147118</latitude>
+			<longitude>70118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de Djadel -- (State: Maradi)">
+			<state>Maradi</state>
+			<latitude>145951</latitude>
+			<longitude>66618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de l Azaouak">
+			<state></state>
+			<latitude>155118</latitude>
+			<longitude>33118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de Tiguirene -- (State: Maradi)">
+			<state>Maradi</state>
+			<latitude>148451</latitude>
+			<longitude>67285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee des Geltas -- (State: Agadez)">
+			<state>Agadez</state>
+			<latitude>223118</latitude>
+			<longitude>126285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendou Mama -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>127451</latitude>
+			<longitude>19451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouchek -- (State: Zinder)">
+			<state>Zinder</state>
+			<latitude>140618</latitude>
+			<longitude>100951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouro Amadi -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>143118</latitude>
+			<longitude>12451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voyvoya -- (State: Tahoua)">
+			<state>Tahoua</state>
+			<latitude>137451</latitude>
+			<longitude>62785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wyie -- (State: Diffa)">
+			<state>Diffa</state>
+			<latitude>144119</latitude>
+			<longitude>133952</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xembey -- (State: Dosso)">
+			<state>Dosso</state>
+			<latitude>126287</latitude>
+			<longitude>28120</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yiloumandi Kwara -- (State: (NG05))">
+			<state>(NG05)</state>
+			<latitude>144288</latitude>
+			<longitude>27954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zinder -- (State: Tillaberi)">
+			<state>Tillaberi</state>
+			<latitude>142719</latitude>
+			<longitude>13144</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zinder">
+			<state></state>
+			<latitude>138122</latitude>
+			<longitude>89955</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

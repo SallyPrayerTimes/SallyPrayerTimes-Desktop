@@ -1,0 +1,607 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Andorra">
+		<city name="Abarsetar">
+			<state></state>
+			<latitude>425597</latitude>
+			<longitude>16597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abarsetar de la Coma">
+			<state></state>
+			<latitude>426430</latitude>
+			<longitude>14930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abarsetar de Rialb">
+			<state></state>
+			<latitude>426597</latitude>
+			<longitude>15597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agulla de Baiau">
+			<state></state>
+			<latitude>425930</latitude>
+			<longitude>14430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aixas">
+			<state></state>
+			<latitude>424930</latitude>
+			<longitude>14764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aixirvall">
+			<state></state>
+			<latitude>424764</latitude>
+			<longitude>15097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aixovall">
+			<state></state>
+			<latitude>424764</latitude>
+			<longitude>14930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alt de l Aspra">
+			<state></state>
+			<latitude>425264</latitude>
+			<longitude>16597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alt de la Capa">
+			<state></state>
+			<latitude>425764</latitude>
+			<longitude>14597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andorra la Vella">
+			<state></state>
+			<latitude>425097</latitude>
+			<longitude>15264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andorra-la-Vella -- (State: Andorra la Vella)">
+			<state>Andorra la Vella</state>
+			<latitude>425097</latitude>
+			<longitude>15097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arans">
+			<state></state>
+			<latitude>425930</latitude>
+			<longitude>15264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Artic de Capell">
+			<state></state>
+			<latitude>425930</latitude>
+			<longitude>16097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ascobar de Puntal">
+			<state></state>
+			<latitude>426430</latitude>
+			<longitude>15597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aspres de Banyell">
+			<state></state>
+			<latitude>426430</latitude>
+			<longitude>15764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aspres de la Cebollera">
+			<state></state>
+			<latitude>426430</latitude>
+			<longitude>15930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aspres de la Serrera">
+			<state></state>
+			<latitude>426264</latitude>
+			<longitude>16097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aspres del Sola de Nadal">
+			<state></state>
+			<latitude>425264</latitude>
+			<longitude>15264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aubaderes">
+			<state></state>
+			<latitude>425097</latitude>
+			<longitude>14930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Auvinya">
+			<state></state>
+			<latitude>424597</latitude>
+			<longitude>15097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Canillo">
+			<state></state>
+			<latitude>425766</latitude>
+			<longitude>16099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Devesa del Mas d Alins">
+			<state></state>
+			<latitude>424600</latitude>
+			<longitude>14600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drecera de Sant Marti">
+			<state></state>
+			<latitude>424933</latitude>
+			<longitude>15100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Encamp">
+			<state></state>
+			<latitude>425434</latitude>
+			<longitude>15934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Galliner">
+			<state></state>
+			<latitude>425770</latitude>
+			<longitude>14770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gargantillar">
+			<state></state>
+			<latitude>425103</latitude>
+			<longitude>16603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grau d Incles">
+			<state></state>
+			<latitude>425936</latitude>
+			<longitude>16603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grau de Coma Pedrosa">
+			<state></state>
+			<latitude>425936</latitude>
+			<longitude>14770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grau de la Molina">
+			<state></state>
+			<latitude>425436</latitude>
+			<longitude>16103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grau de les Places">
+			<state></state>
+			<latitude>425603</latitude>
+			<longitude>14770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grau del Cabrer">
+			<state></state>
+			<latitude>425770</latitude>
+			<longitude>17270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grau Roig">
+			<state></state>
+			<latitude>425436</latitude>
+			<longitude>17103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jovell">
+			<state></state>
+			<latitude>425939</latitude>
+			<longitude>16439</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juberrussa">
+			<state></state>
+			<latitude>424439</latitude>
+			<longitude>14939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juclar">
+			<state></state>
+			<latitude>426106</latitude>
+			<longitude>17273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juverri">
+			<state></state>
+			<latitude>424439</latitude>
+			<longitude>15106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Escaldes -- (State: Escaldes-Engordany)">
+			<state>Escaldes-Engordany</state>
+			<latitude>425108</latitude>
+			<longitude>15441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Madriu">
+			<state></state>
+			<latitude>425109</latitude>
+			<longitude>16109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manyat">
+			<state></state>
+			<latitude>424942</latitude>
+			<longitude>15276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marrades de Sorteny">
+			<state></state>
+			<latitude>426276</latitude>
+			<longitude>15609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marrades del Bruig">
+			<state></state>
+			<latitude>426442</latitude>
+			<longitude>15109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marrades del Siscar">
+			<state></state>
+			<latitude>425942</latitude>
+			<longitude>17276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marrades Negres">
+			<state></state>
+			<latitude>425776</latitude>
+			<longitude>17109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mas del Diumenge">
+			<state></state>
+			<latitude>425276</latitude>
+			<longitude>15442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Massolina">
+			<state></state>
+			<latitude>425109</latitude>
+			<longitude>16276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meligar d Emportona">
+			<state></state>
+			<latitude>425442</latitude>
+			<longitude>16776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mereig">
+			<state></state>
+			<latitude>425776</latitude>
+			<longitude>15942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meritxell">
+			<state></state>
+			<latitude>425609</latitude>
+			<longitude>16109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Molleres">
+			<state></state>
+			<latitude>425609</latitude>
+			<longitude>15942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monjol de Cabana Sorda">
+			<state></state>
+			<latitude>426276</latitude>
+			<longitude>16942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Montagne de l Estanyo">
+			<state></state>
+			<latitude>426109</latitude>
+			<longitude>15942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Montaup">
+			<state></state>
+			<latitude>425942</latitude>
+			<longitude>15942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Montmalus">
+			<state></state>
+			<latitude>425109</latitude>
+			<longitude>17109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Montmantell">
+			<state></state>
+			<latitude>426109</latitude>
+			<longitude>14776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nou Fonts">
+			<state></state>
+			<latitude>424777</latitude>
+			<longitude>15443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac d Anyos">
+			<state></state>
+			<latitude>425444</latitude>
+			<longitude>15444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac d Encamp">
+			<state></state>
+			<latitude>425278</latitude>
+			<longitude>16111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac d Envalira">
+			<state></state>
+			<latitude>425611</latitude>
+			<longitude>16944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac d Incles">
+			<state></state>
+			<latitude>425944</latitude>
+			<longitude>16944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac de Canillo">
+			<state></state>
+			<latitude>425778</latitude>
+			<longitude>16444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac de la Cebollera">
+			<state></state>
+			<latitude>426278</latitude>
+			<longitude>15944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac de la Pixistella">
+			<state></state>
+			<latitude>425611</latitude>
+			<longitude>15111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac de Sispony">
+			<state></state>
+			<latitude>425278</latitude>
+			<longitude>14944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac de Soldeu">
+			<state></state>
+			<latitude>425778</latitude>
+			<longitude>16778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac del Mas">
+			<state></state>
+			<latitude>425778</latitude>
+			<longitude>15111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obac dels Cortals">
+			<state></state>
+			<latitude>425278</latitude>
+			<longitude>16278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga d Encampadana">
+			<state></state>
+			<latitude>425611</latitude>
+			<longitude>16278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga d Enclar">
+			<state></state>
+			<latitude>425111</latitude>
+			<longitude>14778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga d Ensagents">
+			<state></state>
+			<latitude>425278</latitude>
+			<longitude>16444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de Coma Pedrosa">
+			<state></state>
+			<latitude>425944</latitude>
+			<longitude>14611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de Juclar">
+			<state></state>
+			<latitude>426278</latitude>
+			<longitude>17111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de l Estall Serrer">
+			<state></state>
+			<latitude>424944</latitude>
+			<longitude>16111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de la Font dels Pets">
+			<state></state>
+			<latitude>426111</latitude>
+			<longitude>14944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de la Llosada">
+			<state></state>
+			<latitude>425444</latitude>
+			<longitude>16278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de la Molina">
+			<state></state>
+			<latitude>424611</latitude>
+			<longitude>15278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de la Mollerra">
+			<state></state>
+			<latitude>426111</latitude>
+			<longitude>15278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de Redort">
+			<state></state>
+			<latitude>425611</latitude>
+			<longitude>15778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de Torradella">
+			<state></state>
+			<latitude>426111</latitude>
+			<longitude>16444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga de Vista">
+			<state></state>
+			<latitude>424944</latitude>
+			<longitude>14611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga del Bony">
+			<state></state>
+			<latitude>425111</latitude>
+			<longitude>15944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obaga dels Pradets">
+			<state></state>
+			<latitude>424944</latitude>
+			<longitude>14444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obagues dels Fenerals">
+			<state></state>
+			<latitude>425111</latitude>
+			<longitude>14611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obagueta de Canti">
+			<state></state>
+			<latitude>425778</latitude>
+			<longitude>15278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ordino">
+			<state></state>
+			<latitude>426111</latitude>
+			<longitude>15611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soldeu">
+			<state></state>
+			<latitude>425948</latitude>
+			<longitude>16782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xixerella">
+			<state></state>
+			<latitude>425620</latitude>
+			<longitude>14953</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

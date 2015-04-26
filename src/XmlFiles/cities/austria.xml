@@ -1,0 +1,1587 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Austria">
+		<city name="Amstetten -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481264</latitude>
+			<longitude>148764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Asparn an der Zaya -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>485930</latitude>
+			<longitude>165097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Attnang -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>480264</latitude>
+			<longitude>137264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Attnang-Puchheim -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>480180</latitude>
+			<longitude>137264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bad Hofgastein -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>471765</latitude>
+			<longitude>131098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bad Ischl -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>477265</latitude>
+			<longitude>136265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bad Voslau -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>479765</latitude>
+			<longitude>162098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baden -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>480265</latitude>
+			<longitude>162431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bludenz -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>471595</latitude>
+			<longitude>98265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Braunau am Inn -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>482765</latitude>
+			<longitude>130431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bregenz -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>475098</latitude>
+			<longitude>97765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cagell Joch">
+			<state></state>
+			<latitude>470430</latitude>
+			<longitude>97599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Canis Alpe -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>473266</latitude>
+			<longitude>99099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Canisfluh -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>473432</latitude>
+			<longitude>99266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carinzia -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>467599</latitude>
+			<longitude>138432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carl von Stahl Haus -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>475766</latitude>
+			<longitude>130599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carolus -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>485480</latitude>
+			<longitude>161835</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavallar -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>467099</latitude>
+			<longitude>134766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cemer -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>465099</latitude>
+			<longitude>146932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cenc -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>474432</latitude>
+			<longitude>161932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cepice -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>465766</latitude>
+			<longitude>146932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chemnitzer Hutte -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>470099</latitude>
+			<longitude>109099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cholerafriedhof -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>485516</latitude>
+			<longitude>165421</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cholerakapelle -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>483821</latitude>
+			<longitude>168132</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cholerakreuz -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>486313</latitude>
+			<longitude>162146</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chorherrn -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>482932</latitude>
+			<longitude>160932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chorinsky Klause -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>476599</latitude>
+			<longitude>135599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christen Bach -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>473599</latitude>
+			<longitude>113432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christenberg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481266</latitude>
+			<longitude>154766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christenthal -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>480266</latitude>
+			<longitude>155099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christern -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>473932</latitude>
+			<longitude>129266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christian -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>487432</latitude>
+			<longitude>138321</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christinaberg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>486266</latitude>
+			<longitude>147266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christinger -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>474432</latitude>
+			<longitude>138099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christkindl -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>480432</latitude>
+			<longitude>143932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christlbauer -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>469266</latitude>
+			<longitude>135766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christlumkopf -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>475132</latitude>
+			<longitude>116699</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christofberg -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>467099</latitude>
+			<longitude>144932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chumroten Lowen -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>471599</latitude>
+			<longitude>141266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cima di Madrizze">
+			<state></state>
+			<latitude>465766</latitude>
+			<longitude>132766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cima di Malavalle">
+			<state></state>
+			<latitude>469599</latitude>
+			<longitude>111599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cima Frugnoni">
+			<state></state>
+			<latitude>466766</latitude>
+			<longitude>124932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cima Libera">
+			<state></state>
+			<latitude>469766</latitude>
+			<longitude>111932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cima Triangolo">
+			<state></state>
+			<latitude>470766</latitude>
+			<longitude>120599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cima Vallona">
+			<state></state>
+			<latitude>466599</latitude>
+			<longitude>125599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cimba -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>470930</latitude>
+			<longitude>97930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cimpaser -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>464691</latitude>
+			<longitude>145616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cirkovce -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>466099</latitude>
+			<longitude>148099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clarahutte -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>470266</latitude>
+			<longitude>122599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clothildensaule -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>486427</latitude>
+			<longitude>163577</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cmunt -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>487766</latitude>
+			<longitude>149932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cobenzl -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482766</latitude>
+			<longitude>163266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coburger Hutte -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>473766</latitude>
+			<longitude>109432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Collalto">
+			<state></state>
+			<latitude>469099</latitude>
+			<longitude>121599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Comptonhutte -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>467043</latitude>
+			<longitude>131680</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cordon -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>475932</latitude>
+			<longitude>144432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corona Bach -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>480432</latitude>
+			<longitude>159932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corzwinkl -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>468266</latitude>
+			<longitude>139432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cottbuser Hutte -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>469766</latitude>
+			<longitude>108599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Creta della Cianevate">
+			<state></state>
+			<latitude>466099</latitude>
+			<longitude>129099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Creta di Aip">
+			<state></state>
+			<latitude>465766</latitude>
+			<longitude>132266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Creta Verde">
+			<state></state>
+			<latitude>466432</latitude>
+			<longitude>127932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crgovice -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>465932</latitude>
+			<longitude>147432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crisper Spitze -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>469432</latitude>
+			<longitude>100932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Croda Alta">
+			<state></state>
+			<latitude>470099</latitude>
+			<longitude>116432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Croda Nera">
+			<state></state>
+			<latitude>469599</latitude>
+			<longitude>111766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Croda Verde">
+			<state></state>
+			<latitude>470599</latitude>
+			<longitude>119766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Croda Vernaga">
+			<state></state>
+			<latitude>468266</latitude>
+			<longitude>107599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crvic">
+			<state></state>
+			<latitude>464932</latitude>
+			<longitude>141099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Csardahof -- (State: Burgenland)">
+			<state>Burgenland</state>
+			<latitude>480463</latitude>
+			<longitude>170788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Csatherberg -- (State: Burgenland)">
+			<state>Burgenland</state>
+			<latitude>471766</latitude>
+			<longitude>163932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deutschfeistritz -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>471933</latitude>
+			<longitude>153433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dornbirn -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>474267</latitude>
+			<longitude>97431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eisenerz -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>475434</latitude>
+			<longitude>148934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enns -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>482101</latitude>
+			<longitude>144768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Feldkirch -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>472433</latitude>
+			<longitude>96102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flachau -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>473435</latitude>
+			<longitude>134102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Freistadt -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>485102</latitude>
+			<longitude>145102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gmunden -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>479270</latitude>
+			<longitude>138103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gosing an der Mariazeller Bahn -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>478936</latitude>
+			<longitude>152936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Graz -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>470770</latitude>
+			<longitude>154603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Graz Hauptbahnhof -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>470770</latitude>
+			<longitude>154270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Graz Land -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>471436</latitude>
+			<longitude>154103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Graz Ostbahnhof -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>470603</latitude>
+			<longitude>154603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Graz Stadt -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>470770</latitude>
+			<longitude>154436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grieskirchen -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>482436</latitude>
+			<longitude>138436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halbturn -- (State: Burgenland)">
+			<state>Burgenland</state>
+			<latitude>478771</latitude>
+			<longitude>169771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hallein -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>476937</latitude>
+			<longitude>131104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hard -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>474935</latitude>
+			<longitude>96935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hirtenberg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>479271</latitude>
+			<longitude>161937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hohenems -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>473771</latitude>
+			<longitude>96935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hollabrunn -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>476271</latitude>
+			<longitude>160937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imst -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>472438</latitude>
+			<longitude>107438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innsbruck -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>472772</latitude>
+			<longitude>114105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innsbruck Land -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>472105</latitude>
+			<longitude>113438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innsbruck Stadt -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>472605</latitude>
+			<longitude>113772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jenbach -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>474106</latitude>
+			<longitude>117939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kapfenberg -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>474440</latitude>
+			<longitude>153107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaprun -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>472774</latitude>
+			<longitude>127774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirchdorf an der Krems -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>479107</latitude>
+			<longitude>141274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kitzbuhel -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>474607</latitude>
+			<longitude>123940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klagenfurt -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>466557</latitude>
+			<longitude>143374</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klagenfurt Hauptbahnhof -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>466274</latitude>
+			<longitude>143440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klagenfurt Stadt -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>466440</latitude>
+			<longitude>143107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klosterneuburg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>483107</latitude>
+			<longitude>163274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krems an der Donau -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>484274</latitude>
+			<longitude>156107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krems an der Donau Stadt -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>484107</latitude>
+			<longitude>155940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kronstorf -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>481440</latitude>
+			<longitude>144607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kufstein -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>475940</latitude>
+			<longitude>121774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laakirchen -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>479775</latitude>
+			<longitude>138275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leoben -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>469514</latitude>
+			<longitude>136197</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leoben -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>473941</latitude>
+			<longitude>151108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lienz -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>468086</latitude>
+			<longitude>128939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liezen -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>475775</latitude>
+			<longitude>142441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linz -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>483108</latitude>
+			<longitude>143108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linz Hauptbahnhof -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>482941</latitude>
+			<longitude>143108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linz Stadt -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>483108</latitude>
+			<longitude>142941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linzensei -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>468108</latitude>
+			<longitude>158775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linzer Haus -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>476608</latitude>
+			<longitude>142941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linzerod -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>480941</latitude>
+			<longitude>145108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linzesgruben -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>486583</latitude>
+			<longitude>161922</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lustenau -- (State: Vorarlberg)">
+			<state>Vorarlberg</state>
+			<latitude>474439</latitude>
+			<longitude>96608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mauerkirchen -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>481942</latitude>
+			<longitude>131442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mauthausen -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>482442</latitude>
+			<longitude>145276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Melk -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>482442</latitude>
+			<longitude>153276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mittersill -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>472776</latitude>
+			<longitude>124942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ochsenburg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481444</latitude>
+			<longitude>156444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parndorf -- (State: Burgenland)">
+			<state>Burgenland</state>
+			<latitude>479945</latitude>
+			<longitude>168612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Perjen -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>471612</latitude>
+			<longitude>105779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quadratsch -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>471446</latitude>
+			<longitude>105113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quanten -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>486757</latitude>
+			<longitude>162349</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarter of the Inn -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>482613</latitude>
+			<longitude>132613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quechenberg -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>475446</latitude>
+			<longitude>134113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quen -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>477280</latitude>
+			<longitude>145280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queracker -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>487132</latitude>
+			<longitude>164330</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Querlstein -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>476280</latitude>
+			<longitude>141946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Querwarten -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>487424</latitude>
+			<longitude>161610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quilk -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>475113</latitude>
+			<longitude>141613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quiren -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>486302</latitude>
+			<longitude>166999</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quirl -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>470446</latitude>
+			<longitude>122780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ried im Innkreis -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>482281</latitude>
+			<longitude>135114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saalfelden am Steinernen Meer -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>474282</latitude>
+			<longitude>128615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salzberg -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>476948</latitude>
+			<longitude>136615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salzburg">
+			<state></state>
+			<latitude>478115</latitude>
+			<longitude>130448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salzburg Alps">
+			<state></state>
+			<latitude>476782</latitude>
+			<longitude>128448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salzburg Hauptbahnhof -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>476448</latitude>
+			<longitude>130448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salzburg Land -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>477948</latitude>
+			<longitude>131782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salzburg Stadt -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>477782</latitude>
+			<longitude>130615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salzburger">
+			<state></state>
+			<latitude>477282</latitude>
+			<longitude>130115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sankt Polten -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>482115</latitude>
+			<longitude>156448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sankt Polten Stadt -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>482115</latitude>
+			<longitude>156282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schwaz -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>473448</latitude>
+			<longitude>117115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schwertberg -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>482782</latitude>
+			<longitude>145948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Semmering -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>476448</latitude>
+			<longitude>158282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="St. John s im Pougau -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>473615</latitude>
+			<longitude>132115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Steiermark">
+			<state></state>
+			<latitude>472615</latitude>
+			<longitude>151782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Steyr -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>480448</latitude>
+			<longitude>144282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockerau -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>483948</latitude>
+			<longitude>162282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stronsdorf -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>486615</latitude>
+			<longitude>162948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stronsdorfer Graben -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>487018</latitude>
+			<longitude>162804</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tamsweg -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>471449</latitude>
+			<longitude>138116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Telfs -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>473116</latitude>
+			<longitude>110783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Traismauer -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>483616</latitude>
+			<longitude>157449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Velden am Worthersee -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>466279</latitude>
+			<longitude>140576</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vienna -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482118</latitude>
+			<longitude>163785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vienna-International-Center -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482471</latitude>
+			<longitude>164265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villach -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>466221</latitude>
+			<longitude>138676</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villach Stadt -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>465951</latitude>
+			<longitude>138118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vocklabruck -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>480285</latitude>
+			<longitude>136618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vorarlberg">
+			<state></state>
+			<latitude>472618</latitude>
+			<longitude>99285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wels -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>481786</latitude>
+			<longitude>140452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>482286</latitude>
+			<longitude>163952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Aspangbahnhof -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>481952</latitude>
+			<longitude>164119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Brigittenau -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482450</latitude>
+			<longitude>163950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Donaukaibahnhof -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482119</latitude>
+			<longitude>164452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Franz-Josefs-Bahnhof -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482450</latitude>
+			<longitude>163786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Kueniglberg -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>481952</latitude>
+			<longitude>162952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Nordbahnhof -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482327</latitude>
+			<longitude>164061</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Nordwestbahnhof -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482452</latitude>
+			<longitude>163952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Ostbahnhof -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>481952</latitude>
+			<longitude>163952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Sudbahnhof -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>481988</latitude>
+			<longitude>163927</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien Westbahnhof -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482086</latitude>
+			<longitude>163491</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien-Gersthof -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482452</latitude>
+			<longitude>163286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien-Nussdorf -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>482619</latitude>
+			<longitude>163786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien-Rannersdorf -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481286</latitude>
+			<longitude>164786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wien-Sulz -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481119</latitude>
+			<longitude>161452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienau -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>485119</latitude>
+			<longitude>147286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiener Acker -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>484055</latitude>
+			<longitude>167936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiener Berg -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>481755</latitude>
+			<longitude>163602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiener Hohenweg -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>470452</latitude>
+			<longitude>127286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiener Neudorf -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>480786</latitude>
+			<longitude>163286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiener Neustadt -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>478119</latitude>
+			<longitude>162619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiener Weg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>482652</latitude>
+			<longitude>167427</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerberg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>482119</latitude>
+			<longitude>160952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerberger -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>481702</latitude>
+			<longitude>163580</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerblick -- (State: Wien)">
+			<state>Wien</state>
+			<latitude>481952</latitude>
+			<longitude>162619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerbruck -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>478619</latitude>
+			<longitude>153286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerfall -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>475786</latitude>
+			<longitude>132786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerherberg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>480619</latitude>
+			<longitude>165619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerhohe -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>480619</latitude>
+			<longitude>133286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienering -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>484619</latitude>
+			<longitude>135119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerleiten -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>488202</latitude>
+			<longitude>156369</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienern -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>481619</latitude>
+			<longitude>131619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienersdorf -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>480286</latitude>
+			<longitude>162952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerwald -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481119</latitude>
+			<longitude>161286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienerwaldsee -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481952</latitude>
+			<longitude>161286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienings -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>488286</latitude>
+			<longitude>154119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wieningsbach -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>488272</latitude>
+			<longitude>154466</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wieningsberg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>488119</latitude>
+			<longitude>153786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wientalwasserwerk -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481952</latitude>
+			<longitude>161452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wienzierl -- (State: Oberosterreich)">
+			<state>Oberosterreich</state>
+			<latitude>482619</latitude>
+			<longitude>146119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilhelmsburg -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481119</latitude>
+			<longitude>156119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Worgl -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>474952</latitude>
+			<longitude>120786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xaveriberg -- (State: Karnten)">
+			<state>Karnten</state>
+			<latitude>467239</latitude>
+			<longitude>127570</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xixsee -- (State: Burgenland)">
+			<state>Burgenland</state>
+			<latitude>477731</latitude>
+			<longitude>168562</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ybbs -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481788</latitude>
+			<longitude>151121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ybbs an der Donau -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481788</latitude>
+			<longitude>150954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ybbsbachamt -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>479788</latitude>
+			<longitude>150288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ybbsitz -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>479454</latitude>
+			<longitude>148954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ybbstaler Hutte -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>478288</latitude>
+			<longitude>150288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ysper -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>482954</latitude>
+			<longitude>150621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ysperdorf -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>481954</latitude>
+			<longitude>150121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ysperklamm -- (State: Niederosterreich)">
+			<state>Niederosterreich</state>
+			<latitude>483621</latitude>
+			<longitude>150788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yxner -- (State: Steiermark)">
+			<state>Steiermark</state>
+			<latitude>474121</latitude>
+			<longitude>136121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zell am See -- (State: Salzburg)">
+			<state>Salzburg</state>
+			<latitude>473289</latitude>
+			<longitude>127955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zell am Ziller -- (State: Tirol)">
+			<state>Tirol</state>
+			<latitude>472455</latitude>
+			<longitude>118955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

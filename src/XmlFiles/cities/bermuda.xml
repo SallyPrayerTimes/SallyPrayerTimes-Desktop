@@ -1,0 +1,2000 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bermuda">
+		<city name="Abbot s Cliff -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323430</latitude>
+			<longitude>-647236</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abbot s Hill -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323511</latitude>
+			<longitude>-647142</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Achilles Bay -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>324000</latitude>
+			<longitude>-646661</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agassiz Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322991</latitude>
+			<longitude>-648047</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albanys Point -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323244</latitude>
+			<longitude>-647061</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albuoy Point -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323003</latitude>
+			<longitude>-647772</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alexandra Battery -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323900</latitude>
+			<longitude>-646550</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alpha Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322939</latitude>
+			<longitude>-648225</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Angle Beach -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322630</latitude>
+			<longitude>-648078</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bartram Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323856</latitude>
+			<longitude>-646838</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beebe Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322998</latitude>
+			<longitude>-648027</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bermuda Great Reef -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323431</latitude>
+			<longitude>-648235</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bermuda Naval Air Station -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323754</latitude>
+			<longitude>-646705</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bluck Point -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323090</latitude>
+			<longitude>-648046</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boat Rock -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322567</latitude>
+			<longitude>-648274</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boaz Island -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323184</latitude>
+			<longitude>-648433</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boiling Hole -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322937</latitude>
+			<longitude>-648608</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bond Bay -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>323017</latitude>
+			<longitude>-647666</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bowen Point -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323429</latitude>
+			<longitude>-647324</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brangman s Fort -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323520</latitude>
+			<longitude>-646580</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brooks Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323812</latitude>
+			<longitude>-646655</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buck Island -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322667</latitude>
+			<longitude>-648491</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burchall Cove -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323467</latitude>
+			<longitude>-647302</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burgess Point -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323748</latitude>
+			<longitude>-647049</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burrows Hill -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323704</latitude>
+			<longitude>-646585</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burt Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322851</latitude>
+			<longitude>-648158</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burton Bay -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323098</latitude>
+			<longitude>-647902</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Butterfield Rock -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322979</latitude>
+			<longitude>-647930</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Butts Beach -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322623</latitude>
+			<longitude>-648094</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cambridge Beaches -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323182</latitude>
+			<longitude>-648582</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cashew City -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323802</latitude>
+			<longitude>-646445</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavello Bay -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323071</latitude>
+			<longitude>-648498</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chaddock Bar -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322432</latitude>
+			<longitude>-648901</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chelston -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322935</latitude>
+			<longitude>-647607</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cock Rock Cut -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323552</latitude>
+			<longitude>-646570</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Commonland Point -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323402</latitude>
+			<longitude>-647265</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cove Point -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323727</latitude>
+			<longitude>-646404</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Darrell Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322850</latitude>
+			<longitude>-648111</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Devil s Kitchen -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323328</latitude>
+			<longitude>-648303</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Devils Flats -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>324267</latitude>
+			<longitude>-648233</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Devonshire">
+			<state></state>
+			<latitude>323128</latitude>
+			<longitude>-647458</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Devonshire Bay -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323097</latitude>
+			<longitude>-647350</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Devonshire Dock -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323178</latitude>
+			<longitude>-647622</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Devonshire Marsh -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323186</latitude>
+			<longitude>-647444</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dockyard Point -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323161</latitude>
+			<longitude>-647736</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doe Bay -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323017</latitude>
+			<longitude>-647458</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ducking Stool -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323164</latitude>
+			<longitude>-647736</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dunscombe Rocks -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323153</latitude>
+			<longitude>-647833</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dyer Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322961</latitude>
+			<longitude>-648003</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East Whale Bay -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322601</latitude>
+			<longitude>-648152</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elbow Bay -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322820</latitude>
+			<longitude>-647668</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elephant Head -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322648</latitude>
+			<longitude>-648041</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ely s Harbour -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322932</latitude>
+			<longitude>-648705</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Epsilon Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322909</latitude>
+			<longitude>-648127</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eta Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322945</latitude>
+			<longitude>-648091</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Evans Bay -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322698</latitude>
+			<longitude>-648552</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Evans Pond -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322707</latitude>
+			<longitude>-648571</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fairyland Creek -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323069</latitude>
+			<longitude>-647934</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fern Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322935</latitude>
+			<longitude>-648062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ferry Point -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323144</latitude>
+			<longitude>-648490</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ferry Point -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323721</latitude>
+			<longitude>-647062</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ferry Reach -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323771</latitude>
+			<longitude>-646915</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fish Hook Island -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322594</latitude>
+			<longitude>-648159</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Five Fathom Hole -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323935</latitude>
+			<longitude>-646231</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flatt s Inlet -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323335</latitude>
+			<longitude>-647323</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flora Point -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323185</latitude>
+			<longitude>-648601</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Foot of Crow Lane -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323033</latitude>
+			<longitude>-647634</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Albert -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>323969</latitude>
+			<longitude>-646631</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Cunningham -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323844</latitude>
+			<longitude>-646490</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort George -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>323905</latitude>
+			<longitude>-646726</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Hamilton -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323049</latitude>
+			<longitude>-647673</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Hill Bay -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323583</latitude>
+			<longitude>-646454</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Prospect -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323094</latitude>
+			<longitude>-647554</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Saint Catherine -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>324008</latitude>
+			<longitude>-646648</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Scaur -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322952</latitude>
+			<longitude>-648620</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Victoria -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>323969</latitude>
+			<longitude>-646656</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Freeport -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323319</latitude>
+			<longitude>-648248</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frith Point -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322944</latitude>
+			<longitude>-647815</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gamma Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322914</latitude>
+			<longitude>-648161</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gates Fort -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323895</latitude>
+			<longitude>-646530</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gibb s Hill -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322628</latitude>
+			<longitude>-648244</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gibbet Islet -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323334</latitude>
+			<longitude>-647339</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gibbons Bay -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323322</latitude>
+			<longitude>-647341</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gilbert Hill -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323211</latitude>
+			<longitude>-647294</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gill Licker Shoal -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323453</latitude>
+			<longitude>-647061</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glebe Hill -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322775</latitude>
+			<longitude>-648569</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goat Island -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323064</latitude>
+			<longitude>-647969</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goat Islands -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323650</latitude>
+			<longitude>-646536</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Godet Island -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322928</latitude>
+			<longitude>-647925</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Godet s Passage -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322900</latitude>
+			<longitude>-647905</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goose Island -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323075</latitude>
+			<longitude>-647994</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grace Island -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322836</latitude>
+			<longitude>-648247</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Granaway Deep -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322884</latitude>
+			<longitude>-647997</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grape Bay -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322914</latitude>
+			<longitude>-647580</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grassy Bay -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323164</latitude>
+			<longitude>-647741</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grassy Bay -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323339</latitude>
+			<longitude>-648141</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gravelly Bay -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323278</latitude>
+			<longitude>-647036</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Great Oswego Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323770</latitude>
+			<longitude>-646514</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Great Scaur -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323689</latitude>
+			<longitude>-646430</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Great Whale Point -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322581</latitude>
+			<longitude>-648208</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Green Bay -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323370</latitude>
+			<longitude>-647283</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gurnet Head -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323567</latitude>
+			<longitude>-646430</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="H.M.S. Malabar -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323312</latitude>
+			<longitude>-648307</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haggis Island -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322710</latitude>
+			<longitude>-648171</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamilton">
+			<state></state>
+			<latitude>323043</latitude>
+			<longitude>-647732</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamilton Harbour -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>322985</latitude>
+			<longitude>-647807</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamilton Island">
+			<state></state>
+			<latitude>323126</latitude>
+			<longitude>-647490</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamilton Parish -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323526</latitude>
+			<longitude>-647179</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harrington Hundreds -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323290</latitude>
+			<longitude>-647185</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harrington Sound">
+			<state></state>
+			<latitude>323410</latitude>
+			<longitude>-647115</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harris Bay -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323257</latitude>
+			<longitude>-647249</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hawkins Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322965</latitude>
+			<longitude>-648182</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Head of the Lane -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322990</latitude>
+			<longitude>-648049</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hen Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323862</latitude>
+			<longitude>-646613</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Higgs Bay -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323807</latitude>
+			<longitude>-646677</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Higgs Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323876</latitude>
+			<longitude>-646529</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hinson Bay -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323176</latitude>
+			<longitude>-647657</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hinson Hall -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323240</latitude>
+			<longitude>-647332</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hog Bay -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322815</latitude>
+			<longitude>-648696</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hogfish Bay -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323182</latitude>
+			<longitude>-647963</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hogfish Cut -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322604</latitude>
+			<longitude>-648624</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holly Hill -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323279</latitude>
+			<longitude>-647307</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horn Rock -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323535</latitude>
+			<longitude>-646560</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horseshoe Bay -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322812</latitude>
+			<longitude>-648460</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horseshoe Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323876</latitude>
+			<longitude>-646543</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hungry Bay -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322993</latitude>
+			<longitude>-647502</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hunt Island -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322690</latitude>
+			<longitude>-648243</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Idol Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323558</latitude>
+			<longitude>-646509</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inner Island -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323211</latitude>
+			<longitude>-648537</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inner Pear Rocks -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323608</latitude>
+			<longitude>-646426</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irresistible Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322924</latitude>
+			<longitude>-648026</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isle of Devils">
+			<state></state>
+			<latitude>323149</latitude>
+			<longitude>-647412</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jennings Bay -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322678</latitude>
+			<longitude>-648530</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jobson s Point -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322998</latitude>
+			<longitude>-648661</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kappa Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322965</latitude>
+			<longitude>-648124</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kappa Rock -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322976</latitude>
+			<longitude>-648151</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kerosene Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323838</latitude>
+			<longitude>-646704</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kindley Field -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323779</latitude>
+			<longitude>-646762</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="King s Point -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323204</latitude>
+			<longitude>-648546</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="King s Wharf -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323304</latitude>
+			<longitude>-648246</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Knapton Hill -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323274</latitude>
+			<longitude>-647126</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lambda Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322997</latitude>
+			<longitude>-648203</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lapstone -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323194</latitude>
+			<longitude>-648098</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leamington Caves -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323536</latitude>
+			<longitude>-646978</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lefroy Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>323016</latitude>
+			<longitude>-648011</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Little Crumb Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322694</latitude>
+			<longitude>-648220</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Little Oswego Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323783</latitude>
+			<longitude>-646500</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Little Scaur -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323669</latitude>
+			<longitude>-646448</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Little Turtle Bay -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322827</latitude>
+			<longitude>-648020</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Little Watford Bridge -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323180</latitude>
+			<longitude>-648448</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lobster Flat -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322727</latitude>
+			<longitude>-648814</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Long Bay -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323614</latitude>
+			<longitude>-646445</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Long Bay -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323155</latitude>
+			<longitude>-648636</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Long Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323730</latitude>
+			<longitude>-646650</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Loyal Hill -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323227</latitude>
+			<longitude>-647403</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lusher Hill -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322750</latitude>
+			<longitude>-647956</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malabar Island -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323226</latitude>
+			<longitude>-648413</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mangrove Bay -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323170</latitude>
+			<longitude>-648535</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marley Beach -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322756</latitude>
+			<longitude>-647841</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Melrose -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323742</latitude>
+			<longitude>-646622</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mermaid Beach -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322720</latitude>
+			<longitude>-647916</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Methelin Bay -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323109</latitude>
+			<longitude>-648672</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mill Creek -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323123</latitude>
+			<longitude>-647949</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mill Point -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323115</latitude>
+			<longitude>-647985</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Millhouse Bay -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323526</latitude>
+			<longitude>-646999</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mills Breaker Ledge -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>324109</latitude>
+			<longitude>-646058</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mosquito Hill -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323278</latitude>
+			<longitude>-647210</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mount Pleasant -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322851</latitude>
+			<longitude>-647727</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mowbray Island -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323031</latitude>
+			<longitude>-648008</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mullet Bay -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323859</latitude>
+			<longitude>-646822</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Murray s Anchorage -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323948</latitude>
+			<longitude>-647097</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Navy Channel -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322804</latitude>
+			<longitude>-648304</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nelly Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322952</latitude>
+			<longitude>-648137</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nelson Bay -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323185</latitude>
+			<longitude>-648057</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neptunus Rock -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323571</latitude>
+			<longitude>-646426</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nonsuch Bay -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323571</latitude>
+			<longitude>-646529</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nonsuch Cut -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323568</latitude>
+			<longitude>-646551</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nonsuch Scaur -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323593</latitude>
+			<longitude>-646496</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North Basin -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323352</latitude>
+			<longitude>-648229</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North Channel">
+			<state></state>
+			<latitude>324110</latitude>
+			<longitude>-647321</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North s Point -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323238</latitude>
+			<longitude>-647109</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North Shore Village -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323174</latitude>
+			<longitude>-647626</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Castle -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323444</latitude>
+			<longitude>-646556</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Shoal -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323397</latitude>
+			<longitude>-647097</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Omega Rocks -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>323008</latitude>
+			<longitude>-648222</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="One Rock Passage -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>323014</latitude>
+			<longitude>-648014</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="One Tree Island -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323203</latitude>
+			<longitude>-648525</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ordnance Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323911</latitude>
+			<longitude>-646656</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Outer Island -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323233</latitude>
+			<longitude>-648508</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paget Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323865</latitude>
+			<longitude>-646494</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paget Marsh -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322962</latitude>
+			<longitude>-647657</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paget Parish -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322895</latitude>
+			<longitude>-647705</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Partridge Island -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323093</latitude>
+			<longitude>-647982</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paynters Hill -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323487</latitude>
+			<longitude>-646910</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pear Rock -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323598</latitude>
+			<longitude>-646399</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pearl Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>323026</latitude>
+			<longitude>-648263</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pearman Hill -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323484</latitude>
+			<longitude>-647219</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peel Rock -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322631</latitude>
+			<longitude>-648085</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peel Rock Cove -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322634</latitude>
+			<longitude>-648082</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pembroke Marsh -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323131</latitude>
+			<longitude>-647694</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pembroke Parish -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323106</latitude>
+			<longitude>-647816</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pendle Hill -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323812</latitude>
+			<longitude>-646891</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Perot Island -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322715</latitude>
+			<longitude>-648202</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Phillips Cove -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323187</latitude>
+			<longitude>-648002</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pidgeon Rocks -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323595</latitude>
+			<longitude>-647202</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pilchard Bay -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322887</latitude>
+			<longitude>-648713</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plaice Point -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323154</latitude>
+			<longitude>-648069</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Point Shares -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323048</latitude>
+			<longitude>-647935</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Royal Cove -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322615</latitude>
+			<longitude>-648124</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Post Office Bar -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323829</latitude>
+			<longitude>-646627</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Powder Hole -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323865</latitude>
+			<longitude>-646627</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prudden Bay -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322951</latitude>
+			<longitude>-647810</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rabbit Island -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323439</latitude>
+			<longitude>-647189</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Red Hole -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>323017</latitude>
+			<longitude>-647647</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Red Hole -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323781</latitude>
+			<longitude>-646219</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Redshank Islands -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323386</latitude>
+			<longitude>-647258</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Regatta Island -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323236</latitude>
+			<longitude>-648322</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reid Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322975</latitude>
+			<longitude>-647878</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Riddles Bay -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322733</latitude>
+			<longitude>-648158</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Robert s Hill -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323808</latitude>
+			<longitude>-646630</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Robinson Bay -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323214</latitude>
+			<longitude>-647533</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rocky Bay -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323092</latitude>
+			<longitude>-647344</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rogue s Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323758</latitude>
+			<longitude>-646975</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rushy Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323489</latitude>
+			<longitude>-646625</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint George">
+			<state></state>
+			<latitude>323957</latitude>
+			<longitude>-646649</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salt Kettle Bay -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>322934</latitude>
+			<longitude>-647829</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandys">
+			<state></state>
+			<latitude>323034</latitude>
+			<longitude>-648607</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seon Point -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323515</latitude>
+			<longitude>-647271</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shelly Bay Shoal -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323532</latitude>
+			<longitude>-647485</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Southampton Parish -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322623</latitude>
+			<longitude>-648449</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stag Rocks -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323248</latitude>
+			<longitude>-648174</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stokes Point -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323840</latitude>
+			<longitude>-646771</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stonehole Bay -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322665</latitude>
+			<longitude>-648021</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sugar Cane Point -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323162</latitude>
+			<longitude>-648493</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sunnyside -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323379</latitude>
+			<longitude>-647296</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tatem Point -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323055</latitude>
+			<longitude>-648512</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tepping Shoals -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323638</latitude>
+			<longitude>-647201</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Camber -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323377</latitude>
+			<longitude>-648228</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Causeway -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323672</latitude>
+			<longitude>-646965</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Chimneys">
+			<state></state>
+			<latitude>324283</latitude>
+			<longitude>-648051</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Cove -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323741</latitude>
+			<longitude>-646387</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Crawl -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323524</latitude>
+			<longitude>-647270</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Flatts Village -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323327</latitude>
+			<longitude>-647253</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Lagoon -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323255</latitude>
+			<longitude>-648337</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Narrows -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323897</latitude>
+			<longitude>-646378</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Quintons -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323249</latitude>
+			<longitude>-648426</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Rocky Partners">
+			<state></state>
+			<latitude>323949</latitude>
+			<longitude>-647884</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Scaur -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322913</latitude>
+			<longitude>-648659</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Stags -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323458</latitude>
+			<longitude>-647320</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Three Hill Shoals -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>324283</latitude>
+			<longitude>-647217</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trimingham Hill -- (State: Paget)">
+			<state>Paget</state>
+			<latitude>323010</latitude>
+			<longitude>-647576</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trott s Bay -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323377</latitude>
+			<longitude>-646895</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trott s Pond -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323397</latitude>
+			<longitude>-646912</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trunk Island -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323449</latitude>
+			<longitude>-647159</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Two Rocks Pass -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323030</latitude>
+			<longitude>-647995</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Two Way Shoal -- (State: Pembroke)">
+			<state>Pembroke</state>
+			<latitude>323202</latitude>
+			<longitude>-647901</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tynes Bay -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323208</latitude>
+			<longitude>-647562</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaughan s Bay -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323815</latitude>
+			<longitude>-646449</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Verrill Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>323015</latitude>
+			<longitude>-648018</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waller s Bay -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323480</latitude>
+			<longitude>-646684</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waller s Point -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323480</latitude>
+			<longitude>-646698</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walsingham Bay -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323569</latitude>
+			<longitude>-646973</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walsingham Caves -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323600</latitude>
+			<longitude>-646984</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warwick">
+			<state></state>
+			<latitude>322777</latitude>
+			<longitude>-647953</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warwick Camp -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322691</latitude>
+			<longitude>-648042</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warwick Long Bay -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322694</latitude>
+			<longitude>-647970</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warwick Pond -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322797</latitude>
+			<longitude>-647923</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Water Rocks -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322650</latitude>
+			<longitude>-648064</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Water Rocks Beach -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322652</latitude>
+			<longitude>-648059</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Watford Bridge -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323166</latitude>
+			<longitude>-648464</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Watford Island -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>323180</latitude>
+			<longitude>-648448</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Watling Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322969</latitude>
+			<longitude>-647962</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Watlington Point -- (State: Devonshire)">
+			<state>Devonshire</state>
+			<latitude>323119</latitude>
+			<longitude>-647381</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Whale Bay -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322669</latitude>
+			<longitude>-648620</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Westcott Island -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323741</latitude>
+			<longitude>-646600</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whale Island -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322908</latitude>
+			<longitude>-648695</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whalebone Bay -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323763</latitude>
+			<longitude>-647020</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whalers Islands -- (State: Saint George s)">
+			<state>Saint George s</state>
+			<latitude>323855</latitude>
+			<longitude>-646537</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="White Flats">
+			<state></state>
+			<latitude>323952</latitude>
+			<longitude>-648048</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="White Point -- (State: Smith s)">
+			<state>Smith s</state>
+			<latitude>323302</latitude>
+			<longitude>-647014</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="White Shoal -- (State: Hamilton)">
+			<state>Hamilton</state>
+			<latitude>323511</latitude>
+			<longitude>-647034</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wreck Bay -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322938</latitude>
+			<longitude>-648748</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wreck Hill -- (State: Sandys)">
+			<state>Sandys</state>
+			<latitude>322919</latitude>
+			<longitude>-648737</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yawning Rock -- (State: Southampton)">
+			<state>Southampton</state>
+			<latitude>322588</latitude>
+			<longitude>-648243</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeta Island -- (State: Warwick)">
+			<state>Warwick</state>
+			<latitude>322930</latitude>
+			<longitude>-648084</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,3967 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Sweden">
+		<city name="Alingsas -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>579597</latitude>
+			<longitude>125764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almehult -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>565430</latitude>
+			<longitude>147430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almhult -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>565597</latitude>
+			<longitude>141430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almhults Kommun -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>565597</latitude>
+			<longitude>141264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alstermo -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>569764</latitude>
+			<longitude>156430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alvesta -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>569097</latitude>
+			<longitude>145597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alvesta Kommun -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>569264</latitude>
+			<longitude>145097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alvsbyn -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>656430</latitude>
+			<longitude>210764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alvsbyns Kommun -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>657097</latitude>
+			<longitude>210097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alvsjo -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592930</latitude>
+			<longitude>180097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amal -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>584764</latitude>
+			<longitude>125930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aneby -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>578430</latitude>
+			<longitude>148097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ange -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>625264</latitude>
+			<longitude>156264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ange -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>636097</latitude>
+			<longitude>132264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Angered -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577930</latitude>
+			<longitude>121097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arboga Kommun -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>593930</latitude>
+			<longitude>158430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arebro -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>570097</latitude>
+			<longitude>151597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arlanda -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>596597</latitude>
+			<longitude>179430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arlov -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>556430</latitude>
+			<longitude>130764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arvika -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>596764</latitude>
+			<longitude>126430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arvika Kommun -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>597764</latitude>
+			<longitude>126597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Asarum -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>561930</latitude>
+			<longitude>148430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aseda -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>571764</latitude>
+			<longitude>153430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Atvidaberg -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>582097</latitude>
+			<longitude>160097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Avesta -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>601930</latitude>
+			<longitude>161264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Avesta Kommun -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>602264</latitude>
+			<longitude>163430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Avesta Storfors -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>601597</latitude>
+			<longitude>161764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Balsta -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>595931</latitude>
+			<longitude>175098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergshamra -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>596445</latitude>
+			<longitude>186379</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bjuv -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>560931</latitude>
+			<longitude>129098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bjuvs Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>560931</latitude>
+			<longitude>129265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blackeberg -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593598</latitude>
+			<longitude>178765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blekinge -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>563265</latitude>
+			<longitude>150931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boden -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>658098</latitude>
+			<longitude>216931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bodens Kommun -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>658431</latitude>
+			<longitude>216765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bohus -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>578598</latitude>
+			<longitude>120265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boliden -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>648765</latitude>
+			<longitude>203931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bollnas -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>613598</latitude>
+			<longitude>163765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bollnas Kommun -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>613598</latitude>
+			<longitude>164431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boras -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577265</latitude>
+			<longitude>129265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boras Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577598</latitude>
+			<longitude>129765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boras Viared -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577098</latitude>
+			<longitude>128431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borasen -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>580598</latitude>
+			<longitude>124431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borasgarden -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>590431</latitude>
+			<longitude>114265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borasjon -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>589765</latitude>
+			<longitude>145598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borasstugan -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>663431</latitude>
+			<longitude>162765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borlange -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>604265</latitude>
+			<longitude>155098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borlange Kommun -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>604765</latitude>
+			<longitude>154265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Botkyrka Kommun -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>591765</latitude>
+			<longitude>178931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boxholm -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>581765</latitude>
+			<longitude>150098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bracke -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>627598</latitude>
+			<longitude>154265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bracke -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>631765</latitude>
+			<longitude>183931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bracke -- (State: Hallands Lan)">
+			<state>Hallands Lan</state>
+			<latitude>574098</latitude>
+			<longitude>122931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bracke -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>562598</latitude>
+			<longitude>125431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bracke -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>579931</latitude>
+			<longitude>116765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bracke Kommun -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>627931</latitude>
+			<longitude>156765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Broby -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>562598</latitude>
+			<longitude>140931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campsgrund -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>607099</latitude>
+			<longitude>178766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cape Smyge -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>553599</latitude>
+			<longitude>133932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Capella Ecumenica -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>584266</latitude>
+			<longitude>167266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carlsborg -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>658099</latitude>
+			<longitude>232932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carlsdal -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>599266</latitude>
+			<longitude>145932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carlsvik -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>623985</latitude>
+			<longitude>174221</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cattegat">
+			<state></state>
+			<latitude>570099</latitude>
+			<longitude>110099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ceamicohkat -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>680599</latitude>
+			<longitude>192766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cederslund -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>584099</latitude>
+			<longitude>116599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Centralhamnen -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>560432</latitude>
+			<longitude>127099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charlottenberg -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>598932</latitude>
+			<longitude>122932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charlottenborg -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>560599</latitude>
+			<longitude>129432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charlottenborg -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>585432</latitude>
+			<longitude>150766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charlottenburg -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>594432</latitude>
+			<longitude>165266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charlottendal -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>578766</latitude>
+			<longitude>132766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charlottendal -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>601266</latitude>
+			<longitude>182432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charlottenlund -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>554432</latitude>
+			<longitude>136932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Citadellet -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>558766</latitude>
+			<longitude>128266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Citadellhamnen -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>556099</latitude>
+			<longitude>129932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clemensnas -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>647266</latitude>
+			<longitude>211432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coalmmejavri -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>688766</latitude>
+			<longitude>205266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cokkagaisse">
+			<state></state>
+			<latitude>666766</latitude>
+			<longitude>157266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Covccujavri -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>685099</latitude>
+			<longitude>206266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuolakjavri -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>678766</latitude>
+			<longitude>180432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cyprusgrundet -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>657932</latitude>
+			<longitude>227766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dala Jarna -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>605767</latitude>
+			<longitude>143933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Degerfors -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>592433</latitude>
+			<longitude>144433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dingle -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>585433</latitude>
+			<longitude>115767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ed -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>591768</latitude>
+			<longitude>128432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ed -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>589268</latitude>
+			<longitude>119268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ekenassjon -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>575101</latitude>
+			<longitude>150101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eksjo -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>576768</latitude>
+			<longitude>149601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eksjo Kommun -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>576768</latitude>
+			<longitude>152101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmaboda -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>566101</latitude>
+			<longitude>156268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enkoping -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>600434</latitude>
+			<longitude>182268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enkopings Kommun -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>596768</latitude>
+			<longitude>171101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eskilstuna -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>593601</latitude>
+			<longitude>167101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eskilstuna Kommun -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>593434</latitude>
+			<longitude>164934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eskilstunaan -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>594601</latitude>
+			<longitude>164934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eslov -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>558434</latitude>
+			<longitude>133268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eslovs Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>558601</latitude>
+			<longitude>133268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fagersta -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>600102</latitude>
+			<longitude>157935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fagersta -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>605435</latitude>
+			<longitude>163435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fagersta Kommun -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>599769</latitude>
+			<longitude>158435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falkenberg -- (State: Hallands Lan)">
+			<state>Hallands Lan</state>
+			<latitude>569269</latitude>
+			<longitude>124435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falkenbergs Kommun -- (State: Hallands Lan)">
+			<state>Hallands Lan</state>
+			<latitude>569102</latitude>
+			<longitude>125435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falkoping -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>581769</latitude>
+			<longitude>135602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falkopings Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>582102</latitude>
+			<longitude>135269</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falsterbo -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>576602</latitude>
+			<longitude>163935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falun -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>606102</latitude>
+			<longitude>156435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faluns Kommun -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>606102</latitude>
+			<longitude>156769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fargelanda -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>585769</latitude>
+			<longitude>120102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farsta -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592602</latitude>
+			<longitude>180935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Filipstad -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>597269</latitude>
+			<longitude>141769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Finspang -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>587269</latitude>
+			<longitude>157935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fittja -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592602</latitude>
+			<longitude>178769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flemmingsberg -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>598102</latitude>
+			<longitude>186769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flen -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>590769</latitude>
+			<longitude>165935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Forshaga Kommun -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>595435</latitude>
+			<longitude>134769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fosie -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>555769</latitude>
+			<longitude>130102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frovi -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>594769</latitude>
+			<longitude>153769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gadeberg -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>575103</latitude>
+			<longitude>145936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gallivare -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>671436</latitude>
+			<longitude>208270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gavle -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>587436</latitude>
+			<longitude>166936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gavle -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>606770</latitude>
+			<longitude>171770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gavle Kommun -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>607103</latitude>
+			<longitude>171770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gavle Sandviken -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>605936</latitude>
+			<longitude>169436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gavleborgs Lan">
+			<state></state>
+			<latitude>615103</latitude>
+			<longitude>162603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Getaberga -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>562436</latitude>
+			<longitude>141270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Getaborg -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>585936</latitude>
+			<longitude>169103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Getbergstjarn -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>606936</latitude>
+			<longitude>146770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gimo -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>601436</latitude>
+			<longitude>181270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gislaved -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>573103</latitude>
+			<longitude>135436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gislaveds Kommun -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>572603</latitude>
+			<longitude>134603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gnosjo -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>573770</latitude>
+			<longitude>137436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goberga -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>580270</latitude>
+			<longitude>148603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goberget -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>601103</latitude>
+			<longitude>153436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goteborg -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>570436</latitude>
+			<longitude>164686</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goteborg and Bohus -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>585103</latitude>
+			<longitude>115103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goteborg Landvetter -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>576770</latitude>
+			<longitude>122770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goteborg Save -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577770</latitude>
+			<longitude>118770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goteborg-Tingstad -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577436</latitude>
+			<longitude>120103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goteborg-Torslanda -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577186</latitude>
+			<longitude>117961</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goteborgs Hamn -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577103</latitude>
+			<longitude>119603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goteborgs Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577103</latitude>
+			<longitude>119270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gotene -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>585436</latitude>
+			<longitude>134936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gothenburg -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577270</latitude>
+			<longitude>119770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gotland -- (State: Gotlands Lan)">
+			<state>Gotlands Lan</state>
+			<latitude>575103</latitude>
+			<longitude>185603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gotlands Kommun -- (State: Gotlands Lan)">
+			<state>Gotlands Lan</state>
+			<latitude>575103</latitude>
+			<longitude>185103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Granvalla -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>652603</latitude>
+			<longitude>194603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grums -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>593270</latitude>
+			<longitude>131103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grums Kommun -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>594603</latitude>
+			<longitude>130936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gunnarn -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>649603</latitude>
+			<longitude>177103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gusum -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>582770</latitude>
+			<longitude>164936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hagfors -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>600437</latitude>
+			<longitude>136604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hallefors Kommun -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>598437</latitude>
+			<longitude>145771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hallsberg -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>590771</latitude>
+			<longitude>151271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hallstahammar -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>596271</latitude>
+			<longitude>162271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hallstavik -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>600604</latitude>
+			<longitude>186104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hallunda -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592604</latitude>
+			<longitude>178271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halmstad -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>559604</latitude>
+			<longitude>130437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halmstad -- (State: Hallands Lan)">
+			<state>Hallands Lan</state>
+			<latitude>566937</latitude>
+			<longitude>128437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halmstads Kommun -- (State: Hallands Lan)">
+			<state>Hallands Lan</state>
+			<latitude>567104</latitude>
+			<longitude>128771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hanaskog -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>561604</latitude>
+			<longitude>141271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Handen -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>591771</latitude>
+			<longitude>181435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haninge -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>583937</latitude>
+			<longitude>156604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haninge Kommun -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>590601</latitude>
+			<longitude>182771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harads -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>660771</latitude>
+			<longitude>209937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hardas -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>661104</latitude>
+			<longitude>222604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harnosand -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>626465</latitude>
+			<longitude>179515</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hassleholm -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>561604</latitude>
+			<longitude>137771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hassleholms Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>562271</latitude>
+			<longitude>137437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hedemora Kommun -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>602937</latitude>
+			<longitude>159937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helsingberg -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>606104</latitude>
+			<longitude>156937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helsingborg -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>560604</latitude>
+			<longitude>127104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helsingborgs Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>560937</latitude>
+			<longitude>127604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hisingen -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577771</latitude>
+			<longitude>118937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hjallbo -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577771</latitude>
+			<longitude>120271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hofors -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>605604</latitude>
+			<longitude>162937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hofors Kommun -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>605104</latitude>
+			<longitude>163437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoganas -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>561771</latitude>
+			<longitude>125937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hogdalen -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592771</latitude>
+			<longitude>180437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holsbybrunn -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>574437</latitude>
+			<longitude>152104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horby Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>558604</latitude>
+			<longitude>136604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horndal -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>603104</latitude>
+			<longitude>164271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hova -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>588771</latitude>
+			<longitude>141937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huddinge -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592437</latitude>
+			<longitude>179937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huddinge Kommun -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592271</latitude>
+			<longitude>180104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hudiksvall -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>617771</latitude>
+			<longitude>170937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hudiksvalls Kommun -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>616771</latitude>
+			<longitude>171771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hultsfred -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>575271</latitude>
+			<longitude>158437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hultsfreds Kommun -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>574104</latitude>
+			<longitude>158104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Husby -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>596104</latitude>
+			<longitude>180604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Husum -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>633437</latitude>
+			<longitude>191771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jakobsberg -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>594273</latitude>
+			<longitude>178439</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jonkoping -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>577606</latitude>
+			<longitude>140773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jonkopings Kommun -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>577939</latitude>
+			<longitude>141439</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jordbro -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>591603</latitude>
+			<longitude>181273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kallinge -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>562440</latitude>
+			<longitude>152940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalmar -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>595440</latitude>
+			<longitude>175274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalmar -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>566940</latitude>
+			<longitude>162940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalmar Kommun -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>566774</latitude>
+			<longitude>163438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalmar Norra Tredingsgrund -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>566774</latitude>
+			<longitude>164107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalmar Slott -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>566604</latitude>
+			<longitude>163607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalvholmen -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>594563</latitude>
+			<longitude>189640</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlshamn -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>584107</latitude>
+			<longitude>166774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlshamn -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>561774</latitude>
+			<longitude>148607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlshamns Kommun -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>562607</latitude>
+			<longitude>148774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlshamnsfjarden -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>561607</latitude>
+			<longitude>148774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlskoga -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>593440</latitude>
+			<longitude>145274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlskoga Kommun -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>593440</latitude>
+			<longitude>145607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlskrona -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>561774</latitude>
+			<longitude>155940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlstad -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>593607</latitude>
+			<longitude>134774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlstads Kommun -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>595274</latitude>
+			<longitude>138107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlstads Pramkanal -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>593774</latitude>
+			<longitude>135274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katrineholm -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>590274</latitude>
+			<longitude>162274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katrineholms Kommun -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>590107</latitude>
+			<longitude>162107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kierona -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>682607</latitude>
+			<longitude>186774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiirunavarra -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>678440</latitude>
+			<longitude>202107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kil -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>595274</latitude>
+			<longitude>133274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiruna -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>678274</latitude>
+			<longitude>203440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiruna Kommun -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>681774</latitude>
+			<longitude>195107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kisa -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>579940</latitude>
+			<longitude>156274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kista -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>599774</latitude>
+			<longitude>188607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kistan -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>587190</latitude>
+			<longitude>111524</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kistan -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>641607</latitude>
+			<longitude>211440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kistan -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>586774</latitude>
+			<longitude>175940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kistasen -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>585440</latitude>
+			<longitude>143607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klippan -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>561440</latitude>
+			<longitude>131440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klippans Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>561607</latitude>
+			<longitude>131774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Knivsta Kommun -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>595274</latitude>
+			<longitude>172607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konga -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>565107</latitude>
+			<longitude>151274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konga -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>559940</latitude>
+			<longitude>132107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koping -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>595440</latitude>
+			<longitude>159774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kramfors -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>630607</latitude>
+			<longitude>177774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kramfors Kommun -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>629274</latitude>
+			<longitude>176774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kristianstad -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>560440</latitude>
+			<longitude>141440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kristianstad Everod -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>559107</latitude>
+			<longitude>140940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kristinehamn -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>593440</latitude>
+			<longitude>141274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kristinehamns Kommun -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>593107</latitude>
+			<longitude>141440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kumla Kommun -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>591440</latitude>
+			<longitude>151440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kungalv -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>578774</latitude>
+			<longitude>119774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kungalvs Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>579107</latitude>
+			<longitude>119274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kungsor -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>594274</latitude>
+			<longitude>160940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laholm -- (State: Hallands Lan)">
+			<state>Hallands Lan</state>
+			<latitude>565275</latitude>
+			<longitude>130441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Landskrona -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>558941</latitude>
+			<longitude>128275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langshyttan -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>604608</latitude>
+			<longitude>160275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ledet -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>579608</latitude>
+			<longitude>124108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lessebo -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>567608</latitude>
+			<longitude>152775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lessebo Kommun -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>567775</latitude>
+			<longitude>152775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lidingo Kommun -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593775</latitude>
+			<longitude>181941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lidkoping -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>584608</latitude>
+			<longitude>131775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lidkopings Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>585108</latitude>
+			<longitude>130108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lindesberg -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>590941</latitude>
+			<longitude>171941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lindesberg -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>595941</latitude>
+			<longitude>152608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lindesbergs Kommun -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>596775</latitude>
+			<longitude>152608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linkoping -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>584275</latitude>
+			<longitude>156275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linkoping Malmen -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>583941</latitude>
+			<longitude>155275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linkoping Saab -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>584275</latitude>
+			<longitude>156775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linkopings Kommun -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>584108</latitude>
+			<longitude>156108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljungby -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>587108</latitude>
+			<longitude>113941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljungby -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>582608</latitude>
+			<longitude>150275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljungby -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>637941</latitude>
+			<longitude>160275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljungby -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>568441</latitude>
+			<longitude>139441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljungby -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>560608</latitude>
+			<longitude>132108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljungby -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>566439</latitude>
+			<longitude>161775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljungby -- (State: Hallands Lan)">
+			<state>Hallands Lan</state>
+			<latitude>569941</latitude>
+			<longitude>125941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljungby Kommun -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>568608</latitude>
+			<longitude>139441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljusdal -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>618275</latitude>
+			<longitude>160108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljusdals Kommun -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>618775</latitude>
+			<longitude>157108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lovanger -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>643775</latitude>
+			<longitude>213108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ludvika -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>602108</latitude>
+			<longitude>148441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ludviki -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>601608</latitude>
+			<longitude>151941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lule -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>655941</latitude>
+			<longitude>220608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lulea -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>655941</latitude>
+			<longitude>221608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lulea Kallax -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>655441</latitude>
+			<longitude>221275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lulea Kommun -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>656941</latitude>
+			<longitude>221775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>580775</latitude>
+			<longitude>128108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>606775</latitude>
+			<longitude>170108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>600608</latitude>
+			<longitude>167775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>594108</latitude>
+			<longitude>138441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>591775</latitude>
+			<longitude>150275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>599108</latitude>
+			<longitude>185108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Hallands Lan)">
+			<state>Hallands Lan</state>
+			<latitude>574775</latitude>
+			<longitude>120275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>556775</latitude>
+			<longitude>132275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>592275</latitude>
+			<longitude>165441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>647608</latitude>
+			<longitude>208775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>584775</latitude>
+			<longitude>162775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>601608</latitude>
+			<longitude>163108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>603108</latitude>
+			<longitude>181275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>631108</latitude>
+			<longitude>147941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lund -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>577275</latitude>
+			<longitude>164441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyckeby -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>562108</latitude>
+			<longitude>156608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lycksele -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>645608</latitude>
+			<longitude>186608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lysekils Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>584108</latitude>
+			<longitude>114441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mala -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>562442</latitude>
+			<longitude>137109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malma -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>583609</latitude>
+			<longitude>167442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malma -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>598276</latitude>
+			<longitude>176442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmberget -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>611609</latitude>
+			<longitude>155776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmberget -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>671776</latitude>
+			<longitude>206776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmberget -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>600776</latitude>
+			<longitude>167609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmo -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>586609</latitude>
+			<longitude>162609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmo -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583609</latitude>
+			<longitude>113442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmo -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592942</latitude>
+			<longitude>186442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmo -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>556109</latitude>
+			<longitude>130109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmo -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>578276</latitude>
+			<longitude>167109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmo Central -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>555942</latitude>
+			<longitude>130109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmo Fjord -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583109</latitude>
+			<longitude>113109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmo Sturup -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>555276</latitude>
+			<longitude>133776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmobrotten -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583276</latitude>
+			<longitude>113109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmogrund -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592470</latitude>
+			<longitude>186387</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmohus Lan -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>557609</latitude>
+			<longitude>135109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmoklubben -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>632109</latitude>
+			<longitude>189276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmon -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>598442</latitude>
+			<longitude>142776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmon -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>632276</latitude>
+			<longitude>189276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmon -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>605942</latitude>
+			<longitude>167776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmon -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>637276</latitude>
+			<longitude>160276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmon -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>594776</latitude>
+			<longitude>160609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmosund -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>578217</latitude>
+			<longitude>166987</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malung -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>606776</latitude>
+			<longitude>137109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mariannelund -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>576276</latitude>
+			<longitude>155776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mariefred -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>592776</latitude>
+			<longitude>172276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mariestad -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>587109</latitude>
+			<longitude>138276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mariestads Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>587109</latitude>
+			<longitude>138442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Markaryds Kommun -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>565609</latitude>
+			<longitude>136109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marsater -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>588109</latitude>
+			<longitude>150442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marsta -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>596276</latitude>
+			<longitude>178609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marsta -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>590942</latitude>
+			<longitude>150276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marsta -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>599442</latitude>
+			<longitude>175942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mellerud -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>594442</latitude>
+			<longitude>133109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mjolby -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>583276</latitude>
+			<longitude>151442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Molndals Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>576276</latitude>
+			<longitude>120942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monsteras -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>570442</latitude>
+			<longitude>164442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monsteras Kommun -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>570776</latitude>
+			<longitude>164276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mora -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>610109</latitude>
+			<longitude>145609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Morrum -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>561942</latitude>
+			<longitude>147609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Motala -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>585609</latitude>
+			<longitude>150609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Motala Kommun -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>585609</latitude>
+			<longitude>151776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Motala Strom -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>585606</latitude>
+			<longitude>159440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Motalaverkstad -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>585609</latitude>
+			<longitude>150776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nacka -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593110</latitude>
+			<longitude>181943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nacka -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>624849</latitude>
+			<longitude>174271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nacka Kommun -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592943</latitude>
+			<longitude>172610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nassja -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>573610</latitude>
+			<longitude>140610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nassjo -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>576610</latitude>
+			<longitude>146943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Navekvarn -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>586441</latitude>
+			<longitude>168110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nora -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>595277</latitude>
+			<longitude>150443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Norberg -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>600777</latitude>
+			<longitude>159443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Norrkoping -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>586110</latitude>
+			<longitude>161943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Norrkopings Kommun -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>585943</latitude>
+			<longitude>163443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Norrtalje -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>597610</latitude>
+			<longitude>186943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Norsborg -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592610</latitude>
+			<longitude>177943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Norslund -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>606110</latitude>
+			<longitude>156610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nybro -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>567610</latitude>
+			<longitude>159110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nybro Kommun -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>567277</latitude>
+			<longitude>159443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nykoping -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>587943</latitude>
+			<longitude>169110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nykopings Kommun -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>589277</latitude>
+			<longitude>171777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nynashamn -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>589154</latitude>
+			<longitude>179574</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olofstrom -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>562778</latitude>
+			<longitude>145111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orebro -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>592611</latitude>
+			<longitude>152278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orebro Kommun -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>592778</latitude>
+			<longitude>154278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orkelljunga Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>562944</latitude>
+			<longitude>132944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ornskoldsvik -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>634111</latitude>
+			<longitude>190111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ornskoldsviks Central -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>632944</latitude>
+			<longitude>187111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ornskoldsviks Kommun -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>632944</latitude>
+			<longitude>187278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orsa -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>611944</latitude>
+			<longitude>147278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orsa Kommun -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>613111</latitude>
+			<longitude>147611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osby Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>564278</latitude>
+			<longitude>140944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oskarshamn -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>594042</latitude>
+			<longitude>186361</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oskarshamn -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>573611</latitude>
+			<longitude>165111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oskarshamns Kommun -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>573778</latitude>
+			<longitude>163444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ostersund -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>631944</latitude>
+			<longitude>146611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ostersund Froson -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>631944</latitude>
+			<longitude>145111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osthammar -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>600444</latitude>
+			<longitude>173778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Overkalix -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>663278</latitude>
+			<longitude>228444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Overtornea Kommun -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>666778</latitude>
+			<longitude>235111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oxelosunds Kommun -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>586778</latitude>
+			<longitude>170942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Partille -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577445</latitude>
+			<longitude>121279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pitea -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>654112</latitude>
+			<longitude>212612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Puketorp -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577279</latitude>
+			<longitude>120945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarken">
+			<state></state>
+			<latitude>602613</latitude>
+			<longitude>190946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvaldersrud -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>590946</latitude>
+			<longitude>131780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvantenburg -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>586113</latitude>
+			<longitude>125446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarna -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>660780</latitude>
+			<longitude>206946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarna -- (State: Gotlands Lan)">
+			<state>Gotlands Lan</state>
+			<latitude>569946</latitude>
+			<longitude>182113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarnagarden -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>573613</latitude>
+			<longitude>131280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarnan -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>660780</latitude>
+			<longitude>208946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarnbacken -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>647446</latitude>
+			<longitude>151946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarnberg -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>606780</latitude>
+			<longitude>153280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarnbergsvattnet -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>646113</latitude>
+			<longitude>138946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarnfors -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>650280</latitude>
+			<longitude>205780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarnhojden -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>599613</latitude>
+			<longitude>139946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarnsjon -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>574613</latitude>
+			<longitude>132113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarntjarn -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>599446</latitude>
+			<longitude>146280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarntorp -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>597613</latitude>
+			<longitude>133113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvarntrask -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>659280</latitude>
+			<longitude>219280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvie -- (State: Gotlands Lan)">
+			<state>Gotlands Lan</state>
+			<latitude>575280</latitude>
+			<longitude>183613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvigarde -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>576446</latitude>
+			<longitude>131613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qville back -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577294</latitude>
+			<longitude>119588</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvistbacken -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>657946</latitude>
+			<longitude>156113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ranea -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>657781</latitude>
+			<longitude>217614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rinkeby -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>587614</latitude>
+			<longitude>167114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ronneby -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>562781</latitude>
+			<longitude>152781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ronneby Kommun -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>563114</latitude>
+			<longitude>152947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ronnebybrunn -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>562114</latitude>
+			<longitude>153031</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotebro -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>594781</latitude>
+			<longitude>179281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ryd -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>564781</latitude>
+			<longitude>146947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saffle -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>590946</latitude>
+			<longitude>129446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saffle Kommun -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>591282</latitude>
+			<longitude>128615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sala -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>598948</latitude>
+			<longitude>166448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sala Kommun -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>599782</latitude>
+			<longitude>166115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandvik -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>619782</latitude>
+			<longitude>160448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandviken -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>616948</latitude>
+			<longitude>173782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandvikens Kommun -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>606282</latitude>
+			<longitude>166782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Satar -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>603615</latitude>
+			<longitude>157615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Savsjo -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>574115</latitude>
+			<longitude>146782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Simrishamn -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>555615</latitude>
+			<longitude>143448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skaboholmen -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>580448</latitude>
+			<longitude>115115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skaggetorp -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>584448</latitude>
+			<longitude>155782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skara -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>579171</latitude>
+			<longitude>117948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skara Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583782</latitude>
+			<longitude>134448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skarholmen -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592948</latitude>
+			<longitude>178948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skelleftea -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>646448</latitude>
+			<longitude>210782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skelleftea Kommun -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>647615</latitude>
+			<longitude>211448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skelleftehamn -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>646948</latitude>
+			<longitude>212448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skillingaryd -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>574448</latitude>
+			<longitude>140948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skinnskatteberg -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>598448</latitude>
+			<longitude>156948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skovde -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583946</latitude>
+			<longitude>138946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skultuna -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>597282</latitude>
+			<longitude>164282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skurup -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>554782</latitude>
+			<longitude>135115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skutskar -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>606448</latitude>
+			<longitude>174282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Smedby -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>566948</latitude>
+			<longitude>162615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Smedjebacken -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>601615</latitude>
+			<longitude>154282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soderhamn -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>594590</latitude>
+			<longitude>185879</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soderhamn -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>612615</latitude>
+			<longitude>171115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soderhamns Kommun -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>612948</latitude>
+			<longitude>169782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soderkoping -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>584948</latitude>
+			<longitude>163115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soderkopings Kommun -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>584615</latitude>
+			<longitude>163448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sodertalje -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592115</latitude>
+			<longitude>176282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sodertalje Kommun -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592115</latitude>
+			<longitude>175115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Solleftea -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>631782</latitude>
+			<longitude>169948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Solleftea Kommun -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>633948</latitude>
+			<longitude>169282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Solna -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>579140</latitude>
+			<longitude>164298</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Solna Kommun -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593782</latitude>
+			<longitude>180282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Solvesborgs Kommun -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>561115</latitude>
+			<longitude>146282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sosdala -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>560448</latitude>
+			<longitude>136782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Spanga -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>592448</latitude>
+			<longitude>149782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Spanga -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593948</latitude>
+			<longitude>179282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Spanga -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>589948</latitude>
+			<longitude>164948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Spanga -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>600448</latitude>
+			<longitude>180448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stackholmen -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>568282</latitude>
+			<longitude>164282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stadsholmen -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593448</latitude>
+			<longitude>180782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stakholmen -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>621615</latitude>
+			<longitude>166115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Staksholmen -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593657</latitude>
+			<longitude>186059</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stensele -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>650615</latitude>
+			<longitude>172615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stenungsunds Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>580948</latitude>
+			<longitude>119282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stocka -- (State: Gavleborgs Lan)">
+			<state>Gavleborgs Lan</state>
+			<latitude>619051</latitude>
+			<longitude>173482</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholm -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>561448</latitude>
+			<longitude>134282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholm -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593448</latitude>
+			<longitude>180615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholm -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>618946</latitude>
+			<longitude>137615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholm Archipelago -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593448</latitude>
+			<longitude>186782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholm Gamla -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593282</latitude>
+			<longitude>180948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholm North -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593615</latitude>
+			<longitude>180448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholmarna -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>578115</latitude>
+			<longitude>118115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholme -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>612115</latitude>
+			<longitude>155615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholmen -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>597782</latitude>
+			<longitude>192115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholms Ostra -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593615</latitude>
+			<longitude>180782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholms Sodra -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593282</latitude>
+			<longitude>180615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholms-Nas -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>594948</latitude>
+			<longitude>177615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholmsbraten -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>585615</latitude>
+			<longitude>136615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholmsskar -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>576871</latitude>
+			<longitude>118398</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stockholmsskaret -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>578032</latitude>
+			<longitude>118115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Storfors -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>595448</latitude>
+			<longitude>142782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Storfors -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>653115</latitude>
+			<longitude>214282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Storuman -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>652448</latitude>
+			<longitude>169115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Storumans Kommun -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>654115</latitude>
+			<longitude>164282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Strangnas Kommun -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>593615</latitude>
+			<longitude>170448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stromsund -- (State: Jamtlands Lan)">
+			<state>Jamtlands Lan</state>
+			<latitude>638615</latitude>
+			<longitude>155948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sundbyberg -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593782</latitude>
+			<longitude>179782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sundsbruk -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>624696</latitude>
+			<longitude>173604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sundsvall -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>623948</latitude>
+			<longitude>173115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sundsvall Harnosand -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>625357</latitude>
+			<longitude>174526</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Surahammar -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>597282</latitude>
+			<longitude>162282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Surahammars Kommun -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>597615</latitude>
+			<longitude>161615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svalov -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>559282</latitude>
+			<longitude>131115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svalovs Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>559782</latitude>
+			<longitude>131615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svangsta -- (State: Blekinge Lan)">
+			<state>Blekinge Lan</state>
+			<latitude>562782</latitude>
+			<longitude>147782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sved -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>580282</latitude>
+			<longitude>141282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svenljunga Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>574948</latitude>
+			<longitude>131115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sweden">
+			<state></state>
+			<latitude>620115</latitude>
+			<longitude>150115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tanums Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>587616</latitude>
+			<longitude>114283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tanumshede -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>587449</latitude>
+			<longitude>113283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Teckomatorp -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>558783</latitude>
+			<longitude>130949</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tensta -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>600447</latitude>
+			<longitude>176783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tibro -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>584283</latitude>
+			<longitude>141783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tibro Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>584283</latitude>
+			<longitude>142116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Timra Kommun -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>624894</latitude>
+			<longitude>173185</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Toreboda -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>587283</latitude>
+			<longitude>141449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torsby Fryklanda -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>601616</latitude>
+			<longitude>130116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torsby Kommun -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>605116</latitude>
+			<longitude>130949</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tranas -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>580616</latitude>
+			<longitude>148449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tranemo -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>574949</latitude>
+			<longitude>133616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trekanten -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>567116</latitude>
+			<longitude>161283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trelleborg -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>553949</latitude>
+			<longitude>131616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trollhattan -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>590949</latitude>
+			<longitude>186616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trollhattan -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583283</latitude>
+			<longitude>123616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trollhattans Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>582449</latitude>
+			<longitude>124283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tumba -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>592116</latitude>
+			<longitude>178283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uddevalla -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583784</latitude>
+			<longitude>119450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uddevalla Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583617</latitude>
+			<longitude>120117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uddevalla Rorkarr -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583784</latitude>
+			<longitude>117617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulricehamn -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>577950</latitude>
+			<longitude>134284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uman -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>636617</latitude>
+			<longitude>169950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ume -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>637950</latitude>
+			<longitude>202784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umea -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>637950</latitude>
+			<longitude>202950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umea -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>638450</latitude>
+			<longitude>201784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umea Hamn -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>637284</latitude>
+			<longitude>203784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umea Kommun -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>638450</latitude>
+			<longitude>202950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uplands Vasby -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>595284</latitude>
+			<longitude>179117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsala -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>598784</latitude>
+			<longitude>176450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsala -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>574450</latitude>
+			<longitude>158617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsala -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>565617</latitude>
+			<longitude>134950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsala -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>588284</latitude>
+			<longitude>150450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsala -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>599117</latitude>
+			<longitude>175950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsala Kommun -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>598784</latitude>
+			<longitude>176117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsala Lan">
+			<state></state>
+			<latitude>600117</latitude>
+			<longitude>177617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsala-Nas -- (State: Uppsala Lan)">
+			<state>Uppsala Lan</state>
+			<latitude>597950</latitude>
+			<longitude>175950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsalaasen -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>596284</latitude>
+			<longitude>160950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uppsalatorp -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>580950</latitude>
+			<longitude>152784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaggeryd -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>575618</latitude>
+			<longitude>140951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vagtrask -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>653285</latitude>
+			<longitude>189285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valdemarsviks Kommun -- (State: Ostergotlands Lan)">
+			<state>Ostergotlands Lan</state>
+			<latitude>582118</latitude>
+			<longitude>166118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vallby -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>595118</latitude>
+			<longitude>159451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vallingby -- (State: Stockholms Lan)">
+			<state>Stockholms Lan</state>
+			<latitude>593785</latitude>
+			<longitude>178785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vanersborg -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>583785</latitude>
+			<longitude>123285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vanersborgs Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>584285</latitude>
+			<longitude>122451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vansberg -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>589785</latitude>
+			<longitude>126785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varbergs Kommun -- (State: Hallands Lan)">
+			<state>Hallands Lan</state>
+			<latitude>571618</latitude>
+			<longitude>122618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vargarda Kommun -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>579785</latitude>
+			<longitude>127618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varnamo -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>571951</latitude>
+			<longitude>140451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varnamo Kommun -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>572118</latitude>
+			<longitude>140951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vasteras -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>640285</latitude>
+			<longitude>190951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vasteras -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>597285</latitude>
+			<longitude>122785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vasteras -- (State: Vasternorrlands Lan)">
+			<state>Vasternorrlands Lan</state>
+			<latitude>633118</latitude>
+			<longitude>186785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vasteras -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>596285</latitude>
+			<longitude>165618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vasteras -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>598118</latitude>
+			<longitude>145118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vasteras Kommun -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>596285</latitude>
+			<longitude>165951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vasteras-Barkaro -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>595618</latitude>
+			<longitude>165118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vastervik -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>577951</latitude>
+			<longitude>165285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaxjo -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>568951</latitude>
+			<longitude>148285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaxjo Kommun -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>568785</latitude>
+			<longitude>148285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaxjo Kronoberg -- (State: Kronobergs Lan)">
+			<state>Kronobergs Lan</state>
+			<latitude>569451</latitude>
+			<longitude>147451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vetlanda -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>574451</latitude>
+			<longitude>150785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vetlanda Kommun -- (State: Jonkopings Lan)">
+			<state>Jonkopings Lan</state>
+			<latitude>574451</latitude>
+			<longitude>150951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vidsel -- (State: Norrbottens Lan)">
+			<state>Norrbottens Lan</state>
+			<latitude>658951</latitude>
+			<longitude>201618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vimmerby -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>576785</latitude>
+			<longitude>158618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vimmerby Kommun -- (State: Kalmar Lan)">
+			<state>Kalmar Lan</state>
+			<latitude>576951</latitude>
+			<longitude>158451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vingaker -- (State: Sodermanlands Lan)">
+			<state>Sodermanlands Lan</state>
+			<latitude>590785</latitude>
+			<longitude>158951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Visby -- (State: Gotlands Lan)">
+			<state>Gotlands Lan</state>
+			<latitude>576451</latitude>
+			<longitude>183118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vittsjo -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>563451</latitude>
+			<longitude>136785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wallen -- (State: Vastra Gotaland)">
+			<state>Vastra Gotaland</state>
+			<latitude>574119</latitude>
+			<longitude>130786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ystad -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>554288</latitude>
+			<longitude>138288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ystads Kommun -- (State: Skane Lan)">
+			<state>Skane Lan</state>
+			<latitude>554454</latitude>
+			<longitude>138621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zacheus -- (State: Vasterbottens Lan)">
+			<state>Vasterbottens Lan</state>
+			<latitude>643705</latitude>
+			<longitude>214955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakrisberg -- (State: Dalarnas Lan)">
+			<state>Dalarnas Lan</state>
+			<latitude>605122</latitude>
+			<longitude>151122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakrisberg -- (State: Vastmanlands Lan)">
+			<state>Vastmanlands Lan</state>
+			<latitude>594122</latitude>
+			<longitude>158955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakrisdal -- (State: Varmlands Lan)">
+			<state>Varmlands Lan</state>
+			<latitude>593789</latitude>
+			<longitude>134455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zinkgruvan -- (State: Orebro Lan)">
+			<state>Orebro Lan</state>
+			<latitude>588289</latitude>
+			<longitude>150955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zion -- (State: Gotlands Lan)">
+			<state>Gotlands Lan</state>
+			<latitude>575789</latitude>
+			<longitude>182789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

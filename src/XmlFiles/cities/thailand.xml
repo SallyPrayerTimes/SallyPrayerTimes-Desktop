@@ -1,0 +1,1069 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Thailand">
+		<city name="7z Bukit">
+			<state></state>
+			<latitude>56888</latitude>
+			<longitude>1011055</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amphoe Muang Chiang Rai -- (State: Chiang Rai)">
+			<state>Chiang Rai</state>
+			<latitude>199264</latitude>
+			<longitude>999264</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ayutthaya -- (State: Phra Nakhon Si Ayutthaya)">
+			<state>Phra Nakhon Si Ayutthaya</state>
+			<latitude>143597</latitude>
+			<longitude>1005597</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ba Cho">
+			<state></state>
+			<latitude>65287</latitude>
+			<longitude>1016617</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bachok -- (State: Narathiwat)">
+			<state>Narathiwat</state>
+			<latitude>66265</latitude>
+			<longitude>1016598</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bang Rak">
+			<state></state>
+			<latitude>137431</latitude>
+			<longitude>1005431</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangkok">
+			<state></state>
+			<latitude>137598</latitude>
+			<longitude>1005265</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangkok -- (State: Phra Nakhon Si Ayutthaya)">
+			<state>Phra Nakhon Si Ayutthaya</state>
+			<latitude>142931</latitude>
+			<longitude>1005098</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangkok Bar -- (State: Samut Prakan)">
+			<state>Samut Prakan</state>
+			<latitude>134431</latitude>
+			<longitude>1006098</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangkok International Airport">
+			<state></state>
+			<latitude>139265</latitude>
+			<longitude>1006265</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangkok Noi">
+			<state></state>
+			<latitude>137598</latitude>
+			<longitude>1004931</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangkok Yai">
+			<state></state>
+			<latitude>137431</latitude>
+			<longitude>1004931</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bankok -- (State: Samut Sakhon)">
+			<state>Samut Sakhon</state>
+			<latitude>135931</latitude>
+			<longitude>1002265</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buriram">
+			<state></state>
+			<latitude>150098</latitude>
+			<longitude>1031265</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changwat Chiang Mai -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>187599</latitude>
+			<longitude>990099</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiang Mai">
+			<state></state>
+			<latitude>188049</latitude>
+			<longitude>990180</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chon Buri">
+			<state></state>
+			<latitude>133766</latitude>
+			<longitude>1009932</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dusit">
+			<state></state>
+			<latitude>137933</latitude>
+			<longitude>1005267</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Bungo -- (State: Phangnga)">
+			<state>Phangnga</state>
+			<latitude>77601</latitude>
+			<longitude>986268</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ek River -- (State: Phangnga)">
+			<state>Phangnga</state>
+			<latitude>91768</latitude>
+			<longitude>986934</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enemy Chaser Patch -- (State: Pattani)">
+			<state>Pattani</state>
+			<latitude>69154</latitude>
+			<longitude>1011112</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esu River -- (State: Kanchanaburi)">
+			<state>Kanchanaburi</state>
+			<latitude>145434</latitude>
+			<longitude>994601</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eye Kwang Swamp -- (State: Songkhla)">
+			<state>Songkhla</state>
+			<latitude>77934</latitude>
+			<longitude>1002268</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eye Sib Bhad Swamp -- (State: Songkhla)">
+			<state>Songkhla</state>
+			<latitude>77934</latitude>
+			<longitude>1001934</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faeng -- (State: Surin)">
+			<state>Surin</state>
+			<latitude>146435</latitude>
+			<longitude>1037102</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fak Tha -- (State: Uttaradit)">
+			<state>Uttaradit</state>
+			<latitude>179935</latitude>
+			<longitude>1008935</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fang Toen -- (State: Chiang Rai)">
+			<state>Chiang Rai</state>
+			<latitude>194769</latitude>
+			<longitude>997269</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayat -- (State: Yasothon)">
+			<state>Yasothon</state>
+			<latitude>155435</latitude>
+			<longitude>1042602</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fhang -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>199269</latitude>
+			<longitude>992269</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fhang Deng -- (State: Chumphon)">
+			<state>Chumphon</state>
+			<latitude>104269</latitude>
+			<longitude>992769</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fi Kuk -- (State: Chiang Rai)">
+			<state>Chiang Rai</state>
+			<latitude>199269</latitude>
+			<longitude>1005102</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Five Devils -- (State: Nakhon Si Thammarat)">
+			<state>Nakhon Si Thammarat</state>
+			<latitude>92102</latitude>
+			<longitude>998935</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fu Fan">
+			<state></state>
+			<latitude>168935</latitude>
+			<longitude>1044102</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haad Yai -- (State: Songkhla)">
+			<state>Songkhla</state>
+			<latitude>70271</latitude>
+			<longitude>1004771</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hua Hin -- (State: Prachuap Khiri Khan)">
+			<state>Prachuap Khiri Khan</state>
+			<latitude>125771</latitude>
+			<longitude>999771</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="I-Chang -- (State: Ratchaburi)">
+			<state>Ratchaburi</state>
+			<latitude>137105</latitude>
+			<longitude>999105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="I-hled -- (State: Chumphon)">
+			<state>Chumphon</state>
+			<latitude>103772</latitude>
+			<longitude>992438</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="I-Loet -- (State: Phetchabun)">
+			<state>Phetchabun</state>
+			<latitude>170105</latitude>
+			<longitude>1012605</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="I-mang Lang -- (State: Chanthaburi)">
+			<state>Chanthaburi</state>
+			<latitude>124938</latitude>
+			<longitude>1022938</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="I-toeng -- (State: Sakon Nakhon)">
+			<state>Sakon Nakhon</state>
+			<latitude>170105</latitude>
+			<longitude>1039272</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ien -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>180413</latitude>
+			<longitude>986177</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile du Pie -- (State: Trat)">
+			<state>Trat</state>
+			<latitude>119605</latitude>
+			<longitude>1024938</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="In Buri -- (State: Sing Buri)">
+			<state>Sing Buri</state>
+			<latitude>150105</latitude>
+			<longitude>1003438</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inland Sea">
+			<state></state>
+			<latitude>75105</latitude>
+			<longitude>1002605</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Intanon -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>185938</latitude>
+			<longitude>984938</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipan -- (State: Surat Thani)">
+			<state>Surat Thani</state>
+			<latitude>85272</latitude>
+			<longitude>991272</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ira -- (State: Chon Buri)">
+			<state>Chon Buri</state>
+			<latitude>126772</latitude>
+			<longitude>1008438</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isthmus of Kra">
+			<state></state>
+			<latitude>103438</latitude>
+			<longitude>990105</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ja Mea -- (State: Mae Hong Son)">
+			<state>Mae Hong Son</state>
+			<latitude>191939</latitude>
+			<longitude>979939</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaha River -- (State: Yala)">
+			<state>Yala</state>
+			<latitude>61106</latitude>
+			<longitude>1013106</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jai Son Hill -- (State: Phatthalung)">
+			<state>Phatthalung</state>
+			<latitude>74606</latitude>
+			<longitude>1001439</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jainadh -- (State: Chai Nat)">
+			<state>Chai Nat</state>
+			<latitude>151273</latitude>
+			<longitude>1001106</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jainat -- (State: Chai Nat)">
+			<state>Chai Nat</state>
+			<latitude>151939</latitude>
+			<longitude>1001439</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaiya -- (State: Surat Thani)">
+			<state>Surat Thani</state>
+			<latitude>93939</latitude>
+			<longitude>992439</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaiyabhum -- (State: Chaiyaphum)">
+			<state>Chaiyaphum</state>
+			<latitude>158106</latitude>
+			<longitude>1020439</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jana -- (State: Songkhla)">
+			<state>Songkhla</state>
+			<latitude>69273</latitude>
+			<longitude>1007439</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jang -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>191773</latitude>
+			<longitude>988773</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janggeung -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>185078</latitude>
+			<longitude>983817</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janglek -- (State: Prachuap Khiri Khan)">
+			<state>Prachuap Khiri Khan</state>
+			<latitude>110773</latitude>
+			<longitude>994106</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaum Thaung -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>184375</latitude>
+			<longitude>986887</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaung -- (State: Chiang Rai)">
+			<state>Chiang Rai</state>
+			<latitude>203781</latitude>
+			<longitude>999006</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeeadab">
+			<state></state>
+			<latitude>138606</latitude>
+			<longitude>1008439</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeli">
+			<state></state>
+			<latitude>57439</latitude>
+			<longitude>1018273</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiengrak -- (State: Pathum Thani)">
+			<state>Pathum Thani</state>
+			<latitude>140606</latitude>
+			<longitude>1006273</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiengsen -- (State: Chiang Rai)">
+			<state>Chiang Rai</state>
+			<latitude>202773</latitude>
+			<longitude>1000939</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jingo -- (State: Narathiwat)">
+			<state>Narathiwat</state>
+			<latitude>64109</latitude>
+			<longitude>1017192</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jipun River -- (State: Nakhon Pathom)">
+			<state>Nakhon Pathom</state>
+			<latitude>141773</latitude>
+			<longitude>1002606</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joan -- (State: Trang)">
+			<state>Trang</state>
+			<latitude>71273</latitude>
+			<longitude>994439</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johng Tao -- (State: Nakhon Si Thammarat)">
+			<state>Nakhon Si Thammarat</state>
+			<latitude>99273</latitude>
+			<longitude>999273</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jombhu -- (State: Lampang)">
+			<state>Lampang</state>
+			<latitude>182503</latitude>
+			<longitude>994434</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jonden -- (State: Phetchabun)">
+			<state>Phetchabun</state>
+			<latitude>161939</latitude>
+			<longitude>1008606</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jubmalai -- (State: Kanchanaburi)">
+			<state>Kanchanaburi</state>
+			<latitude>151606</latitude>
+			<longitude>983606</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumbhorn -- (State: Chumphon)">
+			<state>Chumphon</state>
+			<latitude>105106</latitude>
+			<longitude>991773</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumbor -- (State: Chumphon)">
+			<state>Chumphon</state>
+			<latitude>103439</latitude>
+			<longitude>988439</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumkhihlek -- (State: Phitsanulok)">
+			<state>Phitsanulok</state>
+			<latitude>165606</latitude>
+			<longitude>1006106</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junkseylon -- (State: Phuket)">
+			<state>Phuket</state>
+			<latitude>80606</latitude>
+			<longitude>983106</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khon Kaen">
+			<state></state>
+			<latitude>164440</latitude>
+			<longitude>1028440</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ko Samui -- (State: Surat Thani)">
+			<state>Surat Thani</state>
+			<latitude>95440</latitude>
+			<longitude>999440</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koh Samuie -- (State: Surat Thani)">
+			<state>Surat Thani</state>
+			<latitude>95107</latitude>
+			<longitude>1000107</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krabi">
+			<state></state>
+			<latitude>80774</latitude>
+			<longitude>989274</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahasarakam -- (State: Maha Sarakham)">
+			<state>Maha Sarakham</state>
+			<latitude>162276</latitude>
+			<longitude>1030276</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakaun Rachasima -- (State: Nakhon Ratchasima)">
+			<state>Nakhon Ratchasima</state>
+			<latitude>150110</latitude>
+			<longitude>1021777</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narathiwat">
+			<state></state>
+			<latitude>64354</latitude>
+			<longitude>1018346</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nondaburi -- (State: Nonthaburi)">
+			<state>Nonthaburi</state>
+			<latitude>137610</latitude>
+			<longitude>1005110</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nong Chok">
+			<state></state>
+			<latitude>138610</latitude>
+			<longitude>1008777</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nonthaburi">
+			<state></state>
+			<latitude>138443</latitude>
+			<longitude>1004943</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O Neang">
+			<state></state>
+			<latitude>137111</latitude>
+			<longitude>1026944</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O Pao">
+			<state></state>
+			<latitude>140444</latitude>
+			<longitude>1029278</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O Pasi">
+			<state></state>
+			<latitude>136111</latitude>
+			<longitude>1026278</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O Traboek -- (State: Buriram)">
+			<state>Buriram</state>
+			<latitude>147611</latitude>
+			<longitude>1032778</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O-sawai">
+			<state></state>
+			<latitude>143778</latitude>
+			<longitude>1041611</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Observatory Island -- (State: Trat)">
+			<state>Trat</state>
+			<latitude>120278</latitude>
+			<longitude>1022778</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Observatory Islet -- (State: Satun)">
+			<state>Satun</state>
+			<latitude>65111</latitude>
+			<longitude>992278</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oeam -- (State: Lampang)">
+			<state>Lampang</state>
+			<latitude>184128</latitude>
+			<longitude>994517</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oem Kloem River -- (State: Kanchanaburi)">
+			<state>Kanchanaburi</state>
+			<latitude>145192</latitude>
+			<longitude>994811</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ohn -- (State: Nan)">
+			<state>Nan</state>
+			<latitude>190278</latitude>
+			<longitude>1009444</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oi -- (State: Chiang Rai)">
+			<state>Chiang Rai</state>
+			<latitude>192444</latitude>
+			<longitude>1003278</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ok Khai Hill -- (State: Songkhla)">
+			<state>Songkhla</state>
+			<latitude>68778</latitude>
+			<longitude>1005944</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="On Chai -- (State: Trat)">
+			<state>Trat</state>
+			<latitude>126444</latitude>
+			<longitude>1024944</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ong Phra Pathom Chedi -- (State: Nakhon Pathom)">
+			<state>Nakhon Pathom</state>
+			<latitude>138278</latitude>
+			<longitude>1000778</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onga-rak -- (State: Nakhon Nayok)">
+			<state>Nakhon Nayok</state>
+			<latitude>141111</latitude>
+			<longitude>1009778</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ongkharak -- (State: Nakhon Nayok)">
+			<state>Nakhon Nayok</state>
+			<latitude>141339</latitude>
+			<longitude>1010083</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oubon -- (State: Ubon Ratchathani)">
+			<state>Ubon Ratchathani</state>
+			<latitude>152442</latitude>
+			<longitude>1048742</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outaradit -- (State: Uttaradit)">
+			<state>Uttaradit</state>
+			<latitude>176422</latitude>
+			<longitude>1001119</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ow Aung Krapong -- (State: Trat)">
+			<state>Trat</state>
+			<latitude>122944</latitude>
+			<longitude>1022944</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Patani -- (State: Pattani)">
+			<state>Pattani</state>
+			<latitude>67612</latitude>
+			<longitude>1004279</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pathum Thani">
+			<state></state>
+			<latitude>140279</latitude>
+			<longitude>1005445</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Patong Bay -- (State: Phuket)">
+			<state>Phuket</state>
+			<latitude>79112</latitude>
+			<longitude>982945</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pattani">
+			<state></state>
+			<latitude>68998</latitude>
+			<longitude>1012854</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pattaya -- (State: Chon Buri)">
+			<state>Chon Buri</state>
+			<latitude>129445</latitude>
+			<longitude>1008945</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pattaya Beach -- (State: Chon Buri)">
+			<state>Chon Buri</state>
+			<latitude>127612</latitude>
+			<longitude>1008779</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phuket">
+			<state></state>
+			<latitude>78945</latitude>
+			<longitude>984112</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phuket Bay -- (State: Phangnga)">
+			<state>Phangnga</state>
+			<latitude>82779</latitude>
+			<longitude>985612</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puket -- (State: Phuket)">
+			<state>Phuket</state>
+			<latitude>80112</latitude>
+			<longitude>982612</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rayong">
+			<state></state>
+			<latitude>126781</latitude>
+			<longitude>1012947</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Songkhla">
+			<state></state>
+			<latitude>72115</latitude>
+			<longitude>1006115</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suan Lang -- (State: Songkhla)">
+			<state>Songkhla</state>
+			<latitude>69948</latitude>
+			<longitude>1004282</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tha Sala -- (State: Nakhon Si Thammarat)">
+			<state>Nakhon Si Thammarat</state>
+			<latitude>86783</latitude>
+			<longitude>999449</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trang">
+			<state></state>
+			<latitude>75616</latitude>
+			<longitude>996116</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="U-Tapao -- (State: Chon Buri)">
+			<state>Chon Buri</state>
+			<latitude>126950</latitude>
+			<longitude>1010284</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubol Rat Thani -- (State: (TH71))">
+			<state>(TH71)</state>
+			<latitude>152117</latitude>
+			<longitude>1048784</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubolretana Khuan Kan Nam -- (State: (TH19))">
+			<state>(TH19)</state>
+			<latitude>167617</latitude>
+			<longitude>1025117</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udornthani -- (State: (TH19))">
+			<state>(TH19)</state>
+			<latitude>173450</latitude>
+			<longitude>1027617</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udornthani -- (State: Udon Thani)">
+			<state>Udon Thani</state>
+			<latitude>174192</latitude>
+			<longitude>1028048</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uttaradit Northwest -- (State: Uttaradit)">
+			<state>Uttaradit</state>
+			<latitude>176450</latitude>
+			<longitude>1000950</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vadhana Nakon -- (State: (TH45))">
+			<state>(TH45)</state>
+			<latitude>137618</latitude>
+			<longitude>1023451</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vajira -- (State: Nonthaburi)">
+			<state>Nonthaburi</state>
+			<latitude>138118</latitude>
+			<longitude>1005285</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Van Pa Khaem -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>191118</latitude>
+			<longitude>990618</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Varindra -- (State: Ubon Ratchathani)">
+			<state>Ubon Ratchathani</state>
+			<latitude>152118</latitude>
+			<longitude>1048951</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veng -- (State: Roi Et)">
+			<state>Roi Et</state>
+			<latitude>156451</latitude>
+			<longitude>1035951</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vesatri Bank -- (State: Trat)">
+			<state>Trat</state>
+			<latitude>118785</latitude>
+			<longitude>1024451</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victory Shoal -- (State: Rayong)">
+			<state>Rayong</state>
+			<latitude>123118</latitude>
+			<longitude>1013118</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieng Pou -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>193785</latitude>
+			<longitude>992285</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volant Rock -- (State: Rayong)">
+			<state>Rayong</state>
+			<latitude>126785</latitude>
+			<longitude>1017785</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xang Ming -- (State: Sakon Nakhon)">
+			<state>Sakon Nakhon</state>
+			<latitude>173620</latitude>
+			<longitude>1038120</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xieng Kham -- (State: Phayao)">
+			<state>Phayao</state>
+			<latitude>195359</latitude>
+			<longitude>1003112</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xieng Khan -- (State: Loei)">
+			<state>Loei</state>
+			<latitude>178787</latitude>
+			<longitude>1016120</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xieng Khong -- (State: Chiang Rai)">
+			<state>Chiang Rai</state>
+			<latitude>202953</latitude>
+			<longitude>1004120</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xieng Rai -- (State: Chiang Rai)">
+			<state>Chiang Rai</state>
+			<latitude>199120</latitude>
+			<longitude>998453</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xum Seng -- (State: Nakhon Sawan)">
+			<state>Nakhon Sawan</state>
+			<latitude>159120</latitude>
+			<longitude>1003287</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yage Taung">
+			<state></state>
+			<latitude>127788</latitude>
+			<longitude>992454</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaha -- (State: Yala)">
+			<state>Yala</state>
+			<latitude>64899</latitude>
+			<longitude>1011471</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yai Khaw River -- (State: Nakhon Ratchasima)">
+			<state>Nakhon Ratchasima</state>
+			<latitude>144621</latitude>
+			<longitude>1013621</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yala">
+			<state></state>
+			<latitude>65549</latitude>
+			<longitude>1012957</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamka -- (State: (TH19))">
+			<state>(TH19)</state>
+			<latitude>177643</latitude>
+			<longitude>1028957</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanawa District">
+			<state></state>
+			<latitude>136954</latitude>
+			<longitude>1005454</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang -- (State: Loei)">
+			<state>Loei</state>
+			<latitude>175788</latitude>
+			<longitude>1014288</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang -- (State: Chiang Mai)">
+			<state>Chiang Mai</state>
+			<latitude>185324</latitude>
+			<longitude>985310</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang Daeng -- (State: Pattani)">
+			<state>Pattani</state>
+			<latitude>67288</latitude>
+			<longitude>1011454</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yothaka -- (State: Nakhon Nayok)">
+			<state>Nakhon Nayok</state>
+			<latitude>140788</latitude>
+			<longitude>1012288</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zai Ngam -- (State: Chumphon)">
+			<state>Chumphon</state>
+			<latitude>104622</latitude>
+			<longitude>991955</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoi Number 32 River">
+			<state></state>
+			<latitude>142289</latitude>
+			<longitude>1009289</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

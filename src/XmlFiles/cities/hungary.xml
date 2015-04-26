@@ -1,0 +1,523 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Hungary">
+		<city name="Apostag Vasutallomas -- (State: Bacs-Kiskun)">
+			<state>Bacs-Kiskun</state>
+			<latitude>468930</latitude>
+			<longitude>189930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baja -- (State: Bacs-Kiskun)">
+			<state>Bacs-Kiskun</state>
+			<latitude>461931</latitude>
+			<longitude>189765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bekescsaba">
+			<state></state>
+			<latitude>466931</latitude>
+			<longitude>210765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bonyhad -- (State: Tolna)">
+			<state>Tolna</state>
+			<latitude>463098</latitude>
+			<longitude>185431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buda -- (State: Vas)">
+			<state>Vas</state>
+			<latitude>472431</latitude>
+			<longitude>170431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buda -- (State: Budapest)">
+			<state>Budapest</state>
+			<latitude>475098</latitude>
+			<longitude>190431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Budapest">
+			<state></state>
+			<latitude>475098</latitude>
+			<longitude>190931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Budapest-Angyalfold Vasutallomas -- (State: Budapest)">
+			<state>Budapest</state>
+			<latitude>475598</latitude>
+			<longitude>191098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Budapest-Deli Palyaudvar -- (State: Budapest)">
+			<state>Budapest</state>
+			<latitude>475098</latitude>
+			<longitude>190265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Budapest-Jozsefvaros Vasutallomas -- (State: Budapest)">
+			<state>Budapest</state>
+			<latitude>474931</latitude>
+			<longitude>191098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Budapest-Kelenfold Palyaudvar -- (State: Budapest)">
+			<state>Budapest</state>
+			<latitude>474765</latitude>
+			<longitude>190431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Budapest-Keleti Palyaudvar -- (State: Budapest)">
+			<state>Budapest</state>
+			<latitude>475098</latitude>
+			<longitude>191098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Budapest-Nyugati Palyaudvar -- (State: Budapest)">
+			<state>Budapest</state>
+			<latitude>475265</latitude>
+			<longitude>190765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Budapest-Urom Vasutallomas -- (State: Budapest)">
+			<state>Budapest</state>
+			<latitude>475931</latitude>
+			<longitude>190098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Budapest-Zuglo Vasuti Megallohely -- (State: Budapest)">
+			<state>Budapest</state>
+			<latitude>475265</latitude>
+			<longitude>191265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Csanytelek -- (State: Csongrad)">
+			<state>Csongrad</state>
+			<latitude>466099</latitude>
+			<longitude>201266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Debrecen">
+			<state></state>
+			<latitude>475433</latitude>
+			<longitude>216433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dombovar -- (State: Tolna)">
+			<state>Tolna</state>
+			<latitude>463933</latitude>
+			<longitude>181267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Esztergom -- (State: Komarom-Esztergom)">
+			<state>Komarom-Esztergom</state>
+			<latitude>478101</latitude>
+			<longitude>187601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Godollo -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>476103</latitude>
+			<longitude>193770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gyor">
+			<state></state>
+			<latitude>476936</latitude>
+			<longitude>176436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hodmezovasarhely Vasutallomas -- (State: Csongrad)">
+			<state>Csongrad</state>
+			<latitude>464271</latitude>
+			<longitude>203604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kecskemet">
+			<state></state>
+			<latitude>469274</latitude>
+			<longitude>197274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kecskemet -- (State: Gyor-Moson-Sopron)">
+			<state>Gyor-Moson-Sopron</state>
+			<latitude>476940</latitude>
+			<longitude>177940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kecskemet -- (State: Bacs-Kiskun)">
+			<state>Bacs-Kiskun</state>
+			<latitude>469107</latitude>
+			<longitude>197940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kecskemet Also Palyaudvar -- (State: Bacs-Kiskun)">
+			<state>Bacs-Kiskun</state>
+			<latitude>469107</latitude>
+			<longitude>197107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kecskemet Vasutallomas -- (State: Bacs-Kiskun)">
+			<state>Bacs-Kiskun</state>
+			<latitude>469274</latitude>
+			<longitude>197107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kecskemethytanya -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>472774</latitude>
+			<longitude>193440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kecskemetitanya -- (State: Borsod-Abauj-Zemplen)">
+			<state>Borsod-Abauj-Zemplen</state>
+			<latitude>482274</latitude>
+			<longitude>208107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kisvarda -- (State: Szabolcs-Szatmar-Bereg)">
+			<state>Szabolcs-Szatmar-Bereg</state>
+			<latitude>482274</latitude>
+			<longitude>220940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lebeny -- (State: Gyor-Moson-Sopron)">
+			<state>Gyor-Moson-Sopron</state>
+			<latitude>477441</latitude>
+			<longitude>173941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mezobereny -- (State: Bekes)">
+			<state>Bekes</state>
+			<latitude>468276</latitude>
+			<longitude>210442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mezokeresztes-Mezonyarad Vasutallomas -- (State: Borsod-Abauj-Zemplen)">
+			<state>Borsod-Abauj-Zemplen</state>
+			<latitude>478609</latitude>
+			<longitude>206942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mezonyarad -- (State: Borsod-Abauj-Zemplen)">
+			<state>Borsod-Abauj-Zemplen</state>
+			<latitude>478776</latitude>
+			<longitude>206942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Miskolc">
+			<state></state>
+			<latitude>481109</latitude>
+			<longitude>207942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Miskolc-Tiszai Palyaudvar -- (State: Borsod-Abauj-Zemplen)">
+			<state>Borsod-Abauj-Zemplen</state>
+			<latitude>481109</latitude>
+			<longitude>208276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nagykanizsa -- (State: Zala)">
+			<state>Zala</state>
+			<latitude>465252</latitude>
+			<longitude>169827</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nagykanizsa">
+			<state></state>
+			<latitude>464777</latitude>
+			<longitude>170110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paks -- (State: Tolna)">
+			<state>Tolna</state>
+			<latitude>466445</latitude>
+			<longitude>188779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pece -- (State: Bekes)">
+			<state>Bekes</state>
+			<latitude>467445</latitude>
+			<longitude>210279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pecs">
+			<state></state>
+			<latitude>460945</latitude>
+			<longitude>182445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salgotarjan -- (State: Nograd)">
+			<state>Nograd</state>
+			<latitude>481282</latitude>
+			<longitude>198282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Siklos -- (State: Baranya)">
+			<state>Baranya</state>
+			<latitude>458668</latitude>
+			<longitude>183101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Siklosbodony -- (State: Baranya)">
+			<state>Baranya</state>
+			<latitude>459218</latitude>
+			<longitude>181318</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Siklosi-hegyek -- (State: Baranya)">
+			<state>Baranya</state>
+			<latitude>458948</latitude>
+			<longitude>183448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Siklosnagyfalu -- (State: Baranya)">
+			<state>Baranya</state>
+			<latitude>458312</latitude>
+			<longitude>183729</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szeged">
+			<state></state>
+			<latitude>462615</latitude>
+			<longitude>201782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szeged Vasutallomas -- (State: Csongrad)">
+			<state>Csongrad</state>
+			<latitude>462448</latitude>
+			<longitude>201615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szekesfehervar -- (State: Fejer)">
+			<state>Fejer</state>
+			<latitude>472115</latitude>
+			<longitude>184282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szentendre -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>476782</latitude>
+			<longitude>190948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szentes -- (State: Csongrad)">
+			<state>Csongrad</state>
+			<latitude>466615</latitude>
+			<longitude>202782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szentes -- (State: Borsod-Abauj-Zemplen)">
+			<state>Borsod-Abauj-Zemplen</state>
+			<latitude>482282</latitude>
+			<longitude>211782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szigetbecse -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>471448</latitude>
+			<longitude>189615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szigetszentmiklos -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>473615</latitude>
+			<longitude>190615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szigetvar -- (State: Baranya)">
+			<state>Baranya</state>
+			<latitude>460615</latitude>
+			<longitude>178115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szolnok -- (State: Jasz-Nagykun-Szolnok)">
+			<state>Jasz-Nagykun-Szolnok</state>
+			<latitude>471948</latitude>
+			<longitude>202115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tata Vasutallomas -- (State: Komarom-Esztergom)">
+			<state>Komarom-Esztergom</state>
+			<latitude>476783</latitude>
+			<longitude>183449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tatabanya">
+			<state></state>
+			<latitude>475783</latitude>
+			<longitude>184449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tatabanya -- (State: Komarom-Esztergom)">
+			<state>Komarom-Esztergom</state>
+			<latitude>475783</latitude>
+			<longitude>184283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ujfeherto -- (State: Szabolcs-Szatmar-Bereg)">
+			<state>Szabolcs-Szatmar-Bereg</state>
+			<latitude>478117</latitude>
+			<longitude>216950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wagner-resz -- (State: Bacs-Kiskun)">
+			<state>Bacs-Kiskun</state>
+			<latitude>467119</latitude>
+			<longitude>190452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wagnermalom -- (State: Baranya)">
+			<state>Baranya</state>
+			<latitude>461119</latitude>
+			<longitude>184952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wagnertanya -- (State: Veszprem)">
+			<state>Veszprem</state>
+			<latitude>469952</latitude>
+			<longitude>177119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Webertanya -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>473952</latitude>
+			<longitude>192452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weifse Koros">
+			<state></state>
+			<latitude>469452</latitude>
+			<longitude>209786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weisztanya -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>476286</latitude>
+			<longitude>196119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wekerle Sandor-major -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>472452</latitude>
+			<longitude>195286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wekerlekismajor -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>472286</latitude>
+			<longitude>195619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wernermajor -- (State: Baranya)">
+			<state>Baranya</state>
+			<latitude>466786</latitude>
+			<longitude>206119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winklertanya -- (State: Jasz-Nagykun-Szolnok)">
+			<state>Jasz-Nagykun-Szolnok</state>
+			<latitude>475619</latitude>
+			<longitude>196952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winterpuszta -- (State: Bekes)">
+			<state>Bekes</state>
+			<latitude>464452</latitude>
+			<longitude>210619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wittmanntag -- (State: Gyor-Moson-Sopron)">
+			<state>Gyor-Moson-Sopron</state>
+			<latitude>477119</latitude>
+			<longitude>177452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wolfmajor -- (State: Csongrad)">
+			<state>Csongrad</state>
+			<latitude>463786</latitude>
+			<longitude>198119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wurthmajor -- (State: Pest)">
+			<state>Pest</state>
+			<latitude>473452</latitude>
+			<longitude>189619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

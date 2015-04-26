@@ -1,0 +1,2035 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Vanuatu">
+		<city name="Camp Chapuis -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-155068</latitude>
+			<longitude>1671932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Canal du Bruat -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156068</latitude>
+			<longitude>1671766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Canal du Segond -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-155401</latitude>
+			<longitude>1671599</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Ashuk -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-164068</latitude>
+			<longitude>1677932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Ashwell -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-138234</latitude>
+			<longitude>1675599</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Cone -- (State: Shepherd)">
+			<state>Shepherd</state>
+			<latitude>-168401</latitude>
+			<longitude>1684766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Doucere -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-164568</latitude>
+			<longitude>1678432</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap du Sud -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156568</latitude>
+			<longitude>1668432</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Dzele -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-149234</latitude>
+			<longitude>1670266</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Enangiang -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-193234</latitude>
+			<longitude>1693599</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Foreland -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-166901</latitude>
+			<longitude>1681266</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Nord -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-158734</latitude>
+			<longitude>1672099</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Ririna -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-167901</latitude>
+			<longitude>1684932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Tamitchi -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-192068</latitude>
+			<longitude>1696099</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cap Taramotou -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-192734</latitude>
+			<longitude>1695932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Mataavea -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156234</latitude>
+			<longitude>1667766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Nahoi -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-146401</latitude>
+			<longitude>1666266</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Raraow -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-176234</latitude>
+			<longitude>1682099</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Sinotarip -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156401</latitude>
+			<longitude>1668599</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Touar -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-149568</latitude>
+			<longitude>1669766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cascade de la Sarakata -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154234</latitude>
+			<longitude>1671099</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cascade de Nimiraduno -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195568</latitude>
+			<longitude>1694099</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cascadede Santa Maria -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-142568</latitude>
+			<longitude>1675599</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Casuarina Point -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-158568</latitude>
+			<longitude>1681766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Centre -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-177243</latitude>
+			<longitude>1683105</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chenal de l Est -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-164901</latitude>
+			<longitude>1678432</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chenal du Guichen -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-132568</latitude>
+			<longitude>1665932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chenal du Nord-Est -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-164734</latitude>
+			<longitude>1678266</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chenal du Sud-Ouest -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-165401</latitude>
+			<longitude>1677766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ching onponi Point -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-159234</latitude>
+			<longitude>1673432</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chinohouse -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-160401</latitude>
+			<longitude>1673932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Christina Point -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-187568</latitude>
+			<longitude>1689932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clemenceau Point -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-155068</latitude>
+			<longitude>1671766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cliff Bay -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-152901</latitude>
+			<longitude>1679932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Carree -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-155568</latitude>
+			<longitude>1670266</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline de Zirea -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-175901</latitude>
+			<longitude>1683432</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Evelyn -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161568</latitude>
+			<longitude>1673766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Front -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-155401</latitude>
+			<longitude>1668932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Karriomba -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161234</latitude>
+			<longitude>1674266</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Mackenzie -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-177901</latitude>
+			<longitude>1684266</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Noire -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-165734</latitude>
+			<longitude>1681932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Nub -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156401</latitude>
+			<longitude>1668099</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Wainisi -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161068</latitude>
+			<longitude>1673932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Constantine Bank">
+			<state></state>
+			<latitude>-204901</latitude>
+			<longitude>1713432</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cook Reef -- (State: Shepherd)">
+			<state>Shepherd</state>
+			<latitude>-170401</latitude>
+			<longitude>1682766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cooks Rock -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195068</latitude>
+			<longitude>1694766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coral Sea">
+			<state></state>
+			<latitude>-199901</latitude>
+			<longitude>1550099</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cotamtam -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-153568</latitude>
+			<longitude>1667766</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crab Bay -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161568</latitude>
+			<longitude>1675266</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Craig Cove -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162568</latitude>
+			<longitude>1679266</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Creek Ai Riviere -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-176068</latitude>
+			<longitude>1682432</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crique Buguta -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-168234</latitude>
+			<longitude>1682599</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cumberland -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-147234</latitude>
+			<longitude>1666099</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalahoum -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161900</latitude>
+			<longitude>1681600</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalops -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-150067</latitude>
+			<longitude>1667933</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalotaropou -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-149567</latitude>
+			<longitude>1667600</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darbel -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-177233</latitude>
+			<longitude>1683100</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Day Patches -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-168233</latitude>
+			<longitude>1683433</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="De Chauliac Bank">
+			<state></state>
+			<latitude>-166733</latitude>
+			<longitude>1678433</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Delap -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-159733</latitude>
+			<longitude>1682100</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deli -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162400</latitude>
+			<longitude>1682100</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Detroit de Bougainville -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-158233</latitude>
+			<longitude>1671767</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Detroit de Selwyn -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-160567</latitude>
+			<longitude>1681933</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deuriv -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-143567</latitude>
+			<longitude>1675433</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Devel -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-159400</latitude>
+			<longitude>1672600</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diamond Passage -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154567</latitude>
+			<longitude>1672600</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dip Point Anchorage -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162067</latitude>
+			<longitude>1679433</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dirihi -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-156567</latitude>
+			<longitude>1681767</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dixon Reef -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-163400</latitude>
+			<longitude>1673600</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dolphin Island -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-150233</latitude>
+			<longitude>1670933</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Donmat -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-135067</latitude>
+			<longitude>1673433</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Douane -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-155233</latitude>
+			<longitude>1671600</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doubtful Bay -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-152900</latitude>
+			<longitude>1681767</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Douen -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-163567</latitude>
+			<longitude>1677767</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dovin Doui -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-153900</latitude>
+			<longitude>1677767</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Drivai -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-164400</latitude>
+			<longitude>1678267</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dudley Channel -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-138733</latitude>
+			<longitude>1675933</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dumanoir Channel -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-133900</latitude>
+			<longitude>1666600</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faetini -- (State: Shepherd)">
+			<state>Shepherd</state>
+			<latitude>-170731</latitude>
+			<longitude>1683602</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falan -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-153731</latitude>
+			<longitude>1670435</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falatasa -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-153898</latitude>
+			<longitude>1670269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falea -- (State: Shepherd)">
+			<state>Shepherd</state>
+			<latitude>-169898</latitude>
+			<longitude>1686102</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Famban -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162065</latitude>
+			<longitude>1681935</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanarara -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162065</latitude>
+			<longitude>1679769</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanavat -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-162898</latitude>
+			<longitude>1674269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fandoue -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-153065</latitude>
+			<longitude>1678269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanebal -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161731</latitude>
+			<longitude>1681102</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanmaramara Point -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-159731</latitude>
+			<longitude>1681935</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanpatey -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-153898</latitude>
+			<longitude>1681435</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanrereo -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161398</latitude>
+			<longitude>1681269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fantiekon -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161231</latitude>
+			<longitude>1681602</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farealapa -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-174398</latitude>
+			<longitude>1683602</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faroun -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-165065</latitude>
+			<longitude>1676435</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fate -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-176565</latitude>
+			<longitude>1684269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fatfosafosa -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-151731</latitude>
+			<longitude>1681102</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fatmar -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-158731</latitude>
+			<longitude>1682102</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fatouleokakoula -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-174898</latitude>
+			<longitude>1684102</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fautem -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162231</latitude>
+			<longitude>1679435</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Favendao -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-152565</latitude>
+			<longitude>1681769</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fedmogkoum -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-188565</latitude>
+			<longitude>1690269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fejian Bay -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195231</latitude>
+			<longitude>1692769</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filakara -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-168065</latitude>
+			<longitude>1684102</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fingalato -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-153398</latitude>
+			<longitude>1678102</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finoua -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-163398</latitude>
+			<longitude>1677435</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fiourou -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156231</latitude>
+			<longitude>1668769</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fitchar -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-162565</latitude>
+			<longitude>1676769</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fona -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161065</latitude>
+			<longitude>1681269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fonbeta -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-159398</latitude>
+			<longitude>1682602</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fonte -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161898</latitude>
+			<longitude>1679935</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fonteng -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161065</latitude>
+			<longitude>1681935</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fontengro -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161065</latitude>
+			<longitude>1681769</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fonwe -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-160898</latitude>
+			<longitude>1681602</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fonwor -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161565</latitude>
+			<longitude>1682102</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Forari Bay -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-176731</latitude>
+			<longitude>1685602</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foreas -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-139231</latitude>
+			<longitude>1674602</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foreland -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-166731</latitude>
+			<longitude>1681435</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fortsenal -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154398</latitude>
+			<longitude>1668935</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foswaravo -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-153731</latitude>
+			<longitude>1679269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fousroumbous -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154398</latitude>
+			<longitude>1669269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Framnais -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-176731</latitude>
+			<longitude>1682935</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futunah -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195231</latitude>
+			<longitude>1702269</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fwimambwetoli -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-153065</latitude>
+			<longitude>1678435</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fwimatal -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154398</latitude>
+			<longitude>1670435</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fwimberougou -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-153065</latitude>
+			<longitude>1678602</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garet -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-142564</latitude>
+			<longitude>1675103</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gariroumroum -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161230</latitude>
+			<longitude>1674436</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gavigamana -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-131230</latitude>
+			<longitude>1665770</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geregon -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-139064</latitude>
+			<longitude>1674603</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geren -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-156230</latitude>
+			<longitude>1681270</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gilendoungi -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-151064</latitude>
+			<longitude>1680770</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gnierenioumen -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-136897</latitude>
+			<longitude>1676270</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goat Island -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-186897</latitude>
+			<longitude>1692936</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gog -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-142730</latitude>
+			<longitude>1675103</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goul -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-159230</latitude>
+			<longitude>1682770</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goulouf -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-158730</latitude>
+			<longitude>1682770</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gousounransit Point -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-159730</latitude>
+			<longitude>1682770</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Quai -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-177414</latitude>
+			<longitude>1682950</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande de Baie -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-166730</latitude>
+			<longitude>1682603</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande Passe -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-132897</latitude>
+			<longitude>1666270</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande Plaine de Cendres -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162397</latitude>
+			<longitude>1681436</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Green Hill -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-193730</latitude>
+			<longitude>1692936</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Green Point -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-196230</latitude>
+			<longitude>1693603</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grempo -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-152564</latitude>
+			<longitude>1670770</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grotte Hitibrong -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-162897</latitude>
+			<longitude>1673770</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gwei Ngak Reef -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-130564</latitude>
+			<longitude>1665770</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haiite Island -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154229</latitude>
+			<longitude>1672604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halhal -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161063</latitude>
+			<longitude>1681437</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halos -- (State: (NH11))">
+			<state>(NH11)</state>
+			<latitude>-165229</latitude>
+			<longitude>1683604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halpalak -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-159896</latitude>
+			<longitude>1671937</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamelinks -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161063</latitude>
+			<longitude>1674104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hampet -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161063</latitude>
+			<longitude>1674437</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hangar -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161563</latitude>
+			<longitude>1681104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hapuna River -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-151563</latitude>
+			<longitude>1668604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harbelbel -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161896</latitude>
+			<longitude>1675104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harimal -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-160896</latitude>
+			<longitude>1681771</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haro Point -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-142396</latitude>
+			<longitude>1674104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hat Island -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156229</latitude>
+			<longitude>1669437</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hat Island -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-176396</latitude>
+			<longitude>1681437</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Havannah Harbour -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-175729</latitude>
+			<longitude>1682437</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Havoumala -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161563</latitude>
+			<longitude>1675104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hawor -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-161396</latitude>
+			<longitude>1681437</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hebel -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-162729</latitude>
+			<longitude>1676604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Helendaa -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162729</latitude>
+			<longitude>1680104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hemebouer -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-162396</latitude>
+			<longitude>1676271</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Henaff Point -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-153396</latitude>
+			<longitude>1672104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herat -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-163396</latitude>
+			<longitude>1682104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hibao -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-167563</latitude>
+			<longitude>1681604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hideaway Island -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-176896</latitude>
+			<longitude>1682604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hillard Channel -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-176063</latitude>
+			<longitude>1682271</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hinchinbrook Island -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-174229</latitude>
+			<longitude>1683604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiw -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-131229</latitude>
+			<longitude>1665604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hog Harbour -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-151396</latitude>
+			<longitude>1671104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hokoua -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-146563</latitude>
+			<longitude>1666271</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hokua -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-146896</latitude>
+			<longitude>1666104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Holen -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-165063</latitude>
+			<longitude>1683271</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Homo Bay -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-159396</latitude>
+			<longitude>1681937</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Honeram -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161896</latitude>
+			<longitude>1674937</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hongrai -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-187896</latitude>
+			<longitude>1691437</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Honnfar -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161063</latitude>
+			<longitude>1673104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horrok -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161229</latitude>
+			<longitude>1672937</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hotnonsouban -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-157896</latitude>
+			<longitude>1681771</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Houbikou -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-157063</latitude>
+			<longitude>1681437</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Houle -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-158396</latitude>
+			<longitude>1682604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Houne -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-188063</latitude>
+			<longitude>1690104</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hounnbank -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-165896</latitude>
+			<longitude>1674604</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hourma -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-165563</latitude>
+			<longitude>1674937</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jardins de Deuriv -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-143394</latitude>
+			<longitude>1675439</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jasmori -- (State: (NH06))">
+			<state>(NH06)</state>
+			<latitude>-149061</latitude>
+			<longitude>1680773</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jononou -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-162727</latitude>
+			<longitude>1675939</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jourdain -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-151561</latitude>
+			<longitude>1669106</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jowi -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-166227</latitude>
+			<longitude>1681606</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaintsouro -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154560</latitude>
+			<longitude>1668940</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaipiloa -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-153893</latitude>
+			<longitude>1668107</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kakula -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-175060</latitude>
+			<longitude>1684107</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamel Lewawa -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-156393</latitude>
+			<longitude>1681274</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamelbageo -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-153060</latitude>
+			<longitude>1679774</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kariamaoura -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-157726</latitude>
+			<longitude>1667274</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karne -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-159393</latitude>
+			<longitude>1673274</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karo -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-160226</latitude>
+			<longitude>1671940</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kasserouarou -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-162226</latitude>
+			<longitude>1675440</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katbol -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-161726</latitude>
+			<longitude>1674774</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keamu -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-201893</latitude>
+			<longitude>1698274</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kere -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-147060</latitude>
+			<longitude>1665774</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kereboa -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-152893</latitude>
+			<longitude>1666607</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kereliou -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-143060</latitude>
+			<longitude>1675940</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kerenaoura -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156560</latitude>
+			<longitude>1667940</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kerenolas -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-155726</latitude>
+			<longitude>1667774</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kerentavou -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154726</latitude>
+			<longitude>1669107</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kereowia -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-153060</latitude>
+			<longitude>1666607</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kererara -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156226</latitude>
+			<longitude>1668440</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kereway -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-155060</latitude>
+			<longitude>1667107</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khuneveo -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-165226</latitude>
+			<longitude>1678274</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kindou -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-163226</latitude>
+			<longitude>1673940</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kingdove Bay -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-166226</latitude>
+			<longitude>1681440</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koimarama -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-138893</latitude>
+			<longitude>1674774</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kole -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-152226</latitude>
+			<longitude>1671774</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koleakar -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-148393</latitude>
+			<longitude>1666440</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Komae -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-147060</latitude>
+			<longitude>1665940</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Konaekeun -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-194726</latitude>
+			<longitude>1693107</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koulbaga -- (State: (NH12))">
+			<state>(NH12)</state>
+			<latitude>-156726</latitude>
+			<longitude>1681440</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koulouwan -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154560</latitude>
+			<longitude>1668274</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kouroumanpe -- (State: Shepherd)">
+			<state>Shepherd</state>
+			<latitude>-168726</latitude>
+			<longitude>1685607</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuru -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-143393</latitude>
+			<longitude>1674607</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuwae -- (State: Shepherd)">
+			<state>Shepherd</state>
+			<latitude>-168893</latitude>
+			<longitude>1685607</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwakea -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-139060</latitude>
+			<longitude>1674940</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwanglav -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-137893</latitude>
+			<longitude>1675440</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Vila -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-177388</latitude>
+			<longitude>1683112</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qakea -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-138720</latitude>
+			<longitude>1676113</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quai de la Star -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-177404</latitude>
+			<longitude>1682969</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quion Hill -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-175443</latitude>
+			<longitude>1684446</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qunassoule -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-150720</latitude>
+			<longitude>1666280</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoin Hill -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-175387</latitude>
+			<longitude>1684280</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quora -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-148220</latitude>
+			<longitude>1667446</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stade -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-177302</latitude>
+			<longitude>1683132</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Star Peak -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-144385</latitude>
+			<longitude>1680615</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Steaming Hill Lake -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-142718</latitude>
+			<longitude>1675448</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sugar Loaf Island -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-138385</latitude>
+			<longitude>1677115</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sugarloaf Point -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-167552</latitude>
+			<longitude>1684615</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sulphur Bay -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195052</latitude>
+			<longitude>1694615</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sulphur River -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-138218</latitude>
+			<longitude>1675448</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suretimeat -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-137718</latitude>
+			<longitude>1674782</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Surundu Bay -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154552</latitude>
+			<longitude>1672282</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uduna Passage -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-174758</latitude>
+			<longitude>1683617</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulveah -- (State: (NH11))">
+			<state>(NH11)</state>
+			<latitude>-164883</latitude>
+			<longitude>1683617</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Um-Una -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-154716</latitude>
+			<longitude>1672617</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umpon Yelongi -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-189050</latitude>
+			<longitude>1690950</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Undine Bay -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-175050</latitude>
+			<longitude>1683617</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Undine Passage -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-153883</latitude>
+			<longitude>1672450</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unpongkor -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-188050</latitude>
+			<longitude>1690284</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ur -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-165883</latitude>
+			<longitude>1674784</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uranaleilei Reef -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-175050</latitude>
+			<longitude>1684339</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urelapa -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-156050</latitude>
+			<longitude>1670284</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ureparapara -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-135216</latitude>
+			<longitude>1673450</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uri -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-160883</latitude>
+			<longitude>1674617</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uripiv -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-160716</latitude>
+			<longitude>1674617</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utanlangi -- (State: (NH08))">
+			<state>(NH08)</state>
+			<latitude>-174216</latitude>
+			<longitude>1683339</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uvwore -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-187716</latitude>
+			<longitude>1692784</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakoukak -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195379</latitude>
+			<longitude>1693288</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakounetikaoulil -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195046</latitude>
+			<longitude>1693288</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamnouroue -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-187546</latitude>
+			<longitude>1690621</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanamahou -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-194712</latitude>
+			<longitude>1694288</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanamwakel -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195046</latitude>
+			<longitude>1694454</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanaouhiya -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195212</latitude>
+			<longitude>1692954</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanavatang -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195546</latitude>
+			<longitude>1694454</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang abale -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-162712</latitude>
+			<longitude>1674454</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yankoula -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195212</latitude>
+			<longitude>1694121</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yankwaneneay -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-196046</latitude>
+			<longitude>1693621</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanmileun -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195379</latitude>
+			<longitude>1694121</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaoukouriruang -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195546</latitude>
+			<longitude>1693621</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yapimay -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195546</latitude>
+			<longitude>1693288</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yapnawitaleng -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195379</latitude>
+			<longitude>1693454</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yar -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-150879</latitude>
+			<longitude>1670954</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarouareung -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-196379</latitude>
+			<longitude>1693954</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarri -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-188046</latitude>
+			<longitude>1690954</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yasur -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195212</latitude>
+			<longitude>1694454</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yates -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-155879</latitude>
+			<longitude>1669121</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yawi -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-166712</latitude>
+			<longitude>1682788</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yelewar -- (State: (NH10))">
+			<state>(NH10)</state>
+			<latitude>-162712</latitude>
+			<longitude>1671621</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yelowouwou -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162712</latitude>
+			<longitude>1679788</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yemyu Cove -- (State: (NH09))">
+			<state>(NH09)</state>
+			<latitude>-166379</latitude>
+			<longitude>1681454</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeno -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162379</latitude>
+			<longitude>1679954</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yenseoue -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162879</latitude>
+			<longitude>1679788</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yentobo -- (State: (NH05))">
+			<state>(NH05)</state>
+			<latitude>-162879</latitude>
+			<longitude>1680288</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerou -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195712</latitude>
+			<longitude>1693454</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yetakape -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-196212</latitude>
+			<longitude>1694621</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yetap -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195712</latitude>
+			<longitude>1693288</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeu Metenia -- (State: Torba)">
+			<state>Torba</state>
+			<latitude>-131046</latitude>
+			<longitude>1665621</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yewao Point -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-195212</latitude>
+			<longitude>1695121</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yimnakayip -- (State: Tafea)">
+			<state>Tafea</state>
+			<latitude>-193879</latitude>
+			<longitude>1693121</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yokowo -- (State: Sanma)">
+			<state>Sanma</state>
+			<latitude>-152212</latitude>
+			<longitude>1666788</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

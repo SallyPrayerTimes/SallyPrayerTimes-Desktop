@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Chad">
+		<city name="Abeche -- (State: Ouaddai)">
+			<state>Ouaddai</state>
+			<latitude>138597</latitude>
+			<longitude>208597</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doba -- (State: Moyen-Chari)">
+			<state>Moyen-Chari</state>
+			<latitude>84600</latitude>
+			<longitude>178267</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doba -- (State: Logone Oriental)">
+			<state>Logone Oriental</state>
+			<latitude>87100</latitude>
+			<longitude>168600</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doba Kourangati -- (State: Logone Oriental)">
+			<state>Logone Oriental</state>
+			<latitude>84933</latitude>
+			<longitude>167267</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doba-Dena -- (State: Moyen-Chari)">
+			<state>Moyen-Chari</state>
+			<latitude>84600</latitude>
+			<longitude>178100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dobadene -- (State: Moyen-Chari)">
+			<state>Moyen-Chari</state>
+			<latitude>84767</latitude>
+			<longitude>177933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dobadene V -- (State: Moyen-Chari)">
+			<state>Moyen-Chari</state>
+			<latitude>81600</latitude>
+			<longitude>176933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dobama -- (State: Logone Oriental)">
+			<state>Logone Oriental</state>
+			<latitude>78933</latitude>
+			<longitude>166767</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dobanene -- (State: Moyen-Chari)">
+			<state>Moyen-Chari</state>
+			<latitude>81767</latitude>
+			<longitude>176933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dobar Bani -- (State: Mayo-Kebbi)">
+			<state>Mayo-Kebbi</state>
+			<latitude>87767</latitude>
+			<longitude>150600</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dobara -- (State: Logone Occidental)">
+			<state>Logone Occidental</state>
+			<latitude>87100</latitude>
+			<longitude>162433</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabal Keili">
+			<state></state>
+			<latitude>110939</latitude>
+			<longitude>229439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabal Kullua">
+			<state></state>
+			<latitude>114273</latitude>
+			<longitude>229439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabal Njunun">
+			<state></state>
+			<latitude>126439</latitude>
+			<longitude>224773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabal Selika">
+			<state></state>
+			<latitude>139439</latitude>
+			<longitude>222106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jakobe -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>178106</latitude>
+			<longitude>219606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jakoua -- (State: Logone Oriental)">
+			<state>Logone Oriental</state>
+			<latitude>78606</latitude>
+			<longitude>156106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamy -- (State: Logone Oriental)">
+			<state>Logone Oriental</state>
+			<latitude>77273</latitude>
+			<longitude>158273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jara -- (State: Guera)">
+			<state>Guera</state>
+			<latitude>112273</latitude>
+			<longitude>184939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaradi -- (State: Chari-Baguirmi)">
+			<state>Chari-Baguirmi</state>
+			<latitude>114273</latitude>
+			<longitude>153106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Abouguetti -- (State: Biltine)">
+			<state>Biltine</state>
+			<latitude>155273</latitude>
+			<longitude>224106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Albas">
+			<state></state>
+			<latitude>126606</latitude>
+			<longitude>224106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Arfalla -- (State: Biltine)">
+			<state>Biltine</state>
+			<latitude>151106</latitude>
+			<longitude>211273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Herisa Djerba -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>158773</latitude>
+			<longitude>236439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Karameign -- (State: Ouaddai)">
+			<state>Ouaddai</state>
+			<latitude>126939</latitude>
+			<longitude>217773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Kudri -- (State: Ouaddai)">
+			<state>Ouaddai</state>
+			<latitude>137606</latitude>
+			<longitude>220939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Laja -- (State: Ouaddai)">
+			<state>Ouaddai</state>
+			<latitude>112439</latitude>
+			<longitude>229439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Mardou -- (State: Biltine)">
+			<state>Biltine</state>
+			<latitude>153439</latitude>
+			<longitude>219606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Moru -- (State: Ouaddai)">
+			<state>Ouaddai</state>
+			<latitude>111273</latitude>
+			<longitude>226773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Sifeia -- (State: Salamat)">
+			<state>Salamat</state>
+			<latitude>116273</latitude>
+			<longitude>217939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jef-Jef el Kebir -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>205106</latitude>
+			<longitude>214273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jemeli -- (State: Kanem)">
+			<state>Kanem</state>
+			<latitude>151606</latitude>
+			<longitude>144939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jibrin Katiga -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>213106</latitude>
+			<longitude>172439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimane -- (State: Mayo-Kebbi)">
+			<state>Mayo-Kebbi</state>
+			<latitude>98939</latitude>
+			<longitude>158273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jirgadji -- (State: Moyen-Chari)">
+			<state>Moyen-Chari</state>
+			<latitude>89606</latitude>
+			<longitude>179273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jombo -- (State: Batha)">
+			<state>Batha</state>
+			<latitude>140606</latitude>
+			<longitude>196773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jougi -- (State: Kanem)">
+			<state>Kanem</state>
+			<latitude>152439</latitude>
+			<longitude>149273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jue -- (State: Mayo-Kebbi)">
+			<state>Mayo-Kebbi</state>
+			<latitude>99106</latitude>
+			<longitude>149439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kelo -- (State: Tandjile)">
+			<state>Tandjile</state>
+			<latitude>93274</latitude>
+			<longitude>157774</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koumra -- (State: Moyen-Chari)">
+			<state>Moyen-Chari</state>
+			<latitude>89274</latitude>
+			<longitude>175774</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lai -- (State: Tandjile)">
+			<state>Tandjile</state>
+			<latitude>93941</latitude>
+			<longitude>163108</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moundou -- (State: Logone Occidental)">
+			<state>Logone Occidental</state>
+			<latitude>86276</latitude>
+			<longitude>160776</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ndjemena -- (State: Chari-Baguirmi)">
+			<state>Chari-Baguirmi</state>
+			<latitude>121241</latitude>
+			<longitude>150602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarat Abu N dougay -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>208780</latitude>
+			<longitude>209280</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarat Tulayhat -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>202113</latitude>
+			<longitude>216446</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queiba -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>183946</latitude>
+			<longitude>233613</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Arrahie -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>224617</latitude>
+			<longitude>165950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Assanarda -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>220117</latitude>
+			<longitude>155450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Bardaghe -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>221117</latitude>
+			<longitude>164784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Curigabo -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>220450</latitude>
+			<longitude>155784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Iebbighe -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>220784</latitude>
+			<longitude>178284</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Unga -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>209450</latitude>
+			<longitude>197784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uaru -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>205617</latitude>
+			<longitude>193784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Assala -- (State: Salamat)">
+			<state>Salamat</state>
+			<latitude>113617</latitude>
+			<longitude>202950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Durdio -- (State: Ouaddai)">
+			<state>Ouaddai</state>
+			<latitude>119450</latitude>
+			<longitude>220117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Jelat -- (State: Salamat)">
+			<state>Salamat</state>
+			<latitude>109450</latitude>
+			<longitude>202617</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Malali -- (State: Salamat)">
+			<state>Salamat</state>
+			<latitude>108950</latitude>
+			<longitude>214950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Naker -- (State: Batha)">
+			<state>Batha</state>
+			<latitude>145617</latitude>
+			<longitude>184784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Senet -- (State: Salamat)">
+			<state>Salamat</state>
+			<latitude>113284</latitude>
+			<longitude>206617</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Sigan -- (State: Salamat)">
+			<state>Salamat</state>
+			<latitude>116950</latitude>
+			<longitude>198617</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Timman -- (State: Salamat)">
+			<state>Salamat</state>
+			<latitude>110450</latitude>
+			<longitude>202950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uri -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>215784</latitude>
+			<longitude>192284</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urma -- (State: Guera)">
+			<state>Guera</state>
+			<latitude>114450</latitude>
+			<longitude>183784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzu">
+			<state></state>
+			<latitude>218450</latitude>
+			<longitude>174117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de Modiounga -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>198618</latitude>
+			<longitude>190785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venderlin -- (State: Logone Oriental)">
+			<state>Logone Oriental</state>
+			<latitude>76118</latitude>
+			<longitude>156785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villoumaye -- (State: Tandjile)">
+			<state>Tandjile</state>
+			<latitude>95451</latitude>
+			<longitude>160451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vissi -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>213118</latitude>
+			<longitude>182118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vorilao -- (State: Mayo-Kebbi)">
+			<state>Mayo-Kebbi</state>
+			<latitude>92785</latitude>
+			<longitude>147785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouli -- (State: Mayo-Kebbi)">
+			<state>Mayo-Kebbi</state>
+			<latitude>93285</latitude>
+			<longitude>144118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voulmous -- (State: Chari-Baguirmi)">
+			<state>Chari-Baguirmi</state>
+			<latitude>115118</latitude>
+			<longitude>151451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ybakoura -- (State: Borkou-Ennedi-Tibesti)">
+			<state>Borkou-Ennedi-Tibesti</state>
+			<latitude>220954</latitude>
+			<longitude>157288</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

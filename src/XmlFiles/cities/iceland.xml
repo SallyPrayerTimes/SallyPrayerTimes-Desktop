@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Iceland">
+		<city name="Akureyri -- (State: (IC09))">
+			<state>(IC09)</state>
+			<latitude>656764</latitude>
+			<longitude>-180903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Drifa -- (State: (IC36))">
+			<state>(IC36)</state>
+			<latitude>660766</latitude>
+			<longitude>-237568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grindavik -- (State: (IC10))">
+			<state>(IC10)</state>
+			<latitude>638436</latitude>
+			<longitude>-224230</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karahnjukar -- (State: (IC20))">
+			<state>(IC20)</state>
+			<latitude>649607</latitude>
+			<longitude>-157560</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keflavik -- (State: (IC14))">
+			<state>(IC14)</state>
+			<latitude>640107</latitude>
+			<longitude>-225560</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olafsvik -- (State: (IC29))">
+			<state>(IC29)</state>
+			<latitude>648944</latitude>
+			<longitude>-237056</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pafi -- (State: (IC36))">
+			<state>(IC36)</state>
+			<latitude>661445</latitude>
+			<longitude>-231221</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Papataettur -- (State: (IC31))">
+			<state>(IC31)</state>
+			<latitude>646112</latitude>
+			<longitude>-141555</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paradis -- (State: (IC29))">
+			<state>(IC29)</state>
+			<latitude>650612</latitude>
+			<longitude>-223721</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Partur -- (State: (IC03))">
+			<state>(IC03)</state>
+			<latitude>639779</latitude>
+			<longitude>-211388</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Partur -- (State: (IC31))">
+			<state>(IC31)</state>
+			<latitude>651112</latitude>
+			<longitude>-135388</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Patrix Fjord -- (State: (IC34))">
+			<state>(IC34)</state>
+			<latitude>655779</latitude>
+			<longitude>-239888</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petursborg -- (State: (IC09))">
+			<state>(IC09)</state>
+			<latitude>657279</latitude>
+			<longitude>-181388</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petursey -- (State: (IC37))">
+			<state>(IC37)</state>
+			<latitude>634779</latitude>
+			<longitude>-192555</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pilagrimsfell -- (State: (IC32))">
+			<state>(IC32)</state>
+			<latitude>653779</latitude>
+			<longitude>-174721</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pingeyri -- (State: (IC36))">
+			<state>(IC36)</state>
+			<latitude>658779</latitude>
+			<longitude>-234888</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pollen Harbour -- (State: (IC36))">
+			<state>(IC36)</state>
+			<latitude>660779</latitude>
+			<longitude>-231388</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Porsnes -- (State: (IC15))">
+			<state>(IC15)</state>
+			<latitude>641659</latitude>
+			<longitude>-218305</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prestabugt -- (State: (IC36))">
+			<state>(IC36)</state>
+			<latitude>660945</latitude>
+			<longitude>-231055</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prestahnukur">
+			<state></state>
+			<latitude>645945</latitude>
+			<longitude>-206555</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prestakleif -- (State: (IC20))">
+			<state>(IC20)</state>
+			<latitude>652279</latitude>
+			<longitude>-145888</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prestholar -- (State: (IC21))">
+			<state>(IC21)</state>
+			<latitude>662779</latitude>
+			<longitude>-163888</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Presthvammur -- (State: (IC32))">
+			<state>(IC32)</state>
+			<latitude>658445</latitude>
+			<longitude>-173055</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prestsfjall">
+			<state></state>
+			<latitude>656112</latitude>
+			<longitude>-188888</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Purkholl -- (State: (IC29))">
+			<state>(IC29)</state>
+			<latitude>647612</latitude>
+			<longitude>-238221</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Purkugerdhi -- (State: (IC20))">
+			<state>(IC20)</state>
+			<latitude>659112</latitude>
+			<longitude>-146555</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Purkuvatn -- (State: (IC20))">
+			<state>(IC20)</state>
+			<latitude>659112</latitude>
+			<longitude>-147388</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reidharfjordhur -- (State: (IC31))">
+			<state>(IC31)</state>
+			<latitude>650281</latitude>
+			<longitude>-139886</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reykjarvik -- (State: (IC30))">
+			<state>(IC30)</state>
+			<latitude>657947</latitude>
+			<longitude>-213886</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reykjavik -- (State: (IC10))">
+			<state>(IC10)</state>
+			<latitude>641614</latitude>
+			<longitude>-219386</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reykjavik -- (State: Hofudhborgarsvaedhi)">
+			<state>Hofudhborgarsvaedhi</state>
+			<latitude>642114</latitude>
+			<longitude>-216553</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reykjavik -- (State: (IC24))">
+			<state>(IC24)</state>
+			<latitude>641447</latitude>
+			<longitude>-218886</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vatnajokull">
+			<state></state>
+			<latitude>644118</latitude>
+			<longitude>-167882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wandelsbodhi -- (State: (IC19))">
+			<state>(IC19)</state>
+			<latitude>662452</latitude>
+			<longitude>-217381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Westmann Islands -- (State: (IC23))">
+			<state>(IC23)</state>
+			<latitude>633786</latitude>
+			<longitude>-201803</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

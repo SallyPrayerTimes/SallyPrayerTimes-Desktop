@@ -1,0 +1,1069 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Argentina">
+		<city name="1 de Abril -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-379118</latitude>
+			<longitude>-586118</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="1 de Mayo -- (State: Entre Rios)">
+			<state>Entre Rios</state>
+			<latitude>-322618</latitude>
+			<longitude>-684118</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="1 de Mayo -- (State: Chaco)">
+			<state>Chaco</state>
+			<latitude>-272451</latitude>
+			<longitude>-589118</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="10 de Agosto -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-352951</latitude>
+			<longitude>-616618</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="11 de Febrero -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-352784</latitude>
+			<longitude>-616118</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="12 de Agosto -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-337784</latitude>
+			<longitude>-605951</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="12 de Octubre -- (State: Chaco)">
+			<state>Chaco</state>
+			<latitude>-274118</latitude>
+			<longitude>-613284</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="12 de Octubre -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-355951</latitude>
+			<longitude>-608951</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="16 de Julio -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-371784</latitude>
+			<longitude>-601618</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="17 de Agosto -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-379118</latitude>
+			<longitude>-629284</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="17 de Octubre -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>-313784</latitude>
+			<longitude>-641784</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="2 Cono Truncado -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-485617</latitude>
+			<longitude>-693283</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="2 de Mayo -- (State: Misiones)">
+			<state>Misiones</state>
+			<latitude>-270283</latitude>
+			<longitude>-546450</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="20 de Febrero -- (State: Salta)">
+			<state>Salta</state>
+			<latitude>-254117</latitude>
+			<longitude>-655283</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="20 de Setiembre -- (State: Entre Rios)">
+			<state>Entre Rios</state>
+			<latitude>-323783</latitude>
+			<longitude>-596617</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="23 de Agosto -- (State: Jujuy)">
+			<state>Jujuy</state>
+			<latitude>-237617</latitude>
+			<longitude>-646783</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="24 de Febrero -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-345283</latitude>
+			<longitude>-631617</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: La Pampa)">
+			<state>La Pampa</state>
+			<latitude>-377950</latitude>
+			<longitude>-676783</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-354950</latitude>
+			<longitude>-602450</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: San Luis)">
+			<state>San Luis</state>
+			<latitude>-344950</latitude>
+			<longitude>-658283</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-412450</latitude>
+			<longitude>-689950</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: Chaco)">
+			<state>Chaco</state>
+			<latitude>-266617</latitude>
+			<longitude>-599950</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-280283</latitude>
+			<longitude>-594450</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: Misiones)">
+			<state>Misiones</state>
+			<latitude>-274117</latitude>
+			<longitude>-546617</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: Mendoza)">
+			<state>Mendoza</state>
+			<latitude>-345783</latitude>
+			<longitude>-685450</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="25 de Mayo -- (State: San Juan)">
+			<state>San Juan</state>
+			<latitude>-318283</latitude>
+			<longitude>-678283</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="28 de Marzo -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-285783</latitude>
+			<longitude>-624950</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="28 de Noviembre -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-516450</latitude>
+			<longitude>-722950</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="28 de Septiembre -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-345950</latitude>
+			<longitude>-586283</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3 Arboles -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-282616</latitude>
+			<longitude>-650616</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3 Chorros -- (State: Mendoza)">
+			<state>Mendoza</state>
+			<latitude>-366116</latitude>
+			<longitude>-685782</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3 de Febrero -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-345782</latitude>
+			<longitude>-585782</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3 de Mayo -- (State: Mendoza)">
+			<state>Mendoza</state>
+			<latitude>-326616</latitude>
+			<longitude>-686116</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3 Lagunas -- (State: Neuquen)">
+			<state>Neuquen</state>
+			<latitude>-389616</latitude>
+			<longitude>-704616</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="30 de Agosto -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-362616</latitude>
+			<longitude>-625449</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="4 de Febrero -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-337948</latitude>
+			<longitude>-615781</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="4 de Noviembre -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-341448</latitude>
+			<longitude>-607948</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="6 de Septiembre -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-346371</latitude>
+			<longitude>-586127</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="7 de Abril -- (State: Tucuman)">
+			<state>Tucuman</state>
+			<latitude>-262778</latitude>
+			<longitude>-644778</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="9 de Julio -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-288276</latitude>
+			<longitude>-613276</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="9 de Julio -- (State: San Luis)">
+			<state>San Luis</state>
+			<latitude>-345110</latitude>
+			<longitude>-660943</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="9 de Julio -- (State: Corrientes)">
+			<state>Corrientes</state>
+			<latitude>-288276</latitude>
+			<longitude>-588276</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="9 de Julio -- (State: San Juan)">
+			<state>San Juan</state>
+			<latitude>-316443</latitude>
+			<longitude>-683943</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="9 de Julio -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-354485</latitude>
+			<longitude>-608857</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="9 de Julio -- (State: Chaco)">
+			<state>Chaco</state>
+			<latitude>-269943</latitude>
+			<longitude>-613276</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bariloche -- (State: Rio Negro)">
+			<state>Rio Negro</state>
+			<latitude>-411402</latitude>
+			<longitude>-712902</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buenos Aires -- (State: Distrito Federal)">
+			<state>Distrito Federal</state>
+			<latitude>-345777</latitude>
+			<longitude>-586627</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buenos Aires Chico -- (State: Chubut)">
+			<state>Chubut</state>
+			<latitude>-420735</latitude>
+			<longitude>-712235</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Capital Federal -- (State: Distrito Federal)">
+			<state>Distrito Federal</state>
+			<latitude>-345901</latitude>
+			<longitude>-584401</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cordoba">
+			<state></state>
+			<latitude>-313901</latitude>
+			<longitude>-641734</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cordoba -- (State: San Juan)">
+			<state>San Juan</state>
+			<latitude>-317568</latitude>
+			<longitude>-688401</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Corrientes">
+			<state></state>
+			<latitude>-274568</latitude>
+			<longitude>-588234</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Formosa">
+			<state></state>
+			<latitude>-261731</latitude>
+			<longitude>-581731</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humberto Primero -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-330229</latitude>
+			<longitude>-610229</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ituzaingo -- (State: Corrientes)">
+			<state>Corrientes</state>
+			<latitude>-275895</latitude>
+			<longitude>-566728</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ituzaingo -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-346562</latitude>
+			<longitude>-586562</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jujuy">
+			<state></state>
+			<latitude>-241727</latitude>
+			<longitude>-652894</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Pampa -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-332392</latitude>
+			<longitude>-614725</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Pampa -- (State: San Luis)">
+			<state>San Luis</state>
+			<latitude>-323725</latitude>
+			<longitude>-656559</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Pampa -- (State: La Rioja)">
+			<state>La Rioja</state>
+			<latitude>-292892</latitude>
+			<longitude>-671225</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Pampa -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>-309225</latitude>
+			<longitude>-642725</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Pampa">
+			<state></state>
+			<latitude>-349892</latitude>
+			<longitude>-629892</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Pampa Grande -- (State: San Luis)">
+			<state>San Luis</state>
+			<latitude>-323225</latitude>
+			<longitude>-663059</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Plata -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-349559</latitude>
+			<longitude>-578725</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Plata -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-506392</latitude>
+			<longitude>-700725</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Plata -- (State: La Rioja)">
+			<state>La Rioja</state>
+			<latitude>-307059</latitude>
+			<longitude>-669559</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Plata -- (State: Salta)">
+			<state>Salta</state>
+			<latitude>-223392</latitude>
+			<longitude>-635225</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Plata -- (State: San Luis)">
+			<state>San Luis</state>
+			<latitude>-320225</latitude>
+			<longitude>-659225</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Rioja">
+			<state></state>
+			<latitude>-294225</latitude>
+			<longitude>-668392</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mar del Plata -- (State: Chaco)">
+			<state>Chaco</state>
+			<latitude>-252558</latitude>
+			<longitude>-605058</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mar Del Plata -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-379224</latitude>
+			<longitude>-575558</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mar del Plata -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-379891</latitude>
+			<longitude>-575391</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mendoza">
+			<state></state>
+			<latitude>-328724</latitude>
+			<longitude>-688058</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mendoza -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-283724</latitude>
+			<longitude>-649224</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palermo -- (State: Distrito Federal)">
+			<state>Distrito Federal</state>
+			<latitude>-345721</latitude>
+			<longitude>-584055</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palermo -- (State: Salta)">
+			<state>Salta</state>
+			<latitude>-249221</latitude>
+			<longitude>-661721</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palermo -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-277388</latitude>
+			<longitude>-633388</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rosario -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-329397</latitude>
+			<longitude>-606550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rosario -- (State: Jujuy)">
+			<state>Jujuy</state>
+			<latitude>-227219</latitude>
+			<longitude>-647886</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rosario International -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-328886</latitude>
+			<longitude>-607719</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salta">
+			<state></state>
+			<latitude>-247718</latitude>
+			<longitude>-654052</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Fe -- (State: Salta)">
+			<state>Salta</state>
+			<latitude>-234718</latitude>
+			<longitude>-634218</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Fe -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-280885</latitude>
+			<longitude>-646385</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Fe">
+			<state></state>
+			<latitude>-316552</latitude>
+			<longitude>-608218</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Felisa -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-263552</latitude>
+			<longitude>-630552</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tucuman">
+			<state></state>
+			<latitude>-268051</latitude>
+			<longitude>-652051</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tucumana -- (State: Catamarca)">
+			<state>Catamarca</state>
+			<latitude>-280551</latitude>
+			<longitude>-666051</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tucumancito -- (State: Formosa)">
+			<state>Formosa</state>
+			<latitude>-228051</latitude>
+			<longitude>-621051</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tucumancito -- (State: Salta)">
+			<state>Salta</state>
+			<latitude>-231884</latitude>
+			<longitude>-636884</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubajay -- (State: Corrientes)">
+			<state>Corrientes</state>
+			<latitude>-273216</latitude>
+			<longitude>-561050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubajay -- (State: Entre Rios)">
+			<state>Entre Rios</state>
+			<latitude>-317716</latitude>
+			<longitude>-582883</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ucacha -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>-330216</latitude>
+			<longitude>-635050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uclar -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-271050</latitude>
+			<longitude>-644050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ucle El Mangrullo -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-280883</latitude>
+			<longitude>-649550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ucumaso -- (State: Jujuy)">
+			<state>Jujuy</state>
+			<latitude>-232216</latitude>
+			<longitude>-652050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udaquilla -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-365550</latitude>
+			<longitude>-585050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udi y Compania -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-382383</latitude>
+			<longitude>-612216</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ugarteche -- (State: Mendoza)">
+			<state>Mendoza</state>
+			<latitude>-332050</latitude>
+			<longitude>-688716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uguay -- (State: Corrientes)">
+			<state>Corrientes</state>
+			<latitude>-286383</latitude>
+			<longitude>-574716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulapes -- (State: La Rioja)">
+			<state>La Rioja</state>
+			<latitude>-315716</latitude>
+			<longitude>-662383</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ullun -- (State: San Juan)">
+			<state>San Juan</state>
+			<latitude>-314716</latitude>
+			<longitude>-686883</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umamaj -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-286716</latitude>
+			<longitude>-636216</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umango -- (State: La Rioja)">
+			<state>La Rioja</state>
+			<latitude>-288883</latitude>
+			<longitude>-685716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umberto Primo -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-308550</latitude>
+			<longitude>-613550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unanue -- (State: La Pampa)">
+			<state>La Pampa</state>
+			<latitude>-375216</latitude>
+			<longitude>-643383</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unatuya -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-284550</latitude>
+			<longitude>-628216</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union -- (State: Formosa)">
+			<state>Formosa</state>
+			<latitude>-240716</latitude>
+			<longitude>-605716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-326383</latitude>
+			<longitude>-613550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unquillo -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>-312216</latitude>
+			<longitude>-643050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unzue -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-361216</latitude>
+			<longitude>-610050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upianan -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-288550</latitude>
+			<longitude>-643550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upinango -- (State: La Rioja)">
+			<state>La Rioja</state>
+			<latitude>-286716</latitude>
+			<longitude>-667716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uquia -- (State: Jujuy)">
+			<state>Jujuy</state>
+			<latitude>-232883</latitude>
+			<longitude>-653383</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uranga -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-332550</latitude>
+			<longitude>-606883</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urbano -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-336383</latitude>
+			<longitude>-614383</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urdampilleta -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-364383</latitude>
+			<longitude>-614216</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urdinarrain -- (State: Entre Rios)">
+			<state>Entre Rios</state>
+			<latitude>-326716</latitude>
+			<longitude>-588716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uren Aike -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-495550</latitude>
+			<longitude>-689050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uribelarrea -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-351116</latitude>
+			<longitude>-588766</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uriburu -- (State: Corrientes)">
+			<state>Corrientes</state>
+			<latitude>-274383</latitude>
+			<longitude>-569716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uriburu -- (State: La Pampa)">
+			<state>La Pampa</state>
+			<latitude>-364883</latitude>
+			<longitude>-638216</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uritu Huasi -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-291216</latitude>
+			<longitude>-637383</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urizar -- (State: Tucuman)">
+			<state>Tucuman</state>
+			<latitude>-266716</latitude>
+			<longitude>-646050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urizar -- (State: La Rioja)">
+			<state>La Rioja</state>
+			<latitude>-315383</latitude>
+			<longitude>-657716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urquiza -- (State: Entre Rios)">
+			<state>Entre Rios</state>
+			<latitude>-321550</latitude>
+			<longitude>-589216</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urundel -- (State: Jujuy)">
+			<state>Jujuy</state>
+			<latitude>-237050</latitude>
+			<longitude>-647716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urundel -- (State: Salta)">
+			<state>Salta</state>
+			<latitude>-235383</latitude>
+			<longitude>-644050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urusmayo -- (State: Jujuy)">
+			<state>Jujuy</state>
+			<latitude>-225716</latitude>
+			<longitude>-663383</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urutau -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-256883</latitude>
+			<longitude>-630550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ushau -- (State: La Pampa)">
+			<state>La Pampa</state>
+			<latitude>-386216</latitude>
+			<longitude>-659883</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ushuaia -- (State: Tierra del Fuego Antartida e Islas del Atlantico Sur)">
+			<state>Tierra del Fuego Antartida e Islas del Atlantico Sur</state>
+			<latitude>-547883</latitude>
+			<longitude>-682883</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usiyal -- (State: San Luis)">
+			<state>San Luis</state>
+			<latitude>-347883</latitude>
+			<longitude>-663050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usno -- (State: La Rioja)">
+			<state>La Rioja</state>
+			<latitude>-305550</latitude>
+			<longitude>-675216</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uspallata -- (State: Mendoza)">
+			<state>Mendoza</state>
+			<latitude>-325383</latitude>
+			<longitude>-693216</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uspallata-Juncal Pass">
+			<state></state>
+			<latitude>-328216</latitude>
+			<longitude>-700716</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utracan -- (State: La Pampa)">
+			<state>La Pampa</state>
+			<latitude>-372550</latitude>
+			<longitude>-645550</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uturango -- (State: Tucuman)">
+			<state>Tucuman</state>
+			<latitude>-262216</latitude>
+			<longitude>-651050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uturungo -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-268550</latitude>
+			<longitude>-643883</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uturusco -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-282716</latitude>
+			<longitude>-639383</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyuvil Olcavil -- (State: La Rioja)">
+			<state>La Rioja</state>
+			<latitude>-287050</latitude>
+			<longitude>-673050</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzcudum -- (State: Chubut)">
+			<state>Chubut</state>
+			<latitude>-442050</latitude>
+			<longitude>-661383</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="W. Los Santos -- (State: Corrientes)">
+			<state>Corrientes</state>
+			<latitude>-285381</latitude>
+			<longitude>-567048</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walt -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>-349214</latitude>
+			<longitude>-643048</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanda -- (State: Misiones)">
+			<state>Misiones</state>
+			<latitude>-259548</latitude>
+			<longitude>-545714</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warnes -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-349048</latitude>
+			<longitude>-605048</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weisburd -- (State: Santiago del Estero)">
+			<state>Santiago del Estero</state>
+			<latitude>-272881</latitude>
+			<longitude>-625881</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenceslao Escalante -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>-331548</latitude>
+			<longitude>-627381</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wheelwright -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-337714</latitude>
+			<longitude>-612048</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilde -- (State: Buenos Aires)">
+			<state>Buenos Aires</state>
+			<latitude>-346881</latitude>
+			<longitude>-583048</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wildermuth -- (State: Santa Fe)">
+			<state>Santa Fe</state>
+			<latitude>-319381</latitude>
+			<longitude>-613881</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Winifreda -- (State: La Pampa)">
+			<state>La Pampa</state>
+			<latitude>-362381</latitude>
+			<longitude>-642214</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wirala -- (State: Formosa)">
+			<state>Formosa</state>
+			<latitude>-248214</latitude>
+			<longitude>-591381</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

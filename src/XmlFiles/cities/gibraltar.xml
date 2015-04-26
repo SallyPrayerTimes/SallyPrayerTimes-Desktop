@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Gibraltar">
+		<city name="Alboran Sea">
+			<state></state>
+			<latitude>356764</latitude>
+			<longitude>-29903</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bahia de Algeciras">
+			<state></state>
+			<latitude>361598</latitude>
+			<longitude>-54235</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blackstrap Bay">
+			<state></state>
+			<latitude>361931</latitude>
+			<longitude>-53235</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elliots Memorial">
+			<state></state>
+			<latitude>361268</latitude>
+			<longitude>-53399</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Europa Point">
+			<state></state>
+			<latitude>361207</latitude>
+			<longitude>-53357</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fretum Herculeum">
+			<state></state>
+			<latitude>359602</latitude>
+			<longitude>-55898</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frontier Gate">
+			<state></state>
+			<latitude>361602</latitude>
+			<longitude>-53231</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gibraltar">
+			<state></state>
+			<latitude>361436</latitude>
+			<longitude>-53397</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Levant Cave">
+			<state></state>
+			<latitude>361275</latitude>
+			<longitude>-53225</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,628 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Estonia">
+		<city name="Cape Lehtma -- (State: Hiiumaa)">
+			<state>Hiiumaa</state>
+			<latitude>590771</latitude>
+			<longitude>227121</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dagden-Sund">
+			<state></state>
+			<latitude>586731</latitude>
+			<longitude>225569</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dagerort Halbinsel -- (State: Hiiumaa)">
+			<state>Hiiumaa</state>
+			<latitude>589064</latitude>
+			<longitude>222067</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dago -- (State: Hiiumaa)">
+			<state>Hiiumaa</state>
+			<latitude>588714</latitude>
+			<longitude>225853</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Diby Diuk -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>590517</latitude>
+			<longitude>233139</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Didrema -- (State: Parnumaa)">
+			<state>Parnumaa</state>
+			<latitude>586078</latitude>
+			<longitude>239458</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dirhami -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>592100</latitude>
+			<longitude>235100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dirhami Neem -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>592206</latitude>
+			<longitude>234997</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Domesnes Strait">
+			<state></state>
+			<latitude>577600</latitude>
+			<longitude>220933</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dreimanni -- (State: Parnumaa)">
+			<state>Parnumaa</state>
+			<latitude>579311</latitude>
+			<longitude>243986</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dvor Keppo -- (State: Hiiumaa)">
+			<state>Hiiumaa</state>
+			<latitude>589247</latitude>
+			<longitude>222208</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dyby -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>590306</latitude>
+			<longitude>233175</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Forbyu -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>590099</latitude>
+			<longitude>231619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gaapsalu -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>589534</latitude>
+			<longitude>235517</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Galliray -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>583067</latitude>
+			<longitude>229884</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glint">
+			<state></state>
+			<latitude>593436</latitude>
+			<longitude>274270</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gorodenka Magistraalkraav -- (State: Ida-Virumaa)">
+			<state>Ida-Virumaa</state>
+			<latitude>591520</latitude>
+			<longitude>278228</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kurtna -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>592421</latitude>
+			<longitude>247290</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narva">
+			<state></state>
+			<latitude>594610</latitude>
+			<longitude>280443</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narva -- (State: Ida-Virumaa)">
+			<state>Ida-Virumaa</state>
+			<latitude>593882</latitude>
+			<longitude>282013</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narva Veehoidla">
+			<state></state>
+			<latitude>593110</latitude>
+			<longitude>282443</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narva-Iyesu -- (State: Ida-Virumaa)">
+			<state>Ida-Virumaa</state>
+			<latitude>594699</latitude>
+			<longitude>280518</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narvas Licis">
+			<state></state>
+			<latitude>595110</latitude>
+			<longitude>276777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parnu -- (State: Parnumaa)">
+			<state>Parnumaa</state>
+			<latitude>584279</latitude>
+			<longitude>244945</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parnu">
+			<state></state>
+			<latitude>583923</latitude>
+			<longitude>244951</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parnu Jaam -- (State: Parnumaa)">
+			<state>Parnumaa</state>
+			<latitude>583709</latitude>
+			<longitude>245859</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parnu Kaubajaam -- (State: Parnumaa)">
+			<state>Parnumaa</state>
+			<latitude>584062</latitude>
+			<longitude>246045</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parnu Laht -- (State: Parnumaa)">
+			<state>Parnumaa</state>
+			<latitude>582998</latitude>
+			<longitude>243859</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parnu Reid -- (State: Parnumaa)">
+			<state>Parnumaa</state>
+			<latitude>583851</latitude>
+			<longitude>244904</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parnu-Jaagupi -- (State: Parnumaa)">
+			<state>Parnumaa</state>
+			<latitude>586170</latitude>
+			<longitude>245265</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parnumaa">
+			<state></state>
+			<latitude>584112</latitude>
+			<longitude>245445</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rakvere -- (State: Laane-Virumaa)">
+			<state>Laane-Virumaa</state>
+			<latitude>593578</latitude>
+			<longitude>263672</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rapla -- (State: Raplamaa)">
+			<state>Raplamaa</state>
+			<latitude>590186</latitude>
+			<longitude>248042</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallinn -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>594455</latitude>
+			<longitude>247397</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallinn">
+			<state></state>
+			<latitude>594283</latitude>
+			<longitude>247616</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallinn Bight -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>594783</latitude>
+			<longitude>247783</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallinn Lasnamae -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>594616</latitude>
+			<longitude>248783</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallinn Road -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>594774</latitude>
+			<longitude>247738</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallinn Ulemiste -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>594283</latitude>
+			<longitude>248283</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallinn-Vaike Jaam -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>594272</latitude>
+			<longitude>247527</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallinna Vanasadam -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>594627</latitude>
+			<longitude>247560</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tartu">
+			<state></state>
+			<latitude>583949</latitude>
+			<longitude>267283</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tartu -- (State: Tartumaa)">
+			<state>Tartumaa</state>
+			<latitude>584116</latitude>
+			<longitude>267616</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tartu Jaam -- (State: Tartumaa)">
+			<state>Tartumaa</state>
+			<latitude>583838</latitude>
+			<longitude>267166</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tartu Toomai -- (State: Tartumaa)">
+			<state>Tartumaa</state>
+			<latitude>583191</latitude>
+			<longitude>267077</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tartusaare Tagajarv -- (State: Jarvamaa)">
+			<state>Jarvamaa</state>
+			<latitude>590780</latitude>
+			<longitude>255672</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tartussaare Raba -- (State: Jarvamaa)">
+			<state>Jarvamaa</state>
+			<latitude>590583</latitude>
+			<longitude>255874</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wagenkull -- (State: Valgamaa)">
+			<state>Valgamaa</state>
+			<latitude>580280</latitude>
+			<longitude>257019</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wailaid -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>585277</latitude>
+			<longitude>233788</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walga -- (State: Valgamaa)">
+			<state>Valgamaa</state>
+			<latitude>577863</latitude>
+			<longitude>260572</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walgejoggi">
+			<state></state>
+			<latitude>595916</latitude>
+			<longitude>257236</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wantri -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>583633</latitude>
+			<longitude>224600</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wasawere -- (State: Ida-Virumaa)">
+			<state>Ida-Virumaa</state>
+			<latitude>593150</latitude>
+			<longitude>275263</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weissenstein -- (State: Jarvamaa)">
+			<state>Jarvamaa</state>
+			<latitude>588975</latitude>
+			<longitude>255691</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wendau -- (State: Tartumaa)">
+			<state>Tartumaa</state>
+			<latitude>582902</latitude>
+			<longitude>270600</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Werchoustje -- (State: Polvamaa)">
+			<state>Polvamaa</state>
+			<latitude>579700</latitude>
+			<longitude>276500</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Werka -- (State: Laane-Virumaa)">
+			<state>Laane-Virumaa</state>
+			<latitude>596052</latitude>
+			<longitude>260997</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Werro -- (State: Vorumaa)">
+			<state>Vorumaa</state>
+			<latitude>578458</latitude>
+			<longitude>270313</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Rago -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>593483</latitude>
+			<longitude>238986</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiljandi -- (State: Viljandimaa)">
+			<state>Viljandimaa</state>
+			<latitude>583758</latitude>
+			<longitude>256019</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Willust -- (State: Viljandimaa)">
+			<state>Viljandimaa</state>
+			<latitude>581880</latitude>
+			<longitude>256669</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wirtsu -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>585819</latitude>
+			<longitude>235358</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wirz-Jarw">
+			<state></state>
+			<latitude>582827</latitude>
+			<longitude>260536</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wobs -- (State: Polvamaa)">
+			<state>Polvamaa</state>
+			<latitude>580902</latitude>
+			<longitude>275572</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woo">
+			<state></state>
+			<latitude>581097</latitude>
+			<longitude>275558</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wormsi Saar -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>590172</latitude>
+			<longitude>232583</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wormso Channel -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>590238</latitude>
+			<longitude>234116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woso -- (State: Laane-Virumaa)">
+			<state>Laane-Virumaa</state>
+			<latitude>595844</latitude>
+			<longitude>259872</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wrangelsholm -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>596363</latitude>
+			<longitude>250327</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wulf -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>595938</latitude>
+			<longitude>247586</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabolda -- (State: Polvamaa)">
+			<state>Polvamaa</state>
+			<latitude>578894</latitude>
+			<longitude>277675</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagnits -- (State: Valgamaa)">
+			<state>Valgamaa</state>
+			<latitude>579375</latitude>
+			<longitude>263272</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Ariste -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>581544</latitude>
+			<longitude>222064</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Baldiski-Lakht -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>593350</latitude>
+			<longitude>240514</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Eru">
+			<state></state>
+			<latitude>596097</latitude>
+			<longitude>258403</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Fettel -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>582739</latitude>
+			<longitude>227650</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Gapsalu-Lakht -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>589916</latitude>
+			<longitude>235950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Kakumyae-Lakht -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>594708</latitude>
+			<longitude>245183</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Kaspervik -- (State: Laane-Virumaa)">
+			<state>Laane-Virumaa</state>
+			<latitude>596139</latitude>
+			<longitude>259625</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Kolga -- (State: Harjumaa)">
+			<state>Harjumaa</state>
+			<latitude>595536</latitude>
+			<longitude>254269</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Kunda -- (State: Laane-Virumaa)">
+			<state>Laane-Virumaa</state>
+			<latitude>595441</latitude>
+			<longitude>265458</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Kuusnymme-Lakht -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>583378</latitude>
+			<longitude>219528</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Kyudema-Lakht -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>585278</latitude>
+			<longitude>222750</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Lype-Lakht -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>580953</latitude>
+			<longitude>221789</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Matsalu-Lakht -- (State: Laanemaa)">
+			<state>Laanemaa</state>
+			<latitude>587722</latitude>
+			<longitude>236091</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Taga-Lakht -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>584614</latitude>
+			<longitude>220989</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Triygi-Lakht -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>585961</latitude>
+			<longitude>227589</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zapovednik Nigula -- (State: Parnumaa)">
+			<state>Parnumaa</state>
+			<latitude>580122</latitude>
+			<longitude>246930</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zerel -- (State: Saaremaa)">
+			<state>Saaremaa</state>
+			<latitude>579453</latitude>
+			<longitude>220964</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

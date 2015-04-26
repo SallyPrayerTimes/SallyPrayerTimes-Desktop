@@ -1,0 +1,768 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Swaziland">
+		<city name="Abercorn">
+			<state></state>
+			<latitude>-268236</latitude>
+			<longitude>321430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amanzilukahla">
+			<state></state>
+			<latitude>-259403</latitude>
+			<longitude>317430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balegana">
+			<state></state>
+			<latitude>-260902</latitude>
+			<longitude>315765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bambe Inyoni">
+			<state></state>
+			<latitude>-259735</latitude>
+			<longitude>315265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bethany">
+			<state></state>
+			<latitude>-264902</latitude>
+			<longitude>312765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bhunya">
+			<state></state>
+			<latitude>-265402</latitude>
+			<longitude>310265</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Big Bend">
+			<state></state>
+			<latitude>-268069</latitude>
+			<longitude>319431</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bulunga Mountains">
+			<state></state>
+			<latitude>-266069</latitude>
+			<longitude>315598</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Commissie Nek">
+			<state></state>
+			<latitude>-263234</latitude>
+			<longitude>312432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Compound">
+			<state></state>
+			<latitude>-259568</latitude>
+			<longitude>311432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Croydon">
+			<state></state>
+			<latitude>-261901</latitude>
+			<longitude>315766</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darkton">
+			<state></state>
+			<latitude>-262233</latitude>
+			<longitude>310433</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dome">
+			<state></state>
+			<latitude>-263567</latitude>
+			<longitude>309267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dubekeni">
+			<state></state>
+			<latitude>-257733</latitude>
+			<longitude>314267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dwaleni">
+			<state></state>
+			<latitude>-271567</latitude>
+			<longitude>312767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dwaleni Kop">
+			<state></state>
+			<latitude>-267233</latitude>
+			<longitude>313767</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emlende">
+			<state></state>
+			<latitude>-259066</latitude>
+			<longitude>311268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ezulwini">
+			<state></state>
+			<latitude>-264066</latitude>
+			<longitude>312101</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fahlaza">
+			<state></state>
+			<latitude>-271731</latitude>
+			<longitude>318435</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Forbes Reef">
+			<state></state>
+			<latitude>-261565</latitude>
+			<longitude>311102</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gagu">
+			<state></state>
+			<latitude>-268397</latitude>
+			<longitude>319603</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gege -- (State: Shiselweni)">
+			<state>Shiselweni</state>
+			<latitude>-269397</latitude>
+			<longitude>310270</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goedgegun">
+			<state></state>
+			<latitude>-271064</latitude>
+			<longitude>312103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gollel">
+			<state></state>
+			<latitude>-273064</latitude>
+			<longitude>319103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Granvalley">
+			<state></state>
+			<latitude>-269064</latitude>
+			<longitude>312936</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Havelock Mine">
+			<state></state>
+			<latitude>-259396</latitude>
+			<longitude>311437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hawane Kop">
+			<state></state>
+			<latitude>-262063</latitude>
+			<longitude>311104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herefords">
+			<state></state>
+			<latitude>-258229</latitude>
+			<longitude>315104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlabeni Kop">
+			<state></state>
+			<latitude>-269063</latitude>
+			<longitude>310437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlambanyati River">
+			<state></state>
+			<latitude>-264563</latitude>
+			<longitude>312437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlati Kop">
+			<state></state>
+			<latitude>-269729</latitude>
+			<longitude>314604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlatikulu District -- (State: Shiselweni)">
+			<state>Shiselweni</state>
+			<latitude>-269896</latitude>
+			<longitude>316771</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlobane">
+			<state></state>
+			<latitude>-272063</latitude>
+			<longitude>314104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlokohla">
+			<state></state>
+			<latitude>-264896</latitude>
+			<longitude>315104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hlushwane">
+			<state></state>
+			<latitude>-271896</latitude>
+			<longitude>316604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hluti">
+			<state></state>
+			<latitude>-271896</latitude>
+			<longitude>315771</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Holobela">
+			<state></state>
+			<latitude>-266896</latitude>
+			<longitude>318437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horo">
+			<state></state>
+			<latitude>-257396</latitude>
+			<longitude>314271</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imdundu Hill">
+			<state></state>
+			<latitude>-266395</latitude>
+			<longitude>308438</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Incuba Kop">
+			<state></state>
+			<latitude>-258395</latitude>
+			<longitude>314605</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ingwavuma">
+			<state></state>
+			<latitude>-269562</latitude>
+			<longitude>323105</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ingwenya">
+			<state></state>
+			<latitude>-261562</latitude>
+			<longitude>310605</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inhlonama Kop">
+			<state></state>
+			<latitude>-257728</latitude>
+			<longitude>315438</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inkambeni">
+			<state></state>
+			<latitude>-260895</latitude>
+			<longitude>316438</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inkonjane Kop">
+			<state></state>
+			<latitude>-270228</latitude>
+			<longitude>310772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Intabinezimpise">
+			<state></state>
+			<latitude>-259062</latitude>
+			<longitude>315605</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inyetane">
+			<state></state>
+			<latitude>-265228</latitude>
+			<longitude>320272</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inyetyan">
+			<state></state>
+			<latitude>-267728</latitude>
+			<longitude>319938</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isateki">
+			<state></state>
+			<latitude>-264728</latitude>
+			<longitude>319605</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isekupi">
+			<state></state>
+			<latitude>-263062</latitude>
+			<longitude>317105</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Josane Kop">
+			<state></state>
+			<latitude>-266561</latitude>
+			<longitude>312106</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kadake">
+			<state></state>
+			<latitude>-262060</latitude>
+			<longitude>310440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalweni Hill">
+			<state></state>
+			<latitude>-270560</latitude>
+			<longitude>316274</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanyane Kop">
+			<state></state>
+			<latitude>-263393</latitude>
+			<longitude>309940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinkel Koppies">
+			<state></state>
+			<latitude>-265226</latitude>
+			<longitude>308107</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobolondo Heights">
+			<state></state>
+			<latitude>-258893</latitude>
+			<longitude>312274</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobolondo Peak">
+			<state></state>
+			<latitude>-258726</latitude>
+			<longitude>312774</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kopola">
+			<state></state>
+			<latitude>-263560</latitude>
+			<longitude>311940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krogh">
+			<state></state>
+			<latitude>-261393</latitude>
+			<longitude>321107</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kubuta">
+			<state></state>
+			<latitude>-268726</latitude>
+			<longitude>314940</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kutjeni Hill">
+			<state></state>
+			<latitude>-271893</latitude>
+			<longitude>317274</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwaluseni">
+			<state></state>
+			<latitude>-264726</latitude>
+			<longitude>313440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Landwado Kop">
+			<state></state>
+			<latitude>-266559</latitude>
+			<longitude>309941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lapanda Kop">
+			<state></state>
+			<latitude>-267725</latitude>
+			<longitude>310608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobamba">
+			<state></state>
+			<latitude>-264559</latitude>
+			<longitude>312108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lomahasha">
+			<state></state>
+			<latitude>-259725</latitude>
+			<longitude>320108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lomati">
+			<state></state>
+			<latitude>-258059</latitude>
+			<longitude>313608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lubombo District -- (State: Lubombo)">
+			<state>Lubombo</state>
+			<latitude>-264059</latitude>
+			<longitude>317608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lukonde Kop">
+			<state></state>
+			<latitude>-258225</latitude>
+			<longitude>314441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lutala">
+			<state></state>
+			<latitude>-260892</latitude>
+			<longitude>318275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luzinyane Kop">
+			<state></state>
+			<latitude>-265892</latitude>
+			<longitude>315441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manzini">
+			<state></state>
+			<latitude>-264724</latitude>
+			<longitude>313776</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manzini District -- (State: Manzini)">
+			<state>Manzini</state>
+			<latitude>-262391</latitude>
+			<longitude>315109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mbabane">
+			<state></state>
+			<latitude>-263058</latitude>
+			<longitude>311442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nsalitshe Kop">
+			<state></state>
+			<latitude>-272723</latitude>
+			<longitude>316610</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ntandes">
+			<state></state>
+			<latitude>-266057</latitude>
+			<longitude>311777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nyabe">
+			<state></state>
+			<latitude>-267390</latitude>
+			<longitude>310943</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phuzumoya Station">
+			<state></state>
+			<latitude>-266555</latitude>
+			<longitude>317612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piggs District -- (State: Hhohho)">
+			<state>Hhohho</state>
+			<latitude>-259888</latitude>
+			<longitude>315112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piggs Peak">
+			<state></state>
+			<latitude>-259555</latitude>
+			<longitude>312612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ponjane Hills">
+			<state></state>
+			<latitude>-261388</latitude>
+			<longitude>313279</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poponyane">
+			<state></state>
+			<latitude>-258221</latitude>
+			<longitude>313945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qolweni">
+			<state></state>
+			<latitude>-270387</latitude>
+			<longitude>315113</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qolweni Hills">
+			<state></state>
+			<latitude>-270554</latitude>
+			<longitude>314613</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Sechane">
+			<state></state>
+			<latitude>-266886</latitude>
+			<longitude>323447</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocklands -- (State: Hhohho)">
+			<state>Hhohho</state>
+			<latitude>-259386</latitude>
+			<longitude>312947</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rondspring">
+			<state></state>
+			<latitude>-268719</latitude>
+			<longitude>317114</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sibowe">
+			<state></state>
+			<latitude>-268552</latitude>
+			<longitude>314615</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tahaneni">
+			<state></state>
+			<latitude>-259717</latitude>
+			<longitude>317283</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tumbulomuno">
+			<state></state>
+			<latitude>-268217</latitude>
+			<longitude>321783</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulambongwenya">
+			<state></state>
+			<latitude>-260550</latitude>
+			<longitude>312950</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umanlangaten Hill">
+			<state></state>
+			<latitude>-271550</latitude>
+			<longitude>319617</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umbanjane Kop">
+			<state></state>
+			<latitude>-265383</latitude>
+			<longitude>315117</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umbeloosi Poort">
+			<state></state>
+			<latitude>-262050</latitude>
+			<longitude>320450</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umbuba Kop">
+			<state></state>
+			<latitude>-266716</latitude>
+			<longitude>312784</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umbuluzu">
+			<state></state>
+			<latitude>-262383</latitude>
+			<longitude>311950</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umkomozana">
+			<state></state>
+			<latitude>-260383</latitude>
+			<longitude>311784</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umkutshan">
+			<state></state>
+			<latitude>-266216</latitude>
+			<longitude>319617</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umtilane">
+			<state></state>
+			<latitude>-264716</latitude>
+			<longitude>312784</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umtintegwa">
+			<state></state>
+			<latitude>-264883</latitude>
+			<longitude>318284</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umzimneni River">
+			<state></state>
+			<latitude>-260550</latitude>
+			<longitude>315617</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usutu Mission">
+			<state></state>
+			<latitude>-265716</latitude>
+			<longitude>311950</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verdun">
+			<state></state>
+			<latitude>-268382</latitude>
+			<longitude>314118</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vigisijula">
+			<state></state>
+			<latitude>-265882</latitude>
+			<longitude>316618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vlagati Kop">
+			<state></state>
+			<latitude>-265715</latitude>
+			<longitude>310118</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Von Wissel">
+			<state></state>
+			<latitude>-268549</latitude>
+			<longitude>319451</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vondo Kop">
+			<state></state>
+			<latitude>-270382</latitude>
+			<longitude>311618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="White Umbuluzi">
+			<state></state>
+			<latitude>-261214</latitude>
+			<longitude>318952</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zibe">
+			<state></state>
+			<latitude>-272711</latitude>
+			<longitude>319622</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

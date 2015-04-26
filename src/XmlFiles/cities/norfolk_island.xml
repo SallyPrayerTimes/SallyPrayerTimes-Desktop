@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Norfolk Island">
+		<city name="Kingston">
+			<state></state>
+			<latitude>-290393</latitude>
+			<longitude>1679607</longitude>
+			<timezone>1150</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Norfolk Island">
+			<state></state>
+			<latitude>-290223</latitude>
+			<longitude>1679610</longitude>
+			<timezone>1150</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

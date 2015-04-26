@@ -1,0 +1,1048 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Sudan">
+		<city name="4th Cataract -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>187885</latitude>
+			<longitude>320552</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="5th Cataract -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>183886</latitude>
+			<longitude>337886</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ab Gir -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>117764</latitude>
+			<longitude>317597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abi Karu -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>122264</latitude>
+			<longitude>257097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu Gira -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>165597</latitude>
+			<longitude>263264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu Hagar -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>187597</latitude>
+			<longitude>335930</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu Seir -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>147764</latitude>
+			<longitude>331597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abu Suqrah -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>139764</latitude>
+			<longitude>336264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adar -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>145597</latitude>
+			<longitude>327097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afger -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>124097</latitude>
+			<longitude>288097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Bahriyah -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>138430</latitude>
+			<longitude>306597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Ghabah -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>181764</latitude>
+			<longitude>307597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Hilaliyah -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>149430</latitude>
+			<longitude>332430</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Huda -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>145597</latitude>
+			<longitude>329264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Jabalayn -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>126097</latitude>
+			<longitude>328097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Argo -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>195264</latitude>
+			<longitude>304264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atbara -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>177264</latitude>
+			<longitude>340764</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atbara">
+			<state></state>
+			<latitude>176880</latitude>
+			<longitude>339803</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atbara -- (State: Nahr an Nil)">
+			<state>Nahr an Nil</state>
+			<latitude>177069</latitude>
+			<longitude>339880</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atbara Old -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>177097</latitude>
+			<longitude>340097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aweil -- (State: (SU32))">
+			<state>(SU32)</state>
+			<latitude>87764</latitude>
+			<longitude>274097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bentiu -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>92431</latitude>
+			<longitude>298431</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bwell -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>91931</latitude>
+			<longitude>321931</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bwing -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>93140</latitude>
+			<longitude>316104</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bwoba -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>69598</latitude>
+			<longitude>342265</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bwoda -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>52098</latitude>
+			<longitude>325098</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bwom -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>82265</latitude>
+			<longitude>301765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bwon Ngera -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>92454</latitude>
+			<longitude>308220</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cara -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>70932</latitude>
+			<longitude>341766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carora">
+			<state></state>
+			<latitude>179266</latitude>
+			<longitude>385932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cer -- (State: (SU32))">
+			<state>(SU32)</state>
+			<latitude>67099</latitude>
+			<longitude>301932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaghari -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>43791</latitude>
+			<longitude>331580</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chamba -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>48266</latitude>
+			<longitude>313766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chawa -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>47493</latitude>
+			<longitude>332471</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chayrong -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>43618</latitude>
+			<longitude>336991</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cherokaj -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>42057</latitude>
+			<longitude>333205</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiak -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>78432</latitude>
+			<longitude>325266</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chibni -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>109932</latitude>
+			<longitude>290266</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chidu -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>96932</latitude>
+			<longitude>335432</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chief-Lotiang -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>49110</latitude>
+			<longitude>337266</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chijok -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>79432</latitude>
+			<longitude>320266</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiulbong -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>86599</latitude>
+			<longitude>314099</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiwon -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>46730</latitude>
+			<longitude>333118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Choding Wells -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>129766</latitude>
+			<longitude>224766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chol Kon -- (State: (SU32))">
+			<state>(SU32)</state>
+			<latitude>75766</latitude>
+			<longitude>281932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chor Curoni">
+			<state></state>
+			<latitude>55099</latitude>
+			<longitude>342932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chor Iabus">
+			<state></state>
+			<latitude>98766</latitude>
+			<longitude>335932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuayluark -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>76432</latitude>
+			<longitude>303099</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chufal -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>42491</latitude>
+			<longitude>323496</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chunk Hill -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>218932</latitude>
+			<longitude>252432</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chur -- (State: (SU32))">
+			<state>(SU32)</state>
+			<latitude>81266</latitude>
+			<longitude>284766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chweg -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>91474</latitude>
+			<longitude>307074</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Claud Rapids -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>47432</latitude>
+			<longitude>304766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Conry -- (State: (SU31))">
+			<state>(SU31)</state>
+			<latitude>138599</latitude>
+			<longitude>361266</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dabbat `Ubayd -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>113600</latitude>
+			<longitude>288600</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darfur -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>130100</latitude>
+			<longitude>250100</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dilling -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>120600</latitude>
+			<longitude>296600</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doka -- (State: (SU31))">
+			<state>(SU31)</state>
+			<latitude>135267</latitude>
+			<longitude>357767</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dongola -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>191933</latitude>
+			<longitude>304600</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ed Damazin -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>117768</latitude>
+			<longitude>343601</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Fasher -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>136434</latitude>
+			<longitude>253601</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Geneina -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>134601</latitude>
+			<longitude>224601</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Obeid -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>131934</latitude>
+			<longitude>302268</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fadasi Halimab -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>145769</latitude>
+			<longitude>334435</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fadl -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>152102</latitude>
+			<longitude>330935</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gedaref -- (State: Al Qadarif)">
+			<state>Al Qadarif</state>
+			<latitude>140103</latitude>
+			<longitude>350103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gedaref -- (State: (SU31))">
+			<state>(SU31)</state>
+			<latitude>140436</latitude>
+			<longitude>354103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geneina -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>134936</latitude>
+			<longitude>224770</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gronti -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>194936</latitude>
+			<longitude>304436</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gubarab -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>175270</latitude>
+			<longitude>339270</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habib Allah -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>151437</latitude>
+			<longitude>325437</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heglig -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>98937</latitude>
+			<longitude>298437</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heglig -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>121604</latitude>
+			<longitude>344604</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heglig -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>136771</latitude>
+			<longitude>230271</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heglig -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>139937</latitude>
+			<longitude>307437</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hegliga -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>132771</latitude>
+			<longitude>223771</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heleila -- (State: Al Jazirah)">
+			<state>Al Jazirah</state>
+			<latitude>151123</latitude>
+			<longitude>331801</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hilaliyah -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>149937</latitude>
+			<longitude>231937</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huzaymah -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>183437</latitude>
+			<longitude>317271</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inanuga -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>41549</latitude>
+			<longitude>323402</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabal Awliya Dam -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>152487</latitude>
+			<longitude>324989</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juba -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>48606</latitude>
+			<longitude>316273</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juba -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>121606</latitude>
+			<longitude>244606</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabkabiyah -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>136607</latitude>
+			<longitude>240940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kadugli -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>110274</latitude>
+			<longitude>297274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kassala">
+			<state></state>
+			<latitude>160107</latitude>
+			<longitude>360107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kassala -- (State: (SU31))">
+			<state>(SU31)</state>
+			<latitude>154665</latitude>
+			<longitude>364096</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kassala Province -- (State: (SU31))">
+			<state>(SU31)</state>
+			<latitude>150107</latitude>
+			<longitude>355107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenana -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>123940</latitude>
+			<longitude>290940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenana -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>140440</latitude>
+			<longitude>331774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khartoum -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>155988</latitude>
+			<longitude>325449</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khartoum Municipal Council -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>156107</latitude>
+			<longitude>325440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khartoum North -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>156396</latitude>
+			<longitude>326365</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khartoum North Municipal Council -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>156440</latitude>
+			<longitude>325607</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khartoum Rural Council -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>160107</latitude>
+			<longitude>325107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khartoum-Halfa Terminus -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>218107</latitude>
+			<longitude>313440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kosti -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>131774</latitude>
+			<longitude>326774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kulbus -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>143774</latitude>
+			<longitude>224440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kutum -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>142107</latitude>
+			<longitude>246774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madina -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>143776</latitude>
+			<longitude>333276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madinah -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>123442</latitude>
+			<longitude>239609</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malakal -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>95478</latitude>
+			<longitude>316670</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marawarti -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>194942</latitude>
+			<longitude>304276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marru Island -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>189609</latitude>
+			<longitude>335776</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medani -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>144109</latitude>
+			<longitude>335442</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melut -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>104442</latitude>
+			<longitude>322109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Merawi -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>184942</latitude>
+			<longitude>318276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muglad -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>110442</latitude>
+			<longitude>277442</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mwom -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>79776</latitude>
+			<longitude>314609</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mwot Did -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>80442</latitude>
+			<longitude>318109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nyala -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>41377</latitude>
+			<longitude>336688</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nyala -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>120610</latitude>
+			<longitude>248943</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omdurman -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>156472</latitude>
+			<longitude>324483</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omdurman -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>38111</latitude>
+			<longitude>318778</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omdurman -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>124278</latitude>
+			<longitude>343278</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omdurman -- (State: (SU34))">
+			<state>(SU34)</state>
+			<latitude>117944</latitude>
+			<longitude>309278</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omdurman Municipal Council -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>156444</latitude>
+			<longitude>325111</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paloich -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>104779</latitude>
+			<longitude>325445</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Sudan -- (State: (SU31))">
+			<state>(SU31)</state>
+			<latitude>196270</latitude>
+			<longitude>372276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rabak -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>131614</latitude>
+			<longitude>327447</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Remeila -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>155781</latitude>
+			<longitude>325281</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Royan -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>161411</latitude>
+			<longitude>326697</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rufa`ah -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>147781</latitude>
+			<longitude>333781</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sennar Dam -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>135615</latitude>
+			<longitude>336448</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sennar Junction -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>135782</latitude>
+			<longitude>335782</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shambat -- (State: Al Khartum)">
+			<state>Al Khartum</state>
+			<latitude>156796</latitude>
+			<longitude>325451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shandi -- (State: (SU31))">
+			<state>(SU31)</state>
+			<latitude>158948</latitude>
+			<longitude>344615</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shandi -- (State: Nahr an Nil)">
+			<state>Nahr an Nil</state>
+			<latitude>167029</latitude>
+			<longitude>334457</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shebeirab -- (State: (SU27))">
+			<state>(SU27)</state>
+			<latitude>143782</latitude>
+			<longitude>331615</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sudan">
+			<state></state>
+			<latitude>100115</latitude>
+			<longitude>200115</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suki -- (State: (SU31))">
+			<state>(SU31)</state>
+			<latitude>144282</latitude>
+			<longitude>346948</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suleimaniya -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>184282</latitude>
+			<longitude>336782</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thar Jath -- (State: (SU26))">
+			<state>(SU26)</state>
+			<latitude>84783</latitude>
+			<longitude>303283</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tina -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>134783</latitude>
+			<longitude>247783</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tini -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>150116</latitude>
+			<longitude>228116</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unity -- (State: Al Wahdah)">
+			<state>Al Wahdah</state>
+			<latitude>95117</latitude>
+			<longitude>300117</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vandel -- (State: (SU32))">
+			<state>(SU32)</state>
+			<latitude>71785</latitude>
+			<longitude>263118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vasarat -- (State: (SU30))">
+			<state>(SU30)</state>
+			<latitude>160618</latitude>
+			<longitude>338932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vegu -- (State: (SU32))">
+			<state>(SU32)</state>
+			<latitude>88285</latitude>
+			<longitude>260285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verikoka -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>51618</latitude>
+			<longitude>308618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verlingai -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>58665</latitude>
+			<longitude>308390</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viang -- (State: (SU32))">
+			<state>(SU32)</state>
+			<latitude>79699</latitude>
+			<longitude>288026</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vora -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>56993</latitude>
+			<longitude>309479</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulu -- (State: (SU32))">
+			<state>(SU32)</state>
+			<latitude>93285</latitude>
+			<longitude>246285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuya -- (State: (SU28))">
+			<state>(SU28)</state>
+			<latitude>53712</latitude>
+			<longitude>296854</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wad Hamid -- (State: Nahr an Nil)">
+			<state>Nahr an Nil</state>
+			<latitude>165025</latitude>
+			<longitude>328186</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wau -- (State: (SU32))">
+			<state>(SU32)</state>
+			<latitude>77119</latitude>
+			<longitude>280119</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zalingei -- (State: (SU33))">
+			<state>(SU33)</state>
+			<latitude>129122</latitude>
+			<longitude>234955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zibbelkelb -- (State: (SU31))">
+			<state>(SU31)</state>
+			<latitude>177789</latitude>
+			<longitude>375122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

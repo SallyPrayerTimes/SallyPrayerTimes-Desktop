@@ -1,0 +1,1223 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Malawi">
+		<city name="Aaron">
+			<state></state>
+			<latitude>-127403</latitude>
+			<longitude>342264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abindanjoke">
+			<state></state>
+			<latitude>-133903</latitude>
+			<longitude>339097</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abraham">
+			<state></state>
+			<latitude>-136403</latitude>
+			<longitude>331764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adam">
+			<state></state>
+			<latitude>-95070</latitude>
+			<longitude>332264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agabu">
+			<state></state>
+			<latitude>-145903</latitude>
+			<longitude>347764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agrippa Jere">
+			<state></state>
+			<latitude>-114236</latitude>
+			<longitude>333597</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akoyo">
+			<state></state>
+			<latitude>-110070</latitude>
+			<longitude>339264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akubilila">
+			<state></state>
+			<latitude>-147403</latitude>
+			<longitude>348264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alamu">
+			<state></state>
+			<latitude>-125570</latitude>
+			<longitude>334597</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alick Chisi">
+			<state></state>
+			<latitude>-119236</latitude>
+			<longitude>336097</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alifandaka">
+			<state></state>
+			<latitude>-170570</latitude>
+			<longitude>350930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alimenda">
+			<state></state>
+			<latitude>-162070</latitude>
+			<longitude>346764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alimenda Market">
+			<state></state>
+			<latitude>-163570</latitude>
+			<longitude>349430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alufasi">
+			<state></state>
+			<latitude>-164736</latitude>
+			<longitude>349264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alumenda">
+			<state></state>
+			<latitude>-161903</latitude>
+			<longitude>347264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amadzi">
+			<state></state>
+			<latitude>-140236</latitude>
+			<longitude>334764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amazi">
+			<state></state>
+			<latitude>-127570</latitude>
+			<longitude>333764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ambale Phaso">
+			<state></state>
+			<latitude>-125736</latitude>
+			<longitude>341764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amenta">
+			<state></state>
+			<latitude>-141903</latitude>
+			<longitude>339930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amika">
+			<state></state>
+			<latitude>-153903</latitude>
+			<longitude>352430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amonis">
+			<state></state>
+			<latitude>-131736</latitude>
+			<longitude>335930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amozi">
+			<state></state>
+			<latitude>-136736</latitude>
+			<longitude>330930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Andreya">
+			<state></state>
+			<latitude>-144236</latitude>
+			<longitude>341097</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anjanzi">
+			<state></state>
+			<latitude>-142236</latitude>
+			<longitude>340430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anoki Mkhere">
+			<state></state>
+			<latitude>-118403</latitude>
+			<longitude>336930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arfairyu">
+			<state></state>
+			<latitude>-96070</latitude>
+			<longitude>333430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Augustino">
+			<state></state>
+			<latitude>-130736</latitude>
+			<longitude>343264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aunde">
+			<state></state>
+			<latitude>-147570</latitude>
+			<longitude>349764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Austeni">
+			<state></state>
+			<latitude>-147570</latitude>
+			<longitude>349264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Awedsi Hill">
+			<state></state>
+			<latitude>-141403</latitude>
+			<longitude>333764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Blantyre">
+			<state></state>
+			<latitude>-157735</latitude>
+			<longitude>350098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Blantyre District -- (State: Blantyre)">
+			<state>Blantyre</state>
+			<latitude>-154902</latitude>
+			<longitude>350098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiradzulu District -- (State: Chiradzulu)">
+			<state>Chiradzulu</state>
+			<latitude>-156901</latitude>
+			<longitude>351766</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Tumbi Island">
+			<state></state>
+			<latitude>-140399</latitude>
+			<longitude>349434</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecilumbeni School">
+			<state></state>
+			<latitude>-116066</latitude>
+			<longitude>333268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eden Estate">
+			<state></state>
+			<latitude>-143066</latitude>
+			<longitude>343268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edwin">
+			<state></state>
+			<latitude>-169399</latitude>
+			<longitude>352434</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eheleni">
+			<state></state>
+			<latitude>-123066</latitude>
+			<longitude>336101</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ehlehleni">
+			<state></state>
+			<latitude>-122399</latitude>
+			<longitude>335934</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekhama">
+			<state></state>
+			<latitude>-149566</latitude>
+			<longitude>358268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elangeni">
+			<state></state>
+			<latitude>-114399</latitude>
+			<longitude>337434</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elephant Marsh">
+			<state></state>
+			<latitude>-163232</latitude>
+			<longitude>350934</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eliacuntengo">
+			<state></state>
+			<latitude>-143066</latitude>
+			<longitude>341434</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eliakimu Nguluwe">
+			<state></state>
+			<latitude>-121732</latitude>
+			<longitude>334601</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elisa">
+			<state></state>
+			<latitude>-133899</latitude>
+			<longitude>336934</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elsie Cove">
+			<state></state>
+			<latitude>-136899</latitude>
+			<longitude>346268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elunyeni School">
+			<state></state>
+			<latitude>-112232</latitude>
+			<longitude>337101</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emanyeleni">
+			<state></state>
+			<latitude>-111732</latitude>
+			<longitude>338601</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embombeni">
+			<state></state>
+			<latitude>-112399</latitude>
+			<longitude>338768</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emchakachakeni">
+			<state></state>
+			<latitude>-121399</latitude>
+			<longitude>335434</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emcisweni">
+			<state></state>
+			<latitude>-112732</latitude>
+			<longitude>336101</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emfeni">
+			<state></state>
+			<latitude>-125899</latitude>
+			<longitude>335934</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emoneni">
+			<state></state>
+			<latitude>-116399</latitude>
+			<longitude>336768</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eneya Kumwenda">
+			<state></state>
+			<latitude>-111399</latitude>
+			<longitude>336768</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Engalaweni">
+			<state></state>
+			<latitude>-118899</latitude>
+			<longitude>333768</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Engucwini">
+			<state></state>
+			<latitude>-111899</latitude>
+			<longitude>338268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enukweni">
+			<state></state>
+			<latitude>-111732</latitude>
+			<longitude>338934</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ephangweni">
+			<state></state>
+			<latitude>-121566</latitude>
+			<longitude>334768</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eswanzini Court">
+			<state></state>
+			<latitude>-117232</latitude>
+			<longitude>336601</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eutini">
+			<state></state>
+			<latitude>-114566</latitude>
+			<longitude>334268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ewombeni">
+			<state></state>
+			<latitude>-121566</latitude>
+			<longitude>333601</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ezondweni">
+			<state></state>
+			<latitude>-113899</latitude>
+			<longitude>337601</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ezondweni School">
+			<state></state>
+			<latitude>-119232</latitude>
+			<longitude>335434</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halala">
+			<state></state>
+			<latitude>-149729</latitude>
+			<longitude>355937</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hango">
+			<state></state>
+			<latitude>-128063</latitude>
+			<longitude>336104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanock Beza">
+			<state></state>
+			<latitude>-115063</latitude>
+			<longitude>337937</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanock Longwe">
+			<state></state>
+			<latitude>-111563</latitude>
+			<longitude>337104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hara Plain">
+			<state></state>
+			<latitude>-104563</latitude>
+			<longitude>341771</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hawilani">
+			<state></state>
+			<latitude>-148063</latitude>
+			<longitude>347604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hawu">
+			<state></state>
+			<latitude>-149063</latitude>
+			<longitude>347771</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heta">
+			<state></state>
+			<latitude>-122063</latitude>
+			<longitude>339437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hewe Stream">
+			<state></state>
+			<latitude>-111896</latitude>
+			<longitude>334937</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hicaje">
+			<state></state>
+			<latitude>-138229</latitude>
+			<longitude>330771</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hola">
+			<state></state>
+			<latitude>-147896</latitude>
+			<longitude>348437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoti Hills">
+			<state></state>
+			<latitude>-114396</latitude>
+			<longitude>338604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hynde Dam">
+			<state></state>
+			<latitude>-157896</latitude>
+			<longitude>350604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iai">
+			<state></state>
+			<latitude>-107062</latitude>
+			<longitude>337105</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibanda">
+			<state></state>
+			<latitude>-97062</latitude>
+			<longitude>334438</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Idi">
+			<state></state>
+			<latitude>-147728</latitude>
+			<longitude>355772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ifwatose">
+			<state></state>
+			<latitude>-114562</latitude>
+			<longitude>332772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilemba">
+			<state></state>
+			<latitude>-156728</latitude>
+			<longitude>344938</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilipihe Hill">
+			<state></state>
+			<latitude>-145562</latitude>
+			<longitude>356938</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imfayatonse">
+			<state></state>
+			<latitude>-136895</latitude>
+			<longitude>339938</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inje">
+			<state></state>
+			<latitude>-134895</latitude>
+			<longitude>338438</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inoch">
+			<state></state>
+			<latitude>-144062</latitude>
+			<longitude>340272</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Insili Hills">
+			<state></state>
+			<latitude>-147062</latitude>
+			<longitude>355772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipani">
+			<state></state>
+			<latitude>-144728</latitude>
+			<longitude>356605</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipani Hill">
+			<state></state>
+			<latitude>-145228</latitude>
+			<longitude>357272</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ipenza">
+			<state></state>
+			<latitude>-94728</latitude>
+			<longitude>331272</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irale Hill">
+			<state></state>
+			<latitude>-154395</latitude>
+			<longitude>350772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isaac">
+			<state></state>
+			<latitude>-133062</latitude>
+			<longitude>336772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isanga">
+			<state></state>
+			<latitude>-97228</latitude>
+			<longitude>335438</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iscariot">
+			<state></state>
+			<latitude>-137228</latitude>
+			<longitude>330772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itunde Hills">
+			<state></state>
+			<latitude>-146562</latitude>
+			<longitude>355272</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izaki Ngoyi">
+			<state></state>
+			<latitude>-120895</latitude>
+			<longitude>335772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lilongwe">
+			<state></state>
+			<latitude>-159392</latitude>
+			<longitude>351275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lilongwe Bay">
+			<state></state>
+			<latitude>-120059</latitude>
+			<longitude>346275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lilongwe District -- (State: Lilongwe)">
+			<state>Lilongwe</state>
+			<latitude>-139892</latitude>
+			<longitude>335941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lilongwe International">
+			<state></state>
+			<latitude>-139559</latitude>
+			<longitude>337108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lilongwe River">
+			<state></state>
+			<latitude>-137725</latitude>
+			<longitude>344275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limbe">
+			<state></state>
+			<latitude>-158059</latitude>
+			<longitude>350608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limbe Marsh">
+			<state></state>
+			<latitude>-154892</latitude>
+			<longitude>357608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limbe Stream">
+			<state></state>
+			<latitude>-159059</latitude>
+			<longitude>350275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mzuzu">
+			<state></state>
+			<latitude>-114391</latitude>
+			<longitude>339276</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mzuzu Stream">
+			<state></state>
+			<latitude>-114391</latitude>
+			<longitude>340442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nankwenya School">
+			<state></state>
+			<latitude>-159390</latitude>
+			<longitude>350943</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ofesi Stores">
+			<state></state>
+			<latitude>-127889</latitude>
+			<longitude>334944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Offisi">
+			<state></state>
+			<latitude>-127722</latitude>
+			<longitude>335611</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Bandawe Church">
+			<state></state>
+			<latitude>-119389</latitude>
+			<longitude>341778</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Ngara Boma">
+			<state></state>
+			<latitude>-132889</latitude>
+			<longitude>336111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Salawe">
+			<state></state>
+			<latitude>-108889</latitude>
+			<longitude>342444</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olokani">
+			<state></state>
+			<latitude>-127056</latitude>
+			<longitude>334444</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombechina">
+			<state></state>
+			<latitude>-123889</latitude>
+			<longitude>338111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omgolo">
+			<state></state>
+			<latitude>-132889</latitude>
+			<longitude>338278</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onaini">
+			<state></state>
+			<latitude>-126889</latitude>
+			<longitude>342111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ondwe">
+			<state></state>
+			<latitude>-145556</latitude>
+			<longitude>346778</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ongo Hill">
+			<state></state>
+			<latitude>-145222</latitude>
+			<longitude>346611</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orpington Estate">
+			<state></state>
+			<latitude>-142056</latitude>
+			<longitude>341444</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ozi">
+			<state></state>
+			<latitude>-129556</latitude>
+			<longitude>342278</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salima">
+			<state></state>
+			<latitude>-137718</latitude>
+			<longitude>344448</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salima District -- (State: Salima)">
+			<state>Salima</state>
+			<latitude>-137385</latitude>
+			<longitude>345115</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vandama">
+			<state></state>
+			<latitude>-120215</latitude>
+			<longitude>338618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinyepera Hill">
+			<state></state>
+			<latitude>-128549</latitude>
+			<longitude>333785</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Virauli Hill">
+			<state></state>
+			<latitude>-99049</latitude>
+			<longitude>337785</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vitenje">
+			<state></state>
+			<latitude>-121549</latitude>
+			<longitude>336118</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vitumbi">
+			<state></state>
+			<latitude>-107549</latitude>
+			<longitude>339785</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vivya">
+			<state></state>
+			<latitude>-116549</latitude>
+			<longitude>339951</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vizinde">
+			<state></state>
+			<latitude>-127215</latitude>
+			<longitude>333285</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vundakiri">
+			<state></state>
+			<latitude>-128382</latitude>
+			<longitude>341118</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vwalamani">
+			<state></state>
+			<latitude>-126382</latitude>
+			<longitude>334118</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vwasa Marsh">
+			<state></state>
+			<latitude>-108715</latitude>
+			<longitude>334618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyapatamo">
+			<state></state>
+			<latitude>-126049</latitude>
+			<longitude>333285</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyauka">
+			<state></state>
+			<latitude>-125715</latitude>
+			<longitude>334451</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Witeze">
+			<state></state>
+			<latitude>-96881</latitude>
+			<longitude>335952</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xetedzi">
+			<state></state>
+			<latitude>-152380</latitude>
+			<longitude>346120</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yadinga">
+			<state></state>
+			<latitude>-116046</latitude>
+			<longitude>343121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yagoma">
+			<state></state>
+			<latitude>-138546</latitude>
+			<longitude>330788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakobe Ndezu">
+			<state></state>
+			<latitude>-113046</latitude>
+			<longitude>334621</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakobe Njakwa">
+			<state></state>
+			<latitude>-115879</latitude>
+			<longitude>336954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakobe Nyirenda">
+			<state></state>
+			<latitude>-113546</latitude>
+			<longitude>334454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamwala">
+			<state></state>
+			<latitude>-130046</latitude>
+			<longitude>335621</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangala">
+			<state></state>
+			<latitude>-144712</latitude>
+			<longitude>352954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanjanani">
+			<state></state>
+			<latitude>-128212</latitude>
+			<longitude>335288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yapola">
+			<state></state>
+			<latitude>-137212</latitude>
+			<longitude>340288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yawinda">
+			<state></state>
+			<latitude>-126212</latitude>
+			<longitude>334121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yekamu">
+			<state></state>
+			<latitude>-134712</latitude>
+			<longitude>337788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yelemiya Lungu">
+			<state></state>
+			<latitude>-121712</latitude>
+			<longitude>334954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yembe Hill">
+			<state></state>
+			<latitude>-97046</latitude>
+			<longitude>338788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yendayenda">
+			<state></state>
+			<latitude>-148212</latitude>
+			<longitude>347954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yera">
+			<state></state>
+			<latitude>-153212</latitude>
+			<longitude>348121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yesaya">
+			<state></state>
+			<latitude>-135046</latitude>
+			<longitude>333954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yesaya Chiwambo">
+			<state></state>
+			<latitude>-113879</latitude>
+			<longitude>339121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yesaya Mkosi">
+			<state></state>
+			<latitude>-117046</latitude>
+			<longitude>335621</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yesaya Ndowera">
+			<state></state>
+			<latitude>-119212</latitude>
+			<longitude>336788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yesaya Shawa">
+			<state></state>
+			<latitude>-113879</latitude>
+			<longitude>336954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yobe Gama">
+			<state></state>
+			<latitude>-116546</latitude>
+			<longitude>334621</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yobe Jere">
+			<state></state>
+			<latitude>-115046</latitude>
+			<longitude>334954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yofu">
+			<state></state>
+			<latitude>-120379</latitude>
+			<longitude>347454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yofu Bay">
+			<state></state>
+			<latitude>-120212</latitude>
+			<longitude>347454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yohan">
+			<state></state>
+			<latitude>-137546</latitude>
+			<longitude>328454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yohane Jere">
+			<state></state>
+			<latitude>-113712</latitude>
+			<longitude>338954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yonam">
+			<state></state>
+			<latitude>-137212</latitude>
+			<longitude>344121</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yosefi">
+			<state></state>
+			<latitude>-125879</latitude>
+			<longitude>335288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yotamu">
+			<state></state>
+			<latitude>-131212</latitude>
+			<longitude>336788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yotamu Ziwe">
+			<state></state>
+			<latitude>-116712</latitude>
+			<longitude>335954</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youngs Bay">
+			<state></state>
+			<latitude>-104879</latitude>
+			<longitude>342621</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yundu">
+			<state></state>
+			<latitude>-120712</latitude>
+			<longitude>347288</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yzame">
+			<state></state>
+			<latitude>-135379</latitude>
+			<longitude>339454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zomba">
+			<state></state>
+			<latitude>-153711</latitude>
+			<longitude>353455</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zomba District -- (State: Zomba)">
+			<state>Zomba</state>
+			<latitude>-151545</latitude>
+			<longitude>355122</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zomba Forest Reserve">
+			<state></state>
+			<latitude>-153211</latitude>
+			<longitude>353289</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zomba Mission">
+			<state></state>
+			<latitude>-154045</latitude>
+			<longitude>353122</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zomba Mountain">
+			<state></state>
+			<latitude>-152711</latitude>
+			<longitude>352955</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zomba Plateau">
+			<state></state>
+			<latitude>-153211</latitude>
+			<longitude>353122</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,432 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Madagascar">
+		<city name="Antananarivo">
+			<state></state>
+			<latitude>-189070</latitude>
+			<longitude>475264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antananarivo -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-239736</latitude>
+			<longitude>461930</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antananarivo -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-133570</latitude>
+			<longitude>497264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antananarivo Faritany d -- (State: Antananarivo)">
+			<state>Antananarivo</state>
+			<latitude>-189903</latitude>
+			<longitude>470097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antananarivokely -- (State: Antananarivo)">
+			<state>Antananarivo</state>
+			<latitude>-195236</latitude>
+			<longitude>477097</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaines Anosyennes -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-244068</latitude>
+			<longitude>470099</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gabrielle Shoal -- (State: Fianarantsoa)">
+			<state>Fianarantsoa</state>
+			<latitude>-210897</latitude>
+			<longitude>485436</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gadra -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-188230</latitude>
+			<longitude>450103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gare d Andavabato -- (State: Antananarivo)">
+			<state>Antananarivo</state>
+			<latitude>-196230</latitude>
+			<longitude>472436</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gare d Ilempona -- (State: Antananarivo)">
+			<state>Antananarivo</state>
+			<latitude>-196397</latitude>
+			<longitude>473270</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geraud -- (State: Toamasina)">
+			<state>Toamasina</state>
+			<latitude>-187564</latitude>
+			<longitude>488936</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geyser Reef">
+			<state></state>
+			<latitude>-123564</latitude>
+			<longitude>465603</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gisimay -- (State: Toamasina)">
+			<state>Toamasina</state>
+			<latitude>-186230</latitude>
+			<longitude>489770</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gogogogo -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-242564</latitude>
+			<longitude>448103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gogoy -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-249564</latitude>
+			<longitude>453270</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Golo Pass -- (State: Toamasina)">
+			<state>Toamasina</state>
+			<latitude>-167064</latitude>
+			<longitude>497603</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gorges Du Manambolo -- (State: Mahajanga)">
+			<state>Mahajanga</state>
+			<latitude>-191230</latitude>
+			<longitude>448936</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gorogada -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-247064</latitude>
+			<longitude>448103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Lavasoa -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-250730</latitude>
+			<longitude>467436</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Recif -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-122897</latitude>
+			<longitude>489436</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Recif -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-234064</latitude>
+			<longitude>436770</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Serpent -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-130230</latitude>
+			<longitude>483270</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande Mitsio -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-128897</latitude>
+			<longitude>486103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande Riviere -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-123230</latitude>
+			<longitude>494103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande-Terre">
+			<state></state>
+			<latitude>-199897</latitude>
+			<longitude>470103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grenouille Banks -- (State: Mahajanga)">
+			<state>Mahajanga</state>
+			<latitude>-157064</latitude>
+			<longitude>444270</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grottes d Andranoboka -- (State: Mahajanga)">
+			<state>Mahajanga</state>
+			<latitude>-155230</latitude>
+			<longitude>468936</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jafaro -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-249061</latitude>
+			<longitude>455273</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jajavy -- (State: Mahajanga)">
+			<state>Mahajanga</state>
+			<latitude>-150227</latitude>
+			<longitude>472439</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jama -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-239227</latitude>
+			<longitude>463439</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamako -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-200727</latitude>
+			<longitude>454606</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangany -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-228394</latitude>
+			<longitude>457939</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangany Riviere -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-228394</latitude>
+			<longitude>457273</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangoa -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-137727</latitude>
+			<longitude>483273</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangoa Riviere -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-137727</latitude>
+			<longitude>483439</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangoany Riviere -- (State: Antananarivo)">
+			<state>Antananarivo</state>
+			<latitude>-184561</latitude>
+			<longitude>465106</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janjina -- (State: Fianarantsoa)">
+			<state>Fianarantsoa</state>
+			<latitude>-205394</latitude>
+			<longitude>458773</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Japemby -- (State: Antananarivo)">
+			<state>Antananarivo</state>
+			<latitude>-198894</latitude>
+			<longitude>458773</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarindrano -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-226061</latitude>
+			<longitude>448773</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jevola -- (State: Antananarivo)">
+			<state>Antananarivo</state>
+			<latitude>-189394</latitude>
+			<longitude>469606</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jio Jio -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-125727</latitude>
+			<longitude>488606</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johasikily -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-242061</latitude>
+			<longitude>466606</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joja -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-138061</latitude>
+			<longitude>482273</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Majunga -- (State: Mahajanga)">
+			<state>Mahajanga</state>
+			<latitude>-157224</latitude>
+			<longitude>463109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quail Island -- (State: Toamasina)">
+			<state>Toamasina</state>
+			<latitude>-169887</latitude>
+			<longitude>498613</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queue de Lango -- (State: Mahajanga)">
+			<state>Mahajanga</state>
+			<latitude>-146220</latitude>
+			<longitude>476446</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoin Rocks -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-223887</latitude>
+			<longitude>432613</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toamasina -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-133384</latitude>
+			<longitude>497616</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toamasina">
+			<state></state>
+			<latitude>-181551</latitude>
+			<longitude>493949</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toamasina Harbor -- (State: Toamasina)">
+			<state>Toamasina</state>
+			<latitude>-181384</latitude>
+			<longitude>494283</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toliary -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-233384</latitude>
+			<longitude>436783</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usine -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-249716</latitude>
+			<longitude>462950</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Lango Bank -- (State: Mahajanga)">
+			<state>Mahajanga</state>
+			<latitude>-145881</latitude>
+			<longitude>476619</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whale Rock -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-221881</latitude>
+			<longitude>431952</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whale Shoal -- (State: Toamasina)">
+			<state>Toamasina</state>
+			<latitude>-169048</latitude>
+			<longitude>499786</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="William Pitt Bay -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-122381</latitude>
+			<longitude>488452</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windsor Castle -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-122048</latitude>
+			<longitude>491786</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woody Islet -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-122548</latitude>
+			<longitude>486452</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang-tze Rock -- (State: Antsiranana)">
+			<state>Antsiranana</state>
+			<latitude>-123712</latitude>
+			<longitude>487288</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanoaka -- (State: Toliara)">
+			<state>Toliara</state>
+			<latitude>-225046</latitude>
+			<longitude>446288</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanaboro -- (State: Fianarantsoa)">
+			<state>Fianarantsoa</state>
+			<latitude>-199045</latitude>
+			<longitude>458789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

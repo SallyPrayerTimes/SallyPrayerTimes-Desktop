@@ -1,0 +1,404 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Sao Tome And Principe">
+		<city name="Agua Castelo -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>4264</latitude>
+			<longitude>66264</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agua Grande -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3597</latitude>
+			<longitude>67430</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agua Lamas -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3930</latitude>
+			<longitude>66430</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alianca -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>1930</latitude>
+			<longitude>66597</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alto Douro -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>597</latitude>
+			<longitude>65430</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Angobo -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>1597</latitude>
+			<longitude>66764</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antonio Enes -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>15597</latitude>
+			<longitude>73930</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balsa Voador -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>1431</latitude>
+			<longitude>64931</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cambuta -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2599</latitude>
+			<longitude>66932</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Capitu -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2099</latitude>
+			<longitude>64932</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Castelo -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2266</latitude>
+			<longitude>67266</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Catraio -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2766</latitude>
+			<longitude>66766</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Celeste -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>932</latitude>
+			<longitude>66099</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chamico -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3266</latitude>
+			<longitude>66099</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Correio -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16099</latitude>
+			<longitude>73599</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cruzeiro -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>1932</latitude>
+			<longitude>66432</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diogo Vaz -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3267</latitude>
+			<longitude>65100</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dom Afonso -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>1100</latitude>
+			<longitude>66100</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enjale -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>434</latitude>
+			<longitude>65268</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Estoril -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3434</latitude>
+			<longitude>65934</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fernao Dias -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>4269</latitude>
+			<longitude>66935</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futuro -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16769</latitude>
+			<longitude>74435</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gale Rock -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>17436</latitude>
+			<longitude>73936</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Graca -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3103</latitude>
+			<longitude>66603</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guarda -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3603</latitude>
+			<longitude>66103</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guegue Novo -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2770</latitude>
+			<longitude>67270</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gumbela -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>936</latitude>
+			<longitude>65603</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neves -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3777</latitude>
+			<longitude>65610</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nitreira -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16277</latitude>
+			<longitude>74277</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nova Moca -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2943</latitude>
+			<longitude>66443</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nova Olinda -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2610</latitude>
+			<longitude>67443</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novo Destino -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3277</latitude>
+			<longitude>66443</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oca -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16778</latitude>
+			<longitude>74111</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oque Boi -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16444</latitude>
+			<longitude>74444</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oque Daniel -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16778</latitude>
+			<longitude>73778</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oque Gaspar -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16611</latitude>
+			<longitude>74278</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oque Nazare -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16444</latitude>
+			<longitude>74111</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oque Pipi -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16111</latitude>
+			<longitude>74278</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oquedelrey -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3778</latitude>
+			<longitude>67444</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ribeira Afonso -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2114</latitude>
+			<longitude>67114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ribeira Fria -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>15947</latitude>
+			<longitude>74447</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ribeira Ize -- (State: Principe)">
+			<state>Principe</state>
+			<latitude>16947</latitude>
+			<longitude>74114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ribeira Peixe -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>947</latitude>
+			<longitude>66281</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Angobo -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>1614</latitude>
+			<longitude>66947</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Cabumbe -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2281</latitude>
+			<longitude>65281</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio do Ouro -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3781</latitude>
+			<longitude>66614</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Leca -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3614</latitude>
+			<longitude>65614</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Massacavu -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>1114</latitude>
+			<longitude>65281</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Mata Mina -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2781</latitude>
+			<longitude>64947</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Melo -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3781</latitude>
+			<longitude>67281</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Paga Fogo -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>2947</latitude>
+			<longitude>64947</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Portinho -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>947</latitude>
+			<longitude>65281</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Umbugo -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>1281</latitude>
+			<longitude>66447</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rio Vouga -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3447</latitude>
+			<longitude>67114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rozema -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3614</latitude>
+			<longitude>65781</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sao Tome">
+			<state></state>
+			<latitude>2115</latitude>
+			<longitude>66615</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vista Alegre -- (State: Sao Tome)">
+			<state>Sao Tome</state>
+			<latitude>3285</latitude>
+			<longitude>66951</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

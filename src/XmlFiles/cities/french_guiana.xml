@@ -1,0 +1,1384 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="French Guiana">
+		<city name="Cayenne">
+			<state></state>
+			<latitude>49432</latitude>
+			<longitude>-523234</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eau Badet">
+			<state></state>
+			<latitude>48934</latitude>
+			<longitude>-522899</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eau Blanche">
+			<state></state>
+			<latitude>50768</latitude>
+			<longitude>-534732</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eau Claire">
+			<state></state>
+			<latitude>36768</latitude>
+			<longitude>-532066</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edmont">
+			<state></state>
+			<latitude>46101</latitude>
+			<longitude>-524232</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edouard">
+			<state></state>
+			<latitude>34101</latitude>
+			<longitude>-538232</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edwin">
+			<state></state>
+			<latitude>46934</latitude>
+			<longitude>-538899</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eiland Oronobo">
+			<state></state>
+			<latitude>54768</latitude>
+			<longitude>-540566</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekeny">
+			<state></state>
+			<latitude>40601</latitude>
+			<longitude>-524566</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elassapa Itou">
+			<state></state>
+			<latitude>22101</latitude>
+			<longitude>-528899</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elelelepou">
+			<state></state>
+			<latitude>27601</latitude>
+			<longitude>-542232</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elysee">
+			<state></state>
+			<latitude>47601</latitude>
+			<longitude>-540399</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embouchure Yaroupi">
+			<state></state>
+			<latitude>27934</latitude>
+			<longitude>-524732</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emerillon">
+			<state></state>
+			<latitude>34268</latitude>
+			<longitude>-530566</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enene Patatpe">
+			<state></state>
+			<latitude>23434</latitude>
+			<longitude>-544899</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enfants perdus">
+			<state></state>
+			<latitude>38768</latitude>
+			<longitude>-542066</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enfin Pepita">
+			<state></state>
+			<latitude>47434</latitude>
+			<longitude>-539232</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entoucas">
+			<state></state>
+			<latitude>34934</latitude>
+			<longitude>-540066</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eponoe Soela">
+			<state></state>
+			<latitude>35268</latitude>
+			<longitude>-539899</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esperance">
+			<state></state>
+			<latitude>46768</latitude>
+			<longitude>-543066</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Espoir">
+			<state></state>
+			<latitude>50101</latitude>
+			<longitude>-530732</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etats-Unis">
+			<state></state>
+			<latitude>34268</latitude>
+			<longitude>-534066</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etienne">
+			<state></state>
+			<latitude>44601</latitude>
+			<longitude>-525399</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalbot">
+			<state></state>
+			<latitude>42106</latitude>
+			<longitude>-526061</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janvier">
+			<state></state>
+			<latitude>51773</latitude>
+			<longitude>-541394</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Japoc">
+			<state></state>
+			<latitude>41439</latitude>
+			<longitude>-516561</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Javouhey">
+			<state></state>
+			<latitude>56106</latitude>
+			<longitude>-538061</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jean-Jean Remission">
+			<state></state>
+			<latitude>42439</latitude>
+			<longitude>-519894</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jejo">
+			<state></state>
+			<latitude>54106</latitude>
+			<longitude>-529894</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John">
+			<state></state>
+			<latitude>49773</latitude>
+			<longitude>-535727</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joli Saut">
+			<state></state>
+			<latitude>23939</latitude>
+			<longitude>-529727</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kagnouma">
+			<state></state>
+			<latitude>26440</latitude>
+			<longitude>-525393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kainwa Itou">
+			<state></state>
+			<latitude>22274</latitude>
+			<longitude>-528726</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalara Itou">
+			<state></state>
+			<latitude>22107</latitude>
+			<longitude>-529226</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanguelarou Itou">
+			<state></state>
+			<latitude>28440</latitude>
+			<longitude>-524393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kantali">
+			<state></state>
+			<latitude>54274</latitude>
+			<longitude>-543060</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kariakou">
+			<state></state>
+			<latitude>48940</latitude>
+			<longitude>-537226</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kassiaba Soula">
+			<state></state>
+			<latitude>33274</latitude>
+			<longitude>-540560</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaw">
+			<state></state>
+			<latitude>44940</latitude>
+			<longitude>-520226</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaw River">
+			<state></state>
+			<latitude>48107</latitude>
+			<longitude>-521393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keierekourou">
+			<state></state>
+			<latitude>30274</latitude>
+			<longitude>-536393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kepioudou Soula">
+			<state></state>
+			<latitude>49940</latitude>
+			<longitude>-544393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kerrenroch">
+			<state></state>
+			<latitude>51107</latitude>
+			<longitude>-530393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koffi Camisa Soula">
+			<state></state>
+			<latitude>42274</latitude>
+			<longitude>-543726</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kofi Kamiza">
+			<state></state>
+			<latitude>41940</latitude>
+			<longitude>-543893</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kokioko">
+			<state></state>
+			<latitude>49274</latitude>
+			<longitude>-534893</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kokoye">
+			<state></state>
+			<latitude>40774</latitude>
+			<longitude>-541393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koo Soula">
+			<state></state>
+			<latitude>36440</latitude>
+			<longitude>-538226</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Korekore Kreek">
+			<state></state>
+			<latitude>24440</latitude>
+			<longitude>-544560</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kormotibo">
+			<state></state>
+			<latitude>38107</latitude>
+			<longitude>-541226</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kotioko">
+			<state></state>
+			<latitude>34107</latitude>
+			<longitude>-528893</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kouachi">
+			<state></state>
+			<latitude>56274</latitude>
+			<longitude>-537060</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kouachinana">
+			<state></state>
+			<latitude>56440</latitude>
+			<longitude>-536726</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koulimapopane">
+			<state></state>
+			<latitude>23440</latitude>
+			<longitude>-545893</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kouloumouli Eoukou">
+			<state></state>
+			<latitude>27774</latitude>
+			<longitude>-542060</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koumakou Soula">
+			<state></state>
+			<latitude>31107</latitude>
+			<longitude>-536726</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koumalawa Itou">
+			<state></state>
+			<latitude>25774</latitude>
+			<longitude>-525226</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kouman-Kouman">
+			<state></state>
+			<latitude>40440</latitude>
+			<longitude>-516560</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kourou">
+			<state></state>
+			<latitude>51607</latitude>
+			<longitude>-526393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kouroumouri Itou">
+			<state></state>
+			<latitude>24440</latitude>
+			<longitude>-526393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koutou">
+			<state></state>
+			<latitude>33107</latitude>
+			<longitude>-527560</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koutouwao">
+			<state></state>
+			<latitude>55774</latitude>
+			<longitude>-539226</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kouyari Itou">
+			<state></state>
+			<latitude>26940</latitude>
+			<longitude>-525060</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuru River">
+			<state></state>
+			<latitude>51607</latitude>
+			<longitude>-526226</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwaman Tapele Itou">
+			<state></state>
+			<latitude>25607</latitude>
+			<longitude>-525393</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwassie">
+			<state></state>
+			<latitude>49607</latitude>
+			<longitude>-544226</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="NAME NOT KNOWN">
+			<state></state>
+			<latitude>37943</latitude>
+			<longitude>-518890</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="NAME NOTKNOWN">
+			<state></state>
+			<latitude>24610</latitude>
+			<longitude>-526223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nancibo">
+			<state></state>
+			<latitude>46777</latitude>
+			<longitude>-524723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Napi Soula">
+			<state></state>
+			<latitude>27277</latitude>
+			<longitude>-534223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nassau Dede Soula">
+			<state></state>
+			<latitude>33110</latitude>
+			<longitude>-540557</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neptune">
+			<state></state>
+			<latitude>40777</latitude>
+			<longitude>-530723</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niewe Rust">
+			<state></state>
+			<latitude>55943</latitude>
+			<longitude>-550223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouveau Camp">
+			<state></state>
+			<latitude>55610</latitude>
+			<longitude>-539223</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouvelle Angouleme">
+			<state></state>
+			<latitude>54110</latitude>
+			<longitude>-536390</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oiseau Fou">
+			<state></state>
+			<latitude>48944</latitude>
+			<longitude>-530389</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orapu">
+			<state></state>
+			<latitude>46611</latitude>
+			<longitude>-523222</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oulwa Itou">
+			<state></state>
+			<latitude>24611</latitude>
+			<longitude>-526056</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatre Carbets">
+			<state></state>
+			<latitude>37780</latitude>
+			<longitude>-521887</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quesnel">
+			<state></state>
+			<latitude>49613</latitude>
+			<longitude>-524887</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Laurent du Maroni">
+			<state></state>
+			<latitude>54948</latitude>
+			<longitude>-540218</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tabikide Soula">
+			<state></state>
+			<latitude>47949</latitude>
+			<longitude>-544551</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Table de Mahury">
+			<state></state>
+			<latitude>48783</latitude>
+			<longitude>-522551</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tablon">
+			<state></state>
+			<latitude>46783</latitude>
+			<longitude>-539051</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taca Malapane">
+			<state></state>
+			<latitude>29783</latitude>
+			<longitude>-541717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taconet">
+			<state></state>
+			<latitude>40449</latitude>
+			<longitude>-525051</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tainwa Itou">
+			<state></state>
+			<latitude>26283</latitude>
+			<longitude>-527051</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tako">
+			<state></state>
+			<latitude>27116</latitude>
+			<longitude>-534551</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taleouwayatou Itou">
+			<state></state>
+			<latitude>28783</latitude>
+			<longitude>-524217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamanwayapa Itou">
+			<state></state>
+			<latitude>23116</latitude>
+			<longitude>-528217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamarinier">
+			<state></state>
+			<latitude>53616</latitude>
+			<longitude>-528551</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamoussiyapa Itou">
+			<state></state>
+			<latitude>29449</latitude>
+			<longitude>-523884</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tampac">
+			<state></state>
+			<latitude>32116</latitude>
+			<longitude>-525217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tampoc III">
+			<state></state>
+			<latitude>25783</latitude>
+			<longitude>-535384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tampoc Riviere">
+			<state></state>
+			<latitude>34616</latitude>
+			<longitude>-539884</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tampok">
+			<state></state>
+			<latitude>33449</latitude>
+			<longitude>-538217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanpoc">
+			<state></state>
+			<latitude>33283</latitude>
+			<longitude>-538217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tapere">
+			<state></state>
+			<latitude>27449</latitude>
+			<longitude>-524884</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tapir Eiland">
+			<state></state>
+			<latitude>47116</latitude>
+			<longitude>-544217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taponte">
+			<state></state>
+			<latitude>32783</latitude>
+			<longitude>-541051</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tchoukouchipann">
+			<state></state>
+			<latitude>22616</latitude>
+			<longitude>-544717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terre Jaune">
+			<state></state>
+			<latitude>50616</latitude>
+			<longitude>-526384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terre Rouge">
+			<state></state>
+			<latitude>56283</latitude>
+			<longitude>-537384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teufels Insel">
+			<state></state>
+			<latitude>52949</latitude>
+			<longitude>-525717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Guianas">
+			<state></state>
+			<latitude>40116</latitude>
+			<longitude>-559884</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Theodore">
+			<state></state>
+			<latitude>40449</latitude>
+			<longitude>-525384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Theophane">
+			<state></state>
+			<latitude>37283</latitude>
+			<longitude>-540717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Three Pitons">
+			<state></state>
+			<latitude>42283</latitude>
+			<longitude>-518384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tibouron">
+			<state></state>
+			<latitude>45283</latitude>
+			<longitude>-523384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tiepi Soula">
+			<state></state>
+			<latitude>49949</latitude>
+			<longitude>-544217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tigami">
+			<state></state>
+			<latitude>48783</latitude>
+			<longitude>-522884</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Timon">
+			<state></state>
+			<latitude>44283</latitude>
+			<longitude>-523717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tintin">
+			<state></state>
+			<latitude>42283</latitude>
+			<longitude>-522384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tion Tion Soula">
+			<state></state>
+			<latitude>48283</latitude>
+			<longitude>-544551</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Titine">
+			<state></state>
+			<latitude>42783</latitude>
+			<longitude>-521884</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tolinche">
+			<state></state>
+			<latitude>52949</latitude>
+			<longitude>-542384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tonate">
+			<state></state>
+			<latitude>50283</latitude>
+			<longitude>-524717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tonegrande">
+			<state></state>
+			<latitude>48449</latitude>
+			<longitude>-524384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tonkin">
+			<state></state>
+			<latitude>48616</latitude>
+			<longitude>-532551</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toou Soula">
+			<state></state>
+			<latitude>49783</latitude>
+			<longitude>-544217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Topaze">
+			<state></state>
+			<latitude>47283</latitude>
+			<longitude>-539384</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tortue">
+			<state></state>
+			<latitude>41949</latitude>
+			<longitude>-523717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tour Dreyfus">
+			<state></state>
+			<latitude>51783</latitude>
+			<longitude>-526217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toussine">
+			<state></state>
+			<latitude>47783</latitude>
+			<longitude>-538717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Triton">
+			<state></state>
+			<latitude>41616</latitude>
+			<longitude>-530217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trois Paletuviers">
+			<state></state>
+			<latitude>40783</latitude>
+			<longitude>-516551</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trois Rois">
+			<state></state>
+			<latitude>49616</latitude>
+			<longitude>-525217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trois Sauts">
+			<state></state>
+			<latitude>22616</latitude>
+			<longitude>-528717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Troisieme Saut">
+			<state></state>
+			<latitude>52949</latitude>
+			<longitude>-541551</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Ara">
+			<state></state>
+			<latitude>53449</latitude>
+			<longitude>-531717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Biron">
+			<state></state>
+			<latitude>49449</latitude>
+			<longitude>-522884</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Caiman">
+			<state></state>
+			<latitude>54616</latitude>
+			<longitude>-531717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Caimans">
+			<state></state>
+			<latitude>54616</latitude>
+			<longitude>-531217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Leonard">
+			<state></state>
+			<latitude>52449</latitude>
+			<longitude>-527217</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Poisson">
+			<state></state>
+			<latitude>54283</latitude>
+			<longitude>-530884</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Poissons">
+			<state></state>
+			<latitude>54449</latitude>
+			<longitude>-530717</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val Grankoemaranjam">
+			<state></state>
+			<latitude>46618</latitude>
+			<longitude>-544049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val Kroboi Soera">
+			<state></state>
+			<latitude>26785</latitude>
+			<longitude>-542715</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val Langatetei">
+			<state></state>
+			<latitude>38951</latitude>
+			<longitude>-542382</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val Lensididde">
+			<state></state>
+			<latitude>40451</latitude>
+			<longitude>-543215</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val Mope">
+			<state></state>
+			<latitude>45785</latitude>
+			<longitude>-544049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valentin">
+			<state></state>
+			<latitude>53285</latitude>
+			<longitude>-536549</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valide">
+			<state></state>
+			<latitude>38785</latitude>
+			<longitude>-533549</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veleda">
+			<state></state>
+			<latitude>47618</latitude>
+			<longitude>-540049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venise">
+			<state></state>
+			<latitude>40118</latitude>
+			<longitude>-529549</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venus">
+			<state></state>
+			<latitude>52118</latitude>
+			<longitude>-529715</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vichy">
+			<state></state>
+			<latitude>42118</latitude>
+			<longitude>-527715</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victor">
+			<state></state>
+			<latitude>49451</latitude>
+			<longitude>-523049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Grand-Santi">
+			<state></state>
+			<latitude>43451</latitude>
+			<longitude>-543882</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villaflore">
+			<state></state>
+			<latitude>41618</latitude>
+			<longitude>-523549</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Adnet">
+			<state></state>
+			<latitude>42618</latitude>
+			<longitude>-522049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Bauge">
+			<state></state>
+			<latitude>42451</latitude>
+			<longitude>-522049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Blicade">
+			<state></state>
+			<latitude>33118</latitude>
+			<longitude>-538382</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Chinois">
+			<state></state>
+			<latitude>41951</latitude>
+			<longitude>-528549</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Coco">
+			<state></state>
+			<latitude>43118</latitude>
+			<longitude>-521215</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Creole">
+			<state></state>
+			<latitude>32285</latitude>
+			<longitude>-537049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Fracas">
+			<state></state>
+			<latitude>47618</latitude>
+			<longitude>-536549</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Gaa Caba">
+			<state></state>
+			<latitude>44951</latitude>
+			<longitude>-544215</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Galibi">
+			<state></state>
+			<latitude>54118</latitude>
+			<longitude>-541049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Galloni">
+			<state></state>
+			<latitude>52285</latitude>
+			<longitude>-542049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Guillaume">
+			<state></state>
+			<latitude>42785</latitude>
+			<longitude>-522382</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Imperatrice">
+			<state></state>
+			<latitude>40785</latitude>
+			<longitude>-524382</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Inipi">
+			<state></state>
+			<latitude>32618</latitude>
+			<longitude>-529382</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village La Greve">
+			<state></state>
+			<latitude>38785</latitude>
+			<longitude>-536715</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Maffi">
+			<state></state>
+			<latitude>42951</latitude>
+			<longitude>-521215</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Migue">
+			<state></state>
+			<latitude>42951</latitude>
+			<longitude>-521382</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Saint-Paul">
+			<state></state>
+			<latitude>43951</latitude>
+			<longitude>-543715</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Saramaca">
+			<state></state>
+			<latitude>44118</latitude>
+			<longitude>-523715</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Sophie">
+			<state></state>
+			<latitude>39785</latitude>
+			<longitude>-534715</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vini">
+			<state></state>
+			<latitude>36951</latitude>
+			<longitude>-539382</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viri Itou">
+			<state></state>
+			<latitude>26785</latitude>
+			<longitude>-525049</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waane">
+			<state></state>
+			<latitude>28619</latitude>
+			<longitude>-524381</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wacapou">
+			<state></state>
+			<latitude>36952</latitude>
+			<longitude>-540714</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waimikwale Itou">
+			<state></state>
+			<latitude>27952</latitude>
+			<longitude>-525548</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakapou Soula">
+			<state></state>
+			<latitude>37119</latitude>
+			<longitude>-539881</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wataou Tilili Icholi">
+			<state></state>
+			<latitude>27286</latitude>
+			<longitude>-542548</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wawa Soula">
+			<state></state>
+			<latitude>32786</latitude>
+			<longitude>-537381</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wayo Gaan Soula">
+			<state></state>
+			<latitude>26952</latitude>
+			<longitude>-539881</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weti Soula">
+			<state></state>
+			<latitude>29286</latitude>
+			<longitude>-535714</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weti Wata Eoukou">
+			<state></state>
+			<latitude>28452</latitude>
+			<longitude>-539548</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weti-Chiton">
+			<state></state>
+			<latitude>47619</latitude>
+			<longitude>-544548</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="White Rocks">
+			<state></state>
+			<latitude>54286</latitude>
+			<longitude>-528381</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilfried">
+			<state></state>
+			<latitude>37119</latitude>
+			<longitude>-540714</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wittieston Soela">
+			<state></state>
+			<latitude>47786</latitude>
+			<longitude>-544548</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalou Patatpeu">
+			<state></state>
+			<latitude>25454</latitude>
+			<longitude>-543212</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamakatoupiaina Itou">
+			<state></state>
+			<latitude>25454</latitude>
+			<longitude>-525379</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanou">
+			<state></state>
+			<latitude>54788</latitude>
+			<longitude>-532546</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaou">
+			<state></state>
+			<latitude>37454</latitude>
+			<longitude>-539379</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yapimaliki Soula">
+			<state></state>
+			<latitude>40954</latitude>
+			<longitude>-543212</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yapopena Itou">
+			<state></state>
+			<latitude>27121</latitude>
+			<longitude>-525046</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yawassikwa Itou">
+			<state></state>
+			<latitude>23288</latitude>
+			<longitude>-527546</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaya">
+			<state></state>
+			<latitude>46288</latitude>
+			<longitude>-543212</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yofe">
+			<state></state>
+			<latitude>54454</latitude>
+			<longitude>-536712</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yolande">
+			<state></state>
+			<latitude>41121</latitude>
+			<longitude>-529379</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaou Tabiki">
+			<state></state>
+			<latitude>33955</latitude>
+			<longitude>-540378</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zidok">
+			<state></state>
+			<latitude>22622</latitude>
+			<longitude>-528545</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zombi">
+			<state></state>
+			<latitude>46122</latitude>
+			<longitude>-523878</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,957 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Sierra Leone">
+		<city name="Aberdeen -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>85022</latitude>
+			<longitude>-132747</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aberdeen Creek -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>85008</latitude>
+			<longitude>-132656</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aberdeen Hill -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>85061</latitude>
+			<longitude>-132797</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adder Hill -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84575</latitude>
+			<longitude>-131939</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adonkia -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84264</latitude>
+			<longitude>-132589</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aku Town -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>86736</latitude>
+			<longitude>-131784</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alikalia -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>91764</latitude>
+			<longitude>-113903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Allamangy Brook -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83736</latitude>
+			<longitude>-130714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Allen Town -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84233</latitude>
+			<longitude>-131506</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Allen Town Ridge -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84172</latitude>
+			<longitude>-131450</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alligator Brooke -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84930</latitude>
+			<longitude>-132403</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Allridge Island -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>75458</latitude>
+			<longitude>-124861</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amaria -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>87400</latitude>
+			<longitude>-131809</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Angola Town -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84216</latitude>
+			<longitude>-132553</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ardron Point -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84930</latitude>
+			<longitude>-131736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Argyle Point -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>74053</latitude>
+			<longitude>-125397</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bo -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>79554</latitude>
+			<longitude>-117530</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bo -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>79473</latitude>
+			<longitude>-113366</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boana Hill -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>88765</latitude>
+			<longitude>-112069</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bogbagara -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>77526</latitude>
+			<longitude>-118910</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bohekema -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>79990</latitude>
+			<longitude>-106799</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boma -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>87265</latitude>
+			<longitude>-109235</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bomaru -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>80265</latitude>
+			<longitude>-106069</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bomna -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>87598</latitude>
+			<longitude>-118402</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bomuvulahun -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>75098</latitude>
+			<longitude>-118069</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bondua -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>94265</latitude>
+			<longitude>-118069</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bonguema -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83312</latitude>
+			<longitude>-130630</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buedu -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>82901</latitude>
+			<longitude>-103621</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Calaba Town -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84480</latitude>
+			<longitude>-131532</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Calaba Water -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84496</latitude>
+			<longitude>-131495</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Calmont Creek -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>82599</latitude>
+			<longitude>-130068</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Campbell Town -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83166</latitude>
+			<longitude>-130404</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Saint Ann -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>75830</latitude>
+			<longitude>-129345</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Shilling -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>81766</latitude>
+			<longitude>-131568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Sierra Leone -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>85085</latitude>
+			<longitude>-132873</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cemetery Water -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84549</latitude>
+			<longitude>-131590</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Central Province -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>80099</latitude>
+			<longitude>-122401</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charlotte -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84341</latitude>
+			<longitude>-131818</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chembu -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>94266</latitude>
+			<longitude>-122734</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cher -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>78157</latitude>
+			<longitude>-127537</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chesuadu -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>89599</latitude>
+			<longitude>-111568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cholon -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>92766</latitude>
+			<longitude>-120401</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cline Bay -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84938</latitude>
+			<longitude>-131901</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cline Point -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84999</latitude>
+			<longitude>-131934</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cockerill Bay -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84730</latitude>
+			<longitude>-132826</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coldbath Town -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84432</latitude>
+			<longitude>-131568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cole Town -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83432</latitude>
+			<longitude>-130512</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colony Peninsula -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83432</latitude>
+			<longitude>-131568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daru -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>80003</latitude>
+			<longitude>-108444</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eaiama -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>75384</latitude>
+			<longitude>-109880</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eaiama -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>73554</latitude>
+			<longitude>-115191</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edmonstone Island -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>77118</latitude>
+			<longitude>-125185</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eendei -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>75337</latitude>
+			<longitude>-123002</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egbema -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>71454</latitude>
+			<longitude>-113457</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eneya -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>86623</latitude>
+			<longitude>-132110</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freetown -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>85002</latitude>
+			<longitude>-132240</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hagbahun -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>80604</latitude>
+			<longitude>-113396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hagbantama -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>89771</latitude>
+			<longitude>-126563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hahun -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>74768</latitude>
+			<longitude>-121377</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haila -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>78104</latitude>
+			<longitude>-111063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haito -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>79076</latitude>
+			<longitude>-107949</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamilton -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83923</latitude>
+			<longitude>-132493</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hangha -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>79515</latitude>
+			<longitude>-111296</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hastings -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83901</latitude>
+			<longitude>-131282</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hegbema -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>81437</latitude>
+			<longitude>-116396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hegbwema -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>78937</latitude>
+			<longitude>-109729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heje -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>80771</latitude>
+			<longitude>-108896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Helegonba -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>83771</latitude>
+			<longitude>-108729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heligahun -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>85437</latitude>
+			<longitude>-114063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hemabu -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>77771</latitude>
+			<longitude>-122063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Henan -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>74176</latitude>
+			<longitude>-118454</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hendobu -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>82104</latitude>
+			<longitude>-116396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herako -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>91771</latitude>
+			<longitude>-114729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herebu -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>75671</latitude>
+			<longitude>-115160</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heremakono -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>96937</latitude>
+			<longitude>-118729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heviko -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>97604</latitude>
+			<longitude>-114396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hewebu -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>82771</latitude>
+			<longitude>-116896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hicket Hill -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>82876</latitude>
+			<longitude>-131093</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Highbay Brook -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84965</latitude>
+			<longitude>-132310</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hima -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>81771</latitude>
+			<longitude>-122063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hojoye -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>73771</latitude>
+			<longitude>-112063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Honayema -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>81771</latitude>
+			<longitude>-105729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoong -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>76771</latitude>
+			<longitude>-130563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoya -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>72640</latitude>
+			<longitude>-118813</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hubake -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>92271</latitude>
+			<longitude>-119563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humalahun -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>80937</latitude>
+			<longitude>-106396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humonjai -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>83271</latitude>
+			<longitude>-108396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hunkan -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>74104</latitude>
+			<longitude>-118563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igaia -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>94938</latitude>
+			<longitude>-116228</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imperi -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>76991</latitude>
+			<longitude>-122820</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irua -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83008</latitude>
+			<longitude>-130389</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kailahun -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>84440</latitude>
+			<longitude>-107560</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kailahun -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>79607</latitude>
+			<longitude>-125726</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kailahun District -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>81774</latitude>
+			<longitude>-107393</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kambia District -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>91774</latitude>
+			<longitude>-127393</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenema -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>90607</latitude>
+			<longitude>-119226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenema -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>79151</latitude>
+			<longitude>-111915</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenema -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>76104</latitude>
+			<longitude>-115799</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenema District -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>78440</latitude>
+			<longitude>-111560</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koidu -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>84774</latitude>
+			<longitude>-107726</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makeni -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>84276</latitude>
+			<longitude>-125224</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oberguinea">
+			<state></state>
+			<latitude>70111</latitude>
+			<longitude>-39889</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocra Hill -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>84611</latitude>
+			<longitude>-128222</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogue -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84144</latitude>
+			<longitude>-132520</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oiehun -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>82778</latitude>
+			<longitude>-108722</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojoye -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>83944</latitude>
+			<longitude>-113222</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Baoma -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>79572</latitude>
+			<longitude>-114200</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Songo -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83444</latitude>
+			<longitude>-129222</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olupe -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>83475</latitude>
+			<longitude>-130586</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orugo River -- (State: Western Area)">
+			<state>Western Area</state>
+			<latitude>84261</latitude>
+			<longitude>-131158</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sefadu -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>87615</latitude>
+			<longitude>-108885</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Benduma -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>77017</latitude>
+			<longitude>-118802</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Saama -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>76784</latitude>
+			<longitude>-118464</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaahun -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>82424</latitude>
+			<longitude>-103304</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaama -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>82618</latitude>
+			<longitude>-120382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaama -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>71607</latitude>
+			<longitude>-113568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vahun -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>80451</latitude>
+			<longitude>-126382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaini -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>82785</latitude>
+			<longitude>-110715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valama -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>82451</latitude>
+			<longitude>-113549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vandima -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>82618</latitude>
+			<longitude>-110215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vando -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>80618</latitude>
+			<longitude>-114882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanima -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>76951</latitude>
+			<longitude>-111049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Varama -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>84285</latitude>
+			<longitude>-114715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Varma -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>82451</latitude>
+			<longitude>-111549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vawahun -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>76185</latitude>
+			<longitude>-115224</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venge -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>80285</latitude>
+			<longitude>-116215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vengema -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>80285</latitude>
+			<longitude>-116382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vengeme -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>81785</latitude>
+			<longitude>-115049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venima -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>81118</latitude>
+			<longitude>-114549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venima -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>86451</latitude>
+			<longitude>-112049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vile -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>72837</latitude>
+			<longitude>-121226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vituma -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>86785</latitude>
+			<longitude>-105049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vokoma -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>72118</latitude>
+			<longitude>-114215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volima -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>78449</latitude>
+			<longitude>-119032</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zimmi -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>73275</latitude>
+			<longitude>-112939</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zozo -- (State: Southern)">
+			<state>Southern</state>
+			<latitude>69789</latitude>
+			<longitude>-114711</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

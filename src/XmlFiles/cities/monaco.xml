@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Monaco">
+		<city name="Anse de la Grue">
+			<state></state>
+			<latitude>437403</latitude>
+			<longitude>74314</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anse du Portier">
+			<state></state>
+			<latitude>437514</latitude>
+			<longitude>74419</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jardin Exotique">
+			<state></state>
+			<latitude>437273</latitude>
+			<longitude>74106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monaco-Ville">
+			<state></state>
+			<latitude>437442</latitude>
+			<longitude>74276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moneghetti">
+			<state></state>
+			<latitude>437484</latitude>
+			<longitude>74262</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe de la Poudriere">
+			<state></state>
+			<latitude>437431</latitude>
+			<longitude>74390</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe Saint-Antoine">
+			<state></state>
+			<latitude>437445</latitude>
+			<longitude>74390</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pointe Saint-Martin">
+			<state></state>
+			<latitude>437418</latitude>
+			<longitude>74362</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port de Fontvieille">
+			<state></state>
+			<latitude>437418</latitude>
+			<longitude>74320</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port de La Condamine">
+			<state></state>
+			<latitude>437473</latitude>
+			<longitude>74362</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Principality of Monaco">
+			<state></state>
+			<latitude>437445</latitude>
+			<longitude>74112</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reserve Sous-marine de Monaco">
+			<state></state>
+			<latitude>437572</latitude>
+			<longitude>74508</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rocher de Monaco">
+			<state></state>
+			<latitude>437447</latitude>
+			<longitude>74447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stade Louis Deux">
+			<state></state>
+			<latitude>437282</latitude>
+			<longitude>74282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Viet Nam">
+		<city name="An Giang 4 -- (State: (VM27))">
+			<state>(VM27)</state>
+			<latitude>143597</latitude>
+			<longitude>1091097</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cam Ranh -- (State: Khanh Hoa)">
+			<state>Khanh Hoa</state>
+			<latitude>119099</latitude>
+			<longitude>1092266</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chau Doc -- (State: An Giang)">
+			<state>An Giang</state>
+			<latitude>107099</latitude>
+			<longitude>1051266</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Da Nang -- (State: (VM17))">
+			<state>(VM17)</state>
+			<latitude>217267</latitude>
+			<longitude>1053600</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Da Nang -- (State: (VM04))">
+			<state>(VM04)</state>
+			<latitude>178267</latitude>
+			<longitude>1059100</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Da Nang">
+			<state></state>
+			<latitude>160778</latitude>
+			<longitude>1082308</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faifo -- (State: (VM29))">
+			<state>(VM29)</state>
+			<latitude>158894</latitude>
+			<longitude>1084016</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanthit Bay -- (State: (VM36))">
+			<state>(VM36)</state>
+			<latitude>108935</latitude>
+			<longitude>1080935</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fantiet -- (State: Binh Thuan)">
+			<state>Binh Thuan</state>
+			<latitude>109435</latitude>
+			<longitude>1081102</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fausse Poulo Obi -- (State: Ca Mau)">
+			<state>Ca Mau</state>
+			<latitude>89602</latitude>
+			<longitude>1045269</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fleuve du Cambodge">
+			<state></state>
+			<latitude>102102</latitude>
+			<longitude>1067935</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fleuve Rouge">
+			<state></state>
+			<latitude>202935</latitude>
+			<longitude>1065769</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort de Rach Cat -- (State: Long An)">
+			<state>Long An</state>
+			<latitude>105102</latitude>
+			<longitude>1067269</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foukar -- (State: (VM40))">
+			<state>(VM40)</state>
+			<latitude>114769</latitude>
+			<longitude>1070935</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fu Kho Luong -- (State: Lai Chau)">
+			<state>Lai Chau</state>
+			<latitude>225935</latitude>
+			<longitude>1034769</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukwok -- (State: Kien Giang)">
+			<state>Kien Giang</state>
+			<latitude>102102</latitude>
+			<longitude>1040102</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futim -- (State: Thanh Hoa)">
+			<state>Thanh Hoa</state>
+			<latitude>199769</latitude>
+			<longitude>1055435</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanoi -- (State: Ha Noi)">
+			<state>Ha Noi</state>
+			<latitude>210437</latitude>
+			<longitude>1058604</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanoi Bac Mai -- (State: (VM15))">
+			<state>(VM15)</state>
+			<latitude>209937</latitude>
+			<longitude>1058437</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanoi Municipality -- (State: Ha Noi)">
+			<state>Ha Noi</state>
+			<latitude>211271</latitude>
+			<longitude>1058937</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ho Chi Minh City -- (State: Ho Chi Minh)">
+			<state>Ho Chi Minh</state>
+			<latitude>107604</latitude>
+			<longitude>1066771</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hue -- (State: Thua Thien-Hue)">
+			<state>Thua Thien-Hue</state>
+			<latitude>164771</latitude>
+			<longitude>1076104</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarai Plateau -- (State: (VM10))">
+			<state>(VM10)</state>
+			<latitude>139273</latitude>
+			<longitude>1080939</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Je Siaou Ping -- (State: (VM17))">
+			<state>(VM17)</state>
+			<latitude>226606</latitude>
+			<longitude>1047439</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jilahho -- (State: (VM29))">
+			<state>(VM29)</state>
+			<latitude>158439</latitude>
+			<longitude>1076273</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jin Jiang">
+			<state></state>
+			<latitude>219128</latitude>
+			<longitude>1052050</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiring -- (State: Lam Dong)">
+			<state>Lam Dong</state>
+			<latitude>115939</latitude>
+			<longitude>1080773</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ju Hoai -- (State: (VM28))">
+			<state>(VM28)</state>
+			<latitude>122439</latitude>
+			<longitude>1087939</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ju Lomo -- (State: Lam Dong)">
+			<state>Lam Dong</state>
+			<latitude>117106</latitude>
+			<longitude>1085273</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phan Rang -- (State: Ninh Thuan)">
+			<state>Ninh Thuan</state>
+			<latitude>115779</latitude>
+			<longitude>1089945</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quan 1 -- (State: Ho Chi Minh)">
+			<state>Ho Chi Minh</state>
+			<latitude>107613</latitude>
+			<longitude>1067113</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quan 3 -- (State: Ho Chi Minh)">
+			<state>Ho Chi Minh</state>
+			<latitude>107946</latitude>
+			<longitude>1067030</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quan 8 -- (State: Ho Chi Minh)">
+			<state>Ho Chi Minh</state>
+			<latitude>105780</latitude>
+			<longitude>1066530</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quang Ai -- (State: (VM11))">
+			<state>(VM11)</state>
+			<latitude>210780</latitude>
+			<longitude>1061780</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quang Ngai">
+			<state></state>
+			<latitude>151280</latitude>
+			<longitude>1088113</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sai Gon -- (State: Soc Trang)">
+			<state>Soc Trang</state>
+			<latitude>94896</latitude>
+			<longitude>1061115</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="U Minh Forest">
+			<state></state>
+			<latitude>96284</latitude>
+			<longitude>1051950</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uat Luy -- (State: (VM29))">
+			<state>(VM29)</state>
+			<latitude>159059</latitude>
+			<longitude>1082623</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uat Mau -- (State: (VM04))">
+			<state>(VM04)</state>
+			<latitude>165950</latitude>
+			<longitude>1075450</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uc Gian -- (State: Hai Phong)">
+			<state>Hai Phong</state>
+			<latitude>207784</latitude>
+			<longitude>1066450</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uc Ky -- (State: (VM02))">
+			<state>(VM02)</state>
+			<latitude>214784</latitude>
+			<longitude>1059617</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uc Ly -- (State: (VM16))">
+			<state>(VM16)</state>
+			<latitude>208617</latitude>
+			<longitude>1058284</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uc Tai -- (State: (VM12))">
+			<state>(VM12)</state>
+			<latitude>207950</latitude>
+			<longitude>1064284</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ung Hoa Phu -- (State: (VM16))">
+			<state>(VM16)</state>
+			<latitude>207450</latitude>
+			<longitude>1057950</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ung Mo -- (State: (VM12))">
+			<state>(VM12)</state>
+			<latitude>207784</latitude>
+			<longitude>1063117</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uoc Le 1 -- (State: (VM26))">
+			<state>(VM26)</state>
+			<latitude>186784</latitude>
+			<longitude>1056284</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uoc Ngoai -- (State: Thanh Hoa)">
+			<state>Thanh Hoa</state>
+			<latitude>197117</latitude>
+			<longitude>1058117</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uon Khu -- (State: Lang Son)">
+			<state>Lang Son</state>
+			<latitude>215950</latitude>
+			<longitude>1071617</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uong Bi -- (State: Quang Ninh)">
+			<state>Quang Ninh</state>
+			<latitude>210450</latitude>
+			<longitude>1067950</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uy Vien -- (State: (VM26))">
+			<state>(VM26)</state>
+			<latitude>186784</latitude>
+			<longitude>1057784</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyen Binh -- (State: Tay Ninh)">
+			<state>Tay Ninh</state>
+			<latitude>116450</latitude>
+			<longitude>1062784</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vung Tau -- (State: Ba Ria-Vung Tau)">
+			<state>Ba Ria-Vung Tau</state>
+			<latitude>103618</latitude>
+			<longitude>1070785</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="W. Kien -- (State: (VM27))">
+			<state>(VM27)</state>
+			<latitude>149786</latitude>
+			<longitude>1084786</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wang Neu Sou -- (State: (VM19))">
+			<state>(VM19)</state>
+			<latitude>222952</latitude>
+			<longitude>1039619</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Vaico">
+			<state></state>
+			<latitude>105119</latitude>
+			<longitude>1065619</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wi Baise 1 -- (State: (VM27))">
+			<state>(VM27)</state>
+			<latitude>150952</latitude>
+			<longitude>1085619</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wi Blang -- (State: (VM27))">
+			<state>(VM27)</state>
+			<latitude>150786</latitude>
+			<longitude>1084286</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wi Kalh -- (State: (VM27))">
+			<state>(VM27)</state>
+			<latitude>150286</latitude>
+			<longitude>1085452</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wi Rao 2 -- (State: (VM27))">
+			<state>(VM27)</state>
+			<latitude>149952</latitude>
+			<longitude>1085619</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wikamou -- (State: (VM10))">
+			<state>(VM10)</state>
+			<latitude>149452</latitude>
+			<longitude>1084786</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windjia -- (State: (VM10))">
+			<state>(VM10)</state>
+			<latitude>150286</latitude>
+			<longitude>1083952</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabiaka -- (State: Quang Ninh)">
+			<state>Quang Ninh</state>
+			<latitude>212122</latitude>
+			<longitude>1075789</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zao Po -- (State: (VM02))">
+			<state>(VM02)</state>
+			<latitude>156622</latitude>
+			<longitude>1078455</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zia Rong 1 -- (State: (VM29))">
+			<state>(VM29)</state>
+			<latitude>156622</latitude>
+			<longitude>1078122</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zin Kia -- (State: (VM02))">
+			<state>(VM02)</state>
+			<latitude>222622</latitude>
+			<longitude>1058622</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zom Khe Lo -- (State: (VM04))">
+			<state>(VM04)</state>
+			<latitude>171455</latitude>
+			<longitude>1069789</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuid-Chineesche Zee">
+			<state></state>
+			<latitude>150122</latitude>
+			<longitude>1150122</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuong Maa -- (State: (VM11))">
+			<state>(VM11)</state>
+			<latitude>214455</latitude>
+			<longitude>1066955</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

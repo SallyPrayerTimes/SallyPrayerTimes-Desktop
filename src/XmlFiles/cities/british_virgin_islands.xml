@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="British Virgin Islands">
+		<city name="Alphy Rock">
+			<state></state>
+			<latitude>184097</latitude>
+			<longitude>-646736</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arundel Ghut">
+			<state></state>
+			<latitude>184264</latitude>
+			<longitude>-646403</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bail s Ground">
+			<state></state>
+			<latitude>184765</latitude>
+			<longitude>-645235</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="British Virgin Islands">
+			<state></state>
+			<latitude>185098</latitude>
+			<longitude>-644902</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dead Chest">
+			<state></state>
+			<latitude>183767</latitude>
+			<longitude>-645567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diamond Cay">
+			<state></state>
+			<latitude>184433</latitude>
+			<longitude>-647067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dim Don Point">
+			<state></state>
+			<latitude>184600</latitude>
+			<longitude>-647233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East End">
+			<state></state>
+			<latitude>184507</latitude>
+			<longitude>-645482</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East End Bay">
+			<state></state>
+			<latitude>184434</latitude>
+			<longitude>-645399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Point">
+			<state></state>
+			<latitude>187268</latitude>
+			<longitude>-642566</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ginger Garden Point">
+			<state></state>
+			<latitude>183936</latitude>
+			<longitude>-644564</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ginger Island">
+			<state></state>
+			<latitude>184103</latitude>
+			<longitude>-644564</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Great Governor Ghut">
+			<state></state>
+			<latitude>184936</latitude>
+			<longitude>-643730</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Great Harbour Point">
+			<state></state>
+			<latitude>183770</latitude>
+			<longitude>-645730</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Great Mountain">
+			<state></state>
+			<latitude>184436</latitude>
+			<longitude>-646064</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Great Thatch Islet">
+			<state></state>
+			<latitude>183936</latitude>
+			<longitude>-647064</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guana Hole">
+			<state></state>
+			<latitude>185270</latitude>
+			<longitude>-643730</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guano Island">
+			<state></state>
+			<latitude>184936</latitude>
+			<longitude>-645564</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Half Moon Point">
+			<state></state>
+			<latitude>184271</latitude>
+			<longitude>-645729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iles des Vierges">
+			<state></state>
+			<latitude>183438</latitude>
+			<longitude>-647395</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="James Ghut">
+			<state></state>
+			<latitude>184273</latitude>
+			<longitude>-645894</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lances Bluff">
+			<state></state>
+			<latitude>184941</latitude>
+			<longitude>-643559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lee Bay">
+			<state></state>
+			<latitude>183775</latitude>
+			<longitude>-645225</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Long Point">
+			<state></state>
+			<latitude>184941</latitude>
+			<longitude>-645725</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Long Swamp">
+			<state></state>
+			<latitude>184441</latitude>
+			<longitude>-645559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loose Cay">
+			<state></state>
+			<latitude>184941</latitude>
+			<longitude>-645059</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Machineel Bay">
+			<state></state>
+			<latitude>184609</latitude>
+			<longitude>-647058</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Man Head">
+			<state></state>
+			<latitude>183942</latitude>
+			<longitude>-645224</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manchioneel Bay">
+			<state></state>
+			<latitude>183942</latitude>
+			<longitude>-644891</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North East East End">
+			<state></state>
+			<latitude>184943</latitude>
+			<longitude>-645390</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North East East Land">
+			<state></state>
+			<latitude>184777</latitude>
+			<longitude>-644890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Purcell">
+			<state></state>
+			<latitude>184362</latitude>
+			<longitude>-645980</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Road Town">
+			<state></state>
+			<latitude>184281</latitude>
+			<longitude>-646053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saba Rock">
+			<state></state>
+			<latitude>185115</latitude>
+			<longitude>-644385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sabu Mathila Bay">
+			<state></state>
+			<latitude>183115</latitude>
+			<longitude>-646052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saddle Bay">
+			<state></state>
+			<latitude>184448</latitude>
+			<longitude>-647552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salt Ghut">
+			<state></state>
+			<latitude>184115</latitude>
+			<longitude>-646218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salt Island Bay">
+			<state></state>
+			<latitude>183782</latitude>
+			<longitude>-645052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salt Island Passage">
+			<state></state>
+			<latitude>183615</latitude>
+			<longitude>-645218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sandy Point">
+			<state></state>
+			<latitude>183948</latitude>
+			<longitude>-646885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Scotch Bank">
+			<state></state>
+			<latitude>184251</latitude>
+			<longitude>-645899</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Scrub Island">
+			<state></state>
+			<latitude>184782</latitude>
+			<longitude>-645052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Slaney Hill">
+			<state></state>
+			<latitude>184218</latitude>
+			<longitude>-646082</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soldier East Point">
+			<state></state>
+			<latitude>187448</latitude>
+			<longitude>-643052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sound Reef">
+			<state></state>
+			<latitude>184782</latitude>
+			<longitude>-643718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Bay">
+			<state></state>
+			<latitude>185115</latitude>
+			<longitude>-643718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South East East Land">
+			<state></state>
+			<latitude>184782</latitude>
+			<longitude>-645385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South East End Point">
+			<state></state>
+			<latitude>184948</latitude>
+			<longitude>-644385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walkover Set Bay">
+			<state></state>
+			<latitude>187452</latitude>
+			<longitude>-643881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wesley Will">
+			<state></state>
+			<latitude>184452</latitude>
+			<longitude>-645881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,642 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Tajikistan">
+		<city name="Aiwanj -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>369886</latitude>
+			<longitude>680422</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bokhtarskiy Rayon">
+			<state></state>
+			<latitude>377765</latitude>
+			<longitude>687598</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chkalovsk">
+			<state></state>
+			<latitude>402485</latitude>
+			<longitude>697066</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Du-Oba">
+			<state></state>
+			<latitude>391933</latitude>
+			<longitude>706433</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dushanbe">
+			<state></state>
+			<latitude>386561</latitude>
+			<longitude>687792</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dushanbe I Yakum">
+			<state></state>
+			<latitude>385667</latitude>
+			<longitude>688128</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dushanbe II Vtoroy">
+			<state></state>
+			<latitude>385689</latitude>
+			<longitude>687161</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Echki -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>372784</latitude>
+			<longitude>690665</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Efironos">
+			<state></state>
+			<latitude>384759</latitude>
+			<longitude>681704</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egron">
+			<state></state>
+			<latitude>382373</latitude>
+			<longitude>693229</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elisu">
+			<state></state>
+			<latitude>381434</latitude>
+			<longitude>736101</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elok">
+			<state></state>
+			<latitude>385965</latitude>
+			<longitude>684354</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elovar">
+			<state></state>
+			<latitude>386109</latitude>
+			<longitude>691857</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emomaly -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>378690</latitude>
+			<longitude>696290</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emts">
+			<state></state>
+			<latitude>380148</latitude>
+			<longitude>716790</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esanboy">
+			<state></state>
+			<latitude>380879</latitude>
+			<longitude>683868</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eshma">
+			<state></state>
+			<latitude>381984</latitude>
+			<longitude>687545</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eshma Pervaya">
+			<state></state>
+			<latitude>381740</latitude>
+			<longitude>688337</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ezgand">
+			<state></state>
+			<latitude>387359</latitude>
+			<longitude>704290</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faizabad">
+			<state></state>
+			<latitude>385549</latitude>
+			<longitude>693274</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faizabad Qala">
+			<state></state>
+			<latitude>373435</latitude>
+			<longitude>689769</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fakhrabad">
+			<state></state>
+			<latitude>383113</latitude>
+			<longitude>687166</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falakon">
+			<state></state>
+			<latitude>385177</latitude>
+			<longitude>687974</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falkhabad">
+			<state></state>
+			<latitude>382202</latitude>
+			<longitude>695171</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fandar ya">
+			<state></state>
+			<latitude>393908</latitude>
+			<longitude>685596</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanfarok">
+			<state></state>
+			<latitude>387305</latitude>
+			<longitude>688219</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farkau">
+			<state></state>
+			<latitude>392435</latitude>
+			<longitude>689935</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farkhor -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>375024</latitude>
+			<longitude>694119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farkingi">
+			<state></state>
+			<latitude>387038</latitude>
+			<longitude>707385</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farob -- (State: Leninobod)">
+			<state>Leninobod</state>
+			<latitude>392510</latitude>
+			<longitude>674802</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farrukh">
+			<state></state>
+			<latitude>386824</latitude>
+			<longitude>696649</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fatmev">
+			<state></state>
+			<latitude>394063</latitude>
+			<longitude>686955</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fatmovut">
+			<state></state>
+			<latitude>393813</latitude>
+			<longitude>688496</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayzabad -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>376769</latitude>
+			<longitude>695038</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayzabad">
+			<state></state>
+			<latitude>380983</latitude>
+			<longitude>698524</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayzabadi-Bolo">
+			<state></state>
+			<latitude>385291</latitude>
+			<longitude>693344</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayzabadskiy Rayon">
+			<state></state>
+			<latitude>385102</latitude>
+			<longitude>694269</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayzobod -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>378196</latitude>
+			<longitude>695596</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fidzhom-Tyrdzha">
+			<state></state>
+			<latitude>384102</latitude>
+			<longitude>711435</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fil mandar -- (State: Leninobod)">
+			<state>Leninobod</state>
+			<latitude>394244</latitude>
+			<longitude>677591</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finskiy -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>374833</latitude>
+			<longitude>693808</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Firdavsy">
+			<state></state>
+			<latitude>381183</latitude>
+			<longitude>689474</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Firishti">
+			<state></state>
+			<latitude>386063</latitude>
+			<longitude>690121</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Firuzaabad">
+			<state></state>
+			<latitude>387169</latitude>
+			<longitude>688160</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Firuzoba">
+			<state></state>
+			<latitude>380624</latitude>
+			<longitude>699796</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foru">
+			<state></state>
+			<latitude>386938</latitude>
+			<longitude>696708</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frunze -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>374021</latitude>
+			<longitude>685769</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frunze">
+			<state></state>
+			<latitude>384996</latitude>
+			<longitude>682583</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frunzenskiy Rayon">
+			<state></state>
+			<latitude>385602</latitude>
+			<longitude>688102</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furqat">
+			<state></state>
+			<latitude>381333</latitude>
+			<longitude>688513</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayoti Nav">
+			<state></state>
+			<latitude>381443</latitude>
+			<longitude>689040</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiloli Ahmar -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>379398</latitude>
+			<longitude>698129</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hisor">
+			<state></state>
+			<latitude>384923</latitude>
+			<longitude>686073</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hisor Tizmasi">
+			<state></state>
+			<latitude>390104</latitude>
+			<longitude>685104</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hot Sulphur Springs">
+			<state></state>
+			<latitude>376437</latitude>
+			<longitude>725604</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Husanobod -- (State: Leninobod)">
+			<state>Leninobod</state>
+			<latitude>393776</latitude>
+			<longitude>680521</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hushyori">
+			<state></state>
+			<latitude>389054</latitude>
+			<longitude>688498</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Istaravshan -- (State: Leninobod)">
+			<state>Leninobod</state>
+			<latitude>399213</latitude>
+			<longitude>690169</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabbor Rasulov">
+			<state></state>
+			<latitude>401792</latitude>
+			<longitude>695189</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalbuzi -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>377403</latitude>
+			<longitude>693953</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jam iyatdehqon -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>371264</latitude>
+			<longitude>681170</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaminishur Pass">
+			<state></state>
+			<latitude>374106</latitude>
+			<longitude>744606</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jantokli">
+			<state></state>
+			<latitude>381675</latitude>
+			<longitude>695909</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janzodara">
+			<state></state>
+			<latitude>382639</latitude>
+			<longitude>701373</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Javoni">
+			<state></state>
+			<latitude>387548</latitude>
+			<longitude>696553</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Javshangoz -- (State: Kuhistoni Badakhshon)">
+			<state>Kuhistoni Badakhshon</state>
+			<latitude>373698</latitude>
+			<longitude>724587</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jayilgan -- (State: Leninobod)">
+			<state>Leninobod</state>
+			<latitude>393148</latitude>
+			<longitude>715362</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jayrabuloq">
+			<state></state>
+			<latitude>386209</latitude>
+			<longitude>687287</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jayraly -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>379745</latitude>
+			<longitude>695975</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jilikul -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>375042</latitude>
+			<longitude>685417</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jingazhir -- (State: Kuhistoni Badakhshon)">
+			<state>Kuhistoni Badakhshon</state>
+			<latitude>388764</latitude>
+			<longitude>732689</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jirqal a -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>378267</latitude>
+			<longitude>693609</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiyak">
+			<state></state>
+			<latitude>384273</latitude>
+			<longitude>688106</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jorf">
+			<state></state>
+			<latitude>384950</latitude>
+			<longitude>709720</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumhurii Tojikiston">
+			<state></state>
+			<latitude>390106</latitude>
+			<longitude>710106</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khujand -- (State: Leninobod)">
+			<state>Leninobod</state>
+			<latitude>402907</latitude>
+			<longitude>696424</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuhistoni Badakhshon">
+			<state></state>
+			<latitude>380107</latitude>
+			<longitude>730107</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kulob -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>379199</latitude>
+			<longitude>697926</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kulobod">
+			<state></state>
+			<latitude>382835</latitude>
+			<longitude>690035</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lublikor -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>370522</latitude>
+			<longitude>680933</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luchob">
+			<state></state>
+			<latitude>385947</latitude>
+			<longitude>687866</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madm -- (State: Leninobod)">
+			<state>Leninobod</state>
+			<latitude>394453</latitude>
+			<longitude>683606</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madm">
+			<state></state>
+			<latitude>394578</latitude>
+			<longitude>683692</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Norak">
+			<state></state>
+			<latitude>383966</latitude>
+			<longitude>693113</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ordzhonikidzeabadskiy Rayon">
+			<state></state>
+			<latitude>388444</latitude>
+			<longitude>693444</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pendshikent -- (State: Leninobod)">
+			<state>Leninobod</state>
+			<latitude>395143</latitude>
+			<longitude>676262</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qurghonteppa -- (State: Khatlon)">
+			<state>Khatlon</state>
+			<latitude>378477</latitude>
+			<longitude>687916</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turdybobo">
+			<state></state>
+			<latitude>385344</latitude>
+			<longitude>686308</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wagshiton">
+			<state></state>
+			<latitude>392952</latitude>
+			<longitude>678119</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waksh">
+			<state></state>
+			<latitude>371172</latitude>
+			<longitude>683158</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waznud">
+			<state></state>
+			<latitude>379619</latitude>
+			<longitude>712952</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

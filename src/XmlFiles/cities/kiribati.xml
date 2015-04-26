@@ -1,0 +1,1286 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Kiribati">
+		<city name="Abaokoro">
+			<state></state>
+			<latitude>14764</latitude>
+			<longitude>1730264</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arariki">
+			<state></state>
+			<latitude>-45070</latitude>
+			<longitude>-1722070</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Babaroroa">
+			<state></state>
+			<latitude>-26069</latitude>
+			<longitude>1767931</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bairiki">
+			<state></state>
+			<latitude>13431</latitude>
+			<longitude>1729765</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangai">
+			<state></state>
+			<latitude>-13569</latitude>
+			<longitude>1748431</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banreaba">
+			<state></state>
+			<latitude>13431</latitude>
+			<longitude>1730431</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baretoa Passage">
+			<state></state>
+			<latitude>20098</latitude>
+			<longitude>1732765</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batitotai">
+			<state></state>
+			<latitude>-26569</latitude>
+			<longitude>1768598</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bay of Wrecks">
+			<state></state>
+			<latitude>18765</latitude>
+			<longitude>-1573235</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benson Point">
+			<state></state>
+			<latitude>19431</latitude>
+			<longitude>-1574902</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Betino Island">
+			<state></state>
+			<latitude>13598</latitude>
+			<longitude>1729431</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bicknell Point">
+			<state></state>
+			<latitude>39098</latitude>
+			<longitude>-1593902</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bikati">
+			<state></state>
+			<latitude>32598</latitude>
+			<longitude>1726931</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bikeman Island">
+			<state></state>
+			<latitude>13931</latitude>
+			<longitude>1730098</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bikenibeu">
+			<state></state>
+			<latitude>13598</latitude>
+			<longitude>1731431</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bikerei">
+			<state></state>
+			<latitude>10098</latitude>
+			<longitude>1730098</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bingham Channel">
+			<state></state>
+			<latitude>17598</latitude>
+			<longitude>1729765</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Binoinano">
+			<state></state>
+			<latitude>4265</latitude>
+			<longitude>1739265</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bird Islet">
+			<state></state>
+			<latitude>-99735</latitude>
+			<longitude>-1502235</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Birney">
+			<state></state>
+			<latitude>-35735</latitude>
+			<longitude>-1715069</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bititu Anchorage">
+			<state></state>
+			<latitude>13765</latitude>
+			<longitude>1729431</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bolton Point">
+			<state></state>
+			<latitude>17265</latitude>
+			<longitude>1729931</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Borotiam">
+			<state></state>
+			<latitude>19098</latitude>
+			<longitude>1729765</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buariki">
+			<state></state>
+			<latitude>16098</latitude>
+			<longitude>1729765</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buota">
+			<state></state>
+			<latitude>20265</latitude>
+			<longitude>1732765</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Byron Island">
+			<state></state>
+			<latitude>-13569</latitude>
+			<longitude>1764765</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Manning">
+			<state></state>
+			<latitude>20432</latitude>
+			<longitude>-1574234</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carondelet Reef">
+			<state></state>
+			<latitude>-55401</latitude>
+			<longitude>-1738234</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cecile Peninsula">
+			<state></state>
+			<latitude>18599</latitude>
+			<longitude>-1574901</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Celestial Seamount">
+			<state></state>
+			<latitude>-30401</latitude>
+			<longitude>-1693068</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Christmas Island Ridge">
+			<state></state>
+			<latitude>50099</latitude>
+			<longitude>-1599901</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cochrone Reef">
+			<state></state>
+			<latitude>19932</latitude>
+			<longitude>-1574734</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danger Point">
+			<state></state>
+			<latitude>38600</latitude>
+			<longitude>-1593567</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dog">
+			<state></state>
+			<latitude>-6567</latitude>
+			<longitude>1743600</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Drummon Island">
+			<state></state>
+			<latitude>-13233</latitude>
+			<longitude>1748433</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dundas">
+			<state></state>
+			<latitude>4100</latitude>
+			<longitude>1738767</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eanikai">
+			<state></state>
+			<latitude>-11732</latitude>
+			<longitude>1747434</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ederbury Island">
+			<state></state>
+			<latitude>-31232</latitude>
+			<longitude>-1710732</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eita">
+			<state></state>
+			<latitude>13601</latitude>
+			<longitude>1730934</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eke">
+			<state></state>
+			<latitude>18768</latitude>
+			<longitude>1729101</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ella Island">
+			<state></state>
+			<latitude>13768</latitude>
+			<longitude>1731601</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ellice Ridge">
+			<state></state>
+			<latitude>-79899</latitude>
+			<longitude>1780101</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entrance Island">
+			<state></state>
+			<latitude>31268</latitude>
+			<longitude>1727601</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Equatorial Islands">
+			<state></state>
+			<latitude>101</latitude>
+			<longitude>-1569899</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Espiegel Anchorage">
+			<state></state>
+			<latitude>-13399</latitude>
+			<longitude>1759768</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanning Island">
+			<state></state>
+			<latitude>38769</latitude>
+			<longitude>-1593231</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fenua-ura">
+			<state></state>
+			<latitude>38769</latitude>
+			<longitude>-1593565</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flink Point">
+			<state></state>
+			<latitude>30935</latitude>
+			<longitude>1727602</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flint Island">
+			<state></state>
+			<latitude>-114231</latitude>
+			<longitude>-1517898</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Francis Island">
+			<state></state>
+			<latitude>-13231</latitude>
+			<longitude>1760102</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gagarin Seamount">
+			<state></state>
+			<latitude>15103</latitude>
+			<longitude>-1542397</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gilbert Archipelago">
+			<state></state>
+			<latitude>103</latitude>
+			<longitude>1740103</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gran Cocal Reef">
+			<state></state>
+			<latitude>-59897</latitude>
+			<longitude>1762603</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grapple Rocks">
+			<state></state>
+			<latitude>19770</latitude>
+			<longitude>-1574897</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Henson Rocks">
+			<state></state>
+			<latitude>3771</latitude>
+			<longitude>1738771</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hurd Island">
+			<state></state>
+			<latitude>-26229</latitude>
+			<longitude>1768271</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijaki">
+			<state></state>
+			<latitude>-19062</latitude>
+			<longitude>1755938</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iku">
+			<state></state>
+			<latitude>17772</latitude>
+			<longitude>1729605</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Independence Island">
+			<state></state>
+			<latitude>-40395</latitude>
+			<longitude>-1549728</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabangaki">
+			<state></state>
+			<latitude>3274</latitude>
+			<longitude>1739440</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaiaroa">
+			<state></state>
+			<latitude>-6560</latitude>
+			<longitude>1744774</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kariri">
+			<state></state>
+			<latitude>-12893</latitude>
+			<longitude>1759774</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenna Island">
+			<state></state>
+			<latitude>3274</latitude>
+			<longitude>1739274</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keua">
+			<state></state>
+			<latitude>31440</latitude>
+			<longitude>1729274</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiribasi">
+			<state></state>
+			<latitude>-49893</latitude>
+			<longitude>-1699893</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiritimati">
+			<state></state>
+			<latitude>18774</latitude>
+			<longitude>-1574060</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knox Island">
+			<state></state>
+			<latitude>14274</latitude>
+			<longitude>1730107</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koinawa">
+			<state></state>
+			<latitude>18774</latitude>
+			<longitude>1729940</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kopuna">
+			<state></state>
+			<latitude>-13226</latitude>
+			<longitude>1747940</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koscuisko Bank">
+			<state></state>
+			<latitude>-102893</latitude>
+			<longitude>1797274</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuma">
+			<state></state>
+			<latitude>31774</latitude>
+			<longitude>1729774</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurebentaboniba">
+			<state></state>
+			<latitude>18940</latitude>
+			<longitude>1728607</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuup">
+			<state></state>
+			<latitude>32940</latitude>
+			<longitude>1729774</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Les Iles Lagoon">
+			<state></state>
+			<latitude>18441</latitude>
+			<longitude>-1573725</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Macaw Bank">
+			<state></state>
+			<latitude>-107058</latitude>
+			<longitude>-1792058</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maiakei">
+			<state></state>
+			<latitude>20276</latitude>
+			<longitude>1732942</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maiana Island">
+			<state></state>
+			<latitude>9276</latitude>
+			<longitude>1730109</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makauro">
+			<state></state>
+			<latitude>-7058</latitude>
+			<longitude>1744776</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makin Atoll">
+			<state></state>
+			<latitude>31276</latitude>
+			<longitude>1728109</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malden Island Anchorage">
+			<state></state>
+			<latitude>-40391</latitude>
+			<longitude>-1550058</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manna">
+			<state></state>
+			<latitude>18776</latitude>
+			<longitude>1728942</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manoku">
+			<state></state>
+			<latitude>3442</latitude>
+			<longitude>1739609</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manounou">
+			<state></state>
+			<latitude>47109</latitude>
+			<longitude>-1603891</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manra Atoll">
+			<state></state>
+			<latitude>-44391</latitude>
+			<longitude>-1712391</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manriki">
+			<state></state>
+			<latitude>-13391</latitude>
+			<longitude>1764609</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manulu Lagoon">
+			<state></state>
+			<latitude>19609</latitude>
+			<longitude>-1573558</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marenanuka">
+			<state></state>
+			<latitude>14776</latitude>
+			<longitude>1730442</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mary Balcourt">
+			<state></state>
+			<latitude>-28224</latitude>
+			<longitude>-1716724</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matan">
+			<state></state>
+			<latitude>-6724</latitude>
+			<longitude>1744776</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matthews">
+			<state></state>
+			<latitude>18609</latitude>
+			<longitude>1729776</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maungatabu">
+			<state></state>
+			<latitude>13442</latitude>
+			<longitude>1730109</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="McKean Island">
+			<state></state>
+			<latitude>-35891</latitude>
+			<longitude>-1741224</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melanesian Basin">
+			<state></state>
+			<latitude>942</latitude>
+			<longitude>1605942</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Merlin Seamount">
+			<state></state>
+			<latitude>-90724</latitude>
+			<longitude>-1507224</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Metaua Point">
+			<state></state>
+			<latitude>39276</latitude>
+			<longitude>-1593391</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minneapolis Ridge">
+			<state></state>
+			<latitude>54276</latitude>
+			<longitude>-1579891</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morikao">
+			<state></state>
+			<latitude>18609</latitude>
+			<longitude>1730109</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motu Lakau">
+			<state></state>
+			<latitude>-39891</latitude>
+			<longitude>-1719891</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motu o Tau">
+			<state></state>
+			<latitude>39276</latitude>
+			<longitude>-1593224</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motu Tabu">
+			<state></state>
+			<latitude>19776</latitude>
+			<longitude>-1574224</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motu Tuba">
+			<state></state>
+			<latitude>19442</latitude>
+			<longitude>-1574224</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motu Upou">
+			<state></state>
+			<latitude>20109</latitude>
+			<longitude>-1574391</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muggin Island">
+			<state></state>
+			<latitude>33442</latitude>
+			<longitude>1729776</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muribenua">
+			<state></state>
+			<latitude>-13058</latitude>
+			<longitude>1764276</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naanikai">
+			<state></state>
+			<latitude>13443</latitude>
+			<longitude>1729943</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nabeina">
+			<state></state>
+			<latitude>14277</latitude>
+			<longitude>1730943</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanikirata">
+			<state></state>
+			<latitude>19110</latitude>
+			<longitude>1727943</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nansaba">
+			<state></state>
+			<latitude>-13057</latitude>
+			<longitude>1760110</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Napari">
+			<state></state>
+			<latitude>39110</latitude>
+			<longitude>-1593723</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nataka Island">
+			<state></state>
+			<latitude>32277</latitude>
+			<longitude>1729610</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northern Gilberts">
+			<state></state>
+			<latitude>18443</latitude>
+			<longitude>1730110</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noto">
+			<state></state>
+			<latitude>15110</latitude>
+			<longitude>1730277</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuka">
+			<state></state>
+			<latitude>-13390</latitude>
+			<longitude>1760110</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nukumanu">
+			<state></state>
+			<latitude>-13723</latitude>
+			<longitude>1764777</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuotaea">
+			<state></state>
+			<latitude>18943</latitude>
+			<longitude>1728277</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuribenua">
+			<state></state>
+			<latitude>-11390</latitude>
+			<longitude>1746777</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O-N-Aorakai">
+			<state></state>
+			<latitude>-8722</latitude>
+			<longitude>1695611</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocean Pacifique">
+			<state></state>
+			<latitude>111</latitude>
+			<longitude>1800111</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocean Pacifique Nord">
+			<state></state>
+			<latitude>300111</latitude>
+			<longitude>-1699889</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocean Pacifique Sud">
+			<state></state>
+			<latitude>-449889</latitude>
+			<longitude>-1299889</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="On Changs Wharf">
+			<state></state>
+			<latitude>30778</latitude>
+			<longitude>1727944</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oneaka">
+			<state></state>
+			<latitude>2611</latitude>
+			<longitude>1733778</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onne">
+			<state></state>
+			<latitude>32778</latitude>
+			<longitude>1729611</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onotoa Island">
+			<state></state>
+			<latitude>-18556</latitude>
+			<longitude>1755778</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ooma">
+			<state></state>
+			<latitude>-8889</latitude>
+			<longitude>1695611</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orona">
+			<state></state>
+			<latitude>-45056</latitude>
+			<longitude>-1721722</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oteariki">
+			<state></state>
+			<latitude>32111</latitude>
+			<longitude>1727111</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otoeie Island">
+			<state></state>
+			<latitude>-18556</latitude>
+			<longitude>1756111</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peacock Anchorage">
+			<state></state>
+			<latitude>-12055</latitude>
+			<longitude>1747112</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peao">
+			<state></state>
+			<latitude>38112</latitude>
+			<longitude>-1593055</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phoenix Seamounts">
+			<state></state>
+			<latitude>-39888</latitude>
+			<longitude>-1729888</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piachueta">
+			<state></state>
+			<latitude>32779</latitude>
+			<longitude>1727112</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pig Islet">
+			<state></state>
+			<latitude>-99721</latitude>
+			<longitude>-1502055</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pig Point">
+			<state></state>
+			<latitude>13279</latitude>
+			<longitude>1729945</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Polynesia">
+			<state></state>
+			<latitude>-99888</latitude>
+			<longitude>-1499888</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prospect Island">
+			<state></state>
+			<latitude>47279</latitude>
+			<longitude>-1603888</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puarik">
+			<state></state>
+			<latitude>-14721</latitude>
+			<longitude>1750779</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pureara Bank">
+			<state></state>
+			<latitude>-14388</latitude>
+			<longitude>1749112</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puta-tutae">
+			<state></state>
+			<latitude>38279</latitude>
+			<longitude>-1593221</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pyramid Point">
+			<state></state>
+			<latitude>-28555</latitude>
+			<longitude>-1716055</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakai Tuai">
+			<state></state>
+			<latitude>30947</latitude>
+			<longitude>1727947</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakentai">
+			<state></state>
+			<latitude>-6386</latitude>
+			<longitude>1744781</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramanaba">
+			<state></state>
+			<latitude>31114</latitude>
+			<longitude>1727614</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapa">
+			<state></state>
+			<latitude>38781</latitude>
+			<longitude>-1592553</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapa-iti">
+			<state></state>
+			<latitude>38614</latitude>
+			<longitude>-1592553</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rawaki Atoll">
+			<state></state>
+			<latitude>-37053</latitude>
+			<longitude>-1707053</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rawannawi">
+			<state></state>
+			<latitude>20614</latitude>
+			<longitude>1732781</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reweta Passage">
+			<state></state>
+			<latitude>20114</latitude>
+			<longitude>1733114</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riaria">
+			<state></state>
+			<latitude>17947</latitude>
+			<longitude>1730614</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ribona">
+			<state></state>
+			<latitude>19781</latitude>
+			<longitude>1728781</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rironga Passage">
+			<state></state>
+			<latitude>9281</latitude>
+			<longitude>1729781</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ritiati">
+			<state></state>
+			<latitude>-46553</latitude>
+			<longitude>-1745219</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rokai ni Bitau">
+			<state></state>
+			<latitude>30947</latitude>
+			<longitude>1728114</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rongata">
+			<state></state>
+			<latitude>-13386</latitude>
+			<longitude>1764447</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roreti">
+			<state></state>
+			<latitude>-26386</latitude>
+			<longitude>1768447</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rotcher Island">
+			<state></state>
+			<latitude>-24886</latitude>
+			<longitude>1759947</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rotuma">
+			<state></state>
+			<latitude>-6053</latitude>
+			<longitude>1744281</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Stanislas Bay">
+			<state></state>
+			<latitude>18948</latitude>
+			<longitude>-1575218</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Semple Reef">
+			<state></state>
+			<latitude>19782</latitude>
+			<longitude>-1574718</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Severo-Vostochnaya Kotlovina">
+			<state></state>
+			<latitude>200115</latitude>
+			<longitude>-1399885</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Lagoon">
+			<state></state>
+			<latitude>-14718</latitude>
+			<longitude>1749448</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South West Anchorage">
+			<state></state>
+			<latitude>-7718</latitude>
+			<longitude>1744448</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Southern Entrance">
+			<state></state>
+			<latitude>-7385</latitude>
+			<longitude>1743115</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Southern Gilbert Islands">
+			<state></state>
+			<latitude>-11552</latitude>
+			<longitude>1747615</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Spam Island">
+			<state></state>
+			<latitude>-28052</latitude>
+			<longitude>-1717052</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Starbuck">
+			<state></state>
+			<latitude>1948</latitude>
+			<longitude>1736115</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tarawa">
+			<state></state>
+			<latitude>-8717</latitude>
+			<longitude>1695449</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thornton Island">
+			<state></state>
+			<latitude>-99551</latitude>
+			<longitude>-1502051</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubanteman">
+			<state></state>
+			<latitude>19450</latitude>
+			<longitude>1729450</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukiannan Point">
+			<state></state>
+			<latitude>30617</latitude>
+			<longitude>1727784</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umai Ataei">
+			<state></state>
+			<latitude>-15216</latitude>
+			<longitude>1750784</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umantewena">
+			<state></state>
+			<latitude>-7216</latitude>
+			<longitude>1744784</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unitia">
+			<state></state>
+			<latitude>-14383</latitude>
+			<longitude>1750450</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upalhaku">
+			<state></state>
+			<latitude>32284</latitude>
+			<longitude>1729284</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utiroa">
+			<state></state>
+			<latitude>-12050</latitude>
+			<longitude>1747617</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vai-tepu">
+			<state></state>
+			<latitude>39118</latitude>
+			<longitude>-1593215</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinstra Shoal">
+			<state></state>
+			<latitude>13951</latitude>
+			<longitude>1729451</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volunteer Island">
+			<state></state>
+			<latitude>-56049</latitude>
+			<longitude>-1558715</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vostok Island">
+			<state></state>
+			<latitude>-100882</latitude>
+			<longitude>-1523715</longitude>
+			<timezone>1400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Western Passage">
+			<state></state>
+			<latitude>4452</latitude>
+			<longitude>1738119</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilkes Point">
+			<state></state>
+			<latitude>20786</latitude>
+			<longitude>1732952</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Winslow Reef">
+			<state></state>
+			<latitude>-15881</latitude>
+			<longitude>-1749381</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodle">
+			<state></state>
+			<latitude>2452</latitude>
+			<longitude>1733952</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

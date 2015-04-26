@@ -1,0 +1,2147 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Belgium">
+		<city name="Aalst -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509430</latitude>
+			<longitude>40430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aalst -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>507930</latitude>
+			<longitude>52097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aalst -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507764</latitude>
+			<longitude>48764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aiseau -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504264</latitude>
+			<longitude>45930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amay -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>505597</latitude>
+			<longitude>53264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ancien Fort Frederic -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>513430</latitude>
+			<longitude>42930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andenne -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>504930</latitude>
+			<longitude>51097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anderlecht -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508430</latitude>
+			<longitude>43097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Antwerpen">
+			<state></state>
+			<latitude>512264</latitude>
+			<longitude>44264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arlon -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496930</latitude>
+			<longitude>58264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ath -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>506430</latitude>
+			<longitude>37930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Athus -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495764</latitude>
+			<longitude>58430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Awan -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504764</latitude>
+			<longitude>56597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bastogne -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>500098</latitude>
+			<longitude>57265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berchem -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512098</latitude>
+			<longitude>44265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beringen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510598</latitude>
+			<longitude>52265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beringen -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507765</latitude>
+			<longitude>41431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beringen Mijnen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510931</latitude>
+			<longitude>52431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beringenbeek -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507765</latitude>
+			<longitude>41765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bernissart -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504765</latitude>
+			<longitude>36431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bertrix -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>498598</latitude>
+			<longitude>52598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bilzen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508765</latitude>
+			<longitude>55265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blankenberge -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>513265</latitude>
+			<longitude>31265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bocholt -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511765</latitude>
+			<longitude>55765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bonheiden -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>510431</latitude>
+			<longitude>45431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boom -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>510931</latitude>
+			<longitude>43598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borgerhout -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512265</latitude>
+			<longitude>44431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borlo -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>507431</latitude>
+			<longitude>51765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bornem -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511098</latitude>
+			<longitude>42431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bouwel -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511765</latitude>
+			<longitude>47431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bovigny -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>502431</latitude>
+			<longitude>59265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brabant Wallon">
+			<state></state>
+			<latitude>507598</latitude>
+			<longitude>45931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Braine-l Alleud -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>506931</latitude>
+			<longitude>43765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Braine-le-Comte -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>506098</latitude>
+			<longitude>41431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasel -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512431</latitude>
+			<longitude>50931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasschaat -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>513098</latitude>
+			<longitude>44931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bredene -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>512431</latitude>
+			<longitude>29765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bredene-aan-Zee -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>512570</latitude>
+			<longitude>29598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bree -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511431</latitude>
+			<longitude>55931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brugge -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507598</latitude>
+			<longitude>41098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brugge -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>512598</latitude>
+			<longitude>32265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brugge -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>507931</latitude>
+			<longitude>35265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brussels -- (State: Bruxelles-Capitale)">
+			<state>Bruxelles-Capitale</state>
+			<latitude>508431</latitude>
+			<longitude>43431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brusselse Voorstad -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510431</latitude>
+			<longitude>37765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brusselsebossen -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>513265</latitude>
+			<longitude>44598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bruxelles-Rupel Canal">
+			<state></state>
+			<latitude>508765</latitude>
+			<longitude>43765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bullange -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504265</latitude>
+			<longitude>62765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Butgenbach -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504431</latitude>
+			<longitude>62098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ceroux-Mousty -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>506766</latitude>
+			<longitude>45266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charleroi -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504266</latitude>
+			<longitude>44432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chat -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505432</latitude>
+			<longitude>38599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chatelet -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504099</latitude>
+			<longitude>45266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chatelineau -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504266</latitude>
+			<longitude>45266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuesmes -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504432</latitude>
+			<longitude>39266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Panne -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>511100</latitude>
+			<longitude>25933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deinze -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509933</latitude>
+			<longitude>35267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dendermonde -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510433</latitude>
+			<longitude>40933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Desselgem -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>508933</latitude>
+			<longitude>33433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deurne -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512267</latitude>
+			<longitude>44600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Diegem -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>509100</latitude>
+			<longitude>44267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Diepenbeek -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509100</latitude>
+			<longitude>54100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Diest -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>509933</latitude>
+			<longitude>50600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dilsen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510433</latitude>
+			<longitude>57433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elsenborn -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504768</latitude>
+			<longitude>62268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Epinois -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504101</latitude>
+			<longitude>41934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Essen -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>514768</latitude>
+			<longitude>44601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etterbeek -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508434</latitude>
+			<longitude>43934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eupen -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506101</latitude>
+			<longitude>61434</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farciennes -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504769</latitude>
+			<longitude>45435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flenu -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504435</latitude>
+			<longitude>38935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frameries -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504102</latitude>
+			<longitude>39102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geel -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511770</latitude>
+			<longitude>50103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gembloux -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>505770</latitude>
+			<longitude>46936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Genk -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509770</latitude>
+			<longitude>55103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Genkerhei -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509770</latitude>
+			<longitude>54603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gent -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510603</latitude>
+			<longitude>37270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gentbos -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509770</latitude>
+			<longitude>37603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gentbrugge -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510603</latitude>
+			<longitude>37603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gentinnes -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>505936</latitude>
+			<longitude>45936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gentissart -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>505770</latitude>
+			<longitude>45770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gentsche Vaart -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>512103</latitude>
+			<longitude>40436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gentsterbloem -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>507103</latitude>
+			<longitude>59270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gentstraat -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511936</latitude>
+			<longitude>36436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geraardsbergen -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>507770</latitude>
+			<longitude>38770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gijzegem -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509936</latitude>
+			<longitude>40436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gilly -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504270</latitude>
+			<longitude>44936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gingelom -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>507603</latitude>
+			<longitude>51436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gosselies -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504770</latitude>
+			<longitude>44270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halle -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507437</latitude>
+			<longitude>42437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamme -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511104</latitude>
+			<longitude>41437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamont -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512604</latitude>
+			<longitude>55437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harelbeke -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>508771</latitude>
+			<longitude>33104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasselt -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509437</latitude>
+			<longitude>53437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasselt -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>509604</latitude>
+			<longitude>43271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hastiere-Lavaux -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>502271</latitude>
+			<longitude>48271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hemiksem -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511604</latitude>
+			<longitude>43604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Herentals -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511771</latitude>
+			<longitude>48437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Herstal -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506937</latitude>
+			<longitude>56271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heusden -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510437</latitude>
+			<longitude>52771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoboken -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511771</latitude>
+			<longitude>43437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horrues -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>506104</latitude>
+			<longitude>40437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Houdeng-Aimeries -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504937</latitude>
+			<longitude>41437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Houthalen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510437</latitude>
+			<longitude>53771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huy -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>505271</latitude>
+			<longitude>52437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ieper -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>508605</latitude>
+			<longitude>28938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ixelles -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508438</latitude>
+			<longitude>43772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izegem -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>509272</latitude>
+			<longitude>32105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jemappes -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504606</latitude>
+			<longitude>38939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jette -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508773</latitude>
+			<longitude>43439</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kasterlee -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512440</latitude>
+			<longitude>49774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kettenis -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506607</latitude>
+			<longitude>60607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiel -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512107</latitude>
+			<longitude>43940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kieldrecht -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>512940</latitude>
+			<longitude>41940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Knokke -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>513440</latitude>
+			<longitude>33440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Knokke-Heist -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>513607</latitude>
+			<longitude>32774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koersel -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510774</latitude>
+			<longitude>52774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kontich -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511440</latitude>
+			<longitude>44440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kortrijk -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>508440</latitude>
+			<longitude>32607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kuurne -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>508607</latitude>
+			<longitude>32940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Hestre -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504775</latitude>
+			<longitude>42441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Louviere -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504775</latitude>
+			<longitude>41941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="La Roche-en-Ardenne -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>501941</latitude>
+			<longitude>56108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lanaken -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509108</latitude>
+			<longitude>56441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langemark -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>509275</latitude>
+			<longitude>29275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lebbeke -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510108</latitude>
+			<longitude>41275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leopoldsburg -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511275</latitude>
+			<longitude>52608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lessines -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>507275</latitude>
+			<longitude>38441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leuven -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508941</latitude>
+			<longitude>47108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leuvenstraat -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509275</latitude>
+			<longitude>40775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Libramont -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>499275</latitude>
+			<longitude>53941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liege">
+			<state></state>
+			<latitude>506441</latitude>
+			<longitude>55775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lier -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511441</latitude>
+			<longitude>45775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Limal -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507108</latitude>
+			<longitude>45775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lokeren -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511108</latitude>
+			<longitude>39775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lommel -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512441</latitude>
+			<longitude>53108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Louvain-la-Neuve -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>506941</latitude>
+			<longitude>46275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Louviere -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>501608</latitude>
+			<longitude>41941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maaseik -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511109</latitude>
+			<longitude>57942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maasmechelen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508276</latitude>
+			<longitude>56776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maldegem -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>512276</latitude>
+			<longitude>34609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malmedy -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504276</latitude>
+			<longitude>60109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manage -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>506442</latitude>
+			<longitude>38276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manderfeld -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>503442</latitude>
+			<longitude>63442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marche-en-Famenne -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>502109</latitude>
+			<longitude>53442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marchienne-au-Pont -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504109</latitude>
+			<longitude>43942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mechelen -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>510442</latitude>
+			<longitude>44776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mechelen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>507442</latitude>
+			<longitude>52609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Medell -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>503317</latitude>
+			<longitude>61773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meerhout -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511442</latitude>
+			<longitude>50942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meise -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>509609</latitude>
+			<longitude>43442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Menen -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>508109</latitude>
+			<longitude>31109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mere -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509276</latitude>
+			<longitude>39776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Merksem -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512442</latitude>
+			<longitude>44442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meulebeke -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>509609</latitude>
+			<longitude>32942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mevergnies -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>506109</latitude>
+			<longitude>38609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mol -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511942</latitude>
+			<longitude>51109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Molenbeek-Saint-Jean -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508609</latitude>
+			<longitude>43276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mons -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504609</latitude>
+			<longitude>39442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mons -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506442</latitude>
+			<longitude>54609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mouscron -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>507442</latitude>
+			<longitude>32109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Namur">
+			<state></state>
+			<latitude>504777</latitude>
+			<longitude>48610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neufchateau -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>507277</latitude>
+			<longitude>57777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Neufchateau -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>498443</latitude>
+			<longitude>54277</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ninove -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>508443</latitude>
+			<longitude>40110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nivelles -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>506110</latitude>
+			<longitude>43443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oelegem -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512111</latitude>
+			<longitude>45944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oostende -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>512278</latitude>
+			<longitude>29278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ottignies -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>506778</latitude>
+			<longitude>45778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oud-Turnhout -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>513444</latitude>
+			<longitude>49778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oudenaarde -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>508611</latitude>
+			<longitude>36111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oudergem -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508278</latitude>
+			<longitude>44444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Overpelt -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512278</latitude>
+			<longitude>54278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pecq -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>506945</latitude>
+			<longitude>33445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peruwelz -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505112</latitude>
+			<longitude>35945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pont-a-Celles -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505112</latitude>
+			<longitude>43612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poperinge -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>508612</latitude>
+			<longitude>27279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quairelles -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>502613</latitude>
+			<longitude>44446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quaregnon -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504446</latitude>
+			<longitude>38613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quaremont -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>507780</latitude>
+			<longitude>35280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quareux -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504613</latitude>
+			<longitude>57446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quartier Blancpain -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>498780</latitude>
+			<longitude>53613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quartier Central -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505780</latitude>
+			<longitude>41780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quatre Chemins -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506613</latitude>
+			<longitude>59113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quatre Chemins -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505113</latitude>
+			<longitude>35280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quatre Chins -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505946</latitude>
+			<longitude>32946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quatre Verges -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>503446</latitude>
+			<longitude>52280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quatre-Arbres -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>497113</latitude>
+			<longitude>52446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quenast -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>506780</latitude>
+			<longitude>41613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quenoy -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505946</latitude>
+			<longitude>36780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queue de l Herze -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>501780</latitude>
+			<longitude>43780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queue la Veau -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>502280</latitude>
+			<longitude>56113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quevaucamp -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>507280</latitude>
+			<longitude>32780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quevaucamps -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505280</latitude>
+			<longitude>36780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quevy-le-Petit -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>503780</latitude>
+			<longitude>39446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qui Vive -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>506113</latitude>
+			<longitude>37780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quievrain -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504113</latitude>
+			<longitude>36946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quievremont -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505613</latitude>
+			<longitude>38113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roeselare -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>509614</latitude>
+			<longitude>31447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roeselare -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>508614</latitude>
+			<longitude>39447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ronse -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>507614</latitude>
+			<longitude>36114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint-Ghislain -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>504615</latitude>
+			<longitude>38282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint-Nicolas -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>503782</latitude>
+			<longitude>44282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint-Trond -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508282</latitude>
+			<longitude>51782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint-Vincent -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496948</latitude>
+			<longitude>54948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint-Vith -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>502615</latitude>
+			<longitude>60948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schaarbeek -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508615</latitude>
+			<longitude>43948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schilde -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512448</latitude>
+			<longitude>45782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schoten -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512615</latitude>
+			<longitude>44948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seraing -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>505948</latitude>
+			<longitude>55115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sint-Genesius-Rode -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507615</latitude>
+			<longitude>43615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sint-Niklaas -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511782</latitude>
+			<longitude>41448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sint-Niklaas -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506448</latitude>
+			<longitude>55448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sint-Pieters-Leeuw -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507948</latitude>
+			<longitude>42448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soignies -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>505948</latitude>
+			<longitude>40782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stokkem -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510282</latitude>
+			<longitude>57448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Temse -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511783</latitude>
+			<longitude>42283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tessenderlo -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510783</latitude>
+			<longitude>50949</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tielt -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>510116</latitude>
+			<longitude>33283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tienen -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508116</latitude>
+			<longitude>49616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tildonk -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>509616</latitude>
+			<longitude>46449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tintigny -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496949</latitude>
+			<longitude>55283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tongeren -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>507949</latitude>
+			<longitude>54616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tournai -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>506116</latitude>
+			<longitude>33949</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tubize -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>506949</latitude>
+			<longitude>42116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Turnhout -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>513283</latitude>
+			<longitude>49449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ubbersel -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510284</latitude>
+			<longitude>52617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uberweywertz -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504450</latitude>
+			<longitude>61784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uccle -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508117</latitude>
+			<longitude>43284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ucimont -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>498450</latitude>
+			<longitude>50450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Udange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496450</latitude>
+			<longitude>57784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uikhoven -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509450</latitude>
+			<longitude>57284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uil -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511950</latitude>
+			<longitude>41784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uilebeek -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511950</latitude>
+			<longitude>41617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uilekot -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508784</latitude>
+			<longitude>48284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uilenberg -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>509284</latitude>
+			<longitude>48450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uilenberg -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511450</latitude>
+			<longitude>47784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uilenbroekdries -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509617</latitude>
+			<longitude>39284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uilenkoek -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509784</latitude>
+			<longitude>39784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uilenkoploop">
+			<state></state>
+			<latitude>510284</latitude>
+			<longitude>50117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uilhoef -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>510450</latitude>
+			<longitude>46784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uitdiep">
+			<state></state>
+			<latitude>513117</latitude>
+			<longitude>27784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulbeek -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508450</latitude>
+			<longitude>53117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulfheide -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510784</latitude>
+			<longitude>51617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulvend -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>507784</latitude>
+			<longitude>58450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upigny -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>505784</latitude>
+			<longitude>48784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Schelde -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510450</latitude>
+			<longitude>37284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urf -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>502075</latitude>
+			<longitude>61642</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursel -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511450</latitude>
+			<longitude>34784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursene -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>510284</latitude>
+			<longitude>43117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urtebise -- (State: Hainaut)">
+			<state>Hainaut</state>
+			<latitude>506784</latitude>
+			<longitude>36950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utsenaeken -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508284</latitude>
+			<longitude>49950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uykhoven -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509284</latitude>
+			<longitude>57450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uytbergen -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510284</latitude>
+			<longitude>39617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uytkerke -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>513117</latitude>
+			<longitude>31450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Verviers -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>505951</latitude>
+			<longitude>58785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vilvoorde -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>509451</latitude>
+			<longitude>44451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Virton -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496118</latitude>
+			<longitude>55451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vise -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>507451</latitude>
+			<longitude>57118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waasmunster -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511119</latitude>
+			<longitude>40952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waregem -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>508952</latitude>
+			<longitude>34286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waterloo -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507286</latitude>
+			<longitude>43952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wavre -- (State: Brabant Wallon)">
+			<state>Brabant Wallon</state>
+			<latitude>507286</latitude>
+			<longitude>46286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wavre -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>507452</latitude>
+			<longitude>46119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wavre -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509452</latitude>
+			<longitude>41119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Welkenraedt -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506619</latitude>
+			<longitude>59786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wervik -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>507786</latitude>
+			<longitude>30452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wetteren -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510119</latitude>
+			<longitude>38786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wichelen -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510286</latitude>
+			<longitude>39786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Willebroek -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>510786</latitude>
+			<longitude>43619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilrijk -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>511786</latitude>
+			<longitude>44119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woluwe-Saint-Lambert -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508619</latitude>
+			<longitude>44119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wommelgem -- (State: Antwerpen)">
+			<state>Antwerpen</state>
+			<latitude>512119</latitude>
+			<longitude>45119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xaimont -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>498120</latitude>
+			<longitude>55620</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhavee -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506787</latitude>
+			<longitude>56620</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhawirs -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506287</latitude>
+			<longitude>57787</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhendelesse -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506120</latitude>
+			<longitude>57787</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhendremael -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>507120</latitude>
+			<longitude>54953</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xheneumont -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506453</latitude>
+			<longitude>58287</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhignesse -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504453</latitude>
+			<longitude>55453</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhoffraix -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504620</latitude>
+			<longitude>60787</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhoris -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504620</latitude>
+			<longitude>56120</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhos -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504953</latitude>
+			<longitude>54787</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhout-si-Plout -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>503120</latitude>
+			<longitude>57287</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhovemont -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>506620</latitude>
+			<longitude>55787</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xhurdebise -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>504287</latitude>
+			<longitude>60287</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yachtbeek -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>511621</latitude>
+			<longitude>42121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ychippe -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>502621</latitude>
+			<longitude>51288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yernawe -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>505954</latitude>
+			<longitude>53454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yerne -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>507288</latitude>
+			<longitude>53621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yernee -- (State: Liege)">
+			<state>Liege</state>
+			<latitude>505454</latitude>
+			<longitude>53954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yperleed -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>511788</latitude>
+			<longitude>28454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yser">
+			<state></state>
+			<latitude>511621</latitude>
+			<longitude>27288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yshovedriesch -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>509288</latitude>
+			<longitude>35288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yssche -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508288</latitude>
+			<longitude>46454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yves -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>502621</latitude>
+			<longitude>44288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yves-Gomezee -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>502454</latitude>
+			<longitude>44954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yvoir -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>503454</latitude>
+			<longitude>48788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yvoy -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>503788</latitude>
+			<longitude>49454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ywenne -- (State: Namur)">
+			<state>Namur</state>
+			<latitude>501954</latitude>
+			<longitude>50121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yzer -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508121</latitude>
+			<longitude>45621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaventem -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508955</latitude>
+			<longitude>44789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeebrugge -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>513455</latitude>
+			<longitude>32122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zele -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>510789</latitude>
+			<longitude>40455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zellik -- (State: (BE02))">
+			<state>(BE02)</state>
+			<latitude>508955</latitude>
+			<longitude>42789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zelzate -- (State: Oost-Vlaanderen)">
+			<state>Oost-Vlaanderen</state>
+			<latitude>512122</latitude>
+			<longitude>38122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwevegem -- (State: West-Vlaanderen)">
+			<state>West-Vlaanderen</state>
+			<latitude>508122</latitude>
+			<longitude>33289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

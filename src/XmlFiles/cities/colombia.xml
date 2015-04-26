@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Colombia">
+		<city name="20 de Junio -- (State: Norte de Santander)">
+			<state>Norte de Santander</state>
+			<latitude>80456</latitude>
+			<longitude>-726175</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="4 Esquinas -- (State: Narino)">
+			<state>Narino</state>
+			<latitude>11052</latitude>
+			<longitude>-774615</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barrancabermeja -- (State: Santander)">
+			<state>Santander</state>
+			<latitude>71765</latitude>
+			<longitude>-737402</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barranquilla -- (State: Cundinamarca)">
+			<state>Cundinamarca</state>
+			<latitude>49765</latitude>
+			<longitude>-745069</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barranquilla -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-23735</latitude>
+			<longitude>-705569</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barranquilla -- (State: Guainia)">
+			<state>Guainia</state>
+			<latitude>29851</latitude>
+			<longitude>-689452</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barranquilla -- (State: Guaviare)">
+			<state>Guaviare</state>
+			<latitude>15531</latitude>
+			<longitude>-722785</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barranquilla -- (State: Atlantico)">
+			<state>Atlantico</state>
+			<latitude>110098</latitude>
+			<longitude>-747902</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barranquilla Betania -- (State: Antioquia)">
+			<state>Antioquia</state>
+			<latitude>70898</latitude>
+			<longitude>-759258</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bogota -- (State: Huila)">
+			<state>Huila</state>
+			<latitude>30395</latitude>
+			<longitude>-751585</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bogota -- (State: Cundinamarca)">
+			<state>Cundinamarca</state>
+			<latitude>46098</latitude>
+			<longitude>-740735</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bogota -- (State: San Andres y Providencia)">
+			<state>San Andres y Providencia</state>
+			<latitude>133431</latitude>
+			<longitude>-813402</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bogota -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>104098</latitude>
+			<longitude>-752735</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bogota D.E. -- (State: Distrito Capital)">
+			<state>Distrito Capital</state>
+			<latitude>42598</latitude>
+			<longitude>-741735</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bogotacito -- (State: Santander)">
+			<state>Santander</state>
+			<latitude>60190</latitude>
+			<longitude>-732105</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bucaramanga -- (State: Cundinamarca)">
+			<state>Cundinamarca</state>
+			<latitude>49931</latitude>
+			<longitude>-745402</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bucaramanga -- (State: Santander)">
+			<state>Santander</state>
+			<latitude>72265</latitude>
+			<longitude>-730735</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bucaramanga -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>87981</latitude>
+			<longitude>-760258</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cali -- (State: Valle del Cauca)">
+			<state>Valle del Cauca</state>
+			<latitude>34266</latitude>
+			<longitude>-765401</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cali -- (State: Magdalena)">
+			<state>Magdalena</state>
+			<latitude>94180</latitude>
+			<longitude>-740204</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cali -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>88588</latitude>
+			<longitude>-755990</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Calicanto -- (State: Cauca)">
+			<state>Cauca</state>
+			<latitude>24099</latitude>
+			<longitude>-766068</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Calima -- (State: Valle del Cauca)">
+			<state>Valle del Cauca</state>
+			<latitude>39266</latitude>
+			<longitude>-766568</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Calimita -- (State: Valle del Cauca)">
+			<state>Valle del Cauca</state>
+			<latitude>39266</latitude>
+			<longitude>-764901</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cartagena -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>104266</latitude>
+			<longitude>-755234</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colombia -- (State: Huila)">
+			<state>Huila</state>
+			<latitude>33877</latitude>
+			<longitude>-747979</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cucuta -- (State: Norte de Santander)">
+			<state>Norte de Santander</state>
+			<latitude>85099</latitude>
+			<longitude>-726568</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cucuta -- (State: Caqueta)">
+			<state>Caqueta</state>
+			<latitude>2730</latitude>
+			<longitude>-733465</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibague -- (State: Sucre)">
+			<state>Sucre</state>
+			<latitude>93438</latitude>
+			<longitude>-751062</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibague -- (State: Tolima)">
+			<state>Tolima</state>
+			<latitude>45105</latitude>
+			<longitude>-752395</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibague -- (State: Magdalena)">
+			<state>Magdalena</state>
+			<latitude>99438</latitude>
+			<longitude>-742728</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maicao -- (State: La Guajira)">
+			<state>La Guajira</state>
+			<latitude>113942</latitude>
+			<longitude>-722224</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maicao -- (State: Meta)">
+			<state>Meta</state>
+			<latitude>42156</latitude>
+			<longitude>-719960</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="McKellar Point -- (State: San Andres y Providencia)">
+			<state>San Andres y Providencia</state>
+			<latitude>133942</latitude>
+			<longitude>-813558</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medellin -- (State: Cesar)">
+			<state>Cesar</state>
+			<latitude>93609</latitude>
+			<longitude>-736224</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medellin -- (State: Sucre)">
+			<state>Sucre</state>
+			<latitude>94109</latitude>
+			<longitude>-753891</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medellin -- (State: Bolivar)">
+			<state>Bolivar</state>
+			<latitude>101109</latitude>
+			<longitude>-752558</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medellin -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>86709</latitude>
+			<longitude>-759038</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medellin -- (State: Magdalena)">
+			<state>Magdalena</state>
+			<latitude>108776</latitude>
+			<longitude>-741558</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medellin -- (State: Antioquia)">
+			<state>Antioquia</state>
+			<latitude>63023</latitude>
+			<longitude>-755252</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medellin del Ariari -- (State: Meta)">
+			<state>Meta</state>
+			<latitude>35942</latitude>
+			<longitude>-737891</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasto -- (State: Narino)">
+			<state>Narino</state>
+			<latitude>11779</latitude>
+			<longitude>-771555</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pereira -- (State: Casanare)">
+			<state>Casanare</state>
+			<latitude>54779</latitude>
+			<longitude>-722888</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pereira -- (State: Risaralda)">
+			<state>Risaralda</state>
+			<latitude>48445</latitude>
+			<longitude>-757388</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pereira -- (State: Cordoba)">
+			<state>Cordoba</state>
+			<latitude>85281</latitude>
+			<longitude>-760663</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Andres y Providencia">
+			<state></state>
+			<latitude>130115</latitude>
+			<longitude>-814885</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valledupar -- (State: Meta)">
+			<state>Meta</state>
+			<latitude>41949</latitude>
+			<longitude>-732018</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valledupar -- (State: Casanare)">
+			<state>Casanare</state>
+			<latitude>56285</latitude>
+			<longitude>-708049</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valledupar -- (State: Cesar)">
+			<state>Cesar</state>
+			<latitude>104285</latitude>
+			<longitude>-735715</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waterloo -- (State: Tolima)">
+			<state>Tolima</state>
+			<latitude>43308</latitude>
+			<longitude>-753281</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whiskey -- (State: Putumayo)">
+			<state>Putumayo</state>
+			<latitude>8119</latitude>
+			<longitude>-765548</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiza -- (State: Valle del Cauca)">
+			<state>Valle del Cauca</state>
+			<latitude>38283</latitude>
+			<longitude>-763114</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xicute -- (State: Vaupes)">
+			<state>Vaupes</state>
+			<latitude>17620</latitude>
+			<longitude>-701047</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,936 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Kenya">
+		<city name="Eldoret -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>5268</latitude>
+			<longitude>352934</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garissa -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-4466</latitude>
+			<longitude>396686</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garissa District -- (State: North-Eastern)">
+			<state>North-Eastern</state>
+			<latitude>-4897</latitude>
+			<longitude>402603</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garissa Road">
+			<state></state>
+			<latitude>-10397</latitude>
+			<longitude>372770</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isiolo -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>5772</latitude>
+			<longitude>375938</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isiolo District -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>10105</latitude>
+			<longitude>387605</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isiolo Trust Land -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>5105</latitude>
+			<longitude>375105</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kajiado -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>-18393</latitude>
+			<longitude>367940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kisumu -- (State: Nyanza)">
+			<state>Nyanza</state>
+			<latitude>-893</latitude>
+			<longitude>347607</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kisumu Bay -- (State: Nyanza)">
+			<state>Nyanza</state>
+			<latitude>-893</latitude>
+			<longitude>347440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kisumu District -- (State: Nyanza)">
+			<state>Nyanza</state>
+			<latitude>-2393</latitude>
+			<longitude>349274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kisumu Location -- (State: Nyanza)">
+			<state>Nyanza</state>
+			<latitude>-393</latitude>
+			<longitude>346940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitale -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>10274</latitude>
+			<longitude>350107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitale -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-14726</latitude>
+			<longitude>372940</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitale -- (State: Western)">
+			<state>Western</state>
+			<latitude>5607</latitude>
+			<longitude>346274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitale Tile Works -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>10440</latitude>
+			<longitude>350107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitui -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-13560</latitude>
+			<longitude>380274</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitui District -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-14893</latitude>
+			<longitude>385107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamu Island -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-22745</latitude>
+			<longitude>408808</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malindi -- (State: Western)">
+			<state>Western</state>
+			<latitude>1442</latitude>
+			<longitude>346276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malindi -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-32058</latitude>
+			<longitude>401276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malindi Bank -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-33224</latitude>
+			<longitude>401776</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malindi Point -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-32724</latitude>
+			<longitude>401276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malindi Reef -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-33058</latitude>
+			<longitude>401276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malindi Road -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-32558</latitude>
+			<longitude>401609</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandera -- (State: North-Eastern)">
+			<state>North-Eastern</state>
+			<latitude>39370</latitude>
+			<longitude>418570</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandera District -- (State: North-Eastern)">
+			<state>North-Eastern</state>
+			<latitude>35109</latitude>
+			<longitude>407609</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mombasa -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-16724</latitude>
+			<longitude>379276</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mombasa -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-40391</latitude>
+			<longitude>396776</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mombasa District -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-39891</latitude>
+			<longitude>396776</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mombasa Old Port -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-40391</latitude>
+			<longitude>396942</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mombasa Road">
+			<state></state>
+			<latitude>-14558</latitude>
+			<longitude>370442</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mombasa Sub-Location -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-17058</latitude>
+			<longitude>379109</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mtongwe -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-40558</latitude>
+			<longitude>396442</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi">
+			<state></state>
+			<latitude>-11890</latitude>
+			<longitude>371777</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi -- (State: Nairobi Area)">
+			<state>Nairobi Area</state>
+			<latitude>-12723</latitude>
+			<longitude>368277</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi -- (State: Central)">
+			<state>Central</state>
+			<latitude>-3890</latitude>
+			<longitude>370277</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi -- (State: Nyanza)">
+			<state>Nyanza</state>
+			<latitude>-11223</latitude>
+			<longitude>345610</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi Airport -- (State: Nairobi Area)">
+			<state>Nairobi Area</state>
+			<latitude>-13057</latitude>
+			<longitude>369443</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi Area">
+			<state></state>
+			<latitude>-12723</latitude>
+			<longitude>368443</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi Dam -- (State: Nairobi Area)">
+			<state>Nairobi Area</state>
+			<latitude>-13057</latitude>
+			<longitude>368110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi Falls">
+			<state></state>
+			<latitude>-11890</latitude>
+			<longitude>370777</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi Hill -- (State: Nairobi Area)">
+			<state>Nairobi Area</state>
+			<latitude>-12890</latitude>
+			<longitude>368277</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi Industrial Area -- (State: Nairobi Area)">
+			<state>Nairobi Area</state>
+			<latitude>-12890</latitude>
+			<longitude>368443</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi National Park -- (State: Nairobi Area)">
+			<state>Nairobi Area</state>
+			<latitude>-13557</latitude>
+			<longitude>368443</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nairobi South -- (State: Nairobi Area)">
+			<state>Nairobi Area</state>
+			<latitude>-13057</latitude>
+			<longitude>368443</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakuru -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>-2723</latitude>
+			<longitude>360777</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanyuki -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>13443</latitude>
+			<longitude>366943</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanyuki Tarn -- (State: Central)">
+			<state>Central</state>
+			<latitude>-1390</latitude>
+			<longitude>373110</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarari -- (State: North-Eastern)">
+			<state>North-Eastern</state>
+			<latitude>35280</latitude>
+			<longitude>405946</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queens Cave -- (State: Central)">
+			<state>Central</state>
+			<latitude>-4720</latitude>
+			<longitude>367113</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quf Tika">
+			<state></state>
+			<latitude>35113</latitude>
+			<longitude>396280</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quuyapet -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>33113</latitude>
+			<longitude>350780</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanga -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-46382</latitude>
+			<longitude>392285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vasco da Gama Pillar -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-32049</latitude>
+			<longitude>401451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vee -- (State: Central)">
+			<state>Central</state>
+			<latitude>-10549</latitude>
+			<longitude>370285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venjo -- (State: Nyanza)">
+			<state>Nyanza</state>
+			<latitude>-8549</latitude>
+			<longitude>346951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verwesu -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-44882</latitude>
+			<longitude>393951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vifanjoni -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-39382</latitude>
+			<longitude>396451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vikinduni -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-42382</latitude>
+			<longitude>391618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vilima Viwili -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-35715</latitude>
+			<longitude>378118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vilivili -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>7785</latitude>
+			<longitude>348285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinda -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-11882</latitude>
+			<longitude>381285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinuni -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-41715</latitude>
+			<longitude>395451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinyunduni -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-39382</latitude>
+			<longitude>391451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viratsi">
+			<state></state>
+			<latitude>1654</latitude>
+			<longitude>343165</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Virembe -- (State: Western)">
+			<state>Western</state>
+			<latitude>2451</latitude>
+			<longitude>348618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Visiru -- (State: Western)">
+			<state>Western</state>
+			<latitude>785</latitude>
+			<longitude>347118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vitengeni -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-33549</latitude>
+			<longitude>397285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vivienne Falls -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-1215</latitude>
+			<longitude>373785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vivini -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-44549</latitude>
+			<longitude>393618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viyalo -- (State: Western)">
+			<state>Western</state>
+			<latitude>1285</latitude>
+			<longitude>347118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vohovole -- (State: Western)">
+			<state>Western</state>
+			<latitude>1285</latitude>
+			<longitude>347951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voi -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-33715</latitude>
+			<longitude>385785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voi Sisal Estates -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-33715</latitude>
+			<longitude>385951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voo -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-16549</latitude>
+			<longitude>383451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voo Location -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-16215</latitude>
+			<longitude>382618</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuka -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-18382</latitude>
+			<longitude>413951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulueni -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-19715</latitude>
+			<longitude>374285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vumale -- (State: Western)">
+			<state>Western</state>
+			<latitude>951</latitude>
+			<longitude>347285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vumirirani -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-40882</latitude>
+			<longitude>396451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuria -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-34049</latitude>
+			<longitude>383118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyoga Dam -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-37715</latitude>
+			<longitude>392785</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyulya -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-14382</latitude>
+			<longitude>373951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyulya Sub-Location -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-14215</latitude>
+			<longitude>373951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wajir -- (State: North-Eastern)">
+			<state>North-Eastern</state>
+			<latitude>17119</latitude>
+			<longitude>400286</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wajir Bor -- (State: North-Eastern)">
+			<state>North-Eastern</state>
+			<latitude>17619</latitude>
+			<longitude>405452</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wajir District -- (State: North-Eastern)">
+			<state>North-Eastern</state>
+			<latitude>17619</latitude>
+			<longitude>402619</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zacharia -- (State: Nyanza)">
+			<state>Nyanza</state>
+			<latitude>-6211</latitude>
+			<longitude>348455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zagatisi -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-36545</latitude>
+			<longitude>385455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaikone -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-14545</latitude>
+			<longitude>373289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaina -- (State: Central)">
+			<state>Central</state>
+			<latitude>-4211</latitude>
+			<longitude>368622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zakal -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>789</latitude>
+			<longitude>361289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zambani -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-14045</latitude>
+			<longitude>380622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zangani -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-8211</latitude>
+			<longitude>375122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zare -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-34878</latitude>
+			<longitude>383289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zawadi -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>1622</latitude>
+			<longitude>368622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zawadi Estate -- (State: Central)">
+			<state>Central</state>
+			<latitude>-3878</latitude>
+			<longitude>369955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zebra -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-29711</latitude>
+			<longitude>382289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zesi -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-17211</latitude>
+			<longitude>373289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zesi Sub-Surface Dam -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-17045</latitude>
+			<longitude>373122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhongwani Sub-Location -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-31211</latitude>
+			<longitude>399122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziani Sub-Location -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-31711</latitude>
+			<longitude>395955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zigira Sub-Location -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-43545</latitude>
+			<longitude>394955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zijituni -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-23378</latitude>
+			<longitude>408289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zinbout -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>39955</latitude>
+			<longitude>344789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zingout Hills -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>40122</latitude>
+			<longitude>344289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zingu -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-14045</latitude>
+			<longitude>385289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Gambi -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-21711</latitude>
+			<longitude>404622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Junja -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-20711</latitude>
+			<longitude>407789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Kibokoni -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-21711</latitude>
+			<longitude>407622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Kombe -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-22878</latitude>
+			<longitude>405789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Kongolola -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-24378</latitude>
+			<longitude>401955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Kuta -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-24878</latitude>
+			<longitude>402455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Maskiti -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-24378</latitude>
+			<longitude>406455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Mkuni -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-23711</latitude>
+			<longitude>405455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Munyu -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-22045</latitude>
+			<longitude>408622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Muu -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-24211</latitude>
+			<longitude>406789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Roka -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-20545</latitude>
+			<longitude>407289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa la Shalu -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-21211</latitude>
+			<longitude>404622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa Limited -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>8122</latitude>
+			<longitude>352122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwa Msaba -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-23045</latitude>
+			<longitude>407122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwala Malindi -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-21878</latitude>
+			<longitude>408455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwani -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-42378</latitude>
+			<longitude>393622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwani Sisal Estates -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-32711</latitude>
+			<longitude>377622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwani Swamp -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-32545</latitude>
+			<longitude>377955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziwayu Island -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-25878</latitude>
+			<longitude>405955</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zombe -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-9878</latitude>
+			<longitude>382289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zombi -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-14378</latitude>
+			<longitude>382455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zombo -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-44211</latitude>
+			<longitude>392289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zubaki -- (State: Coast)">
+			<state>Coast</state>
+			<latitude>-14878</latitude>
+			<longitude>400622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zulia -- (State: Rift Valley)">
+			<state>Rift Valley</state>
+			<latitude>41289</latitude>
+			<longitude>340789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuti -- (State: Central)">
+			<state>Central</state>
+			<latitude>-5045</latitude>
+			<longitude>369789</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

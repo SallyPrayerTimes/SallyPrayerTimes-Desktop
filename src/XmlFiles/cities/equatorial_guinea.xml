@@ -1,0 +1,383 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Equatorial Guinea">
+		<city name="Bata">
+			<state></state>
+			<latitude>19265</latitude>
+			<longitude>99265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batanga">
+			<state></state>
+			<latitude>36765</latitude>
+			<longitude>87098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalama">
+			<state></state>
+			<latitude>20100</latitude>
+			<longitude>113267</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dejambeme">
+			<state></state>
+			<latitude>13767</latitude>
+			<longitude>105267</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Del Pozo">
+			<state></state>
+			<latitude>19267</latitude>
+			<longitude>103600</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dipero">
+			<state></state>
+			<latitude>36933</latitude>
+			<longitude>88933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dogo">
+			<state></state>
+			<latitude>18600</latitude>
+			<longitude>98767</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dugan">
+			<state></state>
+			<latitude>34600</latitude>
+			<longitude>85933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dum">
+			<state></state>
+			<latitude>20267</latitude>
+			<longitude>109267</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dumanduin">
+			<state></state>
+			<latitude>20267</latitude>
+			<longitude>112767</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dun">
+			<state></state>
+			<latitude>18100</latitude>
+			<longitude>106933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dyeng">
+			<state></state>
+			<latitude>10933</latitude>
+			<longitude>101267</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dyo Dyo -- (State: Annobon)">
+			<state>Annobon</state>
+			<latitude>-13997</latitude>
+			<longitude>56539</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="G. Bueco">
+			<state></state>
+			<latitude>37270</latitude>
+			<longitude>88603</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="G. Coba">
+			<state></state>
+			<latitude>36103</latitude>
+			<longitude>86436</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="G. Ejojo">
+			<state></state>
+			<latitude>36103</latitude>
+			<longitude>88770</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="G. Yabuela">
+			<state></state>
+			<latitude>36270</latitude>
+			<longitude>86436</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gabilondo">
+			<state></state>
+			<latitude>34436</latitude>
+			<longitude>87603</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gabongobo">
+			<state></state>
+			<latitude>15770</latitude>
+			<longitude>96103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaesa">
+			<state></state>
+			<latitude>34270</latitude>
+			<longitude>87270</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garriel">
+			<state></state>
+			<latitude>34936</latitude>
+			<longitude>88103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goat Islet">
+			<state></state>
+			<latitude>35436</latitude>
+			<longitude>85770</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Golfe de Guinee">
+			<state></state>
+			<latitude>20103</latitude>
+			<longitude>25103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gomez">
+			<state></state>
+			<latitude>21936</latitude>
+			<longitude>111936</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gravina Bay">
+			<state></state>
+			<latitude>37936</latitude>
+			<longitude>87270</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gregorio">
+			<state></state>
+			<latitude>37103</latitude>
+			<longitude>88770</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gube">
+			<state></state>
+			<latitude>8936</latitude>
+			<longitude>93270</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J. Balboa">
+			<state></state>
+			<latitude>35773</latitude>
+			<longitude>86439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J. Butane">
+			<state></state>
+			<latitude>37439</latitude>
+			<longitude>88606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J. Estevez">
+			<state></state>
+			<latitude>37606</latitude>
+			<longitude>88106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J. Lopez">
+			<state></state>
+			<latitude>36439</latitude>
+			<longitude>89273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J. Mao">
+			<state></state>
+			<latitude>34439</latitude>
+			<longitude>87773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J. Maromes">
+			<state></state>
+			<latitude>37273</latitude>
+			<longitude>87773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J. Sepa">
+			<state></state>
+			<latitude>37273</latitude>
+			<longitude>89106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jobopombo">
+			<state></state>
+			<latitude>14273</latitude>
+			<longitude>56439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinanongo">
+			<state></state>
+			<latitude>17940</latitude>
+			<longitude>96274</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiri">
+			<state></state>
+			<latitude>11940</latitude>
+			<longitude>105607</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kje">
+			<state></state>
+			<latitude>23107</latitude>
+			<longitude>113940</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kronhert">
+			<state></state>
+			<latitude>20440</latitude>
+			<longitude>109607</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malabo">
+			<state></state>
+			<latitude>33609</latitude>
+			<longitude>86776</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mbini">
+			<state></state>
+			<latitude>16109</latitude>
+			<longitude>96276</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vigatana">
+			<state></state>
+			<latitude>37285</latitude>
+			<longitude>87951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yambasu">
+			<state></state>
+			<latitude>37121</latitude>
+			<longitude>87288</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanabote">
+			<state></state>
+			<latitude>12788</latitude>
+			<longitude>94121</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ye Batelu -- (State: Annobon)">
+			<state>Annobon</state>
+			<latitude>-13893</latitude>
+			<longitude>56349</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ye Cuchi -- (State: Annobon)">
+			<state>Annobon</state>
+			<latitude>-13887</latitude>
+			<longitude>56479</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yecue">
+			<state></state>
+			<latitude>17788</latitude>
+			<longitude>98788</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yen">
+			<state></state>
+			<latitude>17288</latitude>
+			<longitude>101621</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yenge">
+			<state></state>
+			<latitude>9454</latitude>
+			<longitude>93288</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yi Ntoum">
+			<state></state>
+			<latitude>22288</latitude>
+			<longitude>109121</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yiemvena">
+			<state></state>
+			<latitude>10454</latitude>
+			<longitude>106121</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoni">
+			<state></state>
+			<latitude>14288</latitude>
+			<longitude>94954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yose">
+			<state></state>
+			<latitude>11788</latitude>
+			<longitude>97954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yube">
+			<state></state>
+			<latitude>12288</latitude>
+			<longitude>97288</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

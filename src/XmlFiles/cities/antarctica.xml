@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Antarctica">
+		<city name="Casey - Casey Station Bailey Peninsula">
+			<state></state>
+			<latitude>-661601</latitude>
+			<longitude>1103199</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="DumontDUrville - Dumont-dUrville Base Terre Adelie">
+			<state></state>
+			<latitude>-663900</latitude>
+			<longitude>1401100</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mawson - Mawson Station Holme Bay">
+			<state></state>
+			<latitude>-673491</latitude>
+			<longitude>625409</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="McMurdo - McMurdo Station Ross Island">
+			<state></state>
+			<latitude>-775891</latitude>
+			<longitude>1663709</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palmer - Palmer Station Anvers Island">
+			<state></state>
+			<latitude>-644688</latitude>
+			<longitude>-645888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Pole - Amundsen-Scott Station South Pole">
+			<state></state>
+			<latitude>-899885</latitude>
+			<longitude>115</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

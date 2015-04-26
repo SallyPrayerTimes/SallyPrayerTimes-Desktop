@@ -1,0 +1,2133 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Burundi">
+		<city name="Aerodrome de Gihofi-Moso -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-40242</latitude>
+			<longitude>301416</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agahotsa -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-30961</latitude>
+			<longitude>305875</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agasenyi -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-31870</latitude>
+			<longitude>301422</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akabizi">
+			<state></state>
+			<latitude>-28220</latitude>
+			<longitude>301253</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akadahoka -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-28661</latitude>
+			<longitude>300955</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akagera">
+			<state></state>
+			<latitude>-9403</latitude>
+			<longitude>317930</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akagogo -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-37220</latitude>
+			<longitude>299064</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akagoma -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-33320</latitude>
+			<longitude>297805</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akagoma -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-29278</latitude>
+			<longitude>298778</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akagondo -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-32556</latitude>
+			<longitude>308333</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akagoti -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-31070</latitude>
+			<longitude>307000</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akaguhu -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-34156</latitude>
+			<longitude>295800</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akaguya -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-34347</latitude>
+			<longitude>300805</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akamira -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-29267</latitude>
+			<longitude>299166</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akamurenda -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-35897</latitude>
+			<longitude>303066</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akanweka -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-29631</latitude>
+			<longitude>306103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akaremera -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-28061</latitude>
+			<longitude>297980</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akarenga -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-30056</latitude>
+			<longitude>298111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akashishi -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-36014</latitude>
+			<longitude>303100</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akayogo -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-33764</latitude>
+			<longitude>303789</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akimpama -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-33722</latitude>
+			<longitude>304691</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Athenee Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33861</latitude>
+			<longitude>293819</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Athenee Gitega -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-34117</latitude>
+			<longitude>299466</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Athenee Rubanga -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-37442</latitude>
+			<longitude>297078</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bujumbura">
+			<state></state>
+			<latitude>-33735</latitude>
+			<longitude>293387</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dabambe -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-39289</latitude>
+			<longitude>300133</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dama -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-42019</latitude>
+			<longitude>297328</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dama -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39528</latitude>
+			<longitude>294308</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dangara -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-38189</latitude>
+			<longitude>299503</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daraza">
+			<state></state>
+			<latitude>-29317</latitude>
+			<longitude>302756</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Denzwa -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-43583</latitude>
+			<longitude>297369</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dispensaire Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33597</latitude>
+			<longitude>293931</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Donge -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-36733</latitude>
+			<longitude>295544</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Donge Burasira -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-36531</latitude>
+			<longitude>295664</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Donge Ruzi -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-37019</latitude>
+			<longitude>295442</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Donzi -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-37283</latitude>
+			<longitude>294794</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dundwe -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39161</latitude>
+			<longitude>295664</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dunga -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-41406</latitude>
+			<longitude>299422</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dusasa -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-28208</latitude>
+			<longitude>294672</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dutwaro -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-33106</latitude>
+			<longitude>298711</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dutwe -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-34519</latitude>
+			<longitude>303253</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Echelle de crues Ndurumu -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-27146</latitude>
+			<longitude>299965</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-34077</latitude>
+			<longitude>293643</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole d agriculture Gitega -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-33907</latitude>
+			<longitude>299290</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole moyenne Mugera -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-33130</latitude>
+			<longitude>299657</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole moyenne Muyaga -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-32346</latitude>
+			<longitude>305587</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Buhiga -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-30213</latitude>
+			<longitude>301637</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33507</latitude>
+			<longitude>293832</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Bukeye -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-31882</latitude>
+			<longitude>296551</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Busiga -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-28688</latitude>
+			<longitude>297498</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Kayokwe -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-35221</latitude>
+			<longitude>297507</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Kibimba -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-32880</latitude>
+			<longitude>298029</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Kiremba -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39291</latitude>
+			<longitude>296834</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Mushasha -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-34377</latitude>
+			<longitude>299498</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Mutumba -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-35766</latitude>
+			<longitude>293665</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Rugari -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-27227</latitude>
+			<longitude>303965</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole normale Ruyigi -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-34499</latitude>
+			<longitude>302454</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole pedagogique Musenyi -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-29396</latitude>
+			<longitude>300482</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecole primaire Nyamugari -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39382</latitude>
+			<longitude>296440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faille des Allemands -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-38931</latitude>
+			<longitude>301380</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferme de Randa -- (State: Bubanza)">
+			<state>Bubanza</state>
+			<latitude>-31445</latitude>
+			<longitude>293783</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferme Karuzi -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-30917</latitude>
+			<longitude>301663</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferme Mparambo -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-28195</latitude>
+			<longitude>290791</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferme Nyabibuye -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-29704</latitude>
+			<longitude>304624</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferme Rugombo -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-27890</latitude>
+			<longitude>290871</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foko -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-23467</latitude>
+			<longitude>300263</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fota -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-34287</latitude>
+			<longitude>297144</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuku -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38559</latitude>
+			<longitude>296519</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funzwe -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-36915</latitude>
+			<longitude>303696</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fute -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-40990</latitude>
+			<longitude>296588</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haga -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24182</latitude>
+			<longitude>300937</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanganzo -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-33488</latitude>
+			<longitude>296262</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hangarizo -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-28224</latitude>
+			<longitude>297723</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harudede -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-26077</latitude>
+			<longitude>302212</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayi -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-37810</latitude>
+			<longitude>296032</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayiro -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-28432</latitude>
+			<longitude>298407</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hayiro -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-33749</latitude>
+			<longitude>296921</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heha -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-35932</latitude>
+			<longitude>295073</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higiro -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38143</latitude>
+			<longitude>295618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higiro -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-33929</latitude>
+			<longitude>299779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higiro -- (State: Bubanza)">
+			<state>Bubanza</state>
+			<latitude>-30743</latitude>
+			<longitude>294557</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hina -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-29065</latitude>
+			<longitude>297690</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Honga -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39699</latitude>
+			<longitude>295912</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hopital Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33757</latitude>
+			<longitude>293754</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hopital Bururi -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39379</latitude>
+			<longitude>296298</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hopital Kayokwe -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-35193</latitude>
+			<longitude>297526</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hopital Muyinga -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-28318</latitude>
+			<longitude>303568</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humure -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-30963</latitude>
+			<longitude>306018</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibuga -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-35178</latitude>
+			<longitude>304658</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibuna -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-31073</latitude>
+			<longitude>296849</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ihangiro -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-32773</latitude>
+			<longitude>303972</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijenda -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-34689</latitude>
+			<longitude>295780</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ijuru -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-36687</latitude>
+			<longitude>296524</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Akayoba -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24167</latitude>
+			<longitude>302869</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Kigwa -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24937</latitude>
+			<longitude>301369</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inacavu -- (State: Bubanza)">
+			<state>Bubanza</state>
+			<latitude>-29506</latitude>
+			<longitude>293974</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inadjaga -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-35187</latitude>
+			<longitude>298544</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inakigogo -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-28006</latitude>
+			<longitude>297633</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inamurambi -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-28145</latitude>
+			<longitude>293733</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inanjororo -- (State: Bubanza)">
+			<state>Bubanza</state>
+			<latitude>-30798</latitude>
+			<longitude>293758</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inanzegwe">
+			<state></state>
+			<latitude>-40578</latitude>
+			<longitude>297419</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="iProvense ya Kirundo -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-25728</latitude>
+			<longitude>301772</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="iProvense ya Ngozi -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-28645</latitude>
+			<longitude>299355</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="iProvense ya Ruyigi -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-34395</latitude>
+			<longitude>303272</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irimwa -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-33928</latitude>
+			<longitude>296274</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isale -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33401</latitude>
+			<longitude>294997</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isare -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33381</latitude>
+			<longitude>294938</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isigi -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-35776</latitude>
+			<longitude>295219</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itaba -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-36492</latitude>
+			<longitude>300244</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itahe -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-34351</latitude>
+			<longitude>305416</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iteka -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-34798</latitude>
+			<longitude>304588</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iteka -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-34867</latitude>
+			<longitude>297033</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iteme -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-30198</latitude>
+			<longitude>299969</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iyogera -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-35106</latitude>
+			<longitude>304516</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabiro -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-26536</latitude>
+			<longitude>300059</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaga -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-34500</latitude>
+			<longitude>298606</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jagamba -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-26922</latitude>
+			<longitude>292592</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janda -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-36872</latitude>
+			<longitude>294609</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janga -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-32597</latitude>
+			<longitude>297214</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jani -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-28050</latitude>
+			<longitude>301937</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janja -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-35211</latitude>
+			<longitude>299434</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarama -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-29897</latitude>
+			<longitude>302956</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jembegeti -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-28658</latitude>
+			<longitude>296009</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jenda -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-32800</latitude>
+			<longitude>299212</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jenda -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38563</latitude>
+			<longitude>296692</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jenda -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-40347</latitude>
+			<longitude>298192</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jene -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-28488</latitude>
+			<longitude>296278</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerama -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-37336</latitude>
+			<longitude>298892</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerama -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38766</latitude>
+			<longitude>295245</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerijeri -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-35983</latitude>
+			<longitude>298737</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiji -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38763</latitude>
+			<longitude>295695</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimbi -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-42777</latitude>
+			<longitude>298875</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimbi -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-28483</latitude>
+			<longitude>298875</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimbi -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-34625</latitude>
+			<longitude>299037</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimbi -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-30427</latitude>
+			<longitude>297695</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jobe -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-38933</latitude>
+			<longitude>299798</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jogo -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-32088</latitude>
+			<longitude>301881</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jomati -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-39033</latitude>
+			<longitude>300437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jubete -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-38136</latitude>
+			<longitude>300134</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jugwe -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-35141</latitude>
+			<longitude>298959</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jungwe -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-41022</latitude>
+			<longitude>297034</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jungwe -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39580</latitude>
+			<longitude>297892</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurugati -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-38261</latitude>
+			<longitude>301664</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Dogodogo -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-28295</latitude>
+			<longitude>291080</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Gacamirinda -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24461</latitude>
+			<longitude>300219</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Gitamo -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24942</latitude>
+			<longitude>300252</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Kanzigiri -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24475</latitude>
+			<longitude>303733</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Kibenga -- (State: Bubanza)">
+			<state>Bubanza</state>
+			<latitude>-32259</latitude>
+			<longitude>294222</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Mwungere -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-25667</latitude>
+			<longitude>299564</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Narungazi -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-25334</latitude>
+			<longitude>300083</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Nyamuziba -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-28378</latitude>
+			<longitude>291355</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lac Rwihinda -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-25392</latitude>
+			<longitude>300886</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lugongo -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-32506</latitude>
+			<longitude>307205</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luhwa">
+			<state></state>
+			<latitude>-27225</latitude>
+			<longitude>290441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lutare -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-34436</latitude>
+			<longitude>305733</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luvusi">
+			<state></state>
+			<latitude>-36059</latitude>
+			<longitude>305441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lycee Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33742</latitude>
+			<longitude>294019</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lycee Bururi -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39350</latitude>
+			<longitude>296355</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lycee Gisanze -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-27714</latitude>
+			<longitude>301866</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lycee Ijenda -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-34686</latitude>
+			<longitude>295747</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngozi -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-34740</latitude>
+			<longitude>299113</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngozi">
+			<state></state>
+			<latitude>-29004</latitude>
+			<longitude>298416</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngozi -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-38946</latitude>
+			<longitude>300654</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="OCIBU Nyamugari -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-30003</latitude>
+			<longitude>299075</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parc national de la Kibira">
+			<state></state>
+			<latitude>-29888</latitude>
+			<longitude>295112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petit Seminaire Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-34055</latitude>
+			<longitude>293726</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petit Seminaire Buta -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39416</latitude>
+			<longitude>297206</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pfunyangeso -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-35494</latitude>
+			<longitude>300726</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phare Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33685</latitude>
+			<longitude>293556</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plage Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33694</latitude>
+			<longitude>293573</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plage Kibenga -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-34102</latitude>
+			<longitude>293501</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pompage Rutoka -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-27344</latitude>
+			<longitude>304081</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33649</latitude>
+			<longitude>293529</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prison Muyange-Gashoho -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-28016</latitude>
+			<longitude>301368</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Bubanza -- (State: Bubanza)">
+			<state>Bubanza</state>
+			<latitude>-31055</latitude>
+			<longitude>294112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Bururi -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38388</latitude>
+			<longitude>296445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Cankuzo -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-31221</latitude>
+			<longitude>305945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Cibitoke -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-28721</latitude>
+			<longitude>292612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Gitega -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-34888</latitude>
+			<longitude>299612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Karuzi -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-31138</latitude>
+			<longitude>301445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Kayanza -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-30555</latitude>
+			<longitude>296779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Makamba -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-41555</latitude>
+			<longitude>297640</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Muramvya -- (State: Muramvya)">
+			<state>Muramvya</state>
+			<latitude>-32388</latitude>
+			<longitude>296779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Muyinga -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-28221</latitude>
+			<longitude>303445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Mwaro -- (State: Mwaro)">
+			<state>Mwaro</state>
+			<latitude>-34888</latitude>
+			<longitude>296779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province de Rutana -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-38555</latitude>
+			<longitude>301112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pukeye -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-43388</latitude>
+			<longitude>296112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tabi -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-34353</latitude>
+			<longitude>298777</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tabi -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-36301</latitude>
+			<longitude>294105</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tagara -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38717</latitude>
+			<longitude>296269</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tahiro -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-39026</latitude>
+			<longitude>299108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takwe -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-41351</latitude>
+			<longitude>297710</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamba -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-29948</latitude>
+			<longitude>306049</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanganika -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24984</latitude>
+			<longitude>301944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tangara -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-29106</latitude>
+			<longitude>299852</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tara -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38148</latitude>
+			<longitude>296747</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tara -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-31892</latitude>
+			<longitude>297349</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tarire -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39640</latitude>
+			<longitude>296258</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tawe">
+			<state></state>
+			<latitude>-37759</latitude>
+			<longitude>299647</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teka -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-32117</latitude>
+			<longitude>297241</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Temba -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-28467</latitude>
+			<longitude>292638</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tenga -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-32940</latitude>
+			<longitude>294269</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terera -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-38759</latitude>
+			<longitude>300352</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tetero -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-29959</latitude>
+			<longitude>307919</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teza -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-32037</latitude>
+			<longitude>295741</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Timbura -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-40206</latitude>
+			<longitude>299624</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Titi -- (State: Bubanza)">
+			<state>Bubanza</state>
+			<latitude>-30706</latitude>
+			<longitude>294452</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Titi -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-36459</latitude>
+			<longitude>301608</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tongwe -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-39840</latitude>
+			<longitude>295799</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tora -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-36759</latitude>
+			<longitude>295727</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tribunal Kayanza -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-29237</latitude>
+			<longitude>296399</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tribunal Mabanda -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-42617</latitude>
+			<longitude>297905</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tribunal Ndego -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-30909</latitude>
+			<longitude>296835</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tribunal Rutovu -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38720</latitude>
+			<longitude>298691</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tribunaux Kayokwe -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-35009</latitude>
+			<longitude>297385</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tubiri -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-28406</latitude>
+			<longitude>296641</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tukitse -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-28373</latitude>
+			<longitude>294463</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tura -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-23953</latitude>
+			<longitude>305010</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Twe -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-35337</latitude>
+			<longitude>296324</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Twinkwavu -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-32742</latitude>
+			<longitude>306699</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Twinyambo -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-31095</latitude>
+			<longitude>302038</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Twinyoni -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-26670</latitude>
+			<longitude>293374</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tyazo -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-27787</latitude>
+			<longitude>297808</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubuyumbu">
+			<state></state>
+			<latitude>-28216</latitude>
+			<longitude>293950</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umwogere">
+			<state></state>
+			<latitude>-27883</latitude>
+			<longitude>296117</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Universite Bujumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33672</latitude>
+			<longitude>293920</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urundi">
+			<state></state>
+			<latitude>-34883</latitude>
+			<longitude>300117</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urwagongwe -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-33505</latitude>
+			<longitude>300578</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usine Theicole Teza -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-32047</latitude>
+			<longitude>295759</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usugi -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-34439</latitude>
+			<longitude>294325</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usumbura -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33216</latitude>
+			<longitude>292686</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwibiti -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-35861</latitude>
+			<longitude>296111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwimpene -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38355</latitude>
+			<longitude>296592</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwimpfizi -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-35972</latitude>
+			<longitude>297973</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwinryame -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-36025</latitude>
+			<longitude>295706</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwinzovu -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-36583</latitude>
+			<longitude>296195</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwiteme -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-33322</latitude>
+			<longitude>296131</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwuruganda -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-33711</latitude>
+			<longitude>295700</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwurugo -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-35944</latitude>
+			<longitude>295725</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vubi -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-35746</latitude>
+			<longitude>302537</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vugizo -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-41596</latitude>
+			<longitude>297218</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vugizo -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-31001</latitude>
+			<longitude>297762</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vugizo -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33760</latitude>
+			<longitude>293985</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuma -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-33107</latitude>
+			<longitude>295276</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vumasi -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-24065</latitude>
+			<longitude>304249</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vumbaganya -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38135</latitude>
+			<longitude>293751</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vumbi -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24193</latitude>
+			<longitude>299965</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vumbi-Bukuba -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-26860</latitude>
+			<longitude>301160</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vumbiro -- (State: Bujumbura)">
+			<state>Bujumbura</state>
+			<latitude>-35007</latitude>
+			<longitude>294643</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vumwe -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-36132</latitude>
+			<longitude>303285</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuna -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-27279</latitude>
+			<longitude>301876</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vungu -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-42563</latitude>
+			<longitude>297510</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyambo">
+			<state></state>
+			<latitude>-32960</latitude>
+			<longitude>295385</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyampa -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-33110</latitude>
+			<longitude>305935</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyanda -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-40913</latitude>
+			<longitude>296174</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyanzo -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24104</latitude>
+			<longitude>302535</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyero -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-29488</latitude>
+			<longitude>300201</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyerwa -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-30604</latitude>
+			<longitude>301751</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyiniro -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-29754</latitude>
+			<longitude>301871</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyinkona -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-27701</latitude>
+			<longitude>300960</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyinkona -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-34385</latitude>
+			<longitude>299543</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyinkora -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-31899</latitude>
+			<longitude>306162</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyintare -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-29754</latitude>
+			<longitude>302268</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyirongoza -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-31321</latitude>
+			<longitude>303432</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyoga -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-35093</latitude>
+			<longitude>298682</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyondo -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-29371</latitude>
+			<longitude>303679</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyugazo -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-27749</latitude>
+			<longitude>298357</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyuma -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-34474</latitude>
+			<longitude>297349</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyuma -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-29610</latitude>
+			<longitude>301987</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyuma -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-37954</latitude>
+			<longitude>300374</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyuma -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-24710</latitude>
+			<longitude>304571</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vyuya -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-36663</latitude>
+			<longitude>296674</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wabitega -- (State: Cibitoke)">
+			<state>Cibitoke</state>
+			<latitude>-29856</latitude>
+			<longitude>293247</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wabivumu -- (State: Gitega)">
+			<state>Gitega</state>
+			<latitude>-37164</latitude>
+			<longitude>298222</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waga">
+			<state></state>
+			<latitude>-35117</latitude>
+			<longitude>298216</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wambogo -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-35298</latitude>
+			<longitude>303511</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wangoma -- (State: Cankuzo)">
+			<state>Cankuzo</state>
+			<latitude>-30675</latitude>
+			<longitude>305233</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warukera">
+			<state></state>
+			<latitude>-27923</latitude>
+			<longitude>294425</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warukwega -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-30153</latitude>
+			<longitude>297088</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wingoma -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-26631</latitude>
+			<longitude>303794</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaba -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-40329</latitude>
+			<longitude>299099</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabuhaga -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-27296</latitude>
+			<longitude>303049</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yagizo -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-31885</latitude>
+			<longitude>302149</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamuremye -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-31948</latitude>
+			<longitude>298174</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yandaro -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-28348</latitude>
+			<longitude>295927</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanza -- (State: (BY05))">
+			<state>(BY05)</state>
+			<latitude>-33807</latitude>
+			<longitude>296210</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanza -- (State: Kayanza)">
+			<state>Kayanza</state>
+			<latitude>-29179</latitude>
+			<longitude>295890</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanza -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-24096</latitude>
+			<longitude>302354</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaranda -- (State: Kirundo)">
+			<state>Kirundo</state>
+			<latitude>-25096</latitude>
+			<longitude>301104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yatsinda -- (State: Ruyigi)">
+			<state>Ruyigi</state>
+			<latitude>-34435</latitude>
+			<longitude>302732</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yenda -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-37023</latitude>
+			<longitude>301207</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yengero -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38104</latitude>
+			<longitude>297077</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoga -- (State: Ngozi)">
+			<state>Ngozi</state>
+			<latitude>-26837</latitude>
+			<longitude>300010</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yonga -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-24073</latitude>
+			<longitude>304843</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yove -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-38810</latitude>
+			<longitude>294910</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yove -- (State: Rutana)">
+			<state>Rutana</state>
+			<latitude>-36635</latitude>
+			<longitude>301127</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaga -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-27572</latitude>
+			<longitude>302303</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanandore -- (State: Karuzi)">
+			<state>Karuzi</state>
+			<latitude>-32431</latitude>
+			<longitude>301203</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zina -- (State: Muyinga)">
+			<state>Muyinga</state>
+			<latitude>-26178</latitude>
+			<longitude>304166</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zina -- (State: Bubanza)">
+			<state>Bubanza</state>
+			<latitude>-30295</latitude>
+			<longitude>293172</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zina">
+			<state></state>
+			<latitude>-30559</latitude>
+			<longitude>293091</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zingati -- (State: Bururi)">
+			<state>Bururi</state>
+			<latitude>-36461</latitude>
+			<longitude>296694</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zingure -- (State: Makamba)">
+			<state>Makamba</state>
+			<latitude>-42784</latitude>
+			<longitude>296505</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorya -- (State: Bubanza)">
+			<state>Bubanza</state>
+			<latitude>-31467</latitude>
+			<longitude>294486</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

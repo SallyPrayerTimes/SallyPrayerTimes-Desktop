@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Mongolia">
+		<city name="Abaragin Khid -- (State: Dornogovi)">
+			<state>Dornogovi</state>
+			<latitude>457764</latitude>
+			<longitude>1112097</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adaatsag Uul -- (State: Dundgovi)">
+			<state>Dundgovi</state>
+			<latitude>466430</latitude>
+			<longitude>1057764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agutsa">
+			<state></state>
+			<latitude>492597</latitude>
+			<longitude>1120430</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan -- (State: Selenge)">
+			<state>Selenge</state>
+			<latitude>496267</latitude>
+			<longitude>1063600</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan">
+			<state></state>
+			<latitude>494933</latitude>
+			<longitude>1059267</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan -- (State: Bulgan)">
+			<state>Bulgan</state>
+			<latitude>482433</latitude>
+			<longitude>1039600</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan -- (State: Hentiy)">
+			<state>Hentiy</state>
+			<latitude>466267</latitude>
+			<longitude>1094267</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan -- (State: Darhan Uul)">
+			<state>Darhan Uul</state>
+			<latitude>494967</latitude>
+			<longitude>1059328</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan Guniy Sayr">
+			<state></state>
+			<latitude>418267</latitude>
+			<longitude>1035267</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan Guunii Datsang -- (State: Govi-Altay)">
+			<state>Govi-Altay</state>
+			<latitude>464267</latitude>
+			<longitude>944433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan Guunii Huryee -- (State: Bayanhongor)">
+			<state>Bayanhongor</state>
+			<latitude>466767</latitude>
+			<longitude>1003433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan Jisa -- (State: Dundgovi)">
+			<state>Dundgovi</state>
+			<latitude>463433</latitude>
+			<longitude>1082433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan Puntsag Bayshing -- (State: Govi-Altay)">
+			<state>Govi-Altay</state>
+			<latitude>465433</latitude>
+			<longitude>940600</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan Uul -- (State: Hentiy)">
+			<state>Hentiy</state>
+			<latitude>466100</latitude>
+			<longitude>1093433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhan Uul Aymag -- (State: Darhan Uul)">
+			<state>Darhan Uul</state>
+			<latitude>495100</latitude>
+			<longitude>1065100</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhanhaan -- (State: Suhbaatar)">
+			<state>Suhbaatar</state>
+			<latitude>467767</latitude>
+			<longitude>1138767</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhanta Uula -- (State: Hovsgol)">
+			<state>Hovsgol</state>
+			<latitude>512933</latitude>
+			<longitude>998767</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhantayn Gol -- (State: Hovsgol)">
+			<state>Hovsgol</state>
+			<latitude>505100</latitude>
+			<longitude>1012767</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darhantayn Huree -- (State: Hovsgol)">
+			<state>Hovsgol</state>
+			<latitude>505433</latitude>
+			<longitude>1014267</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djirgalantu -- (State: Hovd)">
+			<state>Hovd</state>
+			<latitude>480267</latitude>
+			<longitude>916433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ederengen Nuru">
+			<state></state>
+			<latitude>442601</latitude>
+			<longitude>977601</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emeelt Uul -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>466601</latitude>
+			<longitude>1191934</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erdenet -- (State: Orhon)">
+			<state>Orhon</state>
+			<latitude>490434</latitude>
+			<longitude>1040934</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Friendship Peak">
+			<state></state>
+			<latitude>491435</latitude>
+			<longitude>878269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fu-p u-ssu-k u-li -- (State: Hovsgol)">
+			<state>Hovsgol</state>
+			<latitude>510102</latitude>
+			<longitude>1005102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujirutu -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>493769</latitude>
+			<longitude>1127102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funa Usa Nuur -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>477602</latitude>
+			<longitude>1178435</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funsu Uul -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>470769</latitude>
+			<longitude>1157935</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furufu Ho -- (State: Hentiy)">
+			<state>Hentiy</state>
+			<latitude>486102</latitude>
+			<longitude>1107602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furufu Shan -- (State: Omnogovi)">
+			<state>Omnogovi</state>
+			<latitude>426544</latitude>
+			<longitude>1054258</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furumu noru Hu -- (State: Govi-Altay)">
+			<state>Govi-Altay</state>
+			<latitude>461769</latitude>
+			<longitude>935602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fushu mein obo -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>473102</latitude>
+			<longitude>1190602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gegeen Hiid -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>482103</latitude>
+			<longitude>1147603</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ger Chuluu -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>475603</latitude>
+			<longitude>1191103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hibing Gol -- (State: Hovsgol)">
+			<state>Hovsgol</state>
+			<latitude>509271</latitude>
+			<longitude>1016104</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiid Oboo -- (State: Arhangay)">
+			<state>Arhangay</state>
+			<latitude>471604</latitude>
+			<longitude>1021104</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiliyn Toyrom -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>477271</latitude>
+			<longitude>1158771</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J argalant -- (State: Selenge)">
+			<state>Selenge</state>
+			<latitude>498939</latitude>
+			<longitude>1074606</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jkh Tyul-bur -- (State: Bulgan)">
+			<state>Bulgan</state>
+			<latitude>493939</latitude>
+			<longitude>1029939</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="K o-lu-lun -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>480774</latitude>
+			<longitude>1145107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kara-adzirga -- (State: Govi-Altay)">
+			<state>Govi-Altay</state>
+			<latitude>458107</latitude>
+			<longitude>957607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khanbogd -- (State: Omnogovi)">
+			<state>Omnogovi</state>
+			<latitude>432107</latitude>
+			<longitude>1072107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knunguigo">
+			<state></state>
+			<latitude>488440</latitude>
+			<longitude>934274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lieh-ko -- (State: Bayanhongor)">
+			<state>Bayanhongor</state>
+			<latitude>445608</latitude>
+			<longitude>1008441</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lonhin Ovoo -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>483941</latitude>
+			<longitude>1157941</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Looroyn Bulag -- (State: Hovd)">
+			<state>Hovd</state>
+			<latitude>451108</latitude>
+			<longitude>915608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Looroyn Tuuri -- (State: Hovd)">
+			<state>Hovd</state>
+			<latitude>451275</latitude>
+			<longitude>915608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loosa sumu -- (State: Dundgovi)">
+			<state>Dundgovi</state>
+			<latitude>455275</latitude>
+			<longitude>1057608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lower Khobdo Nuur -- (State: Bayan-Olgiy)">
+			<state>Bayan-Olgiy</state>
+			<latitude>485441</latitude>
+			<longitude>885441</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyung Somon -- (State: Tov)">
+			<state>Tov</state>
+			<latitude>478775</latitude>
+			<longitude>1052608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Menengiin Tal -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>473776</latitude>
+			<longitude>1165109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nyalga -- (State: Tov)">
+			<state>Tov</state>
+			<latitude>469777</latitude>
+			<longitude>1083110</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otog Uul -- (State: Dzavhan)">
+			<state>Dzavhan</state>
+			<latitude>483111</latitude>
+			<longitude>941944</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qara Qum -- (State: Ovorhangay)">
+			<state>Ovorhangay</state>
+			<latitude>472446</latitude>
+			<longitude>1028446</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qingshi Shan">
+			<state></state>
+			<latitude>450446</latitude>
+			<longitude>928446</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quelle Borzson -- (State: Omnogovi)">
+			<state>Omnogovi</state>
+			<latitude>425199</latitude>
+			<longitude>1052616</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Schabuktai -- (State: Omnogovi)">
+			<state>Omnogovi</state>
+			<latitude>433782</latitude>
+			<longitude>1064615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Syowrei -- (State: Omnogovi)">
+			<state>Omnogovi</state>
+			<latitude>436282</latitude>
+			<longitude>1025448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulan Bator -- (State: Ulaanbaatar)">
+			<state>Ulaanbaatar</state>
+			<latitude>479284</latitude>
+			<longitude>1069284</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaishinte -- (State: Omnogovi)">
+			<state>Omnogovi</state>
+			<latitude>435018</latitude>
+			<longitude>1035362</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val Chingis Khana">
+			<state></state>
+			<latitude>485118</latitude>
+			<longitude>1115118</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vandan Dashiling Khure -- (State: Govi-Altay)">
+			<state>Govi-Altay</state>
+			<latitude>468785</latitude>
+			<longitude>954785</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vandzet -- (State: Omnogovi)">
+			<state>Omnogovi</state>
+			<latitude>431451</latitude>
+			<longitude>1022451</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vichzhin Gol -- (State: Govi-Altay)">
+			<state>Govi-Altay</state>
+			<latitude>454618</latitude>
+			<longitude>935451</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vlaa Vula -- (State: Hovsgol)">
+			<state>Hovsgol</state>
+			<latitude>506951</latitude>
+			<longitude>992451</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vneshnyaya Mongoliya">
+			<state></state>
+			<latitude>470118</latitude>
+			<longitude>1030118</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vostochnaya Depressiya">
+			<state></state>
+			<latitude>445118</latitude>
+			<longitude>1100118</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vostochnyy Aymag -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>480118</latitude>
+			<longitude>1150118</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vozvyshennost Dariganga -- (State: Suhbaatar)">
+			<state>Suhbaatar</state>
+			<latitude>456785</latitude>
+			<longitude>1152618</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vpadina Shargain-gobi -- (State: Govi-Altay)">
+			<state>Govi-Altay</state>
+			<latitude>462618</latitude>
+			<longitude>950118</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xiaohongshan Gou">
+			<state></state>
+			<latitude>450120</latitude>
+			<longitude>929953</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xiaosongshu Gou">
+			<state></state>
+			<latitude>452953</latitude>
+			<longitude>907953</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zafin Kawa">
+			<state></state>
+			<latitude>489122</latitude>
+			<longitude>933955</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zagan Nor -- (State: Bayanhongor)">
+			<state>Bayanhongor</state>
+			<latitude>455955</latitude>
+			<longitude>991622</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zagan Tujurjuk -- (State: Dornogovi)">
+			<state>Dornogovi</state>
+			<latitude>448455</latitude>
+			<longitude>1107622</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zakhara -- (State: Tov)">
+			<state>Tov</state>
+			<latitude>491622</latitude>
+			<longitude>1085122</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaku goru -- (State: Bayanhongor)">
+			<state>Bayanhongor</state>
+			<latitude>469455</latitude>
+			<longitude>991789</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaku Ho -- (State: Bayanhongor)">
+			<state>Bayanhongor</state>
+			<latitude>468789</latitude>
+			<longitude>992955</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zalatu -- (State: Dornogovi)">
+			<state>Dornogovi</state>
+			<latitude>443289</latitude>
+			<longitude>1079122</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamin-fuduku -- (State: Suhbaatar)">
+			<state>Suhbaatar</state>
+			<latitude>455455</latitude>
+			<longitude>1132289</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaminshandi -- (State: Govi-Altay)">
+			<state>Govi-Altay</state>
+			<latitude>445122</latitude>
+			<longitude>953455</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamun Ude -- (State: Dornogovi)">
+			<state>Dornogovi</state>
+			<latitude>437622</latitude>
+			<longitude>1119289</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zavkhan -- (State: Dzavhan)">
+			<state>Dzavhan</state>
+			<latitude>480122</latitude>
+			<longitude>960122</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeriku Ho -- (State: Hovsgol)">
+			<state>Hovsgol</state>
+			<latitude>503122</latitude>
+			<longitude>1019289</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zerin Nor -- (State: Uvs)">
+			<state>Uvs</state>
+			<latitude>486622</latitude>
+			<longitude>929622</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zerugin-tsagan-noru Hu -- (State: Hovd)">
+			<state>Hovd</state>
+			<latitude>472289</latitude>
+			<longitude>927622</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zezen Khana -- (State: Hentiy)">
+			<state>Hentiy</state>
+			<latitude>473289</latitude>
+			<longitude>1106622</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zgyin-gol -- (State: Hentiy)">
+			<state>Hentiy</state>
+			<latitude>487289</latitude>
+			<longitude>1102789</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorgone Khuduk Well -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>474122</latitude>
+			<longitude>1157789</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zun-fure -- (State: Tov)">
+			<state>Tov</state>
+			<latitude>480122</latitude>
+			<longitude>1085122</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zun-Mod -- (State: Tov)">
+			<state>Tov</state>
+			<latitude>477122</latitude>
+			<longitude>1069622</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zunharata ora -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>490622</latitude>
+			<longitude>1157955</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuruto Uula -- (State: Dornod)">
+			<state>Dornod</state>
+			<latitude>468455</latitude>
+			<longitude>1153622</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuunkharaa -- (State: Selenge)">
+			<state>Selenge</state>
+			<latitude>486455</latitude>
+			<longitude>1067455</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

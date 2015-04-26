@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Czech Republic">
+		<city name="Benesov -- (State: Stredocesky Kraj)">
+			<state>Stredocesky Kraj</state>
+			<latitude>497931</latitude>
+			<longitude>146931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brno -- (State: Jihomoravsky Kraj)">
+			<state>Jihomoravsky Kraj</state>
+			<latitude>492098</latitude>
+			<longitude>166431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brno">
+			<state></state>
+			<latitude>498265</latitude>
+			<longitude>136931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brno Region -- (State: Jihomoravsky Kraj)">
+			<state>Jihomoravsky Kraj</state>
+			<latitude>491765</latitude>
+			<longitude>165931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brno-Kral ovo">
+			<state></state>
+			<latitude>492265</latitude>
+			<longitude>165765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brno-Venkov -- (State: Jihomoravsky Kraj)">
+			<state>Jihomoravsky Kraj</state>
+			<latitude>491765</latitude>
+			<longitude>165098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brnov">
+			<state></state>
+			<latitude>494431</latitude>
+			<longitude>179931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ceske Budejovice -- (State: Jihocesky Kraj)">
+			<state>Jihocesky Kraj</state>
+			<latitude>489932</latitude>
+			<longitude>144766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chotebor">
+			<state></state>
+			<latitude>497266</latitude>
+			<longitude>156766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Havirov">
+			<state></state>
+			<latitude>498104</latitude>
+			<longitude>184104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hradec Kralove -- (State: Kralovehradecky Kraj)">
+			<state>Kralovehradecky Kraj</state>
+			<latitude>502221</latitude>
+			<longitude>158546</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iglau -- (State: Vysocina)">
+			<state>Vysocina</state>
+			<latitude>494105</latitude>
+			<longitude>155938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iglawa">
+			<state></state>
+			<latitude>489272</latitude>
+			<longitude>166105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ignaz">
+			<state></state>
+			<latitude>498438</latitude>
+			<longitude>182438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Illeschowitz">
+			<state></state>
+			<latitude>499105</latitude>
+			<longitude>181438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imlikau">
+			<state></state>
+			<latitude>502605</latitude>
+			<longitude>127938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ingrowitz">
+			<state></state>
+			<latitude>496438</latitude>
+			<longitude>162272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innerbohm">
+			<state></state>
+			<latitude>497272</latitude>
+			<longitude>139272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innergefild">
+			<state></state>
+			<latitude>490772</latitude>
+			<longitude>135938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innichen">
+			<state></state>
+			<latitude>497272</latitude>
+			<longitude>127272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Innozenzidorf">
+			<state></state>
+			<latitude>508772</latitude>
+			<longitude>145938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inselthal">
+			<state></state>
+			<latitude>497605</latitude>
+			<longitude>124772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irmsdorf">
+			<state></state>
+			<latitude>499438</latitude>
+			<longitude>173438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irresdorf">
+			<state></state>
+			<latitude>487938</latitude>
+			<longitude>141605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irrgang">
+			<state></state>
+			<latitude>504105</latitude>
+			<longitude>128272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irritz">
+			<state></state>
+			<latitude>489272</latitude>
+			<longitude>164105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irschings">
+			<state></state>
+			<latitude>494438</latitude>
+			<longitude>154772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isabelino Udoli">
+			<state></state>
+			<latitude>497605</latitude>
+			<longitude>129605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isergebirge">
+			<state></state>
+			<latitude>508533</latitude>
+			<longitude>152208</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istas">
+			<state></state>
+			<latitude>505772</latitude>
+			<longitude>162272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivan">
+			<state></state>
+			<latitude>494272</latitude>
+			<longitude>172605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivancice">
+			<state></state>
+			<latitude>491105</latitude>
+			<longitude>163938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanovice">
+			<state></state>
+			<latitude>492772</latitude>
+			<longitude>165772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanovice na Hane">
+			<state></state>
+			<latitude>493272</latitude>
+			<longitude>171105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izera">
+			<state></state>
+			<latitude>501938</latitude>
+			<longitude>147272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jachymov">
+			<state></state>
+			<latitude>507273</latitude>
+			<longitude>147273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlovy Vary -- (State: Karlovarsky Kraj)">
+			<state>Karlovarsky Kraj</state>
+			<latitude>502274</latitude>
+			<longitude>129107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karvina -- (State: Moravskoslezsky Kraj)">
+			<state>Moravskoslezsky Kraj</state>
+			<latitude>498774</latitude>
+			<longitude>185607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karvina 4">
+			<state></state>
+			<latitude>498440</latitude>
+			<longitude>185774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kladno">
+			<state></state>
+			<latitude>497940</latitude>
+			<longitude>159940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kladno -- (State: Stredocesky Kraj)">
+			<state>Stredocesky Kraj</state>
+			<latitude>501607</latitude>
+			<longitude>141107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lednice">
+			<state></state>
+			<latitude>488108</latitude>
+			<longitude>168108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liberec -- (State: Liberecky Kraj)">
+			<state>Liberecky Kraj</state>
+			<latitude>508441</latitude>
+			<longitude>150941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Louny -- (State: Ustecky Kraj)">
+			<state>Ustecky Kraj</state>
+			<latitude>503608</latitude>
+			<longitude>138108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marianske Lazne">
+			<state></state>
+			<latitude>499834</latitude>
+			<longitude>127153</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olomouc -- (State: Olomoucky Kraj)">
+			<state>Olomoucky Kraj</state>
+			<latitude>495944</latitude>
+			<longitude>172611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ostrava -- (State: Moravskoslezsky Kraj)">
+			<state>Moravskoslezsky Kraj</state>
+			<latitude>498444</latitude>
+			<longitude>182944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ostrava Basin">
+			<state></state>
+			<latitude>498444</latitude>
+			<longitude>185111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ostrava Region -- (State: Moravskoslezsky Kraj)">
+			<state>Moravskoslezsky Kraj</state>
+			<latitude>498444</latitude>
+			<longitude>180111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ostrava-Zabreh">
+			<state></state>
+			<latitude>498111</latitude>
+			<longitude>182278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pardubice -- (State: Pardubicky Kraj)">
+			<state>Pardubicky Kraj</state>
+			<latitude>500390</latitude>
+			<longitude>157870</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pelhrimov -- (State: Vysocina)">
+			<state>Vysocina</state>
+			<latitude>494279</latitude>
+			<longitude>151779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plzen -- (State: Plzensky Kraj)">
+			<state>Plzensky Kraj</state>
+			<latitude>497612</latitude>
+			<longitude>133779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plzen-Jih -- (State: Plzensky Kraj)">
+			<state>Plzensky Kraj</state>
+			<latitude>495945</latitude>
+			<longitude>135112</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plzen-Sever -- (State: Plzensky Kraj)">
+			<state>Plzensky Kraj</state>
+			<latitude>499279</latitude>
+			<longitude>132612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plzensky Kraj">
+			<state></state>
+			<latitude>495112</latitude>
+			<longitude>131779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Podebrady -- (State: (EZ41))">
+			<state>(EZ41)</state>
+			<latitude>501584</latitude>
+			<longitude>151270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prace">
+			<state></state>
+			<latitude>488945</latitude>
+			<longitude>162112</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prague -- (State: Praha Hlavni Mesto)">
+			<state>Praha Hlavni Mesto</state>
+			<latitude>500945</latitude>
+			<longitude>144779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prague-Vinohrady">
+			<state></state>
+			<latitude>500779</latitude>
+			<longitude>144779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Praha">
+			<state></state>
+			<latitude>496779</latitude>
+			<longitude>138279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Praha-Vychod -- (State: Stredocesky Kraj)">
+			<state>Stredocesky Kraj</state>
+			<latitude>500945</latitude>
+			<longitude>147612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Praha-Zapad -- (State: Stredocesky Kraj)">
+			<state>Stredocesky Kraj</state>
+			<latitude>498445</latitude>
+			<longitude>143445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prosicka">
+			<state></state>
+			<latitude>498279</latitude>
+			<longitude>157112</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qualisch">
+			<state></state>
+			<latitude>505946</latitude>
+			<longitude>160446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qualitzen">
+			<state></state>
+			<latitude>489946</latitude>
+			<longitude>154113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quintenthal">
+			<state></state>
+			<latitude>506780</latitude>
+			<longitude>158946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Snezne">
+			<state></state>
+			<latitude>503448</latitude>
+			<longitude>162948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sokolov -- (State: Karlovarsky Kraj)">
+			<state>Karlovarsky Kraj</state>
+			<latitude>501948</latitude>
+			<longitude>126448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tachov -- (State: Plzensky Kraj)">
+			<state>Plzensky Kraj</state>
+			<latitude>498083</latitude>
+			<longitude>126444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tachov">
+			<state></state>
+			<latitude>505283</latitude>
+			<longitude>152283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Teplice -- (State: Ustecky Kraj)">
+			<state>Ustecky Kraj</state>
+			<latitude>506449</latitude>
+			<longitude>138449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uherske Hradiste -- (State: Zlinsky Kraj)">
+			<state>Zlinsky Kraj</state>
+			<latitude>490784</latitude>
+			<longitude>174617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xaverov">
+			<state></state>
+			<latitude>498620</latitude>
+			<longitude>148953</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabreh">
+			<state></state>
+			<latitude>498955</latitude>
+			<longitude>168789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

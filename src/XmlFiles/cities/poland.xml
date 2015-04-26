@@ -1,0 +1,1188 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Poland">
+		<city name="Akacja -- (State: (PL34))">
+			<state>(PL34)</state>
+			<latitude>515264</latitude>
+			<longitude>181764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aksmanice -- (State: (PL54))">
+			<state>(PL54)</state>
+			<latitude>496764</latitude>
+			<longitude>227597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Akwizgran -- (State: (PL36))">
+			<state>(PL36)</state>
+			<latitude>509430</latitude>
+			<longitude>203930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Awecken -- (State: (PL30))">
+			<state>(PL30)</state>
+			<latitude>539597</latitude>
+			<longitude>196930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aweyden -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>537264</latitude>
+			<longitude>213264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Awnahof -- (State: (PL48))">
+			<state>(PL48)</state>
+			<latitude>505597</latitude>
+			<longitude>176264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bedzin -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>503431</latitude>
+			<longitude>191598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bialystok -- (State: Podlaskie)">
+			<state>Podlaskie</state>
+			<latitude>531431</latitude>
+			<longitude>231598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bialystok Fabryczny -- (State: (PL24))">
+			<state>(PL24)</state>
+			<latitude>531431</latitude>
+			<longitude>231765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bialystok Starosielce -- (State: (PL24))">
+			<state>(PL24)</state>
+			<latitude>531431</latitude>
+			<longitude>230931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bielsko-Biala -- (State: (PL25))">
+			<state>(PL25)</state>
+			<latitude>498265</latitude>
+			<longitude>190431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bydgoszcz -- (State: Kujawsko-Pomorskie)">
+			<state>Kujawsko-Pomorskie</state>
+			<latitude>531598</latitude>
+			<longitude>180098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bydgoszcz Wschodni -- (State: (PL26))">
+			<state>(PL26)</state>
+			<latitude>531431</latitude>
+			<longitude>180931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bytom -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>503598</latitude>
+			<longitude>189765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chabielice -- (State: (PL51))">
+			<state>(PL51)</state>
+			<latitude>512766</latitude>
+			<longitude>191266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chelm -- (State: (PL27))">
+			<state>(PL27)</state>
+			<latitude>511432</latitude>
+			<longitude>235099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chojnice -- (State: (PL26))">
+			<state>(PL26)</state>
+			<latitude>537099</latitude>
+			<longitude>175766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Czestochowa -- (State: (PL29))">
+			<state>(PL29)</state>
+			<latitude>508099</latitude>
+			<longitude>191266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dziaduszyce -- (State: (PL36))">
+			<state>(PL36)</state>
+			<latitude>503933</latitude>
+			<longitude>202767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gdansk -- (State: Pomorskie)">
+			<state>Pomorskie</state>
+			<latitude>543603</latitude>
+			<longitude>186770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gdansk Glowny -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>543603</latitude>
+			<longitude>186436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gdansk Nowy Port -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>544103</latitude>
+			<longitude>186770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gdansk Orunia -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>543436</latitude>
+			<longitude>186436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gdansk Uniemin -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>544103</latitude>
+			<longitude>186436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gdansk Warzywod -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>544270</latitude>
+			<longitude>186770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gdanskie Zulawy -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>542603</latitude>
+			<longitude>188436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="GdanskZechowo -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>543936</latitude>
+			<longitude>184770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gdynia -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>545936</latitude>
+			<longitude>185270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gliwice -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>502770</latitude>
+			<longitude>186770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gorzow Wielkopolski -- (State: (PL32))">
+			<state>(PL32)</state>
+			<latitude>527436</latitude>
+			<longitude>152436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iwierzyce -- (State: (PL56))">
+			<state>(PL56)</state>
+			<latitude>500438</latitude>
+			<longitude>217772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jarocin -- (State: (PL34))">
+			<state>(PL34)</state>
+			<latitude>519773</latitude>
+			<longitude>175273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jastrzebie Zdroj -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>499606</latitude>
+			<longitude>185939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalisz -- (State: (PL28))">
+			<state>(PL28)</state>
+			<latitude>529607</latitude>
+			<longitude>206607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalisz -- (State: (PL34))">
+			<state>(PL34)</state>
+			<latitude>517607</latitude>
+			<longitude>180940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katowice -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>502440</latitude>
+			<longitude>190440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katowice -- (State: Slaskie)">
+			<state>Slaskie</state>
+			<latitude>502774</latitude>
+			<longitude>190274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katowice Ligota -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>502440</latitude>
+			<longitude>189940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katowice-Bogucice -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>502774</latitude>
+			<longitude>190607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katowice-Brynow -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>502440</latitude>
+			<longitude>190107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katowice-Dab -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>502774</latitude>
+			<longitude>190107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katowice-Zaleze -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>502774</latitude>
+			<longitude>189940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kielce -- (State: Swietokrzyskie)">
+			<state>Swietokrzyskie</state>
+			<latitude>508440</latitude>
+			<longitude>206774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kobylka -- (State: (PL67))">
+			<state>(PL67)</state>
+			<latitude>523440</latitude>
+			<longitude>211940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kolobrzeg -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>541940</latitude>
+			<longitude>155940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koscian -- (State: (PL42))">
+			<state>(PL42)</state>
+			<latitude>521107</latitude>
+			<longitude>166440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koszalin -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>542107</latitude>
+			<longitude>161940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krakow -- (State: (PL58))">
+			<state>(PL58)</state>
+			<latitude>517440</latitude>
+			<longitude>185274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krakow -- (State: Malopolskie)">
+			<state>Malopolskie</state>
+			<latitude>500940</latitude>
+			<longitude>199274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krakowa -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>540274</latitude>
+			<longitude>157940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krakowek -- (State: (PL26))">
+			<state>(PL26)</state>
+			<latitude>535107</latitude>
+			<longitude>183107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krakowiany -- (State: (PL67))">
+			<state>(PL67)</state>
+			<latitude>520274</latitude>
+			<longitude>207940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krakowko -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>536107</latitude>
+			<longitude>146107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krakowkowice -- (State: (PL48))">
+			<state>(PL48)</state>
+			<latitude>504274</latitude>
+			<longitude>171774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ligota -- (State: (PL48))">
+			<state>(PL48)</state>
+			<latitude>504608</latitude>
+			<longitude>180108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lodz -- (State: Lodzkie)">
+			<state>Lodzkie</state>
+			<latitude>517608</latitude>
+			<longitude>194775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lodz -- (State: (PL53))">
+			<state>(PL53)</state>
+			<latitude>522775</latitude>
+			<longitude>167608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lodz Fabryczna -- (State: (PL43))">
+			<state>(PL43)</state>
+			<latitude>517941</latitude>
+			<longitude>194941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lodz Kaliska -- (State: (PL43))">
+			<state>(PL43)</state>
+			<latitude>517775</latitude>
+			<longitude>194441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lodz Lublinek -- (State: (PL43))">
+			<state>(PL43)</state>
+			<latitude>517275</latitude>
+			<longitude>194108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lodz Widzew -- (State: (PL43))">
+			<state>(PL43)</state>
+			<latitude>517775</latitude>
+			<longitude>195608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lublin -- (State: Lubelskie)">
+			<state>Lubelskie</state>
+			<latitude>512608</latitude>
+			<longitude>225775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lublin Swidnik -- (State: (PL45))">
+			<state>(PL45)</state>
+			<latitude>512441</latitude>
+			<longitude>226941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lubliniec Nowy -- (State: (PL54))">
+			<state>(PL54)</state>
+			<latitude>502941</latitude>
+			<longitude>231108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Miedzychod -- (State: (PL32))">
+			<state>(PL32)</state>
+			<latitude>526109</latitude>
+			<longitude>159109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nowa Sol -- (State: (PL71))">
+			<state>(PL71)</state>
+			<latitude>518110</latitude>
+			<longitude>157277</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olsztyn -- (State: (PL29))">
+			<state>(PL29)</state>
+			<latitude>507611</latitude>
+			<longitude>192778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olsztyn -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>537778</latitude>
+			<longitude>204278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olsztyn -- (State: Warminsko-Mazurskie)">
+			<state>Warminsko-Mazurskie</state>
+			<latitude>537944</latitude>
+			<longitude>204944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Opole -- (State: Opolskie)">
+			<state>Opolskie</state>
+			<latitude>506778</latitude>
+			<longitude>179611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Opole -- (State: (PL43))">
+			<state>(PL43)</state>
+			<latitude>520111</latitude>
+			<longitude>191944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ostrowiec Swietokrzyski -- (State: (PL36))">
+			<state>(PL36)</state>
+			<latitude>509444</latitude>
+			<longitude>214111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oswiecim -- (State: (PL25))">
+			<state>(PL25)</state>
+			<latitude>500444</latitude>
+			<longitude>192444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pabianice -- (State: (PL29))">
+			<state>(PL29)</state>
+			<latitude>507279</latitude>
+			<longitude>193945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pabianice -- (State: (PL43))">
+			<state>(PL43)</state>
+			<latitude>516779</latitude>
+			<longitude>193779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poznan -- (State: (PL57))">
+			<state>(PL57)</state>
+			<latitude>516945</latitude>
+			<longitude>223279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poznan -- (State: Wielkopolskie)">
+			<state>Wielkopolskie</state>
+			<latitude>524279</latitude>
+			<longitude>169779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poznan Krzesiny -- (State: (PL53))">
+			<state>(PL53)</state>
+			<latitude>523445</latitude>
+			<longitude>169779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poznan Wschod -- (State: (PL53))">
+			<state>(PL53)</state>
+			<latitude>524279</latitude>
+			<longitude>169945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pustkow -- (State: (PL64))">
+			<state>(PL64)</state>
+			<latitude>501612</latitude>
+			<longitude>215112</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quadendorf -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>543446</latitude>
+			<longitude>187613</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queetz -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>539613</latitude>
+			<longitude>203280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quehnen -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>543827</latitude>
+			<longitude>204030</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queiss -- (State: (PL71))">
+			<state>(PL71)</state>
+			<latitude>515780</latitude>
+			<longitude>154113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quellengrund -- (State: (PL48))">
+			<state>(PL48)</state>
+			<latitude>505113</latitude>
+			<longitude>184280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quetzin -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>541780</latitude>
+			<longitude>157780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quidlitz -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>537780</latitude>
+			<longitude>206446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quika -- (State: (PL61))">
+			<state>(PL61)</state>
+			<latitude>537446</latitude>
+			<longitude>218446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quiram -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>532446</latitude>
+			<longitude>164780</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quirren -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>536780</latitude>
+			<longitude>196446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quittainen -- (State: (PL30))">
+			<state>(PL30)</state>
+			<latitude>540446</latitude>
+			<longitude>198113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Radom -- (State: (PL55))">
+			<state>(PL55)</state>
+			<latitude>514281</latitude>
+			<longitude>211614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rgielsko -- (State: (PL50))">
+			<state>(PL50)</state>
+			<latitude>528281</latitude>
+			<longitude>172614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rgilew -- (State: (PL37))">
+			<state>(PL37)</state>
+			<latitude>522447</latitude>
+			<longitude>189781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rzeszow -- (State: Podkarpackie)">
+			<state>Podkarpackie</state>
+			<latitude>500614</latitude>
+			<longitude>220114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Siemianowice Slaskie -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>503115</latitude>
+			<longitude>190448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skoczow -- (State: (PL25))">
+			<state>(PL25)</state>
+			<latitude>498115</latitude>
+			<longitude>188115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sopot -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>544615</latitude>
+			<longitude>185782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sosnowiec -- (State: (PL48))">
+			<state>(PL48)</state>
+			<latitude>506615</latitude>
+			<longitude>176948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szczecin -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>533948</latitude>
+			<longitude>146448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szczecin -- (State: (PL63))">
+			<state>(PL63)</state>
+			<latitude>508282</latitude>
+			<longitude>219948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szczecin -- (State: (PL59))">
+			<state>(PL59)</state>
+			<latitude>519282</latitude>
+			<longitude>197282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szczecin Dabie -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>534115</latitude>
+			<longitude>146782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szczecin Pomorzany -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>533948</latitude>
+			<longitude>145282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Szczyrk -- (State: (PL25))">
+			<state>(PL25)</state>
+			<latitude>497282</latitude>
+			<longitude>190448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torun -- (State: (PL28))">
+			<state>(PL28)</state>
+			<latitude>525283</latitude>
+			<longitude>207283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torun -- (State: (PL27))">
+			<state>(PL27)</state>
+			<latitude>511116</latitude>
+			<longitude>231449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torun -- (State: (PL65))">
+			<state>(PL65)</state>
+			<latitude>530449</latitude>
+			<longitude>186116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valenzinnen -- (State: (PL61))">
+			<state>(PL61)</state>
+			<latitude>537118</latitude>
+			<longitude>220118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vangerow -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>541951</latitude>
+			<longitude>163618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Velky Cantoryje">
+			<state></state>
+			<latitude>496951</latitude>
+			<longitude>188118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Velky Sisak">
+			<state></state>
+			<latitude>507951</latitude>
+			<longitude>155951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Venedien -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>538785</latitude>
+			<longitude>198618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vengaruva -- (State: (PL57))">
+			<state>(PL57)</state>
+			<latitude>524118</latitude>
+			<longitude>220285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veykherovo -- (State: (PL31))">
+			<state>(PL31)</state>
+			<latitude>546118</latitude>
+			<longitude>182451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vidnavka">
+			<state></state>
+			<latitude>504618</latitude>
+			<longitude>172451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vierbrucken -- (State: (PL61))">
+			<state>(PL61)</state>
+			<latitude>537951</latitude>
+			<longitude>225785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vierzehnhuben -- (State: (PL30))">
+			<state>(PL30)</state>
+			<latitude>542618</latitude>
+			<longitude>190285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vierzighuben -- (State: (PL30))">
+			<state>(PL30)</state>
+			<latitude>542951</latitude>
+			<longitude>196785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vierzighufen -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>534951</latitude>
+			<longitude>199951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vietzig -- (State: (PL60))">
+			<state>(PL60)</state>
+			<latitude>546785</latitude>
+			<longitude>176285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vietzig -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>539118</latitude>
+			<longitude>144618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vietzkerstrand -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>545618</latitude>
+			<longitude>166118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vilmsee -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>537618</latitude>
+			<longitude>167618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Virchow -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>534618</latitude>
+			<longitude>161118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Virchowsee -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>538618</latitude>
+			<longitude>166618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vishnya">
+			<state></state>
+			<latitude>499451</latitude>
+			<longitude>228785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vislinskij Zaliv">
+			<state></state>
+			<latitude>544590</latitude>
+			<longitude>197632</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vistule">
+			<state></state>
+			<latitude>543618</latitude>
+			<longitude>189618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vitter See -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>544785</latitude>
+			<longitude>164618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vlaszowice -- (State: (PL40))">
+			<state>(PL40)</state>
+			<latitude>497618</latitude>
+			<longitude>214951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vlodavka -- (State: (PL27))">
+			<state>(PL27)</state>
+			<latitude>515451</latitude>
+			<longitude>235785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vogelsang -- (State: (PL30))">
+			<state>(PL30)</state>
+			<latitude>543618</latitude>
+			<longitude>199785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vogelstein">
+			<state></state>
+			<latitude>507785</latitude>
+			<longitude>156451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Voigtsdorf -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>540285</latitude>
+			<longitude>209618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vordamm -- (State: (PL32))">
+			<state>(PL32)</state>
+			<latitude>528785</latitude>
+			<longitude>158285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vosswalde -- (State: (PL48))">
+			<state>(PL48)</state>
+			<latitude>506785</latitude>
+			<longitude>183785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vratzig -- (State: (PL50))">
+			<state>(PL50)</state>
+			<latitude>528618</latitude>
+			<longitude>160451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vrchmezi">
+			<state></state>
+			<latitude>503618</latitude>
+			<longitude>163618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vyar">
+			<state></state>
+			<latitude>498118</latitude>
+			<longitude>228451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vysokie Skalky">
+			<state></state>
+			<latitude>494118</latitude>
+			<longitude>205785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vysoky Grun">
+			<state></state>
+			<latitude>492285</latitude>
+			<longitude>221451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wachau -- (State: (PL47))">
+			<state>(PL47)</state>
+			<latitude>539786</latitude>
+			<longitude>214452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warsaw -- (State: (PL67))">
+			<state>(PL67)</state>
+			<latitude>522619</latitude>
+			<longitude>210119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warsaw Main Station -- (State: (PL67))">
+			<state>(PL67)</state>
+			<latitude>522452</latitude>
+			<longitude>210119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warsaw-Gdanska Station -- (State: (PL67))">
+			<state>(PL67)</state>
+			<latitude>522786</latitude>
+			<longitude>210119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warsaw-West Passenger Station -- (State: (PL67))">
+			<state>(PL67)</state>
+			<latitude>522452</latitude>
+			<longitude>209952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warsow -- (State: Zachodniopomorskie)">
+			<state>Zachodniopomorskie</state>
+			<latitude>534952</latitude>
+			<longitude>145619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warszawa Wschodnia -- (State: (PL67))">
+			<state>(PL67)</state>
+			<latitude>522619</latitude>
+			<longitude>210619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wkra -- (State: (PL28))">
+			<state>(PL28)</state>
+			<latitude>525952</latitude>
+			<longitude>205952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wkra">
+			<state></state>
+			<latitude>524619</latitude>
+			<longitude>207619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wloclawek -- (State: (PL68))">
+			<state>(PL68)</state>
+			<latitude>526619</latitude>
+			<longitude>190452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wodzislaw Slaski -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>500119</latitude>
+			<longitude>184786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wroclaw -- (State: Dolnoslaskie)">
+			<state>Dolnoslaskie</state>
+			<latitude>511119</latitude>
+			<longitude>170452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wroclaw Bartoszewice -- (State: (PL69))">
+			<state>(PL69)</state>
+			<latitude>511119</latitude>
+			<longitude>171286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wroclaw Pracze -- (State: (PL69))">
+			<state>(PL69)</state>
+			<latitude>511786</latitude>
+			<longitude>169286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wroclaw Solltysowice -- (State: (PL69))">
+			<state>(PL69)</state>
+			<latitude>511619</latitude>
+			<longitude>170952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wroclaw Strachowice -- (State: (PL69))">
+			<state>(PL69)</state>
+			<latitude>511119</latitude>
+			<longitude>168952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wroclaw-Karlowice -- (State: (PL69))">
+			<state>(PL69)</state>
+			<latitude>511452</latitude>
+			<longitude>170952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wroclaw-Popowice -- (State: (PL69))">
+			<state>(PL69)</state>
+			<latitude>511452</latitude>
+			<longitude>170119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wroclaw-Psie Pole -- (State: (PL69))">
+			<state>(PL69)</state>
+			<latitude>511619</latitude>
+			<longitude>171119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaroslav -- (State: (PL54))">
+			<state>(PL54)</state>
+			<latitude>500288</latitude>
+			<longitude>226954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaslo -- (State: (PL40))">
+			<state>(PL40)</state>
+			<latitude>497621</latitude>
+			<longitude>214788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yendzheyev -- (State: (PL36))">
+			<state>(PL36)</state>
+			<latitude>506454</latitude>
+			<longitude>203121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yurechkova -- (State: (PL40))">
+			<state>(PL40)</state>
+			<latitude>495454</latitude>
+			<longitude>226121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabrze -- (State: (PL35))">
+			<state>(PL35)</state>
+			<latitude>503289</latitude>
+			<longitude>187955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagan -- (State: (PL71))">
+			<state>(PL71)</state>
+			<latitude>516289</latitude>
+			<longitude>153289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zakopane -- (State: (PL46))">
+			<state>(PL46)</state>
+			<latitude>493122</latitude>
+			<longitude>199789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zielona Gora -- (State: (PL71))">
+			<state>(PL71)</state>
+			<latitude>519789</latitude>
+			<longitude>154622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

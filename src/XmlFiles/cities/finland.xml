@@ -1,0 +1,943 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Finland">
+		<city name="Cadhdhervarre">
+			<state></state>
+			<latitude>691843</latitude>
+			<longitude>288466</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cape Mikonkari -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>644432</latitude>
+			<longitude>241099</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Caprera -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>631266</latitude>
+			<longitude>215599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carelia">
+			<state></state>
+			<latitude>640099</latitude>
+			<longitude>320099</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chelko -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>599266</latitude>
+			<longitude>238432</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chelo -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>602432</latitude>
+			<longitude>219766</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cherk Fiord -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>600382</latitude>
+			<longitude>240249</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cherkgorson -- (State: Ahvenanmaa)">
+			<state>Ahvenanmaa</state>
+			<latitude>600432</latitude>
+			<longitude>208432</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ekenas -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>599768</latitude>
+			<longitude>234601</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Espoo -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>602601</latitude>
+			<longitude>246768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Espoonlahti -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601751</latitude>
+			<longitude>245870</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Forssa -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>607935</latitude>
+			<longitude>236102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hameenlinna -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>610104</latitude>
+			<longitude>244604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heinavesi -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>624271</latitude>
+			<longitude>287604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helsingen -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>637771</latitude>
+			<longitude>226104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helsinki -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>606104</latitude>
+			<longitude>214437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helsinki -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601860</latitude>
+			<longitude>249446</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helsinki roadstead -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601723</latitude>
+			<longitude>249987</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huittinen -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>611771</latitude>
+			<longitude>227604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyvinkaa -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>606437</latitude>
+			<longitude>248437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imatra -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>611772</latitude>
+			<longitude>288438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jarvenpaa -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>622106</latitude>
+			<longitude>298106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jarvenpaa -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>658106</latitude>
+			<longitude>287773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jarvenpaa -- (State: Lappi)">
+			<state>Lappi</state>
+			<latitude>694439</latitude>
+			<longitude>288106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jarvenpaa -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>604773</latitude>
+			<longitude>250939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jarvenpaa -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>627106</latitude>
+			<longitude>255606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joensuu -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>620939</latitude>
+			<longitude>234106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joensuu -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>606606</latitude>
+			<longitude>239273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joensuu -- (State: Lappi)">
+			<state>Lappi</state>
+			<latitude>699439</latitude>
+			<longitude>280773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joensuu -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>625939</latitude>
+			<longitude>297606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joensuu -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>646773</latitude>
+			<longitude>271439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jurmu -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>655106</latitude>
+			<longitude>279773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jyvaskyla -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>622606</latitude>
+			<longitude>257606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jyvaskylan Maalaiskunta -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>622939</latitude>
+			<longitude>257273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jyvaskylan Pitaja -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>622606</latitude>
+			<longitude>256773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kajaani -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>641774</latitude>
+			<longitude>276774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kajaani -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>618774</latitude>
+			<longitude>273440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kajaaninjoki -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>642774</latitude>
+			<longitude>276607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karhula -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>605607</latitude>
+			<longitude>270107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karis -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>600940</latitude>
+			<longitude>236774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kemi -- (State: Lappi)">
+			<state>Lappi</state>
+			<latitude>657607</latitude>
+			<longitude>245940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kemteleenlahti -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>649774</latitude>
+			<longitude>254440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiviniemi -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>649607</latitude>
+			<longitude>255440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kokkola -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>638440</latitude>
+			<longitude>230940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kotka -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>638107</latitude>
+			<longitude>233774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kotka -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>604774</latitude>
+			<longitude>269274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kotka -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>622107</latitude>
+			<longitude>279107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kotkan Metsola -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>604940</latitude>
+			<longitude>269107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kouvola -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>608774</latitude>
+			<longitude>267107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kuopio -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>628940</latitude>
+			<longitude>276774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kurikka -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>625940</latitude>
+			<longitude>224274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahti -- (State: Lappi)">
+			<state>Lappi</state>
+			<latitude>668275</latitude>
+			<longitude>244108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahti -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>645441</latitude>
+			<longitude>272441</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahti -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>610108</latitude>
+			<longitude>256775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lahti -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>607769</latitude>
+			<longitude>215558</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lappeenranta -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>610608</latitude>
+			<longitude>281775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lohja -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>602608</latitude>
+			<longitude>240775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Loviisa -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>604608</latitude>
+			<longitude>262441</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maarianhamina -- (State: Ahvenanmaa)">
+			<state>Ahvenanmaa</state>
+			<latitude>601109</latitude>
+			<longitude>199609</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mariehamn -- (State: Ahvenanmaa)">
+			<state>Ahvenanmaa</state>
+			<latitude>601109</latitude>
+			<longitude>199442</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martinlaakso -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>602898</latitude>
+			<longitude>248534</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Masala -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601642</latitude>
+			<longitude>245398</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mellunmaki -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>602445</latitude>
+			<longitude>251415</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mikkeli -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>616776</latitude>
+			<longitude>272609</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nokia -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>614777</latitude>
+			<longitude>235110</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nummela -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>605110</latitude>
+			<longitude>246443</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ohkola -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>605778</latitude>
+			<longitude>251611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oravais -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>632611</latitude>
+			<longitude>225111</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oravasaari -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>621778</latitude>
+			<longitude>259278</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oulu -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>650111</latitude>
+			<longitude>255111</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oulunsalo -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>649444</latitude>
+			<longitude>254278</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pietarsaari -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>636779</latitude>
+			<longitude>227112</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pitajanmaki -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>635779</latitude>
+			<longitude>255779</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pitajanmaki -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>602320</latitude>
+			<longitude>248779</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pori -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>614945</latitude>
+			<longitude>217945</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porvoo -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>604112</latitude>
+			<longitude>256779</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Punkaharju -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>617612</latitude>
+			<longitude>294279</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Punkalaidun -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>611279</latitude>
+			<longitude>231112</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Puumala -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>615945</latitude>
+			<longitude>282612</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarken -- (State: Ahvenanmaa)">
+			<state>Ahvenanmaa</state>
+			<latitude>602613</latitude>
+			<longitude>200113</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quenlandia">
+			<state></state>
+			<latitude>660113</latitude>
+			<longitude>280113</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Raahe -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>647114</latitude>
+			<longitude>245114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ristinummi -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>631114</latitude>
+			<longitude>217281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rovaniemi -- (State: Lappi)">
+			<state>Lappi</state>
+			<latitude>665114</latitude>
+			<longitude>257114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rukki -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>646781</latitude>
+			<longitude>251114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salo -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>603948</latitude>
+			<longitude>231448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Savonlinna -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>618782</latitude>
+			<longitude>289282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seinajoki -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>627948</latitude>
+			<longitude>228282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tampere -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>615116</latitude>
+			<longitude>237616</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Turku -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>604449</latitude>
+			<longitude>222949</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Turku Archipelago -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>602616</latitude>
+			<longitude>220116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Turku ja Pori -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>610116</latitude>
+			<longitude>225116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaasa -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>630951</latitude>
+			<longitude>216785</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaasan Saaristo -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>632451</latitude>
+			<longitude>212618</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vantaa -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>603118</latitude>
+			<longitude>251785</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vantaa">
+			<state></state>
+			<latitude>602246</latitude>
+			<longitude>249971</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vantaankoski -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>603004</latitude>
+			<longitude>248621</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vantaanpuisto -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>603054</latitude>
+			<longitude>248654</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varkaus -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>623451</latitude>
+			<longitude>278785</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waarankoskenkanava -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>623952</latitude>
+			<longitude>287286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waarenpea -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>607119</latitude>
+			<longitude>213952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waderskar -- (State: Ahvenanmaa)">
+			<state>Ahvenanmaa</state>
+			<latitude>604452</latitude>
+			<longitude>203952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wado -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601963</latitude>
+			<longitude>250894</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walepus -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>609952</latitude>
+			<longitude>211952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walgrund -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>632119</latitude>
+			<longitude>212452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waltimo -- (State: Ita-Suomen Laani)">
+			<state>Ita-Suomen Laani</state>
+			<latitude>636786</latitude>
+			<longitude>288119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wassor -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>631952</latitude>
+			<longitude>220286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waterpa -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>603786</latitude>
+			<longitude>264619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weikar -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>630952</latitude>
+			<longitude>218952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weksala -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>635119</latitude>
+			<longitude>223786</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Welkhovesi -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>608952</latitude>
+			<longitude>213952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Welkuanma -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>604452</latitude>
+			<longitude>216452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wesso Landet -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>602952</latitude>
+			<longitude>257286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Bogskar -- (State: Ahvenanmaa)">
+			<state>Ahvenanmaa</state>
+			<latitude>595119</latitude>
+			<longitude>203786</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Tukan -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601033</latitude>
+			<longitude>251433</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Westend -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601786</latitude>
+			<longitude>248119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wester Ronnskar -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601500</latitude>
+			<longitude>249272</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Westerhankmo -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>632286</latitude>
+			<longitude>218619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wias -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>629452</latitude>
+			<longitude>216286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Widskar -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>599286</latitude>
+			<longitude>214786</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Widskar Fiard -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>598952</latitude>
+			<longitude>214619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wihanti -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>644952</latitude>
+			<longitude>250119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiiksinselka">
+			<state></state>
+			<latitude>624952</latitude>
+			<longitude>311619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiitamaki -- (State: Oulu Laani)">
+			<state>Oulu Laani</state>
+			<latitude>639452</latitude>
+			<longitude>264286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wildskar -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>634452</latitude>
+			<longitude>218119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiljakkala -- (State: Lansi-Suomen Laani)">
+			<state>Lansi-Suomen Laani</state>
+			<latitude>617119</latitude>
+			<longitude>232786</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Willinge -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601705</latitude>
+			<longitude>251255</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wirskar -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>602286</latitude>
+			<longitude>260452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wormo -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>600286</latitude>
+			<longitude>242286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaaksy -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>611955</latitude>
+			<longitude>255622</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Barezund fiord -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>599289</latitude>
+			<longitude>240955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Khallerviken -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>600647</latitude>
+			<longitude>242019</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Mors-f yerd -- (State: Etela-Suomen Laani)">
+			<state>Etela-Suomen Laani</state>
+			<latitude>601103</latitude>
+			<longitude>246211</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaliv Viro-Lakhti">
+			<state></state>
+			<latitude>605455</latitude>
+			<longitude>277955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

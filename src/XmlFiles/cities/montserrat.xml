@@ -1,0 +1,299 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Montserrat">
+		<city name="Castle Peak -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>167099</latitude>
+			<longitude>-621568</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cedar Ghaut -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167766</latitude>
+			<longitude>-621568</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Centre Hills -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167766</latitude>
+			<longitude>-621734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chances Peak -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>167099</latitude>
+			<longitude>-621734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Collins River -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>167932</latitude>
+			<longitude>-621901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coopers Point -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>167766</latitude>
+			<longitude>-622068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cornell -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167432</latitude>
+			<longitude>-621734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crab Hole Ghaut -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>166766</latitude>
+			<longitude>-621568</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dowdie -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>166933</latitude>
+			<longitude>-621567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elberton -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>167268</latitude>
+			<longitude>-622066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hot Water Pond -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>167104</latitude>
+			<longitude>-622229</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iles Bay -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>167438</latitude>
+			<longitude>-622062</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kate Howe -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167107</latitude>
+			<longitude>-621393</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katy Hill -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167607</latitude>
+			<longitude>-621726</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Killiecrankie Spring -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167440</latitude>
+			<longitude>-621893</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Killyhawk Ghaut -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167274</latitude>
+			<longitude>-621393</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Landing Bay -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>166941</latitude>
+			<longitude>-621392</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lees Village -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167275</latitude>
+			<longitude>-621892</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lime Kiln Bay -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>167441</latitude>
+			<longitude>-622225</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Little Mile Ghaut -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167275</latitude>
+			<longitude>-621725</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Little Redonda -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>168275</latitude>
+			<longitude>-621725</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Locust Valley -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167608</latitude>
+			<longitude>-621559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Margie Ghaut -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167276</latitude>
+			<longitude>-621558</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marguerita Bay -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>167942</latitude>
+			<longitude>-621558</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morris -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>166942</latitude>
+			<longitude>-621724</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nantes River -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>167610</latitude>
+			<longitude>-622057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nixons -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>167777</latitude>
+			<longitude>-621890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northwest Bluff -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>168277</latitude>
+			<longitude>-621890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Norwood -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>167944</latitude>
+			<longitude>-621722</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parsons -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>167112</latitude>
+			<longitude>-621888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pea Ghaut -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167612</latitude>
+			<longitude>-621388</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pinnacle Rock -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>168112</latitude>
+			<longitude>-621555</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plymouth -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>167112</latitude>
+			<longitude>-622055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rendezvous Bay -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>168114</latitude>
+			<longitude>-621886</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shooters Hill -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>166782</latitude>
+			<longitude>-621718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Smoky Hill -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167448</latitude>
+			<longitude>-621552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Statue Rock">
+			<state></state>
+			<latitude>167865</latitude>
+			<longitude>-621552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Swana Ghaut -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>166782</latitude>
+			<longitude>-621385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thatch Valley -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>168116</latitude>
+			<longitude>-621717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trants Bay -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167783</latitude>
+			<longitude>-621384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trials -- (State: Saint Anthony)">
+			<state>Saint Anthony</state>
+			<latitude>166949</latitude>
+			<longitude>-621884</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Underwood -- (State: Saint Georges)">
+			<state>Saint Georges</state>
+			<latitude>167617</latitude>
+			<longitude>-621883</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

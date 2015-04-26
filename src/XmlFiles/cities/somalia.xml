@@ -1,0 +1,747 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Somalia">
+		<city name="Afgoye -- (State: Shabeellaha Hoose)">
+			<state>Shabeellaha Hoose</state>
+			<latitude>21597</latitude>
+			<longitude>451264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afmadoow -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>5269</latitude>
+			<longitude>420808</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afmadow -- (State: Shabeellaha Hoose)">
+			<state>Shabeellaha Hoose</state>
+			<latitude>9430</latitude>
+			<longitude>436597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afmadow -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>4780</latitude>
+			<longitude>420933</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aisimo -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>116430</latitude>
+			<longitude>505930</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ateera -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>2764</latitude>
+			<longitude>418264</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Athat Koorda -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>106264</latitude>
+			<longitude>454430</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ato -- (State: Bakool)">
+			<state>Bakool</state>
+			<latitude>46264</latitude>
+			<longitude>433597</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baardheere -- (State: Gedo)">
+			<state>Gedo</state>
+			<latitude>23598</latitude>
+			<longitude>422765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baardheere -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>2931</latitude>
+			<longitude>427598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Badhan -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>100598</latitude>
+			<longitude>483431</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Badhanle -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>104104</latitude>
+			<longitude>470217</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balad Weyn -- (State: Hiiraan)">
+			<state>Hiiraan</state>
+			<latitude>47598</latitude>
+			<longitude>452098</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baydhabo -- (State: Bay)">
+			<state>Bay</state>
+			<latitude>31265</latitude>
+			<longitude>436598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Berbera -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>104454</latitude>
+			<longitude>450262</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Berbera Plain -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>103431</latitude>
+			<longitude>449431</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Borama -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>99431</latitude>
+			<longitude>431931</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Borama -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>5931</latitude>
+			<longitude>431931</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Borama -- (State: Bay)">
+			<state>Bay</state>
+			<latitude>29431</latitude>
+			<longitude>437431</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Borama -- (State: Gedo)">
+			<state>Gedo</state>
+			<latitude>34598</latitude>
+			<longitude>425598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bosaso -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>112945</latitude>
+			<longitude>491923</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brava -- (State: Shabeellaha Hoose)">
+			<state>Shabeellaha Hoose</state>
+			<latitude>11098</latitude>
+			<longitude>440598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Burco -- (State: Togdheer)">
+			<state>Togdheer</state>
+			<latitude>95265</latitude>
+			<longitude>455431</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Burcoodinle -- (State: Mudug)">
+			<state>Mudug</state>
+			<latitude>48098</latitude>
+			<longitude>481598</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buulo Burte -- (State: Hiiraan)">
+			<state>Hiiraan</state>
+			<latitude>38598</latitude>
+			<longitude>455765</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cabuud Waaq -- (State: Galguduud)">
+			<state>Galguduud</state>
+			<latitude>62266</latitude>
+			<longitude>463932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carmo -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>102599</latitude>
+			<longitude>434599</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carmo -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>105266</latitude>
+			<longitude>476766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carmo Gargaro">
+			<state></state>
+			<latitude>105599</latitude>
+			<longitude>490099</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carmo Xagar -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>104766</latitude>
+			<longitude>490932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carmo Xagar -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>104932</latitude>
+			<longitude>489599</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carmoole -- (State: Shabeellaha Dhexe)">
+			<state>Shabeellaha Dhexe</state>
+			<latitude>28432</latitude>
+			<longitude>453766</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carmoole -- (State: Shabeellaha Hoose)">
+			<state>Shabeellaha Hoose</state>
+			<latitude>19266</latitude>
+			<longitude>447432</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carmooy -- (State: Shabeellaha Hoose)">
+			<state>Shabeellaha Hoose</state>
+			<latitude>17599</latitude>
+			<longitude>444432</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Carmooyin -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>105266</latitude>
+			<longitude>489932</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ceelbuur -- (State: Galguduud)">
+			<state>Galguduud</state>
+			<latitude>46932</latitude>
+			<longitude>466266</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chisimayu -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-3568</latitude>
+			<longitude>425432</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhahar -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>102767</latitude>
+			<longitude>497767</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhahar -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>97600</latitude>
+			<longitude>488267</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diinsoor -- (State: Bay)">
+			<state>Bay</state>
+			<latitude>24100</latitude>
+			<longitude>429933</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dilla -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>103933</latitude>
+			<longitude>432433</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duruksi -- (State: Togdheer)">
+			<state>Togdheer</state>
+			<latitude>85267</latitude>
+			<longitude>454767</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erigavo -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>106282</latitude>
+			<longitude>473801</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fiqi Fuliye -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>99935</latitude>
+			<longitude>478269</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gaalkacyo -- (State: Mudug)">
+			<state>Mudug</state>
+			<latitude>67936</latitude>
+			<longitude>474436</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galdagab -- (State: Shabeellaha Dhexe)">
+			<state>Shabeellaha Dhexe</state>
+			<latitude>32770</latitude>
+			<longitude>466103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gallibaax -- (State: Galguduud)">
+			<state>Galguduud</state>
+			<latitude>39436</latitude>
+			<longitude>465936</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garbahaarrey -- (State: Gedo)">
+			<state>Gedo</state>
+			<latitude>33436</latitude>
+			<longitude>422270</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garoowe -- (State: Nugaal)">
+			<state>Nugaal</state>
+			<latitude>84103</latitude>
+			<longitude>484770</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garowe -- (State: Nugaal)">
+			<state>Nugaal</state>
+			<latitude>84103</latitude>
+			<longitude>485103</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hargeisa -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>100104</latitude>
+			<longitude>440104</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hargeysa -- (State: Jubbada Dhexe)">
+			<state>Jubbada Dhexe</state>
+			<latitude>4610</latitude>
+			<longitude>427168</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hobyo -- (State: Mudug)">
+			<state>Mudug</state>
+			<latitude>53618</latitude>
+			<longitude>485360</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huddur Hadama -- (State: Bakool)">
+			<state>Bakool</state>
+			<latitude>41271</latitude>
+			<longitude>439104</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalabaydh -- (State: Togdheer)">
+			<state>Togdheer</state>
+			<latitude>82440</latitude>
+			<longitude>472440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalabaydh -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>96774</latitude>
+			<longitude>434774</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laas Caanood -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>105941</latitude>
+			<longitude>506108</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laascaanood -- (State: Nugaal)">
+			<state>Nugaal</state>
+			<latitude>85108</latitude>
+			<longitude>474108</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mogadishu -- (State: Banaadir)">
+			<state>Banaadir</state>
+			<latitude>20776</latitude>
+			<longitude>453776</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palude Bisciaha-Hama -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>445</latitude>
+			<longitude>414779</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Passo Nord -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-3388</latitude>
+			<longitude>426445</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penisola Burgal -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-11721</latitude>
+			<longitude>419279</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penisola Gangiule -- (State: Jubbada Dhexe)">
+			<state>Jubbada Dhexe</state>
+			<latitude>-4388</latitude>
+			<longitude>424779</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pic du Doigt -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>107279</latitude>
+			<longitude>467945</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pic Raboteux -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>106445</latitude>
+			<longitude>457279</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointa Iunda -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-12055</latitude>
+			<longitude>418779</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointa Tartaruga -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-3721</latitude>
+			<longitude>425612</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Durnford -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-12055</latitude>
+			<longitude>418612</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Salamo -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-9055</latitude>
+			<longitude>421445</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Porto Tanina -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-8055</latitude>
+			<longitude>422112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province of Bakol -- (State: Bakool)">
+			<state>Bakool</state>
+			<latitude>40112</latitude>
+			<longitude>440112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province of Galgaduud -- (State: Galguduud)">
+			<state>Galguduud</state>
+			<latitude>50112</latitude>
+			<longitude>470112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province of Gedo -- (State: Gedo)">
+			<state>Gedo</state>
+			<latitude>30112</latitude>
+			<longitude>420112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province of Hiran -- (State: Hiiraan)">
+			<state>Hiiraan</state>
+			<latitude>40112</latitude>
+			<longitude>455112</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta Chiembo -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-12055</latitude>
+			<longitude>418945</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta di Mezzo -- (State: Nugaal)">
+			<state>Nugaal</state>
+			<latitude>77779</latitude>
+			<longitude>498445</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta Osbolei -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>115259</latitude>
+			<longitude>499601</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punto Dentino -- (State: Bay)">
+			<state>Bay</state>
+			<latitude>103945</latitude>
+			<longitude>512779</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sheikh -- (State: Togdheer)">
+			<state>Togdheer</state>
+			<latitude>99448</latitude>
+			<longitude>451948</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Somalia">
+			<state></state>
+			<latitude>60115</latitude>
+			<longitude>480115</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tog Dheer">
+			<state></state>
+			<latitude>90283</latitude>
+			<longitude>471283</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaio -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>4118</latitude>
+			<longitude>426118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallata del Darror -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>103451</latitude>
+			<longitude>503451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallata del Nogal -- (State: Nugaal)">
+			<state>Nugaal</state>
+			<latitude>85951</latitude>
+			<longitude>485951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallata Emat -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>90951</latitude>
+			<longitude>490951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallata Nirich -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>88951</latitude>
+			<longitude>494951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valle Boharo -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>97285</latitude>
+			<longitude>490951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vel Fallai -- (State: Bay)">
+			<state>Bay</state>
+			<latitude>23785</latitude>
+			<longitude>431285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veledei -- (State: Jubbada Dhexe)">
+			<state>Jubbada Dhexe</state>
+			<latitude>14896</latitude>
+			<longitude>424201</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veliya -- (State: Sanaag)">
+			<state>Sanaag</state>
+			<latitude>110785</latitude>
+			<longitude>487451</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villaggio Duca Abruzzi -- (State: Shabeellaha Dhexe)">
+			<state>Shabeellaha Dhexe</state>
+			<latitude>27785</latitude>
+			<longitude>455285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vittorio d Africa -- (State: Shabeellaha Hoose)">
+			<state>Shabeellaha Hoose</state>
+			<latitude>17118</latitude>
+			<longitude>446951</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulture -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-3549</latitude>
+			<longitude>426285</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuma -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-7049</latitude>
+			<longitude>423118</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waaciye -- (State: Bari)">
+			<state>Bari</state>
+			<latitude>100286</latitude>
+			<longitude>490452</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waajid -- (State: Bakool)">
+			<state>Bakool</state>
+			<latitude>38119</latitude>
+			<longitude>432619</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wajaale -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>95786</latitude>
+			<longitude>434952</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yagoori -- (State: Togdheer)">
+			<state>Togdheer</state>
+			<latitude>87621</latitude>
+			<longitude>469788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yagoori">
+			<state></state>
+			<latitude>87788</latitude>
+			<longitude>469788</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabit -- (State: Shabeellaha Hoose)">
+			<state>Shabeellaha Hoose</state>
+			<latitude>21289</latitude>
+			<longitude>450455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamur -- (State: Bay)">
+			<state>Bay</state>
+			<latitude>27455</latitude>
+			<longitude>434122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarzarre -- (State: Shabeellaha Dhexe)">
+			<state>Shabeellaha Dhexe</state>
+			<latitude>26122</latitude>
+			<longitude>453455</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zbuel -- (State: Bakool)">
+			<state>Bakool</state>
+			<latitude>35622</latitude>
+			<longitude>437622</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeco -- (State: Mudug)">
+			<state>Mudug</state>
+			<latitude>54122</latitude>
+			<longitude>475289</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zero Cinquanta -- (State: Jubbada Hoose)">
+			<state>Jubbada Hoose</state>
+			<latitude>-8211</latitude>
+			<longitude>410122</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeylac -- (State: Woqooyi Galbeed)">
+			<state>Woqooyi Galbeed</state>
+			<latitude>113661</latitude>
+			<longitude>434861</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

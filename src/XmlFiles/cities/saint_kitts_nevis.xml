@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Saint Kitts Nevis">
+		<city name="Basseterre -- (State: Saint George Basseterre)">
+			<state>Saint George Basseterre</state>
+			<latitude>173098</latitude>
+			<longitude>-627069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Basseterre Bay -- (State: Saint George Basseterre)">
+			<state>Saint George Basseterre</state>
+			<latitude>172931</latitude>
+			<longitude>-627069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cades Bay -- (State: Saint Thomas Lowland)">
+			<state>Saint Thomas Lowland</state>
+			<latitude>171932</latitude>
+			<longitude>-626068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charlestown -- (State: Saint Paul Charlestown)">
+			<state>Saint Paul Charlestown</state>
+			<latitude>171432</latitude>
+			<longitude>-626068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cotton Ground -- (State: Saint Thomas Lowland)">
+			<state>Saint Thomas Lowland</state>
+			<latitude>171766</latitude>
+			<longitude>-626068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalzells -- (State: Saint Mary Cayon)">
+			<state>Saint Mary Cayon</state>
+			<latitude>173600</latitude>
+			<longitude>-626900</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dos d Ane Pond -- (State: Christ Church Nichola Town)">
+			<state>Christ Church Nichola Town</state>
+			<latitude>173600</latitude>
+			<longitude>-627733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eden Browne -- (State: Saint James Windwa)">
+			<state>Saint James Windwa</state>
+			<latitude>171601</latitude>
+			<longitude>-625399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fountain -- (State: Saint James Windwa)">
+			<state>Saint James Windwa</state>
+			<latitude>171769</latitude>
+			<longitude>-625731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jessop -- (State: Saint Thomas Lowland)">
+			<state>Saint Thomas Lowland</state>
+			<latitude>171606</latitude>
+			<longitude>-625894</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Key Gut">
+			<state></state>
+			<latitude>173440</latitude>
+			<longitude>-626893</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitt Ghut -- (State: Saint George Gingerland)">
+			<state>Saint George Gingerland</state>
+			<latitude>171274</latitude>
+			<longitude>-625226</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lavingtons Gut -- (State: Saint John Capesterre)">
+			<state>Saint John Capesterre</state>
+			<latitude>174108</latitude>
+			<longitude>-627725</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nevis">
+			<state></state>
+			<latitude>171610</latitude>
+			<longitude>-625723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olivees Mountain">
+			<state></state>
+			<latitude>173278</latitude>
+			<longitude>-627389</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perry -- (State: Saint Peter Basseterre)">
+			<state>Saint Peter Basseterre</state>
+			<latitude>173279</latitude>
+			<longitude>-627055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Potwork Estate -- (State: Saint James Windwa)">
+			<state>Saint James Windwa</state>
+			<latitude>172112</latitude>
+			<longitude>-625388</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rawlins -- (State: Saint George Gingerland)">
+			<state>Saint George Gingerland</state>
+			<latitude>171447</latitude>
+			<longitude>-625553</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rawlins -- (State: Saint James Windwa)">
+			<state>Saint James Windwa</state>
+			<latitude>171947</latitude>
+			<longitude>-625719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Red Cliff -- (State: Saint George Gingerland)">
+			<state>Saint George Gingerland</state>
+			<latitude>171114</latitude>
+			<longitude>-625053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rices -- (State: Saint George Gingerland)">
+			<state>Saint George Gingerland</state>
+			<latitude>171281</latitude>
+			<longitude>-625386</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Richmond Lodge -- (State: Saint John Figtree)">
+			<state>Saint John Figtree</state>
+			<latitude>171281</latitude>
+			<longitude>-625719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Romney -- (State: Saint Thomas Middle Island)">
+			<state>Saint Thomas Middle Island</state>
+			<latitude>173447</latitude>
+			<longitude>-627719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Russells Rest -- (State: Saint James Windwa)">
+			<state>Saint James Windwa</state>
+			<latitude>171947</latitude>
+			<longitude>-625386</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Crater">
+			<state></state>
+			<latitude>173783</latitude>
+			<longitude>-627884</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Weir">
+			<state></state>
+			<latitude>173449</latitude>
+			<longitude>-627551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Bourryau -- (State: Christ Church Nichola Town)">
+			<state>Christ Church Nichola Town</state>
+			<latitude>173784</latitude>
+			<longitude>-627216</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vervine -- (State: Saint George Gingerland)">
+			<state>Saint George Gingerland</state>
+			<latitude>171451</latitude>
+			<longitude>-625382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willets -- (State: Saint Paul Capesterre)">
+			<state>Saint Paul Capesterre</state>
+			<latitude>174119</latitude>
+			<longitude>-628048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zetland -- (State: Saint George Gingerland)">
+			<state>Saint George Gingerland</state>
+			<latitude>171455</latitude>
+			<longitude>-625711</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

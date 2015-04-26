@@ -1,0 +1,537 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Netherlands Antilles">
+		<city name="Aruba">
+			<state></state>
+			<latitude>121597</latitude>
+			<longitude>-682403</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Awa Blanco">
+			<state></state>
+			<latitude>120430</latitude>
+			<longitude>-687736</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bonaire">
+			<state></state>
+			<latitude>122098</latitude>
+			<longitude>-682402</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cupe Coy">
+			<state></state>
+			<latitude>180599</latitude>
+			<longitude>-631234</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Curacao">
+			<state></state>
+			<latitude>121766</latitude>
+			<longitude>-689901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daaibooibaai">
+			<state></state>
+			<latitude>122100</latitude>
+			<longitude>-690733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorp Lagun">
+			<state></state>
+			<latitude>123267</latitude>
+			<longitude>-691567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorp Rincon">
+			<state></state>
+			<latitude>122433</latitude>
+			<longitude>-683233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorp Soto">
+			<state></state>
+			<latitude>122767</latitude>
+			<longitude>-690900</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorp Tera Cora">
+			<state></state>
+			<latitude>121433</latitude>
+			<longitude>-682567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eiland Penso">
+			<state></state>
+			<latitude>120873</latitude>
+			<longitude>-688466</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emmastad">
+			<state></state>
+			<latitude>121434</latitude>
+			<longitude>-689066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fence Quarter">
+			<state></state>
+			<latitude>176102</latitude>
+			<longitude>-632231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flaminco Pond">
+			<state></state>
+			<latitude>180435</latitude>
+			<longitude>-630898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort de Windt">
+			<state></state>
+			<latitude>174602</latitude>
+			<longitude>-629398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fortuna Abou">
+			<state></state>
+			<latitude>121769</latitude>
+			<longitude>-689065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuik">
+			<state></state>
+			<latitude>120769</latitude>
+			<longitude>-687898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habai">
+			<state></state>
+			<latitude>121368</latitude>
+			<longitude>-689379</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hato Baai">
+			<state></state>
+			<latitude>122604</latitude>
+			<longitude>-689896</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heintje Kool">
+			<state></state>
+			<latitude>121437</latitude>
+			<longitude>-689229</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hermanus">
+			<state></state>
+			<latitude>122104</latitude>
+			<longitude>-690229</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hobao">
+			<state></state>
+			<latitude>122937</latitude>
+			<longitude>-683729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hofi Abou">
+			<state></state>
+			<latitude>123104</latitude>
+			<longitude>-691063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hogsty">
+			<state></state>
+			<latitude>174771</latitude>
+			<longitude>-629563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoop">
+			<state></state>
+			<latitude>121271</latitude>
+			<longitude>-682729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huur">
+			<state></state>
+			<latitude>122271</latitude>
+			<longitude>-683563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Industrie">
+			<state></state>
+			<latitude>180438</latitude>
+			<longitude>-630562</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Industry">
+			<state></state>
+			<latitude>174938</latitude>
+			<longitude>-629395</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isla Makuaku">
+			<state></state>
+			<latitude>121272</latitude>
+			<longitude>-687895</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan Doran">
+			<state></state>
+			<latitude>122273</latitude>
+			<longitude>-683394</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan Kok">
+			<state></state>
+			<latitude>122273</latitude>
+			<longitude>-690227</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan Thielbaai">
+			<state></state>
+			<latitude>120773</latitude>
+			<longitude>-688561</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan Zoutvat">
+			<state></state>
+			<latitude>121023</latitude>
+			<longitude>-688394</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarabi Mangel">
+			<state></state>
+			<latitude>122939</latitude>
+			<longitude>-683561</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kralendijk">
+			<state></state>
+			<latitude>121607</latitude>
+			<longitude>-682560</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maho Bay">
+			<state></state>
+			<latitude>180442</latitude>
+			<longitude>-631058</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negro Path">
+			<state></state>
+			<latitude>175110</latitude>
+			<longitude>-629890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nieuwpoort">
+			<state></state>
+			<latitude>120610</latitude>
+			<longitude>-688057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noordkant">
+			<state></state>
+			<latitude>121777</latitude>
+			<longitude>-688890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oranjeberg">
+			<state></state>
+			<latitude>120944</latitude>
+			<longitude>-687722</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oranjestad">
+			<state></state>
+			<latitude>174778</latitude>
+			<longitude>-629722</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Philipsburg">
+			<state></state>
+			<latitude>180279</latitude>
+			<longitude>-630221</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saba">
+			<state></state>
+			<latitude>176448</latitude>
+			<longitude>-632218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saba Island">
+			<state></state>
+			<latitude>176448</latitude>
+			<longitude>-632052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tent Point">
+			<state></state>
+			<latitude>176283</latitude>
+			<longitude>-632384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thais Hill">
+			<state></state>
+			<latitude>176283</latitude>
+			<longitude>-632217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Torrens Point">
+			<state></state>
+			<latitude>176616</latitude>
+			<longitude>-632384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tra i Montana">
+			<state></state>
+			<latitude>122116</latitude>
+			<longitude>-682551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venus">
+			<state></state>
+			<latitude>175118</latitude>
+			<longitude>-629715</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vlakke Hoek">
+			<state></state>
+			<latitude>176618</latitude>
+			<longitude>-632049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vlijt">
+			<state></state>
+			<latitude>121785</latitude>
+			<longitude>-682549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wacao">
+			<state></state>
+			<latitude>123286</latitude>
+			<longitude>-690381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wamari">
+			<state></state>
+			<latitude>121786</latitude>
+			<longitude>-682048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanapa">
+			<state></state>
+			<latitude>121286</latitude>
+			<longitude>-682214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanico">
+			<state></state>
+			<latitude>122119</latitude>
+			<longitude>-682714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Watamula">
+			<state></state>
+			<latitude>123952</latitude>
+			<longitude>-691381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waterloo">
+			<state></state>
+			<latitude>121619</latitude>
+			<longitude>-688881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wecua Punt">
+			<state></state>
+			<latitude>122286</latitude>
+			<longitude>-683881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weis Afo">
+			<state></state>
+			<latitude>121619</latitude>
+			<longitude>-689214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weitje">
+			<state></state>
+			<latitude>120286</latitude>
+			<longitude>-689714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wekoewa">
+			<state></state>
+			<latitude>122452</latitude>
+			<longitude>-683881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Welbedacht">
+			<state></state>
+			<latitude>121452</latitude>
+			<longitude>-688214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Welgelegen">
+			<state></state>
+			<latitude>121319</latitude>
+			<longitude>-689348</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Well s Baai">
+			<state></state>
+			<latitude>176452</latitude>
+			<longitude>-632381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Westpunt">
+			<state></state>
+			<latitude>123952</latitude>
+			<longitude>-691548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Westpuntbaai">
+			<state></state>
+			<latitude>123786</latitude>
+			<longitude>-691548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiba Hole">
+			<state></state>
+			<latitude>176286</latitude>
+			<longitude>-632048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willebrordus">
+			<state></state>
+			<latitude>122286</latitude>
+			<longitude>-690381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willemstad">
+			<state></state>
+			<latitude>121119</latitude>
+			<longitude>-689048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Witte Kaap">
+			<state></state>
+			<latitude>180119</latitude>
+			<longitude>-630214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Witte Wal">
+			<state></state>
+			<latitude>174786</latitude>
+			<longitude>-629381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaquito">
+			<state></state>
+			<latitude>121289</latitude>
+			<longitude>-689378</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zevenbergen">
+			<state></state>
+			<latitude>123289</latitude>
+			<longitude>-691045</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorg en Rust">
+			<state></state>
+			<latitude>180622</latitude>
+			<longitude>-630378</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorgvliet">
+			<state></state>
+			<latitude>123622</latitude>
+			<longitude>-691045</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zwarteberg">
+			<state></state>
+			<latitude>121289</latitude>
+			<longitude>-689545</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

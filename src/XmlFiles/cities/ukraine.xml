@@ -1,0 +1,1167 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Ukraine">
+		<city name="Alupka -- (State: Krym Avtonomna Respublika)">
+			<state>Krym Avtonomna Respublika</state>
+			<latitude>444264</latitude>
+			<longitude>340597</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cherkassy -- (State: Cherkas ka Oblast)">
+			<state>Cherkas ka Oblast</state>
+			<latitude>494432</latitude>
+			<longitude>320766</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chernihiv">
+			<state></state>
+			<latitude>515099</latitude>
+			<longitude>313099</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crimea">
+			<state></state>
+			<latitude>450099</latitude>
+			<longitude>340099</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dnepropetrovsk -- (State: Dnipropetrovs ka Oblast)">
+			<state>Dnipropetrovs ka Oblast</state>
+			<latitude>484600</latitude>
+			<longitude>349933</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Donets k -- (State: Donets ka Oblast)">
+			<state>Donets ka Oblast</state>
+			<latitude>480100</latitude>
+			<longitude>378100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Donetskaya Oblast -- (State: Donets ka Oblast)">
+			<state>Donets ka Oblast</state>
+			<latitude>480100</latitude>
+			<longitude>375100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Donetskiy">
+			<state></state>
+			<latitude>474267</latitude>
+			<longitude>379600</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Donetskiy -- (State: Donets ka Oblast)">
+			<state>Donets ka Oblast</state>
+			<latitude>477256</latitude>
+			<longitude>384189</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Efendi-Koy">
+			<state></state>
+			<latitude>450268</latitude>
+			<longitude>344934</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egresh">
+			<state></state>
+			<latitude>481768</latitude>
+			<longitude>229768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ekaterinople -- (State: Cherkas ka Oblast)">
+			<state>Cherkas ka Oblast</state>
+			<latitude>489484</latitude>
+			<longitude>309898</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ekibash">
+			<state></state>
+			<latitude>452268</latitude>
+			<longitude>339934</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ekonomiya Shul tsa">
+			<state></state>
+			<latitude>459434</latitude>
+			<longitude>301268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ekonomiya Yeremeyeva">
+			<state></state>
+			<latitude>459934</latitude>
+			<longitude>302268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ekonomiya Zabotkinoy">
+			<state></state>
+			<latitude>459768</latitude>
+			<longitude>301601</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El buzly">
+			<state></state>
+			<latitude>449768</latitude>
+			<longitude>349934</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El gery-Karachkora">
+			<state></state>
+			<latitude>456268</latitude>
+			<longitude>340434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El gery-Kaspir">
+			<state></state>
+			<latitude>456268</latitude>
+			<longitude>332434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El tigen -- (State: Krym Avtonomna Respublika)">
+			<state>Krym Avtonomna Respublika</state>
+			<latitude>452323</latitude>
+			<longitude>364143</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El tok">
+			<state></state>
+			<latitude>454934</latitude>
+			<longitude>334601</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El zas">
+			<state></state>
+			<latitude>467101</latitude>
+			<longitude>301934</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El zhbitovka">
+			<state></state>
+			<latitude>485101</latitude>
+			<longitude>283934</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eliseyevka -- (State: Kharkivs ka Oblast)">
+			<state>Kharkivs ka Oblast</state>
+			<latitude>499259</latitude>
+			<longitude>375309</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elizarow">
+			<state></state>
+			<latitude>504934</latitude>
+			<longitude>249101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elyzavetivka -- (State: Odes ka Oblast)">
+			<state>Odes ka Oblast</state>
+			<latitude>473234</latitude>
+			<longitude>297893</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emanuilovka -- (State: Odes ka Oblast)">
+			<state>Odes ka Oblast</state>
+			<latitude>471601</latitude>
+			<longitude>298434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emil chino -- (State: Zhytomyrs ka Oblast)">
+			<state>Zhytomyrs ka Oblast</state>
+			<latitude>508768</latitude>
+			<longitude>278101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emil chinskiy Rayon">
+			<state></state>
+			<latitude>509268</latitude>
+			<longitude>278434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emir-Orlyuk">
+			<state></state>
+			<latitude>457101</latitude>
+			<longitude>334101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmes">
+			<state></state>
+			<latitude>478768</latitude>
+			<longitude>336934</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Energodar">
+			<state></state>
+			<latitude>475101</latitude>
+			<longitude>344768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Engel sovo -- (State: Luhans ka Oblast)">
+			<state>Luhans ka Oblast</state>
+			<latitude>483048</latitude>
+			<longitude>396323</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enichioi">
+			<state></state>
+			<latitude>456934</latitude>
+			<longitude>292768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erastovka -- (State: Dnipropetrovs ka Oblast)">
+			<state>Dnipropetrovs ka Oblast</state>
+			<latitude>484470</latitude>
+			<longitude>339282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erazimivka">
+			<state></state>
+			<latitude>495434</latitude>
+			<longitude>287268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erdek Burno">
+			<state></state>
+			<latitude>455101</latitude>
+			<longitude>289768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eriklik">
+			<state></state>
+			<latitude>444768</latitude>
+			<longitude>341434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eristovka">
+			<state></state>
+			<latitude>474268</latitude>
+			<longitude>354268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Esek-Eki">
+			<state></state>
+			<latitude>452101</latitude>
+			<longitude>349934</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eshkene">
+			<state></state>
+			<latitude>453268</latitude>
+			<longitude>346768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eskhar -- (State: Kharkivs ka Oblast)">
+			<state>Kharkivs ka Oblast</state>
+			<latitude>498082</latitude>
+			<longitude>365984</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eskhiopolos">
+			<state></state>
+			<latitude>457434</latitude>
+			<longitude>296268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eski Krym -- (State: Krym Avtonomna Respublika)">
+			<state>Krym Avtonomna Respublika</state>
+			<latitude>450434</latitude>
+			<longitude>351101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eski Yurt">
+			<state></state>
+			<latitude>449601</latitude>
+			<longitude>349101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eski-Ali-Kech">
+			<state></state>
+			<latitude>455934</latitude>
+			<longitude>336434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eski-Eli">
+			<state></state>
+			<latitude>447434</latitude>
+			<longitude>336101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eski-Orda">
+			<state></state>
+			<latitude>449268</latitude>
+			<longitude>341768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eski-Saray">
+			<state></state>
+			<latitude>448934</latitude>
+			<longitude>342268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Esman -- (State: Sums ka Oblast)">
+			<state>Sums ka Oblast</state>
+			<latitude>517915</latitude>
+			<longitude>340829</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Esman">
+			<state></state>
+			<latitude>514601</latitude>
+			<longitude>338434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Essen-Eli">
+			<state></state>
+			<latitude>451101</latitude>
+			<longitude>351434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Estuary of the Dnieper">
+			<state></state>
+			<latitude>465934</latitude>
+			<longitude>319268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eupatoria -- (State: Krym Avtonomna Respublika)">
+			<state>Krym Avtonomna Respublika</state>
+			<latitude>452073</latitude>
+			<longitude>333659</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eupatoria Point -- (State: Krym Avtonomna Respublika)">
+			<state>Krym Avtonomna Respublika</state>
+			<latitude>451601</latitude>
+			<longitude>332768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Evghenita -- (State: Odes ka Oblast)">
+			<state>Odes ka Oblast</state>
+			<latitude>463904</latitude>
+			<longitude>292159</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eygenfel d">
+			<state></state>
+			<latitude>467601</latitude>
+			<longitude>350934</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eygengut">
+			<state></state>
+			<latitude>469768</latitude>
+			<longitude>313434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eyngeym">
+			<state></state>
+			<latitude>463101</latitude>
+			<longitude>300101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ezyurko">
+			<state></state>
+			<latitude>516434</latitude>
+			<longitude>250434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivano-Frankovsk -- (State: Ivano-Frankivs ka Oblast)">
+			<state>Ivano-Frankivs ka Oblast</state>
+			<latitude>489277</latitude>
+			<longitude>247177</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivano-Frankovskiy Rayon">
+			<state></state>
+			<latitude>489105</latitude>
+			<longitude>248605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jablonica Pass">
+			<state></state>
+			<latitude>483106</latitude>
+			<longitude>244606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jablonitza -- (State: Ivano-Frankivs ka Oblast)">
+			<state>Ivano-Frankivs ka Oblast</state>
+			<latitude>483264</latitude>
+			<longitude>244950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jablonow">
+			<state></state>
+			<latitude>491606</latitude>
+			<longitude>258773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jablonow -- (State: Ivano-Frankivs ka Oblast)">
+			<state>Ivano-Frankivs ka Oblast</state>
+			<latitude>484139</latitude>
+			<longitude>249598</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jablonowka">
+			<state></state>
+			<latitude>500273</latitude>
+			<longitude>246106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jablunovo">
+			<state></state>
+			<latitude>483939</latitude>
+			<longitude>228773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jadova">
+			<state></state>
+			<latitude>482106</latitude>
+			<longitude>255273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jadwinowka">
+			<state></state>
+			<latitude>505606</latitude>
+			<longitude>249273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jagielnica -- (State: Ternopil s ka Oblast)">
+			<state>Ternopil s ka Oblast</state>
+			<latitude>489534</latitude>
+			<longitude>257498</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jagodin">
+			<state></state>
+			<latitude>512106</latitude>
+			<longitude>239106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaila Geberge">
+			<state></state>
+			<latitude>445439</latitude>
+			<longitude>341273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jakowicze">
+			<state></state>
+			<latitude>507939</latitude>
+			<longitude>245773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jalta -- (State: Krym Avtonomna Respublika)">
+			<state>Krym Avtonomna Respublika</state>
+			<latitude>445106</latitude>
+			<longitude>341773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jamna">
+			<state></state>
+			<latitude>484439</latitude>
+			<longitude>245773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jamne">
+			<state></state>
+			<latitude>500606</latitude>
+			<longitude>244439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Janiewicze">
+			<state></state>
+			<latitude>507106</latitude>
+			<longitude>244106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Janisal">
+			<state></state>
+			<latitude>478439</latitude>
+			<longitude>368439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jankowce">
+			<state></state>
+			<latitude>498106</latitude>
+			<longitude>261439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Janow">
+			<state></state>
+			<latitude>499273</latitude>
+			<longitude>237439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Janowka">
+			<state></state>
+			<latitude>510939</latitude>
+			<longitude>252773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Januszpul -- (State: Zhytomyrs ka Oblast)">
+			<state>Zhytomyrs ka Oblast</state>
+			<latitude>498606</latitude>
+			<longitude>282273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Japoloc">
+			<state></state>
+			<latitude>509939</latitude>
+			<longitude>262773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaremcze -- (State: Ivano-Frankivs ka Oblast)">
+			<state>Ivano-Frankivs ka Oblast</state>
+			<latitude>484689</latitude>
+			<longitude>245625</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaryczow Nowy">
+			<state></state>
+			<latitude>499273</latitude>
+			<longitude>243106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jasien -- (State: Ivano-Frankivs ka Oblast)">
+			<state>Ivano-Frankivs ka Oblast</state>
+			<latitude>487425</latitude>
+			<longitude>241595</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jasienica">
+			<state></state>
+			<latitude>501273</latitude>
+			<longitude>244273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jasienow">
+			<state></state>
+			<latitude>481773</latitude>
+			<longitude>249606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jasina -- (State: Zakarpats ka Oblast)">
+			<state>Zakarpats ka Oblast</state>
+			<latitude>482767</latitude>
+			<longitude>243662</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jasinowka">
+			<state></state>
+			<latitude>509939</latitude>
+			<longitude>249606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jasionka Masiowa">
+			<state></state>
+			<latitude>492106</latitude>
+			<longitude>231773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jasionow">
+			<state></state>
+			<latitude>499773</latitude>
+			<longitude>250606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jastrzebica">
+			<state></state>
+			<latitude>503273</latitude>
+			<longitude>243606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jawora">
+			<state></state>
+			<latitude>492106</latitude>
+			<longitude>230606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaworow">
+			<state></state>
+			<latitude>499439</latitude>
+			<longitude>233939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jazlowiec">
+			<state></state>
+			<latitude>489773</latitude>
+			<longitude>254439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jazow Stary">
+			<state></state>
+			<latitude>499939</latitude>
+			<longitude>234439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jegorlyk Gulf">
+			<state></state>
+			<latitude>464106</latitude>
+			<longitude>318439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jelenowka">
+			<state></state>
+			<latitude>478439</latitude>
+			<longitude>376773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jenowschtsch">
+			<state></state>
+			<latitude>512606</latitude>
+			<longitude>304106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jesupol">
+			<state></state>
+			<latitude>490439</latitude>
+			<longitude>247939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jezierce">
+			<state></state>
+			<latitude>515439</latitude>
+			<longitude>256606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jezierna">
+			<state></state>
+			<latitude>496439</latitude>
+			<longitude>253439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jezierzany -- (State: Ternopil s ka Oblast)">
+			<state>Ternopil s ka Oblast</state>
+			<latitude>488889</latitude>
+			<longitude>259589</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jezierzany">
+			<state></state>
+			<latitude>488106</latitude>
+			<longitude>251106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeziorany">
+			<state></state>
+			<latitude>504606</latitude>
+			<longitude>260439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeziorce">
+			<state></state>
+			<latitude>505773</latitude>
+			<longitude>248106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeziorki">
+			<state></state>
+			<latitude>504106</latitude>
+			<longitude>249773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jezioro">
+			<state></state>
+			<latitude>515106</latitude>
+			<longitude>262273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jezioro Switaz">
+			<state></state>
+			<latitude>515106</latitude>
+			<longitude>238439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeziory">
+			<state></state>
+			<latitude>515773</latitude>
+			<longitude>269273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jibrieni">
+			<state></state>
+			<latitude>455273</latitude>
+			<longitude>296106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jitomir">
+			<state></state>
+			<latitude>502606</latitude>
+			<longitude>286773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Josephberg">
+			<state></state>
+			<latitude>494273</latitude>
+			<longitude>237939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jozefow">
+			<state></state>
+			<latitude>503106</latitude>
+			<longitude>246106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juski">
+			<state></state>
+			<latitude>500939</latitude>
+			<longitude>236606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kefe -- (State: Krym Avtonomna Respublika)">
+			<state>Krym Avtonomna Respublika</state>
+			<latitude>450440</latitude>
+			<longitude>353940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharkiv">
+			<state></state>
+			<latitude>499940</latitude>
+			<longitude>362274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharkov -- (State: Kharkivs ka Oblast)">
+			<state>Kharkivs ka Oblast</state>
+			<latitude>499368</latitude>
+			<longitude>362996</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharkov Northwest -- (State: Kharkivs ka Oblast)">
+			<state>Kharkivs ka Oblast</state>
+			<latitude>500665</latitude>
+			<longitude>362157</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharkov Southeast -- (State: Kharkivs ka Oblast)">
+			<state>Kharkivs ka Oblast</state>
+			<latitude>498935</latitude>
+			<longitude>363940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khaschuv">
+			<state></state>
+			<latitude>492774</latitude>
+			<longitude>227940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khocheva">
+			<state></state>
+			<latitude>510440</latitude>
+			<longitude>300940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiev">
+			<state></state>
+			<latitude>504440</latitude>
+			<longitude>305274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiev Oblast -- (State: Kyyivs ka Oblast)">
+			<state>Kyyivs ka Oblast</state>
+			<latitude>502607</latitude>
+			<longitude>305107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiev-Petrovsky Port">
+			<state></state>
+			<latitude>504774</latitude>
+			<longitude>305274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kikova">
+			<state></state>
+			<latitude>504774</latitude>
+			<longitude>277274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirovograd -- (State: Kirovohrads ka Oblast)">
+			<state>Kirovohrads ka Oblast</state>
+			<latitude>485149</latitude>
+			<longitude>322738</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirovograd Oblast -- (State: Kirovohrads ka Oblast)">
+			<state>Kirovohrads ka Oblast</state>
+			<latitude>485107</latitude>
+			<longitude>320107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Korosten">
+			<state></state>
+			<latitude>509774</latitude>
+			<longitude>286440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Korosten -- (State: Zhytomyrs ka Oblast)">
+			<state>Zhytomyrs ka Oblast</state>
+			<latitude>509607</latitude>
+			<longitude>286607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koshovoy">
+			<state></state>
+			<latitude>475774</latitude>
+			<longitude>334440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kremenchug">
+			<state></state>
+			<latitude>490774</latitude>
+			<longitude>334274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kubey -- (State: Odes ka Oblast)">
+			<state>Odes ka Oblast</state>
+			<latitude>458026</latitude>
+			<longitude>287504</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kukizov">
+			<state></state>
+			<latitude>499440</latitude>
+			<longitude>242774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lokhvitsa -- (State: Poltavs ka Oblast)">
+			<state>Poltavs ka Oblast</state>
+			<latitude>503775</latitude>
+			<longitude>332775</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lugansk -- (State: Luhans ka Oblast)">
+			<state>Luhans ka Oblast</state>
+			<latitude>485775</latitude>
+			<longitude>393441</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lugansk">
+			<state></state>
+			<latitude>473775</latitude>
+			<longitude>371108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luganskaya -- (State: Luhans ka Oblast)">
+			<state>Luhans ka Oblast</state>
+			<latitude>486619</latitude>
+			<longitude>394969</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luganskaya Oblast -- (State: Luhans ka Oblast)">
+			<state>Luhans ka Oblast</state>
+			<latitude>490108</latitude>
+			<longitude>390108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luganskoje -- (State: Donets ka Oblast)">
+			<state>Donets ka Oblast</state>
+			<latitude>484391</latitude>
+			<longitude>382783</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luganskoye">
+			<state></state>
+			<latitude>478941</latitude>
+			<longitude>376941</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lvyv -- (State: L vivs ka Oblast)">
+			<state>L vivs ka Oblast</state>
+			<latitude>498441</latitude>
+			<longitude>240108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mariupol -- (State: Donets ka Oblast)">
+			<state>Donets ka Oblast</state>
+			<latitude>471109</latitude>
+			<longitude>375609</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Melitopol -- (State: Zaporiz ka Oblast)">
+			<state>Zaporiz ka Oblast</state>
+			<latitude>468531</latitude>
+			<longitude>353840</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odessa -- (State: Odes ka Oblast)">
+			<state>Odes ka Oblast</state>
+			<latitude>464778</latitude>
+			<longitude>307444</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odessa">
+			<state></state>
+			<latitude>464778</latitude>
+			<longitude>307611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oktyabr skoye -- (State: Krym Avtonomna Respublika)">
+			<state>Krym Avtonomna Respublika</state>
+			<latitude>453733</latitude>
+			<longitude>363703</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poltava -- (State: Poltavs ka Oblast)">
+			<state>Poltavs ka Oblast</state>
+			<latitude>495945</latitude>
+			<longitude>345779</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poltava -- (State: Kharkivs ka Oblast)">
+			<state>Kharkivs ka Oblast</state>
+			<latitude>500031</latitude>
+			<longitude>375365</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poltava Oblast -- (State: Poltavs ka Oblast)">
+			<state>Poltavs ka Oblast</state>
+			<latitude>495112</latitude>
+			<longitude>340112</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarantine Bay">
+			<state></state>
+			<latitude>446280</latitude>
+			<longitude>335113</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sevastopol -- (State: Sevastopol Misto)">
+			<state>Sevastopol Misto</state>
+			<latitude>446115</latitude>
+			<longitude>335448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Simferopol -- (State: Krym Avtonomna Respublika)">
+			<state>Krym Avtonomna Respublika</state>
+			<latitude>449615</latitude>
+			<longitude>341115</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Simferopol ski Rayon">
+			<state></state>
+			<latitude>450115</latitude>
+			<longitude>340948</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sumy -- (State: Sums ka Oblast)">
+			<state>Sums ka Oblast</state>
+			<latitude>508679</latitude>
+			<longitude>347740</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sumy Northwest -- (State: Sums ka Oblast)">
+			<state>Sums ka Oblast</state>
+			<latitude>509801</latitude>
+			<longitude>347032</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sumy Oblast -- (State: Sums ka Oblast)">
+			<state>Sums ka Oblast</state>
+			<latitude>510115</latitude>
+			<longitude>340115</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ternopil -- (State: Ternopil s ka Oblast)">
+			<state>Ternopil s ka Oblast</state>
+			<latitude>495616</latitude>
+			<longitude>255949</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ternopil s ka Oblast">
+			<state></state>
+			<latitude>495116</latitude>
+			<longitude>255116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vinnitsa -- (State: Vinnyts ka Oblast)">
+			<state>Vinnyts ka Oblast</state>
+			<latitude>492451</latitude>
+			<longitude>284951</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vinnitsa -- (State: Kharkivs ka Oblast)">
+			<state>Kharkivs ka Oblast</state>
+			<latitude>498582</latitude>
+			<longitude>377304</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vinnitsa Oblast -- (State: Vinnyts ka Oblast)">
+			<state>Vinnyts ka Oblast</state>
+			<latitude>490118</latitude>
+			<longitude>290118</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaporizhzhya">
+			<state></state>
+			<latitude>481122</latitude>
+			<longitude>369955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaporozh e -- (State: Zaporiz ka Oblast)">
+			<state>Zaporiz ka Oblast</state>
+			<latitude>478289</latitude>
+			<longitude>351955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

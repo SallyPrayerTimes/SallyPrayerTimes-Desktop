@@ -1,0 +1,390 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Central African Republic">
+		<city name="Bambari">
+			<state></state>
+			<latitude>42265</latitude>
+			<longitude>175931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bambari -- (State: Ouaka)">
+			<state>Ouaka</state>
+			<latitude>57717</latitude>
+			<longitude>206770</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangui">
+			<state></state>
+			<latitude>39431</latitude>
+			<longitude>181431</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangui I">
+			<state></state>
+			<latitude>39098</latitude>
+			<longitude>180265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangui II">
+			<state></state>
+			<latitude>38931</latitude>
+			<longitude>180265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangui Ville">
+			<state></state>
+			<latitude>47598</latitude>
+			<longitude>228265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banguia">
+			<state></state>
+			<latitude>53431</latitude>
+			<longitude>200431</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banguina">
+			<state></state>
+			<latitude>63598</latitude>
+			<longitude>233098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banguinda">
+			<state></state>
+			<latitude>52098</latitude>
+			<longitude>149598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banguiza">
+			<state></state>
+			<latitude>56265</latitude>
+			<longitude>178598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banguizi">
+			<state></state>
+			<latitude>45431</latitude>
+			<longitude>164598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elle">
+			<state></state>
+			<latitude>81434</latitude>
+			<longitude>203934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habo">
+			<state></state>
+			<latitude>51937</latitude>
+			<longitude>158437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habonda">
+			<state></state>
+			<latitude>71771</latitude>
+			<longitude>178104</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamon">
+			<state></state>
+			<latitude>59271</latitude>
+			<longitude>251937</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hota">
+			<state></state>
+			<latitude>71937</latitude>
+			<longitude>165437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabal Kiuku">
+			<state></state>
+			<latitude>87106</latitude>
+			<longitude>240773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebal Gingamba">
+			<state></state>
+			<latitude>82939</latitude>
+			<longitude>242606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Mela">
+			<state></state>
+			<latitude>83606</latitude>
+			<longitude>233106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Mishmira">
+			<state></state>
+			<latitude>96773</latitude>
+			<longitude>237106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Odot">
+			<state></state>
+			<latitude>98273</latitude>
+			<longitude>233439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Rumbukindi">
+			<state></state>
+			<latitude>88606</latitude>
+			<longitude>235606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebel Waga">
+			<state></state>
+			<latitude>89439</latitude>
+			<longitude>234439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jefio">
+			<state></state>
+			<latitude>63773</latitude>
+			<longitude>160273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeme">
+			<state></state>
+			<latitude>63939</latitude>
+			<longitude>150606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jemeala">
+			<state></state>
+			<latitude>53606</latitude>
+			<longitude>157273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jepero">
+			<state></state>
+			<latitude>52106</latitude>
+			<longitude>252439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ji">
+			<state></state>
+			<latitude>64939</latitude>
+			<longitude>154606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimbella">
+			<state></state>
+			<latitude>60439</latitude>
+			<longitude>210606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jofi">
+			<state></state>
+			<latitude>56273</latitude>
+			<longitude>145939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joi">
+			<state></state>
+			<latitude>63939</latitude>
+			<longitude>150106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jojo">
+			<state></state>
+			<latitude>39273</latitude>
+			<longitude>162773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joukonde">
+			<state></state>
+			<latitude>52773</latitude>
+			<longitude>177273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jouli">
+			<state></state>
+			<latitude>61439</latitude>
+			<longitude>160439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joumboro">
+			<state></state>
+			<latitude>46439</latitude>
+			<longitude>179439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joundele">
+			<state></state>
+			<latitude>45606</latitude>
+			<longitude>184606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joussouwa">
+			<state></state>
+			<latitude>44939</latitude>
+			<longitude>181106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jowa">
+			<state></state>
+			<latitude>53439</latitude>
+			<longitude>169606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juli">
+			<state></state>
+			<latitude>45606</latitude>
+			<longitude>169439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramela">
+			<state></state>
+			<latitude>98447</latitude>
+			<longitude>236114</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapides de Zagiro">
+			<state></state>
+			<latitude>46447</latitude>
+			<longitude>227447</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Regbanda">
+			<state></state>
+			<latitude>65781</latitude>
+			<longitude>211281</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Regorombo">
+			<state></state>
+			<latitude>74281</latitude>
+			<longitude>163781</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reserve de Faune de la Yata Ngaya">
+			<state></state>
+			<latitude>92614</latitude>
+			<longitude>235114</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rha">
+			<state></state>
+			<latitude>64781</latitude>
+			<longitude>173947</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhamadame">
+			<state></state>
+			<latitude>62447</latitude>
+			<longitude>249281</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rihici">
+			<state></state>
+			<latitude>78781</latitude>
+			<longitude>176781</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ro">
+			<state></state>
+			<latitude>71447</latitude>
+			<longitude>155114</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roandji">
+			<state></state>
+			<latitude>61947</latitude>
+			<longitude>206947</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rondo">
+			<state></state>
+			<latitude>60781</latitude>
+			<longitude>253614</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roudjimbare">
+			<state></state>
+			<latitude>48281</latitude>
+			<longitude>206447</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roupami">
+			<state></state>
+			<latitude>69614</latitude>
+			<longitude>160281</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uahm">
+			<state></state>
+			<latitude>93117</latitude>
+			<longitude>182450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubangi-Shari">
+			<state></state>
+			<latitude>70117</latitude>
+			<longitude>210117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umm Ladaye">
+			<state></state>
+			<latitude>102284</latitude>
+			<longitude>233950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

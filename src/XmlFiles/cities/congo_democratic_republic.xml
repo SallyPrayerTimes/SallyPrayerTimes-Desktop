@@ -1,0 +1,348 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Congo Democratic Republic">
+		<city name="Beni">
+			<state></state>
+			<latitude>5098</latitude>
+			<longitude>294765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukavu -- (State: Sud-Kivu)">
+			<state>Sud-Kivu</state>
+			<latitude>-24985</latitude>
+			<longitude>288706</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bunia">
+			<state></state>
+			<latitude>15765</latitude>
+			<longitude>302598</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Butembo">
+			<state></state>
+			<latitude>1598</latitude>
+			<longitude>292931</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gbadolite">
+			<state></state>
+			<latitude>42936</latitude>
+			<longitude>210270</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goma">
+			<state></state>
+			<latitude>-53064</latitude>
+			<longitude>144103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goma -- (State: Nord-Kivu)">
+			<state>Nord-Kivu</state>
+			<latitude>-16689</latitude>
+			<longitude>292331</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habula">
+			<state></state>
+			<latitude>-12729</latitude>
+			<longitude>286604</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hama">
+			<state></state>
+			<latitude>-13729</latitude>
+			<longitude>266271</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hembe">
+			<state></state>
+			<latitude>19104</latitude>
+			<longitude>227104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hemptinne">
+			<state></state>
+			<latitude>-62896</latitude>
+			<longitude>225437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hieke">
+			<state></state>
+			<latitude>-26896</latitude>
+			<longitude>240271</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hilahimbi">
+			<state></state>
+			<latitude>-17896</latitude>
+			<longitude>281437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoi-Yagumba">
+			<state></state>
+			<latitude>28937</latitude>
+			<longitude>244771</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hongero">
+			<state></state>
+			<latitude>-32315</latitude>
+			<longitude>291965</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hononene">
+			<state></state>
+			<latitude>-79729</latitude>
+			<longitude>176271</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horo -- (State: Katanga)">
+			<state>Katanga</state>
+			<latitude>-105474</latitude>
+			<longitude>267493</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humba">
+			<state></state>
+			<latitude>-63063</latitude>
+			<longitude>280437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hunde">
+			<state></state>
+			<latitude>-9396</latitude>
+			<longitude>286437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hunga">
+			<state></state>
+			<latitude>-76896</latitude>
+			<longitude>234937</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hurugne">
+			<state></state>
+			<latitude>41771</latitude>
+			<longitude>219104</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huta-Mujima">
+			<state></state>
+			<latitude>-75396</latitude>
+			<longitude>184104</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jilo">
+			<state></state>
+			<latitude>18773</latitude>
+			<longitude>305773</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalemie">
+			<state></state>
+			<latitude>-59226</latitude>
+			<longitude>292107</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamina Base">
+			<state></state>
+			<latitude>-86226</latitude>
+			<longitude>252607</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kananga -- (State: Kasai-Occidental)">
+			<state>Kasai-Occidental</state>
+			<latitude>-58851</latitude>
+			<longitude>224285</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kananga">
+			<state></state>
+			<latitude>-71393</latitude>
+			<longitude>270440</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanyabayonga -- (State: Nord-Kivu)">
+			<state>Nord-Kivu</state>
+			<latitude>-7004</latitude>
+			<longitude>291838</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kindu">
+			<state></state>
+			<latitude>-29393</latitude>
+			<longitude>259607</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kingulo">
+			<state></state>
+			<latitude>-66726</latitude>
+			<longitude>172940</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinshasa">
+			<state></state>
+			<latitude>-43190</latitude>
+			<longitude>153257</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinshasa Federal District -- (State: Kinshasa)">
+			<state>Kinshasa</state>
+			<latitude>-44893</latitude>
+			<longitude>155107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kisangani">
+			<state></state>
+			<latitude>-48171</latitude>
+			<longitude>289263</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kisangani -- (State: Orientale)">
+			<state>Orientale</state>
+			<latitude>5274</latitude>
+			<longitude>252107</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kolwezi -- (State: Katanga)">
+			<state>Katanga</state>
+			<latitude>-107060</latitude>
+			<longitude>254832</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Likasi -- (State: Katanga)">
+			<state>Katanga</state>
+			<latitude>-109706</latitude>
+			<longitude>267441</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lisala">
+			<state></state>
+			<latitude>21608</latitude>
+			<longitude>215275</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luambashi">
+			<state></state>
+			<latitude>-89892</latitude>
+			<longitude>276108</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lubero -- (State: Nord-Kivu)">
+			<state>Nord-Kivu</state>
+			<latitude>-1517</latitude>
+			<longitude>292316</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lubumbashi">
+			<state></state>
+			<latitude>-117059</latitude>
+			<longitude>274941</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahagi">
+			<state></state>
+			<latitude>23109</latitude>
+			<longitude>309942</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matadi">
+			<state></state>
+			<latitude>-58058</latitude>
+			<longitude>134609</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mbandaka">
+			<state></state>
+			<latitude>776</latitude>
+			<longitude>182776</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mbuji-Mayi">
+			<state></state>
+			<latitude>-60224</latitude>
+			<longitude>237776</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muanda">
+			<state></state>
+			<latitude>-59224</latitude>
+			<longitude>123609</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quedas Guilherme">
+			<state></state>
+			<latitude>-76887</latitude>
+			<longitude>173113</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tshikapa">
+			<state></state>
+			<latitude>-64051</latitude>
+			<longitude>208116</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uvira -- (State: Sud-Kivu)">
+			<state>Sud-Kivu</state>
+			<latitude>-33950</latitude>
+			<longitude>291575</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uvira">
+			<state></state>
+			<latitude>-33080</latitude>
+			<longitude>291856</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

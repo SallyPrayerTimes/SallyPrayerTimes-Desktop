@@ -1,0 +1,747 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Slovenia">
+		<city name="Aidussina">
+			<state></state>
+			<latitude>458972</latitude>
+			<longitude>139208</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ajba">
+			<state></state>
+			<latitude>461147</latitude>
+			<longitude>136558</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ajdovscina">
+			<state></state>
+			<latitude>459166</latitude>
+			<longitude>139383</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Also-Bisztricze">
+			<state></state>
+			<latitude>465497</latitude>
+			<longitude>162983</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Antignano">
+			<state></state>
+			<latitude>455719</latitude>
+			<longitude>138447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Artice">
+			<state></state>
+			<latitude>459636</latitude>
+			<longitude>155975</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Artuise">
+			<state></state>
+			<latitude>456225</latitude>
+			<longitude>140403</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Auzza">
+			<state></state>
+			<latitude>461105</latitude>
+			<longitude>136700</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azenski Vrh">
+			<state></state>
+			<latitude>466597</latitude>
+			<longitude>159764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bledsko Jezero">
+			<state></state>
+			<latitude>463737</latitude>
+			<longitude>141067</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elsane">
+			<state></state>
+			<latitude>455129</latitude>
+			<longitude>142818</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Equile Lipizzano">
+			<state></state>
+			<latitude>456773</latitude>
+			<longitude>138926</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eriacci">
+			<state></state>
+			<latitude>455998</latitude>
+			<longitude>141101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erjavceva Koca">
+			<state></state>
+			<latitude>464415</latitude>
+			<longitude>137520</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erjavec">
+			<state></state>
+			<latitude>464023</latitude>
+			<longitude>148162</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ermanovec">
+			<state></state>
+			<latitude>461137</latitude>
+			<longitude>140748</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erpelle">
+			<state></state>
+			<latitude>456173</latitude>
+			<longitude>139529</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erzelj">
+			<state></state>
+			<latitude>458429</latitude>
+			<longitude>139204</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faal">
+			<state></state>
+			<latitude>465541</latitude>
+			<longitude>154574</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fara">
+			<state></state>
+			<latitude>454869</latitude>
+			<longitude>148885</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fazan">
+			<state></state>
+			<latitude>455163</latitude>
+			<longitude>136058</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Feistritz Bach">
+			<state></state>
+			<latitude>466102</latitude>
+			<longitude>151769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Felsobesztercze">
+			<state></state>
+			<latitude>465769</latitude>
+			<longitude>162769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Felsolakos">
+			<state></state>
+			<latitude>465633</latitude>
+			<longitude>164283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Felsolendva">
+			<state></state>
+			<latitude>468102</latitude>
+			<longitude>161102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fijesa">
+			<state></state>
+			<latitude>455346</latitude>
+			<longitude>135919</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fleana">
+			<state></state>
+			<latitude>460066</latitude>
+			<longitude>135110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ianezevo Brdo">
+			<state></state>
+			<latitude>456188</latitude>
+			<longitude>141627</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Idresca d Isonzo">
+			<state></state>
+			<latitude>462422</latitude>
+			<longitude>136013</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Idria della Baccia">
+			<state></state>
+			<latitude>461505</latitude>
+			<longitude>137902</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Idrija">
+			<state></state>
+			<latitude>461552</latitude>
+			<longitude>137783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Idrijski Log">
+			<state></state>
+			<latitude>459633</latitude>
+			<longitude>140436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ig-Studenec">
+			<state></state>
+			<latitude>459708</latitude>
+			<longitude>145394</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iljasevci">
+			<state></state>
+			<latitude>465849</latitude>
+			<longitude>161411</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imeno">
+			<state></state>
+			<latitude>461424</latitude>
+			<longitude>156122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irje">
+			<state></state>
+			<latitude>462605</latitude>
+			<longitude>156438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iska">
+			<state></state>
+			<latitude>459344</latitude>
+			<longitude>145202</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iska Vas">
+			<state></state>
+			<latitude>459505</latitude>
+			<longitude>145205</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivancna Gorica">
+			<state></state>
+			<latitude>459488</latitude>
+			<longitude>148149</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanfalva">
+			<state></state>
+			<latitude>466808</latitude>
+			<longitude>161086</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanje Selo">
+			<state></state>
+			<latitude>458452</latitude>
+			<longitude>143088</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanjsevski Vrh">
+			<state></state>
+			<latitude>466313</latitude>
+			<longitude>159744</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izica">
+			<state></state>
+			<latitude>460272</latitude>
+			<longitude>145272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izlake">
+			<state></state>
+			<latitude>461605</latitude>
+			<longitude>149605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izola">
+			<state></state>
+			<latitude>455474</latitude>
+			<longitude>136724</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izsakocz">
+			<state></state>
+			<latitude>465994</latitude>
+			<longitude>162316</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izvir">
+			<state></state>
+			<latitude>458605</latitude>
+			<longitude>155605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jesenice">
+			<state></state>
+			<latitude>459828</latitude>
+			<longitude>151495</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kocevje">
+			<state></state>
+			<latitude>456410</latitude>
+			<longitude>149176</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kranj">
+			<state></state>
+			<latitude>462518</latitude>
+			<longitude>143724</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljubljana">
+			<state></state>
+			<latitude>462386</latitude>
+			<longitude>144669</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljubljana Marsh">
+			<state></state>
+			<latitude>459936</latitude>
+			<longitude>144547</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljubljana-Bezigrad">
+			<state></state>
+			<latitude>460941</latitude>
+			<longitude>145441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljubljana-Center">
+			<state></state>
+			<latitude>460608</latitude>
+			<longitude>145441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljubljana-Moste-Polje">
+			<state></state>
+			<latitude>460775</latitude>
+			<longitude>146275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljubljana-Polje">
+			<state></state>
+			<latitude>460775</latitude>
+			<longitude>145941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljubljana-Siska">
+			<state></state>
+			<latitude>461775</latitude>
+			<longitude>144441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ljubljana-Vic-Rudnik">
+			<state></state>
+			<latitude>460441</latitude>
+			<longitude>144275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maribor">
+			<state></state>
+			<latitude>465656</latitude>
+			<longitude>156576</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maribor-Pobrezje -- (State: Duplek)">
+			<state>Duplek</state>
+			<latitude>465265</latitude>
+			<longitude>157809</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maribor-Tabor">
+			<state></state>
+			<latitude>465173</latitude>
+			<longitude>156187</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nova Gorica">
+			<state></state>
+			<latitude>459724</latitude>
+			<longitude>136546</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Polzela">
+			<state></state>
+			<latitude>462945</latitude>
+			<longitude>150779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rakitnik">
+			<state></state>
+			<latitude>457583</latitude>
+			<longitude>142056</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Republika Slovenija">
+			<state></state>
+			<latitude>462614</latitude>
+			<longitude>151781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trzic">
+			<state></state>
+			<latitude>463958</latitude>
+			<longitude>143352</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Udje">
+			<state></state>
+			<latitude>459381</latitude>
+			<longitude>146170</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uhk">
+			<state></state>
+			<latitude>461823</latitude>
+			<longitude>145214</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ujkokenyes">
+			<state></state>
+			<latitude>467784</latitude>
+			<longitude>162117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ujtolgyes">
+			<state></state>
+			<latitude>466839</latitude>
+			<longitude>162203</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulaka">
+			<state></state>
+			<latitude>458423</latitude>
+			<longitude>146295</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unec">
+			<state></state>
+			<latitude>458273</latitude>
+			<longitude>143056</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter Feising">
+			<state></state>
+			<latitude>466117</latitude>
+			<longitude>152617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Drauburg">
+			<state></state>
+			<latitude>465998</latitude>
+			<longitude>150309</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unter-Limbach">
+			<state></state>
+			<latitude>465731</latitude>
+			<longitude>164623</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unteridria">
+			<state></state>
+			<latitude>460436</latitude>
+			<longitude>140389</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unz">
+			<state></state>
+			<latitude>458803</latitude>
+			<longitude>142664</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urabtsche">
+			<state></state>
+			<latitude>457881</latitude>
+			<longitude>139711</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urdomb">
+			<state></state>
+			<latitude>467450</latitude>
+			<longitude>162784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urh">
+			<state></state>
+			<latitude>460617</latitude>
+			<longitude>145950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uriszek">
+			<state></state>
+			<latitude>467748</latitude>
+			<longitude>162523</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursina">
+			<state></state>
+			<latitude>462367</latitude>
+			<longitude>136614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursna Sela">
+			<state></state>
+			<latitude>457450</latitude>
+			<longitude>151450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursula Berg">
+			<state></state>
+			<latitude>464950</latitude>
+			<longitude>149784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Usklopec">
+			<state></state>
+			<latitude>458284</latitude>
+			<longitude>156617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uskoken Gebirge">
+			<state></state>
+			<latitude>457617</latitude>
+			<longitude>153450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ustje">
+			<state></state>
+			<latitude>458836</latitude>
+			<longitude>139059</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uttoglie">
+			<state></state>
+			<latitude>457656</latitude>
+			<longitude>138950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uvala Dragonja">
+			<state></state>
+			<latitude>454950</latitude>
+			<longitude>135950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uvala Fisine">
+			<state></state>
+			<latitude>455175</latitude>
+			<longitude>136073</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Velenje">
+			<state></state>
+			<latitude>463710</latitude>
+			<longitude>151221</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wach-Berg">
+			<state></state>
+			<latitude>460786</latitude>
+			<longitude>154452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weitenstein">
+			<state></state>
+			<latitude>463936</latitude>
+			<longitude>153077</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weixelburg">
+			<state></state>
+			<latitude>459658</latitude>
+			<longitude>147572</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Widem">
+			<state></state>
+			<latitude>465830</latitude>
+			<longitude>160352</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wigaun">
+			<state></state>
+			<latitude>458300</latitude>
+			<longitude>143941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windisch-Feistritz">
+			<state></state>
+			<latitude>464047</latitude>
+			<longitude>155863</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windische Buheln">
+			<state></state>
+			<latitude>465952</latitude>
+			<longitude>159286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windischgraz">
+			<state></state>
+			<latitude>465222</latitude>
+			<longitude>150925</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wochein">
+			<state></state>
+			<latitude>463452</latitude>
+			<longitude>140952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wochein Feistritz">
+			<state></state>
+			<latitude>462888</latitude>
+			<longitude>139669</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woditz">
+			<state></state>
+			<latitude>462119</latitude>
+			<longitude>145119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woiska">
+			<state></state>
+			<latitude>460369</latitude>
+			<longitude>139186</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woschza">
+			<state></state>
+			<latitude>465119</latitude>
+			<longitude>138286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wuchern">
+			<state></state>
+			<latitude>466066</latitude>
+			<longitude>152494</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wurzener Save">
+			<state></state>
+			<latitude>463619</latitude>
+			<longitude>141619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

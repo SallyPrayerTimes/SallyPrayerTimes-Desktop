@@ -1,0 +1,1440 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bhutan">
+		<city name="Alla">
+			<state></state>
+			<latitude>273597</latitude>
+			<longitude>899764</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ama">
+			<state></state>
+			<latitude>273597</latitude>
+			<longitude>899097</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atsho Chhubar -- (State: Paro)">
+			<state>Paro</state>
+			<latitude>274930</latitude>
+			<longitude>894097</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bali">
+			<state></state>
+			<latitude>272265</latitude>
+			<longitude>907265</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benkar -- (State: Tashigang)">
+			<state>Tashigang</state>
+			<latitude>273265</latitude>
+			<longitude>915765</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bhangbarai">
+			<state></state>
+			<latitude>272765</latitude>
+			<longitude>903098</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bhangtar -- (State: Samdrup)">
+			<state>Samdrup</state>
+			<latitude>268265</latitude>
+			<longitude>917265</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bhurgaon">
+			<state></state>
+			<latitude>269098</latitude>
+			<longitude>904431</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bigar Chu">
+			<state></state>
+			<latitude>275598</latitude>
+			<longitude>911931</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bioka">
+			<state></state>
+			<latitude>269098</latitude>
+			<longitude>909265</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bod">
+			<state></state>
+			<latitude>280431</latitude>
+			<longitude>912265</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Borshang">
+			<state></state>
+			<latitude>277098</latitude>
+			<longitude>895598</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bumtang -- (State: Bumthang)">
+			<state>Bumthang</state>
+			<latitude>275598</latitude>
+			<longitude>907265</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bumtang River">
+			<state></state>
+			<latitude>269431</latitude>
+			<longitude>908598</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bumtang Tang">
+			<state></state>
+			<latitude>276098</latitude>
+			<longitude>908265</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bumthang">
+			<state></state>
+			<latitude>277098</latitude>
+			<longitude>907931</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buri Chu">
+			<state></state>
+			<latitude>270098</latitude>
+			<longitude>902265</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chendebi">
+			<state></state>
+			<latitude>274599</latitude>
+			<longitude>903432</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daga">
+			<state></state>
+			<latitude>270767</latitude>
+			<longitude>898933</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daifam -- (State: Samdrup)">
+			<state>Samdrup</state>
+			<latitude>269100</latitude>
+			<longitude>921100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daina River">
+			<state></state>
+			<latitude>266767</latitude>
+			<longitude>889100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dam">
+			<state></state>
+			<latitude>271267</latitude>
+			<longitude>897767</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damotse -- (State: Mongar)">
+			<state>Mongar</state>
+			<latitude>273100</latitude>
+			<longitude>914600</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damphu -- (State: Chirang)">
+			<state>Chirang</state>
+			<latitude>270267</latitude>
+			<longitude>901100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Damthang -- (State: Ha)">
+			<state>Ha</state>
+			<latitude>274267</latitude>
+			<longitude>893600</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dangan La">
+			<state></state>
+			<latitude>271433</latitude>
+			<longitude>920433</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daphu">
+			<state></state>
+			<latitude>269767</latitude>
+			<longitude>893933</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dawakha -- (State: Punakha)">
+			<state>Punakha</state>
+			<latitude>276767</latitude>
+			<longitude>899267</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Denehukha">
+			<state></state>
+			<latitude>270267</latitude>
+			<longitude>892600</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dewangiri -- (State: Samdrup)">
+			<state>Samdrup</state>
+			<latitude>268767</latitude>
+			<longitude>914767</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhaje">
+			<state></state>
+			<latitude>269767</latitude>
+			<longitude>901267</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dichenphuk Dzong">
+			<state></state>
+			<latitude>275600</latitude>
+			<longitude>896100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dogsar">
+			<state></state>
+			<latitude>279600</latitude>
+			<longitude>910433</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Domka">
+			<state></state>
+			<latitude>270767</latitude>
+			<longitude>910767</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Donga La">
+			<state></state>
+			<latitude>275600</latitude>
+			<longitude>912933</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Donkar">
+			<state></state>
+			<latitude>276100</latitude>
+			<longitude>911933</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dooars">
+			<state></state>
+			<latitude>267600</latitude>
+			<longitude>897600</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doring">
+			<state></state>
+			<latitude>272100</latitude>
+			<longitude>892100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorkha -- (State: Samchi)">
+			<state>Samchi</state>
+			<latitude>270267</latitude>
+			<longitude>892267</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doronagaon">
+			<state></state>
+			<latitude>268433</latitude>
+			<longitude>898267</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dotanang">
+			<state></state>
+			<latitude>275933</latitude>
+			<longitude>896433</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Drugyel Dzong -- (State: Paro)">
+			<state>Paro</state>
+			<latitude>275100</latitude>
+			<longitude>893433</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Druk-yul">
+			<state></state>
+			<latitude>275100</latitude>
+			<longitude>905100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dukye Dzong">
+			<state></state>
+			<latitude>275267</latitude>
+			<longitude>893267</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duna Dzong -- (State: Chhukha)">
+			<state>Chhukha</state>
+			<latitude>270433</latitude>
+			<longitude>894100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gag La">
+			<state></state>
+			<latitude>279936</latitude>
+			<longitude>912103</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galechugaon">
+			<state></state>
+			<latitude>273603</latitude>
+			<longitude>915603</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gangtey Gonpa -- (State: Wangdi Phodrang)">
+			<state>Wangdi Phodrang</state>
+			<latitude>275103</latitude>
+			<longitude>901770</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gasa Dzong -- (State: Punakha)">
+			<state>Punakha</state>
+			<latitude>279270</latitude>
+			<longitude>896936</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gasila">
+			<state></state>
+			<latitude>273436</latitude>
+			<longitude>898103</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Getta Dzong">
+			<state></state>
+			<latitude>272603</latitude>
+			<longitude>894103</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geylegphug">
+			<state></state>
+			<latitude>269603</latitude>
+			<longitude>905103</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghunkarah">
+			<state></state>
+			<latitude>274103</latitude>
+			<longitude>915770</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Giala">
+			<state></state>
+			<latitude>273770</latitude>
+			<longitude>899770</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gnimthenla">
+			<state></state>
+			<latitude>269103</latitude>
+			<longitude>898603</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gong La">
+			<state></state>
+			<latitude>280103</latitude>
+			<longitude>911936</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gong Ri">
+			<state></state>
+			<latitude>262270</latitude>
+			<longitude>906436</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gongchuandgaon">
+			<state></state>
+			<latitude>270436</latitude>
+			<longitude>904436</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gonphu">
+			<state></state>
+			<latitude>270936</latitude>
+			<longitude>907770</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gye Che">
+			<state></state>
+			<latitude>276770</latitude>
+			<longitude>892270</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyepozhing -- (State: Mongar)">
+			<state>Mongar</state>
+			<latitude>271936</latitude>
+			<longitude>911770</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ha Chhu">
+			<state></state>
+			<latitude>272437</latitude>
+			<longitude>895104</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ha Dzong -- (State: Ha)">
+			<state>Ha</state>
+			<latitude>273771</latitude>
+			<longitude>892937</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ha Dzongkhag -- (State: Ha)">
+			<state>Ha</state>
+			<latitude>273437</latitude>
+			<longitude>891937</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haracha">
+			<state></state>
+			<latitude>271937</latitude>
+			<longitude>900437</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hatisar -- (State: Geylegphug)">
+			<state>Geylegphug</state>
+			<latitude>268604</latitude>
+			<longitude>905104</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hi Chu">
+			<state></state>
+			<latitude>272771</latitude>
+			<longitude>914604</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hilari">
+			<state></state>
+			<latitude>274104</latitude>
+			<longitude>889937</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Himachal">
+			<state></state>
+			<latitude>300104</latitude>
+			<longitude>800104</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jakar -- (State: Bumthang)">
+			<state>Bumthang</state>
+			<latitude>275606</latitude>
+			<longitude>907439</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaldakha Chhu">
+			<state></state>
+			<latitude>262773</latitude>
+			<longitude>892773</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jato La">
+			<state></state>
+			<latitude>275939</latitude>
+			<longitude>896773</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jelep La Pass">
+			<state></state>
+			<latitude>273773</latitude>
+			<longitude>888606</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jomolhari -- (State: Paro)">
+			<state>Paro</state>
+			<latitude>278439</latitude>
+			<longitude>892773</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumsa -- (State: Samchi)">
+			<state>Samchi</state>
+			<latitude>271106</latitude>
+			<longitude>888939</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kagha">
+			<state></state>
+			<latitude>275440</latitude>
+			<longitude>904774</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalikhola -- (State: Geylegphug)">
+			<state>Geylegphug</state>
+			<latitude>267274</latitude>
+			<longitude>908607</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kangpar">
+			<state></state>
+			<latitude>271774</latitude>
+			<longitude>917440</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kapi Dzong">
+			<state></state>
+			<latitude>276607</latitude>
+			<longitude>898107</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kar Chung La">
+			<state></state>
+			<latitude>280774</latitude>
+			<longitude>906440</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kechangka">
+			<state></state>
+			<latitude>274274</latitude>
+			<longitude>892607</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kencho">
+			<state></state>
+			<latitude>277607</latitude>
+			<longitude>897274</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kenga">
+			<state></state>
+			<latitude>271107</latitude>
+			<longitude>912607</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kengkhar La">
+			<state></state>
+			<latitude>271274</latitude>
+			<longitude>912440</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khar">
+			<state></state>
+			<latitude>270107</latitude>
+			<longitude>913607</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khenpa Dzong -- (State: Lhuntshi)">
+			<state>Lhuntshi</state>
+			<latitude>278274</latitude>
+			<longitude>910940</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kulong Chhu">
+			<state></state>
+			<latitude>274607</latitude>
+			<longitude>916107</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kungtar">
+			<state></state>
+			<latitude>275440</latitude>
+			<longitude>910607</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kur">
+			<state></state>
+			<latitude>270440</latitude>
+			<longitude>910774</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kura">
+			<state></state>
+			<latitude>282440</latitude>
+			<longitude>906107</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurjey -- (State: Bumthang)">
+			<state>Bumthang</state>
+			<latitude>276274</latitude>
+			<longitude>907107</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyapcha Dzong -- (State: Chhukha)">
+			<state>Chhukha</state>
+			<latitude>272107</latitude>
+			<longitude>895607</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyikyi La">
+			<state></state>
+			<latitude>275107</latitude>
+			<longitude>907274</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyu La">
+			<state></state>
+			<latitude>274440</latitude>
+			<longitude>891107</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lalai -- (State: Geylegphug)">
+			<state>Geylegphug</state>
+			<latitude>267941</latitude>
+			<longitude>905275</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamedada">
+			<state></state>
+			<latitude>269608</latitude>
+			<longitude>901441</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamidangra -- (State: Chirang)">
+			<state>Chirang</state>
+			<latitude>269775</latitude>
+			<longitude>901108</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lao">
+			<state></state>
+			<latitude>278275</latitude>
+			<longitude>915108</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laya -- (State: Punakha)">
+			<state>Punakha</state>
+			<latitude>280775</latitude>
+			<longitude>896941</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lhedang -- (State: Bumthang)">
+			<state>Bumthang</state>
+			<latitude>279275</latitude>
+			<longitude>907608</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lhobrak River">
+			<state></state>
+			<latitude>275108</latitude>
+			<longitude>911108</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lhuntshi Dzongkhag -- (State: Lhuntshi)">
+			<state>Lhuntshi</state>
+			<latitude>277608</latitude>
+			<longitude>911941</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lhuntsi Dzong -- (State: Lhuntshi)">
+			<state>Lhuntshi</state>
+			<latitude>276608</latitude>
+			<longitude>911608</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lingshi -- (State: Thimphu)">
+			<state>Thimphu</state>
+			<latitude>279275</latitude>
+			<longitude>894441</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Louri">
+			<state></state>
+			<latitude>271108</latitude>
+			<longitude>919441</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lunana -- (State: Punakha)">
+			<state>Punakha</state>
+			<latitude>280608</latitude>
+			<longitude>901775</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lung Chen">
+			<state></state>
+			<latitude>276441</latitude>
+			<longitude>901941</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mangde Chhu">
+			<state></state>
+			<latitude>268776</latitude>
+			<longitude>909609</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mill La">
+			<state></state>
+			<latitude>271942</latitude>
+			<longitude>908776</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Momai Thang">
+			<state></state>
+			<latitude>269276</latitude>
+			<longitude>898609</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mongar">
+			<state></state>
+			<latitude>272609</latitude>
+			<longitude>912109</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monka">
+			<state></state>
+			<latitude>273942</latitude>
+			<longitude>911776</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mount Gipmochi">
+			<state></state>
+			<latitude>272776</latitude>
+			<longitude>889609</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nab Chote">
+			<state></state>
+			<latitude>275943</latitude>
+			<longitude>904443</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngalangkang">
+			<state></state>
+			<latitude>274610</latitude>
+			<longitude>915943</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nganglam -- (State: Samdrup)">
+			<state>Samdrup</state>
+			<latitude>267943</latitude>
+			<longitude>912610</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nyuksang La">
+			<state></state>
+			<latitude>274610</latitude>
+			<longitude>919110</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ohemaito">
+			<state></state>
+			<latitude>275111</latitude>
+			<longitude>902944</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orka">
+			<state></state>
+			<latitude>274278</latitude>
+			<longitude>920278</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pachu">
+			<state></state>
+			<latitude>269112</latitude>
+			<longitude>893612</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pagladiya Nad">
+			<state></state>
+			<latitude>266112</latitude>
+			<longitude>915112</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pajo">
+			<state></state>
+			<latitude>275445</latitude>
+			<longitude>898945</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pang La">
+			<state></state>
+			<latitude>277612</latitude>
+			<longitude>912112</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pangolakha">
+			<state></state>
+			<latitude>272112</latitude>
+			<longitude>887945</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Panka -- (State: Shemgang)">
+			<state>Shemgang</state>
+			<latitude>269612</latitude>
+			<longitude>908279</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pantang River">
+			<state></state>
+			<latitude>268779</latitude>
+			<longitude>927279</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paro">
+			<state></state>
+			<latitude>274445</latitude>
+			<longitude>894279</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pho Chhu">
+			<state></state>
+			<latitude>276945</latitude>
+			<longitude>898945</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phyen La">
+			<state></state>
+			<latitude>279612</latitude>
+			<longitude>894445</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pumo La">
+			<state></state>
+			<latitude>274612</latitude>
+			<longitude>895779</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punakha">
+			<state></state>
+			<latitude>276279</latitude>
+			<longitude>898779</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Radi -- (State: Tashigang)">
+			<state>Tashigang</state>
+			<latitude>273781</latitude>
+			<longitude>916947</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rading">
+			<state></state>
+			<latitude>269781</latitude>
+			<longitude>914781</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raga">
+			<state></state>
+			<latitude>273114</latitude>
+			<longitude>895447</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ragna Khola">
+			<state></state>
+			<latitude>268947</latitude>
+			<longitude>900281</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapley">
+			<state></state>
+			<latitude>271114</latitude>
+			<longitude>892947</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rife">
+			<state></state>
+			<latitude>278947</latitude>
+			<longitude>905281</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ritang">
+			<state></state>
+			<latitude>275614</latitude>
+			<longitude>901781</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rudong La">
+			<state></state>
+			<latitude>275947</latitude>
+			<longitude>909114</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rungzyung">
+			<state></state>
+			<latitude>273614</latitude>
+			<longitude>916781</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sage La">
+			<state></state>
+			<latitude>274782</latitude>
+			<longitude>892948</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saidu">
+			<state></state>
+			<latitude>278448</latitude>
+			<longitude>909448</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sakdon -- (State: Tashigang)">
+			<state>Tashigang</state>
+			<latitude>273948</latitude>
+			<longitude>918782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sama River">
+			<state></state>
+			<latitude>268115</latitude>
+			<longitude>899948</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samchi">
+			<state></state>
+			<latitude>268782</latitude>
+			<longitude>891115</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samchi Dzongkhag -- (State: Samchi)">
+			<state>Samchi</state>
+			<latitude>270448</latitude>
+			<longitude>890948</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samdrup -- (State: Tongsa)">
+			<state>Tongsa</state>
+			<latitude>274115</latitude>
+			<longitude>905115</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samdrup Jongkhar -- (State: Samdrup)">
+			<state>Samdrup</state>
+			<latitude>268282</latitude>
+			<longitude>915782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samdrup Jongkhar Dzongkhag -- (State: Samdrup)">
+			<state>Samdrup</state>
+			<latitude>269282</latitude>
+			<longitude>916282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samtengang">
+			<state></state>
+			<latitude>275448</latitude>
+			<longitude>900115</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanchi">
+			<state></state>
+			<latitude>273115</latitude>
+			<longitude>906282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sangkari">
+			<state></state>
+			<latitude>273115</latitude>
+			<longitude>893282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sarbhang -- (State: Geylegphug)">
+			<state>Geylegphug</state>
+			<latitude>268782</latitude>
+			<longitude>902782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sasoka">
+			<state></state>
+			<latitude>277615</latitude>
+			<longitude>908782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sassi">
+			<state></state>
+			<latitude>271448</latitude>
+			<longitude>914448</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sawaphu">
+			<state></state>
+			<latitude>273782</latitude>
+			<longitude>902115</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sela La -- (State: Ha)">
+			<state>Ha</state>
+			<latitude>272448</latitude>
+			<longitude>892782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shabling">
+			<state></state>
+			<latitude>277448</latitude>
+			<longitude>911282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shali">
+			<state></state>
+			<latitude>274948</latitude>
+			<longitude>915782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shangong Dzong -- (State: Shemgang)">
+			<state>Shemgang</state>
+			<latitude>272448</latitude>
+			<longitude>906615</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shapang">
+			<state></state>
+			<latitude>276615</latitude>
+			<longitude>914782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sharitang">
+			<state></state>
+			<latitude>274282</latitude>
+			<longitude>890282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shegaria">
+			<state></state>
+			<latitude>276782</latitude>
+			<longitude>900115</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shemgang Dzongkhag -- (State: Shemgang)">
+			<state>Shemgang</state>
+			<latitude>270948</latitude>
+			<longitude>908615</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shingkarap">
+			<state></state>
+			<latitude>276282</latitude>
+			<longitude>892782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shiuji">
+			<state></state>
+			<latitude>271782</latitude>
+			<longitude>890282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shodug">
+			<state></state>
+			<latitude>277782</latitude>
+			<longitude>894615</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shongar Dzong -- (State: Mongar)">
+			<state>Mongar</state>
+			<latitude>272615</latitude>
+			<longitude>910948</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shuri">
+			<state></state>
+			<latitude>275115</latitude>
+			<longitude>907615</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sibsu -- (State: Daga)">
+			<state>Daga</state>
+			<latitude>270087</latitude>
+			<longitude>889115</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Simu Dzong">
+			<state></state>
+			<latitude>273948</latitude>
+			<longitude>896115</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sinchu La">
+			<state></state>
+			<latitude>267948</latitude>
+			<longitude>895948</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singur">
+			<state></state>
+			<latitude>273782</latitude>
+			<longitude>910282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singye Dzong -- (State: Lhuntshi)">
+			<state>Lhuntshi</state>
+			<latitude>279282</latitude>
+			<longitude>913615</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sintoka Dzong">
+			<state></state>
+			<latitude>274448</latitude>
+			<longitude>896782</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sirkim La">
+			<state></state>
+			<latitude>273115</latitude>
+			<longitude>918282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sombe Dzong -- (State: Ha)">
+			<state>Ha</state>
+			<latitude>271782</latitude>
+			<longitude>890948</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suchha">
+			<state></state>
+			<latitude>272448</latitude>
+			<longitude>894615</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sufali">
+			<state></state>
+			<latitude>268782</latitude>
+			<longitude>909948</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taga La">
+			<state></state>
+			<latitude>272116</latitude>
+			<longitude>897449</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tala">
+			<state></state>
+			<latitude>268783</latitude>
+			<longitude>895783</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamjee">
+			<state></state>
+			<latitude>276783</latitude>
+			<longitude>899116</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamji">
+			<state></state>
+			<latitude>278116</latitude>
+			<longitude>896449</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tashigang Dzongkhag -- (State: Tashigang)">
+			<state>Tashigang</state>
+			<latitude>273449</latitude>
+			<longitude>917449</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tawang Chu">
+			<state></state>
+			<latitude>275116</latitude>
+			<longitude>917116</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tendu">
+			<state></state>
+			<latitude>271449</latitude>
+			<longitude>888949</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thebong">
+			<state></state>
+			<latitude>272783</latitude>
+			<longitude>912783</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thimphu">
+			<state></state>
+			<latitude>274949</latitude>
+			<longitude>896116</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tima">
+			<state></state>
+			<latitude>271783</latitude>
+			<longitude>890449</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tongsa Dzong -- (State: Tongsa)">
+			<state>Tongsa</state>
+			<latitude>273616</latitude>
+			<longitude>905449</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Torsa Chhu">
+			<state></state>
+			<latitude>268783</latitude>
+			<longitude>893783</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tosumani">
+			<state></state>
+			<latitude>278783</latitude>
+			<longitude>912449</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trashi Chhodzong">
+			<state></state>
+			<latitude>274949</latitude>
+			<longitude>896283</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ura -- (State: Bumthang)">
+			<state>Bumthang</state>
+			<latitude>274284</latitude>
+			<longitude>909284</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ura Dzong">
+			<state></state>
+			<latitude>274450</latitude>
+			<longitude>908950</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ura La">
+			<state></state>
+			<latitude>274617</latitude>
+			<longitude>908617</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usak">
+			<state></state>
+			<latitude>272617</latitude>
+			<longitude>897784</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wagya La">
+			<state></state>
+			<latitude>282952</latitude>
+			<longitude>898952</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wamrong -- (State: Tashigang)">
+			<state>Tashigang</state>
+			<latitude>270786</latitude>
+			<longitude>915786</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wangdi Phodrang">
+			<state></state>
+			<latitude>275119</latitude>
+			<longitude>901452</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wangdiphodrang -- (State: Wangdi Phodrang)">
+			<state>Wangdi Phodrang</state>
+			<latitude>274952</latitude>
+			<longitude>899119</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalang">
+			<state></state>
+			<latitude>274454</latitude>
+			<longitude>916454</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeb La">
+			<state></state>
+			<latitude>277454</latitude>
+			<longitude>912121</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuwak">
+			<state></state>
+			<latitude>275288</latitude>
+			<longitude>898788</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarafi">
+			<state></state>
+			<latitude>271622</latitude>
+			<longitude>906955</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

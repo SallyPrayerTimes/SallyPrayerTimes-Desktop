@@ -1,0 +1,1363 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Tunisia">
+		<city name="Akouda -- (State: Susah)">
+			<state>Susah</state>
+			<latitude>358805</latitude>
+			<longitude>105780</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Argoub el Caid -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>365403</latitude>
+			<longitude>103183</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ariana -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>368722</latitude>
+			<longitude>102053</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beja -- (State: Bajah)">
+			<state>Bajah</state>
+			<latitude>367431</latitude>
+			<longitude>91931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bekalta -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>356265</latitude>
+			<longitude>110098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ben Arous -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>367629</latitude>
+			<longitude>102287</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beni Hassan -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>355765</latitude>
+			<longitude>108265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beni Khalled">
+			<state></state>
+			<latitude>366598</latitude>
+			<longitude>106098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bizerta -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>372842</latitude>
+			<longitude>98837</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bizerta Channel">
+			<state></state>
+			<latitude>372765</latitude>
+			<longitude>98931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bou Arada">
+			<state></state>
+			<latitude>363598</latitude>
+			<longitude>96265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bou Salem -- (State: Jundubah)">
+			<state>Jundubah</state>
+			<latitude>366195</latitude>
+			<longitude>89812</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dar Chabanne">
+			<state></state>
+			<latitude>364794</latitude>
+			<longitude>107611</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djerba -- (State: Madanin)">
+			<state>Madanin</state>
+			<latitude>338847</latitude>
+			<longitude>108692</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Douz -- (State: Qibili)">
+			<state>Qibili</state>
+			<latitude>334675</latitude>
+			<longitude>90317</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Alia">
+			<state></state>
+			<latitude>371768</latitude>
+			<longitude>100434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Borma">
+			<state></state>
+			<latitude>316768</latitude>
+			<longitude>91268</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Borma -- (State: Tatawin)">
+			<state>Tatawin</state>
+			<latitude>316768</latitude>
+			<longitude>91434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Hamma -- (State: Qabis)">
+			<state>Qabis</state>
+			<latitude>339101</latitude>
+			<longitude>98101</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elles -- (State: Kef)">
+			<state>Kef</state>
+			<latitude>359598</latitude>
+			<longitude>91107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ez Zahra -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>367562</latitude>
+			<longitude>103184</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gabes -- (State: Qabis)">
+			<state>Qabis</state>
+			<latitude>338936</latitude>
+			<longitude>101270</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gabes Gulf -- (State: Qabis)">
+			<state>Qabis</state>
+			<latitude>340103</latitude>
+			<longitude>104270</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gafsa -- (State: Qafsah)">
+			<state>Qafsah</state>
+			<latitude>344353</latitude>
+			<longitude>87945</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gammarth">
+			<state></state>
+			<latitude>369103</latitude>
+			<longitude>103270</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghomrassen -- (State: Tatawin)">
+			<state>Tatawin</state>
+			<latitude>330697</latitude>
+			<longitude>103503</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grombalia -- (State: Nabul)">
+			<state>Nabul</state>
+			<latitude>366100</latitude>
+			<longitude>105100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guermessa -- (State: Tatawin)">
+			<state>Tatawin</state>
+			<latitude>329936</latitude>
+			<longitude>102603</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hammam Sousse -- (State: Susah)">
+			<state>Susah</state>
+			<latitude>358693</latitude>
+			<longitude>106043</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hammam-Lif -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>367435</latitude>
+			<longitude>103465</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hammamet">
+			<state></state>
+			<latitude>364104</latitude>
+			<longitude>106271</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igharghar">
+			<state></state>
+			<latitude>300105</latitude>
+			<longitude>70105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Chergui -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>347438</latitude>
+			<longitude>112438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Chermedia -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>347772</latitude>
+			<longitude>112105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Conigliera -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>357772</latitude>
+			<longitude>110272</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile de Thapsus -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>356497</latitude>
+			<longitude>110508</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile el Ennf -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>357438</latitude>
+			<longitude>108438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile el K bira -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>372388</latitude>
+			<longitude>98072</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile er Regardia -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>348438</latitude>
+			<longitude>112938</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Galite -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>375377</latitude>
+			<longitude>89466</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Galiton">
+			<state></state>
+			<latitude>375086</latitude>
+			<longitude>88886</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Gharbi -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>346586</latitude>
+			<longitude>110558</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Gremdi -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>347658</latitude>
+			<longitude>113316</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Pilau">
+			<state></state>
+			<latitude>372105</latitude>
+			<longitude>102605</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Plane">
+			<state></state>
+			<latitude>371924</latitude>
+			<longitude>103416</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Roumadia -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>348338</latitude>
+			<longitude>113261</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Sefnou -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>348077</latitude>
+			<longitude>112338</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Shikli -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>368280</latitude>
+			<longitude>102291</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Tabarca">
+			<state></state>
+			<latitude>369749</latitude>
+			<longitude>87724</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Zembra">
+			<state></state>
+			<latitude>371438</latitude>
+			<longitude>108105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile Zembretta">
+			<state></state>
+			<latitude>371272</latitude>
+			<longitude>108938</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iles des Chiens">
+			<state></state>
+			<latitude>375658</latitude>
+			<longitude>89677</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iles el Hadj Hamida -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>347772</latitude>
+			<longitude>113605</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iles Kerkenna -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>347686</latitude>
+			<longitude>110791</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iles Kuriat -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>358105</latitude>
+			<longitude>110438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot d El Mensof -- (State: Qibili)">
+			<state>Qibili</state>
+			<latitude>339105</latitude>
+			<longitude>85438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Djilli -- (State: Madanin)">
+			<state>Madanin</state>
+			<latitude>336055</latitude>
+			<longitude>108774</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Guettaia -- (State: Madanin)">
+			<state>Madanin</state>
+			<latitude>337405</latitude>
+			<longitude>107263</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilot Kneiss -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>343772</latitude>
+			<longitude>103272</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilots de Biban -- (State: Madanin)">
+			<state>Madanin</state>
+			<latitude>332605</latitude>
+			<longitude>113105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilwat al Banat -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>347447</latitude>
+			<longitude>104388</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilwat al Qunnah -- (State: Madanin)">
+			<state>Madanin</state>
+			<latitude>331605</latitude>
+			<longitude>114772</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irebaou -- (State: Sidi Bu Zayd)">
+			<state>Sidi Bu Zayd</state>
+			<latitude>350105</latitude>
+			<longitude>96772</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq adh Dhira` -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>351105</latitude>
+			<longitude>104938</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq al Anania">
+			<state></state>
+			<latitude>325938</latitude>
+			<longitude>90105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq al Jana in -- (State: Tatawin)">
+			<state>Tatawin</state>
+			<latitude>317427</latitude>
+			<longitude>99138</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq al Leguine -- (State: Tatawin)">
+			<state>Tatawin</state>
+			<latitude>328605</latitude>
+			<longitude>109438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq al Mabtuh">
+			<state></state>
+			<latitude>324772</latitude>
+			<longitude>113772</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq al Makhzan -- (State: Tatawin)">
+			<state>Tatawin</state>
+			<latitude>321438</latitude>
+			<longitude>108272</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq al Mayyit -- (State: Tatawin)">
+			<state>Tatawin</state>
+			<latitude>324605</latitude>
+			<longitude>106438</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq al `Ajibah -- (State: Qibili)">
+			<state>Qibili</state>
+			<latitude>333938</latitude>
+			<longitude>87605</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq an Nisa -- (State: Madanin)">
+			<state>Madanin</state>
+			<latitude>332722</latitude>
+			<longitude>107399</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irq Ghadabinah -- (State: Al Mahdiyah)">
+			<state>Al Mahdiyah</state>
+			<latitude>353105</latitude>
+			<longitude>110772</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jammal -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>356439</latitude>
+			<longitude>107773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jendouba -- (State: Jundubah)">
+			<state>Jundubah</state>
+			<latitude>365117</latitude>
+			<longitude>87900</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kairouan -- (State: Al Qayrawan)">
+			<state>Al Qayrawan</state>
+			<latitude>356851</latitude>
+			<longitude>101124</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kasserine -- (State: Al Qasrayn)">
+			<state>Al Qasrayn</state>
+			<latitude>351779</latitude>
+			<longitude>88396</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kebili -- (State: Qibili)">
+			<state>Qibili</state>
+			<latitude>337126</latitude>
+			<longitude>89843</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kef">
+			<state></state>
+			<latitude>361929</latitude>
+			<longitude>87254</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kelibia">
+			<state></state>
+			<latitude>368607</latitude>
+			<longitude>111107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Korba">
+			<state></state>
+			<latitude>365893</latitude>
+			<longitude>108693</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ksar Hellal -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>356607</latitude>
+			<longitude>109107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ksour Essaf -- (State: Al Mahdiyah)">
+			<state>Al Mahdiyah</state>
+			<latitude>354310</latitude>
+			<longitude>110088</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahdia -- (State: Al Mahdiyah)">
+			<state>Al Mahdiyah</state>
+			<latitude>355156</latitude>
+			<longitude>110731</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahres -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>345384</latitude>
+			<longitude>105117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manouba -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>368187</latitude>
+			<longitude>101120</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marsa -- (State: Madanin)">
+			<state>Madanin</state>
+			<latitude>337067</latitude>
+			<longitude>107451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marsa">
+			<state></state>
+			<latitude>368442</latitude>
+			<longitude>111109</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medenine -- (State: Madanin)">
+			<state>Madanin</state>
+			<latitude>333656</latitude>
+			<longitude>105162</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medjez el Bab">
+			<state></state>
+			<latitude>366609</latitude>
+			<longitude>96276</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Megrine Lescure -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>367845</latitude>
+			<longitude>102348</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Menzel Bourguiba -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>371667</latitude>
+			<longitude>98045</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Methouia -- (State: Qabis)">
+			<state>Qabis</state>
+			<latitude>339776</latitude>
+			<longitude>100109</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Metlaoui -- (State: Qafsah)">
+			<state>Qafsah</state>
+			<latitude>343442</latitude>
+			<longitude>84109</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moknine -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>356442</latitude>
+			<longitude>109109</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monastir -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>357942</latitude>
+			<longitude>108442</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Msaken -- (State: Susah)">
+			<state>Susah</state>
+			<latitude>357442</latitude>
+			<longitude>105942</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nabeul -- (State: Nabul)">
+			<state>Nabul</state>
+			<latitude>364610</latitude>
+			<longitude>107443</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakhlat al Ghuwaybah -- (State: Qibili)">
+			<state>Qibili</state>
+			<latitude>337777</latitude>
+			<longitude>86110</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nassene -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>367149</latitude>
+			<longitude>102443</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nassene Sghira -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>367188</latitude>
+			<longitude>102310</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nefta -- (State: Tawzar)">
+			<state>Tawzar</state>
+			<latitude>338852</latitude>
+			<longitude>78907</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nefza">
+			<state></state>
+			<latitude>371174</latitude>
+			<longitude>90429</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nibbar -- (State: Kef)">
+			<state>Kef</state>
+			<latitude>363018</latitude>
+			<longitude>87677</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouail -- (State: Qibili)">
+			<state>Qibili</state>
+			<latitude>335021</latitude>
+			<longitude>88741</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parc du Belvedere -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>368337</latitude>
+			<longitude>101845</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pavilliers -- (State: Al Qayrawan)">
+			<state>Al Qayrawan</state>
+			<latitude>354445</latitude>
+			<longitude>98612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pecherie">
+			<state></state>
+			<latitude>372645</latitude>
+			<longitude>98506</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petite Ile Cani">
+			<state></state>
+			<latitude>373612</latitude>
+			<longitude>101279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phare de Thyna -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>346640</latitude>
+			<longitude>106976</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pichon -- (State: Al Qayrawan)">
+			<state>Al Qayrawan</state>
+			<latitude>356462</latitude>
+			<longitude>96881</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plain of Soliman">
+			<state></state>
+			<latitude>366779</latitude>
+			<longitude>105112</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine de Jaffra -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>369051</latitude>
+			<longitude>102115</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine de La Merdja">
+			<state></state>
+			<latitude>365612</latitude>
+			<longitude>89779</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine de Mornag -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>366737</latitude>
+			<longitude>102862</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine de Quballat -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>365445</latitude>
+			<longitude>96779</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine de Soukka -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>368918</latitude>
+			<longitude>102345</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine des Nefza">
+			<state></state>
+			<latitude>370112</latitude>
+			<longitude>90612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine des Zouarines -- (State: Kef)">
+			<state>Kef</state>
+			<latitude>360112</latitude>
+			<longitude>88945</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine du Sers -- (State: Kef)">
+			<state>Kef</state>
+			<latitude>359859</latitude>
+			<longitude>90723</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateau de Msila -- (State: Al Qasrayn)">
+			<state>Al Qasrayn</state>
+			<latitude>348779</latitude>
+			<longitude>83945</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Carouba">
+			<state></state>
+			<latitude>372612</latitude>
+			<longitude>98445</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Cebra">
+			<state></state>
+			<latitude>372779</latitude>
+			<longitude>98779</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe de la Lagune -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>372268</latitude>
+			<longitude>97987</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe de la Madone">
+			<state></state>
+			<latitude>375279</latitude>
+			<longitude>89445</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe de Sirog">
+			<state></state>
+			<latitude>375401</latitude>
+			<longitude>89726</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe des Aiguilles">
+			<state></state>
+			<latitude>369779</latitude>
+			<longitude>87612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe des Chiens">
+			<state></state>
+			<latitude>375523</latitude>
+			<longitude>89573</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe du Caid -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>371737</latitude>
+			<longitude>98218</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe du Chacal">
+			<state></state>
+			<latitude>372445</latitude>
+			<longitude>98279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe du Condor">
+			<state></state>
+			<latitude>371612</latitude>
+			<longitude>98279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe du Douali">
+			<state></state>
+			<latitude>373279</latitude>
+			<longitude>98779</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe du Palmier">
+			<state></state>
+			<latitude>372612</latitude>
+			<longitude>98612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe el Kosseine -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>371509</latitude>
+			<longitude>98529</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe El Menara">
+			<state></state>
+			<latitude>372445</latitude>
+			<longitude>98612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe el Ouali -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>371604</latitude>
+			<longitude>98954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Safsaf -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>372373</latitude>
+			<longitude>99051</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Tinjani -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>371893</latitude>
+			<longitude>97981</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe Viville -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>372212</latitude>
+			<longitude>97973</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Polastro">
+			<state></state>
+			<latitude>375612</latitude>
+			<longitude>89612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pont-de-Trajan">
+			<state></state>
+			<latitude>366445</latitude>
+			<longitude>92279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pont-du-Fahs -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>363781</latitude>
+			<longitude>99162</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ponty Bay">
+			<state></state>
+			<latitude>372645</latitude>
+			<longitude>98537</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port de Peche -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>350373</latitude>
+			<longitude>110220</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Porto Farina -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>371779</latitude>
+			<longitude>101945</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poste d El Gountass -- (State: Al Qayrawan)">
+			<state>Al Qayrawan</state>
+			<latitude>356562</latitude>
+			<longitude>99420</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poste d el Onk -- (State: Susah)">
+			<state>Susah</state>
+			<latitude>357056</latitude>
+			<longitude>104504</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poste de Lessouda -- (State: Sidi Bu Zayd)">
+			<state>Sidi Bu Zayd</state>
+			<latitude>351112</latitude>
+			<longitude>95479</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Potinville -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>367070</latitude>
+			<longitude>103976</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Presqu ile de Monastir -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>357779</latitude>
+			<longitude>108445</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Presqu ile du Cap Bon">
+			<state></state>
+			<latitude>367612</latitude>
+			<longitude>107612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Presqu ile Khedime -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>343279</latitude>
+			<longitude>101779</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Protville -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>370034</latitude>
+			<longitude>100731</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puits de Guergour -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>346531</latitude>
+			<longitude>106779</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rades -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>367795</latitude>
+			<longitude>102867</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rafraf">
+			<state></state>
+			<latitude>371947</latitude>
+			<longitude>101947</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Regueb -- (State: Sidi Bu Zayd)">
+			<state>Sidi Bu Zayd</state>
+			<latitude>348781</latitude>
+			<longitude>97947</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sfax -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>347521</latitude>
+			<longitude>107718</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sfax Roadstead -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>347282</latitude>
+			<longitude>108282</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Alluan -- (State: Al Mahdiyah)">
+			<state>Al Mahdiyah</state>
+			<latitude>353948</latitude>
+			<longitude>109448</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Bou Ali -- (State: Susah)">
+			<state>Susah</state>
+			<latitude>359682</latitude>
+			<longitude>104846</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Bouzid -- (State: Sidi Bu Zayd)">
+			<state>Sidi Bu Zayd</state>
+			<latitude>350518</latitude>
+			<longitude>95051</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Daoud -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>368754</latitude>
+			<longitude>103201</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Naija -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>355615</latitude>
+			<longitude>108782</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siliana -- (State: Silyanah)">
+			<state>Silyanah</state>
+			<latitude>360948</latitude>
+			<longitude>93782</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Skhira -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>342948</latitude>
+			<longitude>101115</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soliman -- (State: Nabul)">
+			<state>Nabul</state>
+			<latitude>367079</latitude>
+			<longitude>105032</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Souassi">
+			<state></state>
+			<latitude>355815</latitude>
+			<longitude>102798</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sousse -- (State: Susah)">
+			<state>Susah</state>
+			<latitude>358371</latitude>
+			<longitude>106526</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tabarka -- (State: Jundubah)">
+			<state>Jundubah</state>
+			<latitude>369660</latitude>
+			<longitude>87697</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tadjerouine -- (State: Kef)">
+			<state>Kef</state>
+			<latitude>359030</latitude>
+			<longitude>85672</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tataouine -- (State: Tatawin)">
+			<state>Tatawin</state>
+			<latitude>329449</latitude>
+			<longitude>104616</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teboulba -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>356616</latitude>
+			<longitude>109783</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tebourba -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>368513</latitude>
+			<longitude>98449</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tozeur -- (State: Tawzar)">
+			<state>Tawzar</state>
+			<latitude>339322</latitude>
+			<longitude>81449</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tunis">
+			<state></state>
+			<latitude>340116</latitude>
+			<longitude>90116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tunis -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>368144</latitude>
+			<longitude>101913</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tunis and Banlieue -- (State: Tunis)">
+			<state>Tunis</state>
+			<latitude>367783</latitude>
+			<longitude>101449</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tunis Lake -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>368310</latitude>
+			<longitude>102585</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tunis-La Goulette Canal">
+			<state></state>
+			<latitude>368116</latitude>
+			<longitude>102949</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tunis-Sud">
+			<state></state>
+			<latitude>362616</latitude>
+			<longitude>95116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tunisian Dorsal">
+			<state></state>
+			<latitude>358449</latitude>
+			<longitude>94283</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valbreton -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>351143</latitude>
+			<longitude>101471</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Ghardimaou -- (State: Jundubah)">
+			<state>Jundubah</state>
+			<latitude>364479</latitude>
+			<longitude>84396</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Port">
+			<state></state>
+			<latitude>372907</latitude>
+			<longitude>98876</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villa Fontana -- (State: Banzart)">
+			<state>Banzart</state>
+			<latitude>370301</latitude>
+			<longitude>96799</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villa Gandolfe -- (State: Susah)">
+			<state>Susah</state>
+			<latitude>358762</latitude>
+			<longitude>106237</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villejacques -- (State: (TS26))">
+			<state>(TS26)</state>
+			<latitude>368704</latitude>
+			<longitude>101279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xiebah -- (State: Al Munastir)">
+			<state>Al Munastir</state>
+			<latitude>356953</latitude>
+			<longitude>108620</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xsieba -- (State: Susah)">
+			<state>Susah</state>
+			<latitude>357817</latitude>
+			<longitude>106401</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamouna -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>348585</latitude>
+			<longitude>104224</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yongha -- (State: Safaqis)">
+			<state>Safaqis</state>
+			<latitude>344788</latitude>
+			<longitude>104288</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaghouan -- (State: Zaghwan)">
+			<state>Zaghwan</state>
+			<latitude>364122</latitude>
+			<longitude>101622</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarzis -- (State: Madanin)">
+			<state>Madanin</state>
+			<latitude>335122</latitude>
+			<longitude>111289</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

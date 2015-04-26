@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Brunei Darussalam">
+		<city name="Abana Rock">
+			<state></state>
+			<latitude>51097</latitude>
+			<longitude>1150764</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anak Sungai Babi">
+			<state></state>
+			<latitude>45597</latitude>
+			<longitude>1152430</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anduki Airport">
+			<state></state>
+			<latitude>46430</latitude>
+			<longitude>1143930</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arur Birau">
+			<state></state>
+			<latitude>46930</latitude>
+			<longitude>1151930</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arur Lepaku">
+			<state></state>
+			<latitude>46597</latitude>
+			<longitude>1152430</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aur Labai">
+			<state></state>
+			<latitude>47097</latitude>
+			<longitude>1151930</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aur Payong">
+			<state></state>
+			<latitude>46764</latitude>
+			<longitude>1152097</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bandar Seri Begawan">
+			<state></state>
+			<latitude>48931</latitude>
+			<longitude>1149431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belait District">
+			<state></state>
+			<latitude>44265</latitude>
+			<longitude>1145931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Berakas Forest Reserve">
+			<state></state>
+			<latitude>49931</latitude>
+			<longitude>1149265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brunei">
+			<state></state>
+			<latitude>49598</latitude>
+			<longitude>1149598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brunei and Muara District">
+			<state></state>
+			<latitude>48431</latitude>
+			<longitude>1149265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brunei Bay">
+			<state></state>
+			<latitude>50931</latitude>
+			<longitude>1153098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brunei Darussalam">
+			<state></state>
+			<latitude>45098</latitude>
+			<longitude>1146765</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="China Sea">
+			<state></state>
+			<latitude>150099</latitude>
+			<longitude>1150099</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cowie Hill">
+			<state></state>
+			<latitude>50432</latitude>
+			<longitude>1150599</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danau">
+			<state></state>
+			<latitude>47767</latitude>
+			<longitude>1145933</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dangar">
+			<state></state>
+			<latitude>46767</latitude>
+			<longitude>1145933</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gadong Estate">
+			<state></state>
+			<latitude>49270</latitude>
+			<longitude>1149103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gunong Suang">
+			<state></state>
+			<latitude>46603</latitude>
+			<longitude>1152603</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Istana Darul Hana">
+			<state></state>
+			<latitude>48938</latitude>
+			<longitude>1149272</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaja Ridge">
+			<state></state>
+			<latitude>49273</latitude>
+			<longitude>1150106</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerudong">
+			<state></state>
+			<latitude>49606</latitude>
+			<longitude>1148606</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kampong Lumapas">
+			<state></state>
+			<latitude>48607</latitude>
+			<longitude>1149274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Balai">
+			<state></state>
+			<latitude>44607</latitude>
+			<longitude>1143274</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuala Belait">
+			<state></state>
+			<latitude>45940</latitude>
+			<longitude>1141940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lambak">
+			<state></state>
+			<latitude>49775</latitude>
+			<longitude>1149608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lubok Sukang">
+			<state></state>
+			<latitude>44275</latitude>
+			<longitude>1146108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lugu">
+			<state></state>
+			<latitude>48941</latitude>
+			<longitude>1148108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malasia">
+			<state></state>
+			<latitude>109</latitude>
+			<longitude>1200109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melilas">
+			<state></state>
+			<latitude>42442</latitude>
+			<longitude>1146776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muara">
+			<state></state>
+			<latitude>50442</latitude>
+			<longitude>1150776</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muara Spit">
+			<state></state>
+			<latitude>50609</latitude>
+			<longitude>1151442</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nong Kelulau">
+			<state></state>
+			<latitude>47443</latitude>
+			<longitude>1146610</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Panaga">
+			<state></state>
+			<latitude>46112</latitude>
+			<longitude>1142945</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulo Burbunot">
+			<state></state>
+			<latitude>48945</latitude>
+			<longitude>1150445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pulo Kitana">
+			<state></state>
+			<latitude>48945</latitude>
+			<longitude>1151112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rambai">
+			<state></state>
+			<latitude>46447</latitude>
+			<longitude>1146614</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rampayoh">
+			<state></state>
+			<latitude>43947</latitude>
+			<longitude>1144614</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasau">
+			<state></state>
+			<latitude>45614</latitude>
+			<longitude>1142281</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Relalong River">
+			<state></state>
+			<latitude>45614</latitude>
+			<longitude>1151447</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rumah Supon">
+			<state></state>
+			<latitude>44947</latitude>
+			<longitude>1147947</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sengkurong">
+			<state></state>
+			<latitude>48948</latitude>
+			<longitude>1148448</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seria">
+			<state></state>
+			<latitude>46282</latitude>
+			<longitude>1143282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sungai Mau">
+			<state></state>
+			<latitude>45615</latitude>
+			<longitude>1144948</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tutong">
+			<state></state>
+			<latitude>48116</latitude>
+			<longitude>1146616</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tutong District">
+			<state></state>
+			<latitude>45949</latitude>
+			<longitude>1146783</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukong">
+			<state></state>
+			<latitude>46784</latitude>
+			<longitude>1146450</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

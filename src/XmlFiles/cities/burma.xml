@@ -1,0 +1,1636 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Burma">
+		<city name="Agadaung -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>210597</latitude>
+			<longitude>928264</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agadwin -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>194930</latitude>
+			<longitude>936430</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agat -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>165764</latitude>
+			<longitude>953264</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agayan -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>166097</latitude>
+			<longitude>953430</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agetu -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>271930</latitude>
+			<longitude>984597</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agywezidonbweywa -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>210097</latitude>
+			<longitude>926430</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akyab -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>201597</latitude>
+			<longitude>929097</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akyab District -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>205097</latitude>
+			<longitude>930097</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arakan State -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>190097</latitude>
+			<longitude>942597</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bassein -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>167931</latitude>
+			<longitude>947431</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buthedaung -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>208765</latitude>
+			<longitude>925431</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Campbell Island">
+			<state></state>
+			<latitude>131266</latitude>
+			<longitude>983266</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Centre Peak -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>188099</latitude>
+			<longitude>936432</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clara Island">
+			<state></state>
+			<latitude>109099</latitude>
+			<longitude>979266</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clyde Island">
+			<state></state>
+			<latitude>121432</latitude>
+			<longitude>979932</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clyde Point">
+			<state></state>
+			<latitude>130932</latitude>
+			<longitude>983266</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coco Group">
+			<state></state>
+			<latitude>140932</latitude>
+			<longitude>933099</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cone Island">
+			<state></state>
+			<latitude>127932</latitude>
+			<longitude>985432</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Corbin Island">
+			<state></state>
+			<latitude>124932</latitude>
+			<longitude>981599</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cradle Rocks">
+			<state></state>
+			<latitude>141766</latitude>
+			<longitude>978932</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crawford Shoal -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>164932</latitude>
+			<longitude>942099</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Creek Point -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>165932</latitude>
+			<longitude>962932</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Criddles Island">
+			<state></state>
+			<latitude>120266</latitude>
+			<longitude>979932</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crow Island">
+			<state></state>
+			<latitude>165099</latitude>
+			<longitude>976266</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cupola Island">
+			<state></state>
+			<latitude>98099</latitude>
+			<longitude>981932</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cutters Patch -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>184932</latitude>
+			<longitude>939266</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cypress Point -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>207099</latitude>
+			<longitude>923932</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="E-mu -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>200268</latitude>
+			<longitude>969934</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Spur">
+			<state></state>
+			<latitude>122601</latitude>
+			<longitude>977934</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastern Sand -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>164434</latitude>
+			<longitude>964101</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egani">
+			<state></state>
+			<latitude>143601</latitude>
+			<longitude>981268</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egayit -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>174768</latitude>
+			<longitude>965934</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egayit -- (State: (BM07))">
+			<state>(BM07)</state>
+			<latitude>195601</latitude>
+			<longitude>953101</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egayitpin -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>170768</latitude>
+			<longitude>961768</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egyi Adet -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>194434</latitude>
+			<longitude>962934</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ehti Taung -- (State: Kayin State)">
+			<state>Kayin State</state>
+			<latitude>155268</latitude>
+			<longitude>980934</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eintami -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>168268</latitude>
+			<longitude>951601</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eka -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>208434</latitude>
+			<longitude>964101</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emun -- (State: Bago)">
+			<state>Bago</state>
+			<latitude>169807</latitude>
+			<longitude>967376</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eng-po -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>220768</latitude>
+			<longitude>968268</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Errawaddy">
+			<state></state>
+			<latitude>158434</latitude>
+			<longitude>951101</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Escape Bay">
+			<state></state>
+			<latitude>123101</latitude>
+			<longitude>980268</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eswa -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>215434</latitude>
+			<longitude>959268</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Et -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>222101</latitude>
+			<longitude>972101</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Et-et">
+			<state></state>
+			<latitude>133268</latitude>
+			<longitude>985268</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Et-et Chaung">
+			<state></state>
+			<latitude>133101</latitude>
+			<longitude>985101</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etga -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>239101</latitude>
+			<longitude>954768</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etgyi -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>234101</latitude>
+			<longitude>968768</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etkyi -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>231268</latitude>
+			<longitude>953768</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ettaw -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>221768</latitude>
+			<longitude>951768</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falam District -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>229269</latitude>
+			<longitude>936935</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="False Peak">
+			<state></state>
+			<latitude>123769</latitude>
+			<longitude>979935</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="False Rock -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>186269</latitude>
+			<longitude>938935</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanow -- (State: (BM07))">
+			<state>(BM07)</state>
+			<latitude>204435</latitude>
+			<longitude>942602</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fell Passage">
+			<state></state>
+			<latitude>123269</latitude>
+			<longitude>983602</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fen-shui-ling-ya K ou">
+			<state></state>
+			<latitude>258269</latitude>
+			<longitude>986769</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fengshuipo -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>240435</latitude>
+			<longitude>986269</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feronica Crossing">
+			<state></state>
+			<latitude>162769</latitude>
+			<longitude>976269</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fisher Bay">
+			<state></state>
+			<latitude>130935</latitude>
+			<longitude>983102</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fitzwilliam Island -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>194269</latitude>
+			<longitude>936435</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flat Island Spit -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>201769</latitude>
+			<longitude>929602</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flatt Island -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>186269</latitude>
+			<longitude>937935</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fletcher Island">
+			<state></state>
+			<latitude>118102</latitude>
+			<longitude>976602</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Harrison -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>253769</latitude>
+			<longitude>978935</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Morton -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>250435</latitude>
+			<longitude>977102</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Stedman -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>205935</latitude>
+			<longitude>969602</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort White -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>232435</latitude>
+			<longitude>937935</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foul Island -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>180769</latitude>
+			<longitude>940935</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foul Point -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>202769</latitude>
+			<longitude>927602</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freak Island">
+			<state></state>
+			<latitude>126935</latitude>
+			<longitude>978935</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frederick Island -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>198102</latitude>
+			<longitude>934102</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="French Bay">
+			<state></state>
+			<latitude>126269</latitude>
+			<longitude>984102</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fytche Point -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>160602</latitude>
+			<longitude>944102</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghura Gomti -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>181103</latitude>
+			<longitude>966436</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gifford Island">
+			<state></state>
+			<latitude>126603</latitude>
+			<longitude>982103</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Girah -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>181603</latitude>
+			<longitude>965936</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Glohng Kra">
+			<state></state>
+			<latitude>99770</latitude>
+			<longitude>985936</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Glohng Kum">
+			<state></state>
+			<latitude>107103</latitude>
+			<longitude>987936</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hmawbi -- (State: Yangon)">
+			<state>Yangon</state>
+			<latitude>164643</latitude>
+			<longitude>961376</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hmawbi -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>163604</latitude>
+			<longitude>959437</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hmawbi -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>171104</latitude>
+			<longitude>960437</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hmawbi -- (State: Mon State)">
+			<state>Mon State</state>
+			<latitude>166479</latitude>
+			<longitude>976226</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hmawbi Chaung -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>169937</latitude>
+			<longitude>960437</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hmawbi Chaung -- (State: Mon State)">
+			<state>Mon State</state>
+			<latitude>166385</latitude>
+			<longitude>976229</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hmawbiywathit -- (State: Mon State)">
+			<state>Mon State</state>
+			<latitude>166662</latitude>
+			<longitude>976107</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Idi Hka -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>264105</latitude>
+			<longitude>966105</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imaw Bum -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>261772</latitude>
+			<longitude>984772</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Immi -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>251438</latitude>
+			<longitude>969438</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Immortality Point">
+			<state></state>
+			<latitude>131105</latitude>
+			<longitude>983272</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Impawkon -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>204605</latitude>
+			<longitude>969105</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imphal River">
+			<state></state>
+			<latitude>228772</latitude>
+			<longitude>940938</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jack Island">
+			<state></state>
+			<latitude>118606</latitude>
+			<longitude>983106</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jagrem -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>253439</latitude>
+			<longitude>947439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jagun -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>265606</latitude>
+			<longitude>964273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jahtung -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>241273</latitude>
+			<longitude>976439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jahtungbum -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>245939</latitude>
+			<longitude>970273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaipur -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>185606</latitude>
+			<longitude>964439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaiwa Ga -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>259773</latitude>
+			<longitude>968939</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jakhai -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>243773</latitude>
+			<longitude>975773</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jaliapara -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>207273</latitude>
+			<longitude>923606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamali Chaung">
+			<state></state>
+			<latitude>105439</latitude>
+			<longitude>984939</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamaw -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>254273</latitude>
+			<longitude>963106</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="James Island -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>195439</latitude>
+			<longitude>935439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamlon Hka -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>256106</latitude>
+			<longitude>964606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jampaw -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>261773</latitude>
+			<longitude>982439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamu Bum -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>260106</latitude>
+			<longitude>966773</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jane Island">
+			<state></state>
+			<latitude>113773</latitude>
+			<longitude>980273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangdau -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>241273</latitude>
+			<longitude>976273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janhtang -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>262773</latitude>
+			<longitude>960439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janhtang Bum -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>262606</latitude>
+			<longitude>960439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janhtang Ga -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>265439</latitude>
+			<longitude>966439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janmai -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>242773</latitude>
+			<longitude>976606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janmai Pum -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>253439</latitude>
+			<longitude>961273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janmaigahtawng -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>255606</latitude>
+			<longitude>966439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janpan -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>259273</latitude>
+			<longitude>969273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Japalu -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>271106</latitude>
+			<longitude>983606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarakawng -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>258273</latitude>
+			<longitude>972606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jasewala -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>271606</latitude>
+			<longitude>984439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jat Ga -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>262773</latitude>
+			<longitude>966773</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jatung Ga -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>264439</latitude>
+			<longitude>966939</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jawang -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>257106</latitude>
+			<longitude>962439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jawmaw -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>244939</latitude>
+			<longitude>974773</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeang -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>240939</latitude>
+			<longitude>972606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeikchaung -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>199606</latitude>
+			<longitude>938106</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jekau -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>243606</latitude>
+			<longitude>976939</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jenkins Island">
+			<state></state>
+			<latitude>110439</latitude>
+			<longitude>986773</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jergo Island -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>188106</latitude>
+			<longitude>939773</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiangao Shan">
+			<state></state>
+			<latitude>255273</latitude>
+			<longitude>981439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jichai Hka -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>267939</latitude>
+			<longitude>958273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jigawng -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>273106</latitude>
+			<longitude>985939</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jih-tung Ho">
+			<state></state>
+			<latitude>276939</latitude>
+			<longitude>980439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jill Hka -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>266939</latitude>
+			<longitude>957773</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Island">
+			<state></state>
+			<latitude>127439</latitude>
+			<longitude>985939</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johnny Island">
+			<state></state>
+			<latitude>123773</latitude>
+			<longitude>982273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johns Island -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>197606</latitude>
+			<longitude>934606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Julia Island">
+			<state></state>
+			<latitude>123439</latitude>
+			<longitude>982606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Julian Island">
+			<state></state>
+			<latitude>118606</latitude>
+			<longitude>984439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jum Ga -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>258939</latitude>
+			<longitude>972606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jum Ga -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>267106</latitude>
+			<longitude>961273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jum Hka -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>263439</latitude>
+			<longitude>976606</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumgahtawng -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>254939</latitude>
+			<longitude>966106</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumja -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>267106</latitude>
+			<longitude>983273</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jusai -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>238606</latitude>
+			<longitude>973106</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juwa -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>258106</latitude>
+			<longitude>979439</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawthaung -- (State: Tanintharyi)">
+			<state>Tanintharyi</state>
+			<latitude>99940</latitude>
+			<longitude>985607</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandalay">
+			<state></state>
+			<latitude>141109</latitude>
+			<longitude>985776</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandalay Canal -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>218442</latitude>
+			<longitude>962109</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandalay District -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>220109</latitude>
+			<longitude>960109</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandalay Division -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>210109</latitude>
+			<longitude>960109</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandalay Hill -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>220442</latitude>
+			<longitude>961109</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moulmein -- (State: Mon State)">
+			<state>Mon State</state>
+			<latitude>165023</latitude>
+			<longitude>976365</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moulmein River">
+			<state></state>
+			<latitude>162109</latitude>
+			<longitude>975776</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moulmein South">
+			<state></state>
+			<latitude>164442</latitude>
+			<longitude>976442</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moulmeingyun -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>163942</latitude>
+			<longitude>952776</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pyinmana -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>197445</latitude>
+			<longitude>962279</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pyinmana -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>225445</latitude>
+			<longitude>965445</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pyinmanahaung -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>196945</latitude>
+			<longitude>961945</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoin Hill">
+			<state></state>
+			<latitude>131613</latitude>
+			<longitude>985780</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoin Hill -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>177780</latitude>
+			<longitude>945446</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoin Island">
+			<state></state>
+			<latitude>103613</latitude>
+			<longitude>980780</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangoon -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>167614</latitude>
+			<longitude>962614</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangoon -- (State: Yangon)">
+			<state>Yangon</state>
+			<latitude>167947</latitude>
+			<longitude>961781</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangoon Ahlone -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>167947</latitude>
+			<longitude>961281</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangoon Airport -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>169281</latitude>
+			<longitude>961447</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangoon Division -- (State: Yangon)">
+			<state>Yangon</state>
+			<latitude>170114</latitude>
+			<longitude>961781</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangoon River -- (State: Yangon)">
+			<state>Yangon</state>
+			<latitude>165036</latitude>
+			<longitude>963567</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sagaing -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>218782</latitude>
+			<longitude>959948</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sagaing -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>207448</latitude>
+			<longitude>968948</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sagaing District -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>220115</latitude>
+			<longitude>955115</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sagaing Division -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>235115</latitude>
+			<longitude>955115</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sagaingzu -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>224948</latitude>
+			<longitude>956615</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sagaingzu -- (State: Yangon)">
+			<state>Yangon</state>
+			<latitude>167579</latitude>
+			<longitude>967046</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyi -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>203283</latitude>
+			<longitude>958116</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyi">
+			<state></state>
+			<latitude>170949</latitude>
+			<longitude>971783</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyi -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>231449</latitude>
+			<longitude>955283</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyi -- (State: Kayin State)">
+			<state>Kayin State</state>
+			<latitude>187616</latitude>
+			<longitude>966116</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyi -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>207949</latitude>
+			<longitude>970449</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyi -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>182949</latitude>
+			<longitude>966783</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyi -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>170783</latitude>
+			<longitude>945949</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyi Chaung -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>215449</latitude>
+			<longitude>969116</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyi Taung -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>187283</latitude>
+			<longitude>953116</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyigwe -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>172116</latitude>
+			<longitude>964116</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyigyaw -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>181616</latitude>
+			<longitude>969116</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taunggyizu -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>184616</latitude>
+			<longitude>966783</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="U-gin Taung -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>232117</latitude>
+			<longitude>966450</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="U-ri-daw -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>199950</latitude>
+			<longitude>972284</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="U-yin -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>222450</latitude>
+			<longitude>961450</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="U-yin -- (State: (BM07))">
+			<state>(BM07)</state>
+			<latitude>192784</latitude>
+			<longitude>956784</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="U-yinkwin -- (State: Rakhine State)">
+			<state>Rakhine State</state>
+			<latitude>184617</latitude>
+			<longitude>944450</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubo -- (State: Kayin State)">
+			<state>Kayin State</state>
+			<latitude>189450</latitude>
+			<longitude>969450</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubokchaung -- (State: Kayin State)">
+			<state>Kayin State</state>
+			<latitude>188617</latitude>
+			<longitude>967284</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubyetaung -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>236950</latitude>
+			<longitude>959784</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udakhi -- (State: Kayin State)">
+			<state>Kayin State</state>
+			<latitude>179950</latitude>
+			<longitude>973950</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udo -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>181284</latitude>
+			<longitude>962950</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upi -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>213784</latitude>
+			<longitude>926950</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ura -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>246784</latitude>
+			<longitude>975450</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ura Hka -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>258284</latitude>
+			<longitude>963950</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urekhi -- (State: Kayin State)">
+			<state>Kayin State</state>
+			<latitude>179784</latitude>
+			<longitude>973950</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uri -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>254784</latitude>
+			<longitude>974950</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utha -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>231617</latitude>
+			<longitude>955450</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uthai -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>216950</latitude>
+			<longitude>928617</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyingale -- (State: Mandalay)">
+			<state>Mandalay</state>
+			<latitude>218450</latitude>
+			<longitude>960284</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaga -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>214785</latitude>
+			<longitude>939451</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaivet -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>238618</latitude>
+			<longitude>934785</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vakhawng Va -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>225618</latitude>
+			<longitude>932618</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vamkua -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>226118</latitude>
+			<longitude>932451</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanai Va">
+			<state></state>
+			<latitude>223118</latitude>
+			<longitude>941451</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanglai -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>239451</latitude>
+			<longitude>935951</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vangte -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>232618</latitude>
+			<longitude>936951</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaniam -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>229451</latitude>
+			<longitude>937951</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanklang -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>225451</latitude>
+			<longitude>938451</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vansaye -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>206243</latitude>
+			<longitude>1001224</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanzang -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>228618</latitude>
+			<longitude>933618</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vapi Va -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>221785</latitude>
+			<longitude>938951</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vawmpnu Va -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>221618</latitude>
+			<longitude>933618</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vawnpayit -- (State: Kachin State)">
+			<state>Kachin State</state>
+			<latitude>262785</latitude>
+			<longitude>983451</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vazang -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>231618</latitude>
+			<longitude>936951</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinghing -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>234285</latitude>
+			<longitude>988785</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vingkao -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>231618</latitude>
+			<longitude>986118</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vommual -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>234285</latitude>
+			<longitude>938451</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vownalu Mual -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>232285</latitude>
+			<longitude>938618</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuangtu -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>224951</latitude>
+			<longitude>932785</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuilu -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>212785</latitude>
+			<longitude>934951</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vutbuak -- (State: Chin State)">
+			<state>Chin State</state>
+			<latitude>233618</latitude>
+			<longitude>934618</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangon Taung">
+			<state></state>
+			<latitude>138954</latitude>
+			<longitude>983954</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangonbauk -- (State: Yangon)">
+			<state>Yangon</state>
+			<latitude>167254</latitude>
+			<longitude>960699</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangonchaung">
+			<state></state>
+			<latitude>138788</latitude>
+			<longitude>984288</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yondaing Chaung -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>180288</latitude>
+			<longitude>969121</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yondaw -- (State: Ayeyarwady)">
+			<state>Ayeyarwady</state>
+			<latitude>169621</latitude>
+			<longitude>950788</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yonga -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>220454</latitude>
+			<longitude>955288</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yudawmu -- (State: Sagain)">
+			<state>Sagain</state>
+			<latitude>224954</latitude>
+			<longitude>955788</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yumbya -- (State: Shan State)">
+			<state>Shan State</state>
+			<latitude>201454</latitude>
+			<longitude>967454</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zugon -- (State: (BM09))">
+			<state>(BM09)</state>
+			<latitude>183455</latitude>
+			<longitude>956289</longitude>
+			<timezone>650</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

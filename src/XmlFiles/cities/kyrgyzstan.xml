@@ -1,0 +1,1741 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Kyrgyzstan">
+		<city name="Arasan">
+			<state></state>
+			<latitude>425764</latitude>
+			<longitude>783097</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bishkek">
+			<state></state>
+			<latitude>428829</latitude>
+			<longitude>746101</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bishkek Shaary -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>429098</latitude>
+			<longitude>746098</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ebenfel d">
+			<state></state>
+			<latitude>428101</latitude>
+			<longitude>750268</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egilik">
+			<state></state>
+			<latitude>427601</latitude>
+			<longitude>777601</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekachat">
+			<state></state>
+			<latitude>416101</latitude>
+			<longitude>750268</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elektor">
+			<state></state>
+			<latitude>421768</latitude>
+			<longitude>759268</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emgektala -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>414001</latitude>
+			<longitude>756148</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emir-Kul">
+			<state></state>
+			<latitude>408934</latitude>
+			<longitude>737101</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Engil chek">
+			<state></state>
+			<latitude>420601</latitude>
+			<longitude>790934</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entek-chil -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>415654</latitude>
+			<longitude>759818</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Epkin">
+			<state></state>
+			<latitude>421768</latitude>
+			<longitude>754268</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erke-Kashka">
+			<state></state>
+			<latitude>404934</latitude>
+			<longitude>724934</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erkintoo">
+			<state></state>
+			<latitude>404601</latitude>
+			<longitude>733101</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eshsay">
+			<state></state>
+			<latitude>416934</latitude>
+			<longitude>725101</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eski-Nookat">
+			<state></state>
+			<latitude>402768</latitude>
+			<longitude>726101</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferghan Mountains">
+			<state></state>
+			<latitude>410102</latitude>
+			<longitude>740102</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fol baumka">
+			<state></state>
+			<latitude>427602</latitude>
+			<longitude>781269</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frunze">
+			<state></state>
+			<latitude>427769</latitude>
+			<longitude>781935</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frunzenskiy Rayon">
+			<state></state>
+			<latitude>400102</latitude>
+			<longitude>715935</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frunzenskoye">
+			<state></state>
+			<latitude>401435</latitude>
+			<longitude>717269</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hsin-t eng-ko-li Feng">
+			<state></state>
+			<latitude>420468</latitude>
+			<longitude>801262</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ichkebash">
+			<state></state>
+			<latitude>416272</latitude>
+			<longitude>759105</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ichkedzherges">
+			<state></state>
+			<latitude>425772</latitude>
+			<longitude>787105</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ichkele-Tash">
+			<state></state>
+			<latitude>423605</latitude>
+			<longitude>793772</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ichkesu">
+			<state></state>
+			<latitude>413105</latitude>
+			<longitude>749272</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ichkili-Su">
+			<state></state>
+			<latitude>403938</latitude>
+			<longitude>739438</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikazyak">
+			<state></state>
+			<latitude>397438</latitude>
+			<longitude>737938</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iki-Chat">
+			<state></state>
+			<latitude>420272</latitude>
+			<longitude>788938</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Il chibay">
+			<state></state>
+			<latitude>427272</latitude>
+			<longitude>785605</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Budennova">
+			<state></state>
+			<latitude>401605</latitude>
+			<longitude>734605</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Chkalova">
+			<state></state>
+			<latitude>417938</latitude>
+			<longitude>729605</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Fedorova">
+			<state></state>
+			<latitude>402105</latitude>
+			<longitude>735438</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Frunze">
+			<state></state>
+			<latitude>416605</latitude>
+			<longitude>726772</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Il icha">
+			<state></state>
+			<latitude>427772</latitude>
+			<longitude>759772</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Kalinina">
+			<state></state>
+			<latitude>408272</latitude>
+			<longitude>734938</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Kirova">
+			<state></state>
+			<latitude>413438</latitude>
+			<longitude>721772</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Kuybysheva -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>415211</latitude>
+			<longitude>758649</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Molotova">
+			<state></state>
+			<latitude>408938</latitude>
+			<longitude>735105</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Pervogo Maya">
+			<state></state>
+			<latitude>418438</latitude>
+			<longitude>730105</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Vecheki">
+			<state></state>
+			<latitude>427438</latitude>
+			<longitude>784272</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imeni Voroshilova">
+			<state></state>
+			<latitude>423272</latitude>
+			<longitude>764272</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="In-Tyur">
+			<state></state>
+			<latitude>423105</latitude>
+			<longitude>786605</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Internatsional">
+			<state></state>
+			<latitude>405647</latitude>
+			<longitude>728872</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irdyk">
+			<state></state>
+			<latitude>424605</latitude>
+			<longitude>783105</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irgesh">
+			<state></state>
+			<latitude>401938</latitude>
+			<longitude>736105</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iri-Dzhilga">
+			<state></state>
+			<latitude>426105</latitude>
+			<longitude>793438</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iri-Su">
+			<state></state>
+			<latitude>404272</latitude>
+			<longitude>733438</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irisu">
+			<state></state>
+			<latitude>404938</latitude>
+			<longitude>734272</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irkishtam">
+			<state></state>
+			<latitude>396938</latitude>
+			<longitude>739272</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irtash">
+			<state></state>
+			<latitude>418938</latitude>
+			<longitude>785772</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isfana">
+			<state></state>
+			<latitude>398438</latitude>
+			<longitude>695272</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ishan-Bulak">
+			<state></state>
+			<latitude>428605</latitude>
+			<longitude>773272</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ishma">
+			<state></state>
+			<latitude>405938</latitude>
+			<longitude>730272</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ishtok Pass">
+			<state></state>
+			<latitude>415938</latitude>
+			<longitude>781772</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Issok-ata Pass">
+			<state></state>
+			<latitude>424272</latitude>
+			<longitude>748105</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Issyk-Kul skiy Zapovednik">
+			<state></state>
+			<latitude>423877</latitude>
+			<longitude>772583</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Issykata">
+			<state></state>
+			<latitude>426605</latitude>
+			<longitude>750605</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itagar">
+			<state></state>
+			<latitude>416438</latitude>
+			<longitude>718772</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivano-Alekseyevka">
+			<state></state>
+			<latitude>425272</latitude>
+			<longitude>722438</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivanovka -- (State: Chuy)">
+			<state>Chuy</state>
+			<latitude>428983</latitude>
+			<longitude>750944</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izym-Bay">
+			<state></state>
+			<latitude>409105</latitude>
+			<longitude>737772</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalal-Abad">
+			<state></state>
+			<latitude>409439</latitude>
+			<longitude>730106</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamantau Mountains">
+			<state></state>
+			<latitude>409273</latitude>
+			<longitude>745939</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan-Bulak -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>414467</latitude>
+			<longitude>757442</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janart Pass">
+			<state></state>
+			<latitude>416773</latitude>
+			<longitude>788439</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangy Kanaly -- (State: (KG05))">
+			<state>(KG05)</state>
+			<latitude>405150</latitude>
+			<longitude>726695</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangy-Jer">
+			<state></state>
+			<latitude>396773</latitude>
+			<longitude>722773</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangy-Jer -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>413262</latitude>
+			<longitude>766806</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangy-Kyshtak -- (State: (KG05))">
+			<state>(KG05)</state>
+			<latitude>405475</latitude>
+			<longitude>727873</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jangy-Talap -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>414612</latitude>
+			<longitude>750248</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Japalak">
+			<state></state>
+			<latitude>405034</latitude>
+			<longitude>727748</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jar">
+			<state></state>
+			<latitude>399773</latitude>
+			<longitude>693773</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jergeto -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>415809</latitude>
+			<longitude>757975</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeryuy-bashi Pass">
+			<state></state>
+			<latitude>421773</latitude>
+			<longitude>727606</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeto-Oguz">
+			<state></state>
+			<latitude>424439</latitude>
+			<longitude>782106</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jety-Oguz">
+			<state></state>
+			<latitude>425106</latitude>
+			<longitude>780773</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jida">
+			<state></state>
+			<latitude>403106</latitude>
+			<longitude>724439</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiptok Pass">
+			<state></state>
+			<latitude>398439</latitude>
+			<longitude>729606</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jirgital">
+			<state></state>
+			<latitude>411106</latitude>
+			<longitude>732273</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jitom Mountains">
+			<state></state>
+			<latitude>415939</latitude>
+			<longitude>770106</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joon-Aryk -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>419920</latitude>
+			<longitude>757303</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumgol-tau Mountains">
+			<state></state>
+			<latitude>422606</latitude>
+			<longitude>743439</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jusaly">
+			<state></state>
+			<latitude>403273</latitude>
+			<longitude>734273</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kashgar">
+			<state></state>
+			<latitude>406315</latitude>
+			<longitude>728413</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lake Issok-Kul -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>424275</latitude>
+			<longitude>772608</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lake Sok Kul -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>418500</latitude>
+			<longitude>751552</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lay-Tala">
+			<state></state>
+			<latitude>406108</latitude>
+			<longitude>736275</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laylysu">
+			<state></state>
+			<latitude>414775</latitude>
+			<longitude>755275</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lebedinovka -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>428911</latitude>
+			<longitude>746914</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Aksu">
+			<state></state>
+			<latitude>428441</latitude>
+			<longitude>771275</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Aylyamma">
+			<state></state>
+			<latitude>420441</latitude>
+			<longitude>787441</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Engil chek">
+			<state></state>
+			<latitude>423441</latitude>
+			<longitude>800108</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Kaindy">
+			<state></state>
+			<latitude>420941</latitude>
+			<longitude>796775</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Kan-Dzhaylyau">
+			<state></state>
+			<latitude>421441</latitude>
+			<longitude>795775</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Kay-Kap">
+			<state></state>
+			<latitude>419275</latitude>
+			<longitude>796775</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Kolpakovskogo">
+			<state></state>
+			<latitude>420941</latitude>
+			<longitude>782941</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Korzhenevskogo">
+			<state></state>
+			<latitude>394275</latitude>
+			<longitude>730608</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Lenina">
+			<state></state>
+			<latitude>394108</latitude>
+			<longitude>728941</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Mushketova">
+			<state></state>
+			<latitude>423108</latitude>
+			<longitude>799275</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Petrova">
+			<state></state>
+			<latitude>419108</latitude>
+			<longitude>783108</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Semenova">
+			<state></state>
+			<latitude>423775</latitude>
+			<longitude>799608</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Severnyy Inyl chek">
+			<state></state>
+			<latitude>422608</latitude>
+			<longitude>799941</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lednik Yuzhnyy Inyl chek">
+			<state></state>
+			<latitude>421775</latitude>
+			<longitude>800108</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lenin-Dzhol">
+			<state></state>
+			<latitude>410775</latitude>
+			<longitude>726441</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leninpol">
+			<state></state>
+			<latitude>424941</latitude>
+			<longitude>719275</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leninskoye -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>429711</latitude>
+			<longitude>746664</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limbur">
+			<state></state>
+			<latitude>400775</latitude>
+			<longitude>711108</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lipenskoye">
+			<state></state>
+			<latitude>425441</latitude>
+			<longitude>782108</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lizogubovka">
+			<state></state>
+			<latitude>426775</latitude>
+			<longitude>788441</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lugovoye">
+			<state></state>
+			<latitude>427775</latitude>
+			<longitude>782775</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyaglyan">
+			<state></state>
+			<latitude>403275</latitude>
+			<longitude>731108</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyangar">
+			<state></state>
+			<latitude>398108</latitude>
+			<longitude>720941</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyaylyak">
+			<state></state>
+			<latitude>399108</latitude>
+			<longitude>699275</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyaylyakskiy Rayon">
+			<state></state>
+			<latitude>398441</latitude>
+			<longitude>697608</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lyublino">
+			<state></state>
+			<latitude>411608</latitude>
+			<longitude>732941</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naiza">
+			<state></state>
+			<latitude>415943</latitude>
+			<longitude>703943</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nariman">
+			<state></state>
+			<latitude>405652</latitude>
+			<longitude>728021</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naron -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>414410</latitude>
+			<longitude>760110</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naryn -- (State: Jalal-Abad)">
+			<state>Jalal-Abad</state>
+			<latitude>413568</latitude>
+			<longitude>722210</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naryn Oblasty -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>414443</latitude>
+			<longitude>759777</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narynskaya Dolina">
+			<state></state>
+			<latitude>414277</latitude>
+			<longitude>760110</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narynskiy Rayon">
+			<state></state>
+			<latitude>415943</latitude>
+			<longitude>763443</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naukatskiy Rayon">
+			<state></state>
+			<latitude>401777</latitude>
+			<longitude>727610</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naukent">
+			<state></state>
+			<latitude>410610</latitude>
+			<longitude>725777</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nayman">
+			<state></state>
+			<latitude>402943</latitude>
+			<longitude>723443</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nazar-Makhram">
+			<state></state>
+			<latitude>406777</latitude>
+			<longitude>720777</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nazyk">
+			<state></state>
+			<latitude>399610</latitude>
+			<longitude>734777</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nichka-Say">
+			<state></state>
+			<latitude>407777</latitude>
+			<longitude>736110</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nichke-Bel">
+			<state></state>
+			<latitude>395610</latitude>
+			<longitude>733610</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nichke-Say">
+			<state></state>
+			<latitude>418277</latitude>
+			<longitude>730443</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nikolayevskoye">
+			<state></state>
+			<latitude>427110</latitude>
+			<longitude>783110</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niyaz">
+			<state></state>
+			<latitude>410277</latitude>
+			<longitude>729610</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nizhniy Norus -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>429346</latitude>
+			<longitude>747543</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nizhniy Orok -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>428193</latitude>
+			<longitude>745468</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nizhnyaya Ala-Archa -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>429299</latitude>
+			<longitude>745785</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nookenskiy Rayon">
+			<state></state>
+			<latitude>412610</latitude>
+			<longitude>725943</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nora-Mau">
+			<state></state>
+			<latitude>416277</latitude>
+			<longitude>760943</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noruskel">
+			<state></state>
+			<latitude>396277</latitude>
+			<longitude>723443</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nov Pokrovka -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>423518</latitude>
+			<longitude>780091</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novo-Mikhaylovka">
+			<state></state>
+			<latitude>428277</latitude>
+			<longitude>755443</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novokonstantinovka">
+			<state></state>
+			<latitude>425610</latitude>
+			<longitude>786777</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novopavlovka -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>428816</latitude>
+			<longitude>744977</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novopokrovka -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>428768</latitude>
+			<longitude>747471</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novorossiyka -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>427460</latitude>
+			<longitude>760902</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novovoznesenovka">
+			<state></state>
+			<latitude>426110</latitude>
+			<longitude>787443</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noygut">
+			<state></state>
+			<latitude>400277</latitude>
+			<longitude>712277</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nura">
+			<state></state>
+			<latitude>397110</latitude>
+			<longitude>739277</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osh -- (State: (KG05))">
+			<state>(KG05)</state>
+			<latitude>405405</latitude>
+			<longitude>728011</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osh">
+			<state></state>
+			<latitude>400111</latitude>
+			<longitude>730111</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qaichi-davan">
+			<state></state>
+			<latitude>415946</latitude>
+			<longitude>788280</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qullai Lenin">
+			<state></state>
+			<latitude>393446</latitude>
+			<longitude>729280</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Radinan">
+			<state></state>
+			<latitude>402781</latitude>
+			<longitude>721114</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raut">
+			<state></state>
+			<latitude>397614</latitude>
+			<longitude>709281</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ravat">
+			<state></state>
+			<latitude>399114</latitude>
+			<longitude>702114</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Razdol noye">
+			<state></state>
+			<latitude>426281</latitude>
+			<longitude>787447</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Razvaliny Dzhangy-Telek -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>413633</latitude>
+			<longitude>751858</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Razvaliny Tuyamuyun">
+			<state></state>
+			<latitude>403664</latitude>
+			<longitude>725953</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reka Ak-Say -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>409003</latitude>
+			<longitude>766100</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reka Saty">
+			<state></state>
+			<latitude>427614</latitude>
+			<longitude>783447</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Renzhit">
+			<state></state>
+			<latitude>414114</latitude>
+			<longitude>718614</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Resha">
+			<state></state>
+			<latitude>421947</latitude>
+			<longitude>795281</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rodnik Al cha-Bulak">
+			<state></state>
+			<latitude>408447</latitude>
+			<longitude>730781</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rodnik Dzhida-Bulak">
+			<state></state>
+			<latitude>407114</latitude>
+			<longitude>733447</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rodnik Sugat">
+			<state></state>
+			<latitude>406947</latitude>
+			<longitude>733447</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Romanovka">
+			<state></state>
+			<latitude>424781</latitude>
+			<longitude>719614</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Romanovskoye">
+			<state></state>
+			<latitude>428781</latitude>
+			<longitude>743447</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rybach ye">
+			<state></state>
+			<latitude>424447</latitude>
+			<longitude>762114</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rybpunkt -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>423808</latitude>
+			<longitude>779067</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uch-Chat">
+			<state></state>
+			<latitude>417950</latitude>
+			<longitude>792117</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uch-shat-Pass">
+			<state></state>
+			<latitude>419284</latitude>
+			<longitude>793450</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uch-Tyube">
+			<state></state>
+			<latitude>399284</latitude>
+			<longitude>734450</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uchemchek -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>418798</latitude>
+			<longitude>770592</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukok -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>422398</latitude>
+			<longitude>757853</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ularly">
+			<state></state>
+			<latitude>398950</latitude>
+			<longitude>726617</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upa">
+			<state></state>
+			<latitude>408117</latitude>
+			<longitude>739450</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urta-Kyzyl">
+			<state></state>
+			<latitude>403117</latitude>
+			<longitude>726617</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyun-Tyur">
+			<state></state>
+			<latitude>423117</latitude>
+			<longitude>784950</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyunkur">
+			<state></state>
+			<latitude>416617</latitude>
+			<longitude>731784</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzgorysh">
+			<state></state>
+			<latitude>414284</latitude>
+			<longitude>753950</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzunbulak">
+			<state></state>
+			<latitude>421450</latitude>
+			<longitude>752784</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valyakish">
+			<state></state>
+			<latitude>402118</latitude>
+			<longitude>720951</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vapalak-Tash">
+			<state></state>
+			<latitude>406285</latitude>
+			<longitude>734285</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verkhne-Pokrovskoye">
+			<state></state>
+			<latitude>407118</latitude>
+			<longitude>731618</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verkhniy Orok -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>428129</latitude>
+			<longitude>745351</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verkhnyaya Alaarcha">
+			<state></state>
+			<latitude>427451</latitude>
+			<longitude>745285</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vesheke">
+			<state></state>
+			<latitude>428118</latitude>
+			<longitude>758118</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vidana">
+			<state></state>
+			<latitude>402285</latitude>
+			<longitude>729951</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vladimirovka">
+			<state></state>
+			<latitude>425451</latitude>
+			<longitude>719118</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vorontsovskoye">
+			<state></state>
+			<latitude>427285</latitude>
+			<longitude>745951</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voroshilovskiy Rayon">
+			<state></state>
+			<latitude>427618</latitude>
+			<longitude>748451</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voroshilovskoye -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>429087</latitude>
+			<longitude>746465</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vos moye Marta -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>414682</latitude>
+			<longitude>754162</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vostochny Karakol -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>422160</latitude>
+			<longitude>752590</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vostochnyy">
+			<state></state>
+			<latitude>399285</latitude>
+			<longitude>696618</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vostochnyy Seok -- (State: Naryn)">
+			<state>Naryn</state>
+			<latitude>422137</latitude>
+			<longitude>752585</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vostok -- (State: Bishkek)">
+			<state>Bishkek</state>
+			<latitude>429110</latitude>
+			<longitude>746857</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voyenno-Antonovskoye">
+			<state></state>
+			<latitude>428785</latitude>
+			<longitude>744118</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vozhesenskoye">
+			<state></state>
+			<latitude>428451</latitude>
+			<longitude>738285</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vurkhan -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>417665</latitude>
+			<longitude>770121</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vzengegush">
+			<state></state>
+			<latitude>412385</latitude>
+			<longitude>781324</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaklikuchar-Say">
+			<state></state>
+			<latitude>410621</latitude>
+			<longitude>725288</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalgiz-Alcha">
+			<state></state>
+			<latitude>407954</latitude>
+			<longitude>736288</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalgyz-Yangak">
+			<state></state>
+			<latitude>411121</latitude>
+			<longitude>731954</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaman-Ail">
+			<state></state>
+			<latitude>410454</latitude>
+			<longitude>729788</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaman-Kyrchin">
+			<state></state>
+			<latitude>396288</latitude>
+			<longitude>726288</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yan-Atyr">
+			<state></state>
+			<latitude>428454</latitude>
+			<longitude>763788</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanabadam">
+			<state></state>
+			<latitude>411288</latitude>
+			<longitude>727954</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangi-Aryk">
+			<state></state>
+			<latitude>404621</latitude>
+			<longitude>728454</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangi-Dzhol">
+			<state></state>
+			<latitude>418788</latitude>
+			<longitude>744621</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangi-Naukat">
+			<state></state>
+			<latitude>402621</latitude>
+			<longitude>725621</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangiturmysh -- (State: Jalal-Abad)">
+			<state>Jalal-Abad</state>
+			<latitude>418563</latitude>
+			<longitude>727643</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yar-Kurgan">
+			<state></state>
+			<latitude>402621</latitude>
+			<longitude>728454</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yartash">
+			<state></state>
+			<latitude>403454</latitude>
+			<longitude>726788</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaryktash">
+			<state></state>
+			<latitude>418454</latitude>
+			<longitude>720788</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yash">
+			<state></state>
+			<latitude>401121</latitude>
+			<longitude>724788</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yasso">
+			<state></state>
+			<latitude>407954</latitude>
+			<longitude>731454</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yengi-Bazar">
+			<state></state>
+			<latitude>416788</latitude>
+			<longitude>708954</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerish">
+			<state></state>
+			<latitude>414288</latitude>
+			<longitude>723788</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeshki-Su">
+			<state></state>
+			<latitude>427621</latitude>
+			<longitude>784288</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yshtyk -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>416138</latitude>
+			<longitude>782974</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ysyk-Kol">
+			<state></state>
+			<latitude>424732</latitude>
+			<longitude>761924</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ysyk-Kol Oblasty -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>420121</latitude>
+			<longitude>780121</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yur evka -- (State: Chuy)">
+			<state>Chuy</state>
+			<latitude>427257</latitude>
+			<longitude>750482</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaalayskiy Khrebet">
+			<state></state>
+			<latitude>393455</latitude>
+			<longitude>725122</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaliv Pokrovskiy -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>423980</latitude>
+			<longitude>778728</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaliv Przheval skogo">
+			<state></state>
+			<latitude>425955</latitude>
+			<longitude>781789</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaliv Tong -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>422022</latitude>
+			<longitude>769478</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaliv Tyup">
+			<state></state>
+			<latitude>427622</latitude>
+			<longitude>782789</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaliv Yurduk-Udzhar">
+			<state></state>
+			<latitude>422789</latitude>
+			<longitude>767122</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaluke-Dzhuka">
+			<state></state>
+			<latitude>423789</latitude>
+			<longitude>778955</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapadnoy Karakol">
+			<state></state>
+			<latitude>421455</latitude>
+			<longitude>740955</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zar-Tash -- (State: Batken)">
+			<state>Batken</state>
+			<latitude>402711</latitude>
+			<longitude>710411</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zardale">
+			<state></state>
+			<latitude>396622</latitude>
+			<longitude>709622</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zerger">
+			<state></state>
+			<latitude>408455</latitude>
+			<longitude>734122</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhalamysh">
+			<state></state>
+			<latitude>426789</latitude>
+			<longitude>743289</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhaman-Almaty">
+			<state></state>
+			<latitude>429289</latitude>
+			<longitude>769622</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhandy-Su">
+			<state></state>
+			<latitude>428955</latitude>
+			<longitude>766955</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zharkynbayevo -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>427519</latitude>
+			<longitude>777580</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhel -Karagay">
+			<state></state>
+			<latitude>428789</latitude>
+			<longitude>775122</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhel -Kil dek">
+			<state></state>
+			<latitude>427289</latitude>
+			<longitude>756455</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhuunu -- (State: Ysyk-Kol)">
+			<state>Ysyk-Kol</state>
+			<latitude>422253</latitude>
+			<longitude>779816</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zimovka Iskandera -- (State: Chuy)">
+			<state>Chuy</state>
+			<latitude>427528</latitude>
+			<longitude>759086</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zimovka Kara-Bulak">
+			<state></state>
+			<latitude>411789</latitude>
+			<longitude>732455</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zimovka Kulyugen">
+			<state></state>
+			<latitude>411289</latitude>
+			<longitude>727122</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zindan">
+			<state></state>
+			<latitude>413622</latitude>
+			<longitude>731955</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zindan-Su">
+			<state></state>
+			<latitude>408789</latitude>
+			<longitude>736789</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zor-Ayryk">
+			<state></state>
+			<latitude>394455</latitude>
+			<longitude>721289</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

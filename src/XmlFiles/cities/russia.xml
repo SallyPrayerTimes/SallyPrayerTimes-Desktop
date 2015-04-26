@@ -1,0 +1,1916 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Russia">
+		<city name="Aktay -- (State: Sverdlovskaya Oblast)">
+			<state>Sverdlovskaya Oblast</state>
+			<latitude>588716</latitude>
+			<longitude>606797</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al met yevsk -- (State: Tatarstan)">
+			<state>Tatarstan</state>
+			<latitude>548930</latitude>
+			<longitude>523430</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Archangelsk -- (State: Arkhangel skaya Oblast)">
+			<state>Arkhangel skaya Oblast</state>
+			<latitude>645764</latitude>
+			<longitude>405430</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Astrakhan -- (State: Astrakhanskaya Oblast)">
+			<state>Astrakhanskaya Oblast</state>
+			<latitude>463591</latitude>
+			<longitude>480589</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Astrakhan -- (State: Kirovskaya Oblast)">
+			<state>Kirovskaya Oblast</state>
+			<latitude>578286</latitude>
+			<longitude>512683</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Astrakhan Oblast -- (State: Astrakhanskaya Oblast)">
+			<state>Astrakhanskaya Oblast</state>
+			<latitude>470097</latitude>
+			<longitude>480097</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Astrakhan Roadstead -- (State: Astrakhanskaya Oblast)">
+			<state>Astrakhanskaya Oblast</state>
+			<latitude>455097</latitude>
+			<longitude>480097</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baksan -- (State: Kabardino-Balkariya)">
+			<state>Kabardino-Balkariya</state>
+			<latitude>436979</latitude>
+			<longitude>435467</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baksanenok -- (State: Kabardino-Balkariya)">
+			<state>Kabardino-Balkariya</state>
+			<latitude>436995</latitude>
+			<longitude>436645</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baksanges -- (State: Kabardino-Balkariya)">
+			<state>Kabardino-Balkariya</state>
+			<latitude>436654</latitude>
+			<longitude>433962</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baksanskiy -- (State: Kabardino-Balkariya)">
+			<state>Kabardino-Balkariya</state>
+			<latitude>436751</latitude>
+			<longitude>439462</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baksanskiy Rayon -- (State: Kabardino-Balkariya)">
+			<state>Kabardino-Balkariya</state>
+			<latitude>437598</latitude>
+			<longitude>435098</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barnaul -- (State: Altayskiy Kray)">
+			<state>Altayskiy Kray</state>
+			<latitude>533656</latitude>
+			<longitude>837620</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bavly -- (State: Tatarstan)">
+			<state>Tatarstan</state>
+			<latitude>543931</latitude>
+			<longitude>532931</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belgorod -- (State: Bryanskaya Oblast)">
+			<state>Bryanskaya Oblast</state>
+			<latitude>528826</latitude>
+			<longitude>346623</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belgorod -- (State: Belgorodskaya Oblast)">
+			<state>Belgorodskaya Oblast</state>
+			<latitude>506231</latitude>
+			<longitude>365970</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belovo -- (State: Kemerovskaya Oblast)">
+			<state>Kemerovskaya Oblast</state>
+			<latitude>544315</latitude>
+			<longitude>863084</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bugul ma -- (State: Tatarstan)">
+			<state>Tatarstan</state>
+			<latitude>545598</latitude>
+			<longitude>528098</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buguruslan -- (State: Orenburgskaya Oblast)">
+			<state>Orenburgskaya Oblast</state>
+			<latitude>536598</latitude>
+			<longitude>524431</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chayvo -- (State: Sakhalinskaya Oblast)">
+			<state>Sakhalinskaya Oblast</state>
+			<latitude>523766</latitude>
+			<longitude>1431932</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheboksary -- (State: Chuvashiya)">
+			<state>Chuvashiya</state>
+			<latitude>561421</latitude>
+			<longitude>472618</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chelyabinsk -- (State: Chelyabinskaya Oblast)">
+			<state>Chelyabinskaya Oblast</state>
+			<latitude>551643</latitude>
+			<longitude>614396</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chelyabinsk Glavnyy -- (State: Chelyabinskaya Oblast)">
+			<state>Chelyabinskaya Oblast</state>
+			<latitude>551388</latitude>
+			<longitude>614268</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cherkessk -- (State: Karachayevo-Cherkesiya)">
+			<state>Karachayevo-Cherkesiya</state>
+			<latitude>442332</latitude>
+			<longitude>420677</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chirkey -- (State: Dagestan)">
+			<state>Dagestan</state>
+			<latitude>429732</latitude>
+			<longitude>469866</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chita -- (State: Chitinskaya Oblast)">
+			<state>Chitinskaya Oblast</state>
+			<latitude>524932</latitude>
+			<longitude>1141766</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dagestan">
+			<state></state>
+			<latitude>420100</latitude>
+			<longitude>470100</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dimitrovgrad -- (State: Ul yanovskaya Oblast)">
+			<state>Ul yanovskaya Oblast</state>
+			<latitude>542600</latitude>
+			<longitude>495600</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekaterinburg -- (State: Sverdlovskaya Oblast)">
+			<state>Sverdlovskaya Oblast</state>
+			<latitude>568601</latitude>
+			<longitude>606101</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elista -- (State: Kalmykiya)">
+			<state>Kalmykiya</state>
+			<latitude>463179</latitude>
+			<longitude>442659</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gorky -- (State: Nizhegorodskaya Oblast)">
+			<state>Nizhegorodskaya Oblast</state>
+			<latitude>563436</latitude>
+			<longitude>440103</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grozny -- (State: Chechnya and Ingushetiya)">
+			<state>Chechnya and Ingushetiya</state>
+			<latitude>433186</latitude>
+			<longitude>457106</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gubkinskiy -- (State: Yamalo-Nenetskiy Avtonomnyy Okrug)">
+			<state>Yamalo-Nenetskiy Avtonomnyy Okrug</state>
+			<latitude>644656</latitude>
+			<longitude>766272</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irkutsk">
+			<state></state>
+			<latitude>523074</latitude>
+			<longitude>1042805</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irkutsk -- (State: Irkutskaya Oblast)">
+			<state>Irkutskaya Oblast</state>
+			<latitude>522772</latitude>
+			<longitude>1043438</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivanovo-Voznesensk -- (State: Ivanovskaya Oblast)">
+			<state>Ivanovskaya Oblast</state>
+			<latitude>570047</latitude>
+			<longitude>409963</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izberbash -- (State: Dagestan)">
+			<state>Dagestan</state>
+			<latitude>425738</latitude>
+			<longitude>478741</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izhevsk -- (State: Udmurtiya)">
+			<state>Udmurtiya</state>
+			<latitude>568605</latitude>
+			<longitude>532438</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaliningrad -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>559249</latitude>
+			<longitude>378363</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaliningrad -- (State: Kaliningradskaya Oblast)">
+			<state>Kaliningradskaya Oblast</state>
+			<latitude>547207</latitude>
+			<longitude>205107</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaluga -- (State: Kaluzhskaya Oblast)">
+			<state>Kaluzhskaya Oblast</state>
+			<latitude>545610</latitude>
+			<longitude>363790</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karabulak -- (State: Chechnya and Ingushetiya)">
+			<state>Chechnya and Ingushetiya</state>
+			<latitude>433168</latitude>
+			<longitude>449160</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kazan -- (State: Tatarstan)">
+			<state>Tatarstan</state>
+			<latitude>557607</latitude>
+			<longitude>491440</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kazan -- (State: Kabardino-Balkariya)">
+			<state>Kabardino-Balkariya</state>
+			<latitude>435499</latitude>
+			<longitude>437749</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kemerovo -- (State: Kemerovskaya Oblast)">
+			<state>Kemerovskaya Oblast</state>
+			<latitude>553440</latitude>
+			<longitude>860940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khabarovsk -- (State: Khabarovskiy Kray)">
+			<state>Khabarovskiy Kray</state>
+			<latitude>485107</latitude>
+			<longitude>1351107</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khanty Mansisk -- (State: Khanty-Mansiyskiy Avtonomnyy Okrug)">
+			<state>Khanty-Mansiyskiy Avtonomnyy Okrug</state>
+			<latitude>610149</latitude>
+			<longitude>690126</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kislovodsk -- (State: Stavropol skiy Kray)">
+			<state>Stavropol skiy Kray</state>
+			<latitude>439240</latitude>
+			<longitude>427315</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kizlyar -- (State: Dagestan)">
+			<state>Dagestan</state>
+			<latitude>438393</latitude>
+			<longitude>467324</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Komsomol sk-na-Amure -- (State: Khabarovskiy Kray)">
+			<state>Khabarovskiy Kray</state>
+			<latitude>505663</latitude>
+			<longitude>1370107</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kraskino -- (State: Primorskiy Kray)">
+			<state>Primorskiy Kray</state>
+			<latitude>427199</latitude>
+			<longitude>1307929</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krasnodar -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>450938</latitude>
+			<longitude>389626</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krasnodar -- (State: Voronezhskaya Oblast)">
+			<state>Voronezhskaya Oblast</state>
+			<latitude>499051</latitude>
+			<longitude>402682</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krasnoyarsk -- (State: Kransoyarskiy Kray)">
+			<state>Kransoyarskiy Kray</state>
+			<latitude>560204</latitude>
+			<longitude>928024</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krasnoyarsk -- (State: Sakhalinskaya Oblast)">
+			<state>Sakhalinskaya Oblast</state>
+			<latitude>473774</latitude>
+			<longitude>1425440</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krasnoyarsk -- (State: Orenburgskaya Oblast)">
+			<state>Orenburgskaya Oblast</state>
+			<latitude>514424</latitude>
+			<longitude>601565</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krymsk -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>449765</latitude>
+			<longitude>380210</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kukmor -- (State: Tatarstan)">
+			<state>Tatarstan</state>
+			<latitude>561924</latitude>
+			<longitude>509004</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurgan -- (State: Kurganskaya Oblast)">
+			<state>Kurganskaya Oblast</state>
+			<latitude>554607</latitude>
+			<longitude>653440</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kursk -- (State: Leningradskaya Oblast)">
+			<state>Leningradskaya Oblast</state>
+			<latitude>593274</latitude>
+			<longitude>291440</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kursk -- (State: Kransoyarskiy Kray)">
+			<state>Kransoyarskiy Kray</state>
+			<latitude>545921</latitude>
+			<longitude>915101</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kursk -- (State: Kurskaya Oblast)">
+			<state>Kurskaya Oblast</state>
+			<latitude>517521</latitude>
+			<longitude>361499</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kursk -- (State: Pskovskaya Oblast)">
+			<state>Pskovskaya Oblast</state>
+			<latitude>583582</latitude>
+			<longitude>293379</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kursk Oblast -- (State: Kurskaya Oblast)">
+			<state>Kurskaya Oblast</state>
+			<latitude>515107</latitude>
+			<longitude>360107</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev -- (State: Tatarstan)">
+			<state>Tatarstan</state>
+			<latitude>549607</latitude>
+			<longitude>490774</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev -- (State: Kemerovskaya Oblast)">
+			<state>Kemerovskaya Oblast</state>
+			<latitude>537274</latitude>
+			<longitude>871107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev -- (State: Novosibirskaya Oblast)">
+			<state>Novosibirskaya Oblast</state>
+			<latitude>554610</latitude>
+			<longitude>783271</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>461154</latitude>
+			<longitude>403490</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev -- (State: Orenburgskaya Oblast)">
+			<state>Orenburgskaya Oblast</state>
+			<latitude>526940</latitude>
+			<longitude>534440</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev -- (State: Samarskaya Oblast)">
+			<state>Samarskaya Oblast</state>
+			<latitude>532107</latitude>
+			<longitude>501607</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev -- (State: Stavropol skiy Kray)">
+			<state>Stavropol skiy Kray</state>
+			<latitude>442629</latitude>
+			<longitude>438054</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev -- (State: Altayskiy Kray)">
+			<state>Altayskiy Kray</state>
+			<latitude>515774</latitude>
+			<longitude>811440</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev Canal -- (State: Chechnya and Ingushetiya)">
+			<state>Chechnya and Ingushetiya</state>
+			<latitude>436204</latitude>
+			<longitude>463676</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshev Oblast -- (State: Samarskaya Oblast)">
+			<state>Samarskaya Oblast</state>
+			<latitude>530107</latitude>
+			<longitude>500107</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybysheva -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>442629</latitude>
+			<longitude>408840</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevka -- (State: RSJA)">
+			<state>RSJA</state>
+			<latitude>450940</latitude>
+			<longitude>1476940</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevka -- (State: Amurskaya Oblast)">
+			<state>Amurskaya Oblast</state>
+			<latitude>509274</latitude>
+			<longitude>1284774</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevka -- (State: Chelyabinskaya Oblast)">
+			<state>Chelyabinskaya Oblast</state>
+			<latitude>544107</latitude>
+			<longitude>627440</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevo -- (State: Volgogradskaya Oblast)">
+			<state>Volgogradskaya Oblast</state>
+			<latitude>486940</latitude>
+			<longitude>448607</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevo -- (State: Kaliningradskaya Oblast)">
+			<state>Kaliningradskaya Oblast</state>
+			<latitude>549288</latitude>
+			<longitude>220657</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevo -- (State: Altayskiy Kray)">
+			<state>Altayskiy Kray</state>
+			<latitude>513607</latitude>
+			<longitude>805940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevo -- (State: Rostovskaya Oblast)">
+			<state>Rostovskaya Oblast</state>
+			<latitude>488274</latitude>
+			<longitude>412607</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevo -- (State: Khakasiya)">
+			<state>Khakasiya</state>
+			<latitude>532040</latitude>
+			<longitude>907915</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskiy -- (State: Novosibirskaya Oblast)">
+			<state>Novosibirskaya Oblast</state>
+			<latitude>554940</latitude>
+			<longitude>782774</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskiy -- (State: Samarskaya Oblast)">
+			<state>Samarskaya Oblast</state>
+			<latitude>526635</latitude>
+			<longitude>496185</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskiy -- (State: RSJA)">
+			<state>RSJA</state>
+			<latitude>450996</latitude>
+			<longitude>1477315</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskiy -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>457099</latitude>
+			<longitude>384601</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskiy Kanal -- (State: Samarskaya Oblast)">
+			<state>Samarskaya Oblast</state>
+			<latitude>527126</latitude>
+			<longitude>486490</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskiy Rayon -- (State: Amurskaya Oblast)">
+			<state>Amurskaya Oblast</state>
+			<latitude>507607</latitude>
+			<longitude>1285107</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskiy Zaliv -- (State: RSJA)">
+			<state>RSJA</state>
+			<latitude>451440</latitude>
+			<longitude>1476774</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskiy Zaton -- (State: Tatarstan)">
+			<state>Tatarstan</state>
+			<latitude>551610</latitude>
+			<longitude>491735</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskiye -- (State: Rostovskaya Oblast)">
+			<state>Rostovskaya Oblast</state>
+			<latitude>478774</latitude>
+			<longitude>389440</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskoye -- (State: Kaliningradskaya Oblast)">
+			<state>Kaliningradskaya Oblast</state>
+			<latitude>546540</latitude>
+			<longitude>212890</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuybyshevskoye More">
+			<state></state>
+			<latitude>545107</latitude>
+			<longitude>485107</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Langepas">
+			<state></state>
+			<latitude>612608</latitude>
+			<longitude>751408</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599052</latitude>
+			<longitude>302750</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad -- (State: Novosibirskaya Oblast)">
+			<state>Novosibirskaya Oblast</state>
+			<latitude>541355</latitude>
+			<longitude>792511</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad -- (State: Omskaya Oblast)">
+			<state>Omskaya Oblast</state>
+			<latitude>551608</latitude>
+			<longitude>713941</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad Baltiyskiy -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599108</latitude>
+			<longitude>303108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad Canal -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599722</latitude>
+			<longitude>298114</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad Finlyandskiy -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599608</latitude>
+			<longitude>303775</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad Moskovskiy -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599441</latitude>
+			<longitude>303775</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad Navalochnyy -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599108</latitude>
+			<longitude>303941</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad Oblast -- (State: Leningradskaya Oblast)">
+			<state>Leningradskaya Oblast</state>
+			<latitude>600108</latitude>
+			<longitude>320108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad Varshavskiy -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599108</latitude>
+			<longitude>303275</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad Vitebskiy -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599275</latitude>
+			<longitude>303441</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad-300 -- (State: Arkhangel skaya Oblast)">
+			<state>Arkhangel skaya Oblast</state>
+			<latitude>627941</latitude>
+			<longitude>403441</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad-Dekabristow -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599636</latitude>
+			<longitude>302464</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningrad-Tovarnaya Finlyandskiy -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599775</latitude>
+			<longitude>303608</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradka -- (State: Samarskaya Oblast)">
+			<state>Samarskaya Oblast</state>
+			<latitude>524441</latitude>
+			<longitude>511608</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradka -- (State: Omskaya Oblast)">
+			<state>Omskaya Oblast</state>
+			<latitude>564775</latitude>
+			<longitude>746108</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskaya -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>463250</latitude>
+			<longitude>394011</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskaya -- (State: Taymyrskiy (Dolgano-Nenetskiy) Avtonomnyy Okrug)">
+			<state>Taymyrskiy (Dolgano-Nenetskiy) Avtonomnyy Okrug</state>
+			<latitude>764275</latitude>
+			<longitude>1040108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskaya Sloboda -- (State: Leningradskaya Oblast)">
+			<state>Leningradskaya Oblast</state>
+			<latitude>602108</latitude>
+			<longitude>317775</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskaya Southwest -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>462658</latitude>
+			<longitude>394394</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskaya West -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>463075</latitude>
+			<longitude>393372</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskiy -- (State: Orenburgskaya Oblast)">
+			<state>Orenburgskaya Oblast</state>
+			<latitude>532608</latitude>
+			<longitude>522275</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskiy -- (State: Chukotskiy Avtonomnyy Okrug)">
+			<state>Chukotskiy Avtonomnyy Okrug</state>
+			<latitude>693941</latitude>
+			<longitude>1784275</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskiy -- (State: Voronezhskaya Oblast)">
+			<state>Voronezhskaya Oblast</state>
+			<latitude>510269</latitude>
+			<longitude>409636</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskiy -- (State: Kemerovskaya Oblast)">
+			<state>Kemerovskaya Oblast</state>
+			<latitude>553941</latitude>
+			<longitude>860941</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskiy Rayon -- (State: Moskva)">
+			<state>Moskva</state>
+			<latitude>558108</latitude>
+			<longitude>375441</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskiy Rayon -- (State: Kaliningradskaya Oblast)">
+			<state>Kaliningradskaya Oblast</state>
+			<latitude>547275</latitude>
+			<longitude>205108</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leningradskiy Rayon -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>461775</latitude>
+			<longitude>394275</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lipetsk -- (State: Lipetskaya Oblast)">
+			<state>Lipetskaya Oblast</state>
+			<latitude>526294</latitude>
+			<longitude>395797</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Magnitogorsk -- (State: Chelyabinskaya Oblast)">
+			<state>Chelyabinskaya Oblast</state>
+			<latitude>534295</latitude>
+			<longitude>590581</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makhach-Kala -- (State: Stavropol skiy Kray)">
+			<state>Stavropol skiy Kray</state>
+			<latitude>457290</latitude>
+			<longitude>423040</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makhach-Kala -- (State: Dagestan)">
+			<state>Dagestan</state>
+			<latitude>429981</latitude>
+			<longitude>475167</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makhachkala -- (State: Dagestan)">
+			<state>Dagestan</state>
+			<latitude>429862</latitude>
+			<longitude>475131</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mamontovo -- (State: Khanty-Mansiyskiy Avtonomnyy Okrug)">
+			<state>Khanty-Mansiyskiy Avtonomnyy Okrug</state>
+			<latitude>606776</latitude>
+			<longitude>728442</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maykop -- (State: Adygeya)">
+			<state>Adygeya</state>
+			<latitude>446187</latitude>
+			<longitude>401167</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Megion -- (State: Khanty-Mansiyskiy Avtonomnyy Okrug)">
+			<state>Khanty-Mansiyskiy Avtonomnyy Okrug</state>
+			<latitude>610609</latitude>
+			<longitude>761109</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Meleuz -- (State: Bashkortostan)">
+			<state>Bashkortostan</state>
+			<latitude>529609</latitude>
+			<longitude>559609</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mocha -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>554506</latitude>
+			<longitude>374726</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow -- (State: Moskva)">
+			<state>Moskva</state>
+			<latitude>557631</latitude>
+			<longitude>376265</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow Basin">
+			<state></state>
+			<latitude>550109</latitude>
+			<longitude>340109</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow Canal">
+			<state></state>
+			<latitude>567276</latitude>
+			<longitude>371442</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow Vnukovo -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>556034</latitude>
+			<longitude>372737</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Akishevo -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>556781</latitude>
+			<longitude>372617</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Central -- (State: Moskva)">
+			<state>Moskva</state>
+			<latitude>558009</latitude>
+			<longitude>375412</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Dolgoprudnyy -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>559473</latitude>
+			<longitude>375084</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Domodedovo -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>554212</latitude>
+			<longitude>379162</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Lyubertsy -- (State: Moskva)">
+			<state>Moskva</state>
+			<latitude>556956</latitude>
+			<longitude>378634</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Myachkovo -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>555712</latitude>
+			<longitude>379942</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Odintsovo -- (State: Moskva)">
+			<state>Moskva</state>
+			<latitude>556790</latitude>
+			<longitude>373115</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Orlovo -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>556512</latitude>
+			<longitude>374084</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Ostafyevo -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>555192</latitude>
+			<longitude>375201</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Salarevo -- (State: Moskva)">
+			<state>Moskva</state>
+			<latitude>556203</latitude>
+			<longitude>374578</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Sheremetyevo -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>559828</latitude>
+			<longitude>374248</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Suponino -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>558856</latitude>
+			<longitude>379840</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Tushino -- (State: Moskva)">
+			<state>Moskva</state>
+			<latitude>558309</latitude>
+			<longitude>374403</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moscow-Vykhina -- (State: Moskva)">
+			<state>Moskva</state>
+			<latitude>557120</latitude>
+			<longitude>377948</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskowskoje -- (State: Voronezhskaya Oblast)">
+			<state>Voronezhskaya Oblast</state>
+			<latitude>514220</latitude>
+			<longitude>396137</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva">
+			<state></state>
+			<latitude>550870</latitude>
+			<longitude>388523</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Pskovskaya Oblast)">
+			<state>Pskovskaya Oblast</state>
+			<latitude>581776</latitude>
+			<longitude>283109</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Tverskaya Oblast)">
+			<state>Tverskaya Oblast</state>
+			<latitude>569287</latitude>
+			<longitude>321742</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Vologodskaya Oblast)">
+			<state>Vologodskaya Oblast</state>
+			<latitude>601609</latitude>
+			<longitude>456776</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Dagestan)">
+			<state>Dagestan</state>
+			<latitude>441981</latitude>
+			<longitude>453137</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Tyumenskaya Oblast)">
+			<state>Tyumenskaya Oblast</state>
+			<latitude>574723</latitude>
+			<longitude>657295</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Novosibirskaya Oblast)">
+			<state>Novosibirskaya Oblast</state>
+			<latitude>541109</latitude>
+			<longitude>830276</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Kirovskaya Oblast)">
+			<state>Kirovskaya Oblast</state>
+			<latitude>579781</latitude>
+			<longitude>491226</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Saratovskaya Oblast)">
+			<state>Saratovskaya Oblast</state>
+			<latitude>521942</latitude>
+			<longitude>488942</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>455962</latitude>
+			<longitude>404326</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva -- (State: Samarskaya Oblast)">
+			<state>Samarskaya Oblast</state>
+			<latitude>531942</latitude>
+			<longitude>504609</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moskva Zapadnyy Port -- (State: Moskovskaya Oblast)">
+			<state>Moskovskaya Oblast</state>
+			<latitude>557609</latitude>
+			<longitude>375109</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Murmansk -- (State: Murmanskaya Oblast)">
+			<state>Murmanskaya Oblast</state>
+			<latitude>689776</latitude>
+			<longitude>330942</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naberezhnyye Chelny -- (State: Tatarstan)">
+			<state>Tatarstan</state>
+			<latitude>557671</latitude>
+			<longitude>524399</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nazran -- (State: Chechnya and Ingushetiya)">
+			<state>Chechnya and Ingushetiya</state>
+			<latitude>432371</latitude>
+			<longitude>447927</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neftekamsk -- (State: Bashkortostan)">
+			<state>Bashkortostan</state>
+			<latitude>560943</latitude>
+			<longitude>542777</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nefteyugansk -- (State: Khanty-Mansiyskiy Avtonomnyy Okrug)">
+			<state>Khanty-Mansiyskiy Avtonomnyy Okrug</state>
+			<latitude>610943</latitude>
+			<longitude>727110</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nizhnekamsk -- (State: Tatarstan)">
+			<state>Tatarstan</state>
+			<latitude>556493</latitude>
+			<longitude>518279</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nizhnevartovsk -- (State: Khanty-Mansiyskiy Avtonomnyy Okrug)">
+			<state>Khanty-Mansiyskiy Avtonomnyy Okrug</state>
+			<latitude>609443</latitude>
+			<longitude>765777</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nogliki -- (State: Sakhalinskaya Oblast)">
+			<state>Sakhalinskaya Oblast</state>
+			<latitude>518443</latitude>
+			<longitude>1431777</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novgorod -- (State: Primorskiy Kray)">
+			<state>Primorskiy Kray</state>
+			<latitude>426610</latitude>
+			<longitude>1308141</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novgorod -- (State: Novgorodskaya Oblast)">
+			<state>Novgorodskaya Oblast</state>
+			<latitude>585277</latitude>
+			<longitude>312943</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novokuznetsk -- (State: Kemerovskaya Oblast)">
+			<state>Kemerovskaya Oblast</state>
+			<latitude>537610</latitude>
+			<longitude>871110</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novorossiisk -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>447349</latitude>
+			<longitude>377818</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novosibirsk -- (State: Novosibirskaya Oblast)">
+			<state>Novosibirskaya Oblast</state>
+			<latitude>550521</latitude>
+			<longitude>829454</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novyy Urengoy -- (State: Yamalo-Nenetskiy Avtonomnyy Okrug)">
+			<state>Yamalo-Nenetskiy Avtonomnyy Okrug</state>
+			<latitude>660943</latitude>
+			<longitude>766443</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noyabr sk -- (State: Yamalo-Nenetskiy Avtonomnyy Okrug)">
+			<state>Yamalo-Nenetskiy Avtonomnyy Okrug</state>
+			<latitude>631777</latitude>
+			<longitude>756277</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omsk -- (State: Omskaya Oblast)">
+			<state>Omskaya Oblast</state>
+			<latitude>550111</latitude>
+			<longitude>734111</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orenburg -- (State: Orenburgskaya Oblast)">
+			<state>Orenburgskaya Oblast</state>
+			<latitude>517958</latitude>
+			<longitude>551097</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orenburg -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>443119</latitude>
+			<longitude>394050</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penza -- (State: Kemerovskaya Oblast)">
+			<state>Kemerovskaya Oblast</state>
+			<latitude>561034</latitude>
+			<longitude>866701</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penza -- (State: Penzenskaya Oblast)">
+			<state>Penzenskaya Oblast</state>
+			<latitude>531806</latitude>
+			<longitude>450468</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penza -- (State: Bashkortostan)">
+			<state>Bashkortostan</state>
+			<latitude>544612</latitude>
+			<longitude>553279</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perm -- (State: Permskaya Oblast)">
+			<state>Permskaya Oblast</state>
+			<latitude>580112</latitude>
+			<longitude>562612</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petrozavodsk -- (State: Kareliya)">
+			<state>Kareliya</state>
+			<latitude>618279</latitude>
+			<longitude>343445</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poykovskiy -- (State: Khanty-Mansiyskiy Avtonomnyy Okrug)">
+			<state>Khanty-Mansiyskiy Avtonomnyy Okrug</state>
+			<latitude>610168</latitude>
+			<longitude>719323</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pyatigorsk -- (State: Stavropol skiy Kray)">
+			<state>Stavropol skiy Kray</state>
+			<latitude>440604</latitude>
+			<longitude>430337</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qamysty Say">
+			<state></state>
+			<latitude>550113</latitude>
+			<longitude>715113</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qaraqaya Dagi">
+			<state></state>
+			<latitude>414805</latitude>
+			<longitude>472119</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qatyn Zhotasy">
+			<state></state>
+			<latitude>497938</latitude>
+			<longitude>865313</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qdim Asirimi">
+			<state></state>
+			<latitude>412788</latitude>
+			<longitude>474427</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qorida Dagi">
+			<state></state>
+			<latitude>418188</latitude>
+			<longitude>465888</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qorzhyntau Zhotasy">
+			<state></state>
+			<latitude>502227</latitude>
+			<longitude>846246</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qqoskelda -- (State: Chechnya and Ingushetiya)">
+			<state>Chechnya and Ingushetiya</state>
+			<latitude>432619</latitude>
+			<longitude>463652</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qudurdag">
+			<state></state>
+			<latitude>417930</latitude>
+			<longitude>468005</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qudurdag Asirimi">
+			<state></state>
+			<latitude>417855</latitude>
+			<longitude>468052</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quednau -- (State: Kaliningradskaya Oblast)">
+			<state>Kaliningradskaya Oblast</state>
+			<latitude>547613</latitude>
+			<longitude>205613</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quilitten -- (State: Kaliningradskaya Oblast)">
+			<state>Kaliningradskaya Oblast</state>
+			<latitude>544982</latitude>
+			<longitude>200824</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qulyndy Zhazyghy">
+			<state></state>
+			<latitude>530113</latitude>
+			<longitude>790113</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quton Dagi">
+			<state></state>
+			<latitude>418721</latitude>
+			<longitude>467727</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raduzhnyy -- (State: Khanty-Mansiyskiy Avtonomnyy Okrug)">
+			<state>Khanty-Mansiyskiy Avtonomnyy Okrug</state>
+			<latitude>621075</latitude>
+			<longitude>774864</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rostov-on-Don -- (State: Rostovskaya Oblast)">
+			<state>Rostovskaya Oblast</state>
+			<latitude>472478</latitude>
+			<longitude>397253</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ryazan -- (State: Ryazanskaya Oblast)">
+			<state>Ryazanskaya Oblast</state>
+			<latitude>546311</latitude>
+			<longitude>397514</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Petersburg -- (State: Sankt-Peterburg)">
+			<state>Sankt-Peterburg</state>
+			<latitude>599052</latitude>
+			<longitude>302750</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Petersburg Station -- (State: Moskva)">
+			<state>Moskva</state>
+			<latitude>557904</latitude>
+			<longitude>376662</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sakhalin -- (State: Sakhalinskaya Oblast)">
+			<state>Sakhalinskaya Oblast</state>
+			<latitude>510115</latitude>
+			<longitude>1430115</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salavat -- (State: Bashkortostan)">
+			<state>Bashkortostan</state>
+			<latitude>533832</latitude>
+			<longitude>559326</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara">
+			<state></state>
+			<latitude>531782</latitude>
+			<longitude>500782</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara -- (State: Chelyabinskaya Oblast)">
+			<state>Chelyabinskaya Oblast</state>
+			<latitude>549282</latitude>
+			<longitude>609282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara -- (State: Leningradskaya Oblast)">
+			<state>Leningradskaya Oblast</state>
+			<latitude>599809</latitude>
+			<longitude>343971</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara -- (State: Permskaya Oblast)">
+			<state>Permskaya Oblast</state>
+			<latitude>596423</latitude>
+			<longitude>580421</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara -- (State: Ryazanskaya Oblast)">
+			<state>Ryazanskaya Oblast</state>
+			<latitude>540262</latitude>
+			<longitude>388451</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara -- (State: Irkutskaya Oblast)">
+			<state>Irkutskaya Oblast</state>
+			<latitude>538623</latitude>
+			<longitude>1020243</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara -- (State: Bryanskaya Oblast)">
+			<state>Bryanskaya Oblast</state>
+			<latitude>531532</latitude>
+			<longitude>335704</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara -- (State: Voronezhskaya Oblast)">
+			<state>Voronezhskaya Oblast</state>
+			<latitude>518948</latitude>
+			<longitude>385782</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara -- (State: Yevreyskaya Avtonomnaya Oblast)">
+			<state>Yevreyskaya Avtonomnaya Oblast</state>
+			<latitude>477657</latitude>
+			<longitude>1313796</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samara -- (State: Orlovskaya Oblast)">
+			<state>Orlovskaya Oblast</state>
+			<latitude>523615</latitude>
+			<longitude>350115</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sankt-Peterburg">
+			<state></state>
+			<latitude>599282</latitude>
+			<longitude>302615</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saransk -- (State: Mordoviya)">
+			<state>Mordoviya</state>
+			<latitude>541948</latitude>
+			<longitude>451948</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saratov -- (State: Orenburgskaya Oblast)">
+			<state>Orenburgskaya Oblast</state>
+			<latitude>531282</latitude>
+			<longitude>548782</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saratov -- (State: Saratovskaya Oblast)">
+			<state>Saratovskaya Oblast</state>
+			<latitude>515782</latitude>
+			<longitude>460448</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sernovodsk -- (State: Chechnya and Ingushetiya)">
+			<state>Chechnya and Ingushetiya</state>
+			<latitude>433232</latitude>
+			<longitude>451743</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shadrinsk -- (State: Kurganskaya Oblast)">
+			<state>Kurganskaya Oblast</state>
+			<latitude>560940</latitude>
+			<longitude>636551</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Smolensk -- (State: Smolenskaya Oblast)">
+			<state>Smolenskaya Oblast</state>
+			<latitude>548357</latitude>
+			<longitude>320382</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sochi -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>435948</latitude>
+			<longitude>397259</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Staraya Kulatka -- (State: Ul yanovskaya Oblast)">
+			<state>Ul yanovskaya Oblast</state>
+			<latitude>527282</latitude>
+			<longitude>476282</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stavropol -- (State: Stavropol skiy Kray)">
+			<state>Stavropol skiy Kray</state>
+			<latitude>450443</latitude>
+			<longitude>420351</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sterlitamak -- (State: Bashkortostan)">
+			<state>Bashkortostan</state>
+			<latitude>536446</latitude>
+			<longitude>559579</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Surgut -- (State: Samarskaya Oblast)">
+			<state>Samarskaya Oblast</state>
+			<latitude>539448</latitude>
+			<longitude>512115</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Surgut -- (State: Khanty-Mansiyskiy Avtonomnyy Okrug)">
+			<state>Khanty-Mansiyskiy Avtonomnyy Okrug</state>
+			<latitude>612615</latitude>
+			<longitude>734282</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Syktyvkar -- (State: Komi)">
+			<state>Komi</state>
+			<latitude>616782</latitude>
+			<longitude>508237</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taganrog -- (State: Rostovskaya Oblast)">
+			<state>Rostovskaya Oblast</state>
+			<latitude>472330</latitude>
+			<longitude>389210</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tambov -- (State: Tambovskaya Oblast)">
+			<state>Tambovskaya Oblast</state>
+			<latitude>527172</latitude>
+			<longitude>413802</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tatarstan">
+			<state></state>
+			<latitude>553449</latitude>
+			<longitude>510116</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tobol sk -- (State: Tyumenskaya Oblast)">
+			<state>Tyumenskaya Oblast</state>
+			<latitude>582116</latitude>
+			<longitude>682783</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Togliatti -- (State: Samarskaya Oblast)">
+			<state>Samarskaya Oblast</state>
+			<latitude>535349</latitude>
+			<longitude>494241</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tomsk -- (State: Tomskaya Oblast)">
+			<state>Tomskaya Oblast</state>
+			<latitude>565116</latitude>
+			<longitude>849783</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tu -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>441985</latitude>
+			<longitude>388966</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuapse -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>440994</latitude>
+			<longitude>390933</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuimazy -- (State: Bashkortostan)">
+			<state>Bashkortostan</state>
+			<latitude>546116</latitude>
+			<longitude>537116</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tula -- (State: Tul skaya Oblast)">
+			<state>Tul skaya Oblast</state>
+			<latitude>542283</latitude>
+			<longitude>375610</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tula -- (State: Novosibirskaya Oblast)">
+			<state>Novosibirskaya Oblast</state>
+			<latitude>549116</latitude>
+			<longitude>828116</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tver -- (State: Tverskaya Oblast)">
+			<state>Tverskaya Oblast</state>
+			<latitude>568735</latitude>
+			<longitude>359047</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tyumen -- (State: Tyumenskaya Oblast)">
+			<state>Tyumenskaya Oblast</state>
+			<latitude>571638</latitude>
+			<longitude>655388</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tyumenskiy -- (State: Kransnodarskiy Kray)">
+			<state>Kransnodarskiy Kray</state>
+			<latitude>441924</latitude>
+			<longitude>389877</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ufa -- (State: Chelyabinskaya Oblast)">
+			<state>Chelyabinskaya Oblast</state>
+			<latitude>557617</latitude>
+			<longitude>601284</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ufa">
+			<state></state>
+			<latitude>546895</latitude>
+			<longitude>560039</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ufa -- (State: Bashkortostan)">
+			<state>Bashkortostan</state>
+			<latitude>547867</latitude>
+			<longitude>560492</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ufa Plateau -- (State: Bashkortostan)">
+			<state>Bashkortostan</state>
+			<latitude>567617</latitude>
+			<longitude>575117</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukhta -- (State: Komi)">
+			<state>Komi</state>
+			<latitude>636239</latitude>
+			<longitude>539000</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ul yanovsk -- (State: Ul yanovskaya Oblast)">
+			<state>Ul yanovskaya Oblast</state>
+			<latitude>543450</latitude>
+			<longitude>484117</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ul yanovskaya Oblast">
+			<state></state>
+			<latitude>540117</latitude>
+			<longitude>480117</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uray -- (State: Khanty-Mansiyskiy Avtonomnyy Okrug)">
+			<state>Khanty-Mansiyskiy Avtonomnyy Okrug</state>
+			<latitude>601364</latitude>
+			<longitude>647875</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urus-Martan -- (State: Chechnya and Ingushetiya)">
+			<state>Chechnya and Ingushetiya</state>
+			<latitude>431403</latitude>
+			<longitude>455548</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usinsk -- (State: Komi)">
+			<state>Komi</state>
+			<latitude>660056</latitude>
+			<longitude>575398</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vladikavkaz -- (State: Severnaya Osetiya-Alaniya)">
+			<state>Severnaya Osetiya-Alaniya</state>
+			<latitude>430546</latitude>
+			<longitude>446954</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vladimir -- (State: Primorskiy Kray)">
+			<state>Primorskiy Kray</state>
+			<latitude>439118</latitude>
+			<longitude>1355118</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vladimir -- (State: Vladimirskaya Oblast)">
+			<state>Vladimirskaya Oblast</state>
+			<latitude>561546</latitude>
+			<longitude>404099</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vladimir -- (State: Murmanskaya Oblast)">
+			<state>Murmanskaya Oblast</state>
+			<latitude>694260</latitude>
+			<longitude>331271</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vladimir -- (State: Irkutskaya Oblast)">
+			<state>Irkutskaya Oblast</state>
+			<latitude>534851</latitude>
+			<longitude>1026671</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vladivostok -- (State: Primorskiy Kray)">
+			<state>Primorskiy Kray</state>
+			<latitude>431451</latitude>
+			<longitude>1319118</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volgograd -- (State: Volgogradskaya Oblast)">
+			<state>Volgogradskaya Oblast</state>
+			<latitude>488165</latitude>
+			<longitude>445976</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voronezh">
+			<state></state>
+			<latitude>515299</latitude>
+			<longitude>391012</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voronezh -- (State: Voronezhskaya Oblast)">
+			<state>Voronezhskaya Oblast</state>
+			<latitude>516782</latitude>
+			<longitude>391818</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voronezh -- (State: Orenburgskaya Oblast)">
+			<state>Orenburgskaya Oblast</state>
+			<latitude>514129</latitude>
+			<longitude>580326</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voronezh -- (State: Altayskiy Kray)">
+			<state>Altayskiy Kray</state>
+			<latitude>512071</latitude>
+			<longitude>820221</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xoraca -- (State: Chechnya and Ingushetiya)">
+			<state>Chechnya and Ingushetiya</state>
+			<latitude>429223</latitude>
+			<longitude>461520</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakutsk -- (State: Sakha (Yakutiya))">
+			<state>Sakha (Yakutiya)</state>
+			<latitude>620460</latitude>
+			<longitude>1297452</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaroslavl -- (State: Yaroslavskaya Oblast)">
+			<state>Yaroslavskaya Oblast</state>
+			<latitude>576288</latitude>
+			<longitude>398788</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoshkar-Ola -- (State: Mariy-El)">
+			<state>Mariy-El</state>
+			<latitude>566490</latitude>
+			<longitude>478832</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuzhno-Sakhalinsk -- (State: Sakhalinskaya Oblast)">
+			<state>Sakhalinskaya Oblast</state>
+			<latitude>469643</latitude>
+			<longitude>1427527</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

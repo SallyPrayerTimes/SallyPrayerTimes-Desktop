@@ -1,0 +1,789 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="North Korea">
+		<city name="Daisanto-do">
+			<state></state>
+			<latitude>388100</latitude>
+			<longitude>1257600</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dogetsu -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>379106</latitude>
+			<longitude>1263989</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Donggi Dong -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>380567</latitude>
+			<longitude>1257969</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Haeju">
+			<state></state>
+			<latitude>380434</latitude>
+			<longitude>1257434</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eian -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>412657</latitude>
+			<longitude>1295029</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eikan-do -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>424362</latitude>
+			<longitude>1296945</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eiko -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>395579</latitude>
+			<longitude>1272534</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eiko-gun -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>395101</latitude>
+			<longitude>1273434</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eisanshi -- (State: P yongan-bukto)">
+			<state>P yongan-bukto</state>
+			<latitude>401495</latitude>
+			<longitude>1248259</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eizyu -- (State: P yongan-namdo)">
+			<state>P yongan-namdo</state>
+			<latitude>393168</latitude>
+			<longitude>1256054</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embon-do -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>415182</latitude>
+			<longitude>1296584</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enan -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>379190</latitude>
+			<longitude>1261712</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enbon-ri -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>402745</latitude>
+			<longitude>1286243</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Endai-ho -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>416273</latitude>
+			<longitude>1295923</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Engando -- (State: Yanggang-do)">
+			<state>Yanggang-do</state>
+			<latitude>415795</latitude>
+			<longitude>1288184</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enkai-suiri-chosuichi">
+			<state></state>
+			<latitude>378934</latitude>
+			<longitude>1260601</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enmokutan">
+			<state></state>
+			<latitude>403768</latitude>
+			<longitude>1263268</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ennan-ri -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>385801</latitude>
+			<longitude>1273243</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ensen-kaku -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>393212</latitude>
+			<longitude>1274651</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ensui-do -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>419787</latitude>
+			<longitude>1290943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entaizan -- (State: P yongan-bukto)">
+			<state>P yongan-bukto</state>
+			<latitude>397934</latitude>
+			<longitude>1245768</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entan">
+			<state></state>
+			<latitude>381768</latitude>
+			<longitude>1257434</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Entan-sen -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>381654</latitude>
+			<longitude>1257382</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faeyu-dong -- (State: P yongan-bukto)">
+			<state>P yongan-bukto</state>
+			<latitude>403083</latitude>
+			<longitude>1255808</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fankochi -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>376866</latitude>
+			<longitude>1253660</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fontina Point -- (State: Najin Sonbong-si)">
+			<state>Najin Sonbong-si</state>
+			<latitude>422583</latitude>
+			<longitude>1304133</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fu-gan -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>399674</latitude>
+			<longitude>1279283</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fu-to">
+			<state></state>
+			<latitude>392935</latitude>
+			<longitude>1275769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuho-do -- (State: P yongan-bukto)">
+			<state>P yongan-bukto</state>
+			<latitude>404524</latitude>
+			<longitude>1249555</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuho-ri -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>378377</latitude>
+			<longitude>1256052</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuindo -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>425219</latitude>
+			<longitude>1300466</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuji-nojo-chosuichi -- (State: P yongan-bukto)">
+			<state>P yongan-bukto</state>
+			<latitude>400702</latitude>
+			<longitude>1248485</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujindo-san -- (State: Hwanghae-bukto)">
+			<state>Hwanghae-bukto</state>
+			<latitude>385396</latitude>
+			<longitude>1262471</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujo">
+			<state></state>
+			<latitude>382102</latitude>
+			<longitude>1248769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujo-ri -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>383891</latitude>
+			<longitude>1256244</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukkei-ri -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>384558</latitude>
+			<longitude>1272696</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuko-sen">
+			<state></state>
+			<latitude>397269</latitude>
+			<longitude>1248935</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukudai-sen -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>404524</latitude>
+			<longitude>1289157</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukukei -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>384485</latitude>
+			<longitude>1272741</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukyo-do -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>420416</latitude>
+			<longitude>1299652</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funai-ri -- (State: Yanggang-do)">
+			<state>Yanggang-do</state>
+			<latitude>413355</latitude>
+			<longitude>1277580</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Funei -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>420766</latitude>
+			<longitude>1297144</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fusei-ri">
+			<state></state>
+			<latitude>403435</latitude>
+			<longitude>1272935</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fusen Reservoir -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>406216</latitude>
+			<longitude>1275519</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fusen-ko -- (State: Yanggang-do)">
+			<state>Yanggang-do</state>
+			<latitude>411380</latitude>
+			<longitude>1275280</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fusenkohan">
+			<state></state>
+			<latitude>405602</latitude>
+			<longitude>1275769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fusenrei">
+			<state></state>
+			<latitude>404102</latitude>
+			<longitude>1275769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fushitsugan-tan -- (State: Najin Sonbong-si)">
+			<state>Najin Sonbong-si</state>
+			<latitude>422713</latitude>
+			<longitude>1306185</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fusho-ri -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>400860</latitude>
+			<longitude>1282305</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futempo -- (State: Yanggang-do)">
+			<state>Yanggang-do</state>
+			<latitude>415294</latitude>
+			<longitude>1283096</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futo-ri -- (State: Yanggang-do)">
+			<state>Yanggang-do</state>
+			<latitude>413160</latitude>
+			<longitude>1284652</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futoku-ri -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>396577</latitude>
+			<longitude>1274988</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futsu-ko">
+			<state></state>
+			<latitude>390121</latitude>
+			<longitude>1257113</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Futsuryu-ko -- (State: P yongan-namdo)">
+			<state>P yongan-namdo</state>
+			<latitude>392513</latitude>
+			<longitude>1260488</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuzan-do -- (State: Yanggang-do)">
+			<state>Yanggang-do</state>
+			<latitude>415060</latitude>
+			<longitude>1271999</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamhung -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>399223</latitude>
+			<longitude>1275512</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hungnam">
+			<state></state>
+			<latitude>398437</latitude>
+			<longitude>1276437</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hungnam -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>398421</latitude>
+			<longitude>1276290</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hungnam-hang -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>398418</latitude>
+			<longitude>1276343</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hungnam-kuyok">
+			<state></state>
+			<latitude>398437</latitude>
+			<longitude>1276771</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hungnam-ni">
+			<state></state>
+			<latitude>399271</latitude>
+			<longitude>1274771</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hungnam-ni -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>383673</latitude>
+			<longitude>1251296</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hungnam-ni -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>398626</latitude>
+			<longitude>1275043</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hungnam-son -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>399110</latitude>
+			<longitude>1275454</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimmujo -- (State: Yanggang-do)">
+			<state>Yanggang-do</state>
+			<latitude>419800</latitude>
+			<longitude>1283223</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joba-do -- (State: Kaesong-si)">
+			<state>Kaesong-si</state>
+			<latitude>381564</latitude>
+			<longitude>1268684</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Josohei -- (State: Yanggang-do)">
+			<state>Yanggang-do</state>
+			<latitude>414670</latitude>
+			<longitude>1285231</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaesong -- (State: Kaesong-si)">
+			<state>Kaesong-si</state>
+			<latitude>379810</latitude>
+			<longitude>1265271</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="l-kol -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>401730</latitude>
+			<longitude>1285222</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="llgon-dong -- (State: Najin Sonbong-si)">
+			<state>Najin Sonbong-si</state>
+			<latitude>422352</latitude>
+			<longitude>1301038</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lo-ri -- (State: Hwanghae-bukto)">
+			<state>Hwanghae-bukto</state>
+			<latitude>382183</latitude>
+			<longitude>1264266</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lpsok-tong -- (State: Hwanghae-bukto)">
+			<state>Hwanghae-bukto</state>
+			<latitude>387580</latitude>
+			<longitude>1267694</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lundy Island -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>377744</latitude>
+			<longitude>1259127</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pyongyang -- (State: P yongyang-si)">
+			<state>P yongyang-si</state>
+			<latitude>390306</latitude>
+			<longitude>1257659</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seoul River">
+			<state></state>
+			<latitude>377615</latitude>
+			<longitude>1261948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sinuiju -- (State: P yongan-bukto)">
+			<state>P yongan-bukto</state>
+			<latitude>400951</latitude>
+			<longitude>1244193</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sinuiju-pu">
+			<state></state>
+			<latitude>401115</latitude>
+			<longitude>1244282</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan -- (State: Kaesong-si)">
+			<state>Kaesong-si</state>
+			<latitude>379447</latitude>
+			<longitude>1265466</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>391752</latitude>
+			<longitude>1274958</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan">
+			<state></state>
+			<latitude>399286</latitude>
+			<longitude>1245619</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-bu">
+			<state></state>
+			<latitude>391786</latitude>
+			<longitude>1273952</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-dong -- (State: P yongan-bukto)">
+			<state>P yongan-bukto</state>
+			<latitude>397025</latitude>
+			<longitude>1253886</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-dong -- (State: Hwanghae-bukto)">
+			<state>Hwanghae-bukto</state>
+			<latitude>383322</latitude>
+			<longitude>1259552</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-dong">
+			<state></state>
+			<latitude>397619</latitude>
+			<longitude>1248786</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-dong -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>424363</latitude>
+			<longitude>1298874</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-dong -- (State: P yongan-namdo)">
+			<state>P yongan-namdo</state>
+			<latitude>392613</latitude>
+			<longitude>1260205</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-hang -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>391777</latitude>
+			<longitude>1274708</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-ni">
+			<state></state>
+			<latitude>398786</latitude>
+			<longitude>1275452</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-ni -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>390280</latitude>
+			<longitude>1271775</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-ni -- (State: P yongan-namdo)">
+			<state>P yongan-namdo</state>
+			<latitude>388561</latitude>
+			<longitude>1252455</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-ni -- (State: Hwanghae-namdo)">
+			<state>Hwanghae-namdo</state>
+			<latitude>380980</latitude>
+			<longitude>1263858</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsan-yok -- (State: Kangwon-do)">
+			<state>Kangwon-do</state>
+			<latitude>391741</latitude>
+			<longitude>1274250</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsandok-san -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>405488</latitude>
+			<longitude>1290816</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsang -- (State: P yongan-bukto)">
+			<state>P yongan-bukto</state>
+			<latitude>396552</latitude>
+			<longitude>1251905</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsang">
+			<state></state>
+			<latitude>402786</latitude>
+			<longitude>1276619</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsang-ni -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>403922</latitude>
+			<longitude>1284563</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wonsang-ni">
+			<state></state>
+			<latitude>398952</latitude>
+			<longitude>1274619</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaigu-son -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>406289</latitude>
+			<longitude>1291789</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaiin-ri">
+			<state></state>
+			<latitude>402622</latitude>
+			<longitude>1272955</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zenseki-ne -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>409983</latitude>
+			<longitude>1297469</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zensen -- (State: Chagang-do)">
+			<state>Chagang-do</state>
+			<latitude>406980</latitude>
+			<longitude>1264714</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zenshin">
+			<state></state>
+			<latitude>400289</latitude>
+			<longitude>1279789</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zensyo To -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>399580</latitude>
+			<longitude>1279083</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zizyo -- (State: Chagang-do)">
+			<state>Chagang-do</state>
+			<latitude>414730</latitude>
+			<longitude>1266536</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zokkoji -- (State: Hamgyong-namdo)">
+			<state>Hamgyong-namdo</state>
+			<latitude>401483</latitude>
+			<longitude>1284683</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zui -- (State: Yanggang-do)">
+			<state>Yanggang-do</state>
+			<latitude>408155</latitude>
+			<longitude>1279589</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuiko">
+			<state></state>
+			<latitude>384622</latitude>
+			<longitude>1261622</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuiko-gun -- (State: Hwanghae-bukto)">
+			<state>Hwanghae-bukto</state>
+			<latitude>385122</latitude>
+			<longitude>1261789</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuiko-ko -- (State: Hwanghae-bukto)">
+			<state>Hwanghae-bukto</state>
+			<latitude>384561</latitude>
+			<longitude>1257166</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zyo-suira To -- (State: P yongan-namdo)">
+			<state>P yongan-namdo</state>
+			<latitude>387325</latitude>
+			<longitude>1251261</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zyokan San">
+			<state></state>
+			<latitude>401122</latitude>
+			<longitude>1283955</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zyosin -- (State: Hamgyong-bukto)">
+			<state>Hamgyong-bukto</state>
+			<latitude>407622</latitude>
+			<longitude>1291789</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

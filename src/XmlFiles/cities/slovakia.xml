@@ -1,0 +1,733 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Slovakia">
+		<city name="Banska Bystrica -- (State: Banskobystricky)">
+			<state>Banskobystricky</state>
+			<latitude>487431</latitude>
+			<longitude>191598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banskobystricky Kraj -- (State: Banskobystricky)">
+			<state>Banskobystricky</state>
+			<latitude>485098</latitude>
+			<longitude>195098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bratislava -- (State: Bratislavsky)">
+			<state>Bratislavsky</state>
+			<latitude>481598</latitude>
+			<longitude>171265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dobsina">
+			<state></state>
+			<latitude>488267</latitude>
+			<longitude>203767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eastern Carpathians">
+			<state></state>
+			<latitude>455101</latitude>
+			<longitude>265101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ebed">
+			<state></state>
+			<latitude>477934</latitude>
+			<longitude>186601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eberhart">
+			<state></state>
+			<latitude>481768</latitude>
+			<longitude>173101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egbell">
+			<state></state>
+			<latitude>487268</latitude>
+			<longitude>171434</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egeg">
+			<state></state>
+			<latitude>481601</latitude>
+			<longitude>188934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egeres">
+			<state></state>
+			<latitude>480268</latitude>
+			<longitude>188268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egres">
+			<state></state>
+			<latitude>486268</latitude>
+			<longitude>216268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egyhaz-Karcsa">
+			<state></state>
+			<latitude>479934</latitude>
+			<longitude>175934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egyhazas-Bast">
+			<state></state>
+			<latitude>481768</latitude>
+			<longitude>199601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eisenbrunndel">
+			<state></state>
+			<latitude>481934</latitude>
+			<longitude>170768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ekecs">
+			<state></state>
+			<latitude>478934</latitude>
+			<longitude>178268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ekel">
+			<state></state>
+			<latitude>478101</latitude>
+			<longitude>179434</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eliasovce">
+			<state></state>
+			<latitude>481268</latitude>
+			<longitude>174768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eljaszowka">
+			<state></state>
+			<latitude>494268</latitude>
+			<longitude>206601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elo Patony">
+			<state></state>
+			<latitude>480434</latitude>
+			<longitude>174934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Endred">
+			<state></state>
+			<latitude>481434</latitude>
+			<longitude>185268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Engerau">
+			<state></state>
+			<latitude>481434</latitude>
+			<longitude>171268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eny">
+			<state></state>
+			<latitude>481768</latitude>
+			<longitude>184268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eperjes">
+			<state></state>
+			<latitude>480601</latitude>
+			<longitude>177101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erdopuszta">
+			<state></state>
+			<latitude>478768</latitude>
+			<longitude>183101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erdutka">
+			<state></state>
+			<latitude>493934</latitude>
+			<longitude>191934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eresteny Pusta">
+			<state></state>
+			<latitude>481768</latitude>
+			<longitude>192101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ersek-Lel">
+			<state></state>
+			<latitude>477768</latitude>
+			<longitude>179101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etreove Kracany">
+			<state></state>
+			<latitude>479934</latitude>
+			<longitude>175601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fyr">
+			<state></state>
+			<latitude>479435</latitude>
+			<longitude>184102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ida Potok">
+			<state></state>
+			<latitude>485938</latitude>
+			<longitude>209605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iglo">
+			<state></state>
+			<latitude>489605</latitude>
+			<longitude>205772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Igram">
+			<state></state>
+			<latitude>482938</latitude>
+			<longitude>174772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ihla">
+			<state></state>
+			<latitude>491938</latitude>
+			<longitude>206272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ihrac">
+			<state></state>
+			<latitude>486605</latitude>
+			<longitude>189605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iklad Tanya">
+			<state></state>
+			<latitude>480272</latitude>
+			<longitude>184938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilavka">
+			<state></state>
+			<latitude>489605</latitude>
+			<longitude>182772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilianovka">
+			<state></state>
+			<latitude>490772</latitude>
+			<longitude>196438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilias">
+			<state></state>
+			<latitude>487105</latitude>
+			<longitude>191605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iliasovo">
+			<state></state>
+			<latitude>481105</latitude>
+			<longitude>192772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilija">
+			<state></state>
+			<latitude>484272</latitude>
+			<longitude>189105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilona">
+			<state></state>
+			<latitude>484272</latitude>
+			<longitude>176938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilonahalma">
+			<state></state>
+			<latitude>484938</latitude>
+			<longitude>202272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imbreg">
+			<state></state>
+			<latitude>484938</latitude>
+			<longitude>218272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imel">
+			<state></state>
+			<latitude>479105</latitude>
+			<longitude>181605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imrichov Kopec">
+			<state></state>
+			<latitude>483438</latitude>
+			<longitude>194438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imrovka">
+			<state></state>
+			<latitude>482938</latitude>
+			<longitude>193272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inovecke Hory">
+			<state></state>
+			<latitude>486772</latitude>
+			<longitude>180105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipel">
+			<state></state>
+			<latitude>485772</latitude>
+			<longitude>197272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipel ske Ul any">
+			<state></state>
+			<latitude>481438</latitude>
+			<longitude>190605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipolica">
+			<state></state>
+			<latitude>490272</latitude>
+			<longitude>199605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipoly-Kovacsi">
+			<state></state>
+			<latitude>481105</latitude>
+			<longitude>194772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipolypaszto">
+			<state></state>
+			<latitude>479772</latitude>
+			<longitude>187772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ireg">
+			<state></state>
+			<latitude>482938</latitude>
+			<longitude>179772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isla">
+			<state></state>
+			<latitude>490438</latitude>
+			<longitude>212938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istebne">
+			<state></state>
+			<latitude>492272</latitude>
+			<longitude>192272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istok">
+			<state></state>
+			<latitude>485772</latitude>
+			<longitude>185938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istvanova">
+			<state></state>
+			<latitude>492438</latitude>
+			<longitude>190772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivachnova">
+			<state></state>
+			<latitude>491105</latitude>
+			<longitude>194272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanic">
+			<state></state>
+			<latitude>484938</latitude>
+			<longitude>189105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanice">
+			<state></state>
+			<latitude>483438</latitude>
+			<longitude>202605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanka Majer">
+			<state></state>
+			<latitude>480772</latitude>
+			<longitude>188438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanka pri Dunaji">
+			<state></state>
+			<latitude>481938</latitude>
+			<longitude>172772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanov">
+			<state></state>
+			<latitude>479105</latitude>
+			<longitude>184772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanov Vrch">
+			<state></state>
+			<latitude>489605</latitude>
+			<longitude>215105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanovce">
+			<state></state>
+			<latitude>488438</latitude>
+			<longitude>179105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ivanovska Dolina">
+			<state></state>
+			<latitude>488605</latitude>
+			<longitude>178938</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iviny">
+			<state></state>
+			<latitude>486272</latitude>
+			<longitude>194272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iza">
+			<state></state>
+			<latitude>477605</latitude>
+			<longitude>182438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izap">
+			<state></state>
+			<latitude>478605</latitude>
+			<longitude>177605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izbice">
+			<state></state>
+			<latitude>487772</latitude>
+			<longitude>178438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izipovce">
+			<state></state>
+			<latitude>491605</latitude>
+			<longitude>195105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izkovce">
+			<state></state>
+			<latitude>485605</latitude>
+			<longitude>219605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kosice -- (State: Kosicky)">
+			<state>Kosicky</state>
+			<latitude>487274</latitude>
+			<longitude>212607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martin">
+			<state></state>
+			<latitude>490776</latitude>
+			<longitude>189442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martina">
+			<state></state>
+			<latitude>490776</latitude>
+			<longitude>198942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martincek">
+			<state></state>
+			<latitude>490942</latitude>
+			<longitude>193442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martinci">
+			<state></state>
+			<latitude>493609</latitude>
+			<longitude>183776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martinova">
+			<state></state>
+			<latitude>483109</latitude>
+			<longitude>201942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martinske Hole">
+			<state></state>
+			<latitude>490776</latitude>
+			<longitude>188109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nitra">
+			<state></state>
+			<latitude>478110</latitude>
+			<longitude>181443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Partizanske">
+			<state></state>
+			<latitude>486445</latitude>
+			<longitude>183945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Piest any">
+			<state></state>
+			<latitude>486112</latitude>
+			<longitude>178445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Presov -- (State: Presovsky)">
+			<state>Presovsky</state>
+			<latitude>490112</latitude>
+			<longitude>212612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Presoven">
+			<state></state>
+			<latitude>485779</latitude>
+			<longitude>178612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Presovske">
+			<state></state>
+			<latitude>488112</latitude>
+			<longitude>214279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Presovsky">
+			<state></state>
+			<latitude>491779</latitude>
+			<longitude>212612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prievidza">
+			<state></state>
+			<latitude>487779</latitude>
+			<longitude>186445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Secovce">
+			<state></state>
+			<latitude>487115</latitude>
+			<longitude>216615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trencin -- (State: Trenciansky)">
+			<state>Trenciansky</state>
+			<latitude>489116</latitude>
+			<longitude>180449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trnava">
+			<state></state>
+			<latitude>482949</latitude>
+			<longitude>176449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vieska">
+			<state></state>
+			<latitude>482785</latitude>
+			<longitude>194785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waag">
+			<state></state>
+			<latitude>479286</latitude>
+			<longitude>180286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waagbistritz">
+			<state></state>
+			<latitude>491286</latitude>
+			<longitude>184619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wackowa">
+			<state></state>
+			<latitude>494286</latitude>
+			<longitude>211119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wagendrussel">
+			<state></state>
+			<latitude>488619</latitude>
+			<longitude>206452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walachen Hohe">
+			<state></state>
+			<latitude>488786</latitude>
+			<longitude>207119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waltersdorf">
+			<state></state>
+			<latitude>481119</latitude>
+			<longitude>172452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weidritz">
+			<state></state>
+			<latitude>481619</latitude>
+			<longitude>170786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weretyszow">
+			<state></state>
+			<latitude>493619</latitude>
+			<longitude>219119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Beskid Mountains">
+			<state></state>
+			<latitude>495119</latitude>
+			<longitude>195119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wielka Polana">
+			<state></state>
+			<latitude>493286</latitude>
+			<longitude>208952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilczy Gron">
+			<state></state>
+			<latitude>495119</latitude>
+			<longitude>192452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winschendorf">
+			<state></state>
+			<latitude>492452</latitude>
+			<longitude>204452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zilina -- (State: Zilinsky)">
+			<state>Zilinsky</state>
+			<latitude>492289</latitude>
+			<longitude>187455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

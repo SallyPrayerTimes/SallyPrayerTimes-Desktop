@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Svalbard And Jan Mayen">
+		<city name="1934 Peak">
+			<state></state>
+			<latitude>772382</latitude>
+			<longitude>160716</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Longyearbreen">
+			<state></state>
+			<latitude>781941</latitude>
+			<longitude>155275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moffen">
+			<state></state>
+			<latitude>800276</latitude>
+			<longitude>145109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

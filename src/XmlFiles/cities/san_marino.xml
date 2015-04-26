@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="San Marino">
+		<city name="Acquaviva">
+			<state></state>
+			<latitude>439597</latitude>
+			<longitude>124264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chiesanuova">
+			<state></state>
+			<latitude>439099</latitude>
+			<longitude>124266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falciano">
+			<state></state>
+			<latitude>439935</latitude>
+			<longitude>125102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fiorentino">
+			<state></state>
+			<latitude>439269</latitude>
+			<longitude>124602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fratta">
+			<state></state>
+			<latitude>439602</latitude>
+			<longitude>124602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poggio di Chiesanuova">
+			<state></state>
+			<latitude>439279</latitude>
+			<longitude>124279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Repubblica di San Marino">
+			<state></state>
+			<latitude>439447</latitude>
+			<longitude>124281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="San Marino">
+			<state></state>
+			<latitude>439282</latitude>
+			<longitude>124782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Serravalle">
+			<state></state>
+			<latitude>439615</latitude>
+			<longitude>125115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

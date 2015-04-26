@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Ghana">
+		<city name="Accra">
+			<state></state>
+			<latitude>55597</latitude>
+			<longitude>-2070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Accra International Airport">
+			<state></state>
+			<latitude>56097</latitude>
+			<longitude>-1570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Accra Plains">
+			<state></state>
+			<latitude>60097</latitude>
+			<longitude>3430</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Accra Point">
+			<state></state>
+			<latitude>55264</latitude>
+			<longitude>-1903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Accra Region -- (State: Greater Accra)">
+			<state>Greater Accra</state>
+			<latitude>57597</latitude>
+			<longitude>97</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Accra Roads">
+			<state></state>
+			<latitude>55264</latitude>
+			<longitude>-2070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agona Swedru">
+			<state></state>
+			<latitude>55430</latitude>
+			<longitude>-6903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bjambigi">
+			<state></state>
+			<latitude>104265</latitude>
+			<longitude>1765</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cape Coast">
+			<state></state>
+			<latitude>51099</latitude>
+			<longitude>-12401</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Florto">
+			<state></state>
+			<latitude>58435</latitude>
+			<longitude>8102</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ifakrom">
+			<state></state>
+			<latitude>57438</latitude>
+			<longitude>-23728</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ifou">
+			<state></state>
+			<latitude>73272</latitude>
+			<longitude>-33062</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Impatasia">
+			<state></state>
+			<latitude>74938</latitude>
+			<longitude>-25728</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Insu">
+			<state></state>
+			<latitude>55938</latitude>
+			<longitude>-19228</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Issa">
+			<state></state>
+			<latitude>103938</latitude>
+			<longitude>-23228</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kasoe">
+			<state></state>
+			<latitude>84774</latitude>
+			<longitude>-226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koforidua">
+			<state></state>
+			<latitude>60940</latitude>
+			<longitude>-2393</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kumasi">
+			<state></state>
+			<latitude>54607</latitude>
+			<longitude>-9560</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kumasi -- (State: Western)">
+			<state>Western</state>
+			<latitude>48646</latitude>
+			<longitude>-20735</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nima">
+			<state></state>
+			<latitude>55943</latitude>
+			<longitude>-1890</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queen Annes Point">
+			<state></state>
+			<latitude>51280</latitude>
+			<longitude>-11887</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quigba">
+			<state></state>
+			<latitude>61113</latitude>
+			<longitude>8780</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quittah">
+			<state></state>
+			<latitude>59280</latitude>
+			<longitude>9946</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Ahema">
+			<state></state>
+			<latitude>49447</latitude>
+			<longitude>-22053</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Kulpwan">
+			<state></state>
+			<latitude>103614</latitude>
+			<longitude>-10719</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Munni">
+			<state></state>
+			<latitude>53614</latitude>
+			<longitude>-6553</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roani Bank">
+			<state></state>
+			<latitude>49114</latitude>
+			<longitude>-16053</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sekondi">
+			<state></state>
+			<latitude>49448</latitude>
+			<longitude>-16885</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sekondi Bay">
+			<state></state>
+			<latitude>49615</latitude>
+			<longitude>-16718</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sekondi Waterworks">
+			<state></state>
+			<latitude>50282</latitude>
+			<longitude>-17385</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takoradi">
+			<state></state>
+			<latitude>48949</latitude>
+			<longitude>-17384</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takoradi Bay">
+			<state></state>
+			<latitude>49116</latitude>
+			<longitude>-17051</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takoradi Harbour">
+			<state></state>
+			<latitude>48949</latitude>
+			<longitude>-17217</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takoradi Reef">
+			<state></state>
+			<latitude>48783</latitude>
+			<longitude>-17217</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamale -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>96966</latitude>
+			<longitude>-8209</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamale">
+			<state></state>
+			<latitude>96949</latitude>
+			<longitude>-8217</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamale Port">
+			<state></state>
+			<latitude>91783</latitude>
+			<longitude>-11551</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tema">
+			<state></state>
+			<latitude>104949</latitude>
+			<longitude>-1384</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tema Harbour">
+			<state></state>
+			<latitude>56449</latitude>
+			<longitude>283</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Temane Natinga">
+			<state></state>
+			<latitude>108783</latitude>
+			<longitude>-1217</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uabuli">
+			<state></state>
+			<latitude>96617</latitude>
+			<longitude>1117</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uane">
+			<state></state>
+			<latitude>79617</latitude>
+			<longitude>2784</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uani Lagoon">
+			<state></state>
+			<latitude>51117</latitude>
+			<longitude>-28883</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uati">
+			<state></state>
+			<latitude>70450</latitude>
+			<longitude>5617</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uaua">
+			<state></state>
+			<latitude>72117</latitude>
+			<longitude>3117</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uauwa">
+			<state></state>
+			<latitude>76784</latitude>
+			<longitude>4784</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udu">
+			<state></state>
+			<latitude>50950</latitude>
+			<longitude>-13550</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukonia Ahenkro">
+			<state></state>
+			<latitude>71284</latitude>
+			<longitude>3284</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukusi">
+			<state></state>
+			<latitude>63617</latitude>
+			<longitude>450</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulebul">
+			<state></state>
+			<latitude>81284</latitude>
+			<longitude>2284</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulu">
+			<state></state>
+			<latitude>106950</latitude>
+			<longitude>-25383</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umpigo">
+			<state></state>
+			<latitude>91450</latitude>
+			<longitude>1784</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unblele">
+			<state></state>
+			<latitude>61284</latitude>
+			<longitude>7617</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ungokofe">
+			<state></state>
+			<latitude>63284</latitude>
+			<longitude>7284</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unke">
+			<state></state>
+			<latitude>67450</latitude>
+			<longitude>3784</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unya">
+			<state></state>
+			<latitude>74450</latitude>
+			<longitude>-12550</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uoch -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>101378</latitude>
+			<longitude>1634</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urasua">
+			<state></state>
+			<latitude>67284</latitude>
+			<longitude>-28550</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urnbo">
+			<state></state>
+			<latitude>79950</latitude>
+			<longitude>3450</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urukwane">
+			<state></state>
+			<latitude>84284</latitude>
+			<longitude>-14550</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utekoche">
+			<state></state>
+			<latitude>59284</latitude>
+			<longitude>784</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uuli">
+			<state></state>
+			<latitude>61117</latitude>
+			<longitude>9284</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwasi -- (State: Upper East)">
+			<state>Upper East</state>
+			<latitude>104950</latitude>
+			<longitude>-12216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wa">
+			<state></state>
+			<latitude>84286</latitude>
+			<longitude>-23048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xelu">
+			<state></state>
+			<latitude>70787</latitude>
+			<longitude>5120</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

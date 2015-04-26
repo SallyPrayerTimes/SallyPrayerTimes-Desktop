@@ -1,0 +1,1230 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Guadeloupe">
+		<city name="Abymes">
+			<state></state>
+			<latitude>162764</latitude>
+			<longitude>-614903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baie-Mahault">
+			<state></state>
+			<latitude>162765</latitude>
+			<longitude>-615735</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Basse-Terre">
+			<state></state>
+			<latitude>160098</latitude>
+			<longitude>-617069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="D Equainville">
+			<state></state>
+			<latitude>162600</latitude>
+			<longitude>-613733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="De Berard">
+			<state></state>
+			<latitude>162600</latitude>
+			<longitude>-613400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="De Bouillante Faux Peak">
+			<state></state>
+			<latitude>161267</latitude>
+			<longitude>-617233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="De Poyen">
+			<state></state>
+			<latitude>161933</latitude>
+			<longitude>-616067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Decostier">
+			<state></state>
+			<latitude>162933</latitude>
+			<longitude>-616400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Degrat">
+			<state></state>
+			<latitude>162600</latitude>
+			<longitude>-611733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Desbonnes">
+			<state></state>
+			<latitude>164933</latitude>
+			<longitude>-614233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deshayes">
+			<state></state>
+			<latitude>163100</latitude>
+			<longitude>-617733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Desmarais">
+			<state></state>
+			<latitude>161433</latitude>
+			<longitude>-617567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Desplan">
+			<state></state>
+			<latitude>162267</latitude>
+			<longitude>-617567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Desrotours Canal">
+			<state></state>
+			<latitude>163600</latitude>
+			<longitude>-614733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Destrelan">
+			<state></state>
+			<latitude>162600</latitude>
+			<longitude>-615567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deuxieme Branch River">
+			<state></state>
+			<latitude>162600</latitude>
+			<longitude>-616567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deuxieme Chute du Carbet">
+			<state></state>
+			<latitude>160433</latitude>
+			<longitude>-616233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Devilet">
+			<state></state>
+			<latitude>160267</latitude>
+			<longitude>-616733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diavet">
+			<state></state>
+			<latitude>163267</latitude>
+			<longitude>-616900</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dole">
+			<state></state>
+			<latitude>159933</latitude>
+			<longitude>-616567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorilas">
+			<state></state>
+			<latitude>160933</latitude>
+			<longitude>-617567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorot">
+			<state></state>
+			<latitude>159600</latitude>
+			<longitude>-612400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dos d Ane">
+			<state></state>
+			<latitude>163267</latitude>
+			<longitude>-617400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dos de Cheval">
+			<state></state>
+			<latitude>160100</latitude>
+			<longitude>-616233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Douville">
+			<state></state>
+			<latitude>162600</latitude>
+			<longitude>-613567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Du Plessis River">
+			<state></state>
+			<latitude>160433</latitude>
+			<longitude>-617233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dubois">
+			<state></state>
+			<latitude>159267</latitude>
+			<longitude>-612067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ducos">
+			<state></state>
+			<latitude>158933</latitude>
+			<longitude>-612733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dupre">
+			<state></state>
+			<latitude>162267</latitude>
+			<longitude>-613733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dupuy">
+			<state></state>
+			<latitude>162600</latitude>
+			<longitude>-615900</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duzer">
+			<state></state>
+			<latitude>163433</latitude>
+			<longitude>-617233</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Echelle">
+			<state></state>
+			<latitude>160434</latitude>
+			<longitude>-616399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emilien">
+			<state></state>
+			<latitude>163268</latitude>
+			<longitude>-614232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang As de Pique">
+			<state></state>
+			<latitude>160268</latitude>
+			<longitude>-616232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang aux Poissons">
+			<state></state>
+			<latitude>180768</latitude>
+			<longitude>-630066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang Cocoyer">
+			<state></state>
+			<latitude>163101</latitude>
+			<longitude>-613566</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang de Simpson">
+			<state></state>
+			<latitude>180601</latitude>
+			<longitude>-630899</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang du Vieux Fort">
+			<state></state>
+			<latitude>163601</latitude>
+			<longitude>-617399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang Fortin">
+			<state></state>
+			<latitude>160101</latitude>
+			<longitude>-616399</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang Guichard">
+			<state></state>
+			<latitude>181032</latitude>
+			<longitude>-630566</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang Zombi">
+			<state></state>
+			<latitude>160434</latitude>
+			<longitude>-616066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falle Bay Point">
+			<state></state>
+			<latitude>159435</latitude>
+			<longitude>-613065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faup">
+			<state></state>
+			<latitude>159269</latitude>
+			<longitude>-612898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fauyais">
+			<state></state>
+			<latitude>164102</latitude>
+			<longitude>-615065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Favreau">
+			<state></state>
+			<latitude>162602</latitude>
+			<longitude>-612898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferry Point">
+			<state></state>
+			<latitude>162769</latitude>
+			<longitude>-617898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fextand">
+			<state></state>
+			<latitude>163602</latitude>
+			<longitude>-614565</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flagstaff">
+			<state></state>
+			<latitude>180602</latitude>
+			<longitude>-630398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flandre Bank">
+			<state></state>
+			<latitude>164102</latitude>
+			<longitude>-608898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Folle Anse">
+			<state></state>
+			<latitude>159602</latitude>
+			<longitude>-613231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fond-Caraibe">
+			<state></state>
+			<latitude>162602</latitude>
+			<longitude>-612231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fonds Cacao">
+			<state></state>
+			<latitude>160435</latitude>
+			<longitude>-615731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foret de Fefe">
+			<state></state>
+			<latitude>160769</latitude>
+			<longitude>-616231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort de Marigot">
+			<state></state>
+			<latitude>180769</latitude>
+			<longitude>-630898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Karl">
+			<state></state>
+			<latitude>178935</latitude>
+			<longitude>-628398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Napoleon">
+			<state></state>
+			<latitude>158769</latitude>
+			<longitude>-615565</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Oscar">
+			<state></state>
+			<latitude>179102</latitude>
+			<longitude>-628398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Richepanse">
+			<state></state>
+			<latitude>159935</latitude>
+			<longitude>-617231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouche">
+			<state></state>
+			<latitude>162435</latitude>
+			<longitude>-613898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fourche">
+			<state></state>
+			<latitude>179769</latitude>
+			<longitude>-628898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fourmis">
+			<state></state>
+			<latitude>178769</latitude>
+			<longitude>-627898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Francoeur Bay">
+			<state></state>
+			<latitude>162769</latitude>
+			<longitude>-618065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Francois Point">
+			<state></state>
+			<latitude>164435</latitude>
+			<longitude>-613731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fregate">
+			<state></state>
+			<latitude>161935</latitude>
+			<longitude>-615398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frigate Islet">
+			<state></state>
+			<latitude>159769</latitude>
+			<longitude>-612231</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fromager">
+			<state></state>
+			<latitude>163269</latitude>
+			<longitude>-610565</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gozier">
+			<state></state>
+			<latitude>162103</latitude>
+			<longitude>-614730</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guadeloupe">
+			<state></state>
+			<latitude>162603</latitude>
+			<longitude>-615730</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guadeloupe Channel">
+			<state></state>
+			<latitude>157603</latitude>
+			<longitude>-614897</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haut de la Montagne">
+			<state></state>
+			<latitude>164437</latitude>
+			<longitude>-614563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Houelmont">
+			<state></state>
+			<latitude>159937</latitude>
+			<longitude>-616896</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabrun">
+			<state></state>
+			<latitude>162439</latitude>
+			<longitude>-615894</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabrun-du-Sud">
+			<state></state>
+			<latitude>163106</latitude>
+			<longitude>-614394</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacquelot">
+			<state></state>
+			<latitude>159439</latitude>
+			<longitude>-611894</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarry">
+			<state></state>
+			<latitude>162439</latitude>
+			<longitude>-615394</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joubert">
+			<state></state>
+			<latitude>158939</latitude>
+			<longitude>-612561</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kahouanne">
+			<state></state>
+			<latitude>162607</latitude>
+			<longitude>-611893</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanaal van Sint Barth s">
+			<state></state>
+			<latitude>180107</latitude>
+			<longitude>-629893</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kleine Antillen">
+			<state></state>
+			<latitude>150107</latitude>
+			<longitude>-609893</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neau">
+			<state></state>
+			<latitude>162110</latitude>
+			<longitude>-616057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neree">
+			<state></state>
+			<latitude>162777</latitude>
+			<longitude>-614723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nez Casse">
+			<state></state>
+			<latitude>160610</latitude>
+			<longitude>-616557</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nogent">
+			<state></state>
+			<latitude>163610</latitude>
+			<longitude>-617057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noire River">
+			<state></state>
+			<latitude>160443</latitude>
+			<longitude>-616890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nord-Ouest Bay">
+			<state></state>
+			<latitude>163443</latitude>
+			<longitude>-613390</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Fort Point">
+			<state></state>
+			<latitude>163778</latitude>
+			<longitude>-617556</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orleans">
+			<state></state>
+			<latitude>180778</latitude>
+			<longitude>-630222</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oyster Pond">
+			<state></state>
+			<latitude>180611</latitude>
+			<longitude>-630056</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pointe-a-Pitre">
+			<state></state>
+			<latitude>162445</latitude>
+			<longitude>-615055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartier des Flamands">
+			<state></state>
+			<latitude>179280</latitude>
+			<longitude>-628387</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartier du Colombier">
+			<state></state>
+			<latitude>180946</latitude>
+			<longitude>-630554</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartier du Gouverneur">
+			<state></state>
+			<latitude>178780</latitude>
+			<longitude>-628220</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartier du Grand Fond">
+			<state></state>
+			<latitude>178946</latitude>
+			<longitude>-627887</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartier Lorient">
+			<state></state>
+			<latitude>179113</latitude>
+			<longitude>-628054</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatre Chemins">
+			<state></state>
+			<latitude>162946</latitude>
+			<longitude>-614720</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatrieme Bras">
+			<state></state>
+			<latitude>162446</latitude>
+			<longitude>-616887</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sable Branch">
+			<state></state>
+			<latitude>162448</latitude>
+			<longitude>-616552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saiette">
+			<state></state>
+			<latitude>163282</latitude>
+			<longitude>-614385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Barts">
+			<state></state>
+			<latitude>179115</latitude>
+			<longitude>-628218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Felix">
+			<state></state>
+			<latitude>162115</latitude>
+			<longitude>-614385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Francois">
+			<state></state>
+			<latitude>162615</latitude>
+			<longitude>-612552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Germain">
+			<state></state>
+			<latitude>159782</latitude>
+			<longitude>-612385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Gilles">
+			<state></state>
+			<latitude>159948</latitude>
+			<longitude>-616218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Jacques">
+			<state></state>
+			<latitude>164948</latitude>
+			<longitude>-614385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Marc">
+			<state></state>
+			<latitude>159115</latitude>
+			<longitude>-612552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Prix">
+			<state></state>
+			<latitude>164282</latitude>
+			<longitude>-614218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Sauveur Bay">
+			<state></state>
+			<latitude>160115</latitude>
+			<longitude>-615718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Val-Labique">
+			<state></state>
+			<latitude>160115</latitude>
+			<longitude>-617385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte-Anne">
+			<state></state>
+			<latitude>162448</latitude>
+			<longitude>-613552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte-Claire">
+			<state></state>
+			<latitude>161282</latitude>
+			<longitude>-615552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte-Croix">
+			<state></state>
+			<latitude>159448</latitude>
+			<longitude>-612218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte-Madeleine">
+			<state></state>
+			<latitude>162948</latitude>
+			<longitude>-612885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte-Marguerite">
+			<state></state>
+			<latitude>163948</latitude>
+			<longitude>-613885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte-Marie">
+			<state></state>
+			<latitude>161115</latitude>
+			<longitude>-615385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte-Marie des Bois">
+			<state></state>
+			<latitude>160782</latitude>
+			<longitude>-615718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte-Marthe">
+			<state></state>
+			<latitude>162615</latitude>
+			<longitude>-612385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte-Rose">
+			<state></state>
+			<latitude>163448</latitude>
+			<longitude>-616718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saline Chevrise">
+			<state></state>
+			<latitude>181115</latitude>
+			<longitude>-630385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saline Fisch">
+			<state></state>
+			<latitude>180948</latitude>
+			<longitude>-630052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Satge">
+			<state></state>
+			<latitude>160282</latitude>
+			<longitude>-616052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Savane">
+			<state></state>
+			<latitude>159948</latitude>
+			<longitude>-616052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sec Pripri">
+			<state></state>
+			<latitude>163615</latitude>
+			<longitude>-616385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Secs a Chevaux">
+			<state></state>
+			<latitude>163448</latitude>
+			<longitude>-615385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seforge">
+			<state></state>
+			<latitude>162782</latitude>
+			<longitude>-613552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seze Favreux">
+			<state></state>
+			<latitude>162615</latitude>
+			<longitude>-612718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Siblet">
+			<state></state>
+			<latitude>159448</latitude>
+			<longitude>-612885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sint Maarten">
+			<state></state>
+			<latitude>180782</latitude>
+			<longitude>-630552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sofaia">
+			<state></state>
+			<latitude>162948</latitude>
+			<longitude>-617052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sommet a la Touffe">
+			<state></state>
+			<latitude>161948</latitude>
+			<longitude>-617385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sommets de Bouillante">
+			<state></state>
+			<latitude>161448</latitude>
+			<longitude>-617052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Souffleur">
+			<state></state>
+			<latitude>163282</latitude>
+			<longitude>-610218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Spaniard Rock">
+			<state></state>
+			<latitude>181448</latitude>
+			<longitude>-630052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Subercazeau">
+			<state></state>
+			<latitude>163115</latitude>
+			<longitude>-616552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sucrerie Blanchet">
+			<state></state>
+			<latitude>163282</latitude>
+			<longitude>-613885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sucrerie Bonne-Mere">
+			<state></state>
+			<latitude>162782</latitude>
+			<longitude>-616552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sugarloaf">
+			<state></state>
+			<latitude>158782</latitude>
+			<longitude>-615718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Surgy">
+			<state></state>
+			<latitude>162782</latitude>
+			<longitude>-613052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terre de Bas">
+			<state></state>
+			<latitude>161783</latitude>
+			<longitude>-611051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terre du Bas">
+			<state></state>
+			<latitude>158616</latitude>
+			<longitude>-616051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tete a Boeuf">
+			<state></state>
+			<latitude>164783</latitude>
+			<longitude>-614051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tete a l Anglais">
+			<state></state>
+			<latitude>163783</latitude>
+			<longitude>-617384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tete Allegre">
+			<state></state>
+			<latitude>162783</latitude>
+			<longitude>-617217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tete Rouge">
+			<state></state>
+			<latitude>158783</latitude>
+			<longitude>-615884</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toc Verte">
+			<state></state>
+			<latitude>179616</latitude>
+			<longitude>-628051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toigny">
+			<state></state>
+			<latitude>179116</latitude>
+			<longitude>-627884</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trois-Ilets">
+			<state></state>
+			<latitude>159449</latitude>
+			<longitude>-613217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trois-Rivieres">
+			<state></state>
+			<latitude>159783</latitude>
+			<longitude>-616217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Troisieme Bras">
+			<state></state>
+			<latitude>162616</latitude>
+			<longitude>-616717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou a Coa">
+			<state></state>
+			<latitude>162449</latitude>
+			<longitude>-613384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Canard">
+			<state></state>
+			<latitude>161783</latitude>
+			<longitude>-611217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Caraibe">
+			<state></state>
+			<latitude>163616</latitude>
+			<longitude>-615051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou du Souffleur">
+			<state></state>
+			<latitude>164949</latitude>
+			<longitude>-614051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaisseaux Bank">
+			<state></state>
+			<latitude>161451</latitude>
+			<longitude>-612715</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valeau">
+			<state></state>
+			<latitude>160285</latitude>
+			<longitude>-616882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee d Or">
+			<state></state>
+			<latitude>162785</latitude>
+			<longitude>-612382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallon Vrimouth">
+			<state></state>
+			<latitude>159451</latitude>
+			<longitude>-612549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vanniers">
+			<state></state>
+			<latitude>159285</latitude>
+			<longitude>-612549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verdier">
+			<state></state>
+			<latitude>162118</latitude>
+			<longitude>-615882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verge">
+			<state></state>
+			<latitude>159451</latitude>
+			<longitude>-612382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vermont">
+			<state></state>
+			<latitude>164118</latitude>
+			<longitude>-614549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vernou">
+			<state></state>
+			<latitude>161951</latitude>
+			<longitude>-616382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Versailles">
+			<state></state>
+			<latitude>162285</latitude>
+			<longitude>-615715</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vezou">
+			<state></state>
+			<latitude>163118</latitude>
+			<longitude>-612549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vidon">
+			<state></state>
+			<latitude>159118</latitude>
+			<longitude>-612215</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Bourg">
+			<state></state>
+			<latitude>163451</latitude>
+			<longitude>-614882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Fort Point">
+			<state></state>
+			<latitude>159618</latitude>
+			<longitude>-616882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux-Fort Riviere">
+			<state></state>
+			<latitude>163618</latitude>
+			<longitude>-617215</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux-Habitants">
+			<state></state>
+			<latitude>160618</latitude>
+			<longitude>-617382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Violon">
+			<state></state>
+			<latitude>159618</latitude>
+			<longitude>-616715</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vipart">
+			<state></state>
+			<latitude>163451</latitude>
+			<longitude>-613882</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Channel">
+			<state></state>
+			<latitude>179119</latitude>
+			<longitude>-628548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whale Rock">
+			<state></state>
+			<latitude>158952</latitude>
+			<longitude>-615714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windward Bay">
+			<state></state>
+			<latitude>158952</latitude>
+			<longitude>-615881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windward Islands">
+			<state></state>
+			<latitude>130119</latitude>
+			<longitude>-609881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zevallos">
+			<state></state>
+			<latitude>163122</latitude>
+			<longitude>-612711</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

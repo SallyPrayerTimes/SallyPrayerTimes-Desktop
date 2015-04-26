@@ -1,0 +1,600 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Liberia">
+		<city name="3A -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>60051</latitude>
+			<longitude>-97449</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3B -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>62551</latitude>
+			<longitude>-93282</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abironda Mountain -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>73094</latitude>
+			<longitude>-84164</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agikolazizu -- (State: (LI05))">
+			<state>(LI05)</state>
+			<latitude>83597</latitude>
+			<longitude>-97070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alabama Camp -- (State: (LI05))">
+			<state>(LI05)</state>
+			<latitude>81772</latitude>
+			<longitude>-99417</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anchuah Town -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>64264</latitude>
+			<longitude>-95736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Andrews Town -- (State: (LI05))">
+			<state>(LI05)</state>
+			<latitude>69355</latitude>
+			<longitude>-106592</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Athol Rock -- (State: Maryland)">
+			<state>Maryland</state>
+			<latitude>43441</latitude>
+			<longitude>-76539</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ayema -- (State: (LI05))">
+			<state>(LI05)</state>
+			<latitude>82514</latitude>
+			<longitude>-95159</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buchanan -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>59120</latitude>
+			<longitude>-100469</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ganta -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>72453</latitude>
+			<longitude>-89741</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gbarnga -- (State: Bong)">
+			<state>Bong</state>
+			<latitude>70059</latitude>
+			<longitude>-94619</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harbel -- (State: Margibi)">
+			<state>Margibi</state>
+			<latitude>62901</latitude>
+			<longitude>-103371</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harper -- (State: Maryland)">
+			<state>Maryland</state>
+			<latitude>44271</latitude>
+			<longitude>-76229</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibrani -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>69374</latitude>
+			<longitude>-88592</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igenta -- (State: Montserrado)">
+			<state>Montserrado</state>
+			<latitude>66683</latitude>
+			<longitude>-105870</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ioto -- (State: Bomi)">
+			<state>Bomi</state>
+			<latitude>66286</latitude>
+			<longitude>-110223</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isaac Town -- (State: Margibi)">
+			<state>Margibi</state>
+			<latitude>66105</latitude>
+			<longitude>-99728</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kakata -- (State: Margibi)">
+			<state>Margibi</state>
+			<latitude>65407</latitude>
+			<longitude>-103410</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kakata -- (State: Montserrado)">
+			<state>Montserrado</state>
+			<latitude>66126</latitude>
+			<longitude>-104596</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kakata -- (State: (LI08))">
+			<state>(LI08)</state>
+			<latitude>66774</latitude>
+			<longitude>-103226</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madina -- (State: Grand Cape Mount)">
+			<state>Grand Cape Mount</state>
+			<latitude>68803</latitude>
+			<longitude>-113269</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madina -- (State: Bomi)">
+			<state>Bomi</state>
+			<latitude>66303</latitude>
+			<longitude>-107119</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madina -- (State: (LI05))">
+			<state>(LI05)</state>
+			<latitude>70498</latitude>
+			<longitude>-105030</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monrovia -- (State: Bong)">
+			<state>Bong</state>
+			<latitude>66776</latitude>
+			<longitude>-96558</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monrovia -- (State: Montserrado)">
+			<state>Montserrado</state>
+			<latitude>63215</latitude>
+			<longitude>-107938</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monrovia Bay -- (State: (LI08))">
+			<state>(LI08)</state>
+			<latitude>63609</latitude>
+			<longitude>-108058</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monrovia Harbor -- (State: Montserrado)">
+			<state>Montserrado</state>
+			<latitude>63540</latitude>
+			<longitude>-107827</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monrovia Spriggs Payne -- (State: Montserrado)">
+			<state>Montserrado</state>
+			<latitude>63006</latitude>
+			<longitude>-107472</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oberguinea">
+			<state></state>
+			<latitude>70111</latitude>
+			<longitude>-39889</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ochg Town -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>60597</latitude>
+			<longitude>-100461</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojata -- (State: Margibi)">
+			<state>Margibi</state>
+			<latitude>66278</latitude>
+			<longitude>-100722</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojo -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>64447</latitude>
+			<longitude>-90170</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okaibli -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>61278</latitude>
+			<longitude>-102056</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okepie -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>65250</latitude>
+			<longitude>-88842</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okia -- (State: (LI08))">
+			<state>(LI08)</state>
+			<latitude>70611</latitude>
+			<longitude>-107389</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oko Boli -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>68203</latitude>
+			<longitude>-88689</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Boe -- (State: (LI02))">
+			<state>(LI02)</state>
+			<latitude>62944</latitude>
+			<longitude>-79222</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Gbain Town -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>71086</latitude>
+			<longitude>-87850</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oldman Johnnybli -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>62778</latitude>
+			<longitude>-99389</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ololohn -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>69872</latitude>
+			<longitude>-86845</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omalu -- (State: (LI05))">
+			<state>(LI05)</state>
+			<latitude>69405</latitude>
+			<longitude>-106867</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omata -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>65042</latitude>
+			<longitude>-93511</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omeli -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>71489</latitude>
+			<longitude>-86720</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onka Creek -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>70411</latitude>
+			<longitude>-89050</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Operator Camp -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>61278</latitude>
+			<longitude>-97556</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ostru -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>61111</latitude>
+			<longitude>-101722</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otikehn -- (State: Maryland)">
+			<state>Maryland</state>
+			<latitude>47444</latitude>
+			<longitude>-80722</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouenzie">
+			<state></state>
+			<latitude>80778</latitude>
+			<longitude>-94056</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oui -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>71611</latitude>
+			<longitude>-84722</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oule River">
+			<state></state>
+			<latitude>73778</latitude>
+			<longitude>-94722</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outer Patch -- (State: Maryland)">
+			<state>Maryland</state>
+			<latitude>43778</latitude>
+			<longitude>-79056</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outer Rock -- (State: Sinoe)">
+			<state>Sinoe</state>
+			<latitude>52444</latitude>
+			<longitude>-94222</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Outer Rocks -- (State: Maryland)">
+			<state>Maryland</state>
+			<latitude>43778</latitude>
+			<longitude>-77222</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Owen s Gnove -- (State: Margibi)">
+			<state>Margibi</state>
+			<latitude>62769</latitude>
+			<longitude>-103245</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quahn -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>70946</latitude>
+			<longitude>-85054</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quai -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>69613</latitude>
+			<longitude>-90387</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qualala -- (State: Bong)">
+			<state>Bong</state>
+			<latitude>68666</latitude>
+			<longitude>-97712</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quanabo River -- (State: (LI02))">
+			<state>(LI02)</state>
+			<latitude>52780</latitude>
+			<longitude>-74720</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quehtrayah -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>61366</latitude>
+			<longitude>-101381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quema -- (State: Margibi)">
+			<state>Margibi</state>
+			<latitude>67280</latitude>
+			<longitude>-99387</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quemah -- (State: Grand Cape Mount)">
+			<state>Grand Cape Mount</state>
+			<latitude>69396</latitude>
+			<longitude>-112334</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quiapiple -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>66146</latitude>
+			<longitude>-85290</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinie Creek -- (State: Bomi)">
+			<state>Bomi</state>
+			<latitude>65446</latitude>
+			<longitude>-108887</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quittatuaon -- (State: Sinoe)">
+			<state>Sinoe</state>
+			<latitude>50035</latitude>
+			<longitude>-87801</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoi Quoi Ta -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>62280</latitude>
+			<longitude>-96220</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoyah -- (State: Bong)">
+			<state>Bong</state>
+			<latitude>72613</latitude>
+			<longitude>-91387</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tapita -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>65038</latitude>
+			<longitude>-88487</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tubmanburg -- (State: Bomi)">
+			<state>Bomi</state>
+			<latitude>68824</latitude>
+			<longitude>-108056</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubah -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>71145</latitude>
+			<longitude>-84077</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ufaka -- (State: Grand Kru)">
+			<state>Grand Kru</state>
+			<latitude>47220</latitude>
+			<longitude>-82072</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unification Town -- (State: Margibi)">
+			<state>Margibi</state>
+			<latitude>62598</latitude>
+			<longitude>-103511</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Taso -- (State: Sinoe)">
+			<state>Sinoe</state>
+			<latitude>51845</latitude>
+			<longitude>-92094</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uro River -- (State: Sinoe)">
+			<state>Sinoe</state>
+			<latitude>48117</latitude>
+			<longitude>-86550</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utagabli -- (State: Grand Bassa)">
+			<state>Grand Bassa</state>
+			<latitude>58117</latitude>
+			<longitude>-98216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velokua -- (State: (LI05))">
+			<state>(LI05)</state>
+			<latitude>70912</latitude>
+			<longitude>-106693</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vena -- (State: Margibi)">
+			<state>Margibi</state>
+			<latitude>67354</latitude>
+			<longitude>-100946</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vengeleta -- (State: Bong)">
+			<state>Bong</state>
+			<latitude>68285</latitude>
+			<longitude>-102549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venje Hills -- (State: (LI02))">
+			<state>(LI02)</state>
+			<latitude>62285</latitude>
+			<longitude>-81715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vetesu -- (State: (LI05))">
+			<state>(LI05)</state>
+			<latitude>80785</latitude>
+			<longitude>-95882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voinjama -- (State: (LI05))">
+			<state>(LI05)</state>
+			<latitude>84337</latitude>
+			<longitude>-97360</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vubadi -- (State: (LI02))">
+			<state>(LI02)</state>
+			<latitude>57951</latitude>
+			<longitude>-85215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vui -- (State: Nimba)">
+			<state>Nimba</state>
+			<latitude>66985</latitude>
+			<longitude>-90790</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuwe Creek -- (State: (LI08))">
+			<state>(LI08)</state>
+			<latitude>63618</latitude>
+			<longitude>-103049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zwedru -- (State: (LI02))">
+			<state>(LI02)</state>
+			<latitude>60355</latitude>
+			<longitude>-81359</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

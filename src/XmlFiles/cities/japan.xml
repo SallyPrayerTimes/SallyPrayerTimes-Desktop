@@ -1,0 +1,4128 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Japan">
+		<city name="Adachi-ku">
+			<state></state>
+			<latitude>357930</latitude>
+			<longitude>1397930</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agatsuma">
+			<state></state>
+			<latitude>365430</latitude>
+			<longitude>1387597</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agatsuma-kawa">
+			<state></state>
+			<latitude>365097</latitude>
+			<longitude>1390264</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agatsuma-yama">
+			<state></state>
+			<latitude>365430</latitude>
+			<longitude>1384264</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aichi-gawa">
+			<state></state>
+			<latitude>352097</latitude>
+			<longitude>1361264</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aichi-gun">
+			<state></state>
+			<latitude>351764</latitude>
+			<longitude>1362597</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aichi-hana">
+			<state></state>
+			<latitude>339930</latitude>
+			<longitude>1322097</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aichi-ken -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>350097</latitude>
+			<longitude>1372597</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akita -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>435430</latitude>
+			<longitude>1440264</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akita">
+			<state></state>
+			<latitude>397264</latitude>
+			<longitude>1400764</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akita-ken -- (State: Akita)">
+			<state>Akita</state>
+			<latitude>400097</latitude>
+			<longitude>1405097</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akita-shi">
+			<state></state>
+			<latitude>397097</latitude>
+			<longitude>1401264</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amagasaki -- (State: Hyogo)">
+			<state>Hyogo</state>
+			<latitude>347264</latitude>
+			<longitude>1354264</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ami-machi">
+			<state></state>
+			<latitude>360430</latitude>
+			<longitude>1402264</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anan-shi">
+			<state></state>
+			<latitude>339264</latitude>
+			<longitude>1346764</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anegasaki -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>354764</latitude>
+			<longitude>1400430</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anjo -- (State: Kagoshima)">
+			<state>Kagoshima</state>
+			<latitude>306597</latitude>
+			<longitude>1310597</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anjo -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>349597</latitude>
+			<longitude>1370930</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arakawa-ku">
+			<state></state>
+			<latitude>357430</latitude>
+			<longitude>1397930</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asahikawa -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>437775</latitude>
+			<longitude>1423800</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asahikawa-shi">
+			<state></state>
+			<latitude>437764</latitude>
+			<longitude>1423764</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asaka-shi">
+			<state></state>
+			<latitude>358097</latitude>
+			<longitude>1396097</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asakusa">
+			<state></state>
+			<latitude>357264</latitude>
+			<longitude>1398097</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asamushi -- (State: Aomori)">
+			<state>Aomori</state>
+			<latitude>408953</latitude>
+			<longitude>1408766</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ashikaga-shi">
+			<state></state>
+			<latitude>363430</latitude>
+			<longitude>1394597</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atsugi -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>354486</latitude>
+			<longitude>1393694</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atsugi-shi">
+			<state></state>
+			<latitude>354764</latitude>
+			<longitude>1393430</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beppu">
+			<state></state>
+			<latitude>351098</latitude>
+			<longitude>1325431</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beppu -- (State: Oita)">
+			<state>Oita</state>
+			<latitude>332834</latitude>
+			<longitude>1315017</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beppu Bay -- (State: Oita)">
+			<state>Oita</state>
+			<latitude>333098</latitude>
+			<longitude>1315767</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Biroo">
+			<state></state>
+			<latitude>423098</latitude>
+			<longitude>1432265</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Biroo -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>422937</latitude>
+			<longitude>1433290</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiba-ken -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>355099</latitude>
+			<longitude>1403432</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiba-shi">
+			<state></state>
+			<latitude>356099</latitude>
+			<longitude>1401266</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chibana -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>263685</latitude>
+			<longitude>1278188</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiryu-shi">
+			<state></state>
+			<latitude>350099</latitude>
+			<longitude>1370432</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chiyoda-ku">
+			<state></state>
+			<latitude>356932</latitude>
+			<longitude>1397599</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chofu-shi">
+			<state></state>
+			<latitude>356599</latitude>
+			<longitude>1395599</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chubu">
+			<state></state>
+			<latitude>360099</latitude>
+			<longitude>1375099</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuo-ku">
+			<state></state>
+			<latitude>356932</latitude>
+			<longitude>1397932</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ebina">
+			<state></state>
+			<latitude>354434</latitude>
+			<longitude>1353934</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Edogawa-ku">
+			<state></state>
+			<latitude>357101</latitude>
+			<longitude>1398934</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ehime-ken -- (State: Ehime)">
+			<state>Ehime</state>
+			<latitude>337601</latitude>
+			<longitude>1327601</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuchinobe -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>355841</latitude>
+			<longitude>1393857</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuchu -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>356769</latitude>
+			<longitude>1394935</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuchu-shi">
+			<state></state>
+			<latitude>356769</latitude>
+			<longitude>1395102</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuji -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>351769</latitude>
+			<longitude>1386935</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuji-shi">
+			<state></state>
+			<latitude>352102</latitude>
+			<longitude>1387269</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujinomiya-shi">
+			<state></state>
+			<latitude>353102</latitude>
+			<longitude>1386269</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujisawa -- (State: Ibaraki)">
+			<state>Ibaraki</state>
+			<latitude>361269</latitude>
+			<longitude>1401602</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujisawa -- (State: Iwate)">
+			<state>Iwate</state>
+			<latitude>388769</latitude>
+			<longitude>1413602</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujisawa">
+			<state></state>
+			<latitude>386602</latitude>
+			<longitude>1410769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujisawa -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>353521</latitude>
+			<longitude>1394802</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fujisawa-shi">
+			<state></state>
+			<latitude>353435</latitude>
+			<longitude>1394935</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukui">
+			<state></state>
+			<latitude>360769</latitude>
+			<longitude>1362269</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukui-ken -- (State: Fukui)">
+			<state>Fukui</state>
+			<latitude>360102</latitude>
+			<longitude>1362602</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuoka">
+			<state></state>
+			<latitude>335935</latitude>
+			<longitude>1304102</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuoka -- (State: Toyama)">
+			<state>Toyama</state>
+			<latitude>367102</latitude>
+			<longitude>1369435</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuoka -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>349102</latitude>
+			<longitude>1371602</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuoka -- (State: Gifu)">
+			<state>Gifu</state>
+			<latitude>355769</latitude>
+			<longitude>1374602</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuoka -- (State: Hyogo)">
+			<state>Hyogo</state>
+			<latitude>354269</latitude>
+			<longitude>1346102</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuoka -- (State: Iwate)">
+			<state>Iwate</state>
+			<latitude>402799</latitude>
+			<longitude>1413130</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuoka-ko">
+			<state></state>
+			<latitude>336102</latitude>
+			<longitude>1303935</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuoka-shi">
+			<state></state>
+			<latitude>335769</latitude>
+			<longitude>1303769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuoka-wan">
+			<state></state>
+			<latitude>336435</latitude>
+			<longitude>1303435</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukushima">
+			<state></state>
+			<latitude>377602</latitude>
+			<longitude>1404769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukushima -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>362602</latitude>
+			<longitude>1389435</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukushima-ken -- (State: Fukushima)">
+			<state>Fukushima</state>
+			<latitude>375102</latitude>
+			<longitude>1402602</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fukuyama -- (State: Hiroshima)">
+			<state>Hiroshima</state>
+			<latitude>344935</latitude>
+			<longitude>1333769</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fussa-shi">
+			<state></state>
+			<latitude>357435</latitude>
+			<longitude>1393435</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gifu">
+			<state></state>
+			<latitude>354270</latitude>
+			<longitude>1367603</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gifu-ken -- (State: Gifu)">
+			<state>Gifu</state>
+			<latitude>357603</latitude>
+			<longitude>1370103</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gifu-shi">
+			<state></state>
+			<latitude>354270</latitude>
+			<longitude>1367770</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ginan-cho">
+			<state></state>
+			<latitude>353936</latitude>
+			<longitude>1367936</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gumma -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>436989</latitude>
+			<longitude>1416975</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gumma">
+			<state></state>
+			<latitude>364270</latitude>
+			<longitude>1389270</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gumma-ken -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>365103</latitude>
+			<longitude>1390103</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyotoku -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>356936</latitude>
+			<longitude>1399270</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hachioji -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>356662</latitude>
+			<longitude>1393343</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hachioji Bana">
+			<state></state>
+			<latitude>351271</latitude>
+			<longitude>1398437</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hachioji-hana">
+			<state></state>
+			<latitude>354271</latitude>
+			<longitude>1396771</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadano -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>353815</latitude>
+			<longitude>1392340</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadano-shi">
+			<state></state>
+			<latitude>354104</latitude>
+			<longitude>1392104</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakodate -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>417862</latitude>
+			<longitude>1407471</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakodate">
+			<state></state>
+			<latitude>417771</latitude>
+			<longitude>1407437</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hakodate-shi">
+			<state></state>
+			<latitude>417937</latitude>
+			<longitude>1407604</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamamatsu-shi">
+			<state></state>
+			<latitude>347104</latitude>
+			<longitude>1377437</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hashimoto -- (State: Wakayama)">
+			<state>Wakayama</state>
+			<latitude>343271</latitude>
+			<longitude>1356271</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hashimoto">
+			<state></state>
+			<latitude>343271</latitude>
+			<longitude>1356437</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hashimoto -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>356104</latitude>
+			<longitude>1393604</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hashimoto -- (State: Aomori)">
+			<state>Aomori</state>
+			<latitude>408271</latitude>
+			<longitude>1407604</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hasuda-shi">
+			<state></state>
+			<latitude>359937</latitude>
+			<longitude>1396771</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higashi-hiroshima-shi">
+			<state></state>
+			<latitude>344604</latitude>
+			<longitude>1327271</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higashi-maizuru -- (State: Kyoto)">
+			<state>Kyoto</state>
+			<latitude>354771</latitude>
+			<longitude>1354104</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higashi-osaka-shi">
+			<state></state>
+			<latitude>346771</latitude>
+			<longitude>1356104</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hikone-shi">
+			<state></state>
+			<latitude>352771</latitude>
+			<longitude>1362604</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Himeji -- (State: Hyogo)">
+			<state>Hyogo</state>
+			<latitude>348271</latitude>
+			<longitude>1347104</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hino -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>356835</latitude>
+			<longitude>1394107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hirakata -- (State: Osaka)">
+			<state>Osaka</state>
+			<latitude>348104</latitude>
+			<longitude>1356437</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hirakata-shi">
+			<state></state>
+			<latitude>348437</latitude>
+			<longitude>1357104</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiratsuka -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>353335</latitude>
+			<longitude>1393526</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiratsuka-shi">
+			<state></state>
+			<latitude>353437</latitude>
+			<longitude>1393437</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hirosaki -- (State: Aomori)">
+			<state>Aomori</state>
+			<latitude>406035</latitude>
+			<longitude>1404829</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hirosaki-shi">
+			<state></state>
+			<latitude>406104</latitude>
+			<longitude>1404771</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiroshima">
+			<state></state>
+			<latitude>344104</latitude>
+			<longitude>1324604</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiroshima -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>429862</latitude>
+			<longitude>1415776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiroshima-ken -- (State: Hiroshima)">
+			<state>Hiroshima</state>
+			<latitude>345104</latitude>
+			<longitude>1330104</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiroshima-ko">
+			<state></state>
+			<latitude>343604</latitude>
+			<longitude>1324771</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiroshima-wan">
+			<state></state>
+			<latitude>340937</latitude>
+			<longitude>1323437</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hitachi">
+			<state></state>
+			<latitude>363437</latitude>
+			<longitude>1403437</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hitachi -- (State: Ibaraki)">
+			<state>Ibaraki</state>
+			<latitude>366104</latitude>
+			<longitude>1406604</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hitachi-shi">
+			<state></state>
+			<latitude>365937</latitude>
+			<longitude>1406604</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hokkaido">
+			<state></state>
+			<latitude>440104</latitude>
+			<longitude>1430104</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Honjo -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>362437</latitude>
+			<longitude>1391937</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hyogo-ken -- (State: Hyogo)">
+			<state>Hyogo</state>
+			<latitude>350104</latitude>
+			<longitude>1350104</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibara -- (State: Okayama)">
+			<state>Okayama</state>
+			<latitude>346105</latitude>
+			<longitude>1334772</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibaraki -- (State: Osaka)">
+			<state>Osaka</state>
+			<latitude>348272</latitude>
+			<longitude>1355772</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibaraki-ken -- (State: Ibaraki)">
+			<state>Ibaraki</state>
+			<latitude>365105</latitude>
+			<longitude>1405105</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iburibashi -- (State: Ishikawa)">
+			<state>Ishikawa</state>
+			<latitude>363272</latitude>
+			<longitude>1363938</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ichihara-shi">
+			<state></state>
+			<latitude>354272</latitude>
+			<longitude>1401272</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ichikawa -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>357302</latitude>
+			<longitude>1399352</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ichikawa-shi">
+			<state></state>
+			<latitude>357438</latitude>
+			<longitude>1399105</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iida -- (State: Nagano)">
+			<state>Nagano</state>
+			<latitude>355272</latitude>
+			<longitude>1378438</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iizuka -- (State: Fukuoka)">
+			<state>Fukuoka</state>
+			<latitude>336438</latitude>
+			<longitude>1306938</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iizuka-shi">
+			<state></state>
+			<latitude>336438</latitude>
+			<longitude>1307105</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikoma -- (State: Nara)">
+			<state>Nara</state>
+			<latitude>346938</latitude>
+			<longitude>1357105</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikuta -- (State: Hyogo)">
+			<state>Hyogo</state>
+			<latitude>344938</latitude>
+			<longitude>1349105</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikuta">
+			<state></state>
+			<latitude>355938</latitude>
+			<longitude>1379772</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikuta -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>356272</latitude>
+			<longitude>1395605</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imari -- (State: Saga)">
+			<state>Saga</state>
+			<latitude>332772</latitude>
+			<longitude>1298938</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imizu">
+			<state></state>
+			<latitude>367272</latitude>
+			<longitude>1370938</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isesaki -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>363272</latitude>
+			<longitude>1392105</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isesaki-shi">
+			<state></state>
+			<latitude>363272</latitude>
+			<longitude>1391938</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ishikawa-ken -- (State: Ishikawa)">
+			<state>Ishikawa</state>
+			<latitude>367605</latitude>
+			<longitude>1367605</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itabashi-ku">
+			<state></state>
+			<latitude>357605</latitude>
+			<longitude>1396772</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwaki -- (State: Fukushima)">
+			<state>Fukushima</state>
+			<latitude>370605</latitude>
+			<longitude>1408938</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwata">
+			<state></state>
+			<latitude>349272</latitude>
+			<longitude>1377605</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwata -- (State: Wakayama)">
+			<state>Wakayama</state>
+			<latitude>337105</latitude>
+			<longitude>1354605</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwata -- (State: Niigata)">
+			<state>Niigata</state>
+			<latitude>373772</latitude>
+			<longitude>1387605</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwata -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>339938</latitude>
+			<longitude>1320049</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwata -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>347105</latitude>
+			<longitude>1378605</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwata-shi">
+			<state></state>
+			<latitude>347272</latitude>
+			<longitude>1378772</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwataki -- (State: Kyoto)">
+			<state>Kyoto</state>
+			<latitude>355772</latitude>
+			<longitude>1351605</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwatsuki-shi">
+			<state></state>
+			<latitude>359605</latitude>
+			<longitude>1396938</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izumi-shi">
+			<state></state>
+			<latitude>344438</latitude>
+			<longitude>1354772</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izumo -- (State: Shimane)">
+			<state>Shimane</state>
+			<latitude>353772</latitude>
+			<longitude>1327772</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Izumo-shi">
+			<state></state>
+			<latitude>353605</latitude>
+			<longitude>1327605</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Japan">
+			<state></state>
+			<latitude>360106</latitude>
+			<longitude>1380106</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johana -- (State: Toyama)">
+			<state>Toyama</state>
+			<latitude>365273</latitude>
+			<longitude>1369606</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kadena Air Force Base">
+			<state></state>
+			<latitude>263607</latitude>
+			<longitude>1277774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kadoma-shi">
+			<state></state>
+			<latitude>347440</latitude>
+			<longitude>1356107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kagawa -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>340774</latitude>
+			<longitude>1310440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kagoshima">
+			<state></state>
+			<latitude>316107</latitude>
+			<longitude>1305607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kagoshima-shi">
+			<state></state>
+			<latitude>316440</latitude>
+			<longitude>1305774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamegawa -- (State: Oita)">
+			<state>Oita</state>
+			<latitude>333274</latitude>
+			<longitude>1314940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamitomioka -- (State: Niigata)">
+			<state>Niigata</state>
+			<latitude>374274</latitude>
+			<longitude>1387940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanagawa -- (State: Fukushima)">
+			<state>Fukushima</state>
+			<latitude>375940</latitude>
+			<longitude>1399274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanagawa -- (State: Okayama)">
+			<state>Okayama</state>
+			<latitude>348107</latitude>
+			<longitude>1339440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanagawa-ken -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>355107</latitude>
+			<longitude>1395107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanazawa -- (State: Yamagata)">
+			<state>Yamagata</state>
+			<latitude>387607</latitude>
+			<longitude>1403274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanazawa -- (State: Akita)">
+			<state>Akita</state>
+			<latitude>403440</latitude>
+			<longitude>1403274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanazawa -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>353607</latitude>
+			<longitude>1396440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanazawa">
+			<state></state>
+			<latitude>365940</latitude>
+			<longitude>1366440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanazawa -- (State: Iwate)">
+			<state>Iwate</state>
+			<latitude>388607</latitude>
+			<longitude>1411774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanazawa-ku">
+			<state></state>
+			<latitude>353440</latitude>
+			<longitude>1396274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanazawa-shi">
+			<state></state>
+			<latitude>365774</latitude>
+			<longitude>1366607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kansai">
+			<state></state>
+			<latitude>350107</latitude>
+			<longitude>1355107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kariya -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>349940</latitude>
+			<longitude>1369940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kariya-shi">
+			<state></state>
+			<latitude>350107</latitude>
+			<longitude>1369940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karuizawa-machi">
+			<state></state>
+			<latitude>363774</latitude>
+			<longitude>1386274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kashiwa -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>358651</latitude>
+			<longitude>1399796</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kashiwa-shi">
+			<state></state>
+			<latitude>358774</latitude>
+			<longitude>1400107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kashiwa-shima">
+			<state></state>
+			<latitude>342107</latitude>
+			<longitude>1329440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kasugai -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>352440</latitude>
+			<longitude>1369940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kasukabe -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>359871</latitude>
+			<longitude>1397643</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katsushika-ku">
+			<state></state>
+			<latitude>357440</latitude>
+			<longitude>1398607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawagoe -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>359193</latitude>
+			<longitude>1394960</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawagoe-shi">
+			<state></state>
+			<latitude>359274</latitude>
+			<longitude>1394940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawaguchi -- (State: Kagoshima)">
+			<state>Kagoshima</state>
+			<latitude>315774</latitude>
+			<longitude>1304940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawaguchi-shi">
+			<state></state>
+			<latitude>358274</latitude>
+			<longitude>1397440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>355313</latitude>
+			<longitude>1397279</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>340774</latitude>
+			<longitude>1317940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>358940</latitude>
+			<longitude>1395440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Miyagi)">
+			<state>Miyagi</state>
+			<latitude>381835</latitude>
+			<longitude>1406476</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Ehime)">
+			<state>Ehime</state>
+			<latitude>332940</latitude>
+			<longitude>1327274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Tokushima)">
+			<state>Tokushima</state>
+			<latitude>341607</latitude>
+			<longitude>1345274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Fukuoka)">
+			<state>Fukuoka</state>
+			<latitude>335940</latitude>
+			<longitude>1308440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>347440</latitude>
+			<longitude>1382274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>263946</latitude>
+			<longitude>1278482</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Mie)">
+			<state>Mie</state>
+			<latitude>348940</latitude>
+			<longitude>1364774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Gifu)">
+			<state>Gifu</state>
+			<latitude>354107</latitude>
+			<longitude>1368940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki -- (State: Kochi)">
+			<state>Kochi</state>
+			<latitude>331940</latitude>
+			<longitude>1327940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki Station">
+			<state></state>
+			<latitude>355440</latitude>
+			<longitude>1397107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasaki-shi">
+			<state></state>
+			<latitude>355940</latitude>
+			<longitude>1395940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kawasakinosori-iso">
+			<state></state>
+			<latitude>428940</latitude>
+			<longitude>1403607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiryu -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>364107</latitude>
+			<longitude>1393440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiryu-gawa">
+			<state></state>
+			<latitude>363607</latitude>
+			<longitude>1393940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kisarazu -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>353854</latitude>
+			<longitude>1399332</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kita-katsushika-gun">
+			<state></state>
+			<latitude>360107</latitude>
+			<longitude>1398107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kita-ku">
+			<state></state>
+			<latitude>357607</latitude>
+			<longitude>1397607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitakyushu -- (State: Fukuoka)">
+			<state>Fukuoka</state>
+			<latitude>338440</latitude>
+			<longitude>1308440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitakyushu-ko">
+			<state></state>
+			<latitude>339218</latitude>
+			<longitude>1309121</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitami -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>438138</latitude>
+			<longitude>1439015</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitami-sanchi -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>443774</latitude>
+			<longitude>1427274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kitami-shi">
+			<state></state>
+			<latitude>438107</latitude>
+			<longitude>1438940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ko-fuji">
+			<state></state>
+			<latitude>385232</latitude>
+			<longitude>1415274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe -- (State: Hyogo)">
+			<state>Hyogo</state>
+			<latitude>346940</latitude>
+			<longitude>1351774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe">
+			<state></state>
+			<latitude>346940</latitude>
+			<longitude>1351940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe -- (State: Nagasaki)">
+			<state>Nagasaki</state>
+			<latitude>328774</latitude>
+			<longitude>1290274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe -- (State: Kyoto)">
+			<state>Kyoto</state>
+			<latitude>356107</latitude>
+			<longitude>1351107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe-hana">
+			<state></state>
+			<latitude>339774</latitude>
+			<longitude>1318274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe-kawa">
+			<state></state>
+			<latitude>355274</latitude>
+			<longitude>1354107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe-ko">
+			<state></state>
+			<latitude>346774</latitude>
+			<longitude>1352107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe-maru">
+			<state></state>
+			<latitude>337440</latitude>
+			<longitude>1342107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe-seto">
+			<state></state>
+			<latitude>328774</latitude>
+			<longitude>1290440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobe-zaki">
+			<state></state>
+			<latitude>391107</latitude>
+			<longitude>1419274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobeichi-jima">
+			<state></state>
+			<latitude>340274</latitude>
+			<longitude>1331107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobenten-jima">
+			<state></state>
+			<latitude>343274</latitude>
+			<longitude>1324107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kobesoko -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>265479</latitude>
+			<longitude>1279668</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kochi -- (State: Mie)">
+			<state>Mie</state>
+			<latitude>342940</latitude>
+			<longitude>1365274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kochi -- (State: Iwate)">
+			<state>Iwate</state>
+			<latitude>394940</latitude>
+			<longitude>1411607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kochi -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>347107</latitude>
+			<longitude>1389440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kochi -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>265476</latitude>
+			<longitude>1279610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kochi -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>368107</latitude>
+			<longitude>1389940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kochi -- (State: Hiroshima)">
+			<state>Hiroshima</state>
+			<latitude>345107</latitude>
+			<longitude>1334274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kochi">
+			<state></state>
+			<latitude>335607</latitude>
+			<longitude>1335607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kochi -- (State: Fukushima)">
+			<state>Fukushima</state>
+			<latitude>374274</latitude>
+			<longitude>1402774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kofu -- (State: Yamanashi)">
+			<state>Yamanashi</state>
+			<latitude>356607</latitude>
+			<longitude>1385940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kofu-shi">
+			<state></state>
+			<latitude>356774</latitude>
+			<longitude>1385940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koganei -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>357021</latitude>
+			<longitude>1395118</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koganei-shi">
+			<state></state>
+			<latitude>357107</latitude>
+			<longitude>1395274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kohoku-ku">
+			<state></state>
+			<latitude>355107</latitude>
+			<longitude>1395940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Komagane-shi">
+			<state></state>
+			<latitude>357440</latitude>
+			<longitude>1379607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Komagome -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>357440</latitude>
+			<longitude>1397440</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Komatsu -- (State: Ishikawa)">
+			<state>Ishikawa</state>
+			<latitude>364107</latitude>
+			<longitude>1364607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kosai-shi">
+			<state></state>
+			<latitude>347440</latitude>
+			<longitude>1375274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kosei-cho">
+			<state></state>
+			<latitude>350274</latitude>
+			<longitude>1360940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kosugi-machi">
+			<state></state>
+			<latitude>367274</latitude>
+			<longitude>1371107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koto-ku">
+			<state></state>
+			<latitude>356940</latitude>
+			<longitude>1398274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koyama-ike">
+			<state></state>
+			<latitude>355107</latitude>
+			<longitude>1341607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kumagaya -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>361440</latitude>
+			<longitude>1393940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kumamoto Central Railroad Station">
+			<state></state>
+			<latitude>327940</latitude>
+			<longitude>1306940</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kumamoto-shi">
+			<state></state>
+			<latitude>328107</latitude>
+			<longitude>1307274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurashiki -- (State: Okayama)">
+			<state>Okayama</state>
+			<latitude>345940</latitude>
+			<longitude>1337774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurashiki-shi">
+			<state></state>
+			<latitude>345440</latitude>
+			<longitude>1337774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kurayoshi -- (State: Tottori)">
+			<state>Tottori</state>
+			<latitude>354440</latitude>
+			<longitude>1338274</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kusatsu-shi">
+			<state></state>
+			<latitude>350274</latitude>
+			<longitude>1359774</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyoto">
+			<state></state>
+			<latitude>350107</latitude>
+			<longitude>1357607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyoto-bonchi">
+			<state></state>
+			<latitude>350107</latitude>
+			<longitude>1357107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyoto-fu -- (State: Kyoto)">
+			<state>Kyoto</state>
+			<latitude>351774</latitude>
+			<longitude>1355107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyoto-shi">
+			<state></state>
+			<latitude>350940</latitude>
+			<longitude>1357607</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyushu">
+			<state></state>
+			<latitude>330107</latitude>
+			<longitude>1310107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Perouse Strait">
+			<state></state>
+			<latitude>457608</latitude>
+			<longitude>1420108</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lake Inawashiro">
+			<state></state>
+			<latitude>374941</latitude>
+			<longitude>1401108</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lake Kasumigaura">
+			<state></state>
+			<latitude>360108</latitude>
+			<longitude>1404275</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lake Okutama -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>357908</latitude>
+			<longitude>1390450</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lake Shirakaba">
+			<state></state>
+			<latitude>361108</latitude>
+			<longitude>1382441</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lexington Reef">
+			<state></state>
+			<latitude>262108</latitude>
+			<longitude>1276275</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limuta -- (State: Kagoshima)">
+			<state>Kagoshima</state>
+			<latitude>317941</latitude>
+			<longitude>1298108</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Linshoten Island -- (State: Kagoshima)">
+			<state>Kagoshima</state>
+			<latitude>296275</latitude>
+			<longitude>1297275</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liu-chiu Islands -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>265108</latitude>
+			<longitude>1280108</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loki -- (State: Kochi)">
+			<state>Kochi</state>
+			<latitude>334941</latitude>
+			<longitude>1339441</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loney">
+			<state></state>
+			<latitude>242275</latitude>
+			<longitude>1239441</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maebashi -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>363942</latitude>
+			<longitude>1390776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maebashi-shi">
+			<state></state>
+			<latitude>364276</latitude>
+			<longitude>1390942</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Makuhari -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>356609</latitude>
+			<longitude>1400609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsudo -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>357942</latitude>
+			<longitude>1399109</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsudo-shi">
+			<state></state>
+			<latitude>358109</latitude>
+			<longitude>1399609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsue -- (State: Shimane)">
+			<state>Shimane</state>
+			<latitude>354776</latitude>
+			<longitude>1330776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsumoto -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>263665</latitude>
+			<longitude>1278190</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsumoto-shi">
+			<state></state>
+			<latitude>362442</latitude>
+			<longitude>1379776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsuyama -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>360442</latitude>
+			<longitude>1394109</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsuyama -- (State: Kagoshima)">
+			<state>Kagoshima</state>
+			<latitude>315776</latitude>
+			<longitude>1310609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsuyama -- (State: Miyagi)">
+			<state>Miyagi</state>
+			<latitude>385276</latitude>
+			<longitude>1410609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsuyama -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>353442</latitude>
+			<longitude>1398609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsuyama -- (State: Ehime)">
+			<state>Ehime</state>
+			<latitude>338473</latitude>
+			<longitude>1327640</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsuyama -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>357801</latitude>
+			<longitude>1395173</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsuyama-sambancho -- (State: Ehime)">
+			<state>Ehime</state>
+			<latitude>338442</latitude>
+			<longitude>1327776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matsuyama-shi">
+			<state></state>
+			<latitude>338442</latitude>
+			<longitude>1327609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mekko-bana">
+			<state></state>
+			<latitude>334609</latitude>
+			<longitude>1323276</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mibu -- (State: Tochigi)">
+			<state>Tochigi</state>
+			<latitude>364276</latitude>
+			<longitude>1398109</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mie-ken -- (State: Mie)">
+			<state>Mie</state>
+			<latitude>345109</latitude>
+			<longitude>1365109</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miki-cho">
+			<state></state>
+			<latitude>342609</latitude>
+			<longitude>1341276</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mikkabi -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>348109</latitude>
+			<longitude>1375609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minato-ku">
+			<state></state>
+			<latitude>356609</latitude>
+			<longitude>1397442</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Minoo -- (State: Osaka)">
+			<state>Osaka</state>
+			<latitude>348442</latitude>
+			<longitude>1354776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Misato-shi">
+			<state></state>
+			<latitude>358442</latitude>
+			<longitude>1398942</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Misawa -- (State: Aomori)">
+			<state>Aomori</state>
+			<latitude>406945</latitude>
+			<longitude>1413706</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Misawa -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>427609</latitude>
+			<longitude>1417276</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Misawa">
+			<state></state>
+			<latitude>407609</latitude>
+			<longitude>1413776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mishima -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>351276</latitude>
+			<longitude>1389276</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mitagawa">
+			<state></state>
+			<latitude>333276</latitude>
+			<longitude>1303942</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mitaka -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>356942</latitude>
+			<longitude>1395609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mito">
+			<state></state>
+			<latitude>348276</latitude>
+			<longitude>1373109</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mito -- (State: Ibaraki)">
+			<state>Ibaraki</state>
+			<latitude>363776</latitude>
+			<longitude>1404776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mito-shi">
+			<state></state>
+			<latitude>363942</latitude>
+			<longitude>1404776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miyazaki -- (State: Yamagata)">
+			<state>Yamagata</state>
+			<latitude>380445</latitude>
+			<longitude>1401292</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miyazaki-ken -- (State: Miyazaki)">
+			<state>Miyazaki</state>
+			<latitude>322609</latitude>
+			<longitude>1315109</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miyazaki-shi">
+			<state></state>
+			<latitude>318776</latitude>
+			<longitude>1314276</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morioka -- (State: Iwate)">
+			<state>Iwate</state>
+			<latitude>397109</latitude>
+			<longitude>1411609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morioka-shi">
+			<state></state>
+			<latitude>397109</latitude>
+			<longitude>1412609</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Motosu">
+			<state></state>
+			<latitude>355942</latitude>
+			<longitude>1368109</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muroran -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>423281</latitude>
+			<longitude>1409990</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muroran-shi">
+			<state></state>
+			<latitude>423609</latitude>
+			<longitude>1410109</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Musashino-shi">
+			<state></state>
+			<latitude>357109</latitude>
+			<longitude>1395776</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naga-saki -- (State: Nagasaki)">
+			<state>Nagasaki</state>
+			<latitude>344185</latitude>
+			<longitude>1294060</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naga-saki -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>262016</latitude>
+			<longitude>1273810</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naga-saki">
+			<state></state>
+			<latitude>328277</latitude>
+			<longitude>1305943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagano -- (State: Akita)">
+			<state>Akita</state>
+			<latitude>395443</latitude>
+			<longitude>1405443</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagano -- (State: Yamagata)">
+			<state>Yamagata</state>
+			<latitude>381493</latitude>
+			<longitude>1403477</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagano -- (State: Shiga)">
+			<state>Shiga</state>
+			<latitude>348777</latitude>
+			<longitude>1360610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagano -- (State: Oita)">
+			<state>Oita</state>
+			<latitude>329610</latitude>
+			<longitude>1318110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagano">
+			<state></state>
+			<latitude>366610</latitude>
+			<longitude>1381943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagano -- (State: Miyagi)">
+			<state>Miyagi</state>
+			<latitude>381018</latitude>
+			<longitude>1406663</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagano-shi">
+			<state></state>
+			<latitude>366610</latitude>
+			<longitude>1382110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagaoka -- (State: Yamagata)">
+			<state>Yamagata</state>
+			<latitude>383446</latitude>
+			<longitude>1403671</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagaoka -- (State: Niigata)">
+			<state>Niigata</state>
+			<latitude>374610</latitude>
+			<longitude>1388610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagaoka -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>350443</latitude>
+			<longitude>1389443</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagaoka -- (State: Fukushima)">
+			<state>Fukushima</state>
+			<latitude>378277</latitude>
+			<longitude>1405110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagaoka">
+			<state></state>
+			<latitude>349443</latitude>
+			<longitude>1357110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagaoka -- (State: Shiga)">
+			<state>Shiga</state>
+			<latitude>353610</latitude>
+			<longitude>1363777</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagaoka-shi">
+			<state></state>
+			<latitude>374277</latitude>
+			<longitude>1388777</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagareyama-shi">
+			<state></state>
+			<latitude>358943</latitude>
+			<longitude>1399443</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagasaki -- (State: Iwate)">
+			<state>Iwate</state>
+			<latitude>390277</latitude>
+			<longitude>1417610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagasaki">
+			<state></state>
+			<latitude>327660</latitude>
+			<longitude>1298793</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagasaki -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>356943</latitude>
+			<longitude>1408777</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagasaki -- (State: Yamagata)">
+			<state>Yamagata</state>
+			<latitude>383374</latitude>
+			<longitude>1402874</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagasaki-shi">
+			<state></state>
+			<latitude>327610</latitude>
+			<longitude>1298943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagato-shi">
+			<state></state>
+			<latitude>343943</latitude>
+			<longitude>1312110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nago -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>265991</latitude>
+			<longitude>1279871</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>351777</latitude>
+			<longitude>1369277</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya -- (State: Hyogo)">
+			<state>Hyogo</state>
+			<latitude>348110</latitude>
+			<longitude>1350110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya">
+			<state></state>
+			<latitude>351777</latitude>
+			<longitude>1368943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya -- (State: Saga)">
+			<state>Saga</state>
+			<latitude>335443</latitude>
+			<longitude>1298943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya Oye -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>350943</latitude>
+			<longitude>1369110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya Plain">
+			<state></state>
+			<latitude>352610</latitude>
+			<longitude>1367610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya-hana">
+			<state></state>
+			<latitude>327777</latitude>
+			<longitude>1318943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya-minato">
+			<state></state>
+			<latitude>350943</latitude>
+			<longitude>1368943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya-shi">
+			<state></state>
+			<latitude>351777</latitude>
+			<longitude>1369110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagoya-zaki -- (State: Fukuoka)">
+			<state>Fukuoka</state>
+			<latitude>339277</latitude>
+			<longitude>1308443</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naha -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>262182</latitude>
+			<longitude>1276843</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakano-ku">
+			<state></state>
+			<latitude>357110</latitude>
+			<longitude>1396777</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nankoku-shi">
+			<state></state>
+			<latitude>335943</latitude>
+			<longitude>1336610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nara -- (State: Fukuoka)">
+			<state>Fukuoka</state>
+			<latitude>336443</latitude>
+			<longitude>1307943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nara -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>436277</latitude>
+			<longitude>1448943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nara">
+			<state></state>
+			<latitude>346943</latitude>
+			<longitude>1358443</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nara-ken -- (State: Nara)">
+			<state>Nara</state>
+			<latitude>345110</latitude>
+			<longitude>1360110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nara-shi">
+			<state></state>
+			<latitude>346777</latitude>
+			<longitude>1358443</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narashino-shi">
+			<state></state>
+			<latitude>356943</latitude>
+			<longitude>1400610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narita -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>357943</latitude>
+			<longitude>1403277</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narita">
+			<state></state>
+			<latitude>358277</latitude>
+			<longitude>1403277</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naruto -- (State: Tokushima)">
+			<state>Tokushima</state>
+			<latitude>341943</latitude>
+			<longitude>1346277</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nihonmatsu-shi">
+			<state></state>
+			<latitude>376110</latitude>
+			<longitude>1404110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niigata City">
+			<state></state>
+			<latitude>379277</latitude>
+			<longitude>1390610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niigata-ken -- (State: Niigata)">
+			<state>Niigata</state>
+			<latitude>375110</latitude>
+			<longitude>1390110</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niihama">
+			<state></state>
+			<latitude>339777</latitude>
+			<longitude>1332777</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niimi -- (State: Okayama)">
+			<state>Okayama</state>
+			<latitude>349943</latitude>
+			<longitude>1334777</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nirasaki -- (State: Yamanashi)">
+			<state>Yamanashi</state>
+			<latitude>357110</latitude>
+			<longitude>1384610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nishi-nasuno -- (State: Tochigi)">
+			<state>Tochigi</state>
+			<latitude>368943</latitude>
+			<longitude>1399943</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nishihara -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>262624</latitude>
+			<longitude>1277507</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nomi">
+			<state></state>
+			<latitude>364610</latitude>
+			<longitude>1365610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Numata -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>366443</latitude>
+			<longitude>1390610</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Numazu -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>351110</latitude>
+			<longitude>1388777</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obihiro -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>429283</latitude>
+			<longitude>1432155</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ochanomizu">
+			<state></state>
+			<latitude>357111</latitude>
+			<longitude>1397778</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogaki -- (State: Gifu)">
+			<state>Gifu</state>
+			<latitude>353611</latitude>
+			<longitude>1366278</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogawara -- (State: Miyagi)">
+			<state>Miyagi</state>
+			<latitude>380611</latitude>
+			<longitude>1407447</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oita">
+			<state></state>
+			<latitude>332483</latitude>
+			<longitude>1316155</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oita-shi">
+			<state></state>
+			<latitude>332611</latitude>
+			<longitude>1316111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oizumi-machi">
+			<state></state>
+			<latitude>362611</latitude>
+			<longitude>1394278</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okaya-shi">
+			<state></state>
+			<latitude>361111</latitude>
+			<longitude>1380778</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okayama">
+			<state></state>
+			<latitude>346611</latitude>
+			<longitude>1339278</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okayama-heiya">
+			<state></state>
+			<latitude>345944</latitude>
+			<longitude>1338444</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okayama-ken -- (State: Okayama)">
+			<state>Okayama</state>
+			<latitude>350111</latitude>
+			<longitude>1340111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okayama-shi">
+			<state></state>
+			<latitude>346611</latitude>
+			<longitude>1339444</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okayama-suido">
+			<state></state>
+			<latitude>346111</latitude>
+			<longitude>1340111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okazaki -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>349611</latitude>
+			<longitude>1371778</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oki -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>262444</latitude>
+			<longitude>1277944</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okinawa">
+			<state></state>
+			<latitude>267111</latitude>
+			<longitude>1281944</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okinawa-ken -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>260111</latitude>
+			<longitude>1260111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okinawa-shi">
+			<state></state>
+			<latitude>263611</latitude>
+			<longitude>1278111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omiya -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>359183</latitude>
+			<longitude>1396314</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omiya">
+			<state></state>
+			<latitude>365611</latitude>
+			<longitude>1404278</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omiya -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>352278</latitude>
+			<longitude>1386278</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omiya -- (State: Tochigi)">
+			<state>Tochigi</state>
+			<latitude>367444</latitude>
+			<longitude>1398778</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onoda-ko -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>339761</latitude>
+			<longitude>1311753</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oppama -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>353205</latitude>
+			<longitude>1396366</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osaka">
+			<state></state>
+			<latitude>346778</latitude>
+			<longitude>1355111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osaka -- (State: Gifu)">
+			<state>Gifu</state>
+			<latitude>359611</latitude>
+			<longitude>1372778</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osaka Bay">
+			<state></state>
+			<latitude>345111</latitude>
+			<longitude>1353111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osaka Central Station">
+			<state></state>
+			<latitude>347111</latitude>
+			<longitude>1355111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osaka Harbor">
+			<state></state>
+			<latitude>346611</latitude>
+			<longitude>1354444</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osaka-machi">
+			<state></state>
+			<latitude>359278</latitude>
+			<longitude>1374278</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osaka-yama">
+			<state></state>
+			<latitude>336611</latitude>
+			<longitude>1308944</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osakabe -- (State: Okayama)">
+			<state>Okayama</state>
+			<latitude>350944</latitude>
+			<longitude>1335778</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osakabe-gawa">
+			<state></state>
+			<latitude>349611</latitude>
+			<longitude>1335111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osakai -- (State: Toyama)">
+			<state>Toyama</state>
+			<latitude>369278</latitude>
+			<longitude>1370444</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osakai-yama">
+			<state></state>
+			<latitude>380111</latitude>
+			<longitude>1396611</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osakamachi -- (State: Fukuoka)">
+			<state>Fukuoka</state>
+			<latitude>338944</latitude>
+			<longitude>1308944</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osakano-hana">
+			<state></state>
+			<latitude>352611</latitude>
+			<longitude>1397611</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ota">
+			<state></state>
+			<latitude>370611</latitude>
+			<longitude>1370278</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ota-ku">
+			<state></state>
+			<latitude>355778</latitude>
+			<longitude>1397111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ota-shi">
+			<state></state>
+			<latitude>363111</latitude>
+			<longitude>1393778</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otake-shi">
+			<state></state>
+			<latitude>342611</latitude>
+			<longitude>1321944</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otawara -- (State: Tochigi)">
+			<state>Tochigi</state>
+			<latitude>368778</latitude>
+			<longitude>1400444</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otawara-shi">
+			<state></state>
+			<latitude>368611</latitude>
+			<longitude>1400278</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otofuke -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>430028</latitude>
+			<longitude>1432114</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otsu -- (State: Shiga)">
+			<state>Shiga</state>
+			<latitude>350111</latitude>
+			<longitude>1358778</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otsuchi -- (State: Iwate)">
+			<state>Iwate</state>
+			<latitude>393778</latitude>
+			<longitude>1419111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oyama-shi">
+			<state></state>
+			<latitude>363111</latitude>
+			<longitude>1398111</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ozu -- (State: Ehime)">
+			<state>Ehime</state>
+			<latitude>335111</latitude>
+			<longitude>1325611</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ozu -- (State: Kumamoto)">
+			<state>Kumamoto</state>
+			<latitude>328778</latitude>
+			<longitude>1308778</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quanto">
+			<state></state>
+			<latitude>362613</latitude>
+			<longitude>1395113</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ryuo-cho">
+			<state></state>
+			<latitude>356614</latitude>
+			<longitude>1385281</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sada Kawa">
+			<state></state>
+			<latitude>355448</latitude>
+			<longitude>1329782</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sada-jige">
+			<state></state>
+			<latitude>335948</latitude>
+			<longitude>1357115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saga -- (State: Kochi)">
+			<state>Kochi</state>
+			<latitude>330948</latitude>
+			<longitude>1331115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saga -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>338948</latitude>
+			<longitude>1320948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saga -- (State: Kyoto)">
+			<state>Kyoto</state>
+			<latitude>350282</latitude>
+			<longitude>1356948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saga -- (State: Nagasaki)">
+			<state>Nagasaki</state>
+			<latitude>344637</latitude>
+			<longitude>1293818</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saga-shi">
+			<state></state>
+			<latitude>332615</latitude>
+			<longitude>1303115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sagamihara -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>355646</latitude>
+			<longitude>1393659</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sagamihara-shi">
+			<state></state>
+			<latitude>355615</latitude>
+			<longitude>1393615</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saijo -- (State: Ehime)">
+			<state>Ehime</state>
+			<latitude>339282</latitude>
+			<longitude>1331948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saijo -- (State: Hiroshima)">
+			<state>Hiroshima</state>
+			<latitude>349448</latitude>
+			<longitude>1331282</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saijo-cho -- (State: Hiroshima)">
+			<state>Hiroshima</state>
+			<latitude>344282</latitude>
+			<longitude>1327615</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saiki -- (State: Okayama)">
+			<state>Okayama</state>
+			<latitude>348615</latitude>
+			<longitude>1341115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saitama">
+			<state></state>
+			<latitude>360115</latitude>
+			<longitude>1395115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sakado -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>359684</latitude>
+			<longitude>1394004</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sakai -- (State: Osaka)">
+			<state>Osaka</state>
+			<latitude>345948</latitude>
+			<longitude>1354782</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sakaide-shi">
+			<state></state>
+			<latitude>343282</latitude>
+			<longitude>1339115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saku -- (State: Nagano)">
+			<state>Nagano</state>
+			<latitude>362282</latitude>
+			<longitude>1384948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saku-shi">
+			<state></state>
+			<latitude>362948</latitude>
+			<longitude>1385115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanjo-shi">
+			<state></state>
+			<latitude>376448</latitude>
+			<longitude>1389948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sano -- (State: Tochigi)">
+			<state>Tochigi</state>
+			<latitude>363282</latitude>
+			<longitude>1395948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sanriku Coast">
+			<state></state>
+			<latitude>393448</latitude>
+			<longitude>1420115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sapporo -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>430662</latitude>
+			<longitude>1413654</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sapporo">
+			<state></state>
+			<latitude>431115</latitude>
+			<longitude>1414115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sapporo-dake">
+			<state></state>
+			<latitude>429115</latitude>
+			<longitude>1412115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sapporo-Ishikari Lowlands">
+			<state></state>
+			<latitude>430115</latitude>
+			<longitude>1416782</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sapporo-shi">
+			<state></state>
+			<latitude>430782</latitude>
+			<longitude>1413615</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sasebo -- (State: Nagasaki)">
+			<state>Nagasaki</state>
+			<latitude>331707</latitude>
+			<longitude>1297343</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sawa-gun">
+			<state></state>
+			<latitude>363448</latitude>
+			<longitude>1392615</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sendai -- (State: Miyagi)">
+			<state>Miyagi</state>
+			<latitude>382662</latitude>
+			<longitude>1408962</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sendai -- (State: Kagoshima)">
+			<state>Kagoshima</state>
+			<latitude>318282</latitude>
+			<longitude>1303115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sendai-shi">
+			<state></state>
+			<latitude>382615</latitude>
+			<longitude>1408782</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seta -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>342115</latitude>
+			<longitude>1322282</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seta -- (State: Shiga)">
+			<state>Shiga</state>
+			<latitude>349782</latitude>
+			<longitude>1359282</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seta">
+			<state></state>
+			<latitude>349782</latitude>
+			<longitude>1359115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Setagaya-ku">
+			<state></state>
+			<latitude>356615</latitude>
+			<longitude>1396615</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shibata -- (State: Niigata)">
+			<state>Niigata</state>
+			<latitude>379615</latitude>
+			<longitude>1393448</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shibukawa -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>364948</latitude>
+			<longitude>1390115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shibukawa-shi">
+			<state></state>
+			<latitude>365115</latitude>
+			<longitude>1389948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shibuya Station">
+			<state></state>
+			<latitude>356615</latitude>
+			<longitude>1397115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shiga">
+			<state></state>
+			<latitude>350448</latitude>
+			<longitude>1358615</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shigaraki">
+			<state></state>
+			<latitude>348782</latitude>
+			<longitude>1360448</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shimada -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>340026</latitude>
+			<longitude>1319732</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shimada -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>348282</latitude>
+			<longitude>1381948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shimada">
+			<state></state>
+			<latitude>336115</latitude>
+			<longitude>1311948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shimane-ken -- (State: Shimane)">
+			<state>Shimane</state>
+			<latitude>350115</latitude>
+			<longitude>1325115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shinagawa-ku">
+			<state></state>
+			<latitude>356115</latitude>
+			<longitude>1397282</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shinjuku">
+			<state></state>
+			<latitude>356948</latitude>
+			<longitude>1397115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shinjuku-ku">
+			<state></state>
+			<latitude>357115</latitude>
+			<longitude>1397282</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shinminato">
+			<state></state>
+			<latitude>367782</latitude>
+			<longitude>1370948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shirakawa-shi">
+			<state></state>
+			<latitude>371282</latitude>
+			<longitude>1402448</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shizuoka-ken -- (State: Shizuoka)">
+			<state>Shizuoka</state>
+			<latitude>350115</latitude>
+			<longitude>1380115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shizuoka-shi">
+			<state></state>
+			<latitude>349782</latitude>
+			<longitude>1383948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soka -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>358318</latitude>
+			<longitude>1398159</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sotome-cho">
+			<state></state>
+			<latitude>328782</latitude>
+			<longitude>1297282</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sugito -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>360448</latitude>
+			<longitude>1397448</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suita-shi">
+			<state></state>
+			<latitude>347615</latitude>
+			<longitude>1355448</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sumida-ku">
+			<state></state>
+			<latitude>357115</latitude>
+			<longitude>1398282</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Susono-shi">
+			<state></state>
+			<latitude>352448</latitude>
+			<longitude>1389115</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suzuka -- (State: Mie)">
+			<state>Mie</state>
+			<latitude>348948</latitude>
+			<longitude>1365948</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suzuka-shi">
+			<state></state>
+			<latitude>348782</latitude>
+			<longitude>1365448</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taito">
+			<state></state>
+			<latitude>353116</latitude>
+			<longitude>1404116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takamatsu-shi">
+			<state></state>
+			<latitude>343449</latitude>
+			<longitude>1340616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takaoka -- (State: Toyama)">
+			<state>Toyama</state>
+			<latitude>367616</latitude>
+			<longitude>1370283</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takasago -- (State: Hyogo)">
+			<state>Hyogo</state>
+			<latitude>347616</latitude>
+			<longitude>1348116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takasaka -- (State: Yamagata)">
+			<state>Yamagata</state>
+			<latitude>389547</latitude>
+			<longitude>1401822</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takasaka -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>360116</latitude>
+			<longitude>1394116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takasaki -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>363449</latitude>
+			<longitude>1390283</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takasaki-shi">
+			<state></state>
+			<latitude>363449</latitude>
+			<longitude>1390116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Takuma -- (State: Kagawa)">
+			<state>Kagawa</state>
+			<latitude>342283</latitude>
+			<longitude>1336783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tatebayashi -- (State: Gumma)">
+			<state>Gumma</state>
+			<latitude>362616</latitude>
+			<longitude>1395449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tatsunokuchi-hana">
+			<state></state>
+			<latitude>379949</latitude>
+			<longitude>1385449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="To Kai">
+			<state></state>
+			<latitude>290116</latitude>
+			<longitude>1250116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tobaibokujo -- (State: Hokkaido)">
+			<state>Hokkaido</state>
+			<latitude>432713</latitude>
+			<longitude>1454844</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tobata-ku -- (State: Fukuoka)">
+			<state>Fukuoka</state>
+			<latitude>338949</latitude>
+			<longitude>1308449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tochigi">
+			<state></state>
+			<latitude>363949</latitude>
+			<longitude>1397449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tochigi-ken -- (State: Tochigi)">
+			<state>Tochigi</state>
+			<latitude>367616</latitude>
+			<longitude>1397616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tochio -- (State: Niigata)">
+			<state>Niigata</state>
+			<latitude>374783</latitude>
+			<longitude>1390116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toda -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>358210</latitude>
+			<longitude>1397041</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toda-shi">
+			<state></state>
+			<latitude>358116</latitude>
+			<longitude>1396783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokai-mura -- (State: Ibaraki)">
+			<state>Ibaraki</state>
+			<latitude>364783</latitude>
+			<longitude>1405783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokorozawa-shi">
+			<state></state>
+			<latitude>357949</latitude>
+			<longitude>1394783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokushima-ken -- (State: Tokushima)">
+			<state>Tokushima</state>
+			<latitude>342616</latitude>
+			<longitude>1340116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokushima-shi">
+			<state></state>
+			<latitude>340783</latitude>
+			<longitude>1345783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokyo">
+			<state></state>
+			<latitude>356966</latitude>
+			<longitude>1397630</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokyo Bay">
+			<state></state>
+			<latitude>354285</latitude>
+			<longitude>1397952</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokyo Sea">
+			<state></state>
+			<latitude>356547</latitude>
+			<longitude>1397877</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokyo-ko">
+			<state></state>
+			<latitude>355949</latitude>
+			<longitude>1397616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokyo-to -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>357616</latitude>
+			<longitude>1395116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokyo-zan">
+			<state></state>
+			<latitude>379449</latitude>
+			<longitude>1384783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tone-unga">
+			<state></state>
+			<latitude>359283</latitude>
+			<longitude>1398949</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toshima">
+			<state></state>
+			<latitude>345283</latitude>
+			<longitude>1392783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toshima -- (State: Hyogo)">
+			<state>Hyogo</state>
+			<latitude>345616</latitude>
+			<longitude>1349449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toshima -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>345283</latitude>
+			<longitude>1392949</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tottori">
+			<state></state>
+			<latitude>355116</latitude>
+			<longitude>1342449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tottori-shi">
+			<state></state>
+			<latitude>355116</latitude>
+			<longitude>1342616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyama">
+			<state></state>
+			<latitude>366949</latitude>
+			<longitude>1372283</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyama -- (State: Iwate)">
+			<state>Iwate</state>
+			<latitude>397783</latitude>
+			<longitude>1413116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyama -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>261505</latitude>
+			<longitude>1277705</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyama -- (State: Fukushima)">
+			<state>Fukushima</state>
+			<latitude>369949</latitude>
+			<longitude>1409783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyama Station">
+			<state></state>
+			<latitude>367116</latitude>
+			<longitude>1372283</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyama-ken -- (State: Toyama)">
+			<state>Toyama</state>
+			<latitude>365116</latitude>
+			<longitude>1375116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyama-shi">
+			<state></state>
+			<latitude>367283</latitude>
+			<longitude>1372449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyohashi -- (State: Nagano)">
+			<state>Nagano</state>
+			<latitude>361283</latitude>
+			<longitude>1381116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyohashi -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>347783</latitude>
+			<longitude>1373949</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyokawa -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>348283</latitude>
+			<longitude>1374116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyokawa-shi">
+			<state></state>
+			<latitude>348449</latitude>
+			<longitude>1373949</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyota -- (State: Aichi)">
+			<state>Aichi</state>
+			<latitude>350949</latitude>
+			<longitude>1371616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toyota-shi">
+			<state></state>
+			<latitude>350949</latitude>
+			<longitude>1371783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsu -- (State: Mie)">
+			<state>Mie</state>
+			<latitude>347283</latitude>
+			<longitude>1365283</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsu">
+			<state></state>
+			<latitude>341616</latitude>
+			<longitude>1330116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsu-shi">
+			<state></state>
+			<latitude>347116</latitude>
+			<longitude>1365116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsuchiura">
+			<state></state>
+			<latitude>360949</latitude>
+			<longitude>1402116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsukuba">
+			<state></state>
+			<latitude>361283</latitude>
+			<longitude>1400616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsukuba -- (State: Ibaraki)">
+			<state>Ibaraki</state>
+			<latitude>362116</latitude>
+			<longitude>1401116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsukuba-kenkyugakuen-toshi -- (State: Ibaraki)">
+			<state>Ibaraki</state>
+			<latitude>360949</latitude>
+			<longitude>1401283</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsurugi -- (State: Ishikawa)">
+			<state>Ishikawa</state>
+			<latitude>364616</latitude>
+			<longitude>1366449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsurumi">
+			<state></state>
+			<latitude>347116</latitude>
+			<longitude>1377949</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsuruoka -- (State: Yamagata)">
+			<state>Yamagata</state>
+			<latitude>387333</latitude>
+			<longitude>1398333</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsuruoka-shi">
+			<state></state>
+			<latitude>387283</latitude>
+			<longitude>1398449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsuyama-shi">
+			<state></state>
+			<latitude>350783</latitude>
+			<longitude>1340116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tubokami Yama">
+			<state></state>
+			<latitude>336116</latitude>
+			<longitude>1325616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tubootch">
+			<state></state>
+			<latitude>266616</latitude>
+			<longitude>1278949</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuka Saki">
+			<state></state>
+			<latitude>304449</latitude>
+			<longitude>1305783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tukashichi">
+			<state></state>
+			<latitude>261949</latitude>
+			<longitude>1273783</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuken Sa">
+			<state></state>
+			<latitude>262672</latitude>
+			<longitude>1279533</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tukura Se">
+			<state></state>
+			<latitude>313116</latitude>
+			<longitude>1297449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuma-ga Sima">
+			<state></state>
+			<latitude>337449</latitude>
+			<longitude>1297616</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tumusu -- (State: Okinawa)">
+			<state>Okinawa</state>
+			<latitude>261799</latitude>
+			<longitude>1277294</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turikake Saki">
+			<state></state>
+			<latitude>316283</latitude>
+			<longitude>1296949</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tutizaki Byoti">
+			<state></state>
+			<latitude>397616</latitude>
+			<longitude>1400449</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tutizakiminato -- (State: Akita)">
+			<state>Akita</state>
+			<latitude>397616</latitude>
+			<longitude>1400949</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuwazi Shima">
+			<state></state>
+			<latitude>339866</latitude>
+			<longitude>1325199</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ube -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>339548</latitude>
+			<longitude>1312628</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ube -- (State: Iwate)">
+			<state>Iwate</state>
+			<latitude>401284</latitude>
+			<longitude>1417950</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ube-shi">
+			<state></state>
+			<latitude>339784</latitude>
+			<longitude>1312617</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ube-shinkawa -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>339695</latitude>
+			<longitude>1312612</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ueda -- (State: Nagano)">
+			<state>Nagano</state>
+			<latitude>364117</latitude>
+			<longitude>1382784</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uji -- (State: Kyoto)">
+			<state>Kyoto</state>
+			<latitude>348950</latitude>
+			<longitude>1358117</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uji-shi">
+			<state></state>
+			<latitude>348784</latitude>
+			<longitude>1358117</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urasa -- (State: Niigata)">
+			<state>Niigata</state>
+			<latitude>371784</latitude>
+			<longitude>1389450</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urawa">
+			<state></state>
+			<latitude>358617</latitude>
+			<longitude>1396617</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urawa -- (State: Saitama)">
+			<state>Saitama</state>
+			<latitude>358823</latitude>
+			<longitude>1396539</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urayasu -- (State: Tokyo)">
+			<state>Tokyo</state>
+			<latitude>356823</latitude>
+			<longitude>1399003</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utsunomiya -- (State: Tochigi)">
+			<state>Tochigi</state>
+			<latitude>365617</latitude>
+			<longitude>1398784</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utsunomiya-shi">
+			<state></state>
+			<latitude>365784</latitude>
+			<longitude>1398950</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vahazu-dake">
+			<state></state>
+			<latitude>304618</latitude>
+			<longitude>1304951</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victorieuse Rock">
+			<state></state>
+			<latitude>262451</latitude>
+			<longitude>1276785</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vincennes Strait">
+			<state></state>
+			<latitude>303451</latitude>
+			<longitude>1307618</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volcano Bay">
+			<state></state>
+			<latitude>423451</latitude>
+			<longitude>1406785</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volcano Islands">
+			<state></state>
+			<latitude>250118</latitude>
+			<longitude>1410118</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakamatsu -- (State: Fukuoka)">
+			<state>Fukuoka</state>
+			<latitude>339119</latitude>
+			<longitude>1308286</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakayama-shi">
+			<state></state>
+			<latitude>342286</latitude>
+			<longitude>1352119</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wako-shi">
+			<state></state>
+			<latitude>357786</latitude>
+			<longitude>1396286</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yachimata -- (State: Chiba)">
+			<state>Chiba</state>
+			<latitude>356621</latitude>
+			<longitude>1403288</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yachimata-mura">
+			<state></state>
+			<latitude>361788</latitude>
+			<longitude>1398454</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yachiyo-shi">
+			<state></state>
+			<latitude>357454</latitude>
+			<longitude>1401121</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamagata">
+			<state></state>
+			<latitude>382649</latitude>
+			<longitude>1403496</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamagata City">
+			<state></state>
+			<latitude>382621</latitude>
+			<longitude>1403454</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamaguchi">
+			<state></state>
+			<latitude>341788</latitude>
+			<longitude>1314954</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamaguchi-ken -- (State: Yamaguchi)">
+			<state>Yamaguchi</state>
+			<latitude>343454</latitude>
+			<longitude>1315121</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamanashi">
+			<state></state>
+			<latitude>355121</latitude>
+			<longitude>1385121</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yashio-shi">
+			<state></state>
+			<latitude>358288</latitude>
+			<longitude>1398621</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yokkaichi -- (State: Mie)">
+			<state>Mie</state>
+			<latitude>349788</latitude>
+			<longitude>1366288</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yokohama -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>354621</latitude>
+			<longitude>1396621</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yokohama">
+			<state></state>
+			<latitude>354788</latitude>
+			<longitude>1396454</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yokohama -- (State: Wakayama)">
+			<state>Wakayama</state>
+			<latitude>339621</latitude>
+			<longitude>1351288</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yokohama -- (State: Fukui)">
+			<state>Fukui</state>
+			<latitude>357454</latitude>
+			<longitude>1361121</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yokohama -- (State: Hiroshima)">
+			<state>Hiroshima</state>
+			<latitude>343454</latitude>
+			<longitude>1325121</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yokohama -- (State: Aomori)">
+			<state>Aomori</state>
+			<latitude>410954</latitude>
+			<longitude>1412621</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yokohama-ko">
+			<state></state>
+			<latitude>354788</latitude>
+			<longitude>1397121</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yonago-shi">
+			<state></state>
+			<latitude>354454</latitude>
+			<longitude>1333454</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yonezawa-shi">
+			<state></state>
+			<latitude>379288</latitude>
+			<longitude>1401288</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoshioka -- (State: Miyagi)">
+			<state>Miyagi</state>
+			<latitude>384535</latitude>
+			<longitude>1408885</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zama -- (State: Kanagawa)">
+			<state>Kanagawa</state>
+			<latitude>355011</latitude>
+			<longitude>1394008</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

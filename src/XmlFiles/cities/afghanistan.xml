@@ -1,0 +1,670 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Afghanistan">
+		<city name="Aacbana -- (State: Oruzgan)">
+			<state>Oruzgan</state>
+			<latitude>339105</latitude>
+			<longitude>660372</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aaqadari Yosufkhel -- (State: Paktika)">
+			<state>Paktika</state>
+			<latitude>330622</latitude>
+			<longitude>686578</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ab Bakhsh -- (State: Badghis)">
+			<state>Badghis</state>
+			<latitude>348764</latitude>
+			<longitude>632764</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Afamri Pass -- (State: Faryab)">
+			<state>Faryab</state>
+			<latitude>358947</latitude>
+			<longitude>646891</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aibak -- (State: Samangan)">
+			<state>Samangan</state>
+			<latitude>362750</latitude>
+			<longitude>680264</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aoshera -- (State: Badghis)">
+			<state>Badghis</state>
+			<latitude>352030</latitude>
+			<longitude>630341</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ara Kuh -- (State: Farah)">
+			<state>Farah</state>
+			<latitude>322683</latitude>
+			<longitude>622644</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="As Pesta -- (State: Oruzgan)">
+			<state>Oruzgan</state>
+			<latitude>331369</latitude>
+			<longitude>667947</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asadabad -- (State: Konar)">
+			<state>Konar</state>
+			<latitude>348839</latitude>
+			<longitude>711528</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ba Khersak -- (State: Badakhshan)">
+			<state>Badakhshan</state>
+			<latitude>378709</latitude>
+			<longitude>711304</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Badakhshan">
+			<state></state>
+			<latitude>367598</latitude>
+			<longitude>720098</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bagram -- (State: Parvan)">
+			<state>Parvan</state>
+			<latitude>349759</latitude>
+			<longitude>692645</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bagrame -- (State: Kabol)">
+			<state>Kabol</state>
+			<latitude>345009</latitude>
+			<longitude>692854</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balkh">
+			<state></state>
+			<latitude>366598</latitude>
+			<longitude>669431</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balkhab -- (State: Jowzjan)">
+			<state>Jowzjan</state>
+			<latitude>354881</latitude>
+			<longitude>666473</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balkhab -- (State: Sar-e Pol)">
+			<state>Sar-e Pol</state>
+			<latitude>355098</latitude>
+			<longitude>665098</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balkhak -- (State: Oruzgan)">
+			<state>Oruzgan</state>
+			<latitude>337734</latitude>
+			<longitude>663704</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balkhel -- (State: Khowst)">
+			<state>Khowst</state>
+			<latitude>335692</latitude>
+			<longitude>698537</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balkherzay -- (State: Kandahar)">
+			<state>Kandahar</state>
+			<latitude>316020</latitude>
+			<longitude>671767</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balkhian -- (State: Ghazni)">
+			<state>Ghazni</state>
+			<latitude>337073</latitude>
+			<longitude>682076</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balkhyan -- (State: Herat)">
+			<state>Herat</state>
+			<latitude>342431</latitude>
+			<longitude>626598</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ca khana -- (State: Oruzgan)">
+			<state>Oruzgan</state>
+			<latitude>334818</latitude>
+			<longitude>657441</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chalowza`i -- (State: Lowgar)">
+			<state>Lowgar</state>
+			<latitude>339702</latitude>
+			<longitude>688832</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Da Afghanestan Shahi Dowlat">
+			<state></state>
+			<latitude>330100</latitude>
+			<longitude>650100</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dyare Sermohammad -- (State: Parvan)">
+			<state>Parvan</state>
+			<latitude>347433</latitude>
+			<longitude>686433</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emarat -- (State: Kandahar)">
+			<state>Kandahar</state>
+			<latitude>315301</latitude>
+			<longitude>663987</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etomak -- (State: Samangan)">
+			<state>Samangan</state>
+			<latitude>357820</latitude>
+			<longitude>673357</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Evadzkhel -- (State: Paktia)">
+			<state>Paktia</state>
+			<latitude>333912</latitude>
+			<longitude>693801</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fariab -- (State: Faryab)">
+			<state>Faryab</state>
+			<latitude>360102</latitude>
+			<longitude>650102</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flon -- (State: Badakhshan)">
+			<state>Badakhshan</state>
+			<latitude>381438</latitude>
+			<longitude>705146</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frich -- (State: Badakhshan)">
+			<state>Badakhshan</state>
+			<latitude>367708</latitude>
+			<longitude>708988</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gardez -- (State: Paktia)">
+			<state>Paktia</state>
+			<latitude>336003</latitude>
+			<longitude>692428</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gardez Airfield -- (State: Paktia)">
+			<state>Paktia</state>
+			<latitude>336372</latitude>
+			<longitude>692472</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gardezkhel -- (State: Lowgar)">
+			<state>Lowgar</state>
+			<latitude>338839</latitude>
+			<longitude>692356</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gereshk -- (State: Helmand)">
+			<state>Helmand</state>
+			<latitude>318292</latitude>
+			<longitude>645806</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghazni">
+			<state></state>
+			<latitude>335711</latitude>
+			<longitude>684061</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghazni Airfield -- (State: Ghazni)">
+			<state>Ghazni</state>
+			<latitude>335395</latitude>
+			<longitude>684236</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghazni Dam -- (State: Ghazni)">
+			<state>Ghazni</state>
+			<latitude>337678</latitude>
+			<longitude>683906</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghazni Gak -- (State: Balkh)">
+			<state>Balkh</state>
+			<latitude>365489</latitude>
+			<longitude>678320</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghazni Lgad -- (State: (AF21))">
+			<state>(AF21)</state>
+			<latitude>341236</latitude>
+			<longitude>696464</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghazni River -- (State: Ghazni)">
+			<state>Ghazni</state>
+			<latitude>327522</latitude>
+			<longitude>681075</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghaznigak -- (State: Oruzgan)">
+			<state>Oruzgan</state>
+			<latitude>326378</latitude>
+			<longitude>659006</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghaznikhel -- (State: Lowgar)">
+			<state>Lowgar</state>
+			<latitude>342559</latitude>
+			<longitude>691467</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grishk -- (State: Helmand)">
+			<state>Helmand</state>
+			<latitude>310103</latitude>
+			<longitude>640103</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herat">
+			<state></state>
+			<latitude>343554</latitude>
+			<longitude>622101</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herat Province -- (State: Herat)">
+			<state>Herat</state>
+			<latitude>345104</latitude>
+			<longitude>620104</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herati -- (State: Helmand)">
+			<state>Helmand</state>
+			<latitude>309076</latitude>
+			<longitude>641404</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalalabad -- (State: Jowzjan)">
+			<state>Jowzjan</state>
+			<latitude>367753</latitude>
+			<longitude>658892</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalalabad -- (State: Herat)">
+			<state>Herat</state>
+			<latitude>343692</latitude>
+			<longitude>620925</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalalabad -- (State: Nangarhar)">
+			<state>Nangarhar</state>
+			<latitude>344409</latitude>
+			<longitude>704634</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabul -- (State: Kabol)">
+			<state>Kabol</state>
+			<latitude>345274</latitude>
+			<longitude>691940</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabul Daraz -- (State: Herat)">
+			<state>Herat</state>
+			<latitude>343549</latitude>
+			<longitude>622926</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabul Province -- (State: Kabol)">
+			<state>Kabol</state>
+			<latitude>345107</latitude>
+			<longitude>694274</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabul River">
+			<state></state>
+			<latitude>339274</latitude>
+			<longitude>722440</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabul Tsappar">
+			<state></state>
+			<latitude>345774</latitude>
+			<longitude>709440</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabulay Mandeh -- (State: Kandahar)">
+			<state>Kandahar</state>
+			<latitude>316838</latitude>
+			<longitude>671329</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabuli -- (State: Ghazni)">
+			<state>Ghazni</state>
+			<latitude>334524</latitude>
+			<longitude>683474</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabuli Farari -- (State: Badghis)">
+			<state>Badghis</state>
+			<latitude>356018</latitude>
+			<longitude>633454</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabuli Qeslaq -- (State: Kondoz)">
+			<state>Kondoz</state>
+			<latitude>367349</latitude>
+			<longitude>690999</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabulian -- (State: Kandahar)">
+			<state>Kandahar</state>
+			<latitude>320835</latitude>
+			<longitude>658838</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabuliha -- (State: Herat)">
+			<state>Herat</state>
+			<latitude>343504</latitude>
+			<longitude>621624</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kapissa -- (State: Kapisa)">
+			<state>Kapisa</state>
+			<latitude>349163</latitude>
+			<longitude>697524</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khowst">
+			<state></state>
+			<latitude>334293</latitude>
+			<longitude>702985</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kunar -- (State: Konar)">
+			<state>Konar</state>
+			<latitude>349607</latitude>
+			<longitude>711440</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kywaja Laken -- (State: Nangarhar)">
+			<state>Nangarhar</state>
+			<latitude>342418</latitude>
+			<longitude>701665</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lashkar Gah -- (State: Helmand)">
+			<state>Helmand</state>
+			<latitude>315939</latitude>
+			<longitude>643800</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lgad -- (State: Khowst)">
+			<state>Khowst</state>
+			<latitude>336577</latitude>
+			<longitude>700100</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Logar -- (State: Lowgar)">
+			<state>Lowgar</state>
+			<latitude>338441</latitude>
+			<longitude>690108</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mazar -- (State: Ghowr)">
+			<state>Ghowr</state>
+			<latitude>339298</latitude>
+			<longitude>649645</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mazar-i-Sharif -- (State: Balkh)">
+			<state>Balkh</state>
+			<latitude>368442</latitude>
+			<longitude>672609</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mzarak Kala -- (State: Khowst)">
+			<state>Khowst</state>
+			<latitude>332959</latitude>
+			<longitude>698384</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naray -- (State: Kondoz)">
+			<state>Kondoz</state>
+			<latitude>314963</latitude>
+			<longitude>670524</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nkhal -- (State: Paktika)">
+			<state>Paktika</state>
+			<latitude>327060</latitude>
+			<longitude>692941</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oftadeh Kalay -- (State: Farah)">
+			<state>Farah</state>
+			<latitude>326469</latitude>
+			<longitude>620142</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qalat -- (State: Zabol)">
+			<state>Zabol</state>
+			<latitude>321169</latitude>
+			<longitude>669182</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qandahar -- (State: Kandahar)">
+			<state>Kandahar</state>
+			<latitude>316191</latitude>
+			<longitude>657166</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qunduz -- (State: Kondoz)">
+			<state>Kondoz</state>
+			<latitude>367380</latitude>
+			<longitude>688796</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="S la -- (State: Ghazni)">
+			<state>Ghazni</state>
+			<latitude>333551</latitude>
+			<longitude>675946</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shahristan -- (State: Bamian)">
+			<state>Bamian</state>
+			<latitude>343782</latitude>
+			<longitude>667948</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sheberghan -- (State: Jowzjan)">
+			<state>Jowzjan</state>
+			<latitude>366787</latitude>
+			<longitude>657651</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Surkhakan -- (State: Laghman)">
+			<state>Laghman</state>
+			<latitude>345223</latitude>
+			<longitude>701971</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taluqan -- (State: Takhar)">
+			<state>Takhar</state>
+			<latitude>365116</latitude>
+			<longitude>695116</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tarin Kowt -- (State: Oruzgan)">
+			<state>Oruzgan</state>
+			<latitude>326397</latitude>
+			<longitude>658808</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thak Laghar -- (State: Herat)">
+			<state>Herat</state>
+			<latitude>338069</latitude>
+			<longitude>616102</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udi -- (State: Takhar)">
+			<state>Takhar</state>
+			<latitude>375403</latitude>
+			<longitude>697542</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udkal -- (State: Ghowr)">
+			<state>Ghowr</state>
+			<latitude>335414</latitude>
+			<longitude>648361</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udkheyl -- (State: Lowgar)">
+			<state>Lowgar</state>
+			<latitude>339820</latitude>
+			<longitude>690384</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usa -- (State: Ghazni)">
+			<state>Ghazni</state>
+			<latitude>332036</latitude>
+			<longitude>675364</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzda Tiza -- (State: Konar)">
+			<state>Konar</state>
+			<latitude>346598</latitude>
+			<longitude>707586</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzhd Lakah -- (State: Khowst)">
+			<state>Khowst</state>
+			<latitude>335931</latitude>
+			<longitude>698528</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzun Qol -- (State: Badakhshan)">
+			<state>Badakhshan</state>
+			<latitude>371484</latitude>
+			<longitude>703314</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Volar -- (State: Badakhshan)">
+			<state>Badakhshan</state>
+			<latitude>370837</latitude>
+			<longitude>707762</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wardak -- (State: Baghlan)">
+			<state>Baghlan</state>
+			<latitude>362647</latitude>
+			<longitude>688133</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaranj -- (State: Nimruz)">
+			<state>Nimruz</state>
+			<latitude>309789</latitude>
+			<longitude>618955</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zghome Ghar -- (State: Nangarhar)">
+			<state>Nangarhar</state>
+			<latitude>340891</latitude>
+			<longitude>708816</longitude>
+			<timezone>450</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,3008 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Australia">
+		<city name="Acacia Ridge -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-275736</latitude>
+			<longitude>1530430</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adelaide -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-349236</latitude>
+			<longitude>1386097</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Adelaide Brook -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-311070</latitude>
+			<longitude>1527264</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Adelaide Lead -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-370570</latitude>
+			<longitude>1436930</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aitkenvale -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-192736</latitude>
+			<longitude>1468097</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Albany -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-350072</latitude>
+			<longitude>1179014</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Albert Park -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-348736</latitude>
+			<longitude>1385305</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albury -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-360736</latitude>
+			<longitude>1469264</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albury -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-267736</latitude>
+			<longitude>1473430</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alice Springs -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-236903</latitude>
+			<longitude>1338930</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alice Springs Waterhole -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-236736</latitude>
+			<longitude>1338930</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Altona -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378570</latitude>
+			<longitude>1448430</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ararat -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-372736</latitude>
+			<longitude>1429430</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ardeer Station -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377736</latitude>
+			<longitude>1448097</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Armadale -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378403</latitude>
+			<longitude>1450264</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Armidale -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-305070</latitude>
+			<longitude>1516597</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arncliffe -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339278</latitude>
+			<longitude>1511597</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Artarmon -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338070</latitude>
+			<longitude>1511930</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ascot Vale -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377736</latitude>
+			<longitude>1449264</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ashfield -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338736</latitude>
+			<longitude>1511264</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Atherton -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-172570</latitude>
+			<longitude>1454930</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Auburn -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-259403</latitude>
+			<longitude>1506264</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Auburn -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338403</latitude>
+			<longitude>1510430</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Auburn -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378070</latitude>
+			<longitude>1450597</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Auburn -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-340070</latitude>
+			<longitude>1386930</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Austral -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-419070</latitude>
+			<longitude>1453430</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayers Rock -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-253736</latitude>
+			<longitude>1310930</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ballarat -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-375569</latitude>
+			<longitude>1438598</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Balranald -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-346235</latitude>
+			<longitude>1435765</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bankstown -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339069</latitude>
+			<longitude>1510431</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bassendean -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-318902</latitude>
+			<longitude>1159598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bathurst -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-334069</latitude>
+			<longitude>1495765</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bathurst -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-217735</latitude>
+			<longitude>1375265</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baulkham Hills -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337402</latitude>
+			<longitude>1510098</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bayswater -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378402</latitude>
+			<longitude>1452765</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beauty Point -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-411569</latitude>
+			<longitude>1468265</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bega -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-366569</latitude>
+			<longitude>1498431</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bellambi -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-343569</latitude>
+			<longitude>1509265</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belmore -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-381235</latitude>
+			<longitude>1417431</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belmore Basin -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-344130</latitude>
+			<longitude>1509165</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Benalla -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-365402</latitude>
+			<longitude>1459931</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bendigo -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-367569</latitude>
+			<longitude>1442931</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bendigo -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-331902</latitude>
+			<longitude>1394265</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bentleigh East -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-379069</latitude>
+			<longitude>1450765</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bentley -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-287569</latitude>
+			<longitude>1531265</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bentley -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-319902</latitude>
+			<longitude>1159265</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Berkeley -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-344735</latitude>
+			<longitude>1508598</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bermagui -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-364069</latitude>
+			<longitude>1500598</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bethania -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-276735</latitude>
+			<longitude>1531765</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bexley -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339402</latitude>
+			<longitude>1511265</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Birchip -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-359735</latitude>
+			<longitude>1429431</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blacktown -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337569</latitude>
+			<longitude>1509265</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blakehurst -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339735</latitude>
+			<longitude>1511098</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Booragul -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-329569</latitude>
+			<longitude>1516098</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boronia -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378569</latitude>
+			<longitude>1452931</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Botany -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339569</latitude>
+			<longitude>1512098</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bowral -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-344569</latitude>
+			<longitude>1504265</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Braidwood -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-354402</latitude>
+			<longitude>1497931</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bribie Island -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-269902</latitude>
+			<longitude>1531265</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brighton-Le-Sands -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339402</latitude>
+			<longitude>1511598</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brisbane -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-274902</latitude>
+			<longitude>1530265</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brisbane Creek -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-336735</latitude>
+			<longitude>1497098</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brisbane Range -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-265735</latitude>
+			<longitude>1521265</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brisbane River -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-273902</latitude>
+			<longitude>1531598</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brisbane Roads -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-272902</latitude>
+			<longitude>1531765</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brisbane Rock -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-105816</latitude>
+			<longitude>1422115</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brisbane Water -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-334569</latitude>
+			<longitude>1513431</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Broadbeach -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-280069</latitude>
+			<longitude>1534431</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Broadmeadows -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-298402</latitude>
+			<longitude>1523098</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Broadmeadows -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376569</latitude>
+			<longitude>1449098</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Broadmeadows Station -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376735</latitude>
+			<longitude>1449431</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Broken Hill -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-319402</latitude>
+			<longitude>1414431</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brookvale -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337569</latitude>
+			<longitude>1512765</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Broome -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-179569</latitude>
+			<longitude>1222431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bruce -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-324569</latitude>
+			<longitude>1382098</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brunswick -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377569</latitude>
+			<longitude>1449765</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brunswick East -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377735</latitude>
+			<longitude>1449765</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brunswick West -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377735</latitude>
+			<longitude>1449431</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bunbury -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-333235</latitude>
+			<longitude>1156431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bundaberg -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-248402</latitude>
+			<longitude>1523598</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bundoora -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376902</latitude>
+			<longitude>1450598</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burnie -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-410569</latitude>
+			<longitude>1459265</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burpengary -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-271569</latitude>
+			<longitude>1529598</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Busselton -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-336402</latitude>
+			<longitude>1153431</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Byron Bay -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-286235</latitude>
+			<longitude>1536265</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Caboolture -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-270734</latitude>
+			<longitude>1529599</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cairns -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-169068</latitude>
+			<longitude>1457766</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caloundra -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-267901</latitude>
+			<longitude>1531432</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Campbell Town -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-419068</latitude>
+			<longitude>1475099</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campbellfield -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376734</latitude>
+			<longitude>1449599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campbelltown -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-371901</latitude>
+			<longitude>1439599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campbelltown -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-348734</latitude>
+			<longitude>1386766</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campbelltown -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-340568</latitude>
+			<longitude>1508266</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campbelltown Municipality -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-340734</latitude>
+			<longitude>1508432</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campsie Creek -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-213568</latitude>
+			<longitude>1424432</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Canberra -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-267734</latitude>
+			<longitude>1484432</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Canberra -- (State: Australian Capital Territory)">
+			<state>Australian Capital Territory</state>
+			<latitude>-352734</latitude>
+			<longitude>1492266</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cardiff -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-329401</latitude>
+			<longitude>1516766</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Caringbah -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-340401</latitude>
+			<longitude>1511432</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carlingford -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337734</latitude>
+			<longitude>1510599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carlton South -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377901</latitude>
+			<longitude>1449766</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Casula Station -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339401</latitude>
+			<longitude>1509266</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cessnock -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-328234</latitude>
+			<longitude>1513599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chatswood -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337901</latitude>
+			<longitude>1511932</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chinchilla -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-267401</latitude>
+			<longitude>1506432</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Christmas Island -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-396901</latitude>
+			<longitude>1438432</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chullora -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338901</latitude>
+			<longitude>1510599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Churchill -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-276401</latitude>
+			<longitude>1527599</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clayton -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-411568</latitude>
+			<longitude>1462599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clayton -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-249234</latitude>
+			<longitude>1523766</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Clayton -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-379068</latitude>
+			<longitude>1451266</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clayton North -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-379068</latitude>
+			<longitude>1451432</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clayton Station -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-379234</latitude>
+			<longitude>1451266</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clifton Hill -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377901</latitude>
+			<longitude>1449932</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cobram -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-359068</latitude>
+			<longitude>1456599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coburg -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377401</latitude>
+			<longitude>1449766</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coburg Creek -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-279068</latitude>
+			<longitude>1531099</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coffs Harbour -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-302901</latitude>
+			<longitude>1531599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Colac -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-383234</latitude>
+			<longitude>1435932</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Colo Vale -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-343901</latitude>
+			<longitude>1504932</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Condell Park -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-342068</latitude>
+			<longitude>1506932</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Condobolin -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-330734</latitude>
+			<longitude>1471599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coogee -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-321068</latitude>
+			<longitude>1157766</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coolangatta -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-281568</latitude>
+			<longitude>1535432</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coolaroo Spring -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-274234</latitude>
+			<longitude>1169599</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cottesloe -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-319901</latitude>
+			<longitude>1157766</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Craigieburn -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-375901</latitude>
+			<longitude>1449599</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cranbourne -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-380901</latitude>
+			<longitude>1452932</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Creswick -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-374068</latitude>
+			<longitude>1439266</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cringila -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-344568</latitude>
+			<longitude>1508932</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crows Nest -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338182</latitude>
+			<longitude>1512116</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Croydon Park -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-353901</latitude>
+			<longitude>1389432</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dalby -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-271733</latitude>
+			<longitude>1512767</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dandenong -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-379733</latitude>
+			<longitude>1452100</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dapto -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-344900</latitude>
+			<longitude>1507933</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Darra -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-275567</latitude>
+			<longitude>1529767</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darwin -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-124567</latitude>
+			<longitude>1308433</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Darwin International Airport -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-124083</latitude>
+			<longitude>1308850</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deewhy -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337400</latitude>
+			<longitude>1513100</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Devonport -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-411567</latitude>
+			<longitude>1463600</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doncaster -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377733</latitude>
+			<longitude>1451433</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doncaster East -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377733</latitude>
+			<longitude>1451767</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doonside -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337567</latitude>
+			<longitude>1508767</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dromana -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-383233</latitude>
+			<longitude>1449767</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dubbo -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-322400</latitude>
+			<longitude>1486267</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dundas -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-323900</latitude>
+			<longitude>1217767</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Earlwood -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339399</latitude>
+			<longitude>1511101</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East Perth -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-319399</latitude>
+			<longitude>1158768</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastwood -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337899</latitude>
+			<longitude>1510934</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Echuca -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-361232</latitude>
+			<longitude>1447601</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Edgecliff -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338732</latitude>
+			<longitude>1512601</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eight Mile Plains -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-275732</latitude>
+			<longitude>1531101</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emerald -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-235232</latitude>
+			<longitude>1481768</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Endeavour Hill -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-152399</latitude>
+			<longitude>1297601</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enfiel -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377399</latitude>
+			<longitude>1437934</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enmore -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-307232</latitude>
+			<longitude>1518101</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erskine -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-327232</latitude>
+			<longitude>1388601</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erskineville -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338899</latitude>
+			<longitude>1511934</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eton -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-212566</latitude>
+			<longitude>1489768</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairfield -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-232398</latitude>
+			<longitude>1444269</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairfield -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-175565</latitude>
+			<longitude>1250602</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fairfield -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377731</latitude>
+			<longitude>1450269</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fairfield -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338565</latitude>
+			<longitude>1509602</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fawkner -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377065</latitude>
+			<longitude>1449769</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flemington -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338565</latitude>
+			<longitude>1510769</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flemington Bore -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-211398</latitude>
+			<longitude>1389102</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flemington Bridge -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377731</latitude>
+			<longitude>1449602</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flemington Well -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-238231</latitude>
+			<longitude>1135269</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Footscray -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377898</latitude>
+			<longitude>1449102</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frankston -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-381231</latitude>
+			<longitude>1451269</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fremantle -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-320398</latitude>
+			<longitude>1157769</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gatton -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-275397</latitude>
+			<longitude>1522936</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geelong -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-381480</latitude>
+			<longitude>1443603</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geelong West -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-381230</latitude>
+			<longitude>1443603</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geilston Bay -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-428397</latitude>
+			<longitude>1473436</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geraldton -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-287564</latitude>
+			<longitude>1146103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Geraldton -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-175230</latitude>
+			<longitude>1460436</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gilles Plains -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-348397</latitude>
+			<longitude>1386603</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Girrawillie Creek -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-311230</latitude>
+			<longitude>1498936</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gladesville -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338230</latitude>
+			<longitude>1511436</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gladstone -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-238397</latitude>
+			<longitude>1512603</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Glen Waverley -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378730</latitude>
+			<longitude>1451770</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glenhaven -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-336897</latitude>
+			<longitude>1510103</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glenroy -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376897</latitude>
+			<longitude>1449436</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glynde Hill -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-235897</latitude>
+			<longitude>1231936</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gold Coast -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-279897</latitude>
+			<longitude>1534436</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goomalling -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-313064</latitude>
+			<longitude>1168270</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gosford -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-334230</latitude>
+			<longitude>1513603</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gosnells -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-320730</latitude>
+			<longitude>1160103</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grafton -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-296730</latitude>
+			<longitude>1529436</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Granville -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338230</latitude>
+			<longitude>1510270</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Granville -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-262064</latitude>
+			<longitude>1445603</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Green Valley Creek -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-329397</latitude>
+			<longitude>1494603</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Greens Creek -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-369230</latitude>
+			<longitude>1429603</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Griffith -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-426230</latitude>
+			<longitude>1479103</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Griffith -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-342730</latitude>
+			<longitude>1460436</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gwynneville -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-344064</latitude>
+			<longitude>1508978</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gympie -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-261730</latitude>
+			<longitude>1526770</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hackham -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-351396</latitude>
+			<longitude>1385271</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hawker -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-318729</latitude>
+			<longitude>1384271</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Healesville -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376396</latitude>
+			<longitude>1455271</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hervey Bay -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-249896</latitude>
+			<longitude>1530104</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Highgate Hill -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-119563</latitude>
+			<longitude>1432271</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hillston -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-334729</latitude>
+			<longitude>1455437</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hobart -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-429063</latitude>
+			<longitude>1473437</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hobart Rivulet -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-428729</latitude>
+			<longitude>1473437</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hobartville -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-233063</latitude>
+			<longitude>1465271</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hornby -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338238</latitude>
+			<longitude>1512912</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hornsby -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-336896</latitude>
+			<longitude>1511104</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horsham -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-367063</latitude>
+			<longitude>1422104</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hughesdale -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378896</latitude>
+			<longitude>1450937</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huntingdon -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-314563</latitude>
+			<longitude>1526604</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hurstville -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339563</latitude>
+			<longitude>1511104</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Illawong -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-296895</latitude>
+			<longitude>1149688</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ingleburn -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339895</latitude>
+			<longitude>1508772</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inverell -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-297728</latitude>
+			<longitude>1511272</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ipswich -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-276062</latitude>
+			<longitude>1527772</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamberoo -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-346394</latitude>
+			<longitude>1507939</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joondalup Lake -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-317394</latitude>
+			<longitude>1157939</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalgoorlie -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-307393</latitude>
+			<longitude>1214774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kardina -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-260226</latitude>
+			<longitude>1525774</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karratha -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-208726</latitude>
+			<longitude>1166774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katanning -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-336893</latitude>
+			<longitude>1175607</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katherine -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-144560</latitude>
+			<longitude>1322774</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keilira -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-367060</latitude>
+			<longitude>1401607</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kenwick -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-320226</latitude>
+			<longitude>1159774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keysborough -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-380060</latitude>
+			<longitude>1451774</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kingswood -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337393</latitude>
+			<longitude>1507607</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kogarah -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339726</latitude>
+			<longitude>1511274</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kuraby -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-275893</latitude>
+			<longitude>1531107</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lakemba -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339059</latitude>
+			<longitude>1510941</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lalor -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376559</latitude>
+			<longitude>1450275</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Langford Creek -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-226225</latitude>
+			<longitude>1343775</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Launceston -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-414392</latitude>
+			<longitude>1471775</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laverton -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378392</latitude>
+			<longitude>1447608</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lavington -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-360392</latitude>
+			<longitude>1469441</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leeton -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-345559</latitude>
+			<longitude>1464108</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leeville -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-289392</latitude>
+			<longitude>1530108</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leumeah -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-340392</latitude>
+			<longitude>1508441</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lidcombe -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338559</latitude>
+			<longitude>1510441</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lightning Ridge -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-294225</latitude>
+			<longitude>1479941</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lindfield -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337725</latitude>
+			<longitude>1511775</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lismore -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-287892</latitude>
+			<longitude>1532775</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lithgow -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-334725</latitude>
+			<longitude>1501608</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liverpool -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338892</latitude>
+			<longitude>1509441</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Logan Village -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-277559</latitude>
+			<longitude>1531108</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Loganlea -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-276559</latitude>
+			<longitude>1531441</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lurnea Station -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-263892</latitude>
+			<longitude>1467108</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mackay -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-211391</latitude>
+			<longitude>1492109</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Macquarie Fields -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339724</latitude>
+			<longitude>1508942</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maddington -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-320391</latitude>
+			<longitude>1159942</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Magill -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-349058</latitude>
+			<longitude>1386776</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maleny -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-267391</latitude>
+			<longitude>1528609</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mandurah -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-325391</latitude>
+			<longitude>1157109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manifold Hills -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-227224</latitude>
+			<longitude>1507942</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Manly Vale -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337891</latitude>
+			<longitude>1512942</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mareeba -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-169891</latitude>
+			<longitude>1454442</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maroochydore -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-266391</latitude>
+			<longitude>1531109</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maroubra -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339391</latitude>
+			<longitude>1512442</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marrickville -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339058</latitude>
+			<longitude>1511776</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maryborough -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-255224</latitude>
+			<longitude>1527109</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mascot -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339224</latitude>
+			<longitude>1512109</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Melaleuca Creek -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-235724</latitude>
+			<longitude>1499442</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melbergen -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-336891</latitude>
+			<longitude>1460609</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Melbourne -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378058</latitude>
+			<longitude>1449776</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Melbourne Street Station -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-274724</latitude>
+			<longitude>1530276</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Melrose Creek -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-236224</latitude>
+			<longitude>1421442</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Menai -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-340058</latitude>
+			<longitude>1510276</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Merrylands -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338224</latitude>
+			<longitude>1509942</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mildura -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-341891</latitude>
+			<longitude>1421609</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mill Park -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376558</latitude>
+			<longitude>1450776</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Minto -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-340224</latitude>
+			<longitude>1508609</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Modbury -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-348224</latitude>
+			<longitude>1386942</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moorabbin -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-379258</latitude>
+			<longitude>1450451</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mooroopna -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-363891</latitude>
+			<longitude>1453609</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Morley Island -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-287391</latitude>
+			<longitude>1138234</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morwell -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-382224</latitude>
+			<longitude>1464109</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mosman -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338169</latitude>
+			<longitude>1512442</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mount Druitt -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337558</latitude>
+			<longitude>1508276</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mount Gambier -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-378224</latitude>
+			<longitude>1407776</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mount Isa -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-207224</latitude>
+			<longitude>1395109</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mulgrave -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-379058</latitude>
+			<longitude>1452109</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mulgrave Hill -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-101058</latitude>
+			<longitude>1421276</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Muswellbrook -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-322558</latitude>
+			<longitude>1509109</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nambour -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-266223</latitude>
+			<longitude>1529610</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narre Warren -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-380223</latitude>
+			<longitude>1453110</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narromine -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-321390</latitude>
+			<longitude>1482610</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nedlands -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-319723</latitude>
+			<longitude>1158193</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Farm -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-274557</latitude>
+			<longitude>1530610</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Newcastle -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-329057</latitude>
+			<longitude>1517610</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Newman -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-233557</latitude>
+			<longitude>1197443</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noble Park -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-379557</latitude>
+			<longitude>1451777</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North Bridge -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337993</latitude>
+			<longitude>1512329</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North Sydney -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338296</latitude>
+			<longitude>1512182</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Notting Hill -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378890</latitude>
+			<longitude>1451277</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orange -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-332722</latitude>
+			<longitude>1491111</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oxenford Station -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-278722</latitude>
+			<longitude>1533278</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Padstow -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339388</latitude>
+			<longitude>1510445</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parramatta -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338055</latitude>
+			<longitude>1510112</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peakhurst -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339555</latitude>
+			<longitude>1510612</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Penrith -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337388</latitude>
+			<longitude>1507112</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Penshurst -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339555</latitude>
+			<longitude>1510945</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Penshurst -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378555</latitude>
+			<longitude>1423112</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Perth -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-319221</latitude>
+			<longitude>1158445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perth -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-415555</latitude>
+			<longitude>1471779</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Perth Airport -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-319305</latitude>
+			<longitude>1159779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perth Basin -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-319888</latitude>
+			<longitude>1150112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perth Water -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-319555</latitude>
+			<longitude>1158612</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perthton -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-272888</latitude>
+			<longitude>1505779</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perthville -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-334721</latitude>
+			<longitude>1495445</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Augusta West -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-324721</latitude>
+			<longitude>1377612</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port Hedland -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-203055</latitude>
+			<longitude>1185779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Macquarie -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-314055</latitude>
+			<longitude>1529279</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prahran -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378388</latitude>
+			<longitude>1450112</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Preston -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377388</latitude>
+			<longitude>1450279</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Punchbowl -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-247888</latitude>
+			<longitude>1495779</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pymble -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337388</latitude>
+			<longitude>1511612</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quakers Hill -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337220</latitude>
+			<longitude>1508946</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queanbeyan -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-353387</latitude>
+			<longitude>1492446</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queensland Crossing -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-148720</latitude>
+			<longitude>1345780</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Randwick -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339053</latitude>
+			<longitude>1512614</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Raymond Terrace -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-327386</latitude>
+			<longitude>1517614</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Redfern -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338886</latitude>
+			<longitude>1512114</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Regents Park -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338719</latitude>
+			<longitude>1510281</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Renmark -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-341719</latitude>
+			<longitude>1407614</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reservoir -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377053</latitude>
+			<longitude>1450114</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rhodes -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338219</latitude>
+			<longitude>1510947</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Riverwood -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339386</latitude>
+			<longitude>1510614</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rochedale -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-275553</latitude>
+			<longitude>1531447</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rockdale -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339386</latitude>
+			<longitude>1511447</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rockhampton -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-233719</latitude>
+			<longitude>1505114</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rockingham -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-322719</latitude>
+			<longitude>1157281</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooty Hill -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337553</latitude>
+			<longitude>1508447</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roxby Downs -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-307053</latitude>
+			<longitude>1367781</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Runcorn -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-275886</latitude>
+			<longitude>1530781</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ryde -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338053</latitude>
+			<longitude>1511114</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rylstone -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-327886</latitude>
+			<longitude>1499781</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saint Clair Bore -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-214218</latitude>
+			<longitude>1448448</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Lucia -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-274885</latitude>
+			<longitude>1530115</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sale -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-380885</latitude>
+			<longitude>1470782</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Satans Toe -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-326218</latitude>
+			<longitude>1435782</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seven Hills -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-337718</latitude>
+			<longitude>1509448</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shepparton -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-363718</latitude>
+			<longitude>1454115</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidney Island -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-204385</latitude>
+			<longitude>1490282</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Singleton -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-325552</latitude>
+			<longitude>1511948</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="South Perth -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-319718</latitude>
+			<longitude>1158782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Yarra -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378218</latitude>
+			<longitude>1449948</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Southport -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-279552</latitude>
+			<longitude>1534115</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stanthorpe -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-286552</latitude>
+			<longitude>1519615</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Strathfield -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338552</latitude>
+			<longitude>1511115</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Strathfield -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-212218</latitude>
+			<longitude>1411448</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Strathfield Station Bore -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-213718</latitude>
+			<longitude>1409782</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Strathfieldsaye -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-380385</latitude>
+			<longitude>1472948</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sunnybank -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-275718</latitude>
+			<longitude>1530615</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sunshine -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377718</latitude>
+			<longitude>1448448</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Swan Hill -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-353385</latitude>
+			<longitude>1435782</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sydenham -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376885</latitude>
+			<longitude>1447782</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sydney -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338718</latitude>
+			<longitude>1512282</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sydney Bay">
+			<state></state>
+			<latitude>-290552</latitude>
+			<longitude>1679615</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sydney Cove -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338552</latitude>
+			<longitude>1512282</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sydney Creek -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-162885</latitude>
+			<longitude>1289615</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sydney Harbour -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338552</latitude>
+			<longitude>1512615</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sydney Harbour Bridge -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338385</latitude>
+			<longitude>1512115</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sydney International Airport -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-339274</latitude>
+			<longitude>1511865</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sydney Island -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-166718</latitude>
+			<longitude>1394782</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sydney Station -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338718</latitude>
+			<longitude>1512115</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sydney Yeo Chasm -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-270218</latitude>
+			<longitude>1268282</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamworth -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-310884</latitude>
+			<longitude>1509449</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taree -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-318884</latitude>
+			<longitude>1524783</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tasmania">
+			<state></state>
+			<latitude>-419884</latitude>
+			<longitude>1470116</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taylors Lake -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-367884</latitude>
+			<longitude>1423949</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tennant Creek -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-195217</latitude>
+			<longitude>1344116</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thomastown -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376717</latitude>
+			<longitude>1450283</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Toowong -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-274717</latitude>
+			<longitude>1529949</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toowoomba -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-275384</latitude>
+			<longitude>1519783</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Torquay -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-383217</latitude>
+			<longitude>1443283</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Torrens Vale -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-355051</latitude>
+			<longitude>1383783</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Townsville -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-192384</latitude>
+			<longitude>1468116</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Traralgon -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-381717</latitude>
+			<longitude>1465449</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tumut -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-352884</latitude>
+			<longitude>1482283</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tweed Heads -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-281717</latitude>
+			<longitude>1535616</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unanderra -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-344383</latitude>
+			<longitude>1508617</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vermont -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378215</latitude>
+			<longitude>1452118</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-212215</latitude>
+			<longitude>1489785</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-301715</latitude>
+			<longitude>1191118</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victoria Bridge -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-274549</latitude>
+			<longitude>1530285</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria Park -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377715</latitude>
+			<longitude>1450118</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria Reservoir -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-320382</latitude>
+			<longitude>1160785</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villawood -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338715</latitude>
+			<longitude>1509785</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wagga Wagga -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-351048</latitude>
+			<longitude>1473786</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walgett -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-300048</latitude>
+			<longitude>1481286</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wallsend -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-329048</latitude>
+			<longitude>1516786</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wandin -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-377881</latitude>
+			<longitude>1454619</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wangaratta -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-363548</latitude>
+			<longitude>1463452</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warracknabeal -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-362381</latitude>
+			<longitude>1424286</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warrnambool -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-383714</latitude>
+			<longitude>1424952</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warwick -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-282214</latitude>
+			<longitude>1520286</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weipa -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-126548</latitude>
+			<longitude>1418786</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Werribee -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-317548</latitude>
+			<longitude>1163619</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Werribee -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378881</latitude>
+			<longitude>1446786</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Werribee -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-231048</latitude>
+			<longitude>1491452</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Werribee River -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-379714</latitude>
+			<longitude>1446952</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Westmead -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-338048</latitude>
+			<longitude>1509952</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whale Beach -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-336048</latitude>
+			<longitude>1513452</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wheelers Hill -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-378881</latitude>
+			<longitude>1451952</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whyalla -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-330214</latitude>
+			<longitude>1375952</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winton -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-223881</latitude>
+			<longitude>1430452</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wodonga -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-361048</latitude>
+			<longitude>1468952</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wollongong -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-344214</latitude>
+			<longitude>1508952</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wollongong Head -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-344048</latitude>
+			<longitude>1509286</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wyong -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-332714</latitude>
+			<longitude>1513619</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="X Reef -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-109047</latitude>
+			<longitude>1427953</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xantippe -- (State: Western Australia)">
+			<state>Western Australia</state>
+			<latitude>-300213</latitude>
+			<longitude>1170453</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xmas Creek -- (State: Northern Territory)">
+			<state>Northern Territory</state>
+			<latitude>-188380</latitude>
+			<longitude>1367287</longitude>
+			<timezone>950</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xmas Well -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-262713</latitude>
+			<longitude>1352453</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yandina -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-265546</latitude>
+			<longitude>1529788</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarralumla Creek -- (State: Australian Capital Territory)">
+			<state>Australian Capital Territory</state>
+			<latitude>-352879</latitude>
+			<longitude>1490788</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yarrawonga -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-360046</latitude>
+			<longitude>1460121</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yarrowee -- (State: Victoria)">
+			<state>Victoria</state>
+			<latitude>-376546</latitude>
+			<longitude>1438621</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yeppoon -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-231212</latitude>
+			<longitude>1507454</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Young -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-343046</latitude>
+			<longitude>1483121</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zadows Hill -- (State: South Australia)">
+			<state>South Australia</state>
+			<latitude>-349878</latitude>
+			<longitude>1393955</longitude>
+			<timezone>950</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zamia Creek -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-244711</latitude>
+			<longitude>1497122</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zara -- (State: New South Wales)">
+			<state>New South Wales</state>
+			<latitude>-283045</latitude>
+			<longitude>1532955</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeehan -- (State: Tasmania)">
+			<state>Tasmania</state>
+			<latitude>-418711</latitude>
+			<longitude>1453455</longitude>
+			<timezone>1000</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zenia Creek -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-208378</latitude>
+			<longitude>1487622</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zillmans Gap -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-216211</latitude>
+			<longitude>1491789</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zillmanton -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-171211</latitude>
+			<longitude>1444955</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuizin Island -- (State: Queensland)">
+			<state>Queensland</state>
+			<latitude>-100961</latitude>
+			<longitude>1433303</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

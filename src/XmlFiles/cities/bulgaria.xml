@@ -1,0 +1,348 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bulgaria">
+		<city name="Aitos -- (State: Burgas)">
+			<state>Burgas</state>
+			<latitude>427097</latitude>
+			<longitude>272597</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aitoska -- (State: (BU29))">
+			<state>(BU29)</state>
+			<latitude>425097</latitude>
+			<longitude>273597</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blagoevgrad">
+			<state></state>
+			<latitude>420265</latitude>
+			<longitude>231098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burgas">
+			<state></state>
+			<latitude>425098</latitude>
+			<longitude>274765</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gabrovo -- (State: (BU36))">
+			<state>(BU36)</state>
+			<latitude>419031</latitude>
+			<longitude>229453</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gabrovo">
+			<state></state>
+			<latitude>430103</latitude>
+			<longitude>252770</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gabrovo -- (State: (BU31))">
+			<state>(BU31)</state>
+			<latitude>426270</latitude>
+			<longitude>251770</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gabrovo -- (State: (BU34))">
+			<state>(BU34)</state>
+			<latitude>415603</latitude>
+			<longitude>247770</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gotse Delchev -- (State: Blagoevgrad)">
+			<state>Blagoevgrad</state>
+			<latitude>415770</latitude>
+			<longitude>237436</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hablkovo -- (State: (BU37))">
+			<state>(BU37)</state>
+			<latitude>436104</latitude>
+			<longitude>276271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hadzi-Jeiles -- (State: Plovdiv)">
+			<state>Plovdiv</state>
+			<latitude>421104</latitude>
+			<longitude>252271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hagichioi -- (State: (BU37))">
+			<state>(BU37)</state>
+			<latitude>438604</latitude>
+			<longitude>278604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hagiolar -- (State: (BU35))">
+			<state>(BU35)</state>
+			<latitude>439271</latitude>
+			<longitude>268771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hajar -- (State: (BU35))">
+			<state>(BU35)</state>
+			<latitude>433771</latitude>
+			<longitude>262937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamzalar -- (State: (BU37))">
+			<state>(BU37)</state>
+			<latitude>434437</latitude>
+			<longitude>280271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hanishta Predel -- (State: (BU36))">
+			<state>(BU36)</state>
+			<latitude>418437</latitude>
+			<longitude>233104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harman -- (State: (BU29))">
+			<state>(BU29)</state>
+			<latitude>422604</latitude>
+			<longitude>273937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harmanata -- (State: (BU29))">
+			<state>(BU29)</state>
+			<latitude>420271</latitude>
+			<longitude>278437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haskovska -- (State: (BU31))">
+			<state>(BU31)</state>
+			<latitude>419104</latitude>
+			<longitude>257271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Herakovo -- (State: (BU36))">
+			<state>(BU36)</state>
+			<latitude>427937</latitude>
+			<longitude>231271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hermanli -- (State: Khaskovo)">
+			<state>Khaskovo</state>
+			<latitude>419437</latitude>
+			<longitude>259104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horlec -- (State: (BU33))">
+			<state>(BU33)</state>
+			<latitude>437104</latitude>
+			<longitude>238437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hristo-Danovo -- (State: (BU34))">
+			<state>(BU34)</state>
+			<latitude>427437</latitude>
+			<longitude>246104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Husar -- (State: Plovdiv)">
+			<state>Plovdiv</state>
+			<latitude>425104</latitude>
+			<longitude>247104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pernik">
+			<state></state>
+			<latitude>426112</latitude>
+			<longitude>230445</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pleven">
+			<state></state>
+			<latitude>434279</latitude>
+			<longitude>246279</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plovdiv">
+			<state></state>
+			<latitude>421612</latitude>
+			<longitude>247612</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plovdivtsi -- (State: (BU34))">
+			<state>(BU34)</state>
+			<latitude>414279</latitude>
+			<longitude>248112</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ribnowo -- (State: (BU36))">
+			<state>(BU36)</state>
+			<latitude>417281</latitude>
+			<longitude>237781</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ruse -- (State: Razgrad)">
+			<state>Razgrad</state>
+			<latitude>436447</latitude>
+			<longitude>265281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ruse">
+			<state></state>
+			<latitude>438678</latitude>
+			<longitude>259822</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rusekastrenska -- (State: (BU29))">
+			<state>(BU29)</state>
+			<latitude>424114</latitude>
+			<longitude>273114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rusenovtsi -- (State: (BU32))">
+			<state>(BU32)</state>
+			<latitude>429281</latitude>
+			<longitude>255281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rusenski Lom -- (State: (BU35))">
+			<state>(BU35)</state>
+			<latitude>438447</latitude>
+			<longitude>259614</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shumen">
+			<state></state>
+			<latitude>432882</latitude>
+			<longitude>269407</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shumenski Visochini -- (State: (BU37))">
+			<state>(BU37)</state>
+			<latitude>432948</latitude>
+			<longitude>268282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shumentsi -- (State: (BU35))">
+			<state>(BU35)</state>
+			<latitude>439782</latitude>
+			<longitude>266115</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sliven">
+			<state></state>
+			<latitude>426973</latitude>
+			<longitude>263407</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Smolyan">
+			<state></state>
+			<latitude>415968</latitude>
+			<longitude>247034</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sofia -- (State: Sofiya-Grad)">
+			<state>Sofiya-Grad</state>
+			<latitude>426948</latitude>
+			<longitude>233282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sofiya-Grad">
+			<state></state>
+			<latitude>426782</latitude>
+			<longitude>233782</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stara Zagora">
+			<state></state>
+			<latitude>424443</latitude>
+			<longitude>256534</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tolbukhin -- (State: Dobrich)">
+			<state>Dobrich</state>
+			<latitude>436949</latitude>
+			<longitude>279116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varna">
+			<state></state>
+			<latitude>432285</latitude>
+			<longitude>279285</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varna Bay -- (State: (BU37))">
+			<state>(BU37)</state>
+			<latitude>431951</latitude>
+			<longitude>279451</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varna Lake -- (State: (BU37))">
+			<state>(BU37)</state>
+			<latitude>431951</latitude>
+			<longitude>278451</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varna-Devnya -- (State: (BU37))">
+			<state>(BU37)</state>
+			<latitude>432118</latitude>
+			<longitude>278118</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xanne Sandanski -- (State: Blagoevgrad)">
+			<state>Blagoevgrad</state>
+			<latitude>415787</latitude>
+			<longitude>232953</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="XII-i Rayon -- (State: Sofiya-Grad)">
+			<state>Sofiya-Grad</state>
+			<latitude>426864</latitude>
+			<longitude>234412</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

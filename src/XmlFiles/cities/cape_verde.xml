@@ -1,0 +1,1370 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Cape Verde">
+		<city name="Achada Baleia">
+			<state></state>
+			<latitude>150597</latitude>
+			<longitude>-234736</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Achada Bargado">
+			<state></state>
+			<latitude>150930</latitude>
+			<longitude>-235570</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Achada Bel Bel">
+			<state></state>
+			<latitude>151597</latitude>
+			<longitude>-235903</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Achada Carreira">
+			<state></state>
+			<latitude>152930</latitude>
+			<longitude>-237236</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Achada Grande">
+			<state></state>
+			<latitude>149930</latitude>
+			<longitude>-243070</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Achada Monte">
+			<state></state>
+			<latitude>152430</latitude>
+			<longitude>-236403</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Achada Vianga">
+			<state></state>
+			<latitude>151264</latitude>
+			<longitude>-235570</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Achadinha">
+			<state></state>
+			<latitude>152430</latitude>
+			<longitude>-237070</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agua das Fortes">
+			<state></state>
+			<latitude>169764</latitude>
+			<longitude>-252070</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alcatraz">
+			<state></state>
+			<latitude>152264</latitude>
+			<longitude>-231070</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amador">
+			<state></state>
+			<latitude>161264</latitude>
+			<longitude>-228236</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Areia Branca">
+			<state></state>
+			<latitude>169097</latitude>
+			<longitude>-249570</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Assomada">
+			<state></state>
+			<latitude>151097</latitude>
+			<longitude>-236736</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atalaia">
+			<state></state>
+			<latitude>150430</latitude>
+			<longitude>-243903</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bafureira">
+			<state></state>
+			<latitude>161931</latitude>
+			<longitude>-228235</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia Berreiros">
+			<state></state>
+			<latitude>165598</latitude>
+			<longitude>-240569</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia da Agua Amargosa">
+			<state></state>
+			<latitude>166098</latitude>
+			<longitude>-240402</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia da Cruzinha">
+			<state></state>
+			<latitude>171765</latitude>
+			<longitude>-251735</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia da Figueira Lapa">
+			<state></state>
+			<latitude>152765</latitude>
+			<longitude>-231069</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia da Palmeira">
+			<state></state>
+			<latitude>167598</latitude>
+			<longitude>-229735</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia da Ribeira Alta">
+			<state></state>
+			<latitude>171765</latitude>
+			<longitude>-252069</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia da Teodora">
+			<state></state>
+			<latitude>162098</latitude>
+			<longitude>-229235</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia de Fiura">
+			<state></state>
+			<latitude>168598</latitude>
+			<longitude>-229069</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia de Joaquim Petinha">
+			<state></state>
+			<latitude>167265</latitude>
+			<longitude>-229735</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia de Salamansa">
+			<state></state>
+			<latitude>169265</latitude>
+			<longitude>-249402</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia de Santana">
+			<state></state>
+			<latitude>152931</latitude>
+			<longitude>-232235</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia de Sao Pedro">
+			<state></state>
+			<latitude>168265</latitude>
+			<longitude>-250569</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia do Chao Bom">
+			<state></state>
+			<latitude>152598</latitude>
+			<longitude>-237569</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia Entre Picos">
+			<state></state>
+			<latitude>168931</latitude>
+			<longitude>-250569</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia Passo de Pau">
+			<state></state>
+			<latitude>169265</latitude>
+			<longitude>-252569</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baixa do Espechim">
+			<state></state>
+			<latitude>166931</latitude>
+			<longitude>-243402</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baixo de Joao Valente">
+			<state></state>
+			<latitude>158098</latitude>
+			<longitude>-231735</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baixo Galeao">
+			<state></state>
+			<latitude>153598</latitude>
+			<longitude>-231569</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baleia">
+			<state></state>
+			<latitude>148598</latitude>
+			<longitude>-246902</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baluarte">
+			<state></state>
+			<latitude>150098</latitude>
+			<longitude>-243902</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barbasco">
+			<state></state>
+			<latitude>171931</latitude>
+			<longitude>-250402</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barreiro">
+			<state></state>
+			<latitude>151431</latitude>
+			<longitude>-231569</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beirona">
+			<state></state>
+			<latitude>166931</latitude>
+			<longitude>-229235</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bela Vista">
+			<state></state>
+			<latitude>168098</latitude>
+			<longitude>-229569</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boa Ventura">
+			<state></state>
+			<latitude>161431</latitude>
+			<longitude>-228902</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boca do Inferno">
+			<state></state>
+			<latitude>150265</latitude>
+			<longitude>-237402</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bomfim">
+			<state></state>
+			<latitude>167098</latitude>
+			<longitude>-228902</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bonita">
+			<state></state>
+			<latitude>170931</latitude>
+			<longitude>-253069</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Botija">
+			<state></state>
+			<latitude>170598</latitude>
+			<longitude>-253235</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dacabalaio">
+			<state></state>
+			<latitude>148600</latitude>
+			<longitude>-243233</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Derrubado">
+			<state></state>
+			<latitude>162433</latitude>
+			<longitude>-227900</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egreja">
+			<state></state>
+			<latitude>150434</latitude>
+			<longitude>-243232</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Endriano">
+			<state></state>
+			<latitude>171268</latitude>
+			<longitude>-251732</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Escabecada">
+			<state></state>
+			<latitude>171434</latitude>
+			<longitude>-251399</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Escada">
+			<state></state>
+			<latitude>165934</latitude>
+			<longitude>-243566</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esgamaleiro">
+			<state></state>
+			<latitude>171268</latitude>
+			<longitude>-251399</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Espadana">
+			<state></state>
+			<latitude>171101</latitude>
+			<longitude>-251566</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Espigao da Calheta">
+			<state></state>
+			<latitude>170434</latitude>
+			<longitude>-250232</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Espingueira">
+			<state></state>
+			<latitude>162268</latitude>
+			<longitude>-227899</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Estancia Braz">
+			<state></state>
+			<latitude>166768</latitude>
+			<longitude>-243066</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faja">
+			<state></state>
+			<latitude>148769</latitude>
+			<longitude>-247398</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fajasinha">
+			<state></state>
+			<latitude>150602</latitude>
+			<longitude>-243398</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fajazinha">
+			<state></state>
+			<latitude>171602</latitude>
+			<longitude>-251565</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fanade">
+			<state></state>
+			<latitude>171435</latitude>
+			<longitude>-251565</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fazenda Real">
+			<state></state>
+			<latitude>168769</latitude>
+			<longitude>-249398</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feijoal">
+			<state></state>
+			<latitude>167602</latitude>
+			<longitude>-228898</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Figueira da Naus">
+			<state></state>
+			<latitude>151935</latitude>
+			<longitude>-237231</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Figueira de Coxe">
+			<state></state>
+			<latitude>166435</latitude>
+			<longitude>-242065</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Figueira Pavao">
+			<state></state>
+			<latitude>148602</latitude>
+			<longitude>-243065</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Figueira Seca">
+			<state></state>
+			<latitude>151602</latitude>
+			<longitude>-231398</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fio do Monte Vermelho">
+			<state></state>
+			<latitude>150602</latitude>
+			<longitude>-243731</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fogao">
+			<state></state>
+			<latitude>160935</latitude>
+			<longitude>-228398</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fontainhas">
+			<state></state>
+			<latitude>165935</latitude>
+			<longitude>-243231</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fonte Aleixo">
+			<state></state>
+			<latitude>148435</latitude>
+			<longitude>-243565</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Forno">
+			<state></state>
+			<latitude>148935</latitude>
+			<longitude>-244398</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fundo das Figueiras">
+			<state></state>
+			<latitude>161602</latitude>
+			<longitude>-227231</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furno">
+			<state></state>
+			<latitude>148935</latitude>
+			<longitude>-246731</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galinheiros">
+			<state></state>
+			<latitude>150103</latitude>
+			<longitude>-244397</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gata">
+			<state></state>
+			<latitude>162103</latitude>
+			<longitude>-227064</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gatas">
+			<state></state>
+			<latitude>169103</latitude>
+			<longitude>-249064</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goa Alto">
+			<state></state>
+			<latitude>168603</latitude>
+			<longitude>-249064</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goa Baixo">
+			<state></state>
+			<latitude>168603</latitude>
+			<longitude>-248897</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gouveia">
+			<state></state>
+			<latitude>149436</latitude>
+			<longitude>-236730</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilha Brava">
+			<state></state>
+			<latitude>148772</latitude>
+			<longitude>-247062</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilha da Boa Vista">
+			<state></state>
+			<latitude>160938</latitude>
+			<longitude>-228228</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilha de Maio">
+			<state></state>
+			<latitude>152605</latitude>
+			<longitude>-231562</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilha de Santa Luzia">
+			<state></state>
+			<latitude>167772</latitude>
+			<longitude>-247395</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilha de Santiago">
+			<state></state>
+			<latitude>150938</latitude>
+			<longitude>-236562</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilha de Sao Nicolau">
+			<state></state>
+			<latitude>165938</latitude>
+			<longitude>-242395</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilha de Sao Vicente">
+			<state></state>
+			<latitude>168438</latitude>
+			<longitude>-249895</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilha do Sal">
+			<state></state>
+			<latitude>167605</latitude>
+			<longitude>-229062</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilhado Fogo">
+			<state></state>
+			<latitude>149272</latitude>
+			<longitude>-244062</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilhas do Cabo Verde">
+			<state></state>
+			<latitude>160105</latitude>
+			<longitude>-239895</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilhas do Sotavento">
+			<state></state>
+			<latitude>150105</latitude>
+			<longitude>-235728</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu da Areia">
+			<state></state>
+			<latitude>148938</latitude>
+			<longitude>-247228</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu da Fragata">
+			<state></state>
+			<latitude>166438</latitude>
+			<longitude>-228728</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu de Baixo">
+			<state></state>
+			<latitude>149772</latitude>
+			<longitude>-246895</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu de Cima">
+			<state></state>
+			<latitude>149772</latitude>
+			<longitude>-246395</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu de Rabo de Junco">
+			<state></state>
+			<latitude>167105</latitude>
+			<longitude>-229895</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu de Sal Rei">
+			<state></state>
+			<latitude>161772</latitude>
+			<longitude>-229228</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu do Baluarte">
+			<state></state>
+			<latitude>161605</latitude>
+			<longitude>-226562</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu do Boi">
+			<state></state>
+			<latitude>171438</latitude>
+			<longitude>-249728</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu do Galeao">
+			<state></state>
+			<latitude>162272</latitude>
+			<longitude>-227062</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu do Guisinho">
+			<state></state>
+			<latitude>167605</latitude>
+			<longitude>-247562</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu dos Passaros">
+			<state></state>
+			<latitude>169272</latitude>
+			<longitude>-250062</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheu Razo">
+			<state></state>
+			<latitude>166272</latitude>
+			<longitude>-245895</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheus do Chano">
+			<state></state>
+			<latitude>167105</latitude>
+			<longitude>-228728</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilheus do Rombo">
+			<state></state>
+			<latitude>149772</latitude>
+			<longitude>-246562</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janelas">
+			<state></state>
+			<latitude>171273</latitude>
+			<longitude>-249894</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joao Barroza">
+			<state></state>
+			<latitude>160273</latitude>
+			<longitude>-227394</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joao Daninha">
+			<state></state>
+			<latitude>169773</latitude>
+			<longitude>-252227</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joao Galego">
+			<state></state>
+			<latitude>161606</latitude>
+			<longitude>-227394</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juncalinho">
+			<state></state>
+			<latitude>166273</latitude>
+			<longitude>-241227</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagarica">
+			<state></state>
+			<latitude>149275</latitude>
+			<longitude>-244559</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagoa">
+			<state></state>
+			<latitude>151441</latitude>
+			<longitude>-231392</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagoa Atras">
+			<state></state>
+			<latitude>150275</latitude>
+			<longitude>-243225</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laje Branca">
+			<state></state>
+			<latitude>153275</latitude>
+			<longitude>-231392</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lajedo dos Espargos">
+			<state></state>
+			<latitude>167441</latitude>
+			<longitude>-229225</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lapa Cachorro">
+			<state></state>
+			<latitude>152775</latitude>
+			<longitude>-236892</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lazaretto">
+			<state></state>
+			<latitude>168775</latitude>
+			<longitude>-250225</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leiro">
+			<state></state>
+			<latitude>170108</latitude>
+			<longitude>-251892</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lombo das Dancas">
+			<state></state>
+			<latitude>169941</latitude>
+			<longitude>-252059</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lombo de Figueira">
+			<state></state>
+			<latitude>171108</latitude>
+			<longitude>-250559</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lombo do Mar">
+			<state></state>
+			<latitude>171275</latitude>
+			<longitude>-251559</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lugar Novo">
+			<state></state>
+			<latitude>149441</latitude>
+			<longitude>-244725</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luzia Nunes">
+			<state></state>
+			<latitude>148775</latitude>
+			<longitude>-244392</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Madeiral">
+			<state></state>
+			<latitude>168442</latitude>
+			<longitude>-249391</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Martiana">
+			<state></state>
+			<latitude>171109</latitude>
+			<longitude>-252391</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mateuzinho">
+			<state></state>
+			<latitude>168609</latitude>
+			<longitude>-249224</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miguel Pires">
+			<state></state>
+			<latitude>170942</latitude>
+			<longitude>-252224</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mindelo">
+			<state></state>
+			<latitude>168942</latitude>
+			<longitude>-249891</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mira-Mira">
+			<state></state>
+			<latitude>149776</latitude>
+			<longitude>-244391</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moia Moia">
+			<state></state>
+			<latitude>150276</latitude>
+			<longitude>-234558</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montagarro">
+			<state></state>
+			<latitude>149609</latitude>
+			<longitude>-235058</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Antonio Gomes">
+			<state></state>
+			<latitude>168942</latitude>
+			<longitude>-249224</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Carneiro">
+			<state></state>
+			<latitude>170442</latitude>
+			<longitude>-252558</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Feada">
+			<state></state>
+			<latitude>170276</latitude>
+			<longitude>-252224</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Feijao Branco">
+			<state></state>
+			<latitude>171109</latitude>
+			<longitude>-252058</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Henrique">
+			<state></state>
+			<latitude>151776</latitude>
+			<longitude>-237224</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Joana">
+			<state></state>
+			<latitude>171776</latitude>
+			<longitude>-250391</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Losna">
+			<state></state>
+			<latitude>149109</latitude>
+			<longitude>-243724</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Pedroso">
+			<state></state>
+			<latitude>151776</latitude>
+			<longitude>-237391</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Ribeirinha">
+			<state></state>
+			<latitude>168442</latitude>
+			<longitude>-250891</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Semedo">
+			<state></state>
+			<latitude>152276</latitude>
+			<longitude>-237224</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Sobrado">
+			<state></state>
+			<latitude>149109</latitude>
+			<longitude>-243558</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Tagarrinho">
+			<state></state>
+			<latitude>150776</latitude>
+			<longitude>-237058</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Tortolho">
+			<state></state>
+			<latitude>149276</latitude>
+			<longitude>-243224</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Monte Vermelho">
+			<state></state>
+			<latitude>148442</latitude>
+			<longitude>-243224</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Montinho">
+			<state></state>
+			<latitude>152276</latitude>
+			<longitude>-237058</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morrinho">
+			<state></state>
+			<latitude>152776</latitude>
+			<longitude>-232224</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morro da Areia Point">
+			<state></state>
+			<latitude>160942</latitude>
+			<longitude>-229558</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morros Domingos Santos">
+			<state></state>
+			<latitude>170276</latitude>
+			<longitude>-252558</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nha Marco">
+			<state></state>
+			<latitude>167110</latitude>
+			<longitude>-229390</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nhuco">
+			<state></state>
+			<latitude>149443</latitude>
+			<longitude>-244390</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nora">
+			<state></state>
+			<latitude>150277</latitude>
+			<longitude>-235390</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Point">
+			<state></state>
+			<latitude>168777</latitude>
+			<longitude>-229223</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nossa Senhora do Monte">
+			<state></state>
+			<latitude>148610</latitude>
+			<longitude>-247057</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orgaos">
+			<state></state>
+			<latitude>150778</latitude>
+			<longitude>-236056</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortelao">
+			<state></state>
+			<latitude>166278</latitude>
+			<longitude>-243556</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Praia">
+			<state></state>
+			<latitude>149279</latitude>
+			<longitude>-235055</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Praia da Chave">
+			<state></state>
+			<latitude>161112</latitude>
+			<longitude>-229055</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queimada">
+			<state></state>
+			<latitude>166446</latitude>
+			<longitude>-243054</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sacramento">
+			<state></state>
+			<latitude>150615</latitude>
+			<longitude>-235552</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sal Rei">
+			<state></state>
+			<latitude>161948</latitude>
+			<longitude>-229052</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salamanza">
+			<state></state>
+			<latitude>169115</latitude>
+			<longitude>-249385</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Cruz">
+			<state></state>
+			<latitude>151448</latitude>
+			<longitude>-235552</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Luzia">
+			<state></state>
+			<latitude>168282</latitude>
+			<longitude>-249052</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santo Antonio">
+			<state></state>
+			<latitude>152782</latitude>
+			<longitude>-231218</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sao Filipe">
+			<state></state>
+			<latitude>149115</latitude>
+			<longitude>-245052</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sao Joao">
+			<state></state>
+			<latitude>149615</latitude>
+			<longitude>-236552</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sao Jorge">
+			<state></state>
+			<latitude>150282</latitude>
+			<longitude>-244218</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sao Martinho">
+			<state></state>
+			<latitude>149282</latitude>
+			<longitude>-235718</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sao Tiago">
+			<state></state>
+			<latitude>151448</latitude>
+			<longitude>-235218</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Selada">
+			<state></state>
+			<latitude>171115</latitude>
+			<longitude>-252552</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seladinha">
+			<state></state>
+			<latitude>169782</latitude>
+			<longitude>-253052</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serra da Malagueta">
+			<state></state>
+			<latitude>151782</latitude>
+			<longitude>-236885</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serra do Pico de Antonia">
+			<state></state>
+			<latitude>150615</latitude>
+			<longitude>-236385</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sinagoga">
+			<state></state>
+			<latitude>171948</latitude>
+			<longitude>-250218</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sol Point">
+			<state></state>
+			<latitude>172115</latitude>
+			<longitude>-250885</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tabuadinha">
+			<state></state>
+			<latitude>170949</latitude>
+			<longitude>-251551</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tabuga">
+			<state></state>
+			<latitude>170283</latitude>
+			<longitude>-251884</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Telha">
+			<state></state>
+			<latitude>165783</latitude>
+			<longitude>-243551</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tongom">
+			<state></state>
+			<latitude>149283</latitude>
+			<longitude>-244717</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tope Calheta">
+			<state></state>
+			<latitude>168783</latitude>
+			<longitude>-250551</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tope de Caixa">
+			<state></state>
+			<latitude>168283</latitude>
+			<longitude>-249884</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tope Suzana">
+			<state></state>
+			<latitude>168949</latitude>
+			<longitude>-250384</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trindade">
+			<state></state>
+			<latitude>149616</latitude>
+			<longitude>-235551</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urzeleiros">
+			<state></state>
+			<latitude>170950</latitude>
+			<longitude>-251883</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vale da Custa">
+			<state></state>
+			<latitude>149951</latitude>
+			<longitude>-234715</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velha">
+			<state></state>
+			<latitude>149285</latitude>
+			<longitude>-236049</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vermelharia Grande Point">
+			<state></state>
+			<latitude>164951</latitude>
+			<longitude>-243049</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vicente Dias">
+			<state></state>
+			<latitude>148951</latitude>
+			<longitude>-244549</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vila da Ribeira Brava">
+			<state></state>
+			<latitude>166285</latitude>
+			<longitude>-242882</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vila do Maio">
+			<state></state>
+			<latitude>151451</latitude>
+			<longitude>-232049</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vila do Porto Novo">
+			<state></state>
+			<latitude>170451</latitude>
+			<longitude>-250549</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vila do Tarrafal">
+			<state></state>
+			<latitude>152951</latitude>
+			<longitude>-237549</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vila Nova">
+			<state></state>
+			<latitude>149451</latitude>
+			<longitude>-235049</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinagre">
+			<state></state>
+			<latitude>148785</latitude>
+			<longitude>-246882</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulcao">
+			<state></state>
+			<latitude>149451</latitude>
+			<longitude>-243382</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xa Xa">
+			<state></state>
+			<latitude>152120</latitude>
+			<longitude>-236547</longitude>
+			<timezone>-100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,1132 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Haiti">
+		<city name="Cap-Haitien -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>197599</latitude>
+			<longitude>-721901</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gonaives -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>194436</latitude>
+			<longitude>-726897</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile a la Mane -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>188772</latitude>
+			<longitude>-728895</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile a Vache -- (State: Sud)">
+			<state>Sud</state>
+			<latitude>180772</latitude>
+			<longitude>-736228</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Croissant -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>186938</latitude>
+			<longitude>-727562</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Rat -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>198105</latitude>
+			<longitude>-723062</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilet Port Margot -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>198438</latitude>
+			<longitude>-724228</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilet Remy -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>185605</latitude>
+			<longitude>-736728</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inginac Shoals -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>185772</latitude>
+			<longitude>-723562</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irlan -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>194605</latitude>
+			<longitude>-723062</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeremie -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>186773</latitude>
+			<longitude>-741561</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Berthe -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>185107</latitude>
+			<longitude>-733726</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Boffe -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184940</latitude>
+			<longitude>-734393</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Coq -- (State: Sud)">
+			<state>Sud</state>
+			<latitude>181107</latitude>
+			<longitude>-736893</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Dieu -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>185607</latitude>
+			<longitude>-736893</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Joeph -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>183440</latitude>
+			<longitude>-726560</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Lacour -- (State: Nord-Est)">
+			<state>Nord-Est</state>
+			<latitude>195440</latitude>
+			<longitude>-719560</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Lafie -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184774</latitude>
+			<longitude>-734226</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Lafond -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>185774</latitude>
+			<longitude>-735226</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Michaud -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>195274</latitude>
+			<longitude>-724226</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Robin -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>195774</latitude>
+			<longitude>-725726</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Roi -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>195857</latitude>
+			<longitude>-727737</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Savon -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184774</latitude>
+			<longitude>-737560</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Tanbour -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>184274</latitude>
+			<longitude>-725560</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Trouillot -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>183940</latitude>
+			<longitude>-722393</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ka Zabeth -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>184774</latitude>
+			<longitude>-720226</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kabeille -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>198440</latitude>
+			<longitude>-726060</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaeli -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>186954</latitude>
+			<longitude>-720387</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalami -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>187440</latitude>
+			<longitude>-721560</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaliko Beach -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>188774</latitude>
+			<longitude>-725893</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kanie -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>193274</latitude>
+			<longitude>-720393</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kenscoff -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>184613</latitude>
+			<longitude>-722762</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koa -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>193774</latitude>
+			<longitude>-723893</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kobe -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>188774</latitude>
+			<longitude>-720560</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kyona Beach -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>188440</latitude>
+			<longitude>-725726</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Cayes -- (State: Sud)">
+			<state>Sud</state>
+			<latitude>182941</latitude>
+			<longitude>-737392</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Miragoane -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>183942</latitude>
+			<longitude>-731058</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="O Brian -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>183611</latitude>
+			<longitude>-724222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="O Gorman -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>185778</latitude>
+			<longitude>-721389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oban -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182444</latitude>
+			<longitude>-724222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obeissant -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184111</latitude>
+			<longitude>-731389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obere -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>185778</latitude>
+			<longitude>-741889</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obleon -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>184489</latitude>
+			<longitude>-722608</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obo -- (State: Nord-Ouest)">
+			<state>Nord-Ouest</state>
+			<latitude>197661</latitude>
+			<longitude>-731397</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Octon -- (State: Nord-Est)">
+			<state>Nord-Est</state>
+			<latitude>194278</latitude>
+			<longitude>-717222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odelique -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>198111</latitude>
+			<longitude>-726389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odige -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>197944</latitude>
+			<longitude>-727389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odije -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>192111</latitude>
+			<longitude>-724722</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odino -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>195778</latitude>
+			<longitude>-727222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oge -- (State: Nord-Est)">
+			<state>Nord-Est</state>
+			<latitude>196111</latitude>
+			<longitude>-718889</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olivier -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184278</latitude>
+			<longitude>-730389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olivier -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>183278</latitude>
+			<longitude>-737056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oneflime -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184444</latitude>
+			<longitude>-742222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Operon -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>183353</latitude>
+			<longitude>-725150</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Opet -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>196658</latitude>
+			<longitude>-727775</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Opio -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>184111</latitude>
+			<longitude>-719056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oranger -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182611</latitude>
+			<longitude>-718889</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orangers -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182444</latitude>
+			<longitude>-725056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oranges River -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182455</latitude>
+			<longitude>-725308</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oriani -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>183111</latitude>
+			<longitude>-718222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oriani -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>183278</latitude>
+			<longitude>-719222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ostry -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>191944</latitude>
+			<longitude>-725556</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Otage -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182319</latitude>
+			<longitude>-727322</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouache -- (State: Sud)">
+			<state>Sud</state>
+			<latitude>182944</latitude>
+			<longitude>-740222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oualandou -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>193778</latitude>
+			<longitude>-723056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouanalope -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>193444</latitude>
+			<longitude>-721389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oulandou -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>194444</latitude>
+			<longitude>-722889</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ounongo -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184944</latitude>
+			<longitude>-743222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petionville -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>185237</latitude>
+			<longitude>-722741</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port au Prince International -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>185945</latitude>
+			<longitude>-722888</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Port-au-Prince -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>185279</latitude>
+			<longitude>-723055</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qartier-Morin -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>196780</latitude>
+			<longitude>-721554</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quaiche -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>197174</latitude>
+			<longitude>-721106</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quanamenthe -- (State: Nord-Est)">
+			<state>Nord-Est</state>
+			<latitude>195613</latitude>
+			<longitude>-717220</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quaquillo Perotte -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>190446</latitude>
+			<longitude>-725387</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quartier -- (State: Sud)">
+			<state>Sud</state>
+			<latitude>183113</latitude>
+			<longitude>-733387</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quartier Morin -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>197080</latitude>
+			<longitude>-721456</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quatre Villes -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>193113</latitude>
+			<longitude>-724554</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quenepe -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184946</latitude>
+			<longitude>-731554</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quentin -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>196946</latitude>
+			<longitude>-724554</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quenton -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>186113</latitude>
+			<longitude>-741720</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quepont -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>190946</latitude>
+			<longitude>-719220</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quermain -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182446</latitude>
+			<longitude>-718554</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Querset -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>189946</latitude>
+			<longitude>-725054</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quetan -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184613</latitude>
+			<longitude>-732220</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quinte -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>188446</latitude>
+			<longitude>-719054</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quiperie -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>184327</latitude>
+			<longitude>-729856</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quiquitte -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>183280</latitude>
+			<longitude>-728220</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quisa -- (State: Nord-Ouest)">
+			<state>Nord-Ouest</state>
+			<latitude>197446</latitude>
+			<longitude>-729387</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quisqueya -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>189613</latitude>
+			<longitude>-726887</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quiton -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>185780</latitude>
+			<longitude>-741720</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quvray -- (State: Nord-Est)">
+			<state>Nord-Est</state>
+			<latitude>196113</latitude>
+			<longitude>-719554</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Usine Nadal -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>186617</latitude>
+			<longitude>-722550</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wacacou -- (State: Nord-Est)">
+			<state>Nord-Est</state>
+			<latitude>193286</latitude>
+			<longitude>-717714</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wallondry -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>194286</latitude>
+			<longitude>-721881</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walsh -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>197044</latitude>
+			<longitude>-721164</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wampas -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>188619</latitude>
+			<longitude>-719048</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wan Degras -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>192119</latitude>
+			<longitude>-717214</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waney -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>185452</latitude>
+			<longitude>-723881</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Welch -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>197119</latitude>
+			<longitude>-722048</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Welch -- (State: Nord-Est)">
+			<state>Nord-Est</state>
+			<latitude>194786</latitude>
+			<longitude>-717048</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Welsh -- (State: Sud)">
+			<state>Sud</state>
+			<latitude>181525</latitude>
+			<longitude>-738312</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whale Rocks -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>185119</latitude>
+			<longitude>-744548</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilfrid -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182619</latitude>
+			<longitude>-724548</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Williamson -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>188619</latitude>
+			<longitude>-725714</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windward Passage">
+			<state></state>
+			<latitude>200119</latitude>
+			<longitude>-738214</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woreau -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>181786</latitude>
+			<longitude>-727548</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaguana -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>185229</latitude>
+			<longitude>-726218</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yannais -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>194621</latitude>
+			<longitude>-724712</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaquezi Point -- (State: Nord-Est)">
+			<state>Nord-Est</state>
+			<latitude>197440</latitude>
+			<longitude>-719773</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaya -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>186288</latitude>
+			<longitude>-741546</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yayou -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>193954</latitude>
+			<longitude>-722379</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yeague Point -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>197954</latitude>
+			<longitude>-723379</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yilier -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184621</latitude>
+			<longitude>-732879</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ylain -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>188288</latitude>
+			<longitude>-720212</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yobec -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>193788</latitude>
+			<longitude>-724379</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yocan -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>191621</latitude>
+			<longitude>-726712</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yocelle -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>195454</latitude>
+			<longitude>-721712</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yoke -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182788</latitude>
+			<longitude>-728046</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yombe -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182621</latitude>
+			<longitude>-721879</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yon -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>194788</latitude>
+			<longitude>-726379</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yousse -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>190454</latitude>
+			<longitude>-726546</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yrva -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>189668</latitude>
+			<longitude>-726490</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yvon -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>183954</latitude>
+			<longitude>-730546</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabethe -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>189711</latitude>
+			<longitude>-725047</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabo -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>181955</latitude>
+			<longitude>-728878</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabotte -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184455</latitude>
+			<longitude>-743545</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabricet -- (State: Nord-Ouest)">
+			<state>Nord-Ouest</state>
+			<latitude>198955</latitude>
+			<longitude>-725711</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaire -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>194955</latitude>
+			<longitude>-721878</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zamor -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>195955</latitude>
+			<longitude>-722045</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanglais -- (State: Sud)">
+			<state>Sud</state>
+			<latitude>182789</latitude>
+			<longitude>-734378</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeb a Fleche -- (State: Nord-Ouest)">
+			<state>Nord-Ouest</state>
+			<latitude>198289</latitude>
+			<longitude>-729211</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeb Fine -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182530</latitude>
+			<longitude>-722722</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeb Guinin -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>194289</latitude>
+			<longitude>-721545</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zemi -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>184789</latitude>
+			<longitude>-740378</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zemir -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>192122</latitude>
+			<longitude>-724045</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zephir -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>187955</latitude>
+			<longitude>-717211</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zephir -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>195455</latitude>
+			<longitude>-721211</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zephir -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>185789</latitude>
+			<longitude>-722711</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zephirin -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>196455</latitude>
+			<longitude>-722545</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zepine -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>195789</latitude>
+			<longitude>-721378</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zepingle -- (State: Sud)">
+			<state>Sud</state>
+			<latitude>182955</latitude>
+			<longitude>-734378</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zerbe Boule -- (State: Nord-Ouest)">
+			<state>Nord-Ouest</state>
+			<latitude>198455</latitude>
+			<longitude>-728378</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zerbe Fine -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182455</latitude>
+			<longitude>-719211</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zerbe Guinee -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>188497</latitude>
+			<longitude>-729584</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zetrois -- (State: Grand Anse)">
+			<state>Grand Anse</state>
+			<latitude>186289</latitude>
+			<longitude>-736878</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zetroits -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>188750</latitude>
+			<longitude>-729361</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zidor -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>193122</latitude>
+			<longitude>-723378</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zigne -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>193955</latitude>
+			<longitude>-720211</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zigue -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>197622</latitude>
+			<longitude>-725878</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zo Boeuf -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>195289</latitude>
+			<longitude>-728211</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zombi -- (State: Sud)">
+			<state>Sud</state>
+			<latitude>182789</latitude>
+			<longitude>-737045</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zombi -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>195789</latitude>
+			<longitude>-728545</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoracon -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>190789</latitude>
+			<longitude>-718045</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zorange -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>188955</latitude>
+			<longitude>-731711</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoranger -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182289</latitude>
+			<longitude>-728045</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoranger -- (State: Artibonite)">
+			<state>Artibonite</state>
+			<latitude>196955</latitude>
+			<longitude>-729045</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoranger -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>187789</latitude>
+			<longitude>-722545</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zorazo -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>184455</latitude>
+			<longitude>-722878</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoulien -- (State: Ouest)">
+			<state>Ouest</state>
+			<latitude>184480</latitude>
+			<longitude>-721950</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zumy -- (State: Sud-Est)">
+			<state>Sud-Est</state>
+			<latitude>182955</latitude>
+			<longitude>-723211</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

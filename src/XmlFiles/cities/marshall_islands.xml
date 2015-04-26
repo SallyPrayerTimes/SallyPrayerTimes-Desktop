@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Marshall Islands">
+		<city name="Delap">
+			<state></state>
+			<latitude>70933</latitude>
+			<longitude>1711433</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ebeye">
+			<state></state>
+			<latitude>87768</latitude>
+			<longitude>1677434</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flipper Point">
+			<state></state>
+			<latitude>193102</latitude>
+			<longitude>1666435</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fourteen Islands">
+			<state></state>
+			<latitude>46435</latitude>
+			<longitude>1687269</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fragile">
+			<state></state>
+			<latitude>116769</latitude>
+			<longitude>1622602</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fruhstucks Island">
+			<state></state>
+			<latitude>59935</latitude>
+			<longitude>1696102</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furodaisu-suido">
+			<state></state>
+			<latitude>70935</latitude>
+			<longitude>1715102</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hane Shima">
+			<state></state>
+			<latitude>193271</latitude>
+			<longitude>1666437</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harappu-To">
+			<state></state>
+			<latitude>60271</latitude>
+			<longitude>1694604</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hartstrings">
+			<state></state>
+			<latitude>114104</latitude>
+			<longitude>1623937</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haupt-Einfahrt">
+			<state></state>
+			<latitude>83437</latitude>
+			<longitude>1710604</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heel Point">
+			<state></state>
+			<latitude>193271</latitude>
+			<longitude>1666604</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Helut">
+			<state></state>
+			<latitude>73937</latitude>
+			<longitude>1687771</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higashi">
+			<state></state>
+			<latitude>94771</latitude>
+			<longitude>1702604</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higashi-Kaku">
+			<state></state>
+			<latitude>60104</latitude>
+			<longitude>1697437</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higashi-suido">
+			<state></state>
+			<latitude>114271</latitude>
+			<longitude>1623937</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hogaerikku-To">
+			<state></state>
+			<latitude>116937</latitude>
+			<longitude>1622271</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hohe Insel">
+			<state></state>
+			<latitude>70937</latitude>
+			<longitude>1717437</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hokusei">
+			<state></state>
+			<latitude>99937</latitude>
+			<longitude>1690271</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hokuto">
+			<state></state>
+			<latitude>113604</latitude>
+			<longitude>1669937</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hokuto-suido">
+			<state></state>
+			<latitude>62104</latitude>
+			<longitude>1721104</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Legan">
+			<state></state>
+			<latitude>89941</latitude>
+			<longitude>1675941</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngain">
+			<state></state>
+			<latitude>62277</latitude>
+			<longitude>1694610</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngalu">
+			<state></state>
+			<latitude>62110</latitude>
+			<longitude>1717277</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oa-to">
+			<state></state>
+			<latitude>58444</latitude>
+			<longitude>1695611</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obire">
+			<state></state>
+			<latitude>93611</latitude>
+			<longitude>1675111</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Odile">
+			<state></state>
+			<latitude>98444</latitude>
+			<longitude>1692278</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Odjia">
+			<state></state>
+			<latitude>94611</latitude>
+			<longitude>1700444</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olot">
+			<state></state>
+			<latitude>87778</latitude>
+			<longitude>1711944</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ombiririen-to">
+			<state></state>
+			<latitude>100778</latitude>
+			<longitude>1659778</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omelek">
+			<state></state>
+			<latitude>90611</latitude>
+			<longitude>1677444</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ongw">
+			<state></state>
+			<latitude>88944</latitude>
+			<longitude>1710278</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oninaen">
+			<state></state>
+			<latitude>60278</latitude>
+			<longitude>1720611</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onmak">
+			<state></state>
+			<latitude>89111</latitude>
+			<longitude>1709611</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onumak">
+			<state></state>
+			<latitude>90778</latitude>
+			<longitude>1675111</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oreba">
+			<state></state>
+			<latitude>93278</latitude>
+			<longitude>1669278</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oscar">
+			<state></state>
+			<latitude>115444</latitude>
+			<longitude>1622944</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ost-kap">
+			<state></state>
+			<latitude>59778</latitude>
+			<longitude>1697111</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otirik">
+			<state></state>
+			<latitude>112611</latitude>
+			<longitude>1698111</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vira">
+			<state></state>
+			<latitude>116118</latitude>
+			<longitude>1623451</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaamo">
+			<state></state>
+			<latitude>74621</latitude>
+			<longitude>1685788</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yappui Island">
+			<state></state>
+			<latitude>102288</latitude>
+			<longitude>1699954</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarabaru-To">
+			<state></state>
+			<latitude>89121</latitude>
+			<longitude>1709121</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaruto">
+			<state></state>
+			<latitude>59288</latitude>
+			<longitude>1696454</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaruuto To">
+			<state></state>
+			<latitude>58621</latitude>
+			<longitude>1696454</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yattokoton">
+			<state></state>
+			<latitude>62288</latitude>
+			<longitude>1720454</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeiri">
+			<state></state>
+			<latitude>116454</latitude>
+			<longitude>1622954</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeldo">
+			<state></state>
+			<latitude>100621</latitude>
+			<longitude>1660288</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoran">
+			<state></state>
+			<latitude>115954</latitude>
+			<longitude>1655621</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoruroppu-to">
+			<state></state>
+			<latitude>92954</latitude>
+			<longitude>1673621</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yugui">
+			<state></state>
+			<latitude>114621</latitude>
+			<longitude>1666954</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuniirikku-To">
+			<state></state>
+			<latitude>83454</latitude>
+			<longitude>1711621</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yurochi Island">
+			<state></state>
+			<latitude>116954</latitude>
+			<longitude>1653954</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuzugan Island">
+			<state></state>
+			<latitude>114121</latitude>
+			<longitude>1670454</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yvonne">
+			<state></state>
+			<latitude>115621</latitude>
+			<longitude>1623788</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeyakku-to">
+			<state></state>
+			<latitude>74955</latitude>
+			<longitude>1687622</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziegen-Insel">
+			<state></state>
+			<latitude>95455</latitude>
+			<longitude>1698955</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zubumaru-to">
+			<state></state>
+			<latitude>73622</latitude>
+			<longitude>1688955</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zwadjelinn">
+			<state></state>
+			<latitude>90955</latitude>
+			<longitude>1673455</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zyaritto">
+			<state></state>
+			<latitude>71289</latitude>
+			<longitude>1713789</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

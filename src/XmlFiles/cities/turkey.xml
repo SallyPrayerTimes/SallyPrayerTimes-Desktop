@@ -1,0 +1,1965 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Turkey">
+		<city name="Adana">
+			<state></state>
+			<latitude>370114</latitude>
+			<longitude>353386</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Adana -- (State: Manisa)">
+			<state>Manisa</state>
+			<latitude>386430</latitude>
+			<longitude>288930</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Adana Ili -- (State: Adana)">
+			<state>Adana</state>
+			<latitude>372597</latitude>
+			<longitude>354264</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Adanalioglu -- (State: Icel)">
+			<state>Icel</state>
+			<latitude>368430</latitude>
+			<longitude>348097</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Adapazari -- (State: Sakarya)">
+			<state>Sakarya</state>
+			<latitude>407903</latitude>
+			<longitude>304130</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Adiyaman">
+			<state></state>
+			<latitude>377689</latitude>
+			<longitude>382880</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Afyon">
+			<state></state>
+			<latitude>387664</latitude>
+			<longitude>305530</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Afyonkarahisar Vilayeti -- (State: Afyon)">
+			<state>Afyon</state>
+			<latitude>387597</latitude>
+			<longitude>306764</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agri">
+			<state></state>
+			<latitude>397291</latitude>
+			<longitude>430611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aksaray">
+			<state></state>
+			<latitude>383839</latitude>
+			<longitude>340386</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aksaray -- (State: Kahramanmaras)">
+			<state>Kahramanmaras</state>
+			<latitude>377264</latitude>
+			<longitude>374430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aksaray Ili -- (State: Aksaray)">
+			<state>Aksaray</state>
+			<latitude>385097</latitude>
+			<longitude>338430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aksaray Ovasi">
+			<state></state>
+			<latitude>383764</latitude>
+			<longitude>335264</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aksehir">
+			<state></state>
+			<latitude>383672</latitude>
+			<longitude>314261</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alacati -- (State: Sinop)">
+			<state>Sinop</state>
+			<latitude>413764</latitude>
+			<longitude>345597</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alacati Limani -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>382483</latitude>
+			<longitude>263955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alanya -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>365622</latitude>
+			<longitude>320122</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alucra -- (State: Giresun)">
+			<state>Giresun</state>
+			<latitude>403305</latitude>
+			<longitude>387733</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amasya -- (State: Aydin)">
+			<state>Aydin</state>
+			<latitude>376097</latitude>
+			<longitude>285097</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ankara">
+			<state></state>
+			<latitude>399369</latitude>
+			<longitude>328741</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ankara Cayi -- (State: Eskisehir)">
+			<state>Eskisehir</state>
+			<latitude>398597</latitude>
+			<longitude>319264</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ankara Ili -- (State: Ankara)">
+			<state>Ankara</state>
+			<latitude>399264</latitude>
+			<longitude>328430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Antakya -- (State: Hatay)">
+			<state>Hatay</state>
+			<latitude>362086</latitude>
+			<longitude>361703</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Antalya">
+			<state></state>
+			<latitude>369222</latitude>
+			<longitude>306994</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aydin -- (State: Afyon)">
+			<state>Afyon</state>
+			<latitude>385097</latitude>
+			<longitude>304930</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aydin Vilayeti -- (State: Aydin)">
+			<state>Aydin</state>
+			<latitude>377597</latitude>
+			<longitude>280097</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bagcilar -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>410534</latitude>
+			<longitude>288281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bakirkoy -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>381265</latitude>
+			<longitude>282765</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Balikesir">
+			<state></state>
+			<latitude>396590</latitude>
+			<longitude>278959</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Balikesir Ili -- (State: Balikesir)">
+			<state>Balikesir</state>
+			<latitude>397598</latitude>
+			<longitude>280098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Balikesir Ovasi -- (State: Balikesir)">
+			<state>Balikesir</state>
+			<latitude>396265</latitude>
+			<longitude>280931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bandirma -- (State: Balikesir)">
+			<state>Balikesir</state>
+			<latitude>403620</latitude>
+			<longitude>279865</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bartin">
+			<state></state>
+			<latitude>416456</latitude>
+			<longitude>323473</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Batman">
+			<state></state>
+			<latitude>378926</latitude>
+			<longitude>411304</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Batman Ili -- (State: Batman)">
+			<state>Batman</state>
+			<latitude>380098</latitude>
+			<longitude>413431</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Batmansuyu">
+			<state></state>
+			<latitude>377598</latitude>
+			<longitude>410098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belek -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>368726</latitude>
+			<longitude>310654</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergama -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>391267</latitude>
+			<longitude>271937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Besiktas Deresi -- (State: Manisa)">
+			<state>Manisa</state>
+			<latitude>384931</latitude>
+			<longitude>278265</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beylikova -- (State: Eskisehir)">
+			<state>Eskisehir</state>
+			<latitude>396967</latitude>
+			<longitude>312154</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Biga -- (State: Canakkale)">
+			<state>Canakkale</state>
+			<latitude>402379</latitude>
+			<longitude>272520</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bilecik">
+			<state></state>
+			<latitude>376265</latitude>
+			<longitude>425431</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bilecik Ili -- (State: Bilecik)">
+			<state>Bilecik</state>
+			<latitude>400098</latitude>
+			<longitude>301765</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bingol Ili -- (State: Bingol)">
+			<state>Bingol</state>
+			<latitude>390931</latitude>
+			<longitude>408431</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Birecik -- (State: Kahramanmaras)">
+			<state>Kahramanmaras</state>
+			<latitude>382431</latitude>
+			<longitude>368931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Birecik -- (State: Sanliurfa)">
+			<state>Sanliurfa</state>
+			<latitude>370392</latitude>
+			<longitude>380001</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bitlis">
+			<state></state>
+			<latitude>384106</latitude>
+			<longitude>421195</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bodrum -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>370481</latitude>
+			<longitude>274390</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bodrum -- (State: Icel)">
+			<state>Icel</state>
+			<latitude>361765</latitude>
+			<longitude>328098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bodrum Limani -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>370431</latitude>
+			<longitude>274431</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bolu">
+			<state></state>
+			<latitude>407456</latitude>
+			<longitude>316159</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bolu Vilayeti -- (State: Bolu)">
+			<state>Bolu</state>
+			<latitude>406765</latitude>
+			<longitude>315931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burdur">
+			<state></state>
+			<latitude>377301</latitude>
+			<longitude>303006</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Burdur Ili -- (State: Burdur)">
+			<state>Burdur</state>
+			<latitude>375098</latitude>
+			<longitude>300098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bursa -- (State: Bolu)">
+			<state>Bolu</state>
+			<latitude>405931</latitude>
+			<longitude>309098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bursa">
+			<state></state>
+			<latitude>402015</latitude>
+			<longitude>290709</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bursa Ili -- (State: Bursa)">
+			<state>Bursa</state>
+			<latitude>401765</latitude>
+			<longitude>290931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bursa Ovasi -- (State: Bursa)">
+			<state>Bursa</state>
+			<latitude>402431</latitude>
+			<longitude>289931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bursal -- (State: Ankara)">
+			<state>Ankara</state>
+			<latitude>398076</latitude>
+			<longitude>328942</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buyukcekmece -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>410251</latitude>
+			<longitude>285698</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Canakkale">
+			<state></state>
+			<latitude>401555</latitude>
+			<longitude>264163</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cankiri">
+			<state></state>
+			<latitude>406066</latitude>
+			<longitude>336243</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cankiri Ili -- (State: Cankiri)">
+			<state>Cankiri</state>
+			<latitude>406766</latitude>
+			<longitude>334266</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cankiris -- (State: Samsun)">
+			<state>Samsun</state>
+			<latitude>411266</latitude>
+			<longitude>369932</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cermik -- (State: Van)">
+			<state>Van</state>
+			<latitude>387432</latitude>
+			<longitude>435766</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cermik -- (State: Malatya)">
+			<state>Malatya</state>
+			<latitude>387099</latitude>
+			<longitude>384599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cermik -- (State: Erzurum)">
+			<state>Erzurum</state>
+			<latitude>404599</latitude>
+			<longitude>424432</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cermik -- (State: Tokat)">
+			<state>Tokat</state>
+			<latitude>408266</latitude>
+			<longitude>366599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cermik -- (State: Diyarbakir)">
+			<state>Diyarbakir</state>
+			<latitude>381443</latitude>
+			<longitude>394618</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cesme -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>383327</latitude>
+			<longitude>263163</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cesme Koyu -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>383343</latitude>
+			<longitude>263016</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corlu -- (State: Tekirdag)">
+			<state>Tekirdag</state>
+			<latitude>411691</latitude>
+			<longitude>278099</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corum -- (State: Hatay)">
+			<state>Hatay</state>
+			<latitude>365932</latitude>
+			<longitude>364432</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dalaman -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>367750</latitude>
+			<longitude>288142</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dalyan -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>385433</latitude>
+			<longitude>268767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Davutlar -- (State: Manisa)">
+			<state>Manisa</state>
+			<latitude>388100</latitude>
+			<longitude>273767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Denizli -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>383767</latitude>
+			<longitude>267600</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Denizli">
+			<state></state>
+			<latitude>377842</latitude>
+			<longitude>290975</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Denizli Ili -- (State: Denizli)">
+			<state>Denizli</state>
+			<latitude>377100</latitude>
+			<longitude>292600</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Develi Dagi -- (State: Kayseri)">
+			<state>Kayseri</state>
+			<latitude>383100</latitude>
+			<longitude>355433</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Diyarbakir">
+			<state></state>
+			<latitude>379289</latitude>
+			<longitude>402206</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Diyarbakir Ili -- (State: Diyarbakir)">
+			<state>Diyarbakir</state>
+			<latitude>380100</latitude>
+			<longitude>405100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dursunbey -- (State: Balikesir)">
+			<state>Balikesir</state>
+			<latitude>395978</latitude>
+			<longitude>286375</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Duzce">
+			<state></state>
+			<latitude>412767</latitude>
+			<longitude>327933</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Duzce Ili -- (State: Duzce)">
+			<state>Duzce</state>
+			<latitude>408433</latitude>
+			<longitude>311767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Edirne -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>368268</latitude>
+			<longitude>300268</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Edirne">
+			<state></state>
+			<latitude>416845</latitude>
+			<longitude>265709</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Edirne Vilayeti -- (State: Edirne)">
+			<state>Edirne</state>
+			<latitude>412601</latitude>
+			<longitude>266768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elazig">
+			<state></state>
+			<latitude>386854</latitude>
+			<longitude>392307</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elazig Vilayeti -- (State: Elazig)">
+			<state>Elazig</state>
+			<latitude>385101</latitude>
+			<longitude>395101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emir Daglari -- (State: Afyon)">
+			<state>Afyon</state>
+			<latitude>388434</latitude>
+			<longitude>312601</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ephesos -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>379434</latitude>
+			<longitude>273434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ercis -- (State: Van)">
+			<state>Van</state>
+			<latitude>390340</latitude>
+			<longitude>433718</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erzincan">
+			<state></state>
+			<latitude>397623</latitude>
+			<longitude>395029</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erzincan Ili -- (State: Erzincan)">
+			<state>Erzincan</state>
+			<latitude>397601</latitude>
+			<longitude>395101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erzurum">
+			<state></state>
+			<latitude>399187</latitude>
+			<longitude>412870</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erzurum Ili -- (State: Erzurum)">
+			<state>Erzurum</state>
+			<latitude>400101</latitude>
+			<longitude>415101</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eskisehir">
+			<state></state>
+			<latitude>397868</latitude>
+			<longitude>305307</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eskisehir Ovasi -- (State: Eskisehir)">
+			<state>Eskisehir</state>
+			<latitude>398434</latitude>
+			<longitude>308434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eskisehir Vilayeti -- (State: Eskisehir)">
+			<state>Eskisehir</state>
+			<latitude>396768</latitude>
+			<longitude>311768</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fethiye -- (State: Balikesir)">
+			<state>Balikesir</state>
+			<latitude>397602</latitude>
+			<longitude>279102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fethiye Limani -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>366435</latitude>
+			<longitude>291102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Finike -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>363052</latitude>
+			<longitude>301508</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gaziantep">
+			<state></state>
+			<latitude>370697</latitude>
+			<longitude>373928</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gaziantep Ili -- (State: Gaziantep)">
+			<state>Gaziantep</state>
+			<latitude>370936</latitude>
+			<longitude>373436</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gebze -- (State: Kocaeli)">
+			<state>Kocaeli</state>
+			<latitude>408081</latitude>
+			<longitude>294409</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gebze Istasyonu -- (State: Kocaeli)">
+			<state>Kocaeli</state>
+			<latitude>407936</latitude>
+			<longitude>294270</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gemerek Istasyonu -- (State: Sivas)">
+			<state>Sivas</state>
+			<latitude>392436</latitude>
+			<longitude>360936</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gerede -- (State: Bolu)">
+			<state>Bolu</state>
+			<latitude>408111</latitude>
+			<longitude>322072</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Giresun -- (State: Burdur)">
+			<state>Burdur</state>
+			<latitude>377436</latitude>
+			<longitude>304603</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hakkari">
+			<state></state>
+			<latitude>375848</latitude>
+			<longitude>437512</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hakkari Vilayeti -- (State: Hakkari)">
+			<state>Hakkari</state>
+			<latitude>375937</latitude>
+			<longitude>441771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hatay Ili -- (State: Hatay)">
+			<state>Hatay</state>
+			<latitude>365104</latitude>
+			<longitude>362604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Honaz Dagi -- (State: Denizli)">
+			<state>Denizli</state>
+			<latitude>376937</latitude>
+			<longitude>293104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ikitelli -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>410897</latitude>
+			<longitude>287930</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inegol -- (State: Bursa)">
+			<state>Bursa</state>
+			<latitude>400886</latitude>
+			<longitude>295238</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isa -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>411272</latitude>
+			<longitude>298272</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isa">
+			<state></state>
+			<latitude>377644</latitude>
+			<longitude>317877</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iskenderun -- (State: Hatay)">
+			<state>Hatay</state>
+			<latitude>365922</latitude>
+			<longitude>361755</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isparta">
+			<state></state>
+			<latitude>377749</latitude>
+			<longitude>305627</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isparta Ili -- (State: Isparta)">
+			<state>Isparta</state>
+			<latitude>380105</latitude>
+			<longitude>310105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istanbul">
+			<state></state>
+			<latitude>410291</latitude>
+			<longitude>289752</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istanbul Bogazi -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>410677</latitude>
+			<longitude>290538</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istanbul Ili -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>411772</latitude>
+			<longitude>287605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Istanbul Yarimadasi -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>412605</latitude>
+			<longitude>284272</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izmir">
+			<state></state>
+			<latitude>384177</latitude>
+			<longitude>271608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izmir Bogazi -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>380438</latitude>
+			<longitude>273105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izmir Ili -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>382605</latitude>
+			<longitude>275105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izmir Korfezi -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>385027</latitude>
+			<longitude>268263</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izmit -- (State: Kocaeli)">
+			<state>Kocaeli</state>
+			<latitude>407774</latitude>
+			<longitude>299274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izmit Korfezi -- (State: Kocaeli)">
+			<state>Kocaeli</state>
+			<latitude>407605</latitude>
+			<longitude>295938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Izmit Limani">
+			<state></state>
+			<latitude>407494</latitude>
+			<longitude>298772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iznik -- (State: Bursa)">
+			<state>Bursa</state>
+			<latitude>404391</latitude>
+			<longitude>297316</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaihun Chai">
+			<state></state>
+			<latitude>365939</latitude>
+			<longitude>355773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jambas Burnu -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>410773</latitude>
+			<longitude>281273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jayas -- (State: Ankara)">
+			<state>Ankara</state>
+			<latitude>399262</latitude>
+			<longitude>329731</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jebel Aaqra -- (State: Hatay)">
+			<state>Hatay</state>
+			<latitude>359606</latitude>
+			<longitude>359773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jehan -- (State: Adana)">
+			<state>Adana</state>
+			<latitude>370353</latitude>
+			<longitude>358281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jesiret ibn Omar -- (State: Sirnak)">
+			<state>Sirnak</state>
+			<latitude>373420</latitude>
+			<longitude>421975</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jiddeh -- (State: Kastamonu)">
+			<state>Kastamonu</state>
+			<latitude>419017</latitude>
+			<longitude>330145</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jumru Teresi -- (State: Icel)">
+			<state>Icel</state>
+			<latitude>368106</latitude>
+			<longitude>346106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Justinianopolis -- (State: Kirsehir)">
+			<state>Kirsehir</state>
+			<latitude>391564</latitude>
+			<longitude>341745</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kabul">
+			<state></state>
+			<latitude>400940</latitude>
+			<longitude>336607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kabul -- (State: Kastamonu)">
+			<state>Kastamonu</state>
+			<latitude>413440</latitude>
+			<longitude>340440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kabulbaba -- (State: Bursa)">
+			<state>Bursa</state>
+			<latitude>400274</latitude>
+			<longitude>285774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kadi Koy -- (State: Diyarbakir)">
+			<state>Diyarbakir</state>
+			<latitude>380274</latitude>
+			<longitude>402274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kadriye -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>391107</latitude>
+			<longitude>271440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kahramanmaras">
+			<state></state>
+			<latitude>375982</latitude>
+			<longitude>369424</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kahramanmaras Ili -- (State: Kahramanmaras)">
+			<state>Kahramanmaras</state>
+			<latitude>380107</latitude>
+			<longitude>370107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kahramanmaras Ovasi -- (State: Kahramanmaras)">
+			<state>Kahramanmaras</state>
+			<latitude>375607</latitude>
+			<longitude>369607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalamis Burnu -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>366729</latitude>
+			<longitude>274482</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karabuk">
+			<state></state>
+			<latitude>412607</latitude>
+			<longitude>325107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karabuk -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>365274</latitude>
+			<longitude>302774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karaman -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>381607</latitude>
+			<longitude>282440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kas -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>362113</latitude>
+			<longitude>296499</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kastamonu">
+			<state></state>
+			<latitude>413829</latitude>
+			<longitude>337818</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kastamonu Ili -- (State: Kastamonu)">
+			<state>Kastamonu</state>
+			<latitude>415107</latitude>
+			<longitude>336774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kayseri -- (State: Kirklareli)">
+			<state>Kirklareli</state>
+			<latitude>414107</latitude>
+			<longitude>269274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kayseri -- (State: Sanliurfa)">
+			<state>Sanliurfa</state>
+			<latitude>377440</latitude>
+			<longitude>392107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kayseri">
+			<state></state>
+			<latitude>387429</latitude>
+			<longitude>354960</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kayseri Burnu -- (State: Sinop)">
+			<state>Sinop</state>
+			<latitude>419774</latitude>
+			<longitude>351107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kayseri Ili -- (State: Kayseri)">
+			<state>Kayseri</state>
+			<latitude>387607</latitude>
+			<longitude>359274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kemer -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>368107</latitude>
+			<longitude>314107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilis -- (State: Diyarbakir)">
+			<state>Diyarbakir</state>
+			<latitude>381440</latitude>
+			<longitude>409607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirikkale">
+			<state></state>
+			<latitude>398560</latitude>
+			<longitude>335171</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirikkale Ili -- (State: Kirikkale)">
+			<state>Kirikkale</state>
+			<latitude>398440</latitude>
+			<longitude>337607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kirklareli">
+			<state></state>
+			<latitude>417424</latitude>
+			<longitude>272354</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kizkalesi -- (State: Isparta)">
+			<state>Isparta</state>
+			<latitude>377940</latitude>
+			<longitude>314774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kocaeli -- (State: Balikesir)">
+			<state>Balikesir</state>
+			<latitude>396274</latitude>
+			<longitude>275274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kocaeli Ili -- (State: Kocaeli)">
+			<state>Kocaeli</state>
+			<latitude>409274</latitude>
+			<longitude>299274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konya">
+			<state></state>
+			<latitude>378763</latitude>
+			<longitude>324932</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konya Ili -- (State: Konya)">
+			<state>Konya</state>
+			<latitude>381774</latitude>
+			<longitude>325107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konya Limani -- (State: Balikesir)">
+			<state>Balikesir</state>
+			<latitude>404607</latitude>
+			<longitude>277440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konyaalti -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>368940</latitude>
+			<longitude>306774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Konyalilar -- (State: Denizli)">
+			<state>Denizli</state>
+			<latitude>378121</latitude>
+			<longitude>292224</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kozakli -- (State: Hatay)">
+			<state>Hatay</state>
+			<latitude>364940</latitude>
+			<longitude>361107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krusten">
+			<state></state>
+			<latitude>413107</latitude>
+			<longitude>316440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kusadasi -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>378682</latitude>
+			<longitude>272718</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kutahya">
+			<state></state>
+			<latitude>394349</latitude>
+			<longitude>299940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luleburgaz -- (State: Kirklareli)">
+			<state>Kirklareli</state>
+			<latitude>414175</latitude>
+			<longitude>273661</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mahmudiye -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>392317</latitude>
+			<longitude>272317</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mahmudiye -- (State: Kutahya)">
+			<state>Kutahya</state>
+			<latitude>396442</latitude>
+			<longitude>298442</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malatya -- (State: Kutahya)">
+			<state>Kutahya</state>
+			<latitude>392276</latitude>
+			<longitude>303442</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malatya">
+			<state></state>
+			<latitude>383642</latitude>
+			<longitude>383228</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malatya Ili -- (State: Malatya)">
+			<state>Malatya</state>
+			<latitude>385109</latitude>
+			<longitude>380109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manavgat -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>367976</latitude>
+			<longitude>314540</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manisa">
+			<state></state>
+			<latitude>386240</latitude>
+			<longitude>274370</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manisa Ili -- (State: Manisa)">
+			<state>Manisa</state>
+			<latitude>388442</latitude>
+			<longitude>281776</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maras -- (State: Sanliurfa)">
+			<state>Sanliurfa</state>
+			<latitude>368381</latitude>
+			<longitude>389137</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mardin -- (State: Kayseri)">
+			<state>Kayseri</state>
+			<latitude>385442</latitude>
+			<longitude>357442</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mardin Ili -- (State: Mardin)">
+			<state>Mardin</state>
+			<latitude>374276</latitude>
+			<longitude>408442</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marmaris -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>368659</latitude>
+			<longitude>282851</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mecidiyekoy -- (State: Manisa)">
+			<state>Manisa</state>
+			<latitude>388942</latitude>
+			<longitude>277109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersin -- (State: Trabzon)">
+			<state>Trabzon</state>
+			<latitude>411109</latitude>
+			<longitude>394942</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersin -- (State: Icel)">
+			<state>Icel</state>
+			<latitude>367609</latitude>
+			<longitude>340109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersin -- (State: Ordu)">
+			<state>Ordu</state>
+			<latitude>411276</latitude>
+			<longitude>377942</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersin Burnu -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>365776</latitude>
+			<longitude>279776</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersin Korfezi -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>382201</latitude>
+			<longitude>264470</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersin Limani">
+			<state></state>
+			<latitude>368109</latitude>
+			<longitude>346609</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersincik Adasi -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>367803</latitude>
+			<longitude>274806</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersincik Burnu -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>368442</latitude>
+			<longitude>280109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersinli Deresi -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>366276</latitude>
+			<longitude>291276</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mersinobaturkmenleri -- (State: Canakkale)">
+			<state>Canakkale</state>
+			<latitude>399609</latitude>
+			<longitude>263942</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mugla">
+			<state></state>
+			<latitude>372273</latitude>
+			<longitude>283748</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mugla Ili -- (State: Mugla)">
+			<state>Mugla</state>
+			<latitude>371776</latitude>
+			<longitude>285109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Narledere -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>383943</latitude>
+			<longitude>270110</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nevsehir">
+			<state></state>
+			<latitude>386360</latitude>
+			<longitude>347232</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nigde">
+			<state></state>
+			<latitude>379802</latitude>
+			<longitude>346935</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nigde Ili -- (State: Nigde)">
+			<state>Nigde</state>
+			<latitude>378443</latitude>
+			<longitude>347610</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nurdagi -- (State: Gaziantep)">
+			<state>Gaziantep</state>
+			<latitude>371943</latitude>
+			<longitude>367277</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nusaybin -- (State: Sanliurfa)">
+			<state>Sanliurfa</state>
+			<latitude>377443</latitude>
+			<longitude>389777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ordu">
+			<state></state>
+			<latitude>409958</latitude>
+			<longitude>378900</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ordu -- (State: Samsun)">
+			<state>Samsun</state>
+			<latitude>411111</latitude>
+			<longitude>367278</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ordu Ili -- (State: Ordu)">
+			<state>Ordu</state>
+			<latitude>408444</latitude>
+			<longitude>375111</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osmancik">
+			<state></state>
+			<latitude>382017</latitude>
+			<longitude>321586</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osmaniye Ili -- (State: Osmaniye)">
+			<state>Osmaniye</state>
+			<latitude>372611</latitude>
+			<longitude>362611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pamukkale -- (State: Denizli)">
+			<state>Denizli</state>
+			<latitude>379270</latitude>
+			<longitude>291240</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pendik -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>408887</latitude>
+			<longitude>292626</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qara Sou">
+			<state></state>
+			<latitude>362613</latitude>
+			<longitude>362113</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qars">
+			<state></state>
+			<latitude>406194</latitude>
+			<longitude>431088</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qasab Bay">
+			<state></state>
+			<latitude>359613</latitude>
+			<longitude>359280</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qoussair">
+			<state></state>
+			<latitude>359446</latitude>
+			<longitude>362780</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qul Tepeh -- (State: Sanliurfa)">
+			<state>Sanliurfa</state>
+			<latitude>367249</latitude>
+			<longitude>387399</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rize">
+			<state></state>
+			<latitude>410322</latitude>
+			<longitude>405333</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rize Ili -- (State: Rize)">
+			<state>Rize</state>
+			<latitude>410114</latitude>
+			<longitude>410114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rumelifeneri -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>412447</latitude>
+			<longitude>291114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rumelihisari -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>411108</latitude>
+			<longitude>290856</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Safranbolu">
+			<state></state>
+			<latitude>412623</latitude>
+			<longitude>327057</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sakarya -- (State: Artvin)">
+			<state>Artvin</state>
+			<latitude>411115</latitude>
+			<longitude>420115</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sakarya -- (State: Ankara)">
+			<state>Ankara</state>
+			<latitude>395148</latitude>
+			<longitude>320873</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sakarya Ili -- (State: Sakarya)">
+			<state>Sakarya</state>
+			<latitude>407615</latitude>
+			<longitude>305948</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Samsun">
+			<state></state>
+			<latitude>412982</latitude>
+			<longitude>363415</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Samsun -- (State: Trabzon)">
+			<state>Trabzon</state>
+			<latitude>410615</latitude>
+			<longitude>394615</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Samsun Vilayeti -- (State: Samsun)">
+			<state>Samsun</state>
+			<latitude>412615</latitude>
+			<longitude>363448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sanliurfa">
+			<state></state>
+			<latitude>371626</latitude>
+			<longitude>388043</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seferihisar -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>382104</latitude>
+			<longitude>268523</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Serik -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>369284</latitude>
+			<longitude>311104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Side -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>367773</latitude>
+			<longitude>313957</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Silifke -- (State: Icel)">
+			<state>Icel</state>
+			<latitude>363893</latitude>
+			<longitude>339459</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Silivri -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>410879</latitude>
+			<longitude>282698</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Silivri Dagi -- (State: Malatya)">
+			<state>Malatya</state>
+			<latitude>383782</latitude>
+			<longitude>385448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sirnak Ili -- (State: Sirnak)">
+			<state>Sirnak</state>
+			<latitude>375115</latitude>
+			<longitude>425115</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sivas">
+			<state></state>
+			<latitude>397598</latitude>
+			<longitude>370276</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sivas Ili -- (State: Sivas)">
+			<state>Sivas</state>
+			<latitude>395115</latitude>
+			<longitude>374282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sogut -- (State: Bursa)">
+			<state>Bursa</state>
+			<latitude>398282</latitude>
+			<longitude>290448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sorgun -- (State: Yozgat)">
+			<state>Yozgat</state>
+			<latitude>398259</latitude>
+			<longitude>352018</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sorgun -- (State: Burdur)">
+			<state>Burdur</state>
+			<latitude>377282</latitude>
+			<longitude>304448</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Suhut -- (State: Afyon)">
+			<state>Afyon</state>
+			<latitude>385426</latitude>
+			<longitude>305573</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tatvan -- (State: Bitlis)">
+			<state>Bitlis</state>
+			<latitude>385183</latitude>
+			<longitude>422933</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tekirdag">
+			<state></state>
+			<latitude>409922</latitude>
+			<longitude>275266</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tekirdag Ili -- (State: Tekirdag)">
+			<state>Tekirdag</state>
+			<latitude>410116</latitude>
+			<longitude>275116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tokat">
+			<state></state>
+			<latitude>403255</latitude>
+			<longitude>365660</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tokat Ili -- (State: Tokat)">
+			<state>Tokat</state>
+			<latitude>404283</latitude>
+			<longitude>365949</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trabzon">
+			<state></state>
+			<latitude>410166</latitude>
+			<longitude>397385</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tunceli">
+			<state></state>
+			<latitude>391205</latitude>
+			<longitude>395577</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umraniye -- (State: Isparta)">
+			<state>Isparta</state>
+			<latitude>379117</latitude>
+			<longitude>301950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urfa Ili -- (State: Sanliurfa)">
+			<state>Sanliurfa</state>
+			<latitude>372617</latitude>
+			<longitude>390117</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Usak">
+			<state></state>
+			<latitude>386917</latitude>
+			<longitude>294198</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uskudar -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>410367</latitude>
+			<longitude>290445</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzungol -- (State: Trabzon)">
+			<state>Trabzon</state>
+			<latitude>406342</latitude>
+			<longitude>402989</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Van">
+			<state></state>
+			<latitude>385060</latitude>
+			<longitude>433918</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Van Ili -- (State: Van)">
+			<state>Van</state>
+			<latitude>385118</latitude>
+			<longitude>435118</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wan">
+			<state></state>
+			<latitude>386530</latitude>
+			<longitude>428244</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wanikoy -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>410786</latitude>
+			<longitude>290786</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Cape -- (State: Canakkale)">
+			<state>Canakkale</state>
+			<latitude>403786</latitude>
+			<longitude>263286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Western Arpa-Chay">
+			<state></state>
+			<latitude>401119</latitude>
+			<longitude>436619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="White Cape -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>365952</latitude>
+			<longitude>306119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiranschehir">
+			<state></state>
+			<latitude>409786</latitude>
+			<longitude>325619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiranschehir -- (State: Sanliurfa)">
+			<state>Sanliurfa</state>
+			<latitude>372472</latitude>
+			<longitude>397750</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xanthus -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>363470</latitude>
+			<longitude>293323</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xenagorae Island -- (State: Antalya)">
+			<state>Antalya</state>
+			<latitude>362264</latitude>
+			<longitude>293662</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerata Kargan Adasi Reef -- (State: Bilecik)">
+			<state>Bilecik</state>
+			<latitude>378620</latitude>
+			<longitude>272620</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xero Punda -- (State: Izmir)">
+			<state>Izmir</state>
+			<latitude>387620</latitude>
+			<longitude>268453</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xeros Islands -- (State: Canakkale)">
+			<state>Canakkale</state>
+			<latitude>406287</latitude>
+			<longitude>267620</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yalova -- (State: Canakkale)">
+			<state>Canakkale</state>
+			<latitude>402788</latitude>
+			<longitude>264121</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yalova">
+			<state></state>
+			<latitude>406657</latitude>
+			<longitude>292968</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yozgat -- (State: Afyon)">
+			<state>Afyon</state>
+			<latitude>390954</latitude>
+			<longitude>310954</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeytinburnu -- (State: Istanbul)">
+			<state>Istanbul</state>
+			<latitude>409955</latitude>
+			<longitude>289122</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zonguldak">
+			<state></state>
+			<latitude>414678</latitude>
+			<longitude>318019</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zonguldak Ili -- (State: Zonguldak)">
+			<state>Zonguldak</state>
+			<latitude>412622</latitude>
+			<longitude>318455</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

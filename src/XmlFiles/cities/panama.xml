@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Panama">
+		<city name="2 Brazo del Rio Cochea -- (State: Chiriqui)">
+			<state>Chiriqui</state>
+			<latitude>87383</latitude>
+			<longitude>-824950</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3 Brazo del Rio Cochea -- (State: Chiriqui)">
+			<state>Chiriqui</state>
+			<latitude>86884</latitude>
+			<longitude>-824616</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changuinola -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>94432</latitude>
+			<longitude>-825068</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changuinola 2 -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>94766</latitude>
+			<longitude>-825068</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changuinola Tres -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>94432</latitude>
+			<longitude>-824901</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changuinola Uno -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>94432</latitude>
+			<longitude>-825568</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colon -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>85099</latitude>
+			<longitude>-799568</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colon">
+			<state></state>
+			<latitude>93691</latitude>
+			<longitude>-798915</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colon -- (State: Veraguas)">
+			<state>Veraguas</state>
+			<latitude>81266</latitude>
+			<longitude>-809401</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colon -- (State: Los Santos)">
+			<state>Los Santos</state>
+			<latitude>78932</latitude>
+			<longitude>-804901</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colon Corregimiento Barrio -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>89099</latitude>
+			<longitude>-797401</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colon Free Zone -- (State: Colon)">
+			<state>Colon</state>
+			<latitude>93599</latitude>
+			<longitude>-798901</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colon Naval Radio Station -- (State: Colon)">
+			<state>Colon</state>
+			<latitude>93099</latitude>
+			<longitude>-798901</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Coloncito -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>85766</latitude>
+			<longitude>-798901</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colonia Constancia -- (State: Cocle)">
+			<state>Cocle</state>
+			<latitude>83432</latitude>
+			<longitude>-801901</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colonia Penal de Coiba -- (State: Veraguas)">
+			<state>Veraguas</state>
+			<latitude>75099</latitude>
+			<longitude>-816901</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="David -- (State: Chiriqui)">
+			<state>Chiriqui</state>
+			<latitude>84433</latitude>
+			<longitude>-824233</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Dorado -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>90268</latitude>
+			<longitude>-795399</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaikada -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>88940</latitude>
+			<longitude>-777060</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kainundi Murru -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>87607</latitude>
+			<longitude>-775226</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaki Yala -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>87774</latitude>
+			<longitude>-775393</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kintumkwa Tiwar -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>87607</latitude>
+			<longitude>-776226</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kipin Murru -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>88274</latitude>
+			<longitude>-776226</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knapps Hole -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>94121</latitude>
+			<longitude>-823071</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuba -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>89274</latitude>
+			<longitude>-777060</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwadi Sukun -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>89940</latitude>
+			<longitude>-777560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwipkan Sukun Murru -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>87774</latitude>
+			<longitude>-775226</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwiti Tiwar -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>91774</latitude>
+			<longitude>-779560</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oajeta Bay -- (State: Colon)">
+			<state>Colon</state>
+			<latitude>92014</latitude>
+			<longitude>-798158</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obispo Chico -- (State: Chiriqui)">
+			<state>Chiriqui</state>
+			<latitude>81111</latitude>
+			<longitude>-823056</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obispo Diversion -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>91278</latitude>
+			<longitude>-796722</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obre Abajo -- (State: Cocle)">
+			<state>Cocle</state>
+			<latitude>88111</latitude>
+			<longitude>-802722</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obre Arriba -- (State: Cocle)">
+			<state>Cocle</state>
+			<latitude>87944</latitude>
+			<longitude>-802389</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocho Pasos -- (State: Los Santos)">
+			<state>Los Santos</state>
+			<latitude>74111</latitude>
+			<longitude>-804389</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocu -- (State: Herrera)">
+			<state>Herrera</state>
+			<latitude>76944</latitude>
+			<longitude>-801389</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Odoarigote -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>88778</latitude>
+			<longitude>-819222</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Odovate -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>88611</latitude>
+			<longitude>-818722</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ogobsibortupo -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>95611</latitude>
+			<longitude>-788889</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojeda Agua -- (State: Herrera)">
+			<state>Herrera</state>
+			<latitude>79944</latitude>
+			<longitude>-806056</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okopsuey -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>89444</latitude>
+			<longitude>-777056</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ola -- (State: Cocle)">
+			<state>Cocle</state>
+			<latitude>84278</latitude>
+			<longitude>-806389</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olaca -- (State: Veraguas)">
+			<state>Veraguas</state>
+			<latitude>81611</latitude>
+			<longitude>-813222</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olive Estates -- (State: Cocle)">
+			<state>Cocle</state>
+			<latitude>83944</latitude>
+			<longitude>-800889</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ollas Arriba -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>88278</latitude>
+			<longitude>-799056</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oria -- (State: Los Santos)">
+			<state>Los Santos</state>
+			<latitude>74944</latitude>
+			<longitude>-801722</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orrete -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>92444</latitude>
+			<longitude>-824389</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortigal -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>89611</latitude>
+			<longitude>-804556</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortupu -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>89278</latitude>
+			<longitude>-776556</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ovejo Island -- (State: Colon)">
+			<state>Colon</state>
+			<latitude>90944</latitude>
+			<longitude>-799722</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Panama City -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>89779</latitude>
+			<longitude>-795221</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santiago -- (State: Chiriqui)">
+			<state>Chiriqui</state>
+			<latitude>81282</latitude>
+			<longitude>-809552</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santiago -- (State: Veraguas)">
+			<state>Veraguas</state>
+			<latitude>81115</latitude>
+			<longitude>-809718</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warsobtugua -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>94786</latitude>
+			<longitude>-789381</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wichubuala -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>95683</latitude>
+			<longitude>-789456</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wild Cane Cay -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>93619</latitude>
+			<longitude>-821548</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wizards Beach -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>93619</latitude>
+			<longitude>-821881</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yantupo -- (State: San Blas)">
+			<state>San Blas</state>
+			<latitude>94621</latitude>
+			<longitude>-785546</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yavisa -- (State: Darien)">
+			<state>Darien</state>
+			<latitude>81954</latitude>
+			<longitude>-776712</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yayas Afuera -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>89332</latitude>
+			<longitude>-798262</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeguada de Quije -- (State: Cocle)">
+			<state>Cocle</state>
+			<latitude>83788</latitude>
+			<longitude>-806879</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuca Island -- (State: Colon)">
+			<state>Colon</state>
+			<latitude>90454</latitude>
+			<longitude>-800379</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yurquin">
+			<state></state>
+			<latitude>95454</latitude>
+			<longitude>-828712</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yurre -- (State: Chiriqui)">
+			<state>Chiriqui</state>
+			<latitude>81288</latitude>
+			<longitude>-816879</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zahinillo -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>84789</latitude>
+			<longitude>-800711</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamba Bonita Island -- (State: Colon)">
+			<state>Colon</state>
+			<latitude>93958</latitude>
+			<longitude>-798259</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zambrano -- (State: Chiriqui)">
+			<state>Chiriqui</state>
+			<latitude>84622</latitude>
+			<longitude>-823211</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zancona -- (State: Cocle)">
+			<state>Cocle</state>
+			<latitude>86122</latitude>
+			<longitude>-807378</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanja Espave -- (State: Panama)">
+			<state>Panama</state>
+			<latitude>91464</latitude>
+			<longitude>-785061</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapadilla Cay -- (State: Bocas del Toro)">
+			<state>Bocas del Toro</state>
+			<latitude>90955</latitude>
+			<longitude>-818045</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zape Chiquito -- (State: Los Santos)">
+			<state>Los Santos</state>
+			<latitude>77789</latitude>
+			<longitude>-804045</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapotal de Espala -- (State: Veraguas)">
+			<state>Veraguas</state>
+			<latitude>79789</latitude>
+			<longitude>-815711</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapotillo -- (State: Veraguas)">
+			<state>Veraguas</state>
+			<latitude>80122</latitude>
+			<longitude>-815045</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorra Island -- (State: Colon)">
+			<state>Colon</state>
+			<latitude>93053</latitude>
+			<longitude>-798342</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zumbador -- (State: Cocle)">
+			<state>Cocle</state>
+			<latitude>86289</latitude>
+			<longitude>-803711</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zurrones -- (State: Veraguas)">
+			<state>Veraguas</state>
+			<latitude>78219</latitude>
+			<longitude>-810617</longitude>
+			<timezone>-500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

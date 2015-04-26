@@ -1,0 +1,677 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Greece">
+		<city name="Agrinio -- (State: Aitolia kai Akarnania)">
+			<state>Aitolia kai Akarnania</state>
+			<latitude>386311</latitude>
+			<longitude>214175</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alexandhroupolis -- (State: Evros)">
+			<state>Evros</state>
+			<latitude>408572</latitude>
+			<longitude>258841</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Argos -- (State: Argolis)">
+			<state>Argolis</state>
+			<latitude>376430</latitude>
+			<longitude>227430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Athens -- (State: Attiki)">
+			<state>Attiki</state>
+			<latitude>379930</latitude>
+			<longitude>237430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cephallenia -- (State: Kefallinia)">
+			<state>Kefallinia</state>
+			<latitude>382599</latitude>
+			<longitude>205932</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chania -- (State: Chanion)">
+			<state>Chanion</state>
+			<latitude>355221</latitude>
+			<longitude>240255</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chania -- (State: Trikala)">
+			<state>Trikala</state>
+			<latitude>394538</latitude>
+			<longitude>215649</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chios">
+			<state></state>
+			<latitude>383777</latitude>
+			<longitude>261457</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corfu -- (State: Kerkyra)">
+			<state>Kerkyra</state>
+			<latitude>396766</latitude>
+			<longitude>197599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Creta">
+			<state></state>
+			<latitude>352599</latitude>
+			<longitude>247599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crete">
+			<state></state>
+			<latitude>351766</latitude>
+			<longitude>250099</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Didymotichon -- (State: Evros)">
+			<state>Evros</state>
+			<latitude>413581</latitude>
+			<longitude>265061</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drama">
+			<state></state>
+			<latitude>411644</latitude>
+			<longitude>241494</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elefsina -- (State: Attiki)">
+			<state>Attiki</state>
+			<latitude>380434</latitude>
+			<longitude>235434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ioannina">
+			<state></state>
+			<latitude>396780</latitude>
+			<longitude>208613</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iraklion -- (State: Irakleion)">
+			<state>Irakleion</state>
+			<latitude>351772</latitude>
+			<longitude>251772</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iraklion -- (State: Serrai)">
+			<state>Serrai</state>
+			<latitude>412272</latitude>
+			<longitude>229105</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iraklion">
+			<state></state>
+			<latitude>407772</latitude>
+			<longitude>230438</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iraklion Harbor -- (State: Attiki)">
+			<state>Attiki</state>
+			<latitude>379688</latitude>
+			<longitude>236188</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iraklion Harbour">
+			<state></state>
+			<latitude>353572</latitude>
+			<longitude>251605</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jafer">
+			<state></state>
+			<latitude>412106</latitude>
+			<longitude>250273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jamali Rema -- (State: Pieria)">
+			<state>Pieria</state>
+			<latitude>403681</latitude>
+			<longitude>224503</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jamion">
+			<state></state>
+			<latitude>397439</latitude>
+			<longitude>225439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Janitsochori">
+			<state></state>
+			<latitude>374106</latitude>
+			<longitude>216939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Janyina -- (State: Ioannina)">
+			<state>Ioannina</state>
+			<latitude>397606</latitude>
+			<longitude>206773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jari">
+			<state></state>
+			<latitude>409939</latitude>
+			<longitude>244773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jijiler">
+			<state></state>
+			<latitude>402939</latitude>
+			<longitude>218773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Johnston Bank">
+			<state></state>
+			<latitude>393106</latitude>
+			<longitude>253939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juma">
+			<state></state>
+			<latitude>404606</latitude>
+			<longitude>218439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juma Mahala">
+			<state></state>
+			<latitude>409773</latitude>
+			<longitude>233606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jumaya">
+			<state></state>
+			<latitude>411773</latitude>
+			<longitude>232773</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jura -- (State: Kyklades)">
+			<state>Kyklades</state>
+			<latitude>376273</latitude>
+			<longitude>247273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jura">
+			<state></state>
+			<latitude>413773</latitude>
+			<longitude>245606</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jurt">
+			<state></state>
+			<latitude>414273</latitude>
+			<longitude>246273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalamata -- (State: Messinia)">
+			<state>Messinia</state>
+			<latitude>370496</latitude>
+			<longitude>221249</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalo Nero">
+			<state></state>
+			<latitude>394607</latitude>
+			<longitude>225440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karabairam">
+			<state></state>
+			<latitude>393440</latitude>
+			<longitude>225940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karlovassi Harbor -- (State: Samos)">
+			<state>Samos</state>
+			<latitude>378057</latitude>
+			<longitude>266907</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kavala">
+			<state></state>
+			<latitude>409504</latitude>
+			<longitude>244126</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kavalariana">
+			<state></state>
+			<latitude>353440</latitude>
+			<longitude>237607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kavalaris -- (State: Kilkis)">
+			<state>Kilkis</state>
+			<latitude>412885</latitude>
+			<longitude>227968</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilkis">
+			<state></state>
+			<latitude>410107</latitude>
+			<longitude>226774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Komotini -- (State: Rodopi)">
+			<state>Rodopi</state>
+			<latitude>411335</latitude>
+			<longitude>254071</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kos -- (State: Dodekanisos)">
+			<state>Dodekanisos</state>
+			<latitude>369040</latitude>
+			<longitude>272996</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koufonisia -- (State: Kyklades)">
+			<state>Kyklades</state>
+			<latitude>369318</latitude>
+			<longitude>256035</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kozani">
+			<state></state>
+			<latitude>403118</latitude>
+			<longitude>217971</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Larissa -- (State: Larisa)">
+			<state>Larisa</state>
+			<latitude>395108</latitude>
+			<longitude>225108</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lemnos -- (State: Lesvos)">
+			<state>Lesvos</state>
+			<latitude>399275</latitude>
+			<longitude>252608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mavrovouni">
+			<state></state>
+			<latitude>394609</latitude>
+			<longitude>225942</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Megara -- (State: Attiki)">
+			<state>Attiki</state>
+			<latitude>380109</latitude>
+			<longitude>233565</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mirina -- (State: Lesvos)">
+			<state>Lesvos</state>
+			<latitude>398906</latitude>
+			<longitude>250851</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mykonos -- (State: Kyklades)">
+			<state>Kyklades</state>
+			<latitude>374609</latitude>
+			<longitude>253442</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Patras -- (State: Achaia)">
+			<state>Achaia</state>
+			<latitude>382556</latitude>
+			<longitude>217456</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Piraeus -- (State: Attiki)">
+			<state>Attiki</state>
+			<latitude>379726</latitude>
+			<longitude>236501</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Piramis Kitsevou">
+			<state></state>
+			<latitude>408779</latitude>
+			<longitude>212612</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quaroni Rock">
+			<state></state>
+			<latitude>371280</latitude>
+			<longitude>268613</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rethymnon -- (State: Rethymnis)">
+			<state>Rethymnis</state>
+			<latitude>353761</latitude>
+			<longitude>244828</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Revmatia">
+			<state></state>
+			<latitude>393447</latitude>
+			<longitude>224447</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rhodes -- (State: Dodekanisos)">
+			<state>Dodekanisos</state>
+			<latitude>361781</latitude>
+			<longitude>280114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santorini -- (State: Kyklades)">
+			<state>Kyklades</state>
+			<latitude>364071</latitude>
+			<longitude>254707</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skotoussa">
+			<state></state>
+			<latitude>393948</latitude>
+			<longitude>225115</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souda -- (State: Chanion)">
+			<state>Chanion</state>
+			<latitude>354959</latitude>
+			<longitude>240859</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thessaloniki">
+			<state></state>
+			<latitude>406519</latitude>
+			<longitude>229555</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thessaloniki Bay -- (State: Thessaloniki)">
+			<state>Thessaloniki</state>
+			<latitude>406283</latitude>
+			<longitude>229283</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Timios Stavros">
+			<state></state>
+			<latitude>354283</latitude>
+			<longitude>236949</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ubaya">
+			<state></state>
+			<latitude>412617</latitude>
+			<longitude>232950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uchana">
+			<state></state>
+			<latitude>406117</latitude>
+			<longitude>217950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uglis Potamos">
+			<state></state>
+			<latitude>412117</latitude>
+			<longitude>236617</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umeni Reka">
+			<state></state>
+			<latitude>406450</latitude>
+			<longitude>215784</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unia Nisia -- (State: Dodekanisos)">
+			<state>Dodekanisos</state>
+			<latitude>358350</latitude>
+			<longitude>264698</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urio">
+			<state></state>
+			<latitude>375450</latitude>
+			<longitude>251950</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urisoules">
+			<state></state>
+			<latitude>373784</latitude>
+			<longitude>221617</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ususlu -- (State: Kilkis)">
+			<state>Kilkis</state>
+			<latitude>411139</latitude>
+			<longitude>228534</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utch-Kaia">
+			<state></state>
+			<latitude>413450</latitude>
+			<longitude>251450</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzun Uluk Potamos">
+			<state></state>
+			<latitude>411284</latitude>
+			<longitude>255784</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uzun-Koi">
+			<state></state>
+			<latitude>410617</latitude>
+			<longitude>246117</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Volos -- (State: Magnisia)">
+			<state>Magnisia</state>
+			<latitude>393785</latitude>
+			<longitude>229576</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weskukeika">
+			<state></state>
+			<latitude>381119</latitude>
+			<longitude>215452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Western Thrace">
+			<state></state>
+			<latitude>410119</latitude>
+			<longitude>255119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windmill Point">
+			<state></state>
+			<latitude>396119</latitude>
+			<longitude>199452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wistonas -- (State: Kerkyra)">
+			<state>Kerkyra</state>
+			<latitude>397052</latitude>
+			<longitude>197069</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Witeika">
+			<state></state>
+			<latitude>381452</latitude>
+			<longitude>219286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wreck Rock">
+			<state></state>
+			<latitude>384619</latitude>
+			<longitude>210619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xanthi">
+			<state></state>
+			<latitude>411534</latitude>
+			<longitude>248956</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yperia -- (State: Kyklades)">
+			<state>Kyklades</state>
+			<latitude>368518</latitude>
+			<longitude>259093</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypsilas -- (State: Kerkyra)">
+			<state>Kerkyra</state>
+			<latitude>397910</latitude>
+			<longitude>198854</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypso Bay -- (State: Kerkyra)">
+			<state>Kerkyra</state>
+			<latitude>397121</latitude>
+			<longitude>198621</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypsoma -- (State: Chios)">
+			<state>Chios</state>
+			<latitude>382452</latitude>
+			<longitude>259871</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypsos -- (State: Kerkyra)">
+			<state>Kerkyra</state>
+			<latitude>397068</latitude>
+			<longitude>198488</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoodhokhos Piyi">
+			<state></state>
+			<latitude>393789</latitude>
+			<longitude>224122</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zyfias -- (State: Chios)">
+			<state>Chios</state>
+			<latitude>383400</latitude>
+			<longitude>260916</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zygogiannaiika -- (State: Karditsa)">
+			<state>Karditsa</state>
+			<latitude>392553</latitude>
+			<longitude>217350</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zygos -- (State: Arta)">
+			<state>Arta</state>
+			<latitude>392197</latitude>
+			<longitude>210980</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zygos">
+			<state></state>
+			<latitude>384622</latitude>
+			<longitude>214622</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zygos -- (State: Kerkyra)">
+			<state>Kerkyra</state>
+			<latitude>397378</latitude>
+			<longitude>198111</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zygourolivado -- (State: Karditsa)">
+			<state>Karditsa</state>
+			<latitude>393341</latitude>
+			<longitude>216419</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

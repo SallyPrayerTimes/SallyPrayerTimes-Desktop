@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="South Georgia The South Sandwitch Islands">
+		<city name="South Georgia Island">
+			<state></state>
+			<latitude>-542385</latitude>
+			<longitude>-367385</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

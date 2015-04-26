@@ -1,0 +1,831 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Libya">
+		<city name="Abu `Isa -- (State: Az Zawiyah)">
+			<state>Az Zawiyah</state>
+			<latitude>327625</latitude>
+			<longitude>126400</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agedabia -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>307689</latitude>
+			<longitude>202328</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agelat -- (State: An Nuqat al Khams)">
+			<state>An Nuqat al Khams</state>
+			<latitude>327666</latitude>
+			<longitude>123858</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ajdabiya">
+			<state></state>
+			<latitude>307750</latitude>
+			<longitude>202053</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Asabi`ah -- (State: Gharyan)">
+			<state>Gharyan</state>
+			<latitude>320430</latitude>
+			<longitude>128764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Bayda -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>283597</latitude>
+			<longitude>189764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Bayda -- (State: (LY04))">
+			<state>(LY04)</state>
+			<latitude>327761</latitude>
+			<longitude>217514</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Burayqah -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>304264</latitude>
+			<longitude>195883</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Harsha -- (State: Az Zawiyah)">
+			<state>Az Zawiyah</state>
+			<latitude>327764</latitude>
+			<longitude>126764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Jaghbub -- (State: Tubruq)">
+			<state>Tubruq</state>
+			<latitude>297597</latitude>
+			<longitude>245264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Khums">
+			<state></state>
+			<latitude>326355</latitude>
+			<longitude>142541</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Al Marj -- (State: (LY09))">
+			<state>(LY09)</state>
+			<latitude>325097</latitude>
+			<longitude>208430</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amal Oil Field -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>294264</latitude>
+			<longitude>211764</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Augila -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>291178</latitude>
+			<longitude>212966</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Awjilah -- (State: (LY25))">
+			<state>(LY25)</state>
+			<latitude>291430</latitude>
+			<longitude>214597</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Az Zantan -- (State: Yafran)">
+			<state>Yafran</state>
+			<latitude>319764</latitude>
+			<longitude>122264</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bani Walid -- (State: (LY18))">
+			<state>(LY18)</state>
+			<latitude>317765</latitude>
+			<longitude>139931</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ben Gauad -- (State: (LY19))">
+			<state>(LY19)</state>
+			<latitude>308098</latitude>
+			<longitude>180765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benghazi -- (State: Banghazi)">
+			<state>Banghazi</state>
+			<latitude>321265</latitude>
+			<longitude>200765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bin Jawwad -- (State: (LY19))">
+			<state>(LY19)</state>
+			<latitude>307931</latitude>
+			<longitude>180765</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bordi Sleman -- (State: Tubruq)">
+			<state>Tubruq</state>
+			<latitude>317765</latitude>
+			<longitude>251098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brach -- (State: Ash Shati)">
+			<state>Ash Shati</state>
+			<latitude>275431</latitude>
+			<longitude>142931</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Derna -- (State: Darnah)">
+			<state>Darnah</state>
+			<latitude>327750</latitude>
+			<longitude>226492</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dirj -- (State: Ghadamis)">
+			<state>Ghadamis</state>
+			<latitude>301775</latitude>
+			<longitude>104667</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garagara -- (State: Sabha)">
+			<state>Sabha</state>
+			<latitude>265603</latitude>
+			<longitude>132270</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garian -- (State: Gharyan)">
+			<state>Gharyan</state>
+			<latitude>320103</latitude>
+			<longitude>130103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gasr Kiar -- (State: Al Khums)">
+			<state>Al Khums</state>
+			<latitude>327070</latitude>
+			<longitude>138564</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghadames -- (State: Ghadamis)">
+			<state>Ghadamis</state>
+			<latitude>301436</latitude>
+			<longitude>95103</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghat -- (State: (LY23))">
+			<state>(LY23)</state>
+			<latitude>249603</latitude>
+			<longitude>101936</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gialo -- (State: (LY25))">
+			<state>(LY25)</state>
+			<latitude>290436</latitude>
+			<longitude>215436</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hon -- (State: Al Jufrah)">
+			<state>Al Jufrah</state>
+			<latitude>291271</latitude>
+			<longitude>159437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hun al Qadimah -- (State: Al Jufrah)">
+			<state>Al Jufrah</state>
+			<latitude>291437</latitude>
+			<longitude>159437</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Intisar -- (State: (LY25))">
+			<state>(LY25)</state>
+			<latitude>288438</latitude>
+			<longitude>208438</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jakharrah -- (State: (LY25))">
+			<state>(LY25)</state>
+			<latitude>292273</latitude>
+			<longitude>215773</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kabaw -- (State: Ghadamis)">
+			<state>Ghadamis</state>
+			<latitude>318551</latitude>
+			<longitude>113504</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamun -- (State: Gharyan)">
+			<state>Gharyan</state>
+			<latitude>321482</latitude>
+			<longitude>130446</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khoms -- (State: Al Khums)">
+			<state>Al Khums</state>
+			<latitude>326607</latitude>
+			<longitude>142774</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kufra -- (State: Al Kufrah)">
+			<state>Al Kufrah</state>
+			<latitude>241774</latitude>
+			<longitude>232607</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mabruk -- (State: (LY19))">
+			<state>(LY19)</state>
+			<latitude>300109</latitude>
+			<longitude>172609</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marada -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>292442</latitude>
+			<longitude>192276</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Masallatah -- (State: (LY27))">
+			<state>(LY27)</state>
+			<latitude>326276</latitude>
+			<longitude>140109</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mazghurah -- (State: Yafran)">
+			<state>Yafran</state>
+			<latitude>319792</latitude>
+			<longitude>119826</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mersa Brega -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>304106</latitude>
+			<longitude>196270</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Millitah -- (State: An Nuqat al Khams)">
+			<state>An Nuqat al Khams</state>
+			<latitude>328606</latitude>
+			<longitude>122495</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Misurata -- (State: Misratah)">
+			<state>Misratah</state>
+			<latitude>323892</latitude>
+			<longitude>151015</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Murzuq">
+			<state></state>
+			<latitude>259153</latitude>
+			<longitude>139081</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nalut -- (State: Ghadamis)">
+			<state>Ghadamis</state>
+			<latitude>318793</latitude>
+			<longitude>109938</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nasmah -- (State: (LY29))">
+			<state>(LY29)</state>
+			<latitude>313943</latitude>
+			<longitude>132943</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Om El Araneb -- (State: Murzuq)">
+			<state>Murzuq</state>
+			<latitude>261444</latitude>
+			<longitude>147611</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ora -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>283444</latitude>
+			<longitude>195111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouadi Etba -- (State: Awbari)">
+			<state>Awbari</state>
+			<latitude>260111</latitude>
+			<longitude>135111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouchebari -- (State: (LY24))">
+			<state>(LY24)</state>
+			<latitude>319778</latitude>
+			<longitude>120278</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oued Iraouene">
+			<state></state>
+			<latitude>264778</latitude>
+			<longitude>120111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oued Marksene">
+			<state></state>
+			<latitude>301611</latitude>
+			<longitude>93111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oued Massine">
+			<state></state>
+			<latitude>311564</latitude>
+			<longitude>102042</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oued Talechout -- (State: Murzuq)">
+			<state>Murzuq</state>
+			<latitude>249444</latitude>
+			<longitude>118944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oued Tekouit -- (State: Murzuq)">
+			<state>Murzuq</state>
+			<latitude>251278</latitude>
+			<longitude>118111</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oum el Far -- (State: (LY31))">
+			<state>(LY31)</state>
+			<latitude>320611</latitude>
+			<longitude>108944</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pabta -- (State: Gharyan)">
+			<state>Gharyan</state>
+			<latitude>321687</latitude>
+			<longitude>128534</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palaebisca -- (State: (LY11))">
+			<state>(LY11)</state>
+			<latitude>326445</latitude>
+			<longitude>223279</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Passo Abahoha -- (State: (LY23))">
+			<state>(LY23)</state>
+			<latitude>249779</latitude>
+			<longitude>113112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Passo di Agalad -- (State: Awbari)">
+			<state>Awbari</state>
+			<latitude>256945</latitude>
+			<longitude>114779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peninsola el- Machbez -- (State: (LY46))">
+			<state>(LY46)</state>
+			<latitude>331112</latitude>
+			<longitude>117612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phazania">
+			<state></state>
+			<latitude>260112</latitude>
+			<longitude>140112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Phicus -- (State: (LY04))">
+			<state>(LY04)</state>
+			<latitude>329445</latitude>
+			<longitude>216445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Picco Bette -- (State: Al Kufrah)">
+			<state>Al Kufrah</state>
+			<latitude>220112</latitude>
+			<longitude>192112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pisida -- (State: An Nuqat al Khams)">
+			<state>An Nuqat al Khams</state>
+			<latitude>330859</latitude>
+			<longitude>117468</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plataea -- (State: Darnah)">
+			<state>Darnah</state>
+			<latitude>323945</latitude>
+			<longitude>232445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plateau d Alaota Kyou -- (State: Murzuq)">
+			<state>Murzuq</state>
+			<latitude>230945</latitude>
+			<longitude>140945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Brega -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>304445</latitude>
+			<longitude>195945</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Porto Ugra -- (State: Al Khums)">
+			<state>Al Khums</state>
+			<latitude>325573</latitude>
+			<longitude>144504</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Posto Trucchi -- (State: Al Kufrah)">
+			<state>Al Kufrah</state>
+			<latitude>260279</latitude>
+			<longitude>222445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province of Benghazi">
+			<state></state>
+			<latitude>310112</latitude>
+			<longitude>225112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ptolemais -- (State: (LY09))">
+			<state>(LY09)</state>
+			<latitude>327279</latitude>
+			<longitude>209612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta -- (State: Banghazi)">
+			<state>Banghazi</state>
+			<latitude>321112</latitude>
+			<longitude>200779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta Biad -- (State: Tubruq)">
+			<state>Tubruq</state>
+			<latitude>320612</latitude>
+			<longitude>240445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta Bomba -- (State: Darnah)">
+			<state>Darnah</state>
+			<latitude>324112</latitude>
+			<longitude>231445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta Carcura -- (State: (LY32))">
+			<state>(LY32)</state>
+			<latitude>314945</latitude>
+			<longitude>200112</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta Chersa -- (State: Darnah)">
+			<state>Darnah</state>
+			<latitude>328612</latitude>
+			<longitude>224445</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta del Faro -- (State: Banghazi)">
+			<state>Banghazi</state>
+			<latitude>321445</latitude>
+			<longitude>200779</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta Nera -- (State: Murzuq)">
+			<state>Murzuq</state>
+			<latitude>232612</latitude>
+			<longitude>181279</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Punta Tagiura -- (State: Tarabulus)">
+			<state>Tarabulus</state>
+			<latitude>329079</latitude>
+			<longitude>133973</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras Lanuf -- (State: (LY19))">
+			<state>(LY19)</state>
+			<latitude>305281</latitude>
+			<longitude>185781</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rogeban -- (State: Yafran)">
+			<state>Yafran</state>
+			<latitude>320114</latitude>
+			<longitude>121781</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sabratah -- (State: An Nuqat al Khams)">
+			<state>An Nuqat al Khams</state>
+			<latitude>328034</latitude>
+			<longitude>124962</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sebha -- (State: Sabha)">
+			<state>Sabha</state>
+			<latitude>270448</latitude>
+			<longitude>144448</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sert -- (State: Surt)">
+			<state>Surt</state>
+			<latitude>312176</latitude>
+			<longitude>166062</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shahat -- (State: (LY36))">
+			<state>(LY36)</state>
+			<latitude>328393</latitude>
+			<longitude>218737</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soknah -- (State: Al Jufrah)">
+			<state>Al Jufrah</state>
+			<latitude>290782</latitude>
+			<longitude>157948</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stazione di Lmaia -- (State: (LY15))">
+			<state>(LY15)</state>
+			<latitude>327948</latitude>
+			<longitude>128948</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tajurah -- (State: Tarabulus)">
+			<state>Tarabulus</state>
+			<latitude>328933</latitude>
+			<longitude>133622</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamzawah -- (State: Ash Shati)">
+			<state>Ash Shati</state>
+			<latitude>275783</latitude>
+			<longitude>142283</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tarhuna -- (State: Tarhunah)">
+			<state>Tarhunah</state>
+			<latitude>324449</latitude>
+			<longitude>136449</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tobruk Point -- (State: Tubruq)">
+			<state>Tubruq</state>
+			<latitude>320783</latitude>
+			<longitude>240283</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Traghen -- (State: Murzuq)">
+			<state>Murzuq</state>
+			<latitude>259349</latitude>
+			<longitude>144322</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tripoli">
+			<state></state>
+			<latitude>310116</latitude>
+			<longitude>150116</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tripoli -- (State: Tarabulus)">
+			<state>Tarabulus</state>
+			<latitude>329041</latitude>
+			<longitude>131916</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tripoli Harbor -- (State: Tarabulus)">
+			<state>Tarabulus</state>
+			<latitude>329138</latitude>
+			<longitude>131974</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tubruq">
+			<state></state>
+			<latitude>320952</latitude>
+			<longitude>239880</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubari -- (State: Awbari)">
+			<state>Awbari</state>
+			<latitude>265950</latitude>
+			<longitude>127784</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verde -- (State: (LY04))">
+			<state>(LY04)</state>
+			<latitude>325618</latitude>
+			<longitude>217951</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Port -- (State: Banghazi)">
+			<state>Banghazi</state>
+			<latitude>321285</latitude>
+			<longitude>200618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vittoriosa -- (State: (LY36))">
+			<state>(LY36)</state>
+			<latitude>328451</latitude>
+			<longitude>218618</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waddan -- (State: Al Jufrah)">
+			<state>Al Jufrah</state>
+			<latitude>291786</latitude>
+			<longitude>161452</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yafran">
+			<state></state>
+			<latitude>320882</latitude>
+			<longitude>125435</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yatim Umm Shuwayshah -- (State: (LY06))">
+			<state>(LY06)</state>
+			<latitude>324621</latitude>
+			<longitude>118788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yedi -- (State: Al Kufrah)">
+			<state>Al Kufrah</state>
+			<latitude>221454</latitude>
+			<longitude>196788</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yode -- (State: Al Kufrah)">
+			<state>Al Kufrah</state>
+			<latitude>222288</latitude>
+			<longitude>196621</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zawia -- (State: Az Zawiyah)">
+			<state>Az Zawiyah</state>
+			<latitude>327603</latitude>
+			<longitude>127353</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zella -- (State: Al Jufrah)">
+			<state>Al Jufrah</state>
+			<latitude>285622</latitude>
+			<longitude>175955</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zelten -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>287622</latitude>
+			<longitude>195122</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zelten -- (State: (LY06))">
+			<state>(LY06)</state>
+			<latitude>329622</latitude>
+			<longitude>118789</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zighen -- (State: Sabha)">
+			<state>Sabha</state>
+			<latitude>273622</latitude>
+			<longitude>149122</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zintan -- (State: Yafran)">
+			<state>Yafran</state>
+			<latitude>319455</latitude>
+			<longitude>122455</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zizaw -- (State: Murzuq)">
+			<state>Murzuq</state>
+			<latitude>259122</latitude>
+			<longitude>141789</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zleitat el-Gazal -- (State: Ajdabiya)">
+			<state>Ajdabiya</state>
+			<latitude>311789</latitude>
+			<longitude>202289</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zliten -- (State: Zlitan)">
+			<state>Zlitan</state>
+			<latitude>324789</latitude>
+			<longitude>145789</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuara -- (State: An Nuqat al Khams)">
+			<state>An Nuqat al Khams</state>
+			<latitude>329466</latitude>
+			<longitude>120914</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

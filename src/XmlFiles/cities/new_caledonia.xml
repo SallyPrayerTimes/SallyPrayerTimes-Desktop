@@ -1,0 +1,544 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="New Caledonia">
+		<city name="Eacho">
+			<state></state>
+			<latitude>-207732</latitude>
+			<longitude>1671434</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eath">
+			<state></state>
+			<latitude>-205732</latitude>
+			<longitude>1665934</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekure">
+			<state></state>
+			<latitude>-213732</latitude>
+			<longitude>1679768</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ema">
+			<state></state>
+			<latitude>-215566</latitude>
+			<longitude>1659101</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Embouia">
+			<state></state>
+			<latitude>-215232</latitude>
+			<longitude>1659934</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Empoet">
+			<state></state>
+			<latitude>-213899</latitude>
+			<longitude>1651601</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Endjamia">
+			<state></state>
+			<latitude>-215232</latitude>
+			<longitude>1659268</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Engannene">
+			<state></state>
+			<latitude>-203899</latitude>
+			<longitude>1646101</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eni">
+			<state></state>
+			<latitude>-216232</latitude>
+			<longitude>1679601</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ennaboura">
+			<state></state>
+			<latitude>-210066</latitude>
+			<longitude>1650934</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ennego">
+			<state></state>
+			<latitude>-219066</latitude>
+			<longitude>1659768</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ennou">
+			<state></state>
+			<latitude>-207566</latitude>
+			<longitude>1671601</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eo">
+			<state></state>
+			<latitude>-204399</latitude>
+			<longitude>1666101</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erambere">
+			<state></state>
+			<latitude>-220899</latitude>
+			<longitude>1664101</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Escarpe Point">
+			<state></state>
+			<latitude>-206732</latitude>
+			<longitude>1672268</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etang Saint-Nicolas">
+			<state></state>
+			<latitude>-216566</latitude>
+			<longitude>1661601</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etenerene">
+			<state></state>
+			<latitude>-214566</latitude>
+			<longitude>1680434</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ethi">
+			<state></state>
+			<latitude>-214899</latitude>
+			<longitude>1678601</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jecoueje">
+			<state></state>
+			<latitude>-215394</latitude>
+			<longitude>1660439</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jehuten">
+			<state></state>
+			<latitude>-204405</latitude>
+			<longitude>1664109</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeniene">
+			<state></state>
+			<latitude>-207561</latitude>
+			<longitude>1671439</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nessadiou">
+			<state></state>
+			<latitude>-216223</latitude>
+			<longitude>1655443</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noumea">
+			<state></state>
+			<latitude>-222557</latitude>
+			<longitude>1664610</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouvelle-Caledonie">
+			<state></state>
+			<latitude>-214890</latitude>
+			<longitude>1655110</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quai des Americains">
+			<state></state>
+			<latitude>-203887</latitude>
+			<longitude>1641613</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quameni">
+			<state></state>
+			<latitude>-217887</latitude>
+			<longitude>1659780</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quameo">
+			<state></state>
+			<latitude>-225887</latitude>
+			<longitude>1674446</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quareme River">
+			<state></state>
+			<latitude>-206220</latitude>
+			<longitude>1648613</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quiouyou">
+			<state></state>
+			<latitude>-215220</latitude>
+			<longitude>1660113</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uagap">
+			<state></state>
+			<latitude>-208716</latitude>
+			<longitude>1652784</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uage">
+			<state></state>
+			<latitude>-225550</latitude>
+			<longitude>1675284</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uala">
+			<state></state>
+			<latitude>-196716</latitude>
+			<longitude>1636617</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uapao Point">
+			<state></state>
+			<latitude>-215883</latitude>
+			<longitude>1678617</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uara">
+			<state></state>
+			<latitude>-224316</latitude>
+			<longitude>1668484</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubatche">
+			<state></state>
+			<latitude>-204216</latitude>
+			<longitude>1646450</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udekeu">
+			<state></state>
+			<latitude>-214716</latitude>
+			<longitude>1678784</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udie">
+			<state></state>
+			<latitude>-212216</latitude>
+			<longitude>1651617</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ue">
+			<state></state>
+			<latitude>-219716</latitude>
+			<longitude>1666950</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ujeeteetr">
+			<state></state>
+			<latitude>-206133</latitude>
+			<longitude>1663034</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unda Bay">
+			<state></state>
+			<latitude>-208550</latitude>
+			<longitude>1644784</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Undejamien">
+			<state></state>
+			<latitude>-215716</latitude>
+			<longitude>1660784</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ungue">
+			<state></state>
+			<latitude>-222883</latitude>
+			<longitude>1669117</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unguie">
+			<state></state>
+			<latitude>-214716</latitude>
+			<longitude>1658950</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unia">
+			<state></state>
+			<latitude>-220550</latitude>
+			<longitude>1668950</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upuaite">
+			<state></state>
+			<latitude>-226550</latitude>
+			<longitude>1674950</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ure">
+			<state></state>
+			<latitude>-215883</latitude>
+			<longitude>1679784</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usine">
+			<state></state>
+			<latitude>-208216</latitude>
+			<longitude>1644784</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vahda">
+			<state></state>
+			<latitude>-210882</latitude>
+			<longitude>1674451</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vahote">
+			<state></state>
+			<latitude>-207215</latitude>
+			<longitude>1650618</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val de l Hermitage">
+			<state></state>
+			<latitude>-221715</latitude>
+			<longitude>1664951</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val Fleuri">
+			<state></state>
+			<latitude>-221049</latitude>
+			<longitude>1664451</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee">
+			<state></state>
+			<latitude>-209549</latitude>
+			<longitude>1653618</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de la Rade">
+			<state></state>
+			<latitude>-204049</latitude>
+			<longitude>1642951</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de la Roche">
+			<state></state>
+			<latitude>-204215</latitude>
+			<longitude>1642785</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee des Bambous">
+			<state></state>
+			<latitude>-207382</latitude>
+			<longitude>1648285</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee des Colons">
+			<state></state>
+			<latitude>-222715</latitude>
+			<longitude>1664618</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee des Piquants">
+			<state></state>
+			<latitude>-204215</latitude>
+			<longitude>1643451</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee Seche">
+			<state></state>
+			<latitude>-212382</latitude>
+			<longitude>1652451</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaoyane">
+			<state></state>
+			<latitude>-208215</latitude>
+			<longitude>1647951</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vejeu">
+			<state></state>
+			<latitude>-214882</latitude>
+			<longitude>1659951</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vengen">
+			<state></state>
+			<latitude>-207549</latitude>
+			<longitude>1672785</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Versailles">
+			<state></state>
+			<latitude>-210215</latitude>
+			<longitude>1674451</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux-Touho">
+			<state></state>
+			<latitude>-207549</latitude>
+			<longitude>1651618</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voemea">
+			<state></state>
+			<latitude>-225465</latitude>
+			<longitude>1674118</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voh">
+			<state></state>
+			<latitude>-209549</latitude>
+			<longitude>1647118</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vouavouto Cove">
+			<state></state>
+			<latitude>-209882</latitude>
+			<longitude>1646785</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vulcain">
+			<state></state>
+			<latitude>-219049</latitude>
+			<longitude>1663785</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahoue">
+			<state></state>
+			<latitude>-221879</latitude>
+			<longitude>1665121</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamani">
+			<state></state>
+			<latitude>-208546</latitude>
+			<longitude>1649454</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yambe">
+			<state></state>
+			<latitude>-204212</latitude>
+			<longitude>1646788</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangaouatch">
+			<state></state>
+			<latitude>-203212</latitude>
+			<longitude>1642954</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaouat">
+			<state></state>
+			<latitude>-195546</latitude>
+			<longitude>1635954</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yate">
+			<state></state>
+			<latitude>-221546</latitude>
+			<longitude>1669621</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yenghebane">
+			<state></state>
+			<latitude>-200879</latitude>
+			<longitude>1639788</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yethebo">
+			<state></state>
+			<latitude>-214546</latitude>
+			<longitude>1679954</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoangani">
+			<state></state>
+			<latitude>-210211</latitude>
+			<longitude>1674289</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoze">
+			<state></state>
+			<latitude>-210378</latitude>
+			<longitude>1674455</longitude>
+			<timezone>1100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

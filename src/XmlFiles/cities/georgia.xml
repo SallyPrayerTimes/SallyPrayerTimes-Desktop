@@ -1,0 +1,782 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Georgia">
+		<city name="Bulitsku -- (State: Khobis Raioni)">
+			<state>Khobis Raioni</state>
+			<latitude>423748</latitude>
+			<longitude>418873</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ebudi">
+			<state></state>
+			<latitude>430368</latitude>
+			<longitude>425551</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ekadia">
+			<state></state>
+			<latitude>419268</latitude>
+			<longitude>420101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El oar">
+			<state></state>
+			<latitude>413101</latitude>
+			<longitude>465101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elbachita">
+			<state></state>
+			<latitude>424379</latitude>
+			<longitude>440182</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eloiani">
+			<state></state>
+			<latitude>423954</latitude>
+			<longitude>444962</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elontkau">
+			<state></state>
+			<latitude>425601</latitude>
+			<longitude>441268</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enageti Malyye">
+			<state></state>
+			<latitude>416159</latitude>
+			<longitude>446434</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eniseli -- (State: Qazbegis Raioni)">
+			<state>Qazbegis Raioni</state>
+			<latitude>420118</latitude>
+			<longitude>456715</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ereda">
+			<state></state>
+			<latitude>419779</latitude>
+			<longitude>446437</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eret o">
+			<state></state>
+			<latitude>424929</latitude>
+			<longitude>444593</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erge -- (State: Ajaria**)">
+			<state>Ajaria**</state>
+			<latitude>415715</latitude>
+			<longitude>417123</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ergeta -- (State: Zestap onis Raioni)">
+			<state>Zestap onis Raioni</state>
+			<latitude>423951</latitude>
+			<longitude>416932</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erinja -- (State: Akhalk alak is Raioni)">
+			<state>Akhalk alak is Raioni</state>
+			<latitude>413009</latitude>
+			<longitude>432890</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erio -- (State: Javis Raioni)">
+			<state>Javis Raioni</state>
+			<latitude>424709</latitude>
+			<longitude>438034</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eris-Tskari">
+			<state></state>
+			<latitude>426326</latitude>
+			<longitude>415132</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erkhvashi">
+			<state></state>
+			<latitude>430757</latitude>
+			<longitude>424259</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esheri -- (State: Abkhazia**)">
+			<state>Abkhazia**</state>
+			<latitude>430398</latitude>
+			<longitude>409370</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esheris Sadguri">
+			<state></state>
+			<latitude>430293</latitude>
+			<longitude>409507</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esherp erdi -- (State: Ts ageris Raioni)">
+			<state>Ts ageris Raioni</state>
+			<latitude>427301</latitude>
+			<longitude>420501</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eshkiti">
+			<state></state>
+			<latitude>427601</latitude>
+			<longitude>417101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eshtia -- (State: Mts khet is Raioni)">
+			<state>Mts khet is Raioni</state>
+			<latitude>413540</latitude>
+			<longitude>436229</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esikomidon">
+			<state></state>
+			<latitude>426109</latitude>
+			<longitude>444015</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Estonskoye">
+			<state></state>
+			<latitude>428923</latitude>
+			<longitude>412137</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eto">
+			<state></state>
+			<latitude>423226</latitude>
+			<longitude>435132</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etvalisi">
+			<state></state>
+			<latitude>421418</latitude>
+			<longitude>447415</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fachkha">
+			<state></state>
+			<latitude>416102</latitude>
+			<longitude>423435</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fakhralo">
+			<state></state>
+			<latitude>413830</latitude>
+			<longitude>446521</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falagkau">
+			<state></state>
+			<latitude>424899</latitude>
+			<longitude>444738</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farazi">
+			<state></state>
+			<latitude>424505</latitude>
+			<longitude>442816</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feiziye -- (State: Ajaria**)">
+			<state>Ajaria**</state>
+			<latitude>416408</latitude>
+			<longitude>416880</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feria -- (State: Ajaria**)">
+			<state>Ajaria**</state>
+			<latitude>416435</latitude>
+			<longitude>416616</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferma">
+			<state></state>
+			<latitude>419624</latitude>
+			<longitude>445330</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fillippovka">
+			<state></state>
+			<latitude>412435</latitude>
+			<longitude>433102</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freydental">
+			<state></state>
+			<latitude>417210</latitude>
+			<longitude>452244</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furtio">
+			<state></state>
+			<latitude>416183</latitude>
+			<longitude>422796</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fushrukauli">
+			<state></state>
+			<latitude>415769</latitude>
+			<longitude>424588</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gali">
+			<state></state>
+			<latitude>426603</latitude>
+			<longitude>417436</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Georgia">
+			<state></state>
+			<latitude>420103</latitude>
+			<longitude>435103</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoffnungstal">
+			<state></state>
+			<latitude>415104</latitude>
+			<longitude>450771</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikalto">
+			<state></state>
+			<latitude>419580</latitude>
+			<longitude>454041</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikhtila">
+			<state></state>
+			<latitude>415605</latitude>
+			<longitude>435605</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iknevi">
+			<state></state>
+			<latitude>418772</latitude>
+			<longitude>440605</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikoti">
+			<state></state>
+			<latitude>421652</latitude>
+			<longitude>445136</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikvlivgorana">
+			<state></state>
+			<latitude>418774</latitude>
+			<longitude>450916</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabnidzeebi">
+			<state></state>
+			<latitude>416067</latitude>
+			<longitude>421975</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jagira -- (State: Ts ageris Raioni)">
+			<state>Ts ageris Raioni</state>
+			<latitude>425481</latitude>
+			<longitude>420812</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jampali">
+			<state></state>
+			<latitude>430317</latitude>
+			<longitude>413498</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jandari">
+			<state></state>
+			<latitude>414528</latitude>
+			<longitude>451781</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jap aridze -- (State: Dedop listsqaros Raioni)">
+			<state>Dedop listsqaros Raioni</state>
+			<latitude>414662</latitude>
+			<longitude>461537</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Javakhet is Zegani">
+			<state></state>
+			<latitude>414939</latitude>
+			<longitude>435773</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Javakhk i Lerrnashght a">
+			<state></state>
+			<latitude>413439</latitude>
+			<longitude>439273</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Javis Raioni">
+			<state></state>
+			<latitude>425106</latitude>
+			<longitude>440606</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jefremowka -- (State: Mts khet is Raioni)">
+			<state>Mts khet is Raioni</state>
+			<latitude>412025</latitude>
+			<longitude>437512</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jejora -- (State: Ninotsmindis Raioni)">
+			<state>Ninotsmindis Raioni</state>
+			<latitude>425831</latitude>
+			<longitude>434362</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jemmikli Berg">
+			<state></state>
+			<latitude>412712</latitude>
+			<longitude>439320</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jgerda -- (State: Abkhazia**)">
+			<state>Abkhazia**</state>
+			<latitude>429278</latitude>
+			<longitude>413656</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jigrasheni -- (State: Mts khet is Raioni)">
+			<state>Mts khet is Raioni</state>
+			<latitude>413325</latitude>
+			<longitude>435512</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jigrasheni">
+			<state></state>
+			<latitude>415609</latitude>
+			<longitude>443620</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jijet i -- (State: T et ritsqaros Raioni)">
+			<state>T et ritsqaros Raioni</state>
+			<latitude>421598</latitude>
+			<longitude>449034</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jikha -- (State: Samtrediis Raioni)">
+			<state>Samtrediis Raioni</state>
+			<latitude>423678</latitude>
+			<longitude>422300</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jikhaskari -- (State: Zestap onis Raioni)">
+			<state>Zestap onis Raioni</state>
+			<latitude>425242</latitude>
+			<longitude>420506</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jirkhva">
+			<state></state>
+			<latitude>432009</latitude>
+			<longitude>405678</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joqolo -- (State: Akhmetis Raioni)">
+			<state>Akhmetis Raioni</state>
+			<latitude>421820</latitude>
+			<longitude>453167</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jorjiashvili">
+			<state></state>
+			<latitude>415912</latitude>
+			<longitude>446359</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jria -- (State: Rust avi*)">
+			<state>Rust avi*</state>
+			<latitude>423595</latitude>
+			<longitude>435973</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jruchula">
+			<state></state>
+			<latitude>423356</latitude>
+			<longitude>433620</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jugaani -- (State: T bilisi*)">
+			<state>T bilisi*</state>
+			<latitude>420687</latitude>
+			<longitude>454945</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jugaani">
+			<state></state>
+			<latitude>416037</latitude>
+			<longitude>460000</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jugheli -- (State: Ts ageris Raioni)">
+			<state>Ts ageris Raioni</state>
+			<latitude>426670</latitude>
+			<longitude>421581</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jughisi -- (State: Dushet is Raioni)">
+			<state>Dushet is Raioni</state>
+			<latitude>422912</latitude>
+			<longitude>447270</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Julgha">
+			<state></state>
+			<latitude>416012</latitude>
+			<longitude>429003</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumat i -- (State: Onis Raioni)">
+			<state>Onis Raioni</state>
+			<latitude>420292</latitude>
+			<longitude>419950</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumit i -- (State: Ch khorotsqus Raioni)">
+			<state>Ch khorotsqus Raioni</state>
+			<latitude>425612</latitude>
+			<longitude>421512</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumushauri">
+			<state></state>
+			<latitude>415606</latitude>
+			<longitude>422939</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juqmuri -- (State: Abkhazia**)">
+			<state>Abkhazia**</state>
+			<latitude>427464</latitude>
+			<longitude>414645</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juruqvet i -- (State: Lagodekhis Raioni)">
+			<state>Lagodekhis Raioni</state>
+			<latitude>420906</latitude>
+			<longitude>419317</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jut a -- (State: P ot i*)">
+			<state>P ot i*</state>
+			<latitude>425912</latitude>
+			<longitude>447573</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jvari">
+			<state></state>
+			<latitude>427245</latitude>
+			<longitude>420642</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jvarik et i">
+			<state></state>
+			<latitude>416439</latitude>
+			<longitude>424606</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jvarisa -- (State: T ianet is Raioni)">
+			<state>T ianet is Raioni</state>
+			<latitude>423862</latitude>
+			<longitude>428167</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jvris Tsqalsats avi -- (State: Ts ageris Raioni)">
+			<state>Ts ageris Raioni</state>
+			<latitude>427753</latitude>
+			<longitude>420503</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jvris Ugheltekhili -- (State: Rust avi*)">
+			<state>Rust avi*</state>
+			<latitude>422075</latitude>
+			<longitude>436073</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qach aghani">
+			<state></state>
+			<latitude>413549</latitude>
+			<longitude>449291</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qafqaz">
+			<state></state>
+			<latitude>420113</latitude>
+			<longitude>450113</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qaraghaji">
+			<state></state>
+			<latitude>415213</latitude>
+			<longitude>461444</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarajala">
+			<state></state>
+			<latitude>419780</latitude>
+			<longitude>454619</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qazbegi">
+			<state></state>
+			<latitude>426680</latitude>
+			<longitude>446546</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qizilajalo">
+			<state></state>
+			<latitude>414855</latitude>
+			<longitude>447838</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qizilajlo">
+			<state></state>
+			<latitude>414510</latitude>
+			<longitude>441974</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qizilk ilisa">
+			<state></state>
+			<latitude>413730</latitude>
+			<longitude>442544</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qorolist avi -- (State: Ajaria**)">
+			<state>Ajaria**</state>
+			<latitude>416607</latitude>
+			<longitude>417352</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qudro">
+			<state></state>
+			<latitude>419407</latitude>
+			<longitude>451019</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qurqutis Mt a">
+			<state></state>
+			<latitude>423391</latitude>
+			<longitude>445896</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qvaduashi">
+			<state></state>
+			<latitude>426066</latitude>
+			<longitude>419996</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qvareli">
+			<state></state>
+			<latitude>419627</latitude>
+			<longitude>458130</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qvarlis Raioni -- (State: Qazbegis Raioni)">
+			<state>Qazbegis Raioni</state>
+			<latitude>420113</latitude>
+			<longitude>458446</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qvelani">
+			<state></state>
+			<latitude>424344</latitude>
+			<longitude>446107</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sokhumi">
+			<state></state>
+			<latitude>430148</latitude>
+			<longitude>410268</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tblisi">
+			<state></state>
+			<latitude>417366</latitude>
+			<longitude>448024</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yedikilisa -- (State: Tsalenjikhis Raioni)">
+			<state>Tsalenjikhis Raioni</state>
+			<latitude>416007</latitude>
+			<longitude>439440</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeli">
+			<state></state>
+			<latitude>430179</latitude>
+			<longitude>427657</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeloyani">
+			<state></state>
+			<latitude>423321</latitude>
+			<longitude>444549</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yenashi -- (State: Martvilis Raioni)">
+			<state>Martvilis Raioni</state>
+			<latitude>430240</latitude>
+			<longitude>426424</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yengikvevi -- (State: Akhalts ikhis Raioni)">
+			<state>Akhalts ikhis Raioni</state>
+			<latitude>415968</latitude>
+			<longitude>430899</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerkhoti">
+			<state></state>
+			<latitude>424729</latitude>
+			<longitude>444765</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yertatsminda">
+			<state></state>
+			<latitude>418757</latitude>
+			<longitude>443346</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yudorda">
+			<state></state>
+			<latitude>430310</latitude>
+			<longitude>409421</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yupshara -- (State: Abkhazia**)">
+			<state>Abkhazia**</state>
+			<latitude>433824</latitude>
+			<longitude>404813</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuzhnyy Ptysh">
+			<state></state>
+			<latitude>431452</latitude>
+			<longitude>416968</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zugdidi">
+			<state></state>
+			<latitude>425030</latitude>
+			<longitude>418347</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

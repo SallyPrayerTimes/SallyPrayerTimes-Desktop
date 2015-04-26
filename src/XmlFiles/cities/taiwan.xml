@@ -1,0 +1,397 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Taiwan">
+		<city name="Bien Dong">
+			<state></state>
+			<latitude>150098</latitude>
+			<longitude>1150098</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bonfire Island -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>226765</latitude>
+			<longitude>1214931</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bush Islet -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>251765</latitude>
+			<longitude>1217598</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ch -cha -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>229932</latitude>
+			<longitude>1204599</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chung-li -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>241166</latitude>
+			<longitude>1204682</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daibyo Island -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>233267</latitude>
+			<longitude>1193267</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daisho Island -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>232203</latitude>
+			<longitude>1194314</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daiso Bay -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>236433</latitude>
+			<longitude>1195767</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daiso Island -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>236267</latitude>
+			<longitude>1195767</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Daiton Mountain -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>251878</latitude>
+			<longitude>1215272</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dakusui River -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>240600</latitude>
+			<longitude>1204100</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dome Island -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>235433</latitude>
+			<longitude>1195433</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dragon Lake -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>238703</latitude>
+			<longitude>1209325</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Godd Rock -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>217436</latitude>
+			<longitude>1216270</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gokwan Mountain -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>241603</latitude>
+			<longitude>1212770</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gordon Island -- (State: Fu-chien)">
+			<state>Fu-chien</state>
+			<latitude>262817</latitude>
+			<longitude>1199950</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guran River -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>247270</latitude>
+			<longitude>1218270</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyoo Island -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>236139</latitude>
+			<longitude>1195142</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyucho-kei -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>234770</latitude>
+			<longitude>1202436</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hsin-chu -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>248151</latitude>
+			<longitude>1209818</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kao-hsiung -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>244274</latitude>
+			<longitude>1209107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kao-hsiung">
+			<state></state>
+			<latitude>226285</latitude>
+			<longitude>1203121</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kao-hsiung Shih -- (State: Kao-hsiung)">
+			<state>Kao-hsiung</state>
+			<latitude>226774</latitude>
+			<longitude>1202940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kao-sung -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>225774</latitude>
+			<longitude>1203774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keelung -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>251421</latitude>
+			<longitude>1217482</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O-kuan -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>228111</latitude>
+			<longitude>1203944</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O-kung-chi -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>246278</latitude>
+			<longitude>1210611</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oko Rock -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>237944</latitude>
+			<longitude>1195444</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pin Tung Hsien -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>225112</latitude>
+			<longitude>1206779</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quemoy -- (State: Fu-chien)">
+			<state>Fu-chien</state>
+			<latitude>244571</latitude>
+			<longitude>1183874</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quemoy Channel -- (State: Fu-chien)">
+			<state>Fu-chien</state>
+			<latitude>244538</latitude>
+			<longitude>1182885</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quemoy Chiang -- (State: Fu-chien)">
+			<state>Fu-chien</state>
+			<latitude>244021</latitude>
+			<longitude>1182546</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quemoyhsien -- (State: Fu-chien)">
+			<state>Fu-chien</state>
+			<latitude>244480</latitude>
+			<longitude>1183296</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ragged islet -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>236281</latitude>
+			<longitude>1196947</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rantai Mountain -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>237447</latitude>
+			<longitude>1209947</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reef Islands -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>232781</latitude>
+			<longitude>1195114</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rinto Rock -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>235447</latitude>
+			<longitude>1196614</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Risei Point -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>235614</latitude>
+			<longitude>1196947</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Aloe -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>222947</latitude>
+			<longitude>1208947</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Hsia Tam Sui -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>224781</latitude>
+			<longitude>1204281</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Nanao -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>244614</latitude>
+			<longitude>1218114</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rocky Shokoto Island -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>219614</latitude>
+			<longitude>1216114</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rokan Road -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>240947</latitude>
+			<longitude>1203447</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rokushaku Reef -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>234947</latitude>
+			<longitude>1197614</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rokuzyotai Mountain -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>245114</latitude>
+			<longitude>1210781</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rover Channel -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>234447</latitude>
+			<longitude>1195281</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rover Group -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>233947</latitude>
+			<longitude>1195114</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rover Knob -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>233781</latitude>
+			<longitude>1195447</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ryukyusyo Island -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>223497</latitude>
+			<longitude>1203814</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taichung">
+			<state></state>
+			<latitude>240116</latitude>
+			<longitude>1206782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tainan Canal -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>230116</latitude>
+			<longitude>1201949</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taipeh -- (State: T ai-pei)">
+			<state>T ai-pei</state>
+			<latitude>250508</latitude>
+			<longitude>1215366</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taiwan">
+			<state></state>
+			<latitude>235116</latitude>
+			<longitude>1210116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vele Rete Rocks -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>217785</latitude>
+			<longitude>1208285</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Veterans Hospital -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>226951</latitude>
+			<longitude>1205951</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wan-chia -- (State: T ai-wan)">
+			<state>T ai-wan</state>
+			<latitude>252286</latitude>
+			<longitude>1216452</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,992 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Mauritius">
+		<city name="Abbe Bank -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-199070</latitude>
+			<longitude>577764</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abercrombie -- (State: Port Louis)">
+			<state>Port Louis</state>
+			<latitude>-201384</latitude>
+			<longitude>575258</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agalega">
+			<state></state>
+			<latitude>-103903</latitude>
+			<longitude>566264</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agalega Islands">
+			<state></state>
+			<latitude>104097</latitude>
+			<longitude>566264</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aigrette Island -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-204075</latitude>
+			<longitude>577364</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Albion -- (State: Black River)">
+			<state>Black River</state>
+			<latitude>-201903</latitude>
+			<longitude>574264</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Albion Dock -- (State: Port Louis)">
+			<state>Port Louis</state>
+			<latitude>-201389</latitude>
+			<longitude>575080</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alma Hill -- (State: Moka)">
+			<state>Moka</state>
+			<latitude>-202214</latitude>
+			<longitude>575833</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amitie -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-200997</latitude>
+			<longitude>576736</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amitie -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-201403</latitude>
+			<longitude>575764</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Ally -- (State: Rodrigues)">
+			<state>Rodrigues</state>
+			<latitude>-196820</latitude>
+			<longitude>635097</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse aux Anglais -- (State: Rodrigues)">
+			<state>Rodrigues</state>
+			<latitude>-196653</latitude>
+			<longitude>634403</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Bambou -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203267</latitude>
+			<longitude>577680</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Bonserjent -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-200195</latitude>
+			<longitude>576850</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Colas -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203581</latitude>
+			<longitude>577097</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse du Bain -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-200731</latitude>
+			<longitude>577083</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse du Grand Sable -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203075</latitude>
+			<longitude>577766</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Grande Vare -- (State: Rodrigues)">
+			<state>Rodrigues</state>
+			<latitude>-197403</latitude>
+			<longitude>634097</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Jonchee -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203395</latitude>
+			<longitude>577500</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse La Raie -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-199789</latitude>
+			<longitude>576364</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Quittor -- (State: Rodrigues)">
+			<state>Rodrigues</state>
+			<latitude>-197570</latitude>
+			<longitude>633930</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anse Raffin -- (State: Rodrigues)">
+			<state>Rodrigues</state>
+			<latitude>-197347</latitude>
+			<longitude>634347</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antoinette -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-201120</latitude>
+			<longitude>576439</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arcade Point -- (State: Savanne)">
+			<state>Savanne</state>
+			<latitude>-205070</latitude>
+			<longitude>575930</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Argy -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-201831</latitude>
+			<longitude>577419</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arsenal Bay -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-200742</latitude>
+			<longitude>575164</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Astrea -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203811</latitude>
+			<longitude>576386</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avocare Island">
+			<state></state>
+			<latitude>-165903</latitude>
+			<longitude>596430</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beau Bassin -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202096</latitude>
+			<longitude>574681</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Camp Diable -- (State: Savanne)">
+			<state>Savanne</state>
+			<latitude>-204529</latitude>
+			<longitude>575888</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Curepipe -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-203223</latitude>
+			<longitude>575121</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Curepipe Road -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202901</latitude>
+			<longitude>575266</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="D Esny Point -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-204136</latitude>
+			<longitude>577303</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dagotiere -- (State: Moka)">
+			<state>Moka</state>
+			<latitude>-202344</latitude>
+			<longitude>575642</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dalais -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203872</latitude>
+			<longitude>576953</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Detices River -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203900</latitude>
+			<longitude>577100</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Deux Freres -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202767</latitude>
+			<longitude>577811</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dyot Canal -- (State: Port Louis)">
+			<state>Port Louis</state>
+			<latitude>-201569</latitude>
+			<longitude>574814</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eau Bleue -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203635</latitude>
+			<longitude>576337</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eau Coulee">
+			<state></state>
+			<latitude>-202732</latitude>
+			<longitude>575101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eaux Coulee -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202941</latitude>
+			<longitude>575276</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ebene -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202338</latitude>
+			<longitude>574898</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ecroignard -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202160</latitude>
+			<longitude>577462</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ernest Florent -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202541</latitude>
+			<longitude>577693</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Etoile -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202943</latitude>
+			<longitude>577132</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fayence Mountains -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202304</latitude>
+			<longitude>577002</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferney Mill -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203509</latitude>
+			<longitude>577080</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flacq">
+			<state></state>
+			<latitude>-201795</latitude>
+			<longitude>577246</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flacq Cove -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-201445</latitude>
+			<longitude>577538</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flacq District -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202231</latitude>
+			<longitude>577269</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flacq Point -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-201565</latitude>
+			<longitude>577749</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flamand Islet -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203101</latitude>
+			<longitude>578249</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flic en Flac -- (State: Black River)">
+			<state>Black River</state>
+			<latitude>-202640</latitude>
+			<longitude>573733</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Floreal -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202898</latitude>
+			<longitude>575102</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fous Island -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203692</latitude>
+			<longitude>577908</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grand Baie">
+			<state></state>
+			<latitude>-199978</latitude>
+			<longitude>575784</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grande Baie -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-200033</latitude>
+			<longitude>575842</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haut de Flacq -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-201924</latitude>
+			<longitude>576785</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Henrietta -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-203252</latitude>
+			<longitude>574768</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herve -- (State: Moka)">
+			<state>Moka</state>
+			<latitude>-202563</latitude>
+			<longitude>576104</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Highlands -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202643</latitude>
+			<longitude>575215</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hollandais Point -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-201860</latitude>
+			<longitude>577868</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horseshoe Bight -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203729</latitude>
+			<longitude>577771</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horseshoe Spit -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203729</latitude>
+			<longitude>577604</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacotet Bay -- (State: Savanne)">
+			<state>Savanne</state>
+			<latitude>-204930</latitude>
+			<longitude>574506</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jennifer Shoal">
+			<state></state>
+			<latitude>-72727</latitude>
+			<longitude>724439</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerome Point -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-204038</latitude>
+			<longitude>577223</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jolis Bois -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-204305</latitude>
+			<longitude>575906</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jonchee Bar -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203561</latitude>
+			<longitude>577606</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Julien -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202158</latitude>
+			<longitude>576470</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junction Peak -- (State: Moka)">
+			<state>Moka</state>
+			<latitude>-201969</latitude>
+			<longitude>574981</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jurancon -- (State: Savanne)">
+			<state>Savanne</state>
+			<latitude>-204811</latitude>
+			<longitude>575153</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ka Hine -- (State: Black River)">
+			<state>Black River</state>
+			<latitude>-201765</latitude>
+			<longitude>574379</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanaka Crater -- (State: Savanne)">
+			<state>Savanne</state>
+			<latitude>-203924</latitude>
+			<longitude>575224</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khoyratty -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-201099</latitude>
+			<longitude>575582</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahebourg -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203972</latitude>
+			<longitude>577109</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mesnil River">
+			<state></state>
+			<latitude>-202391</latitude>
+			<longitude>574942</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mont Ida">
+			<state></state>
+			<latitude>-202280</latitude>
+			<longitude>576417</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nab Reef -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-198054</latitude>
+			<longitude>577877</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nelsons Island">
+			<state></state>
+			<latitude>-56723</latitude>
+			<longitude>723443</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Grove -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203976</latitude>
+			<longitude>576246</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nicolas Bay">
+			<state></state>
+			<latitude>-196890</latitude>
+			<longitude>633777</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nicoliere Mountains">
+			<state></state>
+			<latitude>-201534</latitude>
+			<longitude>576196</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noire -- (State: Black River)">
+			<state>Black River</state>
+			<latitude>-203529</latitude>
+			<longitude>573793</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Entrance">
+			<state></state>
+			<latitude>-203015</latitude>
+			<longitude>578154</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Notre Dame -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-201296</latitude>
+			<longitude>575641</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouvelle Decouverte -- (State: Moka)">
+			<state>Moka</state>
+			<latitude>-201762</latitude>
+			<longitude>575929</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouvelle Decouverte -- (State: Rodrigues)">
+			<state>Rodrigues</state>
+			<latitude>-197001</latitude>
+			<longitude>634804</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oliva -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202864</latitude>
+			<longitude>577367</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oscorne Point -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-199958</latitude>
+			<longitude>576869</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oyster Bay -- (State: Rodrigues)">
+			<state>Rodrigues</state>
+			<latitude>-196722</latitude>
+			<longitude>634278</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pereybere -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-199794</latitude>
+			<longitude>575968</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plaine Verte -- (State: Port Louis)">
+			<state>Port Louis</state>
+			<latitude>-201424</latitude>
+			<longitude>575190</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Louis">
+			<state></state>
+			<latitude>-201507</latitude>
+			<longitude>575101</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Louis District -- (State: Port Louis)">
+			<state>Port Louis</state>
+			<latitude>-201555</latitude>
+			<longitude>575362</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartier Militaire -- (State: Moka)">
+			<state>Moka</state>
+			<latitude>-202734</latitude>
+			<longitude>576263</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatre Bornes -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202531</latitude>
+			<longitude>574832</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatre Cocos -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-201887</latitude>
+			<longitude>577696</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatre Soeurs -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202879</latitude>
+			<longitude>577819</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatre Vents -- (State: Rodrigues)">
+			<state>Rodrigues</state>
+			<latitude>-196887</latitude>
+			<longitude>634113</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinze Cantons -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202895</latitude>
+			<longitude>574838</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rose Hill -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202305</latitude>
+			<longitude>574814</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rose-Hill -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202219</latitude>
+			<longitude>574781</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sainte Rita">
+			<state></state>
+			<latitude>-104718</latitude>
+			<longitude>567115</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Solferino -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202793</latitude>
+			<longitude>574787</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sygangue -- (State: Rodrigues)">
+			<state>Rodrigues</state>
+			<latitude>-196635</latitude>
+			<longitude>634615</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terre Rouge -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-201145</latitude>
+			<longitude>575360</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Triolet -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-200431</latitude>
+			<longitude>575569</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union Flacq -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-201927</latitude>
+			<longitude>576973</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union Maurel -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-200075</latitude>
+			<longitude>576425</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union Vale -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-204275</latitude>
+			<longitude>576586</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unite -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202211</latitude>
+			<longitude>576789</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vacoa -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202863</latitude>
+			<longitude>574901</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vacoas Mountains -- (State: Black River)">
+			<state>Black River</state>
+			<latitude>-203188</latitude>
+			<longitude>574604</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vacoas Point -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-204418</latitude>
+			<longitude>577049</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vacoas Point -- (State: Riviere du Rempart)">
+			<state>Riviere du Rempart</state>
+			<latitude>-199738</latitude>
+			<longitude>575949</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vainqueur">
+			<state></state>
+			<latitude>-196549</latitude>
+			<longitude>634785</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valentina -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202601</latitude>
+			<longitude>575074</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valetta -- (State: Moka)">
+			<state>Moka</state>
+			<latitude>-202401</latitude>
+			<longitude>575732</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee des Pretres -- (State: Port Louis)">
+			<state>Port Louis</state>
+			<latitude>-201551</latitude>
+			<longitude>575424</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee Pitot -- (State: Port Louis)">
+			<state>Port Louis</state>
+			<latitude>-201529</latitude>
+			<longitude>575249</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valruche -- (State: Savanne)">
+			<state>Savanne</state>
+			<latitude>-204463</latitude>
+			<longitude>574485</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valton -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-201401</latitude>
+			<longitude>575746</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vaquoas Island -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203832</latitude>
+			<longitude>577754</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verdun -- (State: Moka)">
+			<state>Moka</state>
+			<latitude>-202165</latitude>
+			<longitude>575557</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verronge">
+			<state></state>
+			<latitude>-166715</latitude>
+			<longitude>596118</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Grand Port -- (State: Grand Port)">
+			<state>Grand Port</state>
+			<latitude>-203551</latitude>
+			<longitude>577182</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ville Bague -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-201276</latitude>
+			<longitude>576218</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ville d Avray -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-203246</latitude>
+			<longitude>575749</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ville Valio -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-200821</latitude>
+			<longitude>575157</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villebague Canal -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-201215</latitude>
+			<longitude>576285</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vine Bay">
+			<state></state>
+			<latitude>-104215</latitude>
+			<longitude>566618</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Virgins Peak">
+			<state></state>
+			<latitude>-201624</latitude>
+			<longitude>575593</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuillemain -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202032</latitude>
+			<longitude>574782</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuillemin -- (State: Moka)">
+			<state>Moka</state>
+			<latitude>-202432</latitude>
+			<longitude>575965</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wahlalah -- (State: Black River)">
+			<state>Black River</state>
+			<latitude>-203175</latitude>
+			<longitude>574355</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Peak -- (State: Black River)">
+			<state>Black River</state>
+			<latitude>-202937</latitude>
+			<longitude>574505</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Peak -- (State: Flacq)">
+			<state>Flacq</state>
+			<latitude>-202300</latitude>
+			<longitude>576961</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whale Rock -- (State: Pamplemousses)">
+			<state>Pamplemousses</state>
+			<latitude>-199837</latitude>
+			<longitude>575577</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wolmar -- (State: Black River)">
+			<state>Black River</state>
+			<latitude>-202837</latitude>
+			<longitude>573788</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wooten -- (State: Plaines Wilhems)">
+			<state>Plaines Wilhems</state>
+			<latitude>-202934</latitude>
+			<longitude>575386</longitude>
+			<timezone>400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

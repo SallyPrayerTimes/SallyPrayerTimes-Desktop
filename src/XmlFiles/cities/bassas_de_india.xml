@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bassas De India">
+		<city name="Europa Rocks">
+			<state></state>
+			<latitude>-214066</latitude>
+			<longitude>397101</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

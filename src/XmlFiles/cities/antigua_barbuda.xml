@@ -1,0 +1,887 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Antigua Barbuda">
+		<city name="Aberdeen Village -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>170764</latitude>
+			<longitude>-618070</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Addison Shoal -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>171805</latitude>
+			<longitude>-617611</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Antigua">
+			<state></state>
+			<latitude>170597</latitude>
+			<longitude>-617903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ayres Creek -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170764</latitude>
+			<longitude>-616903</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bannister Bank -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171931</latitude>
+			<longitude>-618735</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beggars Point">
+			<state></state>
+			<latitude>171765</latitude>
+			<longitude>-617902</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bellevue Heights -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171098</latitude>
+			<longitude>-618069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bethesda -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170598</latitude>
+			<longitude>-617402</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Billy Point -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>177431</latitude>
+			<longitude>-618569</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bird Islet Reef">
+			<state></state>
+			<latitude>171431</latitude>
+			<longitude>-617402</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bishops -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170431</latitude>
+			<longitude>-618069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Blubber Valley -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170765</latitude>
+			<longitude>-618569</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boggy Peak -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170598</latitude>
+			<longitude>-618402</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boland Village -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170431</latitude>
+			<longitude>-618735</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boon Bay -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171765</latitude>
+			<longitude>-618069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boon Channel">
+			<state></state>
+			<latitude>171598</latitude>
+			<longitude>-618402</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boon Point -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171765</latitude>
+			<longitude>-618235</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Botts Peak -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170598</latitude>
+			<longitude>-618569</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brooks Old Mill -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170265</latitude>
+			<longitude>-618402</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Byam Point -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>171431</latitude>
+			<longitude>-617069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Codrington -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>176432</latitude>
+			<longitude>-618068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Codrington Bank -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>174599</latitude>
+			<longitude>-617734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Codrington Lagoon -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>176599</latitude>
+			<longitude>-618234</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Codrington Shoals -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>174932</latitude>
+			<longitude>-618234</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Denfields -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171100</latitude>
+			<longitude>-618400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dian Point -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>171100</latitude>
+			<longitude>-616733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dickinson Bay -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171767</latitude>
+			<longitude>-618400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dodington Bank -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>175100</latitude>
+			<longitude>-617400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doigs -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170267</latitude>
+			<longitude>-617900</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dow Hill -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170267</latitude>
+			<longitude>-617400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dulcina -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>175933</latitude>
+			<longitude>-618067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dunnings Dam -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170767</latitude>
+			<longitude>-618400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emanuel -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>170768</latitude>
+			<longitude>-618232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falmouth -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170269</latitude>
+			<longitude>-617731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farley Bay">
+			<state></state>
+			<latitude>170935</latitude>
+			<longitude>-617065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fellingo Shoal -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>171460</latitude>
+			<longitude>-617592</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fischer Creek -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>171435</latitude>
+			<longitude>-617731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fisher Hill -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170269</latitude>
+			<longitude>-618065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Barrington -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171435</latitude>
+			<longitude>-618898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort William -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170435</latitude>
+			<longitude>-617065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freemans -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>170602</latitude>
+			<longitude>-617731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Freetown -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170602</latitude>
+			<longitude>-616898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frys Bay -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170602</latitude>
+			<longitude>-618898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fullerton Point -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171102</latitude>
+			<longitude>-618898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galley Bay -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171270</latitude>
+			<longitude>-618897</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gilberts -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>170936</latitude>
+			<longitude>-617230</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goat Point -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>177436</latitude>
+			<longitude>-618397</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Golden Grove -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171103</latitude>
+			<longitude>-618230</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gravenor Bay -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>175603</latitude>
+			<longitude>-617397</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grays -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170936</latitude>
+			<longitude>-616897</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guana Bay -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>171270</latitude>
+			<longitude>-617230</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guana Island -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>171103</latitude>
+			<longitude>-617230</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hale Gate -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>171604</latitude>
+			<longitude>-617063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harney Shoal -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>172076</latitude>
+			<longitude>-617929</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hawks Bill Bay -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171271</latitude>
+			<longitude>-618729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herberts -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>170937</latitude>
+			<longitude>-617896</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hog Cliffs -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>176604</latitude>
+			<longitude>-617396</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horse Shoe Reef">
+			<state></state>
+			<latitude>170271</latitude>
+			<longitude>-617063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hudson Cove -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170437</latitude>
+			<longitude>-616729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hudson Landing -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>176215</latitude>
+			<longitude>-618304</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hurst Shoals -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171160</latitude>
+			<longitude>-619063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indian Creek -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170105</latitude>
+			<longitude>-617228</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jennings -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170939</latitude>
+			<longitude>-618561</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Hughes -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170606</latitude>
+			<longitude>-618061</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johnson Islet -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170273</latitude>
+			<longitude>-618727</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Langford Bay -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171808</latitude>
+			<longitude>-618275</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laurys Bay -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>171108</latitude>
+			<longitude>-616892</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ledwell Point -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171608</latitude>
+			<longitude>-618559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liberta -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170441</latitude>
+			<longitude>-617725</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lightfoots -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171108</latitude>
+			<longitude>-617892</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lindsay Hill -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>171275</latitude>
+			<longitude>-617517</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Little Duer -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>170775</latitude>
+			<longitude>-617392</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lower Lyons -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170608</latitude>
+			<longitude>-617225</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maiden Island -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>171609</latitude>
+			<longitude>-617558</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marble Hill -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171609</latitude>
+			<longitude>-618224</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Marmora Reef -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170276</latitude>
+			<longitude>-617224</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Martello Tower -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>176051</latitude>
+			<longitude>-618183</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matthews -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170776</latitude>
+			<longitude>-617891</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="McKinnons Salt Pond -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171609</latitude>
+			<longitude>-618408</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="McNish Mountain -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>170609</latitude>
+			<longitude>-618224</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mercer Creek -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>171109</latitude>
+			<longitude>-617058</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mill Reef -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170609</latitude>
+			<longitude>-616558</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moor Islet -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>171776</latitude>
+			<longitude>-617558</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanny Island -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170777</latitude>
+			<longitude>-616723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanton Point -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170110</latitude>
+			<longitude>-617390</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="New Winthorpes -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>171610</latitude>
+			<longitude>-617890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Newfield -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170443</latitude>
+			<longitude>-617223</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Channnel">
+			<state></state>
+			<latitude>171277</latitude>
+			<longitude>-616890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Whelk">
+			<state></state>
+			<latitude>171693</latitude>
+			<longitude>-617182</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Osbourn -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>171444</latitude>
+			<longitude>-617889</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palaster Reef -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>175445</latitude>
+			<longitude>-617388</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pares Village -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>170945</latitude>
+			<longitude>-617388</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Parham -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>170945</latitude>
+			<longitude>-617555</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paynters -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>171279</latitude>
+			<longitude>-617888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pearns Bay -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170945</latitude>
+			<longitude>-618888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pelican Bay -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>175779</latitude>
+			<longitude>-617221</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pelican Shoal -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171112</latitude>
+			<longitude>-619055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Picarts Bay -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170445</latitude>
+			<longitude>-618888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pillar Rock -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171445</latitude>
+			<longitude>-618721</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pinching Bay -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171112</latitude>
+			<longitude>-619221</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Potters -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>170945</latitude>
+			<longitude>-618055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Procters Point -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170112</latitude>
+			<longitude>-617721</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rabbit Island -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>171447</latitude>
+			<longitude>-617219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Red Hill Dam -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170447</latitude>
+			<longitude>-617386</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Redonda">
+			<state></state>
+			<latitude>169281</latitude>
+			<longitude>-623053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reeds Point -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170781</latitude>
+			<longitude>-618719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ricket Harbour -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170781</latitude>
+			<longitude>-616553</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint John">
+			<state></state>
+			<latitude>171282</latitude>
+			<longitude>-618385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint John s Road -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171615</latitude>
+			<longitude>-618635</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Johns Harbor -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171448</latitude>
+			<longitude>-618552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Johnston -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171282</latitude>
+			<longitude>-618218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Caves -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>176949</latitude>
+			<longitude>-617717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Cove -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171449</latitude>
+			<longitude>-618384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Dockyard -- (State: Saint Paul)">
+			<state>Saint Paul</state>
+			<latitude>170116</latitude>
+			<longitude>-617551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Pinnacle">
+			<state></state>
+			<latitude>169449</latitude>
+			<longitude>-623217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Sisters -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171616</latitude>
+			<longitude>-618717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tuson Rock -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>176283</latitude>
+			<longitude>-618551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urlings -- (State: Saint Mary)">
+			<state>Saint Mary</state>
+			<latitude>170450</latitude>
+			<longitude>-618550</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vernon Island -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>171285</latitude>
+			<longitude>-617549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vernons -- (State: Saint Peter)">
+			<state>Saint Peter</state>
+			<latitude>171118</latitude>
+			<longitude>-617549</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warrington Bank -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171577</latitude>
+			<longitude>-618714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Watsons -- (State: Saint Philip)">
+			<state>Saint Philip</state>
+			<latitude>170619</latitude>
+			<longitude>-616714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weymouth Reef -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171441</latitude>
+			<longitude>-619192</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="White Cliff -- (State: Barbuda)">
+			<state>Barbuda</state>
+			<latitude>175452</latitude>
+			<longitude>-617214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Winthorp Bay -- (State: Saint George)">
+			<state>Saint George</state>
+			<latitude>171619</latitude>
+			<longitude>-617714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woods -- (State: Saint John)">
+			<state>Saint John</state>
+			<latitude>171452</latitude>
+			<longitude>-618048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

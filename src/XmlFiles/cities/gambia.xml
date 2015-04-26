@@ -1,0 +1,1251 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Gambia">
+		<city name="Abeokuta">
+			<state></state>
+			<latitude>133764</latitude>
+			<longitude>-146070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abuko -- (State: Western)">
+			<state>Western</state>
+			<latitude>134139</latitude>
+			<longitude>-166461</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ahalulie">
+			<state></state>
+			<latitude>134764</latitude>
+			<longitude>-149070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alaji Yoro -- (State: Western)">
+			<state>Western</state>
+			<latitude>135328</latitude>
+			<longitude>-162742</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alakounda">
+			<state></state>
+			<latitude>131764</latitude>
+			<longitude>-159570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Albadarr -- (State: Western)">
+			<state>Western</state>
+			<latitude>133441</latitude>
+			<longitude>-163770</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alhaji Bajonkoto">
+			<state></state>
+			<latitude>135430</latitude>
+			<longitude>-158070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alicali Kunda">
+			<state></state>
+			<latitude>135430</latitude>
+			<longitude>-157236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alijamadu -- (State: Western)">
+			<state>Western</state>
+			<latitude>134097</latitude>
+			<longitude>-164459</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aljamdu Bolon -- (State: Western)">
+			<state>Western</state>
+			<latitude>134239</latitude>
+			<longitude>-164697</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alla Tenta">
+			<state></state>
+			<latitude>134597</latitude>
+			<longitude>-146570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alohungari">
+			<state></state>
+			<latitude>133264</latitude>
+			<longitude>-142236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alohungari Banta">
+			<state></state>
+			<latitude>132764</latitude>
+			<longitude>-141236</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alpha Hamjatu -- (State: Western)">
+			<state>Western</state>
+			<latitude>134764</latitude>
+			<longitude>-163070</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amdalai -- (State: Western)">
+			<state>Western</state>
+			<latitude>134416</latitude>
+			<longitude>-167128</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amdallai -- (State: Western)">
+			<state>Western</state>
+			<latitude>135980</latitude>
+			<longitude>-164131</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ampaya -- (State: Western)">
+			<state>Western</state>
+			<latitude>134622</latitude>
+			<longitude>-166811</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arongkoli Kunda">
+			<state></state>
+			<latitude>132430</latitude>
+			<longitude>-158570</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bakau -- (State: Western)">
+			<state>Western</state>
+			<latitude>134879</latitude>
+			<longitude>-166721</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banjul">
+			<state></state>
+			<latitude>134629</latitude>
+			<longitude>-165677</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banjul International Airport -- (State: Western)">
+			<state>Western</state>
+			<latitude>133542</latitude>
+			<longitude>-166485</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banjul Island">
+			<state></state>
+			<latitude>134640</latitude>
+			<longitude>-165985</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banjul NDing -- (State: Western)">
+			<state>Western</state>
+			<latitude>133831</latitude>
+			<longitude>-166474</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Banjul Point -- (State: Banjul)">
+			<state>Banjul</state>
+			<latitude>134648</latitude>
+			<longitude>-165633</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brikama">
+			<state></state>
+			<latitude>133265</latitude>
+			<longitude>-159235</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brikama -- (State: Western)">
+			<state>Western</state>
+			<latitude>132773</latitude>
+			<longitude>-166363</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brikama Ba">
+			<state></state>
+			<latitude>135431</latitude>
+			<longitude>-149235</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brikama College -- (State: Western)">
+			<state>Western</state>
+			<latitude>132951</latitude>
+			<longitude>-166591</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brikama Forest Park">
+			<state></state>
+			<latitude>133931</latitude>
+			<longitude>-158235</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Brikama Island">
+			<state></state>
+			<latitude>135931</latitude>
+			<longitude>-149569</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chamen Baka">
+			<state></state>
+			<latitude>137266</latitude>
+			<longitude>-153734</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chamoi">
+			<state></state>
+			<latitude>134766</latitude>
+			<longitude>-141068</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changally">
+			<state></state>
+			<latitude>133599</latitude>
+			<longitude>-143234</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Changally Chewdu">
+			<state></state>
+			<latitude>133766</latitude>
+			<longitude>-143234</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charjel">
+			<state></state>
+			<latitude>134599</latitude>
+			<longitude>-145401</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charmen">
+			<state></state>
+			<latitude>137099</latitude>
+			<longitude>-151568</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charoly Bolon">
+			<state></state>
+			<latitude>134766</latitude>
+			<longitude>-154068</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheken">
+			<state></state>
+			<latitude>136099</latitude>
+			<longitude>-150401</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cherna Musa">
+			<state></state>
+			<latitude>134266</latitude>
+			<longitude>-146401</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cherno Omar -- (State: Western)">
+			<state>Western</state>
+			<latitude>134657</latitude>
+			<longitude>-163298</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cungino Creek -- (State: Western)">
+			<state>Western</state>
+			<latitude>132538</latitude>
+			<longitude>-162007</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Kombo">
+			<state></state>
+			<latitude>132268</latitude>
+			<longitude>-165066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastern Jarra">
+			<state></state>
+			<latitude>134268</latitude>
+			<longitude>-152399</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastern Kiang">
+			<state></state>
+			<latitude>134268</latitude>
+			<longitude>-156232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastern Niamina">
+			<state></state>
+			<latitude>136434</latitude>
+			<longitude>-150732</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elephant Island">
+			<state></state>
+			<latitude>134601</latitude>
+			<longitude>-153232</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elitenda Bolon">
+			<state></state>
+			<latitude>135268</latitude>
+			<longitude>-155566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eloi -- (State: North Bank)">
+			<state>North Bank</state>
+			<latitude>132601</latitude>
+			<longitude>-162571</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Erangalain -- (State: Western)">
+			<state>Western</state>
+			<latitude>132168</latitude>
+			<longitude>-161368</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Essau -- (State: North Bank)">
+			<state>North Bank</state>
+			<latitude>134940</latitude>
+			<longitude>-165246</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fajara -- (State: Western)">
+			<state>Western</state>
+			<latitude>134802</latitude>
+			<longitude>-166862</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farafenni">
+			<state></state>
+			<latitude>135769</latitude>
+			<longitude>-155898</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fitu Wollof">
+			<state></state>
+			<latitude>136102</latitude>
+			<longitude>-146898</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fula">
+			<state></state>
+			<latitude>133602</latitude>
+			<longitude>-140065</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gadafaro">
+			<state></state>
+			<latitude>134103</latitude>
+			<longitude>-138897</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gambissara Jawo">
+			<state></state>
+			<latitude>132603</latitude>
+			<longitude>-142897</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gauwa">
+			<state></state>
+			<latitude>136103</latitude>
+			<longitude>-151397</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gembissara">
+			<state></state>
+			<latitude>133270</latitude>
+			<longitude>-139397</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Georgetown">
+			<state></state>
+			<latitude>135436</latitude>
+			<longitude>-147564</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Giffin">
+			<state></state>
+			<latitude>134270</latitude>
+			<longitude>-155730</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gikis Dandon -- (State: Western)">
+			<state>Western</state>
+			<latitude>131809</latitude>
+			<longitude>-160561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ginak Kajata -- (State: North Bank)">
+			<state>North Bank</state>
+			<latitude>135917</latitude>
+			<longitude>-165172</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ginak Niji -- (State: North Bank)">
+			<state>North Bank</state>
+			<latitude>135847</latitude>
+			<longitude>-165147</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gissay -- (State: Lower River)">
+			<state>Lower River</state>
+			<latitude>133211</latitude>
+			<longitude>-160780</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guine">
+			<state></state>
+			<latitude>50103</latitude>
+			<longitude>100103</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gunjur">
+			<state></state>
+			<latitude>136770</latitude>
+			<longitude>-150230</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gunjur -- (State: North Bank)">
+			<state>North Bank</state>
+			<latitude>135331</latitude>
+			<longitude>-160175</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gunjur -- (State: Western)">
+			<state>Western</state>
+			<latitude>131920</latitude>
+			<longitude>-167480</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gunjur Kuta">
+			<state></state>
+			<latitude>135436</latitude>
+			<longitude>-141064</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hai-Rewan">
+			<state></state>
+			<latitude>136604</latitude>
+			<longitude>-150729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamadalie">
+			<state></state>
+			<latitude>133937</latitude>
+			<longitude>-142563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamawda -- (State: Western)">
+			<state>Western</state>
+			<latitude>134987</latitude>
+			<longitude>-164004</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdalae -- (State: Western)">
+			<state>Western</state>
+			<latitude>132218</latitude>
+			<longitude>-164827</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdalae">
+			<state></state>
+			<latitude>135104</latitude>
+			<longitude>-149396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdalai">
+			<state></state>
+			<latitude>133937</latitude>
+			<longitude>-153563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdalai -- (State: North Bank)">
+			<state>North Bank</state>
+			<latitude>135735</latitude>
+			<longitude>-160121</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdalai -- (State: Western)">
+			<state>Western</state>
+			<latitude>134532</latitude>
+			<longitude>-162832</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamdalie">
+			<state></state>
+			<latitude>137937</latitude>
+			<longitude>-148563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hela Kunda">
+			<state></state>
+			<latitude>133104</latitude>
+			<longitude>-143563</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hela Kunda Forest Park">
+			<state></state>
+			<latitude>133104</latitude>
+			<longitude>-143396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herabeh Konoh">
+			<state></state>
+			<latitude>134937</latitude>
+			<longitude>-164229</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heramakono">
+			<state></state>
+			<latitude>134437</latitude>
+			<longitude>-138396</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hibra">
+			<state></state>
+			<latitude>137437</latitude>
+			<longitude>-153729</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoi">
+			<state></state>
+			<latitude>136771</latitude>
+			<longitude>-153896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Homa Bolon">
+			<state></state>
+			<latitude>136604</latitude>
+			<longitude>-148896</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horseshoe Bank">
+			<state></state>
+			<latitude>136271</latitude>
+			<longitude>-167063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hosnan">
+			<state></state>
+			<latitude>138104</latitude>
+			<longitude>-150063</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ibo Town -- (State: Western)">
+			<state>Western</state>
+			<latitude>134458</latitude>
+			<longitude>-166659</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ida">
+			<state></state>
+			<latitude>136772</latitude>
+			<longitude>-149228</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Illiassa">
+			<state></state>
+			<latitude>135772</latitude>
+			<longitude>-157395</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inkoroh Bolon">
+			<state></state>
+			<latitude>135105</latitude>
+			<longitude>-155562</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inoman">
+			<state></state>
+			<latitude>134438</latitude>
+			<longitude>-163395</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Island Creek -- (State: Western)">
+			<state>Western</state>
+			<latitude>134411</latitude>
+			<longitude>-166078</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanifing -- (State: Western)">
+			<state>Western</state>
+			<latitude>134571</latitude>
+			<longitude>-166637</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanifing">
+			<state></state>
+			<latitude>134607</latitude>
+			<longitude>-166560</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamin -- (State: Western)">
+			<state>Western</state>
+			<latitude>133630</latitude>
+			<longitude>-164231</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lamin Bolon -- (State: Western)">
+			<state>Western</state>
+			<latitude>134275</latitude>
+			<longitude>-166061</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lohen -- (State: Western)">
+			<state>Western</state>
+			<latitude>135547</latitude>
+			<longitude>-163534</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Njie Kunda">
+			<state></state>
+			<latitude>137610</latitude>
+			<longitude>-151390</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oberguinea">
+			<state></state>
+			<latitude>70111</latitude>
+			<longitude>-39889</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oceesay Kunday">
+			<state></state>
+			<latitude>137278</latitude>
+			<longitude>-151222</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Jeswang -- (State: Western)">
+			<state>Western</state>
+			<latitude>134697</latitude>
+			<longitude>-166522</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Kembuji">
+			<state></state>
+			<latitude>133111</latitude>
+			<longitude>-166056</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Yundum -- (State: Western)">
+			<state>Western</state>
+			<latitude>133736</latitude>
+			<longitude>-166750</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old-Busumbala -- (State: Western)">
+			<state>Western</state>
+			<latitude>133503</latitude>
+			<longitude>-166764</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omortoh -- (State: Western)">
+			<state>Western</state>
+			<latitude>131808</latitude>
+			<longitude>-165161</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouli">
+			<state></state>
+			<latitude>133778</latitude>
+			<longitude>-142722</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oyster Creek -- (State: Western)">
+			<state>Western</state>
+			<latitude>134780</latitude>
+			<longitude>-166186</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pakali Ba">
+			<state></state>
+			<latitude>135279</latitude>
+			<longitude>-152221</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramatulie">
+			<state></state>
+			<latitude>137781</latitude>
+			<longitude>-149719</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Benifet -- (State: Western)">
+			<state>Western</state>
+			<latitude>132681</latitude>
+			<longitude>-167761</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Gambi">
+			<state></state>
+			<latitude>134781</latitude>
+			<longitude>-165553</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Kakima">
+			<state></state>
+			<latitude>132422</latitude>
+			<longitude>-167730</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Kikima">
+			<state></state>
+			<latitude>132622</latitude>
+			<longitude>-167753</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Sando -- (State: Western)">
+			<state>Western</state>
+			<latitude>134731</latitude>
+			<longitude>-166983</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Tanji -- (State: Western)">
+			<state>Western</state>
+			<latitude>133700</latitude>
+			<longitude>-167886</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Runeru">
+			<state></state>
+			<latitude>136447</latitude>
+			<longitude>-145386</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Serrekunda -- (State: Western)">
+			<state>Western</state>
+			<latitude>134498</latitude>
+			<longitude>-166666</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sukuta">
+			<state></state>
+			<latitude>131948</latitude>
+			<longitude>-165718</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sukuta -- (State: Western)">
+			<state>Western</state>
+			<latitude>134229</latitude>
+			<longitude>-166974</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Talinding Kunjang -- (State: Western)">
+			<state>Western</state>
+			<latitude>134388</latitude>
+			<longitude>-166620</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanji -- (State: Western)">
+			<state>Western</state>
+			<latitude>133605</latitude>
+			<longitude>-167792</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanji Manjago -- (State: Western)">
+			<state>Western</state>
+			<latitude>133624</latitude>
+			<longitude>-167695</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upert -- (State: Western)">
+			<state>Western</state>
+			<latitude>131786</latitude>
+			<longitude>-162364</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Baddibu">
+			<state></state>
+			<latitude>135617</latitude>
+			<longitude>-156550</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Niumi District">
+			<state></state>
+			<latitude>134117</latitude>
+			<longitude>-163216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upper Saloum">
+			<state></state>
+			<latitude>137617</latitude>
+			<longitude>-151883</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vintang -- (State: Western)">
+			<state>Western</state>
+			<latitude>132615</latitude>
+			<longitude>-162024</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakilarr">
+			<state></state>
+			<latitude>135452</latitude>
+			<longitude>-145381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walalan">
+			<state></state>
+			<latitude>135952</latitude>
+			<longitude>-156714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wale Creek">
+			<state></state>
+			<latitude>134952</latitude>
+			<longitude>-154881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walli Kunda">
+			<state></state>
+			<latitude>135786</latitude>
+			<longitude>-149048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walliba Kunda">
+			<state></state>
+			<latitude>133786</latitude>
+			<longitude>-140048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wallikunda">
+			<state></state>
+			<latitude>135452</latitude>
+			<longitude>-139214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wassadun">
+			<state></state>
+			<latitude>132119</latitude>
+			<longitude>-158548</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wassadung Demba">
+			<state></state>
+			<latitude>133119</latitude>
+			<longitude>-144381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wassu Bolon">
+			<state></state>
+			<latitude>136952</latitude>
+			<longitude>-148714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wayahon">
+			<state></state>
+			<latitude>135786</latitude>
+			<longitude>-159381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Welingara -- (State: Western)">
+			<state>Western</state>
+			<latitude>134155</latitude>
+			<longitude>-166617</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara">
+			<state></state>
+			<latitude>136452</latitude>
+			<longitude>-150214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara -- (State: North Bank)">
+			<state>North Bank</state>
+			<latitude>135963</latitude>
+			<longitude>-159978</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara Adama">
+			<state></state>
+			<latitude>134619</latitude>
+			<longitude>-148714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara Alhaji Alpha">
+			<state></state>
+			<latitude>137452</latitude>
+			<longitude>-151048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara Bubacarr Bah">
+			<state></state>
+			<latitude>137452</latitude>
+			<longitude>-151381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara Ello">
+			<state></state>
+			<latitude>135952</latitude>
+			<longitude>-153048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara Galo">
+			<state></state>
+			<latitude>134619</latitude>
+			<longitude>-147714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara Mansal">
+			<state></state>
+			<latitude>132619</latitude>
+			<longitude>-143548</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara Momodou">
+			<state></state>
+			<latitude>136119</latitude>
+			<longitude>-152214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara Nding">
+			<state></state>
+			<latitude>134619</latitude>
+			<longitude>-154381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wellingara Yoro">
+			<state></state>
+			<latitude>135119</latitude>
+			<longitude>-147881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wessedung">
+			<state></state>
+			<latitude>132119</latitude>
+			<longitude>-159048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Western Jarra">
+			<state></state>
+			<latitude>134286</latitude>
+			<longitude>-155214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Western Niamina">
+			<state></state>
+			<latitude>135952</latitude>
+			<longitude>-152381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Western Ridges">
+			<state></state>
+			<latitude>135286</latitude>
+			<longitude>-166381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willingara">
+			<state></state>
+			<latitude>133952</latitude>
+			<longitude>-155381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willingara Kejaw">
+			<state></state>
+			<latitude>135619</latitude>
+			<longitude>-149214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willingara Samba Tako">
+			<state></state>
+			<latitude>133119</latitude>
+			<longitude>-141881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wirdeba">
+			<state></state>
+			<latitude>133286</latitude>
+			<longitude>-158048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woi Buray">
+			<state></state>
+			<latitude>137119</latitude>
+			<longitude>-148048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wulem Kunda">
+			<state></state>
+			<latitude>133619</latitude>
+			<longitude>-144548</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuli">
+			<state></state>
+			<latitude>135119</latitude>
+			<longitude>-140714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wulumisa -- (State: Western)">
+			<state>Western</state>
+			<latitude>134286</latitude>
+			<longitude>-161048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wurambang Bolon -- (State: Western)">
+			<state>Western</state>
+			<latitude>133022</latitude>
+			<longitude>-160992</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wurokang">
+			<state></state>
+			<latitude>133952</latitude>
+			<longitude>-158048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xa-ai Islands">
+			<state></state>
+			<latitude>135620</latitude>
+			<longitude>-148713</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yallal">
+			<state></state>
+			<latitude>134121</latitude>
+			<longitude>-155379</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yallal Ba">
+			<state></state>
+			<latitude>135954</latitude>
+			<longitude>-155546</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yallol">
+			<state></state>
+			<latitude>135621</latitude>
+			<longitude>-156879</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamadu">
+			<state></state>
+			<latitude>134288</latitude>
+			<longitude>-141212</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarobawal">
+			<state></state>
+			<latitude>134454</latitude>
+			<longitude>-142046</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarry Njoffa">
+			<state></state>
+			<latitude>132954</latitude>
+			<longitude>-143712</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yolof -- (State: Western)">
+			<state>Western</state>
+			<latitude>133621</latitude>
+			<longitude>-163262</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yonah">
+			<state></state>
+			<latitude>135454</latitude>
+			<longitude>-146712</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yora Jula">
+			<state></state>
+			<latitude>134288</latitude>
+			<longitude>-156546</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoro Beri Kunda">
+			<state></state>
+			<latitude>135121</latitude>
+			<longitude>-147379</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoro Cheke">
+			<state></state>
+			<latitude>132621</latitude>
+			<longitude>-141879</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoro Ya">
+			<state></state>
+			<latitude>136454</latitude>
+			<longitude>-152712</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuna">
+			<state></state>
+			<latitude>135954</latitude>
+			<longitude>-156879</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

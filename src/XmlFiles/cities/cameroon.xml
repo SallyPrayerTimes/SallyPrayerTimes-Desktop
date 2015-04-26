@@ -1,0 +1,355 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Cameroon">
+		<city name="Bamenda -- (State: Nord-Ouest)">
+			<state>Nord-Ouest</state>
+			<latitude>59431</latitude>
+			<longitude>101765</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bamenda Division">
+			<state></state>
+			<latitude>60098</latitude>
+			<longitude>104265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beka">
+			<state></state>
+			<latitude>90765</latitude>
+			<longitude>128931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bertoua -- (State: Est)">
+			<state>Est</state>
+			<latitude>45931</latitude>
+			<longitude>136931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dang">
+			<state></state>
+			<latitude>47600</latitude>
+			<longitude>112433</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dang-Haoussa">
+			<state></state>
+			<latitude>59100</latitude>
+			<longitude>135100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danga">
+			<state></state>
+			<latitude>68767</latitude>
+			<longitude>96767</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dangabissi">
+			<state></state>
+			<latitude>101600</latitude>
+			<longitude>153267</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dangala">
+			<state></state>
+			<latitude>58600</latitude>
+			<longitude>114100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dangeli">
+			<state></state>
+			<latitude>50267</latitude>
+			<longitude>138933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dangue">
+			<state></state>
+			<latitude>50767</latitude>
+			<longitude>140100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danguerchem">
+			<state></state>
+			<latitude>119600</latitude>
+			<longitude>149600</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danguere">
+			<state></state>
+			<latitude>91100</latitude>
+			<longitude>138767</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Douala -- (State: Littoral)">
+			<state>Littoral</state>
+			<latitude>40603</latitude>
+			<longitude>97100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Douala">
+			<state></state>
+			<latitude>70267</latitude>
+			<longitude>126767</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garoua -- (State: Nord)">
+			<state>Nord</state>
+			<latitude>93103</latitude>
+			<longitude>134103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garoua">
+			<state></state>
+			<latitude>51436</latitude>
+			<longitude>140103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamba">
+			<state></state>
+			<latitude>86273</latitude>
+			<longitude>128106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jede">
+			<state></state>
+			<latitude>23106</latitude>
+			<longitude>123273</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jessom">
+			<state></state>
+			<latitude>53439</latitude>
+			<longitude>113439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiiti">
+			<state></state>
+			<latitude>43439</latitude>
+			<longitude>139439</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jongbi">
+			<state></state>
+			<latitude>66939</latitude>
+			<longitude>126606</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juyi">
+			<state></state>
+			<latitude>64106</latitude>
+			<longitude>143939</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kousseri -- (State: Extreme-Nord)">
+			<state>Extreme-Nord</state>
+			<latitude>120890</latitude>
+			<longitude>150415</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kumbo">
+			<state></state>
+			<latitude>64274</latitude>
+			<longitude>147440</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kumbo -- (State: Nord-Ouest)">
+			<state>Nord-Ouest</state>
+			<latitude>62107</latitude>
+			<longitude>106774</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limbe -- (State: Sud-Ouest)">
+			<state>Sud-Ouest</state>
+			<latitude>40236</latitude>
+			<longitude>92311</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maroua">
+			<state></state>
+			<latitude>51609</latitude>
+			<longitude>124609</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maroua -- (State: Extreme-Nord)">
+			<state>Extreme-Nord</state>
+			<latitude>106065</latitude>
+			<longitude>143356</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngaoundere -- (State: Adamaoua)">
+			<state>Adamaoua</state>
+			<latitude>73277</latitude>
+			<longitude>135943</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoko">
+			<state></state>
+			<latitude>69446</latitude>
+			<longitude>146280</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tibati -- (State: Adamaoua)">
+			<state>Adamaoua</state>
+			<latitude>64783</latitude>
+			<longitude>126449</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ualo">
+			<state></state>
+			<latitude>44950</latitude>
+			<longitude>142784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubao">
+			<state></state>
+			<latitude>87950</latitude>
+			<longitude>137450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uben Ikang">
+			<state></state>
+			<latitude>43950</latitude>
+			<longitude>89117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udu">
+			<state></state>
+			<latitude>48450</latitude>
+			<longitude>142617</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udum-Jarei">
+			<state></state>
+			<latitude>107950</latitude>
+			<longitude>139617</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uem">
+			<state></state>
+			<latitude>41117</latitude>
+			<longitude>104450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uibiwa">
+			<state></state>
+			<latitude>99784</latitude>
+			<longitude>148784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukono">
+			<state></state>
+			<latitude>25950</latitude>
+			<longitude>98450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Undo">
+			<state></state>
+			<latitude>41284</latitude>
+			<longitude>143284</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uo">
+			<state></state>
+			<latitude>26950</latitude>
+			<longitude>118950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uombe">
+			<state></state>
+			<latitude>35617</latitude>
+			<longitude>148950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uro Mali">
+			<state></state>
+			<latitude>84784</latitude>
+			<longitude>125950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usulabot">
+			<state></state>
+			<latitude>27450</latitude>
+			<longitude>139784</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utoandulon">
+			<state></state>
+			<latitude>46950</latitude>
+			<longitude>86450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uven Creek">
+			<state></state>
+			<latitude>47117</latitude>
+			<longitude>86450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vema">
+			<state></state>
+			<latitude>42118</latitude>
+			<longitude>114618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vuchaba">
+			<state></state>
+			<latitude>52285</latitude>
+			<longitude>130951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaounde -- (State: Centre)">
+			<state>Centre</state>
+			<latitude>38788</latitude>
+			<longitude>115288</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

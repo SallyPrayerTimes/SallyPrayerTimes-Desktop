@@ -1,0 +1,859 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Luxembourg">
+		<city name="Abweiler -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495433</latitude>
+			<longitude>60905</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bertrange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496209</latitude>
+			<longitude>60598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Calmus -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>497355</latitude>
+			<longitude>59743</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chateau">
+			<state></state>
+			<latitude>499432</latitude>
+			<longitude>62266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clervaux -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>500646</latitude>
+			<longitude>60413</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Colmarburg -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>498266</latitude>
+			<longitude>61099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dudelange">
+			<state></state>
+			<latitude>495267</latitude>
+			<longitude>61100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dudelange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495100</latitude>
+			<longitude>60933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dudelange-Usines">
+			<state></state>
+			<latitude>494600</latitude>
+			<longitude>61100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Echternach -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>497601</latitude>
+			<longitude>64268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Esch-sur-Alzette -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495059</latitude>
+			<longitude>59907</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fentange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495730</latitude>
+			<longitude>61641</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Grof -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498906</latitude>
+			<longitude>62322</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ihnen -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>496102</latitude>
+			<longitude>63983</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imbringen -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>497080</latitude>
+			<longitude>62080</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ingeldord -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498624</latitude>
+			<longitude>61452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Insenborn -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499122</latitude>
+			<longitude>58952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Irbich -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>500274</latitude>
+			<longitude>60208</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ischspelt -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499611</latitude>
+			<longitude>58066</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Italie -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>494849</latitude>
+			<longitude>60899</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itzig -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495947</latitude>
+			<longitude>61841</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jakobsberg -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>497589</latitude>
+			<longitude>63937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeanharishof -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>497473</latitude>
+			<longitude>62750</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jenkenhof -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>497653</latitude>
+			<longitude>58750</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jockesmuhle">
+			<state></state>
+			<latitude>497273</latitude>
+			<longitude>63773</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joupicht -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499831</latitude>
+			<longitude>60328</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juckelbusch -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496578</latitude>
+			<longitude>60570</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jungelshof">
+			<state></state>
+			<latitude>498939</latitude>
+			<longitude>62106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jungenbusch">
+			<state></state>
+			<latitude>496439</latitude>
+			<longitude>59939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jungenbuschhof -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498550</latitude>
+			<longitude>61717</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Junglinster -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>497178</latitude>
+			<longitude>62637</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luxembourg">
+			<state></state>
+			<latitude>496225</latitude>
+			<longitude>61408</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niederdonven -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>496424</latitude>
+			<longitude>64146</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noertzange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495202</latitude>
+			<longitude>60671</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obercorn -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495247</latitude>
+			<longitude>59072</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obereisenbach -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>500183</latitude>
+			<longitude>61578</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oberschieren">
+			<state></state>
+			<latitude>498444</latitude>
+			<longitude>61111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oberstenwald">
+			<state></state>
+			<latitude>501278</latitude>
+			<longitude>60611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oberwampach -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>500278</latitude>
+			<longitude>58719</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oetrange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496075</latitude>
+			<longitude>62711</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olingerbarriere -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>496794</latitude>
+			<longitude>63414</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paffenmuhle -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>501184</latitude>
+			<longitude>60190</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pall">
+			<state></state>
+			<latitude>497809</latitude>
+			<longitude>59293</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peckelshaff -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498254</latitude>
+			<longitude>60212</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peppange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495356</latitude>
+			<longitude>61409</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Perle -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498229</latitude>
+			<longitude>57770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495612</latitude>
+			<longitude>58945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petit Bourghof -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>498248</latitude>
+			<longitude>61481</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petit-Nobressart -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>497909</latitude>
+			<longitude>58206</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Petite Suisse">
+			<state></state>
+			<latitude>498445</latitude>
+			<longitude>63445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pfaffenthal">
+			<state></state>
+			<latitude>496279</latitude>
+			<longitude>61445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pfaffenthal-les-Tadler">
+			<state></state>
+			<latitude>499279</latitude>
+			<longitude>60112</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pfennberg -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>500240</latitude>
+			<longitude>61026</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pintsch Bach -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499945</latitude>
+			<longitude>60245</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pissange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495606</latitude>
+			<longitude>60115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pittange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>497815</latitude>
+			<longitude>61204</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plankenhof -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>497334</latitude>
+			<longitude>61962</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Platen -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498023</latitude>
+			<longitude>59459</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pleitringerhof -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496009</latitude>
+			<longitude>62918</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pontpierre -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495476</latitude>
+			<longitude>60406</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Portershof -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498512</latitude>
+			<longitude>60676</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Potaschhof -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>496845</latitude>
+			<longitude>64120</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poull -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499609</latitude>
+			<longitude>61509</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pratz -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498129</latitude>
+			<longitude>59504</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prettange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>497287</latitude>
+			<longitude>61315</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pulvermuhle">
+			<state></state>
+			<latitude>496279</latitude>
+			<longitude>61779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Putscheid -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499720</latitude>
+			<longitude>61543</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rippig -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>497456</latitude>
+			<longitude>63308</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rumelange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495114</latitude>
+			<longitude>60114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Senningen -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496534</latitude>
+			<longitude>62509</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soleuvre -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495371</latitude>
+			<longitude>59521</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Strassen -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496321</latitude>
+			<longitude>60848</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tadler -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499230</latitude>
+			<longitude>60072</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tandel -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499091</latitude>
+			<longitude>61949</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tattebourg -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>494922</latitude>
+			<longitude>60899</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tetange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>494874</latitude>
+			<longitude>60538</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tetelbierg -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495519</latitude>
+			<longitude>58713</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="The Herrenberg -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498899</latitude>
+			<longitude>61805</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thillen">
+			<state></state>
+			<latitude>497116</latitude>
+			<longitude>64449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tintesmillen -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>501063</latitude>
+			<longitude>61391</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tockmuhle">
+			<state></state>
+			<latitude>499283</latitude>
+			<longitude>57949</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tomm -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499060</latitude>
+			<longitude>61752</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Toussaints Millen -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495110</latitude>
+			<longitude>60641</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Toussaintsmuhle -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496508</latitude>
+			<longitude>60599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trentelhof -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499719</latitude>
+			<longitude>58724</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trintange -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>495674</latitude>
+			<longitude>63141</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Troine -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>500760</latitude>
+			<longitude>58947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Troisvierges -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>501327</latitude>
+			<longitude>60119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tubishof -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495949</latitude>
+			<longitude>61272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tuntingen -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>497294</latitude>
+			<longitude>60219</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uebersyren -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496403</latitude>
+			<longitude>62898</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Untereisenbach -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>500134</latitude>
+			<longitude>61573</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unterstenbusch -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>497953</latitude>
+			<longitude>58414</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursterhof -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495553</latitude>
+			<longitude>59673</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Useldange -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>497814</latitude>
+			<longitude>59939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vesquehof -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>495229</latitude>
+			<longitude>58857</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vianden -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499468</latitude>
+			<longitude>62207</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vichten -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>498149</latitude>
+			<longitude>60118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vogelsmuhl -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>498271</latitude>
+			<longitude>63393</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walferdange -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496702</latitude>
+			<longitude>61491</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walsdorf -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499386</latitude>
+			<longitude>61855</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walter -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499561</latitude>
+			<longitude>57977</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wangert">
+			<state></state>
+			<latitude>498119</latitude>
+			<longitude>58786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wasserbillig -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>497219</latitude>
+			<longitude>65122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weberhof">
+			<state></state>
+			<latitude>498286</latitude>
+			<longitude>62619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weiler-les-Putscheid -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499755</latitude>
+			<longitude>61361</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weilerbach -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>498452</latitude>
+			<longitude>63947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weileschbach">
+			<state></state>
+			<latitude>498786</latitude>
+			<longitude>62286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Welfrange -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>495500</latitude>
+			<longitude>62961</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wellenstein -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>495358</latitude>
+			<longitude>63541</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wemperhaard -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>501675</latitude>
+			<longitude>60652</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weydig -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>497233</latitude>
+			<longitude>63422</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weyerbaach">
+			<state></state>
+			<latitude>501452</latitude>
+			<longitude>59952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wickelscheid">
+			<state></state>
+			<latitude>497619</latitude>
+			<longitude>62119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilmeshof">
+			<state></state>
+			<latitude>498619</latitude>
+			<longitude>61286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiltgeshof -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499505</latitude>
+			<longitude>61680</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiltz -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499286</latitude>
+			<longitude>59286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilz -- (State: Diekirch)">
+			<state>Diekirch</state>
+			<latitude>499808</latitude>
+			<longitude>59438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wimerskirch -- (State: Luxembourg)">
+			<state>Luxembourg</state>
+			<latitude>496355</latitude>
+			<longitude>61483</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wolfsmuhle">
+			<state></state>
+			<latitude>496286</latitude>
+			<longitude>62452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wolper -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>497697</latitude>
+			<longitude>63652</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wormeldange -- (State: Grevenmacher)">
+			<state>Grevenmacher</state>
+			<latitude>496202</latitude>
+			<longitude>64177</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,2679 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Algeria">
+		<city name="3 Marabouts -- (State: Ain Temouchent)">
+			<state>Ain Temouchent</state>
+			<latitude>353101</latitude>
+			<longitude>-11749</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aad La Macta -- (State: Oran)">
+			<state>Oran</state>
+			<latitude>357891</latitude>
+			<longitude>-1195</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abadla">
+			<state></state>
+			<latitude>310264</latitude>
+			<longitude>-27236</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adrar">
+			<state></state>
+			<latitude>279097</latitude>
+			<longitude>-2736</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aflou -- (State: Laghouat)">
+			<state>Laghouat</state>
+			<latitude>341186</latitude>
+			<longitude>21116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aflou Northeast -- (State: Laghouat)">
+			<state>Laghouat</state>
+			<latitude>341519</latitude>
+			<longitude>21539</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Aroussa">
+			<state></state>
+			<latitude>356597</latitude>
+			<longitude>12264</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Azel -- (State: Setif)">
+			<state>Setif</state>
+			<latitude>358314</latitude>
+			<longitude>55244</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Beida -- (State: Oum el Bouaghi)">
+			<state>Oum el Bouaghi</state>
+			<latitude>358061</latitude>
+			<longitude>74025</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Beida Oeb">
+			<state></state>
+			<latitude>358097</latitude>
+			<longitude>73930</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Bessem -- (State: Medea)">
+			<state>Medea</state>
+			<latitude>363030</latitude>
+			<longitude>36805</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Defla">
+			<state></state>
+			<latitude>362778</latitude>
+			<longitude>19772</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain el Bia -- (State: Oran)">
+			<state>Oran</state>
+			<latitude>358228</latitude>
+			<longitude>-2709</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Fakroun -- (State: Oum el Bouaghi)">
+			<state>Oum el Bouaghi</state>
+			<latitude>359861</latitude>
+			<longitude>68853</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain M Lila -- (State: Oum el Bouaghi)">
+			<state>Oum el Bouaghi</state>
+			<latitude>360466</latitude>
+			<longitude>65855</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Oulmene -- (State: Setif)">
+			<state>Setif</state>
+			<latitude>359328</latitude>
+			<longitude>53030</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Oulmene -- (State: Oum el Bouaghi)">
+			<state>Oum el Bouaghi</state>
+			<latitude>357519</latitude>
+			<longitude>74430</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Oussera -- (State: Djelfa)">
+			<state>Djelfa</state>
+			<latitude>355336</latitude>
+			<longitude>28903</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Salah">
+			<state></state>
+			<latitude>275097</latitude>
+			<longitude>30097</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Sefra">
+			<state></state>
+			<latitude>327597</latitude>
+			<longitude>-5736</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Taya -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>368030</latitude>
+			<longitude>32966</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Temonchent -- (State: Ain Temouchent)">
+			<state>Ain Temouchent</state>
+			<latitude>353047</latitude>
+			<longitude>-11278</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Temouchent">
+			<state></state>
+			<latitude>353222</latitude>
+			<longitude>-11356</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ain Touta -- (State: Batna)">
+			<state>Batna</state>
+			<latitude>353864</latitude>
+			<longitude>59058</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akbou -- (State: Bejaia)">
+			<state>Bejaia</state>
+			<latitude>364708</latitude>
+			<longitude>45430</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alger Dar el Beida -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367016</latitude>
+			<longitude>32275</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alger Plage">
+			<state></state>
+			<latitude>368097</latitude>
+			<longitude>32430</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alger-Sahal">
+			<state></state>
+			<latitude>367597</latitude>
+			<longitude>30097</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Algeria">
+			<state></state>
+			<latitude>280097</latitude>
+			<longitude>30097</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Algiers">
+			<state></state>
+			<latitude>367930</latitude>
+			<longitude>30597</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Algiers -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367728</latitude>
+			<longitude>30603</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Algiers Bay -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367930</latitude>
+			<longitude>31597</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ammi Moussa -- (State: Relizane)">
+			<state>Relizane</state>
+			<latitude>358778</latitude>
+			<longitude>11178</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Annaba -- (State: Skikda)">
+			<state>Skikda</state>
+			<latitude>369097</latitude>
+			<longitude>77764</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Annaba">
+			<state></state>
+			<latitude>369172</latitude>
+			<longitude>77669</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aoulef">
+			<state></state>
+			<latitude>269764</latitude>
+			<longitude>10930</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aoulef Arab">
+			<state></state>
+			<latitude>269597</latitude>
+			<longitude>10930</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arzew">
+			<state></state>
+			<latitude>358764</latitude>
+			<longitude>-3236</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arzew -- (State: Oran)">
+			<state>Oran</state>
+			<latitude>358614</latitude>
+			<longitude>-3117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Azazga -- (State: Tizi Ouzou)">
+			<state>Tizi Ouzou</state>
+			<latitude>367544</latitude>
+			<longitude>43819</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Azzaba -- (State: Constantine)">
+			<state>Constantine</state>
+			<latitude>367491</latitude>
+			<longitude>71150</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bab el Oued">
+			<state></state>
+			<latitude>368098</latitude>
+			<longitude>30598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bab Ezzouar">
+			<state></state>
+			<latitude>367265</latitude>
+			<longitude>31931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baraki -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>366790</latitude>
+			<longitude>31051</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barika -- (State: Batna)">
+			<state>Batna</state>
+			<latitude>353995</latitude>
+			<longitude>53865</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Batna">
+			<state></state>
+			<latitude>355545</latitude>
+			<longitude>61695</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bechar">
+			<state></state>
+			<latitude>316265</latitude>
+			<longitude>-22069</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bechar-Djedid -- (State: Bechar)">
+			<state>Bechar</state>
+			<latitude>315709</latitude>
+			<longitude>-22302</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bechloul">
+			<state></state>
+			<latitude>363265</latitude>
+			<longitude>40765</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bejaia">
+			<state></state>
+			<latitude>367598</latitude>
+			<longitude>50931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beni Abbes">
+			<state></state>
+			<latitude>301431</latitude>
+			<longitude>-21569</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beni Amrane">
+			<state></state>
+			<latitude>366765</latitude>
+			<longitude>35931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beni Saf -- (State: Tlemcen)">
+			<state>Tlemcen</state>
+			<latitude>351940</latitude>
+			<longitude>-14246</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Berriane">
+			<state></state>
+			<latitude>328431</latitude>
+			<longitude>37765</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Berrouaghia -- (State: Medea)">
+			<state>Medea</state>
+			<latitude>361465</latitude>
+			<longitude>29229</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bethioua -- (State: Oran)">
+			<state>Oran</state>
+			<latitude>358123</latitude>
+			<longitude>-2513</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bir el Ater">
+			<state></state>
+			<latitude>347431</latitude>
+			<longitude>80598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bir er Reba">
+			<state></state>
+			<latitude>348098</latitude>
+			<longitude>81265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bir Rebaa">
+			<state></state>
+			<latitude>313431</latitude>
+			<longitude>85265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Biskra">
+			<state></state>
+			<latitude>348598</latitude>
+			<longitude>57431</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Blida">
+			<state></state>
+			<latitude>364784</latitude>
+			<longitude>28387</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Blida Atlas">
+			<state></state>
+			<latitude>364265</latitude>
+			<longitude>30098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boghni -- (State: Tizi Ouzou)">
+			<state>Tizi Ouzou</state>
+			<latitude>365520</latitude>
+			<longitude>39629</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bonzarea">
+			<state></state>
+			<latitude>367931</latitude>
+			<longitude>30265</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bordj Bou Arerridj -- (State: Bordj Bou Arreridj)">
+			<state>Bordj Bou Arreridj</state>
+			<latitude>360848</latitude>
+			<longitude>47848</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bordj Menaiel -- (State: Boumerdes)">
+			<state>Boumerdes</state>
+			<latitude>367515</latitude>
+			<longitude>37329</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bou Ismail -- (State: Tipaza)">
+			<state>Tipaza</state>
+			<latitude>366526</latitude>
+			<longitude>27062</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bou Ismail -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>368123</latitude>
+			<longitude>29292</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bou Kadir -- (State: Chlef)">
+			<state>Chlef</state>
+			<latitude>360737</latitude>
+			<longitude>11384</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bou Saada -- (State: M sila)">
+			<state>M sila</state>
+			<latitude>352240</latitude>
+			<longitude>41923</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bou Saada">
+			<state></state>
+			<latitude>367765</latitude>
+			<longitude>45931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bou Zadjar">
+			<state></state>
+			<latitude>355931</latitude>
+			<longitude>-11402</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boudouaou -- (State: Boumerdes)">
+			<state>Boumerdes</state>
+			<latitude>367404</latitude>
+			<longitude>34201</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boufarik -- (State: Blida)">
+			<state>Blida</state>
+			<latitude>365804</latitude>
+			<longitude>29206</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bougtob">
+			<state></state>
+			<latitude>340431</latitude>
+			<longitude>931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bouira">
+			<state></state>
+			<latitude>363898</latitude>
+			<longitude>39112</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boumerdas -- (State: Boumerdes)">
+			<state>Boumerdes</state>
+			<latitude>367765</latitude>
+			<longitude>34870</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chelghoum el Aid -- (State: Constantine)">
+			<state>Constantine</state>
+			<latitude>361693</latitude>
+			<longitude>61749</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cheraga -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367768</latitude>
+			<longitude>29710</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cherchell -- (State: Ain Defla)">
+			<state>Ain Defla</state>
+			<latitude>366149</latitude>
+			<longitude>22007</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chlef">
+			<state></state>
+			<latitude>361746</latitude>
+			<longitude>13446</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chott -- (State: Ouargla)">
+			<state>Ouargla</state>
+			<latitude>319643</latitude>
+			<longitude>53991</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Collo -- (State: Skikda)">
+			<state>Skikda</state>
+			<latitude>370157</latitude>
+			<longitude>65824</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Commune d El Khroub">
+			<state></state>
+			<latitude>362766</latitude>
+			<longitude>67099</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Commune de Bouati Mahmoud">
+			<state></state>
+			<latitude>365932</latitude>
+			<longitude>73432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Commune de Constantine">
+			<state></state>
+			<latitude>363766</latitude>
+			<longitude>66266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Constantine">
+			<state></state>
+			<latitude>363749</latitude>
+			<longitude>66246</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Constantine Ain el Bey -- (State: Constantine)">
+			<state>Constantine</state>
+			<latitude>362880</latitude>
+			<longitude>66305</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crampel -- (State: Sidi Bel Abbes)">
+			<state>Sidi Bel Abbes</state>
+			<latitude>344346</latitude>
+			<longitude>-7962</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dar Chioukh">
+			<state></state>
+			<latitude>349100</latitude>
+			<longitude>34933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dar el Beida -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367233</latitude>
+			<longitude>32225</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Debila">
+			<state></state>
+			<latitude>335267</latitude>
+			<longitude>69600</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dellys -- (State: Boumerdes)">
+			<state>Boumerdes</state>
+			<latitude>369286</latitude>
+			<longitude>38978</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djamaa">
+			<state></state>
+			<latitude>335433</latitude>
+			<longitude>60100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djebel en Nettah">
+			<state></state>
+			<latitude>346100</latitude>
+			<longitude>41267</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djedir Sidi Khalifa">
+			<state></state>
+			<latitude>341767</latitude>
+			<longitude>100</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djelfa">
+			<state></state>
+			<latitude>346767</latitude>
+			<longitude>32600</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Djelfaoun">
+			<state></state>
+			<latitude>354600</latitude>
+			<longitude>64600</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Drean -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>366939</latitude>
+			<longitude>77564</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eddis -- (State: M sila)">
+			<state>M sila</state>
+			<latitude>353101</latitude>
+			<longitude>41768</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Agreb">
+			<state></state>
+			<latitude>308101</latitude>
+			<longitude>55101</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Attaf -- (State: Ain Defla)">
+			<state>Ain Defla</state>
+			<latitude>362348</latitude>
+			<longitude>16829</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Bayadh">
+			<state></state>
+			<latitude>336962</latitude>
+			<longitude>10240</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Eulma -- (State: Setif)">
+			<state>Setif</state>
+			<latitude>361601</latitude>
+			<longitude>56934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Golea">
+			<state></state>
+			<latitude>305768</latitude>
+			<longitude>28934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Golea -- (State: Medea)">
+			<state>Medea</state>
+			<latitude>362295</latitude>
+			<longitude>27826</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Hadjira -- (State: Ouargla)">
+			<state>Ouargla</state>
+			<latitude>326262</latitude>
+			<longitude>55182</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Hamel -- (State: M sila)">
+			<state>M sila</state>
+			<latitude>351409</latitude>
+			<longitude>40959</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Haouita">
+			<state></state>
+			<latitude>336601</latitude>
+			<longitude>24601</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Haouita -- (State: Naama)">
+			<state>Naama</state>
+			<latitude>342184</latitude>
+			<longitude>-5885</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Harrach -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367304</latitude>
+			<longitude>31551</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Meghaier">
+			<state></state>
+			<latitude>339601</latitude>
+			<longitude>59434</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Menia">
+			<state></state>
+			<latitude>331601</latitude>
+			<longitude>20934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Milia -- (State: Jijel)">
+			<state>Jijel</state>
+			<latitude>367648</latitude>
+			<longitude>62826</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Milia -- (State: Constantine)">
+			<state>Constantine</state>
+			<latitude>363784</latitude>
+			<longitude>66062</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Oued">
+			<state></state>
+			<latitude>333434</latitude>
+			<longitude>68934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Oued -- (State: Boumerdes)">
+			<state>Boumerdes</state>
+			<latitude>368284</latitude>
+			<longitude>37634</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Oued Berda -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>366601</latitude>
+			<longitude>75934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Ouededrat">
+			<state></state>
+			<latitude>342768</latitude>
+			<longitude>32934</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="El Tarf -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>367787</latitude>
+			<longitude>83268</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emir Abdelkader">
+			<state></state>
+			<latitude>367601</latitude>
+			<longitude>58601</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="F krina -- (State: Oum el Bouaghi)">
+			<state>Oum el Bouaghi</state>
+			<latitude>356746</latitude>
+			<longitude>73180</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fatis">
+			<state></state>
+			<latitude>297435</latitude>
+			<longitude>6602</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filaoussene">
+			<state></state>
+			<latitude>350269</latitude>
+			<longitude>-16065</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fleurus -- (State: Oran)">
+			<state>Oran</state>
+			<latitude>357213</latitude>
+			<longitude>-4317</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fliki">
+			<state></state>
+			<latitude>367102</latitude>
+			<longitude>43769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fouka -- (State: Tipaza)">
+			<state>Tipaza</state>
+			<latitude>366713</latitude>
+			<longitude>27524</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frenda -- (State: Tiaret)">
+			<state>Tiaret</state>
+			<latitude>350721</latitude>
+			<longitude>10524</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gassi Touil">
+			<state></state>
+			<latitude>300103</latitude>
+			<longitude>65103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghardaia">
+			<state></state>
+			<latitude>324936</latitude>
+			<longitude>36770</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghazaouet -- (State: Tlemcen)">
+			<state>Tlemcen</state>
+			<latitude>351103</latitude>
+			<longitude>-18397</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ghriss -- (State: Mascara)">
+			<state>Mascara</state>
+			<latitude>352250</latitude>
+			<longitude>1556</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grarem -- (State: Mila)">
+			<state>Mila</state>
+			<latitude>365264</latitude>
+			<longitude>63375</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guelma -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>364764</latitude>
+			<longitude>74442</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guelma Belkheir -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>364636</latitude>
+			<longitude>74809</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guemar">
+			<state></state>
+			<latitude>334936</latitude>
+			<longitude>68103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guenzet -- (State: Bordj Bou Arreridj)">
+			<state>Bordj Bou Arreridj</state>
+			<latitude>363289</latitude>
+			<longitude>48492</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Guerrara">
+			<state></state>
+			<latitude>328103</latitude>
+			<longitude>45103</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadjout -- (State: Tipaza)">
+			<state>Tipaza</state>
+			<latitude>365243</latitude>
+			<longitude>24282</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hammam Bou Hadjar -- (State: Ain Temouchent)">
+			<state>Ain Temouchent</state>
+			<latitude>353893</latitude>
+			<longitude>-9574</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hammam Dalaa">
+			<state></state>
+			<latitude>359396</latitude>
+			<longitude>43896</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi Bahbah">
+			<state></state>
+			<latitude>350768</latitude>
+			<longitude>30437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi Berkane">
+			<state></state>
+			<latitude>310937</latitude>
+			<longitude>45437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi el Gassi">
+			<state></state>
+			<latitude>307604</latitude>
+			<longitude>60604</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi Khelifa">
+			<state></state>
+			<latitude>335937</latitude>
+			<longitude>70104</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi Messaad">
+			<state></state>
+			<latitude>349937</latitude>
+			<longitude>41937</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi Messaoud -- (State: Ouargla)">
+			<state>Ouargla</state>
+			<latitude>316929</latitude>
+			<longitude>60948</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi Messaoud">
+			<state></state>
+			<latitude>345937</latitude>
+			<longitude>42104</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi Messaoud Ben el Abed">
+			<state></state>
+			<latitude>322604</latitude>
+			<longitude>30937</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi R mel">
+			<state></state>
+			<latitude>329271</latitude>
+			<longitude>32771</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hassi Tidjerane -- (State: El Bayadh)">
+			<state>El Bayadh</state>
+			<latitude>308771</latitude>
+			<longitude>5104</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hussein Dey -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367448</latitude>
+			<longitude>31165</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="I-n-Salah">
+			<state></state>
+			<latitude>271605</latitude>
+			<longitude>25105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Illizi">
+			<state></state>
+			<latitude>264938</latitude>
+			<longitude>84772</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="In Amenas">
+			<state></state>
+			<latitude>281772</latitude>
+			<longitude>95105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="In Anenas -- (State: Illizi)">
+			<state>Illizi</state>
+			<latitude>280605</latitude>
+			<longitude>95605</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jijel">
+			<state></state>
+			<latitude>368106</latitude>
+			<longitude>57773</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kadiria -- (State: Tizi Ouzou)">
+			<state>Tizi Ouzou</state>
+			<latitude>365451</latitude>
+			<longitude>36935</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kais -- (State: Khenchela)">
+			<state>Khenchela</state>
+			<latitude>355038</latitude>
+			<longitude>69413</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khadra">
+			<state></state>
+			<latitude>362651</latitude>
+			<longitude>5860</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khemis Miliana -- (State: Ain Defla)">
+			<state>Ain Defla</state>
+			<latitude>362729</latitude>
+			<longitude>22288</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khenchela">
+			<state></state>
+			<latitude>354465</latitude>
+			<longitude>71540</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kolea -- (State: Tipaza)">
+			<state>Tipaza</state>
+			<latitude>366493</latitude>
+			<longitude>27840</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kouba -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367363</latitude>
+			<longitude>31040</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krechba">
+			<state></state>
+			<latitude>291004</latitude>
+			<longitude>22226</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kroubs -- (State: Constantine)">
+			<state>Constantine</state>
+			<latitude>362740</latitude>
+			<longitude>67043</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ksar Chellala -- (State: Tiaret)">
+			<state>Tiaret</state>
+			<latitude>352229</latitude>
+			<longitude>23296</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ksar el Boukhari -- (State: Medea)">
+			<state>Medea</state>
+			<latitude>358963</latitude>
+			<longitude>27615</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ksar el Hirane">
+			<state></state>
+			<latitude>337940</latitude>
+			<longitude>31607</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ksar Sbehi -- (State: Constantine)">
+			<state>Constantine</state>
+			<latitude>360938</latitude>
+			<longitude>72688</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laghouat -- (State: Tiaret)">
+			<state>Tiaret</state>
+			<latitude>351697</latitude>
+			<longitude>9647</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laghouat">
+			<state></state>
+			<latitude>338108</latitude>
+			<longitude>28941</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lakhdaria -- (State: Tizi Ouzou)">
+			<state>Tizi Ouzou</state>
+			<latitude>365730</latitude>
+			<longitude>36052</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Larba -- (State: Blida)">
+			<state>Blida</state>
+			<latitude>365775</latitude>
+			<longitude>31608</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lheaibat -- (State: Bechar)">
+			<state>Bechar</state>
+			<latitude>297741</latitude>
+			<longitude>-59189</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lizerg">
+			<state></state>
+			<latitude>334108</latitude>
+			<longitude>69775</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="M Chedallah -- (State: Bouira)">
+			<state>Bouira</state>
+			<latitude>363798</latitude>
+			<longitude>42817</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="M Sila -- (State: M sila)">
+			<state>M sila</state>
+			<latitude>357365</latitude>
+			<longitude>45387</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Maghnia">
+			<state></state>
+			<latitude>348581</latitude>
+			<longitude>-17177</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mascara">
+			<state></state>
+			<latitude>354053</latitude>
+			<longitude>1506</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mazouna -- (State: Relizane)">
+			<state>Relizane</state>
+			<latitude>361292</latitude>
+			<longitude>9095</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mecheria">
+			<state></state>
+			<latitude>335609</latitude>
+			<longitude>-2724</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mecheria -- (State: El Bayadh)">
+			<state>El Bayadh</state>
+			<latitude>335870</latitude>
+			<longitude>10242</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Medea">
+			<state></state>
+			<latitude>362784</latitude>
+			<longitude>27609</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Menzel lejmat nord">
+			<state></state>
+			<latitude>302309</latitude>
+			<longitude>75609</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Meskiana -- (State: Oum el Bouaghi)">
+			<state>Oum el Bouaghi</state>
+			<latitude>356437</latitude>
+			<longitude>76801</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Messaad">
+			<state></state>
+			<latitude>341776</latitude>
+			<longitude>35109</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Metlili">
+			<state></state>
+			<latitude>339442</latitude>
+			<longitude>29276</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Metlili Chaamba">
+			<state></state>
+			<latitude>322776</latitude>
+			<longitude>36442</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mila">
+			<state></state>
+			<latitude>364612</latitude>
+			<longitude>62753</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miliana">
+			<state></state>
+			<latitude>273609</latitude>
+			<longitude>24776</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Miliana -- (State: Ain Defla)">
+			<state>Ain Defla</state>
+			<latitude>363209</latitude>
+			<longitude>21731</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mohammadia -- (State: Mascara)">
+			<state>Mascara</state>
+			<latitude>355995</latitude>
+			<longitude>795</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morsott -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>356787</latitude>
+			<longitude>80226</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mostaganem">
+			<state></state>
+			<latitude>359170</latitude>
+			<longitude>1567</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mseila">
+			<state></state>
+			<latitude>345942</latitude>
+			<longitude>45776</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="N djayia -- (State: Chlef)">
+			<state>Chlef</state>
+			<latitude>362916</latitude>
+			<longitude>16818</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="N Gaous -- (State: Batna)">
+			<state>Batna</state>
+			<latitude>355660</latitude>
+			<longitude>56216</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="N Goussa -- (State: Ouargla)">
+			<state>Ouargla</state>
+			<latitude>321493</latitude>
+			<longitude>53196</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naama">
+			<state></state>
+			<latitude>332777</latitude>
+			<longitude>-3057</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nedroma -- (State: Tlemcen)">
+			<state>Tlemcen</state>
+			<latitude>350110</latitude>
+			<longitude>-17223</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nkarf -- (State: Mascara)">
+			<state>Mascara</state>
+			<latitude>351996</latitude>
+			<longitude>3202</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nza Ahmed Taieb -- (State: M sila)">
+			<state>M sila</state>
+			<latitude>356399</latitude>
+			<longitude>35266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nza Bel Khadem">
+			<state></state>
+			<latitude>338777</latitude>
+			<longitude>62110</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nza Ben Ouagfa">
+			<state></state>
+			<latitude>342777</latitude>
+			<longitude>32277</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nza Chabi">
+			<state></state>
+			<latitude>352777</latitude>
+			<longitude>47110</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nza Diba -- (State: M sila)">
+			<state>M sila</state>
+			<latitude>358652</latitude>
+			<longitude>36563</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nza el Kherif">
+			<state></state>
+			<latitude>357110</latitude>
+			<longitude>39610</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nza Salem">
+			<state></state>
+			<latitude>335943</latitude>
+			<longitude>18610</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ohanet -- (State: Illizi)">
+			<state>Illizi</state>
+			<latitude>286778</latitude>
+			<longitude>88444</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ohanet">
+			<state></state>
+			<latitude>283778</latitude>
+			<longitude>80111</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oran">
+			<state></state>
+			<latitude>357022</latitude>
+			<longitude>-6306</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oran Es Senia -- (State: Oran)">
+			<state>Oran</state>
+			<latitude>356367</latitude>
+			<longitude>-6056</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oran Marine -- (State: Oran)">
+			<state>Oran</state>
+			<latitude>357278</latitude>
+			<longitude>-6222</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oran Meseta">
+			<state></state>
+			<latitude>340111</latitude>
+			<longitude>111</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oran Ville">
+			<state></state>
+			<latitude>357111</latitude>
+			<longitude>-6222</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouargla">
+			<state></state>
+			<latitude>319686</latitude>
+			<longitude>53389</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oued Tammennguelt">
+			<state></state>
+			<latitude>290778</latitude>
+			<longitude>75278</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oued Zenati -- (State: Constantine)">
+			<state>Constantine</state>
+			<latitude>363297</latitude>
+			<longitude>71783</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oued Zenati">
+			<state></state>
+			<latitude>364508</latitude>
+			<longitude>73169</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouled Djellal">
+			<state></state>
+			<latitude>344278</latitude>
+			<longitude>50778</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouled Fayet -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367469</latitude>
+			<longitude>29633</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oum el Bouaghi">
+			<state></state>
+			<latitude>358886</latitude>
+			<longitude>71247</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ourhoud">
+			<state></state>
+			<latitude>306833</latitude>
+			<longitude>80908</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ouzzellaguen">
+			<state></state>
+			<latitude>365611</latitude>
+			<longitude>45444</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petit -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>364695</latitude>
+			<longitude>75251</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qarn `A ishah">
+			<state></state>
+			<latitude>364780</latitude>
+			<longitude>82113</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qas Ohebran">
+			<state></state>
+			<latitude>243446</latitude>
+			<longitude>110946</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarsenis Massif">
+			<state></state>
+			<latitude>359366</latitude>
+			<longitude>17702</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qued el Aneb">
+			<state></state>
+			<latitude>368946</latitude>
+			<longitude>74946</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qued el Kebir">
+			<state></state>
+			<latitude>367613</latitude>
+			<longitude>72946</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quenza -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>359646</latitude>
+			<longitude>81405</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rahouia -- (State: Tiaret)">
+			<state>Tiaret</state>
+			<latitude>355420</latitude>
+			<longitude>10295</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ras el Oued -- (State: Bordj Bou Arreridj)">
+			<state>Bordj Bou Arreridj</state>
+			<latitude>359661</latitude>
+			<longitude>50603</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="REG">
+			<state></state>
+			<latitude>280997</latitude>
+			<longitude>22214</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reggane">
+			<state></state>
+			<latitude>267114</latitude>
+			<longitude>1781</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reghaia -- (State: Boumerdes)">
+			<state>Boumerdes</state>
+			<latitude>367536</latitude>
+			<longitude>33528</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Relizane">
+			<state></state>
+			<latitude>357539</latitude>
+			<longitude>5706</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Remchi -- (State: Tlemcen)">
+			<state>Tlemcen</state>
+			<latitude>350725</latitude>
+			<longitude>-14147</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhourd el Baguel">
+			<state></state>
+			<latitude>316281</latitude>
+			<longitude>60614</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhourd el Baguel -- (State: Ouargla)">
+			<state>Ouargla</state>
+			<latitude>313575</latitude>
+			<longitude>69375</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhourd el Kherouf">
+			<state></state>
+			<latitude>305114</latitude>
+			<longitude>83447</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhourde Nous">
+			<state></state>
+			<latitude>297447</latitude>
+			<longitude>65781</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhourde Nouss">
+			<state></state>
+			<latitude>285114</latitude>
+			<longitude>67614</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rouiba -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367506</latitude>
+			<longitude>32967</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rouiba">
+			<state></state>
+			<latitude>366781</latitude>
+			<longitude>31781</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saida">
+			<state></state>
+			<latitude>348448</latitude>
+			<longitude>1615</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sebdou -- (State: Tlemcen)">
+			<state>Tlemcen</state>
+			<latitude>346540</latitude>
+			<longitude>-13216</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sedrata -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>361404</latitude>
+			<longitude>75396</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Seraidi">
+			<state></state>
+			<latitude>369282</latitude>
+			<longitude>76782</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Setif">
+			<state></state>
+			<latitude>362029</latitude>
+			<longitude>54209</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sid Aissa">
+			<state></state>
+			<latitude>359029</latitude>
+			<longitude>37826</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sid Bel Abbes -- (State: Sidi Bel Abbes)">
+			<state>Sidi Bel Abbes</state>
+			<latitude>352054</latitude>
+			<longitude>-6299</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Aissa Chikh">
+			<state></state>
+			<latitude>363115</latitude>
+			<longitude>36448</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Ali -- (State: Mostaganem)">
+			<state>Mostaganem</state>
+			<latitude>361121</latitude>
+			<longitude>4315</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Aoun">
+			<state></state>
+			<latitude>335615</latitude>
+			<longitude>69115</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Bel Abbes">
+			<state></state>
+			<latitude>351793</latitude>
+			<longitude>-5785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Belabbes -- (State: Boumerdes)">
+			<state>Boumerdes</state>
+			<latitude>368209</latitude>
+			<longitude>36401</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sidi Khaled">
+			<state></state>
+			<latitude>343948</latitude>
+			<longitude>50115</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sig -- (State: Mascara)">
+			<state>Mascara</state>
+			<latitude>355393</latitude>
+			<longitude>-1838</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Skikda -- (State: Constantine)">
+			<state>Constantine</state>
+			<latitude>368737</latitude>
+			<longitude>69587</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sougueur -- (State: Tiaret)">
+			<state>Tiaret</state>
+			<latitude>352029</latitude>
+			<longitude>15098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Souk Ahras -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>362801</latitude>
+			<longitude>79471</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sour el Ghozlane -- (State: Bouira)">
+			<state>Bouira</state>
+			<latitude>361618</latitude>
+			<longitude>37007</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Staoueli -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367682</latitude>
+			<longitude>28971</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Stidia -- (State: Mostaganem)">
+			<state>Mostaganem</state>
+			<latitude>358462</latitude>
+			<longitude>109</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tadjenanet">
+			<state></state>
+			<latitude>361283</latitude>
+			<longitude>59949</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taher">
+			<state></state>
+			<latitude>367783</latitude>
+			<longitude>59116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamanrasset -- (State: Tamanghasset)">
+			<state>Tamanghasset</state>
+			<latitude>227966</latitude>
+			<longitude>55344</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamerna Djedida">
+			<state></state>
+			<latitude>334616</latitude>
+			<longitude>59616</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tamokra">
+			<state></state>
+			<latitude>364116</latitude>
+			<longitude>46783</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tayarte">
+			<state></state>
+			<latitude>231116</latitude>
+			<longitude>-2884</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tazmalt -- (State: Bejaia)">
+			<state>Bejaia</state>
+			<latitude>363988</latitude>
+			<longitude>44133</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tazoult-Lambese -- (State: Batna)">
+			<state>Batna</state>
+			<latitude>354980</latitude>
+			<longitude>62669</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tebessa">
+			<state></state>
+			<latitude>354158</latitude>
+			<longitude>81358</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="TEGENTOUR">
+			<state></state>
+			<latitude>282916</latitude>
+			<longitude>23216</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Telagh -- (State: Sidi Bel Abbes)">
+			<state>Sidi Bel Abbes</state>
+			<latitude>347994</latitude>
+			<longitude>-5590</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Temacine">
+			<state></state>
+			<latitude>330283</latitude>
+			<longitude>60283</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tenes -- (State: Chlef)">
+			<state>Chlef</state>
+			<latitude>365227</latitude>
+			<longitude>13235</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thenia -- (State: Boumerdes)">
+			<state>Boumerdes</state>
+			<latitude>367394</latitude>
+			<longitude>35655</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Theniet el Had -- (State: Ain Defla)">
+			<state>Ain Defla</state>
+			<latitude>358827</latitude>
+			<longitude>20397</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tialet">
+			<state></state>
+			<latitude>359974</latitude>
+			<longitude>34260</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tiaret">
+			<state></state>
+			<latitude>353874</latitude>
+			<longitude>13247</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tiaret Bou Chekif -- (State: Tiaret)">
+			<state>Tiaret</state>
+			<latitude>353535</latitude>
+			<longitude>14838</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tiaret South -- (State: Tiaret)">
+			<state>Tiaret</state>
+			<latitude>353491</latitude>
+			<longitude>13172</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tighennif -- (State: Mascara)">
+			<state>Mascara</state>
+			<latitude>354274</latitude>
+			<longitude>3388</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tiguentourine">
+			<state></state>
+			<latitude>271449</latitude>
+			<longitude>18783</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Timimoun">
+			<state></state>
+			<latitude>292616</latitude>
+			<longitude>2616</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tin Fouye">
+			<state></state>
+			<latitude>284283</latitude>
+			<longitude>75116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tindouf">
+			<state></state>
+			<latitude>276858</latitude>
+			<longitude>-81362</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tinerkouk">
+			<state></state>
+			<latitude>297616</latitude>
+			<longitude>5116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tipaza">
+			<state></state>
+			<latitude>366013</latitude>
+			<longitude>24591</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tizi Ouzou">
+			<state></state>
+			<latitude>367285</latitude>
+			<longitude>40613</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tlemcen">
+			<state></state>
+			<latitude>348899</latitude>
+			<longitude>-13034</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tlemcen Zenata -- (State: Tlemcen)">
+			<state>Tlemcen</state>
+			<latitude>350230</latitude>
+			<longitude>-14451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tolga">
+			<state></state>
+			<latitude>347283</latitude>
+			<longitude>53949</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Touggourt -- (State: Ouargla)">
+			<state>Ouargla</state>
+			<latitude>331116</latitude>
+			<longitude>60783</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Ar">
+			<state></state>
+			<latitude>249784</latitude>
+			<longitude>100950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Arrechin">
+			<state></state>
+			<latitude>242950</latitude>
+			<longitude>105450</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Imbulal">
+			<state></state>
+			<latitude>241617</latitude>
+			<longitude>113117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi In- Ezzan">
+			<state></state>
+			<latitude>255450</latitude>
+			<longitude>98950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Maricsa">
+			<state></state>
+			<latitude>301617</latitude>
+			<longitude>93117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Tachiset">
+			<state></state>
+			<latitude>245450</latitude>
+			<longitude>108284</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Tarat">
+			<state></state>
+			<latitude>262617</latitude>
+			<longitude>93950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Tarhuit">
+			<state></state>
+			<latitude>253784</latitude>
+			<longitude>99117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uadi Temasit">
+			<state></state>
+			<latitude>299117</latitude>
+			<longitude>88617</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubari Sand Sea">
+			<state></state>
+			<latitude>275117</latitude>
+			<longitude>115117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umash">
+			<state></state>
+			<latitude>347117</latitude>
+			<longitude>56950</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uqlat Ahmad">
+			<state></state>
+			<latitude>347450</latitude>
+			<longitude>83284</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usine -- (State: Mascara)">
+			<state>Mascara</state>
+			<latitude>356486</latitude>
+			<longitude>1417</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usine CADO">
+			<state></state>
+			<latitude>354784</latitude>
+			<longitude>-3883</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uzes-le-Due -- (State: Mascara)">
+			<state>Mascara</state>
+			<latitude>354664</latitude>
+			<longitude>6978</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Val d Or -- (State: Mila)">
+			<state>Mila</state>
+			<latitude>362421</latitude>
+			<longitude>62849</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valee -- (State: Constantine)">
+			<state>Constantine</state>
+			<latitude>368576</latitude>
+			<longitude>69646</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de la Soif">
+			<state></state>
+			<latitude>358637</latitude>
+			<longitude>4174</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee des Jardins -- (State: Mostaganem)">
+			<state>Mostaganem</state>
+			<latitude>359310</latitude>
+			<longitude>1374</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valmy -- (State: Oran)">
+			<state>Oran</state>
+			<latitude>356235</latitude>
+			<longitude>-5621</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vauban -- (State: Chlef)">
+			<state>Chlef</state>
+			<latitude>362157</latitude>
+			<longitude>16043</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verte Rive">
+			<state></state>
+			<latitude>367618</latitude>
+			<longitude>32118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vesoul Beniane -- (State: Ain Defla)">
+			<state>Ain Defla</state>
+			<latitude>363624</latitude>
+			<longitude>23996</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vialar -- (State: Tissemsilt)">
+			<state>Tissemsilt</state>
+			<latitude>356196</latitude>
+			<longitude>18229</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victor Hugo">
+			<state></state>
+			<latitude>356951</latitude>
+			<longitude>-6049</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victor Hugo -- (State: Tiaret)">
+			<state>Tiaret</state>
+			<latitude>354710</latitude>
+			<longitude>18854</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victor-Duruy">
+			<state></state>
+			<latitude>353785</latitude>
+			<longitude>60118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victor-Duruy -- (State: Batna)">
+			<state>Batna</state>
+			<latitude>355326</latitude>
+			<longitude>60187</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieille Calle">
+			<state></state>
+			<latitude>369285</latitude>
+			<longitude>83618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Ain Bouziane -- (State: Skikda)">
+			<state>Skikda</state>
+			<latitude>366021</latitude>
+			<longitude>67521</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Kouba">
+			<state></state>
+			<latitude>367451</latitude>
+			<longitude>30785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Tamda">
+			<state></state>
+			<latitude>367285</latitude>
+			<longitude>42285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Tenes -- (State: Chlef)">
+			<state>Chlef</state>
+			<latitude>365126</latitude>
+			<longitude>13296</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villa Talakanet -- (State: Chlef)">
+			<state>Chlef</state>
+			<latitude>361362</latitude>
+			<longitude>13949</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Ben Tezerhrit">
+			<state></state>
+			<latitude>365951</latitude>
+			<longitude>37451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village d el Anabres -- (State: Tlemcen)">
+			<state>Tlemcen</state>
+			<latitude>350951</latitude>
+			<longitude>-18882</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village de Baba Ali">
+			<state></state>
+			<latitude>366118</latitude>
+			<longitude>36285</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village de Tamda">
+			<state></state>
+			<latitude>361118</latitude>
+			<longitude>8951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village des Beni Rached -- (State: Ain Defla)">
+			<state>Ain Defla</state>
+			<latitude>362885</latitude>
+			<longitude>15432</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village des Hassasna">
+			<state></state>
+			<latitude>361451</latitude>
+			<longitude>8951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village des Medjada -- (State: Chlef)">
+			<state>Chlef</state>
+			<latitude>362679</latitude>
+			<longitude>13637</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village des Mines du Nador">
+			<state></state>
+			<latitude>363451</latitude>
+			<longitude>76451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village des Oulad Lakhedar">
+			<state></state>
+			<latitude>361118</latitude>
+			<longitude>8451</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village des Oulad Meziane">
+			<state></state>
+			<latitude>361285</latitude>
+			<longitude>8785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village des Ouled Ali">
+			<state></state>
+			<latitude>366285</latitude>
+			<longitude>36785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village des Ouled Ben Salah">
+			<state></state>
+			<latitude>366118</latitude>
+			<longitude>36785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village du Barrage">
+			<state></state>
+			<latitude>361785</latitude>
+			<longitude>25618</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Espagnol -- (State: Relizane)">
+			<state>Relizane</state>
+			<latitude>357526</latitude>
+			<longitude>5612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Lamur">
+			<state></state>
+			<latitude>356951</latitude>
+			<longitude>-6382</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Negre">
+			<state></state>
+			<latitude>357118</latitude>
+			<longitude>-6382</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Negre -- (State: Relizane)">
+			<state>Relizane</state>
+			<latitude>357496</latitude>
+			<longitude>5710</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Negre -- (State: Batna)">
+			<state>Batna</state>
+			<latitude>355532</latitude>
+			<longitude>61929</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Neuf">
+			<state></state>
+			<latitude>360618</latitude>
+			<longitude>9118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Perret -- (State: Ain Temouchent)">
+			<state>Ain Temouchent</state>
+			<latitude>353674</latitude>
+			<longitude>-8785</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Village Saint Eugene">
+			<state></state>
+			<latitude>357118</latitude>
+			<longitude>-6049</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villars -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>363915</latitude>
+			<longitude>77746</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villebourg -- (State: Tipaza)">
+			<state>Tipaza</state>
+			<latitude>365687</latitude>
+			<longitude>18151</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voile Noire">
+			<state></state>
+			<latitude>369785</latitude>
+			<longitude>76951</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voltaire -- (State: Ain Defla)">
+			<state>Ain Defla</state>
+			<latitude>361687</latitude>
+			<longitude>24160</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaaboudi -- (State: Chlef)">
+			<state>Chlef</state>
+			<latitude>360446</latitude>
+			<longitude>16968</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yachourene">
+			<state></state>
+			<latitude>366288</latitude>
+			<longitude>47954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahia -- (State: Relizane)">
+			<state>Relizane</state>
+			<latitude>357032</latitude>
+			<longitude>7077</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahia Ben Medda">
+			<state></state>
+			<latitude>362288</latitude>
+			<longitude>35288</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahia Lehouas">
+			<state></state>
+			<latitude>356288</latitude>
+			<longitude>49288</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahya">
+			<state></state>
+			<latitude>283454</latitude>
+			<longitude>-2046</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yahya Oudris">
+			<state></state>
+			<latitude>293621</latitude>
+			<longitude>-5212</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yako">
+			<state></state>
+			<latitude>295288</latitude>
+			<longitude>-379</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakoub">
+			<state></state>
+			<latitude>365621</latitude>
+			<longitude>26788</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakourene -- (State: Tizi Ouzou)">
+			<state>Tizi Ouzou</state>
+			<latitude>367532</latitude>
+			<longitude>44540</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaouda">
+			<state></state>
+			<latitude>350121</latitude>
+			<longitude>56454</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yebdar -- (State: Tlemcen)">
+			<state>Tlemcen</state>
+			<latitude>348482</latitude>
+			<longitude>-11651</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yebel Tassut">
+			<state></state>
+			<latitude>290121</latitude>
+			<longitude>-81546</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yellel -- (State: Relizane)">
+			<state>Relizane</state>
+			<latitude>357340</latitude>
+			<longitude>3657</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yetti">
+			<state></state>
+			<latitude>261788</latitude>
+			<longitude>-78212</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youb -- (State: Saida)">
+			<state>Saida</state>
+			<latitude>349404</latitude>
+			<longitude>-2015</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youkous -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>354296</latitude>
+			<longitude>79788</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youks-les-Bains">
+			<state></state>
+			<latitude>355621</latitude>
+			<longitude>79454</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youks-les-Banins -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>354610</latitude>
+			<longitude>79685</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yusuf -- (State: Annaba)">
+			<state>Annaba</state>
+			<latitude>367990</latitude>
+			<longitude>83971</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaouiet ed Debarh">
+			<state></state>
+			<latitude>297122</latitude>
+			<longitude>7122</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zemmora -- (State: Relizane)">
+			<state>Relizane</state>
+			<latitude>357347</latitude>
+			<longitude>7722</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeralda -- (State: Alger)">
+			<state>Alger</state>
+			<latitude>367269</latitude>
+			<longitude>28555</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zeribet el Oued">
+			<state></state>
+			<latitude>346955</latitude>
+			<longitude>65289</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zgoum">
+			<state></state>
+			<latitude>334789</latitude>
+			<longitude>69289</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoui -- (State: Khenchela)">
+			<state>Khenchela</state>
+			<latitude>353025</latitude>
+			<longitude>73708</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

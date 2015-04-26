@@ -1,0 +1,481 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Lithuania">
+		<city name="Alytus">
+			<state></state>
+			<latitude>544264</latitude>
+			<longitude>240764</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fabijoniskis">
+			<state></state>
+			<latitude>547435</latitude>
+			<longitude>252435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Felinka">
+			<state></state>
+			<latitude>552935</latitude>
+			<longitude>249769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ferma Anedin">
+			<state></state>
+			<latitude>557102</latitude>
+			<longitude>214435</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fistravishken">
+			<state></state>
+			<latitude>552102</latitude>
+			<longitude>219794</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fluss Memel">
+			<state></state>
+			<latitude>553121</latitude>
+			<longitude>213919</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fol vark Iotayne">
+			<state></state>
+			<latitude>555435</latitude>
+			<longitude>244102</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fol vark Lyustberg">
+			<state></state>
+			<latitude>547602</latitude>
+			<longitude>239269</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Forsterei">
+			<state></state>
+			<latitude>557769</latitude>
+			<longitude>210935</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frantskabuda">
+			<state></state>
+			<latitude>548102</latitude>
+			<longitude>230769</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hanuszyszki">
+			<state></state>
+			<latitude>544937</latitude>
+			<longitude>246104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hawya">
+			<state></state>
+			<latitude>538271</latitude>
+			<longitude>255937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heiligenfliess">
+			<state></state>
+			<latitude>550771</latitude>
+			<longitude>226104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heydekrug">
+			<state></state>
+			<latitude>553593</latitude>
+			<longitude>214935</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jielekciai">
+			<state></state>
+			<latitude>545939</latitude>
+			<longitude>231106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaunas">
+			<state></state>
+			<latitude>548940</latitude>
+			<longitude>238940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaunas -- (State: Kauno Apskritis)">
+			<state>Kauno Apskritis</state>
+			<latitude>549107</latitude>
+			<longitude>239107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaunas Petrasiunas">
+			<state></state>
+			<latitude>548940</latitude>
+			<longitude>239940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaunasskoye More">
+			<state></state>
+			<latitude>548940</latitude>
+			<longitude>240940</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klaipeda -- (State: Klaipedos Apskritis)">
+			<state>Klaipedos Apskritis</state>
+			<latitude>557274</latitude>
+			<longitude>211274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klaipeda">
+			<state></state>
+			<latitude>555107</latitude>
+			<longitude>215107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klaipeda East">
+			<state></state>
+			<latitude>557274</latitude>
+			<longitude>212607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vilnius -- (State: Vilniaus Apskritis)">
+			<state>Vilniaus Apskritis</state>
+			<latitude>546951</latitude>
+			<longitude>253285</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vilnius">
+			<state></state>
+			<latitude>546451</latitude>
+			<longitude>252951</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vilnius East">
+			<state></state>
+			<latitude>546785</latitude>
+			<longitude>255285</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Visaginas -- (State: Utenos Apskritis)">
+			<state>Utenos Apskritis</state>
+			<latitude>556118</latitude>
+			<longitude>264285</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Visaginas">
+			<state></state>
+			<latitude>555951</latitude>
+			<longitude>264285</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wajczajcie">
+			<state></state>
+			<latitude>562286</latitude>
+			<longitude>219452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wajgowa">
+			<state></state>
+			<latitude>557163</latitude>
+			<longitude>227636</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waka Biala">
+			<state></state>
+			<latitude>546119</latitude>
+			<longitude>252119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wannaggen">
+			<state></state>
+			<latitude>555786</latitude>
+			<longitude>214286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warrub">
+			<state></state>
+			<latitude>553080</latitude>
+			<longitude>213252</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warruss">
+			<state></state>
+			<latitude>553000</latitude>
+			<longitude>213019</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waszki -- (State: Panevezio Apskritis)">
+			<state>Panevezio Apskritis</state>
+			<latitude>561786</latitude>
+			<longitude>242227</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Werden">
+			<state></state>
+			<latitude>553500</latitude>
+			<longitude>215161</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wersze">
+			<state></state>
+			<latitude>552119</latitude>
+			<longitude>215952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wewirzany">
+			<state></state>
+			<latitude>556125</latitude>
+			<longitude>216088</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wideniance">
+			<state></state>
+			<latitude>541952</latitude>
+			<longitude>247452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Widukle">
+			<state></state>
+			<latitude>554150</latitude>
+			<longitude>229100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wieksznie">
+			<state></state>
+			<latitude>562452</latitude>
+			<longitude>225286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiezance">
+			<state></state>
+			<latitude>542452</latitude>
+			<longitude>249452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wileny">
+			<state></state>
+			<latitude>550952</latitude>
+			<longitude>232952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilia">
+			<state></state>
+			<latitude>549119</latitude>
+			<longitude>238952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilke">
+			<state></state>
+			<latitude>558619</latitude>
+			<longitude>221452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilki">
+			<state></state>
+			<latitude>550619</latitude>
+			<longitude>235952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilkomierz">
+			<state></state>
+			<latitude>552619</latitude>
+			<longitude>247619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilkowyszki">
+			<state></state>
+			<latitude>546636</latitude>
+			<longitude>230441</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wiluszy">
+			<state></state>
+			<latitude>562286</latitude>
+			<longitude>226619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windenburg">
+			<state></state>
+			<latitude>553583</latitude>
+			<longitude>212077</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Windenburger Hacken">
+			<state></state>
+			<latitude>553527</latitude>
+			<longitude>212013</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wirballen">
+			<state></state>
+			<latitude>546386</latitude>
+			<longitude>228288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wirbaly">
+			<state></state>
+			<latitude>562286</latitude>
+			<longitude>215619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wischwill">
+			<state></state>
+			<latitude>550811</latitude>
+			<longitude>223969</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wisztyniec">
+			<state></state>
+			<latitude>544663</latitude>
+			<longitude>227230</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wizuny">
+			<state></state>
+			<latitude>556119</latitude>
+			<longitude>255119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wladislawow">
+			<state></state>
+			<latitude>547850</latitude>
+			<longitude>228750</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wobole">
+			<state></state>
+			<latitude>562119</latitude>
+			<longitude>217952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wobolniki">
+			<state></state>
+			<latitude>559786</latitude>
+			<longitude>247619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wodakle">
+			<state></state>
+			<latitude>555119</latitude>
+			<longitude>245119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wojdaty">
+			<state></state>
+			<latitude>546119</latitude>
+			<longitude>251786</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wojnejki">
+			<state></state>
+			<latitude>560286</latitude>
+			<longitude>213619</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wojnejkupis">
+			<state></state>
+			<latitude>560119</latitude>
+			<longitude>213286</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wojnuta">
+			<state></state>
+			<latitude>553769</latitude>
+			<longitude>218763</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wygontyszki">
+			<state></state>
+			<latitude>560286</latitude>
+			<longitude>221786</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wylkowyszki">
+			<state></state>
+			<latitude>546991</latitude>
+			<longitude>230433</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wysaki Dwor">
+			<state></state>
+			<latitude>545952</latitude>
+			<longitude>245452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ymeze">
+			<state></state>
+			<latitude>556288</latitude>
+			<longitude>220288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yonishkis -- (State: Siauliu Apskritis)">
+			<state>Siauliu Apskritis</state>
+			<latitude>562524</latitude>
+			<longitude>236274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

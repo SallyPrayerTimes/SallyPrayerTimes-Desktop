@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Turks Caicos Islands">
+		<city name="Back Salina">
+			<state></state>
+			<latitude>214598</latitude>
+			<longitude>-711235</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Balfour Town">
+			<state></state>
+			<latitude>213265</latitude>
+			<longitude>-712069</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bay Cay">
+			<state></state>
+			<latitude>219265</latitude>
+			<longitude>-718735</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belle Isle">
+			<state></state>
+			<latitude>216598</latitude>
+			<longitude>-724569</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Big Cameron Cay">
+			<state></state>
+			<latitude>216265</latitude>
+			<longitude>-715735</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Big Cut">
+			<state></state>
+			<latitude>218431</latitude>
+			<longitude>-716569</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Big Pond">
+			<state></state>
+			<latitude>217598</latitude>
+			<longitude>-716735</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Booby Island">
+			<state></state>
+			<latitude>218265</latitude>
+			<longitude>-716569</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bottle Creek">
+			<state></state>
+			<latitude>219765</latitude>
+			<longitude>-719069</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Breeches Island">
+			<state></state>
+			<latitude>213765</latitude>
+			<longitude>-710735</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Breezy Point">
+			<state></state>
+			<latitude>217265</latitude>
+			<longitude>-715069</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cockburn Town">
+			<state></state>
+			<latitude>214766</latitude>
+			<longitude>-711234</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East Bay">
+			<state></state>
+			<latitude>219101</latitude>
+			<longitude>-718566</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East harbour">
+			<state></state>
+			<latitude>215101</latitude>
+			<longitude>-714899</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East Side Bay">
+			<state></state>
+			<latitude>216934</latitude>
+			<longitude>-724232</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Endymion Shoal">
+			<state></state>
+			<latitude>211268</latitude>
+			<longitude>-712899</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farm Creek Pond">
+			<state></state>
+			<latitude>218269</latitude>
+			<longitude>-716898</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ferguson Cut">
+			<state></state>
+			<latitude>218435</latitude>
+			<longitude>-717398</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fish Cays">
+			<state></state>
+			<latitude>213769</latitude>
+			<longitude>-715731</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Five Cays">
+			<state></state>
+			<latitude>217435</latitude>
+			<longitude>-722398</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flamingo Pond">
+			<state></state>
+			<latitude>219269</latitude>
+			<longitude>-719398</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort George">
+			<state></state>
+			<latitude>218935</latitude>
+			<longitude>-721065</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juniper Hole">
+			<state></state>
+			<latitude>218939</latitude>
+			<longitude>-718727</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lake Catherine">
+			<state></state>
+			<latitude>216775</latitude>
+			<longitude>-724392</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Les Caiques">
+			<state></state>
+			<latitude>219441</latitude>
+			<longitude>-719559</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lorimer Creek">
+			<state></state>
+			<latitude>217608</latitude>
+			<longitude>-715892</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lorimers">
+			<state></state>
+			<latitude>217941</latitude>
+			<longitude>-716725</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="North Caicos">
+			<state></state>
+			<latitude>219443</latitude>
+			<longitude>-719723</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ocean Hole">
+			<state></state>
+			<latitude>217278</latitude>
+			<longitude>-718222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parrot Cay">
+			<state></state>
+			<latitude>219445</latitude>
+			<longitude>-720555</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pear Cay">
+			<state></state>
+			<latitude>211945</latitude>
+			<longitude>-716721</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pelican Cay">
+			<state></state>
+			<latitude>214279</latitude>
+			<longitude>-710721</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Penniston Cay">
+			<state></state>
+			<latitude>213779</latitude>
+			<longitude>-711055</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Philips Reef">
+			<state></state>
+			<latitude>217279</latitude>
+			<longitude>-713721</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plandon Cay">
+			<state></state>
+			<latitude>215779</latitude>
+			<longitude>-714721</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Proggin Bay">
+			<state></state>
+			<latitude>217612</latitude>
+			<longitude>-723221</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Providenciales">
+			<state></state>
+			<latitude>217945</latitude>
+			<longitude>-722721</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reef Harbour">
+			<state></state>
+			<latitude>218281</latitude>
+			<longitude>-722553</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sandy Point">
+			<state></state>
+			<latitude>219615</latitude>
+			<longitude>-720218</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seal Cays">
+			<state></state>
+			<latitude>211782</latitude>
+			<longitude>-716218</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stake Bank">
+			<state></state>
+			<latitude>215615</latitude>
+			<longitude>-715385</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stubbs Cay">
+			<state></state>
+			<latitude>219282</latitude>
+			<longitude>-720885</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Swimmer Rock">
+			<state></state>
+			<latitude>210948</latitude>
+			<longitude>-715052</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Reef">
+			<state></state>
+			<latitude>217952</latitude>
+			<longitude>-724214</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Sand Spit">
+			<state></state>
+			<latitude>213786</latitude>
+			<longitude>-721548</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whale Breaker">
+			<state></state>
+			<latitude>210952</latitude>
+			<longitude>-715714</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wheeland Cut">
+			<state></state>
+			<latitude>218619</latitude>
+			<longitude>-723048</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Whitby">
+			<state></state>
+			<latitude>219619</latitude>
+			<longitude>-719548</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

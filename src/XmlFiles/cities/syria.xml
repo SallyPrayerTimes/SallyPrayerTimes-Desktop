@@ -1,0 +1,2252 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Syria">
+		<city name="Aalouannk -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370875</latitude>
+			<longitude>419425</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aarour -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370297</latitude>
+			<longitude>420447</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abou Hammam -- (State: Dayr az Zawr)">
+			<state>Dayr az Zawr</state>
+			<latitude>348169</latitude>
+			<longitude>406597</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abou Kemal -- (State: Dayr az Zawr)">
+			<state>Dayr az Zawr</state>
+			<latitude>346764</latitude>
+			<longitude>409264</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abu Qir -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370961</latitude>
+			<longitude>421608</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abu `Ujaylah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371128</latitude>
+			<longitude>418625</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ad Dayr al Qadim -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370986</latitude>
+			<longitude>418625</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Afess -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>359097</latitude>
+			<longitude>368097</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ain Aarne -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370097</latitude>
+			<longitude>423097</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Akka -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372103</latitude>
+			<longitude>420861</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Ahmadiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371955</latitude>
+			<longitude>423225</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Bab -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>363822</latitude>
+			<longitude>375275</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Batra -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370639</latitude>
+			<longitude>422033</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Firdaws -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371805</latitude>
+			<longitude>420011</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Ghassaniyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371191</latitude>
+			<longitude>419139</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Hamah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371380</latitude>
+			<longitude>422594</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Hammam -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370497</latitude>
+			<longitude>421794</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Hamra -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370791</latitude>
+			<longitude>418903</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Harak -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>327430</latitude>
+			<longitude>363100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Haraki -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>356597</latitude>
+			<longitude>368597</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Hasakah">
+			<state></state>
+			<latitude>364930</latitude>
+			<longitude>407597</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Jisr -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372469</latitude>
+			<longitude>421958</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Ladhiqiyah">
+			<state></state>
+			<latitude>355264</latitude>
+			<longitude>357930</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Malikiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371855</latitude>
+			<longitude>421514</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Marj al Akhdar -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370905</latitude>
+			<longitude>423197</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Marjah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369894</latitude>
+			<longitude>420014</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Musallakhah -- (State: Dayr az Zawr)">
+			<state>Dayr az Zawr</state>
+			<latitude>346491</latitude>
+			<longitude>408589</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Mustafawiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370858</latitude>
+			<longitude>419997</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Mu`abbadah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370311</latitude>
+			<longitude>419728</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Qadiriyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372403</latitude>
+			<longitude>422261</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Qaryatayn -- (State: Hims)">
+			<state>Hims</state>
+			<latitude>342430</latitude>
+			<longitude>372430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Qasr -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372400</latitude>
+			<longitude>422972</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Walid -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369403</latitude>
+			<longitude>422153</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al `Amiriyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371158</latitude>
+			<longitude>419764</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="An Nabk -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>340264</latitude>
+			<longitude>367430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="An Namurajiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371903</latitude>
+			<longitude>422986</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anadan -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>362930</latitude>
+			<longitude>370430</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anadan ash Shih -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>357930</latitude>
+			<longitude>371764</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andivar -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372900</latitude>
+			<longitude>422016</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ar Rashidiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371297</latitude>
+			<longitude>422294</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ariha -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>358236</latitude>
+			<longitude>366180</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Armanaz -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>360930</latitude>
+			<longitude>365097</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="As Sab` Jifar -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369700</latitude>
+			<longitude>420861</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="As Safh -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371575</latitude>
+			<longitude>420697</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="As Sa`idah `Amqun -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369980</latitude>
+			<longitude>420239</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="As Sihrij al Gharbi -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369347</latitude>
+			<longitude>420730</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="As Suwaydah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371822</latitude>
+			<longitude>420311</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="As Suwaydiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369661</latitude>
+			<longitude>421664</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ash Shamiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371311</latitude>
+			<longitude>421441</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ash Shaykh Ibrahim -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371030</latitude>
+			<longitude>419119</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayn al Khadra -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372205</latitude>
+			<longitude>421739</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayn Bazuq -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372308</latitude>
+			<longitude>421955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayn Rumaylan -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370097</latitude>
+			<longitude>419930</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayn Wark -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372250</latitude>
+			<longitude>422489</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayn `Akfat al Ma`laji -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370314</latitude>
+			<longitude>423147</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Az Zahriyah at Tahtaniyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371853</latitude>
+			<longitude>423303</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bab al Hawa -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372079</latitude>
+			<longitude>421287</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bachoute -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372129</latitude>
+			<longitude>422106</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bajayrik -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372142</latitude>
+			<longitude>421381</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banias -- (State: Tartus)">
+			<state>Tartus</state>
+			<latitude>351765</latitude>
+			<longitude>360931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Banukiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371598</latitude>
+			<longitude>420098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baqirwan -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371229</latitude>
+			<longitude>418629</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bara Beit -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372495</latitude>
+			<longitude>421737</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barhouz -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372445</latitude>
+			<longitude>422417</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bdama -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>358265</latitude>
+			<longitude>362098</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bosra -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>325265</latitude>
+			<longitude>364931</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bouriss -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371954</latitude>
+			<longitude>421870</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chibaniye -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371599</latitude>
+			<longitude>422599</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chmassiye -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372080</latitude>
+			<longitude>423121</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Choueira -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370099</latitude>
+			<longitude>420266</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Daail -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>327600</latitude>
+			<longitude>361433</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dakshuriyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371267</latitude>
+			<longitude>419767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dalawi Karah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371544</latitude>
+			<longitude>419183</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dama -- (State: As Suwayda)">
+			<state>As Suwayda</state>
+			<latitude>329644</latitude>
+			<longitude>364425</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damascus -- (State: Dimashq)">
+			<state>Dimashq</state>
+			<latitude>335100</latitude>
+			<longitude>363100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damascus -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>334767</latitude>
+			<longitude>362600</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damascus Ghouta">
+			<state></state>
+			<latitude>335100</latitude>
+			<longitude>363933</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damascus-Baramkeh -- (State: Dimashq)">
+			<state>Dimashq</state>
+			<latitude>335267</latitude>
+			<longitude>362933</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Damascus-Hejaz -- (State: Dimashq)">
+			<state>Dimashq</state>
+			<latitude>335267</latitude>
+			<longitude>363100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dara -- (State: As Suwayda)">
+			<state>As Suwayda</state>
+			<latitude>327281</latitude>
+			<longitude>364158</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Daraya -- (State: Dimashq)">
+			<state>Dimashq</state>
+			<latitude>334600</latitude>
+			<longitude>362600</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dar`a">
+			<state></state>
+			<latitude>326353</latitude>
+			<longitude>361161</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dayr ad Dijlah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372725</latitude>
+			<longitude>422969</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dayr Yasin -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372656</latitude>
+			<longitude>422211</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deir Zzor -- (State: Dayr az Zawr)">
+			<state>Dayr az Zawr</state>
+			<latitude>353433</latitude>
+			<longitude>401600</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deir-ez-Zor -- (State: Dayr az Zawr)">
+			<state>Dayr az Zawr</state>
+			<latitude>355100</latitude>
+			<longitude>390100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deraa -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>330100</latitude>
+			<longitude>361767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Djilliqa -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371292</latitude>
+			<longitude>419692</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dougueurka -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370381</latitude>
+			<longitude>420058</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Douma -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>335100</latitude>
+			<longitude>365100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Douma -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>353433</latitude>
+			<longitude>370100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Douma -- (State: As Suwayda)">
+			<state>As Suwayda</state>
+			<latitude>328433</latitude>
+			<longitude>367933</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doumane -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>362933</latitude>
+			<longitude>374767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doumar -- (State: Dimashq)">
+			<state>Dimashq</state>
+			<latitude>335433</latitude>
+			<longitude>362433</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doumazine -- (State: Al Ladhiqiyah)">
+			<state>Al Ladhiqiyah</state>
+			<latitude>356433</latitude>
+			<longitude>361100</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Draikich -- (State: Al Ladhiqiyah)">
+			<state>Al Ladhiqiyah</state>
+			<latitude>351933</latitude>
+			<longitude>360267</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Draikich -- (State: Tartus)">
+			<state>Tartus</state>
+			<latitude>348933</latitude>
+			<longitude>361433</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ezraa Station -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>328601</latitude>
+			<longitude>362434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fulqiya -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371427</latitude>
+			<longitude>420133</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ghasm -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>325547</latitude>
+			<longitude>363836</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guir Damik -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371264</latitude>
+			<longitude>418975</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guira Ziara -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370686</latitude>
+			<longitude>420653</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guirek -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371436</latitude>
+			<longitude>422270</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guirre -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371097</latitude>
+			<longitude>420072</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Habakah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371590</latitude>
+			<longitude>420273</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Habb el Haoua -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372604</latitude>
+			<longitude>421604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Habur">
+			<state></state>
+			<latitude>371271</latitude>
+			<longitude>423604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hajji Harun -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371271</latitude>
+			<longitude>422604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hajji Matar -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372104</latitude>
+			<longitude>420937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hakamiye -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371879</latitude>
+			<longitude>422310</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halab">
+			<state></state>
+			<latitude>362132</latitude>
+			<longitude>371690</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halabie -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>361437</latitude>
+			<longitude>374604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halabiyah -- (State: Dayr az Zawr)">
+			<state>Dayr az Zawr</state>
+			<latitude>356604</latitude>
+			<longitude>396771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halabiye -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369121</latitude>
+			<longitude>411818</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halamouze -- (State: Hims)">
+			<state>Hims</state>
+			<latitude>348271</latitude>
+			<longitude>366771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Halboun -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>336771</latitude>
+			<longitude>362604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hallaqah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370871</latitude>
+			<longitude>419054</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hama -- (State: Hamah)">
+			<state>Hamah</state>
+			<latitude>351771</latitude>
+			<longitude>366771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hama Kebir -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>365104</latitude>
+			<longitude>382271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hama Saghir -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>364937</latitude>
+			<longitude>382604</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamad al Jurud -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>360437</latitude>
+			<longitude>408854</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamad as Sajr -- (State: Ar Raqqah)">
+			<state>Ar Raqqah</state>
+			<latitude>355590</latitude>
+			<longitude>393937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamad Karra -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>361937</latitude>
+			<longitude>408076</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamad `Assaf -- (State: Ar Raqqah)">
+			<state>Ar Raqqah</state>
+			<latitude>358465</latitude>
+			<longitude>394937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamadat al `Amr -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>350326</latitude>
+			<longitude>374521</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamah -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>359910</latitude>
+			<longitude>371410</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamain Jurani -- (State: Al Ladhiqiyah)">
+			<state>Al Ladhiqiyah</state>
+			<latitude>352937</latitude>
+			<longitude>360937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamam -- (State: Al Ladhiqiyah)">
+			<state>Al Ladhiqiyah</state>
+			<latitude>356937</latitude>
+			<longitude>359271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamam Cheik Issa -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>359104</latitude>
+			<longitude>363771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamamik -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>367271</latitude>
+			<longitude>384937</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamamiyate -- (State: Hamah)">
+			<state>Hamah</state>
+			<latitude>353771</latitude>
+			<longitude>365437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haman -- (State: Tartus)">
+			<state>Tartus</state>
+			<latitude>347604</latitude>
+			<longitude>359437</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamar Taouil -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>368882</latitude>
+			<longitude>412776</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamara -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>327937</latitude>
+			<longitude>362271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamas -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>367798</latitude>
+			<longitude>411518</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hamdan -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370343</latitude>
+			<longitude>420810</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hammamok -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370104</latitude>
+			<longitude>422271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasakeh -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>365104</latitude>
+			<longitude>410104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hattin -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371573</latitude>
+			<longitude>421004</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hayakah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372515</latitude>
+			<longitude>422712</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hayfa -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371662</latitude>
+			<longitude>423040</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haymat -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371568</latitude>
+			<longitude>421215</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Henvi -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371118</latitude>
+			<longitude>421329</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hims">
+			<state></state>
+			<latitude>347437</latitude>
+			<longitude>367271</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Homs -- (State: Hims)">
+			<state>Hims</state>
+			<latitude>342604</latitude>
+			<longitude>380104</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Homs Lake -- (State: Hims)">
+			<state>Hims</state>
+			<latitude>346604</latitude>
+			<longitude>365771</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Idleb -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>359272</latitude>
+			<longitude>365938</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inkhel -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>330105</latitude>
+			<longitude>361272</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isma`iliyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371730</latitude>
+			<longitude>420566</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jableh -- (State: Al Ladhiqiyah)">
+			<state>Al Ladhiqiyah</state>
+			<latitude>353439</latitude>
+			<longitude>360939</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jarudiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371773</latitude>
+			<longitude>420439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jayrud -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>338273</latitude>
+			<longitude>367439</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jayrud Lake -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>338287</latitude>
+			<longitude>368134</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jirablus -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>368281</latitude>
+			<longitude>380217</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jisr esh Shaur -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>358262</latitude>
+			<longitude>363281</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kafer Aaouaid -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>356274</latitude>
+			<longitude>364607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kafer Hamra -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>362607</latitude>
+			<longitude>374274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kafer Nebal -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>356107</latitude>
+			<longitude>365774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaff al Aswad -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370407</latitude>
+			<longitude>422946</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kamishli -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370107</latitude>
+			<longitude>412607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kani Mutrub -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371996</latitude>
+			<longitude>422504</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kani Nabi -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371340</latitude>
+			<longitude>419421</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kani Qirq -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371168</latitude>
+			<longitude>419585</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karatchock Darh -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370749</latitude>
+			<longitude>421685</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karatshan -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371274</latitude>
+			<longitude>421607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kas Tabane -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371263</latitude>
+			<longitude>418732</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kasan -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372607</latitude>
+			<longitude>422774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Keichke -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370832</latitude>
+			<longitude>418690</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khane Serri -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370949</latitude>
+			<longitude>420876</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khanik -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370774</latitude>
+			<longitude>423774</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharab Abu Ghalib as Subhiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369607</latitude>
+			<longitude>420140</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharab Bunyan -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369810</latitude>
+			<longitude>420190</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharab Rachek -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371518</latitude>
+			<longitude>423485</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharab Rekkaba -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371674</latitude>
+			<longitude>423010</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kharab Run -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371107</latitude>
+			<longitude>423440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khirbat al Walid -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370713</latitude>
+			<longitude>421813</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khirbat `Abbas -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370107</latitude>
+			<longitude>420107</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khirbat `Izz ad Din -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369829</latitude>
+			<longitude>421274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khirbat `Ubayd -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372182</latitude>
+			<longitude>421963</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kir Balat -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370632</latitude>
+			<longitude>423124</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kir Zarin -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372224</latitude>
+			<longitude>422710</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kir Zerik -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371774</latitude>
+			<longitude>421440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiri Qaran -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371682</latitude>
+			<longitude>421651</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kisswa -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>333607</latitude>
+			<longitude>362440</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kulijan -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371274</latitude>
+			<longitude>419274</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kundak Tayyib -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371107</latitude>
+			<longitude>418607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laylak Dagh -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371014</latitude>
+			<longitude>420347</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maamachour -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371584</latitude>
+			<longitude>422001</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maaret el Noman -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>356556</latitude>
+			<longitude>366848</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maaret-enn Naamane -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>355942</latitude>
+			<longitude>366776</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malla Marsah Saghir -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370895</latitude>
+			<longitude>422740</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manbej -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>363442</latitude>
+			<longitude>380109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manbij -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>365376</latitude>
+			<longitude>379673</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mawzalan -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371392</latitude>
+			<longitude>422623</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mayadine -- (State: Dayr az Zawr)">
+			<state>Dayr az Zawr</state>
+			<latitude>350109</latitude>
+			<longitude>404276</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mazra`at ash Shati -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372442</latitude>
+			<longitude>423303</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mazra`at Balah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372856</latitude>
+			<longitude>422287</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mazra`at Jamus al Gharbiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370887</latitude>
+			<longitude>422609</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mazra`at Jamus ash Sharqiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370803</latitude>
+			<longitude>422915</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mazra`at Muslim -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372873</latitude>
+			<longitude>422545</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meyadine -- (State: Dayr az Zawr)">
+			<state>Dayr az Zawr</state>
+			<latitude>350276</latitude>
+			<longitude>404609</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mir `Aziz -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371337</latitude>
+			<longitude>421042</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mlaiha ech Charqiye -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>327703</latitude>
+			<longitude>363767</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mnine -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>336609</latitude>
+			<longitude>363109</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Muhanbal -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>357942</latitude>
+			<longitude>364776</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nawa -- (State: Hamah)">
+			<state>Hamah</state>
+			<latitude>351943</latitude>
+			<longitude>370610</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nawa -- (State: Hims)">
+			<state>Hims</state>
+			<latitude>348443</latitude>
+			<longitude>369777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nawa -- (State: Dar`a)">
+			<state>Dar`a</state>
+			<latitude>328943</latitude>
+			<longitude>360610</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nawatif -- (State: Tartus)">
+			<state>Tartus</state>
+			<latitude>351652</latitude>
+			<longitude>361735</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nawawis -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>335777</latitude>
+			<longitude>360777</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouadi Aarour -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369778</latitude>
+			<longitude>420111</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouadi Mella Marse -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370944</latitude>
+			<longitude>422611</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Palmyra -- (State: Hims)">
+			<state>Hims</state>
+			<latitude>345612</latitude>
+			<longitude>382945</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paltos -- (State: Al Ladhiqiyah)">
+			<state>Al Ladhiqiyah</state>
+			<latitude>352612</latitude>
+			<longitude>359279</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parali -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>366945</latitude>
+			<longitude>385445</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parpar -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>334279</latitude>
+			<longitude>361445</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Parsa Dagh -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>366481</latitude>
+			<longitude>370434</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Penndir -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>368279</latitude>
+			<longitude>381612</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Peunar Aali -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370779</latitude>
+			<longitude>411945</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Phiale -- (State: Al Qunaytirah)">
+			<state>Al Qunaytirah</state>
+			<latitude>332434</latitude>
+			<longitude>357756</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Philppopolis -- (State: As Suwayda)">
+			<state>As Suwayda</state>
+			<latitude>328612</latitude>
+			<longitude>366445</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plain of Bukeiah">
+			<state></state>
+			<latitude>347112</latitude>
+			<longitude>363612</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plaine de Aakkar">
+			<state></state>
+			<latitude>346612</latitude>
+			<longitude>360612</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Posidium -- (State: Al Ladhiqiyah)">
+			<state>Al Ladhiqiyah</state>
+			<latitude>358279</latitude>
+			<longitude>358279</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poste de Tell Aalo -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369112</latitude>
+			<longitude>417945</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qabbasin -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>364280</latitude>
+			<longitude>375780</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qada Ruhaybah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371994</latitude>
+			<longitude>421032</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qal`at al Hisn -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369902</latitude>
+			<longitude>422591</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qameshli -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370610</latitude>
+			<longitude>412377</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qara Kharab -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372160</latitude>
+			<longitude>423349</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qarachok -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370719</latitude>
+			<longitude>421555</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qarah -- (State: Hamah)">
+			<state>Hamah</state>
+			<latitude>353446</latitude>
+			<longitude>368446</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qarah -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>364446</latitude>
+			<longitude>377280</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qarah -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>341613</latitude>
+			<longitude>367446</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qasr Dib -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372396</latitude>
+			<longitude>421513</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qatana -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>334446</latitude>
+			<longitude>360946</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qaysariyat al Fawqani -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371560</latitude>
+			<longitude>421896</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quldman -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369735</latitude>
+			<longitude>421996</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qumkhanah -- (State: Hamah)">
+			<state>Hamah</state>
+			<latitude>352113</latitude>
+			<longitude>367446</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qunaytirah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370388</latitude>
+			<longitude>418952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rakka -- (State: Ar Raqqah)">
+			<state>Ar Raqqah</state>
+			<latitude>360114</latitude>
+			<longitude>385114</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reabaria -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371286</latitude>
+			<longitude>420689</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rihanik -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372614</latitude>
+			<longitude>422447</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rumaylan -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370281</latitude>
+			<longitude>419781</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rumaylan ash Shaykh -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369789</latitude>
+			<longitude>419897</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Safan Cayi">
+			<state></state>
+			<latitude>370998</latitude>
+			<longitude>423607</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sakirkah Miru -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371532</latitude>
+			<longitude>422476</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salihah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371782</latitude>
+			<longitude>420782</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saqba -- (State: Dimashq)">
+			<state>Dimashq</state>
+			<latitude>335282</latitude>
+			<longitude>363948</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saqbalah -- (State: Tartus)">
+			<state>Tartus</state>
+			<latitude>351782</latitude>
+			<longitude>360698</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarmasaq al Fawqani -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371521</latitude>
+			<longitude>419871</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sarmsak -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371448</latitude>
+			<longitude>419948</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seguirka -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370407</latitude>
+			<longitude>419287</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seguirka Faouqani -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370640</latitude>
+			<longitude>418629</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shadadi -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>360782</latitude>
+			<longitude>407615</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shamsiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372268</latitude>
+			<longitude>421209</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sharm ash Shaykh -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371143</latitude>
+			<longitude>422182</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Shaymatah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371782</latitude>
+			<longitude>420948</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soueidik -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371282</latitude>
+			<longitude>421782</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sweida -- (State: As Suwayda)">
+			<state>As Suwayda</state>
+			<latitude>326782</latitude>
+			<longitude>369282</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Syrian Arab Republic">
+			<state></state>
+			<latitude>350115</latitude>
+			<longitude>380115</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tadef -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>363449</latitude>
+			<longitude>375449</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taibet el Imam -- (State: Hamah)">
+			<state>Hamah</state>
+			<latitude>352783</latitude>
+			<longitude>367283</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Talkalakh -- (State: Hims)">
+			<state>Hims</state>
+			<latitude>346783</latitude>
+			<longitude>362616</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall ad Durrah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370716</latitude>
+			<longitude>419091</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall adh Dhahab -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369947</latitude>
+			<longitude>421235</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall al A`war -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370822</latitude>
+			<longitude>419610</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall al Umara -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371558</latitude>
+			<longitude>422294</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall Asfar -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370874</latitude>
+			<longitude>420452</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall Aswad -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370680</latitude>
+			<longitude>421019</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall Fakhkhar -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370566</latitude>
+			<longitude>420338</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall Ghazal -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369455</latitude>
+			<longitude>420483</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall Khardal -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370283</latitude>
+			<longitude>421949</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall Lun -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371499</latitude>
+			<longitude>422972</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall Rif`at -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>364783</latitude>
+			<longitude>371116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall Shams -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371449</latitude>
+			<longitude>422922</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall Umayyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370927</latitude>
+			<longitude>419288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tall `Arur -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370363</latitude>
+			<longitude>420674</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallal Ahmar -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370333</latitude>
+			<longitude>422991</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tallas Sidq -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371560</latitude>
+			<longitude>421199</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="TallDayyiq -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369955</latitude>
+			<longitude>420785</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tartous -- (State: Tartus)">
+			<state>Tartus</state>
+			<latitude>348449</latitude>
+			<longitude>359283</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tcham Charaf -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372449</latitude>
+			<longitude>423485</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tcham Tcheilak -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371222</latitude>
+			<longitude>422902</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tell Aadass -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370210</latitude>
+			<longitude>420958</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tell ech Cheikh -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370783</latitude>
+			<longitude>421116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tell Jammal -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370616</latitude>
+			<longitude>420116</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tell Khannzir Kebir -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370069</latitude>
+			<longitude>422227</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tell Khannzir Serhir -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370038</latitude>
+			<longitude>422363</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tell Oulia -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371916</latitude>
+			<longitude>420716</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tell Roumelane -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370047</latitude>
+			<longitude>419922</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tell Roumelane Kebir -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369616</latitude>
+			<longitude>419783</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tigre -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371783</latitude>
+			<longitude>421616</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tildar -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>372616</latitude>
+			<longitude>422283</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tulayfah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370583</latitude>
+			<longitude>421419</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Turamish -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370827</latitude>
+			<longitude>423413</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umm at Tulul -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370456</latitude>
+			<longitude>422370</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urum al Jawz -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>357950</latitude>
+			<longitude>365784</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaafour -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>335451</latitude>
+			<longitude>360785</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vadii Hamra">
+			<state></state>
+			<latitude>364285</latitude>
+			<longitude>391118</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vanik -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371285</latitude>
+			<longitude>421118</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vieux Meskene -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>359951</latitude>
+			<longitude>381118</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi al Burj al Akhdar -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371119</latitude>
+			<longitude>422925</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi al Murr">
+			<state></state>
+			<latitude>370452</latitude>
+			<longitude>423952</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Ma`mashur">
+			<state></state>
+			<latitude>371591</latitude>
+			<longitude>422205</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Sa`dun -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370466</latitude>
+			<longitude>420583</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Suwas -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>370286</latitude>
+			<longitude>421813</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi `Adas -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369705</latitude>
+			<longitude>420836</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi `Awarid -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>369994</latitude>
+			<longitude>421244</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yabroud -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>339788</latitude>
+			<longitude>366788</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yabus -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>336660</latitude>
+			<longitude>359838</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yacoub Addis -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>362788</latitude>
+			<longitude>370288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yafa -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371252</latitude>
+			<longitude>421793</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yahmoul -- (State: Idlib)">
+			<state>Idlib</state>
+			<latitude>360621</latitude>
+			<longitude>367121</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yahudiyah -- (State: Al Qunaytirah)">
+			<state>Al Qunaytirah</state>
+			<latitude>329490</latitude>
+			<longitude>357132</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yalishli -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>366121</latitude>
+			<longitude>377788</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yolannli -- (State: Halab)">
+			<state>Halab</state>
+			<latitude>365454</latitude>
+			<longitude>377288</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yunisiyah -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371877</latitude>
+			<longitude>421029</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabadani -- (State: Rif Dimashq)">
+			<state>Rif Dimashq</state>
+			<latitude>337289</latitude>
+			<longitude>360955</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zghat -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371886</latitude>
+			<longitude>422805</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zheire -- (State: Al Hasakah)">
+			<state>Al Hasakah</state>
+			<latitude>371622</latitude>
+			<longitude>423289</longitude>
+			<timezone>200</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

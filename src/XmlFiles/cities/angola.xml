@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Angola">
+		<city name="1.0 de Maio -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-126495</latitude>
+			<longitude>134835</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="28 de Maio -- (State: Bengo)">
+			<state>Bengo</state>
+			<latitude>-79450</latitude>
+			<longitude>142050</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="28 de Maio -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-62950</latitude>
+			<longitude>150883</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="31 de Janeiro -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-68949</latitude>
+			<longitude>153218</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="5 de Outubro -- (State: Cuanza Norte)">
+			<state>Cuanza Norte</state>
+			<latitude>-95114</latitude>
+			<longitude>178220</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Augusto -- (State: Huambo)">
+			<state>Huambo</state>
+			<latitude>-118236</latitude>
+			<longitude>154430</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benguela">
+			<state></state>
+			<latitude>-125685</latitude>
+			<longitude>134170</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benguela -- (State: Huambo)">
+			<state>Huambo</state>
+			<latitude>-120902</latitude>
+			<longitude>152931</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benguela Bay -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-125913</latitude>
+			<longitude>133495</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benguela Velha -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-107235</latitude>
+			<longitude>137598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Benguela-Bie Plateau -- (State: Bie)">
+			<state>Bie</state>
+			<latitude>-124902</latitude>
+			<longitude>170098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cabinda -- (State: Lunda Norte)">
+			<state>Lunda Norte</state>
+			<latitude>-81568</latitude>
+			<longitude>181266</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cabinda">
+			<state></state>
+			<latitude>-55401</latitude>
+			<longitude>122099</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="D. Antonio -- (State: Cuanza Norte)">
+			<state>Cuanza Norte</state>
+			<latitude>-89067</latitude>
+			<longitude>149933</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="D. Ituca -- (State: Cuando Cubango)">
+			<state>Cuando Cubango</state>
+			<latitude>-142567</latitude>
+			<longitude>171267</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ejito -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-119510</latitude>
+			<longitude>137765</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elomba -- (State: Huambo)">
+			<state>Huambo</state>
+			<latitude>-125899</latitude>
+			<longitude>158768</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="F. Pires -- (State: Huambo)">
+			<state>Huambo</state>
+			<latitude>-126898</latitude>
+			<longitude>151769</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flamingos River -- (State: Namibe)">
+			<state>Namibe</state>
+			<latitude>-155398</latitude>
+			<longitude>120269</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Granja Palmira -- (State: Bengo)">
+			<state>Bengo</state>
+			<latitude>-84897</latitude>
+			<longitude>134270</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Henda -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-76229</latitude>
+			<longitude>151271</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hninganja -- (State: Huambo)">
+			<state>Huambo</state>
+			<latitude>-125079</latitude>
+			<longitude>153810</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huambo">
+			<state></state>
+			<latitude>-127657</latitude>
+			<longitude>157496</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huambo -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-75396</latitude>
+			<longitude>155437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huambo -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-125396</latitude>
+			<longitude>142604</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huambo -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-118396</latitude>
+			<longitude>142437</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huambo -- (State: Huila)">
+			<state>Huila</state>
+			<latitude>-148229</latitude>
+			<longitude>153771</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huambo Province -- (State: Huambo)">
+			<state>Huambo</state>
+			<latitude>-124896</latitude>
+			<longitude>156771</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iloza -- (State: Moxico)">
+			<state>Moxico</state>
+			<latitude>-116895</latitude>
+			<longitude>236605</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimbe">
+			<state></state>
+			<latitude>-111061</latitude>
+			<longitude>240106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joao Chilamba -- (State: Lunda Sul)">
+			<state>Lunda Sul</state>
+			<latitude>-103894</latitude>
+			<longitude>215106</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khavango -- (State: Malanje)">
+			<state>Malanje</state>
+			<latitude>-112893</latitude>
+			<longitude>177107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobito -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-115059</latitude>
+			<longitude>145441</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobito">
+			<state></state>
+			<latitude>-123089</latitude>
+			<longitude>136105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobito -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-123373</latitude>
+			<longitude>135564</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobito Bay -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-123139</latitude>
+			<longitude>135897</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lobito Point -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-123059</latitude>
+			<longitude>135941</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luanda -- (State: Malanje)">
+			<state>Malanje</state>
+			<latitude>-94725</latitude>
+			<longitude>166108</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luanda -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-110392</latitude>
+			<longitude>147941</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luanda -- (State: Cuanza Norte)">
+			<state>Cuanza Norte</state>
+			<latitude>-92725</latitude>
+			<longitude>149441</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luanda -- (State: Moxico)">
+			<state>Moxico</state>
+			<latitude>-114225</latitude>
+			<longitude>231775</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luanda">
+			<state></state>
+			<latitude>-88275</latitude>
+			<longitude>132452</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luanda -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-74059</latitude>
+			<longitude>148775</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luanda Maiengo -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-73892</latitude>
+			<longitude>148608</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luanda Quibala -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-74559</latitude>
+			<longitude>149275</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luanda Senga -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-76559</latitude>
+			<longitude>152108</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Luandai -- (State: Moxico)">
+			<state>Moxico</state>
+			<latitude>-128225</latitude>
+			<longitude>197441</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malongo -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-66058</latitude>
+			<longitude>150442</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malongo -- (State: Cuanza Norte)">
+			<state>Cuanza Norte</state>
+			<latitude>-83391</latitude>
+			<longitude>158109</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuinza -- (State: Cuanza Norte)">
+			<state>Cuanza Norte</state>
+			<latitude>-89723</latitude>
+			<longitude>155277</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuncarica -- (State: Huila)">
+			<state>Huila</state>
+			<latitude>-156890</latitude>
+			<longitude>140277</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Piri -- (State: Cuanza Norte)">
+			<state>Cuanza Norte</state>
+			<latitude>-85055</latitude>
+			<longitude>144279</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soyo -- (State: Zaire)">
+			<state>Zaire</state>
+			<latitude>-61218</latitude>
+			<longitude>123782</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Spiandalo">
+			<state></state>
+			<latitude>-125399</latitude>
+			<longitude>134321</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="T chico -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-117551</latitude>
+			<longitude>141283</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Travessa -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-121051</latitude>
+			<longitude>140949</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upinde -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-119383</latitude>
+			<longitude>146117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upula -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-116716</latitude>
+			<longitude>149617</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uremba -- (State: Huambo)">
+			<state>Huambo</state>
+			<latitude>-120050</latitude>
+			<longitude>153117</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waco-Kungo -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-113381</latitude>
+			<longitude>151286</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wama -- (State: Huambo)">
+			<state>Huambo</state>
+			<latitude>-122214</latitude>
+			<longitude>155619</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Whales Head -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-115714</latitude>
+			<longitude>137786</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaca -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-119546</latitude>
+			<longitude>145121</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamba -- (State: Benguela)">
+			<state>Benguela</state>
+			<latitude>-119546</latitude>
+			<longitude>144788</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanquira -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-115712</latitude>
+			<longitude>147621</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yatu -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-71212</latitude>
+			<longitude>147621</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yema -- (State: Cabinda)">
+			<state>Cabinda</state>
+			<latitude>-57212</latitude>
+			<longitude>122954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yomba -- (State: Cuando Cubango)">
+			<state>Cuando Cubango</state>
+			<latitude>-176879</latitude>
+			<longitude>218121</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ytumbo -- (State: Cuanza Sul)">
+			<state>Cuanza Sul</state>
+			<latitude>-116046</latitude>
+			<longitude>141954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yumbaka -- (State: Moxico)">
+			<state>Moxico</state>
+			<latitude>-143879</latitude>
+			<longitude>216621</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yungue -- (State: Huambo)">
+			<state>Huambo</state>
+			<latitude>-119379</latitude>
+			<longitude>154954</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zondo -- (State: Cuanza Norte)">
+			<state>Cuanza Norte</state>
+			<latitude>-84711</latitude>
+			<longitude>155789</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zongo -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-66711</latitude>
+			<longitude>149455</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zonzo -- (State: Uige)">
+			<state>Uige</state>
+			<latitude>-76545</latitude>
+			<longitude>144789</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zovo -- (State: Lunda Norte)">
+			<state>Lunda Norte</state>
+			<latitude>-80878</latitude>
+			<longitude>181789</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

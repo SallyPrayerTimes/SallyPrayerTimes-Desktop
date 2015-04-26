@@ -1,0 +1,502 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Aruba">
+		<city name="Barcelona">
+			<state></state>
+			<latitude>125265</latitude>
+			<longitude>-700069</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Blumond">
+			<state></state>
+			<latitude>125431</latitude>
+			<longitude>-709735</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boca Chikitu">
+			<state></state>
+			<latitude>125765</latitude>
+			<longitude>-699735</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cas di Paloma">
+			<state></state>
+			<latitude>124932</latitude>
+			<longitude>-699901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cashero">
+			<state></state>
+			<latitude>125266</latitude>
+			<longitude>-699734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Casibari">
+			<state></state>
+			<latitude>125432</latitude>
+			<longitude>-699734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ceru Colorado">
+			<state></state>
+			<latitude>124266</latitude>
+			<longitude>-698568</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ceru Grandi">
+			<state></state>
+			<latitude>125932</latitude>
+			<longitude>-700068</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ceru Pretu">
+			<state></state>
+			<latitude>124599</latitude>
+			<longitude>-698901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cudarebe">
+			<state></state>
+			<latitude>126266</latitude>
+			<longitude>-700568</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dacota">
+			<state></state>
+			<latitude>125100</latitude>
+			<longitude>-700067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="De Vuyst">
+			<state></state>
+			<latitude>124433</latitude>
+			<longitude>-698733</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dos Playa">
+			<state></state>
+			<latitude>125100</latitude>
+			<longitude>-699067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Druif">
+			<state></state>
+			<latitude>126100</latitude>
+			<longitude>-700067</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falcon">
+			<state></state>
+			<latitude>125435</latitude>
+			<longitude>-700065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fontein">
+			<state></state>
+			<latitude>125102</latitude>
+			<longitude>-698898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gasparito">
+			<state></state>
+			<latitude>125603</latitude>
+			<longitude>-700230</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gran Tonel">
+			<state></state>
+			<latitude>124936</latitude>
+			<longitude>-699064</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Habrie">
+			<state></state>
+			<latitude>125104</latitude>
+			<longitude>-700229</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadikoerari">
+			<state></state>
+			<latitude>125937</latitude>
+			<longitude>-700229</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haven Barcadera">
+			<state></state>
+			<latitude>124937</latitude>
+			<longitude>-699979</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indiaanskop">
+			<state></state>
+			<latitude>124272</latitude>
+			<longitude>-698895</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamanota">
+			<state></state>
+			<latitude>124939</latitude>
+			<longitude>-699227</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jan Flemming">
+			<state></state>
+			<latitude>124939</latitude>
+			<longitude>-699561</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaap Bassora">
+			<state></state>
+			<latitude>124274</latitude>
+			<longitude>-698393</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaas di Paloma">
+			<state></state>
+			<latitude>124940</latitude>
+			<longitude>-700060</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klein Lagoen">
+			<state></state>
+			<latitude>124107</latitude>
+			<longitude>-698560</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lagoen">
+			<state></state>
+			<latitude>124775</latitude>
+			<longitude>-699892</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mabon">
+			<state></state>
+			<latitude>124609</latitude>
+			<longitude>-699058</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Macuarima">
+			<state></state>
+			<latitude>125109</latitude>
+			<longitude>-699558</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mahuma">
+			<state></state>
+			<latitude>125109</latitude>
+			<longitude>-699724</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Malmok">
+			<state></state>
+			<latitude>126109</latitude>
+			<longitude>-700558</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matadera">
+			<state></state>
+			<latitude>125609</latitude>
+			<longitude>-700058</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Meiveld">
+			<state></state>
+			<latitude>125276</latitude>
+			<longitude>-699891</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Moco">
+			<state></state>
+			<latitude>125609</latitude>
+			<longitude>-699891</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanki">
+			<state></state>
+			<latitude>124277</latitude>
+			<longitude>-698723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noord">
+			<state></state>
+			<latitude>125777</latitude>
+			<longitude>-700057</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noord Cura Cabai">
+			<state></state>
+			<latitude>124610</latitude>
+			<longitude>-699223</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noordkaap">
+			<state></state>
+			<latitude>125443</latitude>
+			<longitude>-699223</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noordwestpunt">
+			<state></state>
+			<latitude>126277</latitude>
+			<longitude>-700390</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nune">
+			<state></state>
+			<latitude>125443</latitude>
+			<longitude>-699890</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oranjestad">
+			<state></state>
+			<latitude>125278</latitude>
+			<longitude>-700222</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palu Marga">
+			<state></state>
+			<latitude>124779</latitude>
+			<longitude>-698888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Paradijs">
+			<state></state>
+			<latitude>125445</latitude>
+			<longitude>-700221</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Poos Chikitoe">
+			<state></state>
+			<latitude>125779</latitude>
+			<longitude>-700555</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rincon">
+			<state></state>
+			<latitude>124781</latitude>
+			<longitude>-698553</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Awa Marga">
+			<state></state>
+			<latitude>125447</latitude>
+			<longitude>-699386</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Bosal">
+			<state></state>
+			<latitude>124781</latitude>
+			<longitude>-699719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Cochi">
+			<state></state>
+			<latitude>124447</latitude>
+			<longitude>-699219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Fluit">
+			<state></state>
+			<latitude>125281</latitude>
+			<longitude>-699219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Frances">
+			<state></state>
+			<latitude>124781</latitude>
+			<longitude>-699553</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Lamunchi">
+			<state></state>
+			<latitude>124614</latitude>
+			<longitude>-699386</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Master">
+			<state></state>
+			<latitude>124447</latitude>
+			<longitude>-699053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Prikichi">
+			<state></state>
+			<latitude>125447</latitude>
+			<longitude>-699553</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Prins">
+			<state></state>
+			<latitude>124947</latitude>
+			<longitude>-698886</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rooi Spoki">
+			<state></state>
+			<latitude>124447</latitude>
+			<longitude>-698886</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sabana Basora">
+			<state></state>
+			<latitude>124782</latitude>
+			<longitude>-699385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sabania Abao">
+			<state></state>
+			<latitude>125282</latitude>
+			<longitude>-699385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sero Bonchi">
+			<state></state>
+			<latitude>125115</latitude>
+			<longitude>-699218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sero Tijshi">
+			<state></state>
+			<latitude>124948</latitude>
+			<longitude>-699718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sint Arasji">
+			<state></state>
+			<latitude>126115</latitude>
+			<longitude>-700385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Smal">
+			<state></state>
+			<latitude>124448</latitude>
+			<longitude>-699385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tanki Cas Ariba">
+			<state></state>
+			<latitude>125116</latitude>
+			<longitude>-699384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turibana">
+			<state></state>
+			<latitude>125783</latitude>
+			<longitude>-700217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urataka">
+			<state></state>
+			<latitude>125284</latitude>
+			<longitude>-699550</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urirama">
+			<state></state>
+			<latitude>125950</latitude>
+			<longitude>-699883</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vader Piet">
+			<state></state>
+			<latitude>124785</latitude>
+			<longitude>-698715</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wariruri">
+			<state></state>
+			<latitude>125619</latitude>
+			<longitude>-699714</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wayaca">
+			<state></state>
+			<latitude>125119</latitude>
+			<longitude>-699881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Westhaven">
+			<state></state>
+			<latitude>125286</latitude>
+			<longitude>-700381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Westpunt">
+			<state></state>
+			<latitude>126119</latitude>
+			<longitude>-700214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

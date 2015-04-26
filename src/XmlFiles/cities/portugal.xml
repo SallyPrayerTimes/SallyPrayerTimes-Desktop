@@ -1,0 +1,978 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Portugal">
+		<city name="Albufeira -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>370930</latitude>
+			<longitude>-82403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albufeira da Defeza -- (State: Evora)">
+			<state>Evora</state>
+			<latitude>386097</latitude>
+			<longitude>-80570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albufeira da Venda Nova">
+			<state></state>
+			<latitude>416764</latitude>
+			<longitude>-79570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albufeira do Ermal -- (State: Braga)">
+			<state>Braga</state>
+			<latitude>415930</latitude>
+			<longitude>-81236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albufeira do Peso">
+			<state></state>
+			<latitude>388430</latitude>
+			<longitude>-81736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albufeira do Torres -- (State: Evora)">
+			<state>Evora</state>
+			<latitude>385097</latitude>
+			<longitude>-78570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almada -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>389430</latitude>
+			<longitude>-93236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almada -- (State: Santarem)">
+			<state>Santarem</state>
+			<latitude>389097</latitude>
+			<longitude>-86903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almada -- (State: Setubal)">
+			<state>Setubal</state>
+			<latitude>386930</latitude>
+			<longitude>-91403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almada de Ouro -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>373264</latitude>
+			<longitude>-74403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amadora -- (State: Beja)">
+			<state>Beja</state>
+			<latitude>381430</latitude>
+			<longitude>-72903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amadora -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387597</latitude>
+			<longitude>-92236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aveiro">
+			<state></state>
+			<latitude>406430</latitude>
+			<longitude>-86403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiro -- (State: Vila Real)">
+			<state>Vila Real</state>
+			<latitude>413765</latitude>
+			<longitude>-78235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiro -- (State: Porto)">
+			<state>Porto</state>
+			<latitude>410765</latitude>
+			<longitude>-84569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiro -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>404765</latitude>
+			<longitude>-85902</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiro -- (State: Aveiro)">
+			<state>Aveiro</state>
+			<latitude>410098</latitude>
+			<longitude>-84402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiro -- (State: Leiria)">
+			<state>Leiria</state>
+			<latitude>398598</latitude>
+			<longitude>-85069</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiro -- (State: Setubal)">
+			<state>Setubal</state>
+			<latitude>386765</latitude>
+			<longitude>-90569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiro -- (State: Viana do Castelo)">
+			<state>Viana do Castelo</state>
+			<latitude>419598</latitude>
+			<longitude>-84069</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiro de Besteiros -- (State: Viseu)">
+			<state>Viseu</state>
+			<latitude>405265</latitude>
+			<longitude>-81735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiros -- (State: Portalegre)">
+			<state>Portalegre</state>
+			<latitude>391598</latitude>
+			<longitude>-75069</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiros -- (State: Porto)">
+			<state>Porto</state>
+			<latitude>412431</latitude>
+			<longitude>-86235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiros -- (State: Leiria)">
+			<state>Leiria</state>
+			<latitude>397931</latitude>
+			<longitude>-88402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiros -- (State: Viseu)">
+			<state>Viseu</state>
+			<latitude>407598</latitude>
+			<longitude>-77735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiros -- (State: Vila Real)">
+			<state>Vila Real</state>
+			<latitude>416931</latitude>
+			<longitude>-72235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiros -- (State: Beja)">
+			<state>Beja</state>
+			<latitude>376931</latitude>
+			<longitude>-84735</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiros -- (State: Braga)">
+			<state>Braga</state>
+			<latitude>416265</latitude>
+			<longitude>-83902</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barreiros -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>401098</latitude>
+			<longitude>-85402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Braga">
+			<state></state>
+			<latitude>415598</latitude>
+			<longitude>-84235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cacem -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387766</latitude>
+			<longitude>-92901</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Caparica -- (State: Setubal)">
+			<state>Setubal</state>
+			<latitude>386766</latitude>
+			<longitude>-91901</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carnaxide -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387266</latitude>
+			<longitude>-92401</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carregado -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>390266</latitude>
+			<longitude>-89734</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cascais -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387099</latitude>
+			<longitude>-94068</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavaleiros -- (State: Aveiro)">
+			<state>Aveiro</state>
+			<latitude>403099</latitude>
+			<longitude>-84901</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavaleiros -- (State: Viana do Castelo)">
+			<state>Viana do Castelo</state>
+			<latitude>421266</latitude>
+			<longitude>-82401</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavaleiros -- (State: Santarem)">
+			<state>Santarem</state>
+			<latitude>389266</latitude>
+			<longitude>-85734</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavaleiros -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>400932</latitude>
+			<longitude>-85734</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cavaleiros -- (State: Portalegre)">
+			<state>Portalegre</state>
+			<latitude>390932</latitude>
+			<longitude>-82068</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coimbra">
+			<state></state>
+			<latitude>402099</latitude>
+			<longitude>-84068</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coimbra -- (State: Leiria)">
+			<state>Leiria</state>
+			<latitude>393432</latitude>
+			<longitude>-93068</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coimbra-B -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>402266</latitude>
+			<longitude>-84234</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coimbra-C -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>402099</latitude>
+			<longitude>-84234</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coimbrao -- (State: Leiria)">
+			<state>Leiria</state>
+			<latitude>399099</latitude>
+			<longitude>-88734</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Covilha -- (State: Castelo Branco)">
+			<state>Castelo Branco</state>
+			<latitude>402932</latitude>
+			<longitude>-74901</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Evora -- (State: Leiria)">
+			<state>Leiria</state>
+			<latitude>395268</latitude>
+			<longitude>-89566</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Evora">
+			<state></state>
+			<latitude>385768</latitude>
+			<longitude>-78899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Evora Monte -- (State: Evora)">
+			<state>Evora</state>
+			<latitude>387768</latitude>
+			<longitude>-77066</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fafe -- (State: Braga)">
+			<state>Braga</state>
+			<latitude>414602</latitude>
+			<longitude>-81565</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faro">
+			<state></state>
+			<latitude>370269</latitude>
+			<longitude>-79231</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faro -- (State: Braga)">
+			<state>Braga</state>
+			<latitude>415435</latitude>
+			<longitude>-87398</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faro do Alentejo -- (State: Beja)">
+			<state>Beja</state>
+			<latitude>381602</latitude>
+			<longitude>-79231</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farol da Cantareira -- (State: Porto)">
+			<state>Porto</state>
+			<latitude>411435</latitude>
+			<longitude>-86565</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fetais -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>390269</latitude>
+			<longitude>-91065</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fetais -- (State: Leiria)">
+			<state>Leiria</state>
+			<latitude>393435</latitude>
+			<longitude>-92898</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fetais -- (State: Azores)">
+			<state>Azores</state>
+			<latitude>384269</latitude>
+			<longitude>-280731</longitude>
+			<timezone>-100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fetais Cimeiros -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>400435</latitude>
+			<longitude>-83065</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Funchal -- (State: Madeira)">
+			<state>Madeira</state>
+			<latitude>326435</latitude>
+			<longitude>-168898</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Funchal -- (State: Viana do Castelo)">
+			<state>Viana do Castelo</state>
+			<latitude>418935</latitude>
+			<longitude>-87898</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Funchal -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>389102</latitude>
+			<longitude>-92731</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Funchal Bay -- (State: Madeira)">
+			<state>Madeira</state>
+			<latitude>326435</latitude>
+			<longitude>-169065</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guimaraes -- (State: Braga)">
+			<state>Braga</state>
+			<latitude>414603</latitude>
+			<longitude>-82897</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lagos -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>371108</latitude>
+			<longitude>-86559</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laranjeiro -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>370775</latitude>
+			<longitude>-77892</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leiria">
+			<state></state>
+			<latitude>397608</latitude>
+			<longitude>-87892</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lisboa-Rossio -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387275</latitude>
+			<longitude>-91392</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lisboa-Santa Apolonia -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387275</latitude>
+			<longitude>-91059</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lisbon -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387275</latitude>
+			<longitude>-91225</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Loures -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>388441</latitude>
+			<longitude>-91559</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mangualde -- (State: Braga)">
+			<state>Braga</state>
+			<latitude>414442</latitude>
+			<longitude>-85891</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Matosinhos -- (State: Vila Real)">
+			<state>Vila Real</state>
+			<latitude>416442</latitude>
+			<longitude>-74724</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Matosinhos -- (State: Porto)">
+			<state>Porto</state>
+			<latitude>410442</latitude>
+			<longitude>-86058</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mem Martins -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387942</latitude>
+			<longitude>-93391</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Merces -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>388109</latitude>
+			<longitude>-93058</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odivelas -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387944</latitude>
+			<longitude>-91722</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odivelas -- (State: Beja)">
+			<state>Beja</state>
+			<latitude>381778</latitude>
+			<longitude>-81389</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oporto -- (State: Porto)">
+			<state>Porto</state>
+			<latitude>411611</latitude>
+			<longitude>-86056</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Palmela -- (State: Setubal)">
+			<state>Setubal</state>
+			<latitude>385779</latitude>
+			<longitude>-88888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Delgada -- (State: Azores)">
+			<state>Azores</state>
+			<latitude>377445</latitude>
+			<longitude>-256555</longitude>
+			<timezone>-100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Delgada -- (State: Madeira)">
+			<state>Madeira</state>
+			<latitude>328279</latitude>
+			<longitude>-169721</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Portimao -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>371445</latitude>
+			<longitude>-85221</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>390779</latitude>
+			<longitude>-90221</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto -- (State: Viana do Castelo)">
+			<state>Viana do Castelo</state>
+			<latitude>420279</latitude>
+			<longitude>-84388</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto -- (State: Castelo Branco)">
+			<state>Castelo Branco</state>
+			<latitude>398779</latitude>
+			<longitude>-79888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Trinidade -- (State: Porto)">
+			<state>Porto</state>
+			<latitude>411612</latitude>
+			<longitude>-85888</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Povoa Santa Iria -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>388612</latitude>
+			<longitude>-90555</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarteira -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>370780</latitude>
+			<longitude>-80887</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santarem">
+			<state></state>
+			<latitude>392448</latitude>
+			<longitude>-86718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santarem -- (State: Leiria)">
+			<state>Leiria</state>
+			<latitude>399115</latitude>
+			<longitude>-82552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Seia -- (State: Guarda)">
+			<state>Guarda</state>
+			<latitude>404282</latitude>
+			<longitude>-76885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Setubal">
+			<state></state>
+			<latitude>385448</latitude>
+			<longitude>-88885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sintra -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>388115</latitude>
+			<longitude>-93718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ucanha -- (State: Viseu)">
+			<state>Viseu</state>
+			<latitude>410617</latitude>
+			<longitude>-77383</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ucha -- (State: Viana do Castelo)">
+			<state>Viana do Castelo</state>
+			<latitude>419950</latitude>
+			<longitude>-84216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ucha -- (State: Braga)">
+			<state>Braga</state>
+			<latitude>415950</latitude>
+			<longitude>-85216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulgueira -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>387950</latitude>
+			<longitude>-94550</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulme -- (State: Santarem)">
+			<state>Santarem</state>
+			<latitude>393284</latitude>
+			<longitude>-84216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulmeiro -- (State: Leiria)">
+			<state>Leiria</state>
+			<latitude>396784</latitude>
+			<longitude>-86550</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umbria -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>371950</latitude>
+			<longitude>-77383</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umbrias de Camacho -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>372617</latitude>
+			<longitude>-76383</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unhais do Serra -- (State: Castelo Branco)">
+			<state>Castelo Branco</state>
+			<latitude>402784</latitude>
+			<longitude>-76050</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unhais-o-Velho -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>401450</latitude>
+			<longitude>-78050</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unhao -- (State: Porto)">
+			<state>Porto</state>
+			<latitude>413284</latitude>
+			<longitude>-82216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Unhos -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>388284</latitude>
+			<longitude>-91050</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urcinas -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>399784</latitude>
+			<longitude>-83550</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urgal -- (State: Guarda)">
+			<state>Guarda</state>
+			<latitude>410617</latitude>
+			<longitude>-70883</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urgeiro -- (State: Castelo Branco)">
+			<state>Castelo Branco</state>
+			<latitude>400617</latitude>
+			<longitude>-77883</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urgeses -- (State: Braga)">
+			<state>Braga</state>
+			<latitude>414284</latitude>
+			<longitude>-82883</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urgueira -- (State: Porto)">
+			<state>Porto</state>
+			<latitude>411617</latitude>
+			<longitude>-79550</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urgueira -- (State: Guarda)">
+			<state>Guarda</state>
+			<latitude>403450</latitude>
+			<longitude>-71216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urgueira -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>402784</latitude>
+			<longitude>-80883</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urgueira -- (State: Aveiro)">
+			<state>Aveiro</state>
+			<latitude>406284</latitude>
+			<longitude>-82383</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urjais -- (State: Viana do Castelo)">
+			<state>Viana do Castelo</state>
+			<latitude>420784</latitude>
+			<longitude>-82383</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urjais -- (State: Vila Real)">
+			<state>Vila Real</state>
+			<latitude>418450</latitude>
+			<longitude>-72216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urraca -- (State: Castelo Branco)">
+			<state>Castelo Branco</state>
+			<latitude>399950</latitude>
+			<longitude>-78883</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urro -- (State: Aveiro)">
+			<state>Aveiro</state>
+			<latitude>409450</latitude>
+			<longitude>-82883</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urro -- (State: Porto)">
+			<state>Porto</state>
+			<latitude>411950</latitude>
+			<longitude>-83216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urros -- (State: Braganca)">
+			<state>Braganca</state>
+			<latitude>413617</latitude>
+			<longitude>-64550</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursas -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>388034</latitude>
+			<longitude>-94800</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ursulinas -- (State: Viana do Castelo)">
+			<state>Viana do Castelo</state>
+			<latitude>417117</latitude>
+			<longitude>-88216</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urzal -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>389450</latitude>
+			<longitude>-93716</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urzelhe -- (State: Coimbra)">
+			<state>Coimbra</state>
+			<latitude>401117</latitude>
+			<longitude>-83550</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urzelina -- (State: Azores)">
+			<state>Azores</state>
+			<latitude>386617</latitude>
+			<longitude>-281216</longitude>
+			<timezone>-100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Usseira -- (State: Leiria)">
+			<state>Leiria</state>
+			<latitude>393450</latitude>
+			<longitude>-91550</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uva -- (State: Braganca)">
+			<state>Braganca</state>
+			<latitude>414950</latitude>
+			<longitude>-65050</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uz -- (State: Braga)">
+			<state>Braga</state>
+			<latitude>415784</latitude>
+			<longitude>-78716</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vale de Santarem -- (State: Santarem)">
+			<state>Santarem</state>
+			<latitude>391951</latitude>
+			<longitude>-87215</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vialonga -- (State: Lisboa)">
+			<state>Lisboa</state>
+			<latitude>388785</latitude>
+			<longitude>-90715</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vialonga -- (State: Santarem)">
+			<state>Santarem</state>
+			<latitude>396618</latitude>
+			<longitude>-82882</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vila Nova da Cerveira -- (State: Viana do Castelo)">
+			<state>Viana do Castelo</state>
+			<latitude>419451</latitude>
+			<longitude>-87382</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vila Real de San Antonio -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>372118</latitude>
+			<longitude>-74049</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Viseu">
+			<state></state>
+			<latitude>406618</latitude>
+			<longitude>-79049</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xertelo -- (State: Vila Real)">
+			<state>Vila Real</state>
+			<latitude>417453</latitude>
+			<longitude>-80047</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ximeno -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>373620</latitude>
+			<longitude>-79713</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebreira -- (State: Castelo Branco)">
+			<state>Castelo Branco</state>
+			<latitude>398622</latitude>
+			<longitude>-70545</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zezere -- (State: Portalegre)">
+			<state>Portalegre</state>
+			<latitude>392455</latitude>
+			<longitude>-81378</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zido -- (State: Braganca)">
+			<state>Braganca</state>
+			<latitude>418789</latitude>
+			<longitude>-70211</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zimbreira -- (State: Faro)">
+			<state>Faro</state>
+			<latitude>372455</latitude>
+			<longitude>-82878</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

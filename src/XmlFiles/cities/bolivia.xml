@@ -1,0 +1,495 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bolivia">
+		<city name="25 de Julio -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-197450</latitude>
+			<longitude>-582450</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="318 Cachuela">
+			<state></state>
+			<latitude>-96949</latitude>
+			<longitude>-653949</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="6 de Abril -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-168613</latitude>
+			<longitude>-599779</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="6 de Agosto -- (State: Pando)">
+			<state>Pando</state>
+			<latitude>-109279</latitude>
+			<longitude>-671446</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="6 de Agosto -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-148113</latitude>
+			<longitude>-617613</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cochabamba">
+			<state></state>
+			<latitude>-173734</latitude>
+			<longitude>-661401</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Paz">
+			<state></state>
+			<latitude>-164892</latitude>
+			<longitude>-681392</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Paz -- (State: El Beni)">
+			<state>El Beni</state>
+			<latitude>-139559</latitude>
+			<longitude>-661895</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oruro">
+			<state></state>
+			<latitude>-179722</latitude>
+			<longitude>-671389</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Potosi">
+			<state></state>
+			<latitude>-195221</latitude>
+			<longitude>-657055</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Potosi Okko -- (State: Potosi)">
+			<state>Potosi</state>
+			<latitude>-196221</latitude>
+			<longitude>-650555</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Potosikkollu Loma -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-184224</latitude>
+			<longitude>-687313</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Cruz">
+			<state></state>
+			<latitude>-174885</latitude>
+			<longitude>-614885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Cruz -- (State: Pando)">
+			<state>Pando</state>
+			<latitude>-110218</latitude>
+			<longitude>-688885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Cruz -- (State: Tarija)">
+			<state>Tarija</state>
+			<latitude>-217385</latitude>
+			<longitude>-653052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Cruz -- (State: El Beni)">
+			<state>El Beni</state>
+			<latitude>-132385</latitude>
+			<longitude>-621552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Cruz -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-146385</latitude>
+			<longitude>-685718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Cruz de la Sierra -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-177885</latitude>
+			<longitude>-631552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Cruz de Llicona -- (State: Cochabamba)">
+			<state>Cochabamba</state>
+			<latitude>-167052</latitude>
+			<longitude>-668052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santa Cruz y Surutu -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-177718</latitude>
+			<longitude>-636218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sucre -- (State: Potosi)">
+			<state>Potosi</state>
+			<latitude>-216052</latitude>
+			<longitude>-661218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sucre -- (State: Chuquisaca)">
+			<state>Chuquisaca</state>
+			<latitude>-190316</latitude>
+			<longitude>-652477</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warisata -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-159548</latitude>
+			<longitude>-687048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waykho -- (State: Potosi)">
+			<state>Potosi</state>
+			<latitude>-215881</latitude>
+			<longitude>-674048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wichu Mundunata Pampa -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-186692</latitude>
+			<longitude>-686653</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wichukkollu Pampa -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-188214</latitude>
+			<longitude>-681048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wichuraya -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-168214</latitude>
+			<longitude>-682214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wila Callo Loma -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-182625</latitude>
+			<longitude>-687820</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wila Khanuta -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-174048</latitude>
+			<longitude>-684548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wila Kkollu -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-171714</latitude>
+			<longitude>-676048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wila Kkollu -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-181214</latitude>
+			<longitude>-690548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wila Kkollu Pampa -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-185414</latitude>
+			<longitude>-685400</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wila Pampa -- (State: Potosi)">
+			<state>Potosi</state>
+			<latitude>-202548</latitude>
+			<longitude>-684881</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilaque -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-181881</latitude>
+			<longitude>-669548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willkhi Pampa -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-174214</latitude>
+			<longitude>-685214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willki -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-170881</latitude>
+			<longitude>-688214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willki -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-186048</latitude>
+			<longitude>-668214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wintu -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-168881</latitude>
+			<longitude>-688381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wira Wirani Pampa -- (State: Potosi)">
+			<state>Potosi</state>
+			<latitude>-204048</latitude>
+			<longitude>-686214</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuinaimarca">
+			<state></state>
+			<latitude>-163214</latitude>
+			<longitude>-689048</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zacari -- (State: Potosi)">
+			<state>Potosi</state>
+			<latitude>-217545</latitude>
+			<longitude>-657878</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zacarlas -- (State: Pando)">
+			<state>Pando</state>
+			<latitude>-111045</latitude>
+			<longitude>-682545</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanja Honda -- (State: Tarija)">
+			<state>Tarija</state>
+			<latitude>-219045</latitude>
+			<longitude>-633378</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanja Negra -- (State: Tarija)">
+			<state>Tarija</state>
+			<latitude>-218545</latitude>
+			<longitude>-629045</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapallaca -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-176878</latitude>
+			<longitude>-602545</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapana -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-165711</latitude>
+			<longitude>-689378</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapatera -- (State: Tarija)">
+			<state>Tarija</state>
+			<latitude>-211545</latitude>
+			<longitude>-638045</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapateriyoc -- (State: Potosi)">
+			<state>Potosi</state>
+			<latitude>-216211</latitude>
+			<longitude>-662045</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapato Kara -- (State: Chuquisaca)">
+			<state>Chuquisaca</state>
+			<latitude>-209378</latitude>
+			<longitude>-647545</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapoco -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-165545</latitude>
+			<longitude>-615711</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapocoz -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-157878</latitude>
+			<longitude>-630545</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zappalero -- (State: Chuquisaca)">
+			<state>Chuquisaca</state>
+			<latitude>-206878</latitude>
+			<longitude>-641545</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaremota -- (State: Tarija)">
+			<state>Tarija</state>
+			<latitude>-211878</latitude>
+			<longitude>-637545</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zavala -- (State: Pando)">
+			<state>Pando</state>
+			<latitude>-113211</latitude>
+			<longitude>-677711</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zempeya -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-160878</latitude>
+			<longitude>-690878</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zenteno -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-177211</latitude>
+			<longitude>-627378</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zepita Pampa -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-189711</latitude>
+			<longitude>-676045</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zocorro Este -- (State: El Beni)">
+			<state>El Beni</state>
+			<latitude>-134095</latitude>
+			<longitude>-666136</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zocorro Norte -- (State: El Beni)">
+			<state>El Beni</state>
+			<latitude>-133892</latitude>
+			<longitude>-666495</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zocorro Sur -- (State: El Beni)">
+			<state>El Beni</state>
+			<latitude>-134011</latitude>
+			<longitude>-666447</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zongo -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-161045</latitude>
+			<longitude>-680211</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zongochoro -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-156878</latitude>
+			<longitude>-676711</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorcota -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-174045</latitude>
+			<longitude>-693878</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorrinos -- (State: Potosi)">
+			<state>Potosi</state>
+			<latitude>-216045</latitude>
+			<longitude>-655711</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorro Chata -- (State: Oruro)">
+			<state>Oruro</state>
+			<latitude>-180114</latitude>
+			<longitude>-686920</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zorro Unu Pampa -- (State: Potosi)">
+			<state>Potosi</state>
+			<latitude>-209711</latitude>
+			<longitude>-676045</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zouponte -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>-153545</latitude>
+			<longitude>-679211</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zozobra -- (State: Santa Cruz)">
+			<state>Santa Cruz</state>
+			<latitude>-177545</latitude>
+			<longitude>-640211</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zudanez -- (State: Chuquisaca)">
+			<state>Chuquisaca</state>
+			<latitude>-191045</latitude>
+			<longitude>-646878</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zurima -- (State: Chuquisaca)">
+			<state>Chuquisaca</state>
+			<latitude>-187378</latitude>
+			<longitude>-650711</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

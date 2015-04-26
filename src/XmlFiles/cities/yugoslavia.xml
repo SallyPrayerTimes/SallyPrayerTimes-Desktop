@@ -1,0 +1,278 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Yugoslavia">
+		<city name="Bar -- (State: Crna Gora (Montenegro))">
+			<state>Crna Gora (Montenegro)</state>
+			<latitude>421029</latitude>
+			<longitude>191101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barice -- (State: Crna Gora (Montenegro))">
+			<state>Crna Gora (Montenegro)</state>
+			<latitude>427620</latitude>
+			<longitude>189776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belgrade -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>448284</latitude>
+			<longitude>204779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cajetina -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>437599</latitude>
+			<longitude>197266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gjilan -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>424539</latitude>
+			<longitude>214867</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gusinje -- (State: Crna Gora (Montenegro))">
+			<state>Crna Gora (Montenegro)</state>
+			<latitude>425722</latitude>
+			<longitude>198442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kosovo -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>425940</latitude>
+			<longitude>210107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kosovo Polje -- (State: Crna Gora (Montenegro))">
+			<state>Crna Gora (Montenegro)</state>
+			<latitude>431185</latitude>
+			<longitude>196254</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mitrovica -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>429115</latitude>
+			<longitude>208912</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mitrovica Kosovska -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>428942</latitude>
+			<longitude>208776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nis -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>435599</latitude>
+			<longitude>197960</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Novi Pazar -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>431477</latitude>
+			<longitude>205232</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Novi Sad -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>452627</latitude>
+			<longitude>198479</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Opoje -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>421250</latitude>
+			<longitude>207025</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pec -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>435909</latitude>
+			<longitude>195326</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plav -- (State: Crna Gora (Montenegro))">
+			<state>Crna Gora (Montenegro)</state>
+			<latitude>426081</latitude>
+			<longitude>199568</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Plevlja -- (State: Crna Gora (Montenegro))">
+			<state>Crna Gora (Montenegro)</state>
+			<latitude>433631</latitude>
+			<longitude>193640</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Podgorica -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>437865</latitude>
+			<longitude>196940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Podgorica -- (State: Crna Gora (Montenegro))">
+			<state>Crna Gora (Montenegro)</state>
+			<latitude>424523</latitude>
+			<longitude>192748</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Presheve -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>423204</latitude>
+			<longitude>216604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pristina -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>426779</latitude>
+			<longitude>211779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Prizren -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>422251</latitude>
+			<longitude>207509</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sjenica -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>432846</latitude>
+			<longitude>200109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sojeve -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>423851</latitude>
+			<longitude>212373</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulcinj -- (State: Crna Gora (Montenegro))">
+			<state>Crna Gora (Montenegro)</state>
+			<latitude>419400</latitude>
+			<longitude>192181</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vladimir -- (State: Crna Gora (Montenegro))">
+			<state>Crna Gora (Montenegro)</state>
+			<latitude>420185</latitude>
+			<longitude>193246</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wachenheim -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>459519</latitude>
+			<longitude>191772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waldau an der Donau -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>456066</latitude>
+			<longitude>191100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weisskirchen -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>449094</latitude>
+			<longitude>214291</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wekerle -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>453419</latitude>
+			<longitude>194483</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Werschitz -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>451286</latitude>
+			<longitude>213155</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wojwodina -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>455119</latitude>
+			<longitude>200119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wolfingen -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>455069</latitude>
+			<longitude>192000</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wolfsburg -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>456208</latitude>
+			<longitude>195383</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerxa -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>420909</latitude>
+			<longitude>206973</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerxe -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>423617</latitude>
+			<longitude>205826</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaqova -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>423924</latitude>
+			<longitude>204429</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yastrebac -- (State: Srbija (Serbia))">
+			<state>Srbija (Serbia)</state>
+			<latitude>429288</latitude>
+			<longitude>221954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yugoslavia">
+			<state></state>
+			<latitude>437621</latitude>
+			<longitude>207621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Oceans">
+		<city name="Adriatisches Meer">
+			<state></state>
+			<latitude>430097</latitude>
+			<longitude>160097</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aigaion Pelagos">
+			<state></state>
+			<latitude>390097</latitude>
+			<longitude>250097</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ak Deniz">
+			<state></state>
+			<latitude>350097</latitude>
+			<longitude>200097</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alboran Sea">
+			<state></state>
+			<latitude>356764</latitude>
+			<longitude>-29903</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arabian Gulf">
+			<state></state>
+			<latitude>270097</latitude>
+			<longitude>510097</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arabian Sea">
+			<state></state>
+			<latitude>200097</latitude>
+			<longitude>650097</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aral skoye More">
+			<state></state>
+			<latitude>450097</latitude>
+			<longitude>600097</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asowsches Meer">
+			<state></state>
+			<latitude>460097</latitude>
+			<longitude>360097</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barents Hav">
+			<state></state>
+			<latitude>740098</latitude>
+			<longitude>360098</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bass Strait">
+			<state></state>
+			<latitude>-393235</latitude>
+			<longitude>1455098</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bay of Fundy">
+			<state></state>
+			<latitude>450098</latitude>
+			<longitude>-659902</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beaufort Sea">
+			<state></state>
+			<latitude>700098</latitude>
+			<longitude>-1349902</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bellingshausen Sea">
+			<state></state>
+			<latitude>-709902</latitude>
+			<longitude>-849902</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beloye More">
+			<state></state>
+			<latitude>655098</latitude>
+			<longitude>380098</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belt Sea">
+			<state></state>
+			<latitude>555098</latitude>
+			<longitude>110098</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bien Dong">
+			<state></state>
+			<latitude>150098</latitude>
+			<longitude>1150098</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bingala Aw">
+			<state></state>
+			<latitude>150098</latitude>
+			<longitude>900098</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bismarck Sea">
+			<state></state>
+			<latitude>-39902</latitude>
+			<longitude>1480098</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Black Sea">
+			<state></state>
+			<latitude>430098</latitude>
+			<longitude>350098</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bouches de Bonifacio">
+			<state></state>
+			<latitude>413098</latitude>
+			<longitude>92598</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bristol Channel">
+			<state></state>
+			<latitude>513431</latitude>
+			<longitude>-44902</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Celebes Zee">
+			<state></state>
+			<latitude>30099</latitude>
+			<longitude>1220099</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chukotskoye More">
+			<state></state>
+			<latitude>690099</latitude>
+			<longitude>-1739901</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danmerkursund">
+			<state></state>
+			<latitude>650100</latitude>
+			<longitude>-279900</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dardanelles">
+			<state></state>
+			<latitude>402600</latitude>
+			<longitude>264267</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Davisstraedet">
+			<state></state>
+			<latitude>640100</latitude>
+			<longitude>-569900</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Der Kanal">
+			<state></state>
+			<latitude>500100</latitude>
+			<longitude>-9900</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dogdo Island">
+			<state></state>
+			<latitude>372600</latitude>
+			<longitude>1318767</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dover Strait">
+			<state></state>
+			<latitude>510100</latitude>
+			<longitude>15100</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Siberian Sea">
+			<state></state>
+			<latitude>740101</latitude>
+			<longitude>1660101</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Estrecho de Gibraltar">
+			<state></state>
+			<latitude>359601</latitude>
+			<longitude>-55899</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faeroe Channel">
+			<state></state>
+			<latitude>610102</latitude>
+			<longitude>-39898</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finskiy Zaliv">
+			<state></state>
+			<latitude>600102</latitude>
+			<longitude>270102</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flores Sea">
+			<state></state>
+			<latitude>-79898</latitude>
+			<longitude>1210102</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Franklin D. Roosevelt Sea">
+			<state></state>
+			<latitude>-724898</latitude>
+			<longitude>-1119065</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Golfo de Panama">
+			<state></state>
+			<latitude>80103</latitude>
+			<longitude>-794897</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gronland See">
+			<state></state>
+			<latitude>750103</latitude>
+			<longitude>-99897</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gulf of Aqaba">
+			<state></state>
+			<latitude>290103</latitude>
+			<longitude>346770</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gulf of California">
+			<state></state>
+			<latitude>280103</latitude>
+			<longitude>-1119897</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gulf of Mexico">
+			<state></state>
+			<latitude>250103</latitude>
+			<longitude>-899897</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gulf of Oman">
+			<state></state>
+			<latitude>250103</latitude>
+			<longitude>580103</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Higashi-suido">
+			<state></state>
+			<latitude>340104</latitude>
+			<longitude>1295104</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iberian Sea">
+			<state></state>
+			<latitude>400105</latitude>
+			<longitude>20105</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inland Sea">
+			<state></state>
+			<latitude>343438</latitude>
+			<longitude>1335105</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inner Sound">
+			<state></state>
+			<latitude>574272</latitude>
+			<longitude>-59228</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inside Passage">
+			<state></state>
+			<latitude>480105</latitude>
+			<longitude>-1223895</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ionian Sea">
+			<state></state>
+			<latitude>390105</latitude>
+			<longitude>190105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itameri">
+			<state></state>
+			<latitude>560105</latitude>
+			<longitude>180105</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jawa Sea">
+			<state></state>
+			<latitude>-49894</latitude>
+			<longitude>1100106</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jolo See">
+			<state></state>
+			<latitude>90106</latitude>
+			<longitude>1200106</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joseph Bonaparte Gulf">
+			<state></state>
+			<latitude>-142394</latitude>
+			<longitude>1285106</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamchatka Sea">
+			<state></state>
+			<latitude>600107</latitude>
+			<longitude>-1749893</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kane Basin">
+			<state></state>
+			<latitude>795107</latitude>
+			<longitude>-689893</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karskoye More">
+			<state></state>
+			<latitude>760107</latitude>
+			<longitude>800107</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaspiy Tengizi">
+			<state></state>
+			<latitude>420107</latitude>
+			<longitude>500107</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kattegat">
+			<state></state>
+			<latitude>570107</latitude>
+			<longitude>110107</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khalij as Suways">
+			<state></state>
+			<latitude>281774</latitude>
+			<longitude>334607</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khawr al Kafka">
+			<state></state>
+			<latitude>296774</latitude>
+			<longitude>488440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Khor al Amaya">
+			<state></state>
+			<latitude>297607</latitude>
+			<longitude>488440</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiel Bay">
+			<state></state>
+			<latitude>545940</latitude>
+			<longitude>105940</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koreyskiy Zaliv">
+			<state></state>
+			<latitude>390107</latitude>
+			<longitude>1240107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuroshio Current">
+			<state></state>
+			<latitude>400107</latitude>
+			<longitude>1500107</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuroshio-hanryu">
+			<state></state>
+			<latitude>300107</latitude>
+			<longitude>1390107</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kwang Sea">
+			<state></state>
+			<latitude>360107</latitude>
+			<longitude>1240107</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labrador Meer">
+			<state></state>
+			<latitude>570108</latitude>
+			<longitude>-549892</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lakshadweep Sea">
+			<state></state>
+			<latitude>80108</latitude>
+			<longitude>750108</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laptev Sea">
+			<state></state>
+			<latitude>760108</latitude>
+			<longitude>1260108</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laut Andaman">
+			<state></state>
+			<latitude>100108</latitude>
+			<longitude>950108</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laut Arafuru">
+			<state></state>
+			<latitude>-89892</latitude>
+			<longitude>1330108</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laut Bali">
+			<state></state>
+			<latitude>-77392</latitude>
+			<longitude>1155108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laut Banda">
+			<state></state>
+			<latitude>-34431</latitude>
+			<longitude>1227355</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laut Sawu">
+			<state></state>
+			<latitude>-96559</latitude>
+			<longitude>1220108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Le Golfe de Gascogne">
+			<state></state>
+			<latitude>440108</latitude>
+			<longitude>-39892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Liman Reki Amura">
+			<state></state>
+			<latitude>528441</latitude>
+			<longitude>1415108</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lincoln Hav">
+			<state></state>
+			<latitude>830108</latitude>
+			<longitude>-579892</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Macassar">
+			<state></state>
+			<latitude>109</latitude>
+			<longitude>1185109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Molucca Sea">
+			<state></state>
+			<latitude>109</latitude>
+			<longitude>1250109</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocean Atlantique">
+			<state></state>
+			<latitude>100111</latitude>
+			<longitude>-249889</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocean Pacifique Sud">
+			<state></state>
+			<latitude>-449889</latitude>
+			<longitude>-1299889</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oceano Indiano">
+			<state></state>
+			<latitude>-99889</latitude>
+			<longitude>700111</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okhotsk Current">
+			<state></state>
+			<latitude>500111</latitude>
+			<longitude>1570111</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Strait">
+			<state></state>
+			<latitude>14778</latitude>
+			<longitude>1038111</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pasaje de Hoces">
+			<state></state>
+			<latitude>-599888</latitude>
+			<longitude>-599888</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Philippine Sea">
+			<state></state>
+			<latitude>200112</latitude>
+			<longitude>1350112</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pitt Passage">
+			<state></state>
+			<latitude>-24888</latitude>
+			<longitude>1280112</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plata River">
+			<state></state>
+			<latitude>-349888</latitude>
+			<longitude>-569888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Po Hai">
+			<state></state>
+			<latitude>385112</latitude>
+			<longitude>1200112</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pohjanlahti">
+			<state></state>
+			<latitude>630112</latitude>
+			<longitude>200112</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Polar Sea">
+			<state></state>
+			<latitude>850112</latitude>
+			<longitude>112</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pomeranian Bay">
+			<state></state>
+			<latitude>540112</latitude>
+			<longitude>142612</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Propontis">
+			<state></state>
+			<latitude>406779</latitude>
+			<longitude>282612</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riga-bukten">
+			<state></state>
+			<latitude>575114</latitude>
+			<longitude>235947</longitude>
+			<timezone>200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ross Sea">
+			<state></state>
+			<latitude>-749886</latitude>
+			<longitude>-1749886</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sea of Japan">
+			<state></state>
+			<latitude>435115</latitude>
+			<longitude>1357615</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taiwan Haixia">
+			<state></state>
+			<latitude>240116</latitude>
+			<longitude>1190116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tasman Sea">
+			<state></state>
+			<latitude>-399884</latitude>
+			<longitude>1600116</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tatar Strait">
+			<state></state>
+			<latitude>500116</latitude>
+			<longitude>1410116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teluk Bone">
+			<state></state>
+			<latitude>-39884</latitude>
+			<longitude>1206783</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teluk Tomini">
+			<state></state>
+			<latitude>-5859</latitude>
+			<longitude>1211063</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Straits">
+			<state></state>
+			<latitude>373449</latitude>
+			<longitude>113449</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tikhiy Okean">
+			<state></state>
+			<latitude>116</latitude>
+			<longitude>116</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Timor-zee">
+			<state></state>
+			<latitude>-104884</latitude>
+			<longitude>1260116</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Torres Strait">
+			<state></state>
+			<latitude>-104051</latitude>
+			<longitude>1421783</longitude>
+			<timezone>1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tsushima Kaikyo">
+			<state></state>
+			<latitude>340116</latitude>
+			<longitude>1290116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tung Hai">
+			<state></state>
+			<latitude>290116</latitude>
+			<longitude>1250116</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tungunski">
+			<state></state>
+			<latitude>550116</latitude>
+			<longitude>1500116</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tyosen Kaikyo">
+			<state></state>
+			<latitude>346783</latitude>
+			<longitude>1290116</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tyrrhenian Sea">
+			<state></state>
+			<latitude>400116</latitude>
+			<longitude>120116</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venetia">
+			<state></state>
+			<latitude>452618</latitude>
+			<longitude>130118</longitude>
+			<timezone>100</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Versterhavet">
+			<state></state>
+			<latitude>553451</latitude>
+			<longitude>30118</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinh Ba Bo">
+			<state></state>
+			<latitude>200118</latitude>
+			<longitude>1080118</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinh Thai Lan">
+			<state></state>
+			<latitude>100118</latitude>
+			<longitude>1020118</longitude>
+			<timezone>700</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaliv Shelikhova">
+			<state></state>
+			<latitude>597622</latitude>
+			<longitude>1580122</longitude>
+			<timezone>-1000</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zee van Halmahera">
+			<state></state>
+			<latitude>-9878</latitude>
+			<longitude>1290122</longitude>
+			<timezone>900</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

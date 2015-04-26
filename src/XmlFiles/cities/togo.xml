@@ -1,0 +1,894 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Togo">
+		<city name="Anecho -- (State: (TO02))">
+			<state>(TO02)</state>
+			<latitude>62430</latitude>
+			<longitude>16097</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anie -- (State: (TO03))">
+			<state>(TO03)</state>
+			<latitude>77597</latitude>
+			<longitude>12097</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anie">
+			<state></state>
+			<latitude>76764</latitude>
+			<longitude>13097</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anielakou">
+			<state></state>
+			<latitude>77764</latitude>
+			<longitude>11764</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cambole">
+			<state></state>
+			<latitude>87599</latitude>
+			<longitude>16099</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaboua">
+			<state></state>
+			<latitude>94099</latitude>
+			<longitude>9099</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chagre">
+			<state></state>
+			<latitude>78099</latitude>
+			<longitude>13599</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chila">
+			<state></state>
+			<latitude>72599</latitude>
+			<longitude>13432</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chutes Kling">
+			<state></state>
+			<latitude>87599</latitude>
+			<longitude>6932</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Circonscription d Amlame -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>75099</latitude>
+			<longitude>10599</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colline Andjian">
+			<state></state>
+			<latitude>98932</latitude>
+			<longitude>11599</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iabe">
+			<state></state>
+			<latitude>75772</latitude>
+			<longitude>9105</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iawaka">
+			<state></state>
+			<latitude>97772</latitude>
+			<longitude>8772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iba">
+			<state></state>
+			<latitude>84105</latitude>
+			<longitude>13772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iboubou">
+			<state></state>
+			<latitude>95105</latitude>
+			<longitude>4772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Idambado">
+			<state></state>
+			<latitude>98105</latitude>
+			<longitude>6105</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Idyobonpen">
+			<state></state>
+			<latitude>93605</latitude>
+			<longitude>7772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igboatchi">
+			<state></state>
+			<latitude>77772</latitude>
+			<longitude>15605</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igboloudja">
+			<state></state>
+			<latitude>80605</latitude>
+			<longitude>15772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Igbometji">
+			<state></state>
+			<latitude>86938</latitude>
+			<longitude>15605</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikpa Anigbe">
+			<state></state>
+			<latitude>71272</latitude>
+			<longitude>6272</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikpambo">
+			<state></state>
+			<latitude>99272</latitude>
+			<longitude>5272</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ikpasse">
+			<state></state>
+			<latitude>98105</latitude>
+			<longitude>3938</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ila">
+			<state></state>
+			<latitude>80438</latitude>
+			<longitude>12438</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iledi">
+			<state></state>
+			<latitude>74105</latitude>
+			<longitude>8438</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Illigo">
+			<state></state>
+			<latitude>72938</latitude>
+			<longitude>6605</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Illiko">
+			<state></state>
+			<latitude>76938</latitude>
+			<longitude>10272</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Illougba">
+			<state></state>
+			<latitude>78105</latitude>
+			<longitude>11605</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Imoindini">
+			<state></state>
+			<latitude>109772</latitude>
+			<longitude>6438</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inare">
+			<state></state>
+			<latitude>92772</latitude>
+			<longitude>5938</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inchantomboun">
+			<state></state>
+			<latitude>90772</latitude>
+			<longitude>7438</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Infalebou">
+			<state></state>
+			<latitude>95272</latitude>
+			<longitude>4438</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iniok">
+			<state></state>
+			<latitude>106105</latitude>
+			<longitude>1938</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inokope">
+			<state></state>
+			<latitude>69272</latitude>
+			<longitude>9772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Insakpene">
+			<state></state>
+			<latitude>92438</latitude>
+			<longitude>5105</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Insietouloo">
+			<state></state>
+			<latitude>101938</latitude>
+			<longitude>5605</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Intioungouta">
+			<state></state>
+			<latitude>99272</latitude>
+			<longitude>6938</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inyifale">
+			<state></state>
+			<latitude>103105</latitude>
+			<longitude>8605</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iounabe">
+			<state></state>
+			<latitude>73605</latitude>
+			<longitude>9272</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isandiapo">
+			<state></state>
+			<latitude>96272</latitude>
+			<longitude>5772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Isas">
+			<state></state>
+			<latitude>91605</latitude>
+			<longitude>14772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Issati">
+			<state></state>
+			<latitude>83605</latitude>
+			<longitude>13772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itokoube">
+			<state></state>
+			<latitude>76438</latitude>
+			<longitude>10772</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itoudou">
+			<state></state>
+			<latitude>74605</latitude>
+			<longitude>6605</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iwe">
+			<state></state>
+			<latitude>67772</latitude>
+			<longitude>5938</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jafade">
+			<state></state>
+			<latitude>66106</latitude>
+			<longitude>11106</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jambule">
+			<state></state>
+			<latitude>105439</latitude>
+			<longitude>1606</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Japaga">
+			<state></state>
+			<latitude>98606</latitude>
+			<longitude>7106</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jauwikovhe">
+			<state></state>
+			<latitude>73273</latitude>
+			<longitude>11773</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Je Gando -- (State: (TO11))">
+			<state>(TO11)</state>
+			<latitude>103431</latitude>
+			<longitude>7553</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jebou-Jebou">
+			<state></state>
+			<latitude>80606</latitude>
+			<longitude>13939</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jege">
+			<state></state>
+			<latitude>81939</latitude>
+			<longitude>6606</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jelifa">
+			<state></state>
+			<latitude>89606</latitude>
+			<longitude>12106</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeta">
+			<state></state>
+			<latitude>62773</latitude>
+			<longitude>17606</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jewindou">
+			<state></state>
+			<latitude>99939</latitude>
+			<longitude>6439</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jimmbiri">
+			<state></state>
+			<latitude>92439</latitude>
+			<longitude>7939</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jio -- (State: (TO18))">
+			<state>(TO18)</state>
+			<latitude>62934</latitude>
+			<longitude>12278</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiunjiunde">
+			<state></state>
+			<latitude>94106</latitude>
+			<longitude>8106</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joto">
+			<state></state>
+			<latitude>66939</latitude>
+			<longitude>13106</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kara">
+			<state></state>
+			<latitude>95940</latitude>
+			<longitude>11774</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karabuisi">
+			<state></state>
+			<latitude>92274</latitude>
+			<longitude>11274</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karan">
+			<state></state>
+			<latitude>101940</latitude>
+			<longitude>8774</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karangatji -- (State: (TO11))">
+			<state>(TO11)</state>
+			<latitude>105179</latitude>
+			<longitude>3635</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kpalime -- (State: Plateaux)">
+			<state>Plateaux</state>
+			<latitude>70940</latitude>
+			<longitude>7607</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lome -- (State: Maritime)">
+			<state>Maritime</state>
+			<latitude>61427</latitude>
+			<longitude>12336</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lome">
+			<state></state>
+			<latitude>63941</latitude>
+			<longitude>7441</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lome -- (State: (TO18))">
+			<state>(TO18)</state>
+			<latitude>64994</latitude>
+			<longitude>10175</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lome Road">
+			<state></state>
+			<latitude>61108</latitude>
+			<longitude>12608</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mango -- (State: Savanes)">
+			<state>Savanes</state>
+			<latitude>103701</latitude>
+			<longitude>4817</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palime">
+			<state></state>
+			<latitude>69112</latitude>
+			<longitude>6445</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Porto-Segouro -- (State: (TO02))">
+			<state>(TO02)</state>
+			<latitude>62126</latitude>
+			<longitude>14901</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapides d Adjarala">
+			<state></state>
+			<latitude>69114</latitude>
+			<longitude>16114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapides d Aoma">
+			<state></state>
+			<latitude>68447</latitude>
+			<longitude>16114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Region Centrale -- (State: Centrale)">
+			<state>Centrale</state>
+			<latitude>92614</latitude>
+			<longitude>10114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Region de la Kara -- (State: Kara)">
+			<state>Kara</state>
+			<latitude>96781</latitude>
+			<longitude>9281</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Region des Savanes -- (State: Savanes)">
+			<state>Savanes</state>
+			<latitude>105114</latitude>
+			<longitude>5114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Region Maritime -- (State: Maritime)">
+			<state>Maritime</state>
+			<latitude>65114</latitude>
+			<longitude>13447</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Republique Togolaise">
+			<state></state>
+			<latitude>80114</latitude>
+			<longitude>11781</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhanou">
+			<state></state>
+			<latitude>63114</latitude>
+			<longitude>14114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhatose -- (State: (TO10))">
+			<state>(TO10)</state>
+			<latitude>61731</latitude>
+			<longitude>13172</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhaye -- (State: (TO18))">
+			<state>(TO18)</state>
+			<latitude>63231</latitude>
+			<longitude>13045</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhebwidome">
+			<state></state>
+			<latitude>64281</latitude>
+			<longitude>16614</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhedjegan -- (State: (TO02))">
+			<state>(TO02)</state>
+			<latitude>63520</latitude>
+			<longitude>14800</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhedjekope">
+			<state></state>
+			<latitude>63447</latitude>
+			<longitude>14947</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhehou">
+			<state></state>
+			<latitude>63781</latitude>
+			<longitude>17614</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhekpe">
+			<state></state>
+			<latitude>65947</latitude>
+			<longitude>9114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhenonvi">
+			<state></state>
+			<latitude>67114</latitude>
+			<longitude>7281</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhetchevi -- (State: (TO10))">
+			<state>(TO10)</state>
+			<latitude>62028</latitude>
+			<longitude>11761</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhetovi">
+			<state></state>
+			<latitude>64614</latitude>
+			<longitude>8614</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhlande">
+			<state></state>
+			<latitude>63281</latitude>
+			<longitude>17447</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhodan -- (State: (TO10))">
+			<state>(TO10)</state>
+			<latitude>61745</latitude>
+			<longitude>13214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhonyo Kondji">
+			<state></state>
+			<latitude>67447</latitude>
+			<longitude>15114</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhotou -- (State: (TO10))">
+			<state>(TO10)</state>
+			<latitude>62314</latitude>
+			<longitude>11158</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rhoukope">
+			<state></state>
+			<latitude>65281</latitude>
+			<longitude>7614</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rochers d Okeloukoutou">
+			<state></state>
+			<latitude>76114</latitude>
+			<longitude>14947</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rodokpe">
+			<state></state>
+			<latitude>70614</latitude>
+			<longitude>11614</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rokotobio">
+			<state></state>
+			<latitude>76781</latitude>
+			<longitude>8447</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roupatchi">
+			<state></state>
+			<latitude>71114</latitude>
+			<longitude>14781</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Safenou">
+			<state></state>
+			<latitude>63115</latitude>
+			<longitude>16782</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sokode -- (State: Centrale)">
+			<state>Centrale</state>
+			<latitude>89948</latitude>
+			<longitude>11448</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tchamba -- (State: (TO19))">
+			<state>(TO19)</state>
+			<latitude>90449</latitude>
+			<longitude>14283</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uarde">
+			<state></state>
+			<latitude>99117</latitude>
+			<longitude>9450</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Undemba">
+			<state></state>
+			<latitude>97784</latitude>
+			<longitude>10284</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urenji">
+			<state></state>
+			<latitude>82284</latitude>
+			<longitude>8950</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vakpo">
+			<state></state>
+			<latitude>64451</latitude>
+			<longitude>9618</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valakope -- (State: (TO18))">
+			<state>(TO18)</state>
+			<latitude>63862</latitude>
+			<longitude>11426</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vamatchi -- (State: (TO18))">
+			<state>(TO18)</state>
+			<latitude>64587</latitude>
+			<longitude>11585</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vegoueme">
+			<state></state>
+			<latitude>63951</latitude>
+			<longitude>12451</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Viy -- (State: (TO18))">
+			<state>(TO18)</state>
+			<latitude>64210</latitude>
+			<longitude>11787</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vo-Afouime">
+			<state></state>
+			<latitude>63785</latitude>
+			<longitude>15285</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vogan">
+			<state></state>
+			<latitude>63451</latitude>
+			<longitude>12785</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vogba Kope">
+			<state></state>
+			<latitude>65785</latitude>
+			<longitude>12118</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vomeno Kope">
+			<state></state>
+			<latitude>67118</latitude>
+			<longitude>6785</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vonougba">
+			<state></state>
+			<latitude>64285</latitude>
+			<longitude>10451</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vou Apega">
+			<state></state>
+			<latitude>75451</latitude>
+			<longitude>10618</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voudjagble">
+			<state></state>
+			<latitude>63951</latitude>
+			<longitude>15285</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xantho">
+			<state></state>
+			<latitude>69453</latitude>
+			<longitude>10620</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zafi">
+			<state></state>
+			<latitude>66289</latitude>
+			<longitude>13955</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanve">
+			<state></state>
+			<latitude>62955</latitude>
+			<longitude>17622</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zebe">
+			<state></state>
+			<latitude>66122</latitude>
+			<longitude>15122</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zogbedji Papedome">
+			<state></state>
+			<latitude>64122</latitude>
+			<longitude>16289</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zogbegan">
+			<state></state>
+			<latitude>63622</latitude>
+			<longitude>16622</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zohoudji">
+			<state></state>
+			<latitude>67789</latitude>
+			<longitude>15622</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoki Kondji">
+			<state></state>
+			<latitude>63455</latitude>
+			<longitude>16789</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoume">
+			<state></state>
+			<latitude>64122</latitude>
+			<longitude>15955</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zouvi">
+			<state></state>
+			<latitude>67955</latitude>
+			<longitude>15289</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zowola Kpoguede">
+			<state></state>
+			<latitude>62955</latitude>
+			<longitude>15955</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

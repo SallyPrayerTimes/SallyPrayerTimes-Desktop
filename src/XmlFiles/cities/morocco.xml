@@ -1,0 +1,3015 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Morocco">
+		<city name="A urnouk -- (State: Al Hoceima)">
+			<state>Al Hoceima</state>
+			<latitude>350097</latitude>
+			<longitude>-39736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aderj -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>336430</latitude>
+			<longitude>-44236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>308264</latitude>
+			<longitude>-84403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir -- (State: (MO33))">
+			<state>(MO33)</state>
+			<latitude>290264</latitude>
+			<longitude>-102403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir">
+			<state></state>
+			<latitude>304097</latitude>
+			<longitude>-95903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>291930</latitude>
+			<longitude>-101070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>309764</latitude>
+			<longitude>-87070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>311764</latitude>
+			<longitude>-93570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>299597</latitude>
+			<longitude>-87570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>309430</latitude>
+			<longitude>-72070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir a Tasguedelt -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>301011</latitude>
+			<longitude>-90750</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Abbou -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305930</latitude>
+			<longitude>-86070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Afzaou -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305264</latitude>
+			<longitude>-83403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Aguenousil -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>301430</latitude>
+			<longitude>-83070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Ait Ameur -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>312680</latitude>
+			<longitude>-91950</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Ait Cherki -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>304930</latitude>
+			<longitude>-87236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir aj Jdid -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>304614</latitude>
+			<longitude>-80059</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Bou Adane -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>295647</latitude>
+			<longitude>-98192</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir bou Naga -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>307041</latitude>
+			<longitude>-95872</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Bou Setta -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>315097</latitude>
+			<longitude>-81403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir bou Teboul -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>292264</latitude>
+			<longitude>-80570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Boulnas -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>307430</latitude>
+			<longitude>-83403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Chems -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>314597</latitude>
+			<longitude>-81236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Chicht -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>316041</latitude>
+			<longitude>-96672</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Defla -- (State: Tetouan)">
+			<state>Tetouan</state>
+			<latitude>356916</latitude>
+			<longitude>-56775</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir el Ghazi -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>305139</latitude>
+			<longitude>-94856</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir el Hajj Hammou -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>306597</latitude>
+			<longitude>-85236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir el Hana -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>297764</latitude>
+			<longitude>-79736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir el Jedid -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>313366</latitude>
+			<longitude>-86484</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Frouadou -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>299097</latitude>
+			<longitude>-87403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Hourrach -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>312097</latitude>
+			<longitude>-89736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Iatouine -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>307097</latitude>
+			<longitude>-82903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Ida Ou Souar -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>307430</latitude>
+			<longitude>-92570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Idrain -- (State: (MO33))">
+			<state>(MO33)</state>
+			<latitude>290930</latitude>
+			<longitude>-93736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Igouramene -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>292597</latitude>
+			<longitude>-86903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Igr n Rharar -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>301930</latitude>
+			<longitude>-89236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Ikechrane -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>295930</latitude>
+			<longitude>-99070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Imezgaoun -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>307597</latitude>
+			<longitude>-91903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Infless -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>312430</latitude>
+			<longitude>-87736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Irijdalene -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>312764</latitude>
+			<longitude>-87570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Issardane -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>313764</latitude>
+			<longitude>-94736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Izder -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>296336</latitude>
+			<longitude>-98170</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Izouggouarhene -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>295166</latitude>
+			<longitude>-98742</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Izouika -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>299097</latitude>
+			<longitude>-95403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Izri -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>293930</latitude>
+			<longitude>-92403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Laaseri -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>292430</latitude>
+			<longitude>-101570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Lbour -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305930</latitude>
+			<longitude>-84903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Melloul -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>302430</latitude>
+			<longitude>-77903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Mohand -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>312597</latitude>
+			<longitude>-87736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Ait Ali -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>310405</latitude>
+			<longitude>-92492</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Ait Ali -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>291930</latitude>
+			<longitude>-89570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Ait Ouarhou -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>300430</latitude>
+			<longitude>-81736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Ait Sa -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>306097</latitude>
+			<longitude>-97070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Bourd -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>311597</latitude>
+			<longitude>-80903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Fifrane -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305930</latitude>
+			<longitude>-78570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Igourramen -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>313430</latitude>
+			<longitude>-79070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Imaoun -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>306264</latitude>
+			<longitude>-81570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Iznaguen -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305930</latitude>
+			<longitude>-83070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Larbaa -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>292764</latitude>
+			<longitude>-98903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Larbi -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305764</latitude>
+			<longitude>-85236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Ouigui -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>309430</latitude>
+			<longitude>-82236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Oumerhdir -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305764</latitude>
+			<longitude>-78070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Ouskouti -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>300097</latitude>
+			<longitude>-75736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Sri -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>300597</latitude>
+			<longitude>-87903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Tafent -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>313597</latitude>
+			<longitude>-78403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Tahiounine -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>306097</latitude>
+			<longitude>-87736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Tala -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>303430</latitude>
+			<longitude>-77736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Tamaloukt -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>297930</latitude>
+			<longitude>-83403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Tigida -- (State: (MO33))">
+			<state>(MO33)</state>
+			<latitude>293097</latitude>
+			<longitude>-91736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir n Tirsa -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>303597</latitude>
+			<longitude>-72403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Nimajjad -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>306930</latitude>
+			<longitude>-82736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Nouna -- (State: (MO33))">
+			<state>(MO33)</state>
+			<latitude>290264</latitude>
+			<longitude>-102570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir ou Anzizen -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>306764</latitude>
+			<longitude>-90736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Ouahziz -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>309764</latitude>
+			<longitude>-93736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir ouamesse -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>311097</latitude>
+			<longitude>-89903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Ouazeg -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>311430</latitude>
+			<longitude>-86570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Oudir -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>307264</latitude>
+			<longitude>-84570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Oufella -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>296100</latitude>
+			<longitude>-98136</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir oufra -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>309097</latitude>
+			<longitude>-80736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Ougni -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>299430</latitude>
+			<longitude>-90903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Ouzrou -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>294430</latitude>
+			<longitude>-82403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Rmel -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305597</latitude>
+			<longitude>-85570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Road -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>304264</latitude>
+			<longitude>-96070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Sidi Yakoub -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>300097</latitude>
+			<longitude>-89570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tafouete -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>307097</latitude>
+			<longitude>-82236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tagaouaout -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>313258</latitude>
+			<longitude>-93486</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tagoundaft -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>309430</latitude>
+			<longitude>-82736</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tassaout -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>313764</latitude>
+			<longitude>-80236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tazerout -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>304264</latitude>
+			<longitude>-83570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tifereh -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>299097</latitude>
+			<longitude>-78903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tiout -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>304097</latitude>
+			<longitude>-86903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tislane -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>300430</latitude>
+			<longitude>-90236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tissint -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>299097</latitude>
+			<longitude>-73070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Tolba -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305264</latitude>
+			<longitude>-87570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadir Touksous -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>306764</latitude>
+			<longitude>-81403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadiram -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>297430</latitude>
+			<longitude>-91903</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadirane -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>306711</latitude>
+			<longitude>-94547</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadiregane -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>303764</latitude>
+			<longitude>-95236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agadiri Iskounane -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>309603</latitude>
+			<longitude>-97917</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agdz -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>307075</latitude>
+			<longitude>-64400</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ahfir -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>349097</latitude>
+			<longitude>-36070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ahfir -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>349611</latitude>
+			<longitude>-20928</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ain Beni Mathar -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>340186</latitude>
+			<longitude>-20150</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ain Sebaa -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>336130</latitude>
+			<longitude>-75320</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ain Taoujdate -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>339430</latitude>
+			<longitude>-52070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ain Zora -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>346764</latitude>
+			<longitude>-35236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ait Baha -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>300930</latitude>
+			<longitude>-91570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ait Melloul -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>301764</latitude>
+			<longitude>-82070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aknoul -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>346597</latitude>
+			<longitude>-38570</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Al Hoceima du Rif -- (State: Al Hoceima)">
+			<state>Al Hoceima</state>
+			<latitude>351764</latitude>
+			<longitude>-38236</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alhucemas -- (State: Al Hoceima)">
+			<state>Al Hoceima</state>
+			<latitude>352589</latitude>
+			<longitude>-39231</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Asilah -- (State: Tanger)">
+			<state>Tanger</state>
+			<latitude>354753</latitude>
+			<longitude>-60306</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assa -- (State: (MO33))">
+			<state>(MO33)</state>
+			<latitude>286183</latitude>
+			<longitude>-94172</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assaka n Ait Douchau -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>305941</latitude>
+			<longitude>-71400</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Attaouia -- (State: El Kelaa des Sraghna)">
+			<state>El Kelaa des Sraghna</state>
+			<latitude>318466</latitude>
+			<longitude>-73011</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azemmour -- (State: El Jadida)">
+			<state>El Jadida</state>
+			<latitude>332972</latitude>
+			<longitude>-83345</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azilal">
+			<state></state>
+			<latitude>319766</latitude>
+			<longitude>-65597</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azrou -- (State: Ifrane)">
+			<state>Ifrane</state>
+			<latitude>334430</latitude>
+			<longitude>-52070</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ben Cherro -- (State: Beni Mellal)">
+			<state>Beni Mellal</state>
+			<latitude>324451</latitude>
+			<longitude>-59785</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ben Slimane">
+			<state></state>
+			<latitude>336220</latitude>
+			<longitude>-71113</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ben Tieb -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>350534</latitude>
+			<longitude>-34458</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ben-Ahemed -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>330098</latitude>
+			<longitude>-70235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Benahmed -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>330754</latitude>
+			<longitude>-72341</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Benguerir -- (State: El Kelaa des Sraghna)">
+			<state>El Kelaa des Sraghna</state>
+			<latitude>322431</latitude>
+			<longitude>-79402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beni Mellal">
+			<state></state>
+			<latitude>323265</latitude>
+			<longitude>-64569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beni Mellalla -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>338765</latitude>
+			<longitude>-49402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berkane -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>349309</latitude>
+			<longitude>-23196</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berrechid -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>332754</latitude>
+			<longitude>-75733</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Biougra -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>300417</latitude>
+			<longitude>-90574</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Biougra -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>312265</latitude>
+			<longitude>-88402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bou Arfa -- (State: Figuig)">
+			<state>Figuig</state>
+			<latitude>325431</latitude>
+			<longitude>-19569</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bou Arfa -- (State: Boulemane)">
+			<state>Boulemane</state>
+			<latitude>333765</latitude>
+			<longitude>-47235</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bou Jaad -- (State: Chaouen)">
+			<state>Chaouen</state>
+			<latitude>349598</latitude>
+			<longitude>-49902</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boujad -- (State: Khouribga)">
+			<state>Khouribga</state>
+			<latitude>327765</latitude>
+			<longitude>-63902</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boujdour">
+			<state></state>
+			<latitude>261431</latitude>
+			<longitude>-144902</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boulemane">
+			<state></state>
+			<latitude>333765</latitude>
+			<longitude>-47402</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boumia -- (State: Khenifra)">
+			<state>Khenifra</state>
+			<latitude>327334</latitude>
+			<longitude>-50908</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bouznika -- (State: Ben Slimane)">
+			<state>Ben Slimane</state>
+			<latitude>337995</latitude>
+			<longitude>-71477</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Caadoua -- (State: Al Hoceima)">
+			<state>Al Hoceima</state>
+			<latitude>350932</latitude>
+			<longitude>-41901</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Camp de Mediouna -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>334846</latitude>
+			<longitude>-75220</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cap Mohammedia -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>337285</latitude>
+			<longitude>-73854</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Casablanca">
+			<state></state>
+			<latitude>336030</latitude>
+			<longitude>-76065</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Casablanca el Hank -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>336252</latitude>
+			<longitude>-76415</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Casablanca-Port -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>336099</latitude>
+			<longitude>-76068</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Casablanca-Roches Noires -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>336099</latitude>
+			<longitude>-75734</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chaouen">
+			<state></state>
+			<latitude>350099</latitude>
+			<longitude>-50734</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chefchaouene -- (State: Chaouen)">
+			<state>Chaouen</state>
+			<latitude>351813</latitude>
+			<longitude>-52598</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chichaoua -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>315543</latitude>
+			<longitude>-87562</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dakhlah">
+			<state></state>
+			<latitude>237100</latitude>
+			<longitude>-159233</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Demnate -- (State: Azilal)">
+			<state>Azilal</state>
+			<latitude>317411</latitude>
+			<longitude>-69936</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Douar el Groun -- (State: El Kelaa des Sraghna)">
+			<state>El Kelaa des Sraghna</state>
+			<latitude>320267</latitude>
+			<longitude>-79233</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Driouch -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>349933</latitude>
+			<longitude>-33733</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Aioun -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>345918</latitude>
+			<longitude>-24971</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Borouj -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>325101</latitude>
+			<longitude>-71899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Hajeb -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>337101</latitude>
+			<longitude>-53566</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Harhoura -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>339601</latitude>
+			<longitude>-69232</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Jadida">
+			<state></state>
+			<latitude>332640</latitude>
+			<longitude>-84977</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Jadida -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>312934</latitude>
+			<longitude>-88566</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Kelaa des Srarhna -- (State: El Kelaa des Sraghna)">
+			<state>El Kelaa des Sraghna</state>
+			<latitude>320601</latitude>
+			<longitude>-73899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Kellaa des Sraghna -- (State: El Kelaa des Sraghna)">
+			<state>El Kelaa des Sraghna</state>
+			<latitude>321768</latitude>
+			<longitude>-77399</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Ksiba -- (State: Beni Mellal)">
+			<state>Beni Mellal</state>
+			<latitude>325934</latitude>
+			<longitude>-60232</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="El Menzel -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>338434</latitude>
+			<longitude>-45399</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Er Rachidia">
+			<state></state>
+			<latitude>319420</latitude>
+			<longitude>-44143</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erfoud -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>314462</latitude>
+			<longitude>-42227</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Errachidia -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>319604</latitude>
+			<longitude>-43899</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Essaouira">
+			<state></state>
+			<latitude>315232</latitude>
+			<longitude>-97596</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fes al Bali -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>340935</latitude>
+			<longitude>-49565</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fes el Bali -- (State: Taounate)">
+			<state>Taounate</state>
+			<latitude>345602</latitude>
+			<longitude>-51065</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fes le Nouveau -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>340602</latitude>
+			<longitude>-49731</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fes Sefrou -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>340102</latitude>
+			<longitude>-49398</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fes-Ville-Nouvelle -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>340435</latitude>
+			<longitude>-49898</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fesl Saiss -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>339269</latitude>
+			<longitude>-49565</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fez -- (State: Figuig)">
+			<state>Figuig</state>
+			<latitude>340630</latitude>
+			<longitude>-49726</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fezazra -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>344435</latitude>
+			<longitude>-42231</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fezna -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>315269</latitude>
+			<longitude>-44731</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fezouata -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>302269</latitude>
+			<longitude>-56731</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fezzana -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>312769</latitude>
+			<longitude>-42231</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fezzane -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>346602</latitude>
+			<longitude>-32231</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fezzou -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>309602</latitude>
+			<longitude>-48898</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Figuig">
+			<state></state>
+			<latitude>321269</latitude>
+			<longitude>-12167</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fkih Ben Salah -- (State: Beni Mellal)">
+			<state>Beni Mellal</state>
+			<latitude>325102</latitude>
+			<longitude>-66898</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fnideq -- (State: Tetouan)">
+			<state>Tetouan</state>
+			<latitude>358627</latitude>
+			<longitude>-53454</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goulmima -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>317020</latitude>
+			<longitude>-49489</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guelmim">
+			<state></state>
+			<latitude>287603</latitude>
+			<longitude>-99897</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guelmim -- (State: (MO33))">
+			<state>(MO33)</state>
+			<latitude>289942</latitude>
+			<longitude>-100500</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guercif -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>342436</latitude>
+			<longitude>-33564</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Houssene -- (State: Al Hoceima)">
+			<state>Al Hoceima</state>
+			<latitude>349437</latitude>
+			<longitude>-42729</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ifrah -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>338605</latitude>
+			<longitude>-44395</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ifrane -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>305272</latitude>
+			<longitude>-76728</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ifrane -- (State: (MO33))">
+			<state>(MO33)</state>
+			<latitude>292105</latitude>
+			<longitude>-94562</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ifrane -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>313519</latitude>
+			<longitude>-64867</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ifrane -- (State: Khenifra)">
+			<state>Khenifra</state>
+			<latitude>332105</latitude>
+			<longitude>-54062</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ifrane -- (State: Azilal)">
+			<state>Azilal</state>
+			<latitude>317147</latitude>
+			<longitude>-63431</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ifrane">
+			<state></state>
+			<latitude>335438</latitude>
+			<longitude>-50895</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ifrane -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>314208</latitude>
+			<longitude>-96962</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ifrane -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>340605</latitude>
+			<longitude>-37562</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Im Zouren -- (State: Al Hoceima)">
+			<state>Al Hoceima</state>
+			<latitude>351605</latitude>
+			<longitude>-38562</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imouzzer du Kandar -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>337438</latitude>
+			<longitude>-50062</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inezgane -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>303605</latitude>
+			<longitude>-95228</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itzer -- (State: Khenifra)">
+			<state>Khenifra</state>
+			<latitude>328913</latitude>
+			<longitude>-50437</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jerada -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>343223</latitude>
+			<longitude>-21530</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jorf -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>315106</latitude>
+			<longitude>-43727</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jorf-el-Melha -- (State: Sidi Kacem)">
+			<state>Sidi Kacem</state>
+			<latitude>344939</latitude>
+			<longitude>-55061</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kasba Tadla -- (State: Beni Mellal)">
+			<state>Beni Mellal</state>
+			<latitude>326107</latitude>
+			<longitude>-62560</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kebdana -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>350440</latitude>
+			<longitude>-26560</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kelaat Mgouna -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>312521</latitude>
+			<longitude>-61218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kenitra">
+			<state></state>
+			<latitude>342715</latitude>
+			<longitude>-65687</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="KENITRA -- (State: Kenitra)">
+			<state>Kenitra</state>
+			<latitude>343107</latitude>
+			<longitude>-65893</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kettara -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>318774</latitude>
+			<longitude>-81560</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khababa -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>348274</latitude>
+			<longitude>-37060</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khemisset">
+			<state></state>
+			<latitude>338274</latitude>
+			<longitude>-60560</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khenifra">
+			<state></state>
+			<latitude>329501</latitude>
+			<longitude>-56568</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Khouribga">
+			<state></state>
+			<latitude>328940</latitude>
+			<longitude>-68893</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ksar el Kbir -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>299274</latitude>
+			<longitude>-54893</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ksar el Kebir -- (State: Larache)">
+			<state>Larache</state>
+			<latitude>350163</latitude>
+			<longitude>-58935</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laareich">
+			<state></state>
+			<latitude>214441</latitude>
+			<longitude>-161892</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laayoune">
+			<state></state>
+			<latitude>271644</latitude>
+			<longitude>-131925</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Laayoune Plage">
+			<state></state>
+			<latitude>271069</latitude>
+			<longitude>-134050</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lamhamid -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>301364</latitude>
+			<longitude>-68778</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Larache">
+			<state></state>
+			<latitude>352080</latitude>
+			<longitude>-61425</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maarade -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>310942</latitude>
+			<longitude>-88558</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Madine -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>311776</latitude>
+			<longitude>-89891</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mahbes">
+			<state></state>
+			<latitude>271776</latitude>
+			<longitude>-98224</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marrakech">
+			<state></state>
+			<latitude>316442</latitude>
+			<longitude>-79891</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Marrakesh">
+			<state></state>
+			<latitude>320109</latitude>
+			<longitude>-49891</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Martil -- (State: Tetouan)">
+			<state>Tetouan</state>
+			<latitude>356301</latitude>
+			<longitude>-52658</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Massa -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>299609</latitude>
+			<longitude>-96224</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Massif du Toubkal -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>310703</latitude>
+			<longitude>-79055</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mechra -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>340609</latitude>
+			<longitude>-54224</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mechra Belqsiri -- (State: Sidi Kacem)">
+			<state>Sidi Kacem</state>
+			<latitude>345776</latitude>
+			<longitude>-59391</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meggardo -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>336609</latitude>
+			<longitude>-54058</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mehdia-Plage -- (State: Kenitra)">
+			<state>Kenitra</state>
+			<latitude>342609</latitude>
+			<longitude>-66724</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meknes">
+			<state></state>
+			<latitude>339109</latitude>
+			<longitude>-55391</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meknes Plaisance -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>339276</latitude>
+			<longitude>-54891</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="MeknesKatine -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>338942</latitude>
+			<longitude>-55058</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Midar -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>349609</latitude>
+			<longitude>-35224</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Midelt -- (State: Khenifra)">
+			<state>Khenifra</state>
+			<latitude>326976</latitude>
+			<longitude>-47347</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Missour -- (State: Boulemane)">
+			<state>Boulemane</state>
+			<latitude>330609</latitude>
+			<longitude>-39799</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mohammedia -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>337051</latitude>
+			<longitude>-73816</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Monte Arruit -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>350226</latitude>
+			<longitude>-29930</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moulay Driss Cherif -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>336776</latitude>
+			<longitude>-57224</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moussaoua -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>340262</latitude>
+			<longitude>-54513</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nach -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>349110</latitude>
+			<longitude>-33223</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nador -- (State: Beni Mellal)">
+			<state>Beni Mellal</state>
+			<latitude>324777</latitude>
+			<longitude>-67723</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nador">
+			<state></state>
+			<latitude>351893</latitude>
+			<longitude>-29198</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nador -- (State: Boulemane)">
+			<state>Boulemane</state>
+			<latitude>336277</latitude>
+			<longitude>-37223</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nador -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>347277</latitude>
+			<longitude>-39057</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nouaceur -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>333916</latitude>
+			<longitude>-76071</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouaouizarht -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>348111</latitude>
+			<longitude>-25556</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouartass -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>348933</latitude>
+			<longitude>-22897</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouarzazate">
+			<state></state>
+			<latitude>309278</latitude>
+			<longitude>-69056</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouarzazte -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>309328</latitude>
+			<longitude>-69064</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouazzane -- (State: Sidi Kacem)">
+			<state>Sidi Kacem</state>
+			<latitude>348111</latitude>
+			<longitude>-55889</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oued Zem -- (State: Khouribga)">
+			<state>Khouribga</state>
+			<latitude>328778</latitude>
+			<longitude>-65722</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oued Zemdad -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>308111</latitude>
+			<longitude>-82389</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oued Zemkil -- (State: Beni Mellal)">
+			<state>Beni Mellal</state>
+			<latitude>326111</latitude>
+			<longitude>-62722</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oued Zemrane -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>333680</latitude>
+			<longitude>-71383</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oujda">
+			<state></state>
+			<latitude>346978</latitude>
+			<longitude>-19003</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oujda Angad -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>347944</latitude>
+			<longitude>-19186</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oujdada -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>346611</latitude>
+			<longitude>-19056</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oulad Ber Rehil -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>306611</latitude>
+			<longitude>-84722</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oulad Teima -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>304111</latitude>
+			<longitude>-92056</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouled driss -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>306944</latitude>
+			<longitude>-83889</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouled Driss -- (State: Beni Mellal)">
+			<state>Beni Mellal</state>
+			<latitude>323944</latitude>
+			<longitude>-65222</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouled Driss -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>324444</latitude>
+			<longitude>-72056</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouled Driss -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>338778</latitude>
+			<longitude>-38556</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouled Driss -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>315783</latitude>
+			<longitude>-89467</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oum Dreyga">
+			<state></state>
+			<latitude>241778</latitude>
+			<longitude>-132389</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qabat -- (State: Kenitra)">
+			<state>Kenitra</state>
+			<latitude>344907</latitude>
+			<longitude>-64501</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qacbat Hadda -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>342280</latitude>
+			<longitude>-41554</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qacbet Oulad Ahmed Ben Ali -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>304771</latitude>
+			<longitude>-60512</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qal at Bouqorra -- (State: Sidi Kacem)">
+			<state>Sidi Kacem</state>
+			<latitude>347696</latitude>
+			<longitude>-51965</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qasbah al Walidiyah -- (State: El Jadida)">
+			<state>El Jadida</state>
+			<latitude>327466</latitude>
+			<longitude>-90173</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qsar El Arrouadi -- (State: Boulemane)">
+			<state>Boulemane</state>
+			<latitude>334857</latitude>
+			<longitude>-40020</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qsar es-Seghir -- (State: Tetouan)">
+			<state>Tetouan</state>
+			<latitude>358588</latitude>
+			<longitude>-55518</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qsar Lakbir -- (State: Boulemane)">
+			<state>Boulemane</state>
+			<latitude>334946</latitude>
+			<longitude>-40054</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quai de Rive -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>336113</latitude>
+			<longitude>-75887</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qudiat Tuana">
+			<state></state>
+			<latitude>218446</latitude>
+			<longitude>-146887</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quebdani -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>351285</latitude>
+			<longitude>-33226</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qulad Zayda -- (State: El Kelaa des Sraghna)">
+			<state>El Kelaa des Sraghna</state>
+			<latitude>318788</latitude>
+			<longitude>-74459</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Raba Jdima -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>319781</latitude>
+			<longitude>-44386</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rabat -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>340367</latitude>
+			<longitude>-68247</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rabat-Agdal -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>340114</latitude>
+			<longitude>-68553</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rachidia -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>317614</latitude>
+			<longitude>-44886</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ribat al Kheir -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>338295</latitude>
+			<longitude>-43955</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rich -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>322722</latitude>
+			<longitude>-44933</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Riche -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>321281</latitude>
+			<longitude>-39886</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rissani -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>312964</latitude>
+			<longitude>-42575</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rommani -- (State: Khemisset)">
+			<state>Khemisset</state>
+			<latitude>335447</latitude>
+			<longitude>-65886</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Safi">
+			<state></state>
+			<latitude>323115</latitude>
+			<longitude>-92271</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Safi Bay -- (State: Safi)">
+			<state>Safi</state>
+			<latitude>323282</latitude>
+			<longitude>-92552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Safia">
+			<state></state>
+			<latitude>217115</latitude>
+			<longitude>-167885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Safirest -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>296282</latitude>
+			<longitude>-91718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sale -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>340509</latitude>
+			<longitude>-67913</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sefrou -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>338448</latitude>
+			<longitude>-48218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Segangan -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>351654</latitude>
+			<longitude>-29957</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Selouane -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>350823</latitude>
+			<longitude>-29277</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Settat">
+			<state></state>
+			<latitude>330168</latitude>
+			<longitude>-76068</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Ben Nour -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>317448</latitude>
+			<longitude>-82052</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Bennour -- (State: El Jadida)">
+			<state>El Jadida</state>
+			<latitude>326615</latitude>
+			<longitude>-84218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Hajjaj -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>331948</latitude>
+			<longitude>-80052</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Ifni -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>293948</latitude>
+			<longitude>-101552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Kacem -- (State: Tanger)">
+			<state>Tanger</state>
+			<latitude>357282</latitude>
+			<longitude>-59218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Kacem">
+			<state></state>
+			<latitude>342282</latitude>
+			<longitude>-56885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Kasem -- (State: Kenitra)">
+			<state>Kenitra</state>
+			<latitude>343782</latitude>
+			<longitude>-62718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Kasem -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>330115</latitude>
+			<longitude>-74552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Mokhtar -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>315890</latitude>
+			<longitude>-90046</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Mokhtar -- (State: El Kelaa des Sraghna)">
+			<state>El Kelaa des Sraghna</state>
+			<latitude>322782</latitude>
+			<longitude>-83552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="SIDI SLIMANE -- (State: Kenitra)">
+			<state>Kenitra</state>
+			<latitude>342448</latitude>
+			<longitude>-60385</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sidi Yahia -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>346682</latitude>
+			<longitude>-18482</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skhirat -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>338651</latitude>
+			<longitude>-70241</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skhirat-Temara -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>338948</latitude>
+			<longitude>-69718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Smara">
+			<state></state>
+			<latitude>267448</latitude>
+			<longitude>-116718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: Kenitra)">
+			<state>Kenitra</state>
+			<latitude>342782</latitude>
+			<longitude>-59218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>304115</latitude>
+			<longitude>-83718</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: El Jadida)">
+			<state>El Jadida</state>
+			<latitude>332948</latitude>
+			<longitude>-80052</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: Larache)">
+			<state>Larache</state>
+			<latitude>349615</latitude>
+			<longitude>-57385</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>329782</latitude>
+			<longitude>-78052</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>310179</latitude>
+			<longitude>-93927</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: Khemisset)">
+			<state>Khemisset</state>
+			<latitude>338448</latitude>
+			<longitude>-59052</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>312448</latitude>
+			<longitude>-87552</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: El Kelaa des Sraghna)">
+			<state>El Kelaa des Sraghna</state>
+			<latitude>320054</latitude>
+			<longitude>-78185</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk El Arba -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>338782</latitude>
+			<longitude>-69385</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>340282</latitude>
+			<longitude>-40885</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Souk el Arba -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>342115</latitude>
+			<longitude>-51218</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tagounite -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>299877</latitude>
+			<longitude>-55737</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Talmest -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>318227</latitude>
+			<longitude>-93259</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tan-Tan">
+			<state></state>
+			<latitude>284513</latitude>
+			<longitude>-110701</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tan-Tan Plage -- (State: Tan-Tan)">
+			<state>Tan-Tan</state>
+			<latitude>284930</latitude>
+			<longitude>-113284</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tanger Boukhalef -- (State: Tanger)">
+			<state>Tanger</state>
+			<latitude>357435</latitude>
+			<longitude>-58901</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tanger-Ville -- (State: Tanger)">
+			<state>Tanger</state>
+			<latitude>357949</latitude>
+			<longitude>-57717</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tangier -- (State: Tanger)">
+			<state>Tanger</state>
+			<latitude>357963</latitude>
+			<longitude>-58012</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tangier Bay -- (State: Tanger)">
+			<state>Tanger</state>
+			<latitude>358008</latitude>
+			<longitude>-57823</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tangier Mogoga Station -- (State: Tanger)">
+			<state>Tanger</state>
+			<latitude>357783</latitude>
+			<longitude>-57551</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taounate">
+			<state></state>
+			<latitude>345616</latitude>
+			<longitude>-46384</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taourirt -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>344244</latitude>
+			<longitude>-28826</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Targuist -- (State: Al Hoceima)">
+			<state>Al Hoceima</state>
+			<latitude>349949</latitude>
+			<longitude>-42717</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taroudannt">
+			<state></state>
+			<latitude>304949</latitude>
+			<longitude>-88551</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taroudannt -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>301116</latitude>
+			<longitude>-90717</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taroudant -- (State: Tetouan)">
+			<state>Tetouan</state>
+			<latitude>353819</latitude>
+			<longitude>-56081</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tastit -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>348116</latitude>
+			<longitude>-37551</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tata">
+			<state></state>
+			<latitude>297616</latitude>
+			<longitude>-79884</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taza">
+			<state></state>
+			<latitude>342283</latitude>
+			<longitude>-40051</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taza -- (State: Chaouen)">
+			<state>Chaouen</state>
+			<latitude>350497</latitude>
+			<longitude>-52576</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taza Gap -- (State: Taza)">
+			<state>Taza</state>
+			<latitude>342616</latitude>
+			<longitude>-39884</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Telouete -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>312999</latitude>
+			<longitude>-72351</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Temara -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>339435</latitude>
+			<longitude>-69045</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Temara-Plage -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>339435</latitude>
+			<longitude>-69501</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Temsamane -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>351783</latitude>
+			<longitude>-37051</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tetouan">
+			<state></state>
+			<latitude>355852</latitude>
+			<longitude>-53637</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tetuan -- (State: Chaouen)">
+			<state>Chaouen</state>
+			<latitude>350783</latitude>
+			<longitude>-50551</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tiflet -- (State: Khemisset)">
+			<state>Khemisset</state>
+			<latitude>339116</latitude>
+			<longitude>-63217</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tinghir -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>315263</latitude>
+			<longitude>-55212</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tiznit">
+			<state></state>
+			<latitude>297283</latitude>
+			<longitude>-97051</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tiznit -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>303449</latitude>
+			<longitude>-95717</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tleta Bou Guedra -- (State: Safi)">
+			<state>Safi</state>
+			<latitude>322783</latitude>
+			<longitude>-89717</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vallee de Isloufa -- (State: Er Rachidia)">
+			<state>Er Rachidia</state>
+			<latitude>322451</latitude>
+			<longitude>-51549</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Venet-Ville -- (State: Settat)">
+			<state>Settat</state>
+			<latitude>329951</latitude>
+			<longitude>-71215</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Via Candelaria">
+			<state></state>
+			<latitude>231051</latitude>
+			<longitude>-162171</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Via Lobos">
+			<state></state>
+			<latitude>217951</latitude>
+			<longitude>-169549</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Via Lobos nuevo">
+			<state></state>
+			<latitude>219285</latitude>
+			<longitude>-168882</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Via Lobos Viejo">
+			<state></state>
+			<latitude>218118</latitude>
+			<longitude>-169715</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Villa Bens -- (State: Laayoune)">
+			<state>Laayoune</state>
+			<latitude>279618</latitude>
+			<longitude>-129049</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Village de Tissa -- (State: Taounate)">
+			<state>Taounate</state>
+			<latitude>342951</latitude>
+			<longitude>-46549</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ville Nouvelle -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>304451</latitude>
+			<longitude>-95882</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vittel -- (State: Ifrane)">
+			<state>Ifrane</state>
+			<latitude>335618</latitude>
+			<longitude>-51049</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Volubilis -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>340785</latitude>
+			<longitude>-55382</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad al Hawli">
+			<state></state>
+			<latitude>232794</latitude>
+			<longitude>-157967</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad al Marmoutha">
+			<state></state>
+			<latitude>274808</latitude>
+			<longitude>-128812</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad as Saquia al Hamra">
+			<state></state>
+			<latitude>272119</latitude>
+			<longitude>-133548</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Barwaga">
+			<state></state>
+			<latitude>213786</latitude>
+			<longitude>-164714</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Ben Allouch -- (State: Tan-Tan)">
+			<state>Tan-Tan</state>
+			<latitude>279869</latitude>
+			<longitude>-118931</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad La rad">
+			<state></state>
+			<latitude>231036</latitude>
+			<longitude>-159200</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Lakra">
+			<state></state>
+			<latitude>246786</latitude>
+			<longitude>-148881</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Lemlaga">
+			<state></state>
+			<latitude>226636</latitude>
+			<longitude>-163320</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Ored -- (State: Tan-Tan)">
+			<state>Tan-Tan</state>
+			<latitude>277675</latitude>
+			<longitude>-115289</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Oum Moud">
+			<state></state>
+			<latitude>226041</latitude>
+			<longitude>-161909</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Skiss">
+			<state></state>
+			<latitude>350952</latitude>
+			<longitude>-22048</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Tuiflit">
+			<state></state>
+			<latitude>273022</latitude>
+			<longitude>-129381</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Win Mrad">
+			<state></state>
+			<latitude>271955</latitude>
+			<longitude>-126642</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wad Zwizel -- (State: Tan-Tan)">
+			<state>Tan-Tan</state>
+			<latitude>279022</latitude>
+			<longitude>-119220</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Aureora -- (State: Guelmim)">
+			<state>Guelmim</state>
+			<latitude>288594</latitude>
+			<longitude>-108356</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Bou Sedra -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>295786</latitude>
+			<longitude>-100548</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Cherrat -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>338438</latitude>
+			<longitude>-71112</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Draa">
+			<state></state>
+			<latitude>286877</latitude>
+			<longitude>-111109</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi el Mellah -- (State: Ben Slimane)">
+			<state>Ben Slimane</state>
+			<latitude>337283</latitude>
+			<longitude>-73875</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Massa -- (State: Agadir)">
+			<state>Agadir</state>
+			<latitude>300952</latitude>
+			<longitude>-96548</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Nefifik">
+			<state></state>
+			<latitude>337336</latitude>
+			<longitude>-73325</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Saibajarsa -- (State: Tan-Tan)">
+			<state>Tan-Tan</state>
+			<latitude>283941</latitude>
+			<longitude>-113564</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Sebu -- (State: Kenitra)">
+			<state>Kenitra</state>
+			<latitude>342750</latitude>
+			<longitude>-66653</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Seguiet el Hambra">
+			<state></state>
+			<latitude>274119</latitude>
+			<longitude>-137048</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wadi Uguer -- (State: Laayoune)">
+			<state>Laayoune</state>
+			<latitude>281286</latitude>
+			<longitude>-118381</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wakline -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>314561</latitude>
+			<longitude>-55398</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walgadi -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>302569</latitude>
+			<longitude>-84639</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walkessine -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>303130</latitude>
+			<longitude>-84320</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wamirgout -- (State: Azilal)">
+			<state>Azilal</state>
+			<latitude>314619</latitude>
+			<longitude>-69381</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wantkou -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>302822</latitude>
+			<longitude>-73234</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waramdaz -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>300513</latitude>
+			<longitude>-84309</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wargout -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>301122</latitude>
+			<longitude>-68639</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warialt -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>312786</latitude>
+			<longitude>-80714</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wassane -- (State: Essaouira)">
+			<state>Essaouira</state>
+			<latitude>314008</latitude>
+			<longitude>-97987</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wasta -- (State: Chaouen)">
+			<state>Chaouen</state>
+			<latitude>349952</latitude>
+			<longitude>-52714</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wawfengha -- (State: Taroudannt)">
+			<state>Taroudannt</state>
+			<latitude>303452</latitude>
+			<longitude>-85381</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wawguineght -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>304480</latitude>
+			<longitude>-70689</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wawizaght -- (State: Oujda)">
+			<state>Oujda</state>
+			<latitude>348141</latitude>
+			<longitude>-25403</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wawizelt -- (State: Marrakech)">
+			<state>Marrakech</state>
+			<latitude>313619</latitude>
+			<longitude>-81548</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wawra -- (State: Azilal)">
+			<state>Azilal</state>
+			<latitude>318952</latitude>
+			<longitude>-64881</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wijjane -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>308050</latitude>
+			<longitude>-74378</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wikert -- (State: Sidi Kacem)">
+			<state>Sidi Kacem</state>
+			<latitude>347119</latitude>
+			<longitude>-54381</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilaya de Casablanca -- (State: Casablanca)">
+			<state>Casablanca</state>
+			<latitude>336286</latitude>
+			<longitude>-75714</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilaya de Fes -- (State: Fes)">
+			<state>Fes</state>
+			<latitude>340119</latitude>
+			<longitude>-49881</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilaya de Meknes -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>330119</latitude>
+			<longitude>-54881</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilaya de Rabat-Sale -- (State: Rabat-Sale)">
+			<state>Rabat-Sale</state>
+			<latitude>340452</latitude>
+			<longitude>-68214</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winat Mouha -- (State: (MO33))">
+			<state>(MO33)</state>
+			<latitude>290619</latitude>
+			<longitude>-101548</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wintha -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>295452</latitude>
+			<longitude>-85214</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wintijgal -- (State: Tata)">
+			<state>Tata</state>
+			<latitude>304002</latitude>
+			<longitude>-70528</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wizgought -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>306933</latitude>
+			<longitude>-72845</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xaabet Axcan -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>291287</latitude>
+			<longitude>-103547</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xaraffa -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>293953</latitude>
+			<longitude>-100713</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xarf -- (State: Tanger)">
+			<state>Tanger</state>
+			<latitude>357787</latitude>
+			<longitude>-57797</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xauia -- (State: Tetouan)">
+			<state>Tetouan</state>
+			<latitude>355462</latitude>
+			<longitude>-57069</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xequia el Hamra">
+			<state></state>
+			<latitude>268453</latitude>
+			<longitude>-119880</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerifia">
+			<state></state>
+			<latitude>250120</latitude>
+			<longitude>-142380</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xorfas De Maimunin -- (State: Chaouen)">
+			<state>Chaouen</state>
+			<latitude>352620</latitude>
+			<longitude>-48213</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Youssoufia -- (State: Safi)">
+			<state>Safi</state>
+			<latitude>322621</latitude>
+			<longitude>-85212</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagora -- (State: Ouarzazate)">
+			<state>Ouarzazate</state>
+			<latitude>303289</latitude>
+			<longitude>-58211</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaio -- (State: Nador)">
+			<state>Nador</state>
+			<latitude>349519</latitude>
+			<longitude>-27189</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaouia Dougadir -- (State: Tiznit)">
+			<state>Tiznit</state>
+			<latitude>294955</latitude>
+			<longitude>-91211</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zemamra -- (State: El Jadida)">
+			<state>El Jadida</state>
+			<latitude>326455</latitude>
+			<longitude>-87045</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zerhoun -- (State: Meknes)">
+			<state>Meknes</state>
+			<latitude>341455</latitude>
+			<longitude>-54045</longitude>
+			<timezone>0</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

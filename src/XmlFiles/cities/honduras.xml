@@ -1,0 +1,684 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Honduras">
+		<city name="Danli -- (State: El Paraiso)">
+			<state>El Paraiso</state>
+			<latitude>140100</latitude>
+			<longitude>-862400</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Facundo -- (State: Cortes)">
+			<state>Cortes</state>
+			<latitude>148602</latitude>
+			<longitude>-878898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farallanes -- (State: Colon)">
+			<state>Colon</state>
+			<latitude>158935</latitude>
+			<longitude>-862565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Figueroa -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>145435</latitude>
+			<longitude>-868398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finca Cobb -- (State: Yoro)">
+			<state>Yoro</state>
+			<latitude>154269</latitude>
+			<longitude>-878398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finca de Cafe Mira Mar -- (State: Choluteca)">
+			<state>Choluteca</state>
+			<latitude>132352</latitude>
+			<longitude>-870601</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finca El Eden -- (State: Choluteca)">
+			<state>Choluteca</state>
+			<latitude>132435</latitude>
+			<longitude>-870429</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finca San Paulo -- (State: Choluteca)">
+			<state>Choluteca</state>
+			<latitude>132446</latitude>
+			<longitude>-870479</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="First Bight -- (State: Islas de la Bahia)">
+			<state>Islas de la Bahia</state>
+			<latitude>163935</latitude>
+			<longitude>-863898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Florencia -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>140935</latitude>
+			<longitude>-871731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flores -- (State: Atlantida)">
+			<state>Atlantida</state>
+			<latitude>156102</latitude>
+			<longitude>-872398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flores del Terrero -- (State: Colon)">
+			<state>Colon</state>
+			<latitude>155435</latitude>
+			<longitude>-863065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Florian -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>158935</latitude>
+			<longitude>-846731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Floricunda -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>144102</latitude>
+			<longitude>-873898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fonseca -- (State: Choluteca)">
+			<state>Choluteca</state>
+			<latitude>131252</latitude>
+			<longitude>-872481</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kahka -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>147274</latitude>
+			<longitude>-847726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kalpo -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>152107</latitude>
+			<longitude>-834226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamananta -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>147774</latitude>
+			<longitude>-848060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanko -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>152440</latitude>
+			<longitude>-834560</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katski -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>153774</latitude>
+			<longitude>-836726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="KaurKira -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>153274</latitude>
+			<longitude>-835726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kayu Sirpe -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>149774</latitude>
+			<longitude>-837893</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kele-Kele -- (State: Cortes)">
+			<state>Cortes</state>
+			<latitude>155940</latitude>
+			<longitude>-877726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiaskira -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>153607</latitude>
+			<longitude>-837060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiauban -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>157774</latitude>
+			<longitude>-845226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kilometro 17 -- (State: Atlantida)">
+			<state>Atlantida</state>
+			<latitude>156940</latitude>
+			<longitude>-873060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Klu Kum Yapla -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>150107</latitude>
+			<longitude>-833226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kluki -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>151940</latitude>
+			<longitude>-834560</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kluski -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>150107</latitude>
+			<longitude>-838726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Knob Island -- (State: Valle)">
+			<state>Valle</state>
+			<latitude>132940</latitude>
+			<longitude>-876560</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koko -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>153107</latitude>
+			<longitude>-841893</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kokota -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>152940</latitude>
+			<longitude>-838393</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krata -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>154440</latitude>
+			<longitude>-838226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Krautara -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>150440</latitude>
+			<longitude>-849226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kropunta -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>155274</latitude>
+			<longitude>-843060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kruta -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>152274</latitude>
+			<longitude>-833893</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuka Auika -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>147940</latitude>
+			<longitude>-839060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kungkungwas -- (State: Olancho)">
+			<state>Olancho</state>
+			<latitude>149774</latitude>
+			<longitude>-850726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuri -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>150607</latitude>
+			<longitude>-836226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kuswa Apaika -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>157607</latitude>
+			<longitude>-845060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: El Paraiso)">
+			<state>El Paraiso</state>
+			<latitude>136352</latitude>
+			<longitude>-870831</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: Comayagua)">
+			<state>Comayagua</state>
+			<latitude>145941</latitude>
+			<longitude>-878392</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>138108</latitude>
+			<longitude>-872725</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: Santa Barbara)">
+			<state>Santa Barbara</state>
+			<latitude>150108</latitude>
+			<longitude>-882559</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: Valle)">
+			<state>Valle</state>
+			<latitude>134441</latitude>
+			<longitude>-877225</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: Cortes)">
+			<state>Cortes</state>
+			<latitude>151608</latitude>
+			<longitude>-881225</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: Choluteca)">
+			<state>Choluteca</state>
+			<latitude>134825</latitude>
+			<longitude>-870145</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: Copan)">
+			<state>Copan</state>
+			<latitude>148608</latitude>
+			<longitude>-886559</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: Lempira)">
+			<state>Lempira</state>
+			<latitude>141275</latitude>
+			<longitude>-882392</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Ceiba -- (State: Atlantida)">
+			<state>Atlantida</state>
+			<latitude>156775</latitude>
+			<longitude>-867392</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Pedro Sula -- (State: Cortes)">
+			<state>Cortes</state>
+			<latitude>155115</latitude>
+			<longitude>-879885</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tegucigalpa -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>141116</latitude>
+			<longitude>-872051</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tela -- (State: Atlantida)">
+			<state>Atlantida</state>
+			<latitude>156783</latitude>
+			<longitude>-874884</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tela y Trujillo -- (State: Atlantida)">
+			<state>Atlantida</state>
+			<latitude>158116</latitude>
+			<longitude>-874884</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubiel -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>138117</latitude>
+			<longitude>-872883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulapa -- (State: Santa Barbara)">
+			<state>Santa Barbara</state>
+			<latitude>149784</latitude>
+			<longitude>-885716</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unji -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>154950</latitude>
+			<longitude>-839050</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utlla Almuck -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>155784</latitude>
+			<longitude>-840050</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uyaca -- (State: Yoro)">
+			<state>Yoro</state>
+			<latitude>155117</latitude>
+			<longitude>-864550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waksma -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>154452</latitude>
+			<longitude>-843881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walpata -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>152786</latitude>
+			<longitude>-838381</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wampusirpi -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>151952</latitude>
+			<longitude>-846048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanquibila -- (State: Olancho)">
+			<state>Olancho</state>
+			<latitude>149786</latitude>
+			<longitude>-849881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warunta -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>153452</latitude>
+			<longitude>-842048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasprasni -- (State: Olancho)">
+			<state>Olancho</state>
+			<latitude>148952</latitude>
+			<longitude>-853048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waspuc -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>146286</latitude>
+			<longitude>-844214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Water Cays -- (State: Islas de la Bahia)">
+			<state>Islas de la Bahia</state>
+			<latitude>160702</latitude>
+			<longitude>-869631</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wauplaya -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>151952</latitude>
+			<longitude>-841214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wawina -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>154286</latitude>
+			<longitude>-844214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waxma -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>154952</latitude>
+			<longitude>-844548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wayales -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>146286</latitude>
+			<longitude>-847048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wisilca -- (State: Yoro)">
+			<state>Yoro</state>
+			<latitude>150619</latitude>
+			<longitude>-871881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wual Palanta -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>151952</latitude>
+			<longitude>-846214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabunan -- (State: Gracias a Dios)">
+			<state>Gracias a Dios</state>
+			<latitude>146288</latitude>
+			<longitude>-846712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaguaconte -- (State: Copan)">
+			<state>Copan</state>
+			<latitude>146788</latitude>
+			<longitude>-887879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamaguare -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>142788</latitude>
+			<longitude>-869712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamaguare -- (State: El Paraiso)">
+			<state>El Paraiso</state>
+			<latitude>142621</latitude>
+			<longitude>-866712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamaranguila -- (State: Intibuca)">
+			<state>Intibuca</state>
+			<latitude>142954</latitude>
+			<longitude>-882379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yargual -- (State: Lempira)">
+			<state>Lempira</state>
+			<latitude>141954</latitude>
+			<longitude>-884546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarguera -- (State: Copan)">
+			<state>Copan</state>
+			<latitude>145454</latitude>
+			<longitude>-888379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarula -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>140288</latitude>
+			<longitude>-880379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarumela -- (State: La Paz)">
+			<state>La Paz</state>
+			<latitude>143454</latitude>
+			<longitude>-876212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yastepec -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>139582</latitude>
+			<longitude>-871985</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaunera -- (State: Copan)">
+			<state>Copan</state>
+			<latitude>146288</latitude>
+			<longitude>-887879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yauyupe -- (State: El Paraiso)">
+			<state>El Paraiso</state>
+			<latitude>137552</latitude>
+			<longitude>-870479</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ylamapa -- (State: Atlantida)">
+			<state>Atlantida</state>
+			<latitude>156621</latitude>
+			<longitude>-864379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yolomon -- (State: Lempira)">
+			<state>Lempira</state>
+			<latitude>141788</latitude>
+			<longitude>-883546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoqulateca -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>148121</latitude>
+			<longitude>-871212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yucal -- (State: Lempira)">
+			<state>Lempira</state>
+			<latitude>141288</latitude>
+			<longitude>-885212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yucuma -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>139590</latitude>
+			<longitude>-871329</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuena -- (State: Lempira)">
+			<state>Lempira</state>
+			<latitude>148288</latitude>
+			<longitude>-885546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuenita -- (State: Lempira)">
+			<state>Lempira</state>
+			<latitude>148288</latitude>
+			<longitude>-885712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yululo -- (State: Santa Barbara)">
+			<state>Santa Barbara</state>
+			<latitude>148621</latitude>
+			<longitude>-882379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yupural -- (State: Lempira)">
+			<state>Lempira</state>
+			<latitude>141121</latitude>
+			<longitude>-886379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yure -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>137788</latitude>
+			<longitude>-872712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yusguare -- (State: Choluteca)">
+			<state>Choluteca</state>
+			<latitude>133127</latitude>
+			<longitude>-871018</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zepate -- (State: Francisco Morazan)">
+			<state>Francisco Morazan</state>
+			<latitude>142455</latitude>
+			<longitude>-871545</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

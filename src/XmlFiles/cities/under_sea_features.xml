@@ -1,0 +1,460 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Under Sea Features">
+		<city name="110 Miles Holes">
+			<state></state>
+			<latitude>591843</latitude>
+			<longitude>-8498</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="28 Fathom Bank">
+			<state></state>
+			<latitude>279217</latitude>
+			<longitude>-934450</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="California Seamount">
+			<state></state>
+			<latitude>178432</latitude>
+			<longitude>-1239901</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crough Seamount">
+			<state></state>
+			<latitude>-247401</latitude>
+			<longitude>-1217401</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flocco Seamount">
+			<state></state>
+			<latitude>-414065</latitude>
+			<longitude>-1582398</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gyre Basin">
+			<state></state>
+			<latitude>273436</latitude>
+			<longitude>-941730</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hsi-wei T an">
+			<state></state>
+			<latitude>78937</latitude>
+			<longitude>1100104</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jyllands Banke">
+			<state></state>
+			<latitude>568439</latitude>
+			<longitude>73439</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyuquot Canyon">
+			<state></state>
+			<latitude>496774</latitude>
+			<longitude>-1277893</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatsino Canyon">
+			<state></state>
+			<latitude>501780</latitude>
+			<longitude>-1281554</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quereau Bank">
+			<state></state>
+			<latitude>445113</latitude>
+			<longitude>-584887</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quimbaya Basin">
+			<state></state>
+			<latitude>140446</latitude>
+			<longitude>-803720</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinault Canyon">
+			<state></state>
+			<latitude>473613</latitude>
+			<longitude>-1251220</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinn Guyot">
+			<state></state>
+			<latitude>562613</latitude>
+			<longitude>-1452387</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quintero Knoll">
+			<state></state>
+			<latitude>240113</latitude>
+			<longitude>-728387</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quionga Canyon">
+			<state></state>
+			<latitude>-105220</latitude>
+			<longitude>406780</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quiros Seamount">
+			<state></state>
+			<latitude>100113</latitude>
+			<longitude>-1088220</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rakiura Gap">
+			<state></state>
+			<latitude>-468219</latitude>
+			<longitude>1683114</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangiauria Spur">
+			<state></state>
+			<latitude>-454053</latitude>
+			<longitude>-1753219</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ravel Seamount">
+			<state></state>
+			<latitude>272781</latitude>
+			<longitude>-1616553</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Razlom Klarion">
+			<state></state>
+			<latitude>180114</latitude>
+			<longitude>-1219886</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Razlom Pioner">
+			<state></state>
+			<latitude>385114</latitude>
+			<longitude>-1349886</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Theta Passage">
+			<state></state>
+			<latitude>435116</latitude>
+			<longitude>-126551</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ubate Seamount">
+			<state></state>
+			<latitude>151784</latitude>
+			<longitude>-795216</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulloa Knoll">
+			<state></state>
+			<latitude>225950</latitude>
+			<longitude>-1089050</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulloa Reef">
+			<state></state>
+			<latitude>70450</latitude>
+			<longitude>1442117</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umnak Canyon">
+			<state></state>
+			<latitude>537617</latitude>
+			<longitude>-1699883</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unarang Rock">
+			<state></state>
+			<latitude>40284</latitude>
+			<longitude>1180950</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uncle Sam Bank">
+			<state></state>
+			<latitude>256450</latitude>
+			<longitude>-1133883</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Union Seamount">
+			<state></state>
+			<latitude>495950</latitude>
+			<longitude>-1327383</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usof Canyon">
+			<state></state>
+			<latitude>530950</latitude>
+			<longitude>-1666550</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xauen Bank">
+			<state></state>
+			<latitude>353953</latitude>
+			<longitude>-42880</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yacopi Valley">
+			<state></state>
+			<latitude>151621</latitude>
+			<longitude>-802879</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaghan Basin">
+			<state></state>
+			<latitude>-559879</latitude>
+			<longitude>-609879</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakobi Valley">
+			<state></state>
+			<latitude>580121</latitude>
+			<longitude>-1369879</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakutat Canyon">
+			<state></state>
+			<latitude>595121</latitude>
+			<longitude>-1399879</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalata Canyon">
+			<state></state>
+			<latitude>-347546</latitude>
+			<longitude>1317121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamato Bank">
+			<state></state>
+			<latitude>393454</latitude>
+			<longitude>1350121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamato Basin">
+			<state></state>
+			<latitude>385121</latitude>
+			<longitude>1360121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamato Rise">
+			<state></state>
+			<latitude>395121</latitude>
+			<longitude>1340121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamato Trough">
+			<state></state>
+			<latitude>394288</latitude>
+			<longitude>1342621</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yana Valley">
+			<state></state>
+			<latitude>760121</latitude>
+			<longitude>1330121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang-ming Chiao">
+			<state></state>
+			<latitude>108121</latitude>
+			<longitude>1168621</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanjii Shu">
+			<state></state>
+			<latitude>58954</latitude>
+			<longitude>1456621</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yap Ridge">
+			<state></state>
+			<latitude>90121</latitude>
+			<longitude>1380121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yap Trench">
+			<state></state>
+			<latitude>85121</latitude>
+			<longitude>1380121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaquina Ridge">
+			<state></state>
+			<latitude>457788</latitude>
+			<longitude>-1253212</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaquina Trough">
+			<state></state>
+			<latitude>30121</latitude>
+			<longitude>-799879</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yasawa Trough">
+			<state></state>
+			<latitude>-166546</latitude>
+			<longitude>1766788</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yermak Plateau">
+			<state></state>
+			<latitude>820121</latitude>
+			<longitude>50121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yin-chi T an">
+			<state></state>
+			<latitude>160288</latitude>
+			<longitude>1149454</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yin-li T an">
+			<state></state>
+			<latitude>167788</latitude>
+			<longitude>1122288</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yinqing Qunjiao">
+			<state></state>
+			<latitude>88621</latitude>
+			<longitude>1125454</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yomei Seamount">
+			<state></state>
+			<latitude>423121</latitude>
+			<longitude>1704121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="York Breakers">
+			<state></state>
+			<latitude>99121</latitude>
+			<longitude>1181788</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoro Seamount">
+			<state></state>
+			<latitude>276621</latitude>
+			<longitude>1308121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yu-ya An-sha">
+			<state></state>
+			<latitude>81621</latitude>
+			<longitude>1147454</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yucatan Bank">
+			<state></state>
+			<latitude>220121</latitude>
+			<longitude>-899879</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yucatan Basin">
+			<state></state>
+			<latitude>200121</latitude>
+			<longitude>-839879</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuma Trough">
+			<state></state>
+			<latitude>180954</latitude>
+			<longitude>-682379</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yunaska Canyon">
+			<state></state>
+			<latitude>532621</latitude>
+			<longitude>-1708212</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yupanqui Basin">
+			<state></state>
+			<latitude>-189879</latitude>
+			<longitude>-1009879</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuryaku Guyot">
+			<state></state>
+			<latitude>326788</latitude>
+			<longitude>1722621</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yusuf Ridge">
+			<state></state>
+			<latitude>359788</latitude>
+			<longitude>-19879</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yuwan Seamount">
+			<state></state>
+			<latitude>279377</latitude>
+			<longitude>1330121</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

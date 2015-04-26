@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Macau">
+		<city name="Baia de Choc-Van -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221209</latitude>
+			<longitude>1135681</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baia de Hac Sa -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221348</latitude>
+			<longitude>1135848</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barra Point -- (State: Macau)">
+			<state>Macau</state>
+			<latitude>221931</latitude>
+			<longitude>1135404</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hac-Tsa -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221326</latitude>
+			<longitude>1135743</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilha Kai Kiong">
+			<state></state>
+			<latitude>221605</latitude>
+			<longitude>1135938</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koho Point -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221440</latitude>
+			<longitude>1135940</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koho Tao -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221274</latitude>
+			<longitude>1135774</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laut Tjina">
+			<state></state>
+			<latitude>150108</latitude>
+			<longitude>1150108</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lui-Tchi-Van -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221358</latitude>
+			<longitude>1135608</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Macau">
+			<state></state>
+			<latitude>222109</latitude>
+			<longitude>1135609</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Macau Island">
+			<state></state>
+			<latitude>223942</latitude>
+			<longitude>1134276</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Macau-Taipa Bridge -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221942</latitude>
+			<longitude>1135609</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mountian da Barra -- (State: Macau)">
+			<state>Macau</state>
+			<latitude>221942</latitude>
+			<longitude>1135387</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pedra d Areca -- (State: Macau)">
+			<state>Macau</state>
+			<latitude>221862</latitude>
+			<longitude>1135445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penha Hill">
+			<state></state>
+			<latitude>221945</latitude>
+			<longitude>1135445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ponta Cabrita -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221737</latitude>
+			<longitude>1135862</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ponta Maria">
+			<state></state>
+			<latitude>221779</latitude>
+			<longitude>1135445</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shih-Pai Wan">
+			<state></state>
+			<latitude>221448</latitude>
+			<longitude>1135782</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tai Van -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221449</latitude>
+			<longitude>1135616</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taipa -- (State: Ilhas)">
+			<state>Ilhas</state>
+			<latitude>221616</latitude>
+			<longitude>1135616</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verde">
+			<state></state>
+			<latitude>222285</latitude>
+			<longitude>1135451</longitude>
+			<timezone>800</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

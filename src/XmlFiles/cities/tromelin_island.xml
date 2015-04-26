@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Tromelin Island">
+		<city name="Tromelin">
+			<state></state>
+			<latitude>-158551</latitude>
+			<longitude>544283</longitude>
+			<timezone>300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

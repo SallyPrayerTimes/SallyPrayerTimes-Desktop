@@ -1,0 +1,341 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Greenland">
+		<city name="16 September Gletscher -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>662716</latitude>
+			<longitude>-364951</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="5 Maj Soen -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>812053</latitude>
+			<longitude>-266614</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Astro Pynt -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>765575</latitude>
+			<longitude>-688331</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Axeblade -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>814264</latitude>
+			<longitude>-534903</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="B.G. Schley Fjord -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>828598</latitude>
+			<longitude>-249902</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Edla Skaer -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>738934</latitude>
+			<longitude>-199566</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holsteinsborg -- (State: Vestgronland)">
+			<state>Vestgronland</state>
+			<latitude>669437</latitude>
+			<longitude>-536729</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jyske Aas -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>815439</latitude>
+			<longitude>-240727</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kap Farvel -- (State: Vestgronland)">
+			<state>Vestgronland</state>
+			<latitude>597899</latitude>
+			<longitude>-439010</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="McCormick Bugt -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>782442</latitude>
+			<longitude>-727558</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nanortalik -- (State: Vestgronland)">
+			<state>Vestgronland</state>
+			<latitude>601277</latitude>
+			<longitude>-452057</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ngigtoq -- (State: Vestgronland)">
+			<state>Vestgronland</state>
+			<latitude>607443</latitude>
+			<longitude>-463557</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nord -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>817277</latitude>
+			<longitude>-177890</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nuuk -- (State: Vestgronland)">
+			<state>Vestgronland</state>
+			<latitude>641943</latitude>
+			<longitude>-517390</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="W. Bishop So -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>763286</latitude>
+			<longitude>-188214</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="W. Lynge Skaer -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>767286</latitude>
+			<longitude>-185214</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walrus Bay -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>705119</latitude>
+			<longitude>-220381</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wandel Dal -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>822619</latitude>
+			<longitude>-352381</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wechmar Point -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>768686</latitude>
+			<longitude>-708012</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wegener Oer -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>806786</latitude>
+			<longitude>-173214</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wendel Pynt -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>767619</latitude>
+			<longitude>-186881</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wild Sound -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>833119</latitude>
+			<longitude>-409881</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilkins Nunatakker -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>741119</latitude>
+			<longitude>-272381</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wollaston Forland -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>745119</latitude>
+			<longitude>-199881</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wyckoff Land -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>828452</latitude>
+			<longitude>-244881</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderbugten -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>768288</latitude>
+			<longitude>-184879</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderdalen -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>738621</latitude>
+			<longitude>-203712</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderste Parry Skaer -- (State: Vestgronland)">
+			<state>Vestgronland</state>
+			<latitude>691454</latitude>
+			<longitude>-538712</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ydre Oer -- (State: Vestgronland)">
+			<state>Vestgronland</state>
+			<latitude>607621</latitude>
+			<longitude>-483879</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ydun Gletscher -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>832621</latitude>
+			<longitude>-281546</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ydun Gletscher -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>637288</latitude>
+			<longitude>-409712</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ygdrasil -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>633288</latitude>
+			<longitude>-422712</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ymer Bjerg -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>656121</latitude>
+			<longitude>-377379</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ymer Gletscher -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>826621</latitude>
+			<longitude>-359879</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ymer Nunatak -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>774621</latitude>
+			<longitude>-246046</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ymer O -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>731621</latitude>
+			<longitude>-243212</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yngvar Knutzons Fjeld -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>739454</latitude>
+			<longitude>-237546</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yngvar Nielsen Brae -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>763468</latitude>
+			<longitude>-641257</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Young Sund -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>743288</latitude>
+			<longitude>-203379</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yrsas Fjord -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>632621</latitude>
+			<longitude>-412212</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zachariaes Brae -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>789289</latitude>
+			<longitude>-211545</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zackenberg -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>745122</latitude>
+			<longitude>-207545</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zackenberg Bay -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>744622</latitude>
+			<longitude>-206545</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zamiteselv -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>708789</latitude>
+			<longitude>-226711</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebrafjaeld -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>643455</latitude>
+			<longitude>-407711</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zig-Zag Dalen -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>810122</latitude>
+			<longitude>-259878</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoolog Elv -- (State: Nordgronland)">
+			<state>Nordgronland</state>
+			<latitude>821955</latitude>
+			<longitude>-309878</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoologdalen -- (State: Ostgronland)">
+			<state>Ostgronland</state>
+			<latitude>733289</latitude>
+			<longitude>-242878</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,1958 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Nicaragua">
+		<city name="Daka Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143600</latitude>
+			<longitude>-845733</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dennis Cays -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144767</latitude>
+			<longitude>-828733</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dipilto Viejo -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>137433</latitude>
+			<longitude>-865067</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diria -- (State: Granada)">
+			<state>Granada</state>
+			<latitude>118933</latitude>
+			<longitude>-860400</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Divisadero Liraqui">
+			<state></state>
+			<latitude>136767</latitude>
+			<longitude>-867733</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duck Creek -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>116100</latitude>
+			<longitude>-836900</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Facundo -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>123269</latitude>
+			<longitude>-842231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Falso Bluff -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>121602</latitude>
+			<longitude>-836731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farallones de Cosiguina -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>130930</latitude>
+			<longitude>-876740</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farrel Channel -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143935</latitude>
+			<longitude>-826898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farrel Reef -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143602</latitude>
+			<longitude>-826898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fendleys Reef -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>141602</latitude>
+			<longitude>-827898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila Cerro Frio -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>130602</latitude>
+			<longitude>-858398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila El Bosque -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>130435</latitude>
+			<longitude>-857898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila El Gobierno -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>131602</latitude>
+			<longitude>-858731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila El Malacate -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>131602</latitude>
+			<longitude>-868398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila El Pedernal -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>130602</latitude>
+			<longitude>-866898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila El Venado -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>138769</latitude>
+			<longitude>-860731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila La Bujona -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>135935</latitude>
+			<longitude>-859898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila La Tranca">
+			<state></state>
+			<latitude>131435</latitude>
+			<longitude>-856231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila Laguna Seca -- (State: Madriz)">
+			<state>Madriz</state>
+			<latitude>134602</latitude>
+			<longitude>-862898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila Santa Basilia -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>130269</latitude>
+			<longitude>-857565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila Santa Isabel">
+			<state></state>
+			<latitude>133602</latitude>
+			<longitude>-865898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila Ventilla -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>135769</latitude>
+			<longitude>-859065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filadelfia -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>125935</latitude>
+			<longitude>-871065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filas de Cerro Verde -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>132602</latitude>
+			<longitude>-851565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filas El Daniel -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>134269</latitude>
+			<longitude>-850731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filas La Posolera -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>133102</latitude>
+			<longitude>-854065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filete Cresta Montosa -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>129935</latitude>
+			<longitude>-875898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filete de Palo Alto -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>123935</latitude>
+			<longitude>-859731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filete La Fila Verde -- (State: Boaco)">
+			<state>Boaco</state>
+			<latitude>126102</latitude>
+			<longitude>-856231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filetes El Gallo -- (State: Carazo)">
+			<state>Carazo</state>
+			<latitude>116935</latitude>
+			<longitude>-862731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filo de Dipilto">
+			<state></state>
+			<latitude>137935</latitude>
+			<longitude>-865065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fish Creek -- (State: Rio San Juan)">
+			<state>Rio San Juan</state>
+			<latitude>110602</latitude>
+			<longitude>-838231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flor -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>113935</latitude>
+			<longitude>-859398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Found Out Lagoon -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>121602</latitude>
+			<longitude>-837065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Franklin Reef -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>141102</latitude>
+			<longitude>-827065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="French Cay -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>124769</latitude>
+			<longitude>-834398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Froster Cay -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>124435</latitude>
+			<longitude>-834065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fruta de Pan -- (State: Rio San Juan)">
+			<state>Rio San Juan</state>
+			<latitude>109769</latitude>
+			<longitude>-837565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fruta de Pan -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>139769</latitude>
+			<longitude>-844065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fruta de Pan -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>123935</latitude>
+			<longitude>-842231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fullen Point -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>123935</latitude>
+			<longitude>-837231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fundadera -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>130769</latitude>
+			<longitude>-859065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hacienda Fatima -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>111937</latitude>
+			<longitude>-857063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hacienda Guadalupe -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>111937</latitude>
+			<longitude>-856563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hacienda La Palma -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>112104</latitude>
+			<longitude>-855229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hacienda Las Brisas -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>112437</latitude>
+			<longitude>-857396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ham Cays -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145771</latitude>
+			<longitude>-829563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hamacas -- (State: Chontales)">
+			<state>Chontales</state>
+			<latitude>120271</latitude>
+			<longitude>-849396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanna Creek -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>121437</latitude>
+			<longitude>-837563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hannibal Shoals -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144437</latitude>
+			<longitude>-825063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hansack Point -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>120271</latitude>
+			<longitude>-837563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hatillo -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>128437</latitude>
+			<longitude>-860229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hato de La Virgen -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>128104</latitude>
+			<longitude>-873896</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hato Grande -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>124104</latitude>
+			<longitude>-868063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hato Nuevo -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>128271</latitude>
+			<longitude>-874063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hato Viejo -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>129271</latitude>
+			<longitude>-866063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haulover -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>137104</latitude>
+			<longitude>-835063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hill Tara Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145437</latitude>
+			<longitude>-833229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiyas -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>135437</latitude>
+			<longitude>-852229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hog Cay -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>119937</latitude>
+			<longitude>-837229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horno Chinampa">
+			<state></state>
+			<latitude>137937</latitude>
+			<longitude>-866563</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Horoal -- (State: Carazo)">
+			<state>Carazo</state>
+			<latitude>118937</latitude>
+			<longitude>-863396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huaunta -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>135604</latitude>
+			<longitude>-835229</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Huehuete -- (State: Carazo)">
+			<state>Carazo</state>
+			<latitude>116271</latitude>
+			<longitude>-863063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humo -- (State: Boaco)">
+			<state>Boaco</state>
+			<latitude>126104</latitude>
+			<longitude>-851396</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="J. L. Chavarria -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>130773</latitude>
+			<longitude>-856394</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jacote -- (State: Chontales)">
+			<state>Chontales</state>
+			<latitude>122606</latitude>
+			<longitude>-854561</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalapa -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>139273</latitude>
+			<longitude>-861227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalapa">
+			<state></state>
+			<latitude>139606</latitude>
+			<longitude>-861894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeronimo -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>127939</latitude>
+			<longitude>-856894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jicaral -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>127378</latitude>
+			<longitude>-863702</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jicarito -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>136606</latitude>
+			<longitude>-860727</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jicarito -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>125439</latitude>
+			<longitude>-868061</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jicaro -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>137273</latitude>
+			<longitude>-861227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jicote -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>128773</latitude>
+			<longitude>-861894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinocuabo -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>126939</latitude>
+			<longitude>-865894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinotega">
+			<state></state>
+			<latitude>131106</latitude>
+			<longitude>-859894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinotepe -- (State: Carazo)">
+			<state>Carazo</state>
+			<latitude>118606</latitude>
+			<longitude>-861894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jiquilillo -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>127439</latitude>
+			<longitude>-874227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joaquin Zavala -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>126606</latitude>
+			<longitude>-871394</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jobo -- (State: Chontales)">
+			<state>Chontales</state>
+			<latitude>117606</latitude>
+			<longitude>-852227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jocate -- (State: Esteli)">
+			<state>Esteli</state>
+			<latitude>133606</latitude>
+			<longitude>-862561</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jocomico -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>132606</latitude>
+			<longitude>-867727</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jocomico -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>115439</latitude>
+			<longitude>-859061</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jocomico -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>130273</latitude>
+			<longitude>-860561</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jocote -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>113439</latitude>
+			<longitude>-858394</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jocote -- (State: Boaco)">
+			<state>Boaco</state>
+			<latitude>125773</latitude>
+			<longitude>-858394</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Henderson Rock -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>141939</latitude>
+			<longitude>-827227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juan Bautista Peguero -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>125637</latitude>
+			<longitude>-869677</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juan Romero -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>126106</latitude>
+			<longitude>-870061</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juan-Blan -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>138773</latitude>
+			<longitude>-857227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jucuapa Abajo -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>128773</latitude>
+			<longitude>-859727</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jucuapa Arriba -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>128773</latitude>
+			<longitude>-859227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juigalpa -- (State: Chontales)">
+			<state>Chontales</state>
+			<latitude>120939</latitude>
+			<longitude>-853894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumuyca -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>136606</latitude>
+			<longitude>-861727</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kauma Kwas Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143107</latitude>
+			<longitude>-843726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiawas -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>131774</latitude>
+			<longitude>-841226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kligna -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145774</latitude>
+			<longitude>-844226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kukulaya -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>137107</latitude>
+			<longitude>-836893</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Managua">
+			<state></state>
+			<latitude>121617</latitude>
+			<longitude>-862574</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacascolo -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>115777</latitude>
+			<longitude>-858390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacascolo -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>130110</latitude>
+			<longitude>-864723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagarote -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>122785</latitude>
+			<longitude>-865543</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagualapa -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>123943</latitude>
+			<longitude>-870390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nahuahuas -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>147277</latitude>
+			<longitude>-847390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nancemi -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>114777</latitude>
+			<longitude>-859557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nancite Dulce -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>113777</latitude>
+			<longitude>-858057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nancite Dulce -- (State: Carazo)">
+			<state>Carazo</state>
+			<latitude>117777</latitude>
+			<longitude>-861390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nandaime -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>112777</latitude>
+			<longitude>-858557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nandarola -- (State: Granada)">
+			<state>Granada</state>
+			<latitude>116943</latitude>
+			<longitude>-860223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nandasmo -- (State: Masaya)">
+			<state>Masaya</state>
+			<latitude>119443</latitude>
+			<longitude>-861057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nandayosi -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>121277</latitude>
+			<longitude>-865057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranja -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>110943</latitude>
+			<longitude>-857057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranjo -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>129277</latitude>
+			<longitude>-858057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranjo -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>126277</latitude>
+			<longitude>-862223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nasma Almuk -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146443</latitude>
+			<longitude>-845223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nassa Cays -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143277</latitude>
+			<longitude>-829390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navarretes -- (State: Carazo)">
+			<state>Carazo</state>
+			<latitude>118110</latitude>
+			<longitude>-864557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nawawas -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>125777</latitude>
+			<longitude>-847223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ned Thomas Cay -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>141777</latitude>
+			<longitude>-827890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nee Reef -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145443</latitude>
+			<longitude>-825557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nihrtara -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144610</latitude>
+			<longitude>-833057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ninayeri -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144777</latitude>
+			<longitude>-832723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nindiri -- (State: Masaya)">
+			<state>Masaya</state>
+			<latitude>120157</latitude>
+			<longitude>-861084</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niqui -- (State: Masaya)">
+			<state>Masaya</state>
+			<latitude>119110</latitude>
+			<longitude>-860890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nombre de Jesus -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>125943</latitude>
+			<longitude>-859390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="North Creek -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>132110</latitude>
+			<longitude>-835723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northwest Reef -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146277</latitude>
+			<longitude>-827723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Northwest Spot -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>142110</latitude>
+			<longitude>-827390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Novios -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>123443</latitude>
+			<longitude>-860390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nubes -- (State: Masaya)">
+			<state>Masaya</state>
+			<latitude>120277</latitude>
+			<longitude>-862723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nueva Guinea -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>116943</latitude>
+			<longitude>-844390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuevo Amanecer -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>128277</latitude>
+			<longitude>-841890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obraje -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>128111</latitude>
+			<longitude>-869556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obraje -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>124611</latitude>
+			<longitude>-866056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obregon -- (State: Granada)">
+			<state>Granada</state>
+			<latitude>119611</latitude>
+			<longitude>-859389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obregones -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>127778</latitude>
+			<longitude>-857722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ochomogo -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>116778</latitude>
+			<longitude>-859722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ococono -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>137444</latitude>
+			<longitude>-866056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oconguas -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>136444</latitude>
+			<longitude>-859056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oconwas -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>137611</latitude>
+			<longitude>-841722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocote de Abajo -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>127611</latitude>
+			<longitude>-858556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocotillo -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>127778</latitude>
+			<longitude>-863389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocoton -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>126944</latitude>
+			<longitude>-868056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oculi -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>141778</latitude>
+			<longitude>-852556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojoche -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>134611</latitude>
+			<longitude>-861222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojoche -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>126278</latitude>
+			<longitude>-866722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olama -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>127278</latitude>
+			<longitude>-855389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olankeri -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>142278</latitude>
+			<longitude>-835056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oli">
+			<state></state>
+			<latitude>137111</latitude>
+			<longitude>-848389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olimpo -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>119611</latitude>
+			<longitude>-863722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olomega -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>127278</latitude>
+			<longitude>-868556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Omar Torrijos -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>122864</latitude>
+			<longitude>-868314</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orilla -- (State: Granada)">
+			<state>Granada</state>
+			<latitude>117944</latitude>
+			<longitude>-860389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orinoco -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>125611</latitude>
+			<longitude>-837056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orosi -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>111611</latitude>
+			<longitude>-853389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orota -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>125611</latitude>
+			<longitude>-867389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ostional -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>111278</latitude>
+			<longitude>-857556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ostocal -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>123278</latitude>
+			<longitude>-859556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Owen Shoals -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>142944</latitude>
+			<longitude>-825556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oyanca">
+			<state></state>
+			<latitude>129444</latitude>
+			<longitude>-862389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oyoto -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>134944</latitude>
+			<longitude>-867222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Truskusirpi -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>148116</latitude>
+			<longitude>-837384</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uaflatara Rocks -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145784</latitude>
+			<longitude>-831883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uaham Cay -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143950</latitude>
+			<longitude>-830216</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ualpatara Reefs -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144617</latitude>
+			<longitude>-829550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uanuatkira Rock -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144284</latitude>
+			<longitude>-828550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uhran -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>149617</latitude>
+			<longitude>-835216</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uhri -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>147784</latitude>
+			<longitude>-838216</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uiplin Reefs -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144117</latitude>
+			<longitude>-829383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukapina -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>141950</latitude>
+			<longitude>-851550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukunni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>141617</latitude>
+			<longitude>-836050</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulona River -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144617</latitude>
+			<longitude>-832216</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uluaquin -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>141617</latitude>
+			<longitude>-855050</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulwas -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>147617</latitude>
+			<longitude>-839383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulwas Tara -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>147617</latitude>
+			<longitude>-839883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umbra Sumal -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146617</latitude>
+			<longitude>-846883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umbra Tingne -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146784</latitude>
+			<longitude>-846550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umukhuas -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144117</latitude>
+			<longitude>-845383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unanwas Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145617</latitude>
+			<longitude>-845383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upa -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>129284</latitude>
+			<longitude>-856050</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upla Pruan -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>143950</latitude>
+			<longitude>-851883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urbaite -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>115284</latitude>
+			<longitude>-855716</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uskira -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144950</latitude>
+			<longitude>-832716</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usupon River -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>138450</latitude>
+			<longitude>-836550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utila -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>120450</latitude>
+			<longitude>-862550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utlamasta -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>149950</latitude>
+			<longitude>-835216</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wacwac -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>139452</latitude>
+			<longitude>-835548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waham Reef -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145119</latitude>
+			<longitude>-828714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wailawas -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>136619</latitude>
+			<longitude>-848214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakaban -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>140952</latitude>
+			<longitude>-835714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakalwas Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145786</latitude>
+			<longitude>-848214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walakitan -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>145452</latitude>
+			<longitude>-850714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walkaeaya -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>131286</latitude>
+			<longitude>-838881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walpa -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>129452</latitude>
+			<longitude>-835214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wana Lagoon -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>147619</latitude>
+			<longitude>-833214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanar Kaban Bay -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143119</latitude>
+			<longitude>-832548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wani Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>148119</latitude>
+			<longitude>-834048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wankluma -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>132286</latitude>
+			<longitude>-835714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanks River">
+			<state></state>
+			<latitude>150119</latitude>
+			<longitude>-831548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wari Creek Hill -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145952</latitude>
+			<longitude>-843214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wari Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146452</latitude>
+			<longitude>-842881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warnata -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143786</latitude>
+			<longitude>-835548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasallama -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>130786</latitude>
+			<longitude>-849881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasbinusny Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144786</latitude>
+			<longitude>-844548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasbuzo Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144286</latitude>
+			<longitude>-841381</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waska -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>148119</latitude>
+			<longitude>-837214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasla Sirpe Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>147119</latitude>
+			<longitude>-837214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasla Tara -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146952</latitude>
+			<longitude>-836881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waslala -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>129286</latitude>
+			<longitude>-859548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waslala -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>132452</latitude>
+			<longitude>-853714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasliwas -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143786</latitude>
+			<longitude>-838881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waspado -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>136786</latitude>
+			<longitude>-848548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waspam -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>147452</latitude>
+			<longitude>-839548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waspook -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146452</latitude>
+			<longitude>-844214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waspuk -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>138119</latitude>
+			<longitude>-848714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasurta Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144286</latitude>
+			<longitude>-842381</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waula Point -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>121786</latitude>
+			<longitude>-830548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wawa -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>138952</latitude>
+			<longitude>-834548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wawasang -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>125952</latitude>
+			<longitude>-837381</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wawule -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>129452</latitude>
+			<longitude>-857714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wayawas -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>143786</latitude>
+			<longitude>-851881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waylaska Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144952</latitude>
+			<longitude>-843881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wil Wil Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>138286</latitude>
+			<longitude>-842048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wilder -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>145786</latitude>
+			<longitude>-836048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiliwa -- (State: Boaco)">
+			<state>Boaco</state>
+			<latitude>126286</latitude>
+			<longitude>-855548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Williams Cay -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>120119</latitude>
+			<longitude>-837381</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Willing Cay -- (State: Atlantico Sur)">
+			<state>Atlantico Sur</state>
+			<latitude>117119</latitude>
+			<longitude>-836714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wirapahani -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146952</latitude>
+			<longitude>-842381</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Witties Reef -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>141786</latitude>
+			<longitude>-827048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiwas -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144119</latitude>
+			<longitude>-837714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiwili -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>136286</latitude>
+			<longitude>-858214</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wiwinak -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146286</latitude>
+			<longitude>-844548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wualpaxisco -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>134786</latitude>
+			<longitude>-835381</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wuina -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>140786</latitude>
+			<longitude>-852881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xiloa -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>122337</latitude>
+			<longitude>-863086</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xolotlan">
+			<state></state>
+			<latitude>123517</latitude>
+			<longitude>-863386</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yabaltara -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>136121</latitude>
+			<longitude>-839046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yablis -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>141788</latitude>
+			<longitude>-838046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yacalguas -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>137121</latitude>
+			<longitude>-857712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yacica -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>130121</latitude>
+			<longitude>-857879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yagualica -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>130621</latitude>
+			<longitude>-860379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yakalpanani -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>141454</latitude>
+			<longitude>-854546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalaguina -- (State: Madriz)">
+			<state>Madriz</state>
+			<latitude>134954</latitude>
+			<longitude>-864712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yali -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>133121</latitude>
+			<longitude>-861712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yami Bila -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146121</latitude>
+			<longitude>-833046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yankee Bila -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>139788</latitude>
+			<longitude>-834879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaoya -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>136454</latitude>
+			<longitude>-846712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaroki -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>131954</latitude>
+			<longitude>-850046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yaule Abajo -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>129121</latitude>
+			<longitude>-859712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yauya -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>134621</latitude>
+			<longitude>-842546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yayule -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>129954</latitude>
+			<longitude>-857212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Younga -- (State: Chontales)">
+			<state>Chontales</state>
+			<latitude>118788</latitude>
+			<longitude>-848046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yslinwas Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>143454</latitude>
+			<longitude>-843546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yucapuca -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>131954</latitude>
+			<longitude>-860212</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yucapuca -- (State: Boaco)">
+			<state>Boaco</state>
+			<latitude>125621</latitude>
+			<longitude>-854879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yucica-Sur -- (State: Matagalpa)">
+			<state>Matagalpa</state>
+			<latitude>129788</latitude>
+			<longitude>-857879</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yulnata -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>146454</latitude>
+			<longitude>-836546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yulu -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>140788</latitude>
+			<longitude>-835712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yulu Tingni -- (State: Atlantico Norte)">
+			<state>Atlantico Norte</state>
+			<latitude>144288</latitude>
+			<longitude>-839712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yupali -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>131288</latitude>
+			<longitude>-861546</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zacatera -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>135955</latitude>
+			<longitude>-858545</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaguatepe -- (State: Boaco)">
+			<state>Boaco</state>
+			<latitude>125289</latitude>
+			<longitude>-856378</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zamaria -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>132955</latitude>
+			<longitude>-861211</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zambrana -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>121614</latitude>
+			<longitude>-860678</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zanatita -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>112289</latitude>
+			<longitude>-852545</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zancudal -- (State: Jinotega)">
+			<state>Jinotega</state>
+			<latitude>134622</latitude>
+			<longitude>-861545</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapata -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>126400</latitude>
+			<longitude>-866903</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapotal -- (State: Managua)">
+			<state>Managua</state>
+			<latitude>121622</latitude>
+			<longitude>-861045</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapotal -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>137122</latitude>
+			<longitude>-867545</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapote -- (State: Chinandega)">
+			<state>Chinandega</state>
+			<latitude>125789</latitude>
+			<longitude>-872878</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapote -- (State: Madriz)">
+			<state>Madriz</state>
+			<latitude>135955</latitude>
+			<longitude>-864211</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapotilla -- (State: Nueva Segovia)">
+			<state>Nueva Segovia</state>
+			<latitude>136289</latitude>
+			<longitude>-860378</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapotillo -- (State: Rivas)">
+			<state>Rivas</state>
+			<latitude>111622</latitude>
+			<longitude>-853711</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapotillo">
+			<state></state>
+			<latitude>135122</latitude>
+			<longitude>-867378</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zarzales -- (State: Leon)">
+			<state>Leon</state>
+			<latitude>126739</latitude>
+			<longitude>-864250</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zavalos -- (State: Rio San Juan)">
+			<state>Rio San Juan</state>
+			<latitude>110455</latitude>
+			<longitude>-844711</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

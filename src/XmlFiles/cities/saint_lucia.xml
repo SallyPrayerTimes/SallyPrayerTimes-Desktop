@@ -1,0 +1,649 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Saint Lucia">
+		<city name="Canaries">
+			<state></state>
+			<latitude>139099</latitude>
+			<longitude>-610568</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Castries">
+			<state></state>
+			<latitude>140099</latitude>
+			<longitude>-609901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Castries Harbour -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>140266</latitude>
+			<longitude>-609901</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Castries River -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>140266</latitude>
+			<longitude>-609734</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Des Bateaux Islet -- (State: Dennery)">
+			<state>Dennery</state>
+			<latitude>139100</latitude>
+			<longitude>-608567</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eau Piquant -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137601</latitude>
+			<longitude>-609232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Epouge Bay -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>140934</latitude>
+			<longitude>-609066</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esperance Estate -- (State: Soufriere)">
+			<state>Soufriere</state>
+			<latitude>138434</latitude>
+			<longitude>-610232</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esperance River">
+			<state></state>
+			<latitude>140601</latitude>
+			<longitude>-608899</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feree Bay -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139935</latitude>
+			<longitude>-610065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ferrand -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139769</latitude>
+			<longitude>-609731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fond Assor -- (State: Dauphin)">
+			<state>Dauphin</state>
+			<latitude>139935</latitude>
+			<longitude>-609065</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fond Bay -- (State: Praslin)">
+			<state>Praslin</state>
+			<latitude>138435</latitude>
+			<longitude>-608731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fond Blanc -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137019</latitude>
+			<longitude>-609148</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fond d Or River -- (State: Dennery)">
+			<state>Dennery</state>
+			<latitude>139269</latitude>
+			<longitude>-608731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Forestiere -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139769</latitude>
+			<longitude>-609398</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Charlotte -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139935</latitude>
+			<longitude>-609898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Foureur Islet -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>140769</latitude>
+			<longitude>-609731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fous Islet -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>140769</latitude>
+			<longitude>-608898</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frigate -- (State: Praslin)">
+			<state>Praslin</state>
+			<latitude>138769</latitude>
+			<longitude>-608731</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gouti Cove -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>140603</latitude>
+			<longitude>-609564</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="H Erelle -- (State: Laborie)">
+			<state>Laborie</state>
+			<latitude>137604</latitude>
+			<longitude>-609729</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hardie Point -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>141104</latitude>
+			<longitude>-609063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haut Morne -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139937</latitude>
+			<longitude>-609563</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hellene -- (State: Praslin)">
+			<state>Praslin</state>
+			<latitude>137937</latitude>
+			<longitude>-609063</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hewanorra -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137271</latitude>
+			<longitude>-609229</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hope Estate -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137604</latitude>
+			<longitude>-609396</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ile des Ramiers -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>140938</latitude>
+			<longitude>-609562</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Incommode -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139938</latitude>
+			<longitude>-609728</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Islet du Choc -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>140438</latitude>
+			<longitude>-609562</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Islet Maria -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137272</latitude>
+			<longitude>-609062</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivrogne River">
+			<state></state>
+			<latitude>137938</latitude>
+			<longitude>-610562</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jalousie -- (State: Soufriere)">
+			<state>Soufriere</state>
+			<latitude>138273</latitude>
+			<longitude>-610394</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jambon Bay -- (State: Soufriere)">
+			<state>Soufriere</state>
+			<latitude>138773</latitude>
+			<longitude>-610561</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jean Baptiste -- (State: Anse-la-Raye)">
+			<state>Anse-la-Raye</state>
+			<latitude>139439</latitude>
+			<longitude>-609894</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="L Angere Point -- (State: Micoud)">
+			<state>Micoud</state>
+			<latitude>138108</latitude>
+			<longitude>-608892</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Borne -- (State: Dauphin)">
+			<state>Dauphin</state>
+			<latitude>140441</latitude>
+			<longitude>-609059</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Retraite -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137608</latitude>
+			<longitude>-609559</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="La Tourney -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137441</latitude>
+			<longitude>-609392</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Micoud">
+			<state></state>
+			<latitude>138276</latitude>
+			<longitude>-608891</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Morne Doudon -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>140109</latitude>
+			<longitude>-609558</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noir Bay -- (State: Laborie)">
+			<state>Laborie</state>
+			<latitude>137443</latitude>
+			<longitude>-609723</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Old Settlement -- (State: Praslin)">
+			<state>Praslin</state>
+			<latitude>138944</latitude>
+			<longitude>-608889</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orange Point -- (State: Anse-la-Raye)">
+			<state>Anse-la-Raye</state>
+			<latitude>139444</latitude>
+			<longitude>-610222</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orangerie -- (State: Praslin)">
+			<state>Praslin</state>
+			<latitude>138611</latitude>
+			<longitude>-609056</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Patience -- (State: Praslin)">
+			<state>Praslin</state>
+			<latitude>138612</latitude>
+			<longitude>-608888</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarter of Dennery -- (State: Dennery)">
+			<state>Dennery</state>
+			<latitude>139280</latitude>
+			<longitude>-609054</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ravine Bethel -- (State: Micoud)">
+			<state>Micoud</state>
+			<latitude>137947</latitude>
+			<longitude>-608719</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ravine Courtois">
+			<state></state>
+			<latitude>138447</latitude>
+			<longitude>-609053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ravine Languedoc -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137447</latitude>
+			<longitude>-609553</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reduit -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>140781</latitude>
+			<longitude>-609386</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Resinard -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139947</latitude>
+			<longitude>-609219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Reunion -- (State: Choiseul)">
+			<state>Choiseul</state>
+			<latitude>137781</latitude>
+			<longitude>-610219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Riche Fond -- (State: Dennery)">
+			<state>Dennery</state>
+			<latitude>139447</latitude>
+			<longitude>-609053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="River Doree -- (State: Choiseul)">
+			<state>Choiseul</state>
+			<latitude>137614</latitude>
+			<longitude>-610219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Roblot -- (State: Choiseul)">
+			<state>Choiseul</state>
+			<latitude>138114</latitude>
+			<longitude>-610053</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rousea -- (State: Anse-la-Raye)">
+			<state>Anse-la-Raye</state>
+			<latitude>139614</latitude>
+			<longitude>-610219</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Phillip -- (State: Soufriere)">
+			<state>Soufriere</state>
+			<latitude>138448</latitude>
+			<longitude>-610052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Vincent Passage">
+			<state></state>
+			<latitude>135115</latitude>
+			<longitude>-609885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salibus Point -- (State: Micoud)">
+			<state>Micoud</state>
+			<latitude>137615</latitude>
+			<longitude>-608885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saline Point -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>141115</latitude>
+			<longitude>-609218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saltibus -- (State: Laborie)">
+			<state>Laborie</state>
+			<latitude>138115</latitude>
+			<longitude>-609885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sarot -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139448</latitude>
+			<longitude>-609718</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Savannes -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137782</latitude>
+			<longitude>-609218</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Savannes -- (State: Micoud)">
+			<state>Micoud</state>
+			<latitude>137782</latitude>
+			<longitude>-609052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Scorpion Island -- (State: Micoud)">
+			<state>Micoud</state>
+			<latitude>137615</latitude>
+			<longitude>-609052</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Smugglers Cove -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>140948</latitude>
+			<longitude>-609385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sorciere River -- (State: Dauphin)">
+			<state>Dauphin</state>
+			<latitude>139948</latitude>
+			<longitude>-608552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soucis -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139782</latitude>
+			<longitude>-609885</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soufriere">
+			<state></state>
+			<latitude>138615</latitude>
+			<longitude>-610385</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Soufriere Bay -- (State: Soufriere)">
+			<state>Soufriere</state>
+			<latitude>138615</latitude>
+			<longitude>-610552</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tapion Shoal -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>140269</latitude>
+			<longitude>-609951</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tariti Point -- (State: Dauphin)">
+			<state>Dauphin</state>
+			<latitude>140116</latitude>
+			<longitude>-608717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terrefallee -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139616</latitude>
+			<longitude>-609884</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Theodorine -- (State: Anse-la-Raye)">
+			<state>Anse-la-Raye</state>
+			<latitude>139283</latitude>
+			<longitude>-610217</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Barbet River -- (State: Choiseul)">
+			<state>Choiseul</state>
+			<latitude>137949</latitude>
+			<longitude>-610384</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Gascon -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>140783</latitude>
+			<longitude>-609551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Gras Point -- (State: Praslin)">
+			<state>Praslin</state>
+			<latitude>138616</latitude>
+			<longitude>-608717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Grauval -- (State: Gros-Islet)">
+			<state>Gros-Islet</state>
+			<latitude>140616</latitude>
+			<longitude>-608717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Halhal -- (State: Dennery)">
+			<state>Dennery</state>
+			<latitude>139616</latitude>
+			<longitude>-608551</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Requin -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139783</latitude>
+			<longitude>-610051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Rolland -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>139616</latitude>
+			<longitude>-610051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trou Zombie -- (State: Praslin)">
+			<state>Praslin</state>
+			<latitude>138949</latitude>
+			<longitude>-608717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Troumasse -- (State: Micoud)">
+			<state>Micoud</state>
+			<latitude>138283</latitude>
+			<longitude>-609051</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Troumassee River -- (State: Micoud)">
+			<state>Micoud</state>
+			<latitude>138116</latitude>
+			<longitude>-608717</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venus Estate -- (State: Anse-la-Raye)">
+			<state>Anse-la-Raye</state>
+			<latitude>139285</latitude>
+			<longitude>-610049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieille Ville Bay -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>140271</latitude>
+			<longitude>-609821</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vieux Fort -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>137285</latitude>
+			<longitude>-609382</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vigie -- (State: Castries)">
+			<state>Castries</state>
+			<latitude>140451</latitude>
+			<longitude>-610049</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="White Cross -- (State: Anse-la-Raye)">
+			<state>Anse-la-Raye</state>
+			<latitude>139452</latitude>
+			<longitude>-610381</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woodlands Estate -- (State: Vieux-Fort)">
+			<state>Vieux-Fort</state>
+			<latitude>138119</latitude>
+			<longitude>-609548</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yvrogne -- (State: Soufriere)">
+			<state>Soufriere</state>
+			<latitude>138121</latitude>
+			<longitude>-610546</longitude>
+			<timezone>-400</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

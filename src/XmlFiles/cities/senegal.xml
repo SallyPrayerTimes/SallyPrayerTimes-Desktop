@@ -1,0 +1,789 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Senegal">
+		<city name="Adebere -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>151430</latitude>
+			<longitude>-127736</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="B ounounga -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>146906</latitude>
+			<longitude>-170955</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dakar">
+			<state></state>
+			<latitude>146808</latitude>
+			<longitude>-174281</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dakar Bango -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>160672</latitude>
+			<longitude>-164456</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dakar Dioi -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>149433</latitude>
+			<longitude>-167233</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dakar Region -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>147600</latitude>
+			<longitude>-173233</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dakar-Marine -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>146947</latitude>
+			<longitude>-174256</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diourbel">
+			<state></state>
+			<latitude>146600</latitude>
+			<longitude>-161733</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diourbel -- (State: Kaolack)">
+			<state>Kaolack</state>
+			<latitude>142433</latitude>
+			<longitude>-161733</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diourbel Region -- (State: Diourbel)">
+			<state>Diourbel</state>
+			<latitude>147600</latitude>
+			<longitude>-162400</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Diourbel Sine -- (State: Fatick)">
+			<state>Fatick</state>
+			<latitude>145100</latitude>
+			<longitude>-161900</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Efrane Kachiouane -- (State: Ziguinchor)">
+			<state>Ziguinchor</state>
+			<latitude>125268</latitude>
+			<longitude>-167066</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eo Tiate -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>160768</latitude>
+			<longitude>-154566</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ierma -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>151272</latitude>
+			<longitude>-127228</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamko -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>132273</latitude>
+			<longitude>-123227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jardin de Linndiane -- (State: Fatick)">
+			<state>Fatick</state>
+			<latitude>141939</latitude>
+			<longitude>-161227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jevel -- (State: Kolda)">
+			<state>Kolda</state>
+			<latitude>130273</latitude>
+			<longitude>-140061</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinnak -- (State: Fatick)">
+			<state>Fatick</state>
+			<latitude>136092</latitude>
+			<longitude>-165294</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jinnak Bolon -- (State: Fatick)">
+			<state>Fatick</state>
+			<latitude>136245</latitude>
+			<longitude>-165122</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joal -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>141773</latitude>
+			<longitude>-168227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joal Patches -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>141439</latitude>
+			<longitude>-168561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jogue Island -- (State: Ziguinchor)">
+			<state>Ziguinchor</state>
+			<latitude>126106</latitude>
+			<longitude>-167394</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jogue Point -- (State: Ziguinchor)">
+			<state>Ziguinchor</state>
+			<latitude>125939</latitude>
+			<longitude>-167561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jokonsa Point -- (State: Fatick)">
+			<state>Fatick</state>
+			<latitude>137845</latitude>
+			<longitude>-166813</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jolof -- (State: (SG08))">
+			<state>(SG08)</state>
+			<latitude>152606</latitude>
+			<longitude>-157394</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jongsharr">
+			<state></state>
+			<latitude>136275</latitude>
+			<longitude>-161286</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jowangkerr -- (State: Ziguinchor)">
+			<state>Ziguinchor</state>
+			<latitude>131695</latitude>
+			<longitude>-161597</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumbas River -- (State: Fatick)">
+			<state>Fatick</state>
+			<latitude>137939</latitude>
+			<longitude>-166227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaolack">
+			<state></state>
+			<latitude>141440</latitude>
+			<longitude>-160393</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koumpentoum -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>139940</latitude>
+			<longitude>-145560</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Louga -- (State: (SG08))">
+			<state>(SG08)</state>
+			<latitude>156108</latitude>
+			<longitude>-161892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lougayama -- (State: Kaolack)">
+			<state>Kaolack</state>
+			<latitude>145441</latitude>
+			<longitude>-146559</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Matam -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>156776</latitude>
+			<longitude>-132391</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mboro -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>151609</latitude>
+			<longitude>-168891</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mbour -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>145109</latitude>
+			<longitude>-169891</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Meouane -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>150942</latitude>
+			<longitude>-167558</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quack Oumgouna -- (State: Kaolack)">
+			<state>Kaolack</state>
+			<latitude>137613</latitude>
+			<longitude>-160554</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quae Touda -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>157780</latitude>
+			<longitude>-135220</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quakhal -- (State: (SG08))">
+			<state>(SG08)</state>
+			<latitude>157446</latitude>
+			<longitude>-163554</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarkere -- (State: Kaolack)">
+			<state>Kaolack</state>
+			<latitude>144113</latitude>
+			<longitude>-154387</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quarrac -- (State: (SG08))">
+			<state>(SG08)</state>
+			<latitude>155280</latitude>
+			<longitude>-160387</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quartier Usine -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>147255</latitude>
+			<longitude>-174409</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quassoumassal -- (State: (SG08))">
+			<state>(SG08)</state>
+			<latitude>156946</latitude>
+			<longitude>-165720</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Richard Toll -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>164781</latitude>
+			<longitude>-156719</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rufisque -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>147275</latitude>
+			<longitude>-172622</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sadio -- (State: Fatick)">
+			<state>Fatick</state>
+			<latitude>148115</latitude>
+			<longitude>-155385</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint Louis -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>159948</latitude>
+			<longitude>-164885</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Saint-Louis -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>160576</latitude>
+			<longitude>-164446</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tambacounda">
+			<state></state>
+			<latitude>137449</latitude>
+			<longitude>-136384</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thiago -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>164116</latitude>
+			<longitude>-157051</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thies">
+			<state></state>
+			<latitude>148116</latitude>
+			<longitude>-169217</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thies Nones -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>147949</latitude>
+			<longitude>-169551</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thies Region -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>147616</latitude>
+			<longitude>-168217</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tivaouane -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>150116</latitude>
+			<longitude>-164884</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Touba -- (State: Kaolack)">
+			<state>Kaolack</state>
+			<latitude>139616</latitude>
+			<longitude>-158217</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Touba -- (State: Kolda)">
+			<state>Kolda</state>
+			<latitude>130044</latitude>
+			<longitude>-155756</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Touba -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>135116</latitude>
+			<longitude>-135884</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Touba -- (State: Diourbel)">
+			<state>Diourbel</state>
+			<latitude>148616</latitude>
+			<longitude>-158717</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Touba -- (State: Ziguinchor)">
+			<state>Ziguinchor</state>
+			<latitude>131533</latitude>
+			<longitude>-166417</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Touba -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>158755</latitude>
+			<longitude>-163826</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uande -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>163950</latitude>
+			<longitude>-141883</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Usine Parc -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>147311</latitude>
+			<longitude>-174361</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wadanba -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>129619</latitude>
+			<longitude>-119048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waima -- (State: Kolda)">
+			<state>Kolda</state>
+			<latitude>130286</latitude>
+			<longitude>-141214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakali Guinde -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>148952</latitude>
+			<longitude>-125214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakelare Tabadian -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>131286</latitude>
+			<longitude>-134381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakelibougou -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>135452</latitude>
+			<longitude>-138381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakhal -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>148994</latitude>
+			<longitude>-170792</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wakhal Diamm -- (State: (SG08))">
+			<state>(SG08)</state>
+			<latitude>157672</latitude>
+			<longitude>-163823</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walankinndi -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>124452</latitude>
+			<longitude>-120214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wali Diala -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>145119</latitude>
+			<longitude>-124381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walidiala -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>123786</latitude>
+			<longitude>-123714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walo -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>160119</latitude>
+			<longitude>-159881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanba -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>124952</latitude>
+			<longitude>-115714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wanbo -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>143619</latitude>
+			<longitude>-128881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wandoulou -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>128119</latitude>
+			<longitude>-119048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waoumane -- (State: Kaolack)">
+			<state>Kaolack</state>
+			<latitude>143786</latitude>
+			<longitude>-156381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waounde -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>152786</latitude>
+			<longitude>-128548</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warar -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>147722</latitude>
+			<longitude>-174762</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warbe -- (State: Kolda)">
+			<state>Kolda</state>
+			<latitude>130119</latitude>
+			<longitude>-148048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wasrandou -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>147102</latitude>
+			<longitude>-170892</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wassa Waye -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>147116</latitude>
+			<longitude>-171942</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wassadou -- (State: Kolda)">
+			<state>Kolda</state>
+			<latitude>127619</latitude>
+			<longitude>-141548</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wassadou -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>127452</latitude>
+			<longitude>-120881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wassadougou -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>133619</latitude>
+			<longitude>-133214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wassandara -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>132286</latitude>
+			<longitude>-115381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wayak Ndiaga -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>147711</latitude>
+			<longitude>-172081</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wayambam -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>148347</latitude>
+			<longitude>-172059</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waye Gui -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>148213</latitude>
+			<longitude>-171728</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waye Sakal -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>147952</latitude>
+			<longitude>-171684</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wekh Wekh -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>148038</latitude>
+			<longitude>-172731</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wekhe -- (State: (SG08))">
+			<state>(SG08)</state>
+			<latitude>158213</latitude>
+			<longitude>-164445</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wel -- (State: Thies)">
+			<state>Thies</state>
+			<latitude>148980</latitude>
+			<longitude>-171414</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wendou Delo -- (State: (SG08))">
+			<state>(SG08)</state>
+			<latitude>151952</latitude>
+			<longitude>-152381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wendou Maka -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>152619</latitude>
+			<longitude>-138714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wendou Seno -- (State: (SG08))">
+			<state>(SG08)</state>
+			<latitude>152786</latitude>
+			<longitude>-150714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weneri -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>130286</latitude>
+			<longitude>-132214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weni -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>130452</latitude>
+			<longitude>-132048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wenndia -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>125452</latitude>
+			<longitude>-120881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="West Nianija Creek">
+			<state></state>
+			<latitude>136619</latitude>
+			<longitude>-151881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Windou Bosseabe -- (State: (SG04))">
+			<state>(SG04)</state>
+			<latitude>153286</latitude>
+			<longitude>-129714</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woc-Woc -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>140952</latitude>
+			<longitude>-138548</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Woc-Wock -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>140619</latitude>
+			<longitude>-139214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wongourou -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>125286</latitude>
+			<longitude>-125048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wore -- (State: Kaolack)">
+			<state>Kaolack</state>
+			<latitude>143786</latitude>
+			<longitude>-154214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wore -- (State: Fatick)">
+			<state>Fatick</state>
+			<latitude>145119</latitude>
+			<longitude>-158048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wouroli -- (State: Tambacounda)">
+			<state>Tambacounda</state>
+			<latitude>128119</latitude>
+			<longitude>-126381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xangol Carantaba">
+			<state></state>
+			<latitude>128120</latitude>
+			<longitude>-146880</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xangol Sara Djide">
+			<state></state>
+			<latitude>126787</latitude>
+			<longitude>-145547</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yoff -- (State: Dakar)">
+			<state>Dakar</state>
+			<latitude>147727</latitude>
+			<longitude>-174618</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zighinkor -- (State: Ziguinchor)">
+			<state>Ziguinchor</state>
+			<latitude>125955</latitude>
+			<longitude>-162597</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ziguinchor">
+			<state></state>
+			<latitude>125955</latitude>
+			<longitude>-162545</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

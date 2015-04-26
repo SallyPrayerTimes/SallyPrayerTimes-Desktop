@@ -1,0 +1,1034 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Bahamas">
+		<city name="15 Feet Cay -- (State: Kemps Bay)">
+			<state>Kemps Bay</state>
+			<latitude>240882</latitude>
+			<longitude>-775284</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abraham Bay -- (State: Acklins and Crooked Islands)">
+			<state>Acklins and Crooked Islands</state>
+			<latitude>224097</latitude>
+			<longitude>-739403</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Adeline Cay -- (State: Ragged Island)">
+			<state>Ragged Island</state>
+			<latitude>221883</latitude>
+			<longitude>-756995</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Allons Cay -- (State: Green Turtle Cay)">
+			<state>Green Turtle Cay</state>
+			<latitude>269930</latitude>
+			<longitude>-776570</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ambergris Cay -- (State: Nichollstown and Berry Islands)">
+			<state>Nichollstown and Berry Islands</state>
+			<latitude>256764</latitude>
+			<longitude>-778236</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Angel Cays -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>264597</latitude>
+			<longitude>-770403</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arthurs Town -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>246430</latitude>
+			<longitude>-756570</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eagle Rock -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>265601</latitude>
+			<longitude>-769566</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East Barracouta Rock -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>236934</latitude>
+			<longitude>-761899</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East Entrance -- (State: Acklins and Crooked Islands)">
+			<state>Acklins and Crooked Islands</state>
+			<latitude>220101</latitude>
+			<longitude>-743232</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East Issac Island -- (State: Bimini)">
+			<state>Bimini</state>
+			<latitude>259601</latitude>
+			<longitude>-788399</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="East Wells -- (State: Bimini)">
+			<state>Bimini</state>
+			<latitude>257434</latitude>
+			<longitude>-772232</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eastern Bay -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>246101</latitude>
+			<longitude>-758732</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egg Island Reef -- (State: Harbour Island)">
+			<state>Harbour Island</state>
+			<latitude>255768</latitude>
+			<longitude>-768066</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elbow Bank -- (State: Bimini)">
+			<state>Bimini</state>
+			<latitude>253934</latitude>
+			<longitude>-788566</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elbow Cay -- (State: Bimini)">
+			<state>Bimini</state>
+			<latitude>239601</latitude>
+			<longitude>-804732</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elbow Cay -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>265434</latitude>
+			<longitude>-769566</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elbow Cays -- (State: Bimini)">
+			<state>Bimini</state>
+			<latitude>239434</latitude>
+			<longitude>-804399</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eleuthera Point -- (State: Rock Sound)">
+			<state>Rock Sound</state>
+			<latitude>246768</latitude>
+			<longitude>-761732</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elizabeth Harbour -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>235101</latitude>
+			<longitude>-757066</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Englerston -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250601</latitude>
+			<longitude>-773232</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Exuma">
+			<state></state>
+			<latitude>235434</latitude>
+			<longitude>-758232</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Exuma Bank -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>235934</latitude>
+			<longitude>-761566</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Exuma District -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>240434</latitude>
+			<longitude>-764732</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Exuma Harbour -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>235768</latitude>
+			<longitude>-757899</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Exuma Islands -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>242601</latitude>
+			<longitude>-764899</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fairfield -- (State: Acklins and Crooked Islands)">
+			<state>Acklins and Crooked Islands</state>
+			<latitude>227935</latitude>
+			<longitude>-742065</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falcon Cays -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>264102</latitude>
+			<longitude>-769565</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fanny Cay -- (State: Nichollstown and Berry Islands)">
+			<state>Nichollstown and Berry Islands</state>
+			<latitude>256935</latitude>
+			<longitude>-778231</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farmers Cay Cut -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>239602</latitude>
+			<longitude>-763065</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farquharson -- (State: San Salvador and Rum Cay)">
+			<state>San Salvador and Rum Cay</state>
+			<latitude>240102</latitude>
+			<longitude>-744565</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fat Turtle Sound -- (State: Kemps Bay)">
+			<state>Kemps Bay</state>
+			<latitude>244102</latitude>
+			<longitude>-777231</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fiddle Cay -- (State: Green Turtle Cay)">
+			<state>Green Turtle Cay</state>
+			<latitude>268102</latitude>
+			<longitude>-773398</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Finley Cay -- (State: Harbour Island)">
+			<state>Harbour Island</state>
+			<latitude>251269</latitude>
+			<longitude>-767565</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fish Cay -- (State: Acklins and Crooked Islands)">
+			<state>Acklins and Crooked Islands</state>
+			<latitude>225102</latitude>
+			<longitude>-742565</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fish Hawk Cay -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>266269</latitude>
+			<longitude>-770231</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fishing Cays -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>249935</latitude>
+			<longitude>-774565</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flamingo Cay -- (State: Ragged Island)">
+			<state>Ragged Island</state>
+			<latitude>229102</latitude>
+			<longitude>-758565</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flamingo Pond -- (State: Mayaguana)">
+			<state>Mayaguana</state>
+			<latitude>224269</latitude>
+			<longitude>-730065</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Flamingo Pond -- (State: Fresh Creek)">
+			<state>Fresh Creek</state>
+			<latitude>245102</latitude>
+			<longitude>-777231</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fleeming Channel -- (State: Harbour Island)">
+			<state>Harbour Island</state>
+			<latitude>252769</latitude>
+			<longitude>-769231</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fleeming Point -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>249935</latitude>
+			<longitude>-774898</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Florida Strait">
+			<state></state>
+			<latitude>250102</latitude>
+			<longitude>-797398</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Foots Cay -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>266602</latitude>
+			<longitude>-771065</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Forbes -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>234769</latitude>
+			<longitude>-756398</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Charlotte -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250935</latitude>
+			<longitude>-773731</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fort Fincastle -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250935</latitude>
+			<longitude>-773565</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fowl Cay -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>242769</latitude>
+			<longitude>-765231</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frankfort Point -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>241435</latitude>
+			<longitude>-753898</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Freeport">
+			<state></state>
+			<latitude>266769</latitude>
+			<longitude>-787398</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Freeport Harbour -- (State: Freeport)">
+			<state>Freeport</state>
+			<latitude>265102</latitude>
+			<longitude>-787565</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Freeport International Airport -- (State: Freeport)">
+			<state>Freeport</state>
+			<latitude>265602</latitude>
+			<longitude>-786898</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Freetown -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>242935</latitude>
+			<longitude>-754065</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="French Wells -- (State: Acklins and Crooked Islands)">
+			<state>Acklins and Crooked Islands</state>
+			<latitude>226935</latitude>
+			<longitude>-742731</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frozen Cay -- (State: Nichollstown and Berry Islands)">
+			<state>Nichollstown and Berry Islands</state>
+			<latitude>255602</latitude>
+			<longitude>-776898</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Icely Rock -- (State: Ragged Island)">
+			<state>Ragged Island</state>
+			<latitude>220272</latitude>
+			<longitude>-756895</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iguana Cay -- (State: Kemps Bay)">
+			<state>Kemps Bay</state>
+			<latitude>240438</latitude>
+			<longitude>-777062</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Andros -- (State: Kemps Bay)">
+			<state>Kemps Bay</state>
+			<latitude>244438</latitude>
+			<longitude>-779395</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Bahama -- (State: Freeport)">
+			<state>Freeport</state>
+			<latitude>266438</latitude>
+			<longitude>-784062</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Crooked -- (State: Acklins and Crooked Islands)">
+			<state>Acklins and Crooked Islands</state>
+			<latitude>227605</latitude>
+			<longitude>-742062</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile de la Fortune -- (State: Acklins and Crooked Islands)">
+			<state>Acklins and Crooked Islands</state>
+			<latitude>226272</latitude>
+			<longitude>-743228</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile George -- (State: Harbour Island)">
+			<state>Harbour Island</state>
+			<latitude>255605</latitude>
+			<longitude>-767562</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Longue -- (State: Long Island)">
+			<state>Long Island</state>
+			<latitude>232605</latitude>
+			<longitude>-751062</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ile Mariguana -- (State: Mayaguana)">
+			<state>Mayaguana</state>
+			<latitude>223938</latitude>
+			<longitude>-729395</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iles Berry -- (State: Nichollstown and Berry Islands)">
+			<state>Nichollstown and Berry Islands</state>
+			<latitude>255772</latitude>
+			<longitude>-777395</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iles de Bahama -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>242605</latitude>
+			<longitude>-759895</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iles Planes -- (State: Ragged Island)">
+			<state>Ragged Island</state>
+			<latitude>226272</latitude>
+			<longitude>-735395</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Inagua">
+			<state></state>
+			<latitude>210938</latitude>
+			<longitude>-732895</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Industrious Hill -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>244605</latitude>
+			<longitude>-755395</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iron Cay -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>264272</latitude>
+			<longitude>-770228</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ishmael -- (State: Ragged Island)">
+			<state>Ragged Island</state>
+			<latitude>223305</latitude>
+			<longitude>-757645</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Island of Eleuthera -- (State: Governor s Harbour)">
+			<state>Governor s Harbour</state>
+			<latitude>251772</latitude>
+			<longitude>-762228</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Island of New Providence -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250438</latitude>
+			<longitude>-773895</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isle Royale -- (State: Harbour Island)">
+			<state>Harbour Island</state>
+			<latitude>255272</latitude>
+			<longitude>-768395</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Israel Creek -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>265772</latitude>
+			<longitude>-771728</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="James Cistern -- (State: Governor s Harbour)">
+			<state>Governor s Harbour</state>
+			<latitude>253273</latitude>
+			<longitude>-763561</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joes Cays -- (State: High Rock)">
+			<state>High Rock</state>
+			<latitude>271106</latitude>
+			<longitude>-780394</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="John Millars -- (State: Rock Sound)">
+			<state>Rock Sound</state>
+			<latitude>246939</latitude>
+			<longitude>-761727</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Josephs Cay -- (State: Rock Sound)">
+			<state>Rock Sound</state>
+			<latitude>249439</latitude>
+			<longitude>-761394</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joulter Cays -- (State: Nichollstown and Berry Islands)">
+			<state>Nichollstown and Berry Islands</state>
+			<latitude>253106</latitude>
+			<longitude>-781227</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kemp Cay -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>242440</latitude>
+			<longitude>-764893</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kemp Cay -- (State: Nichollstown and Berry Islands)">
+			<state>Nichollstown and Berry Islands</state>
+			<latitude>257107</latitude>
+			<longitude>-778060</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kemps Bay">
+			<state></state>
+			<latitude>240440</latitude>
+			<longitude>-775393</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kemps Bay -- (State: Governor s Harbour)">
+			<state>Governor s Harbour</state>
+			<latitude>251107</latitude>
+			<longitude>-761393</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kerr Mount -- (State: San Salvador and Rum Cay)">
+			<state>San Salvador and Rum Cay</state>
+			<latitude>240274</latitude>
+			<longitude>-744726</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kidds Cove -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>235107</latitude>
+			<longitude>-757560</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Killarney -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250607</latitude>
+			<longitude>-774060</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Killarney Lake -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250607</latitude>
+			<longitude>-774393</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kit Cays -- (State: Fresh Creek)">
+			<state>Fresh Creek</state>
+			<latitude>245774</latitude>
+			<longitude>-777226</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Knowles -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>244107</latitude>
+			<longitude>-754726</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krall Creek -- (State: Kemps Bay)">
+			<state>Kemps Bay</state>
+			<latitude>238274</latitude>
+			<longitude>-777726</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Macaras Shoal">
+			<state></state>
+			<latitude>222109</latitude>
+			<longitude>-772558</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nassau -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250943</latitude>
+			<longitude>-773390</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nassau Estate -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250443</latitude>
+			<longitude>-772723</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nassau Harbour -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>251110</latitude>
+			<longitude>-773557</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nassau International Airport -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250610</latitude>
+			<longitude>-774557</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="O Brien Cay -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>243444</latitude>
+			<longitude>-765389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="O Neils -- (State: Long Island)">
+			<state>Long Island</state>
+			<latitude>235111</latitude>
+			<longitude>-752056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oakes Field -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250611</latitude>
+			<longitude>-773556</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ocean Bight -- (State: Long Island)">
+			<state>Long Island</state>
+			<latitude>235944</latitude>
+			<longitude>-758389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ocean Bight -- (State: Inagua)">
+			<state>Inagua</state>
+			<latitude>212611</latitude>
+			<longitude>-732389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ocean Cay -- (State: Bimini)">
+			<state>Bimini</state>
+			<latitude>254278</latitude>
+			<longitude>-792056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ocean Point -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>262944</latitude>
+			<longitude>-770056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Okra Cross Point -- (State: Long Island)">
+			<state>Long Island</state>
+			<latitude>233111</latitude>
+			<longitude>-751056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Bahama Channel">
+			<state></state>
+			<latitude>225111</latitude>
+			<longitude>-788222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Bight -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>242611</latitude>
+			<longitude>-753389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Bight Landing -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>242278</latitude>
+			<longitude>-753722</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Culmers Point -- (State: Rock Sound)">
+			<state>Rock Sound</state>
+			<latitude>248278</latitude>
+			<longitude>-761389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Fort Bay -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250611</latitude>
+			<longitude>-775222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Fort Point -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250611</latitude>
+			<longitude>-774722</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Grays -- (State: Long Island)">
+			<state>Long Island</state>
+			<latitude>232278</latitude>
+			<longitude>-750722</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old House Point -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>265611</latitude>
+			<longitude>-770389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Place -- (State: San Salvador and Rum Cay)">
+			<state>San Salvador and Rum Cay</state>
+			<latitude>239778</latitude>
+			<longitude>-744722</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Old Yankee Cay -- (State: High Rock)">
+			<state>High Rock</state>
+			<latitude>279444</latitude>
+			<longitude>-780056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orange Cays -- (State: Freeport)">
+			<state>Freeport</state>
+			<latitude>249444</latitude>
+			<longitude>-791389</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orange Creek -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>246611</latitude>
+			<longitude>-757056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orange Creek Point -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>246444</latitude>
+			<longitude>-757222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oree Bay -- (State: Inagua)">
+			<state>Inagua</state>
+			<latitude>212944</latitude>
+			<longitude>-730556</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Outer Point Cay -- (State: Marsh Harbour)">
+			<state>Marsh Harbour</state>
+			<latitude>265611</latitude>
+			<longitude>-770556</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Over Yonder Cay -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>242278</latitude>
+			<longitude>-764556</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Owens Town -- (State: Fresh Creek)">
+			<state>Fresh Creek</state>
+			<latitude>248944</latitude>
+			<longitude>-780222</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oyster Cay -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>247278</latitude>
+			<longitude>-768056</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarters -- (State: San Salvador and Rum Cay)">
+			<state>San Salvador and Rum Cay</state>
+			<latitude>241113</latitude>
+			<longitude>-745054</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queen s Cove -- (State: Freeport)">
+			<state>Freeport</state>
+			<latitude>265613</latitude>
+			<longitude>-787054</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Queens Channel -- (State: Kemps Bay)">
+			<state>Kemps Bay</state>
+			<latitude>233446</latitude>
+			<longitude>-769887</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quintus Rocks -- (State: Harbour Island)">
+			<state>Harbour Island</state>
+			<latitude>252946</latitude>
+			<longitude>-768720</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tee Cay -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>245783</latitude>
+			<longitude>-758717</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thompson Cay -- (State: Nichollstown and Berry Islands)">
+			<state>Nichollstown and Berry Islands</state>
+			<latitude>254283</latitude>
+			<longitude>-778217</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thrift Harbour Creek -- (State: Green Turtle Cay)">
+			<state>Green Turtle Cay</state>
+			<latitude>265616</latitude>
+			<longitude>-778384</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Treasure Cay -- (State: Green Turtle Cay)">
+			<state>Green Turtle Cay</state>
+			<latitude>266783</latitude>
+			<longitude>-772551</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Turtle Rock -- (State: Long Island)">
+			<state>Long Island</state>
+			<latitude>232449</latitude>
+			<longitude>-752717</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Turtle Rocks -- (State: Bimini)">
+			<state>Bimini</state>
+			<latitude>256783</latitude>
+			<longitude>-793217</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Twin Cay -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>242116</latitude>
+			<longitude>-764884</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Twin Cays -- (State: Ragged Island)">
+			<state>Ragged Island</state>
+			<latitude>223477</latitude>
+			<longitude>-757684</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umbrella Cay -- (State: Green Turtle Cay)">
+			<state>Green Turtle Cay</state>
+			<latitude>270284</latitude>
+			<longitude>-777050</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="United Estates -- (State: San Salvador and Rum Cay)">
+			<state>San Salvador and Rum Cay</state>
+			<latitude>241117</latitude>
+			<longitude>-744383</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Bogue -- (State: Harbour Island)">
+			<state>Harbour Island</state>
+			<latitude>254617</latitude>
+			<longitude>-766550</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Conch Point -- (State: Freeport)">
+			<state>Freeport</state>
+			<latitude>265450</latitude>
+			<longitude>-785550</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Samphire Cay -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>252117</latitude>
+			<longitude>-769550</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Sandy Harbour -- (State: Freeport)">
+			<state>Freeport</state>
+			<latitude>268284</latitude>
+			<longitude>-784883</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Upper Wreck Point -- (State: Governor s Harbour)">
+			<state>Governor s Harbour</state>
+			<latitude>251284</latitude>
+			<longitude>-760883</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vigilant Cay -- (State: Nichollstown and Berry Islands)">
+			<state>Nichollstown and Berry Islands</state>
+			<latitude>254451</latitude>
+			<longitude>-777549</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yamacraw Beach -- (State: New Providence)">
+			<state>New Providence</state>
+			<latitude>250288</latitude>
+			<longitude>-772379</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yellow Cay -- (State: Kemps Bay)">
+			<state>Kemps Bay</state>
+			<latitude>242454</latitude>
+			<longitude>-779546</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Young Islet -- (State: Exuma)">
+			<state>Exuma</state>
+			<latitude>238288</latitude>
+			<longitude>-761712</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanicles Settlement -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>241455</latitude>
+			<longitude>-753545</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zion Hill -- (State: Cat Island)">
+			<state>Cat Island</state>
+			<latitude>246289</latitude>
+			<longitude>-756378</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

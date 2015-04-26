@@ -1,0 +1,1454 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Nepal">
+		<city name="Achham">
+			<state></state>
+			<latitude>290597</latitude>
+			<longitude>813097</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aisvalukharka">
+			<state></state>
+			<latitude>273597</latitude>
+			<longitude>867597</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amardaha">
+			<state></state>
+			<latitude>265430</latitude>
+			<longitude>875764</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amile">
+			<state></state>
+			<latitude>279764</latitude>
+			<longitude>822097</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amlekhsagunz">
+			<state></state>
+			<latitude>272930</latitude>
+			<longitude>849930</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amlia">
+			<state></state>
+			<latitude>287930</latitude>
+			<longitude>802597</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amphu Labtsa Glacier">
+			<state></state>
+			<latitude>278930</latitude>
+			<longitude>869430</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Amraia">
+			<state></state>
+			<latitude>286930</latitude>
+			<longitude>804430</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Andhi Khola">
+			<state></state>
+			<latitude>279930</latitude>
+			<longitude>835930</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Andrauli">
+			<state></state>
+			<latitude>275764</latitude>
+			<longitude>841930</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Angbung">
+			<state></state>
+			<latitude>272764</latitude>
+			<longitude>877430</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Annapurna">
+			<state></state>
+			<latitude>285930</latitude>
+			<longitude>839597</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Argha">
+			<state></state>
+			<latitude>279264</latitude>
+			<longitude>830930</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arghakot">
+			<state></state>
+			<latitude>280264</latitude>
+			<longitude>831097</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arughat Bazar">
+			<state></state>
+			<latitude>280597</latitude>
+			<longitude>848097</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asaina">
+			<state></state>
+			<latitude>288930</latitude>
+			<longitude>803430</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ataria">
+			<state></state>
+			<latitude>288097</latitude>
+			<longitude>805764</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Athmauza">
+			<state></state>
+			<latitude>264597</latitude>
+			<longitude>876930</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Athpali">
+			<state></state>
+			<latitude>296597</latitude>
+			<longitude>808264</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atrauli">
+			<state></state>
+			<latitude>271097</latitude>
+			<longitude>856264</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aulgurta">
+			<state></state>
+			<latitude>289264</latitude>
+			<longitude>825097</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Biratnagar">
+			<state></state>
+			<latitude>264931</latitude>
+			<longitude>872931</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bogri">
+			<state></state>
+			<latitude>274265</latitude>
+			<longitude>833931</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boradandi">
+			<state></state>
+			<latitude>287265</latitude>
+			<longitude>805765</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Captainganj">
+			<state></state>
+			<latitude>264599</latitude>
+			<longitude>871266</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dhanusha">
+			<state></state>
+			<latitude>268433</latitude>
+			<longitude>860933</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dharan">
+			<state></state>
+			<latitude>268267</latitude>
+			<longitude>872933</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Number Four">
+			<state></state>
+			<latitude>272601</latitude>
+			<longitude>870934</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Emodus Mountains">
+			<state></state>
+			<latitude>280101</latitude>
+			<longitude>840101</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fatehpur">
+			<state></state>
+			<latitude>267269</latitude>
+			<longitude>869269</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fulchok">
+			<state></state>
+			<latitude>275935</latitude>
+			<longitude>854102</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gulmi Tamghas">
+			<state></state>
+			<latitude>280770</latitude>
+			<longitude>832603</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hajminia">
+			<state></state>
+			<latitude>267937</latitude>
+			<longitude>853104</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halji">
+			<state></state>
+			<latitude>301604</latitude>
+			<longitude>815271</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Handrung">
+			<state></state>
+			<latitude>273937</latitude>
+			<longitude>876271</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hangsari">
+			<state></state>
+			<latitude>268937</latitude>
+			<longitude>875771</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanumannagar">
+			<state></state>
+			<latitude>265104</latitude>
+			<longitude>868604</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hanumante River">
+			<state></state>
+			<latitude>276771</latitude>
+			<longitude>853771</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haraincha">
+			<state></state>
+			<latitude>266104</latitude>
+			<longitude>873771</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hardia Chauki">
+			<state></state>
+			<latitude>273104</latitude>
+			<longitude>852104</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Haria">
+			<state></state>
+			<latitude>267771</latitude>
+			<longitude>868271</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hariharpur Garhi">
+			<state></state>
+			<latitude>273271</latitude>
+			<longitude>854937</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harpur">
+			<state></state>
+			<latitude>270104</latitude>
+			<longitude>855771</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harrebarre">
+			<state></state>
+			<latitude>278437</latitude>
+			<longitude>829771</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harta">
+			<state></state>
+			<latitude>274771</latitude>
+			<longitude>847104</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hatia">
+			<state></state>
+			<latitude>277437</latitude>
+			<longitude>873604</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hatranga">
+			<state></state>
+			<latitude>294437</latitude>
+			<longitude>804104</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Helambu">
+			<state></state>
+			<latitude>280937</latitude>
+			<longitude>855937</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hemaganga">
+			<state></state>
+			<latitude>272604</latitude>
+			<longitude>862104</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hetauda">
+			<state></state>
+			<latitude>274271</latitude>
+			<longitude>850437</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hidalwa">
+			<state></state>
+			<latitude>267104</latitude>
+			<longitude>871104</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hilajug">
+			<state></state>
+			<latitude>278604</latitude>
+			<longitude>866604</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Himal Chuli">
+			<state></state>
+			<latitude>284604</latitude>
+			<longitude>846437</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Himalaya Shan">
+			<state></state>
+			<latitude>290104</latitude>
+			<longitude>830104</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hiunchuli Patan">
+			<state></state>
+			<latitude>288437</latitude>
+			<longitude>826271</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humla">
+			<state></state>
+			<latitude>299271</latitude>
+			<longitude>819271</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Humla Karnali">
+			<state></state>
+			<latitude>287604</latitude>
+			<longitude>812771</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilam">
+			<state></state>
+			<latitude>269105</latitude>
+			<longitude>879438</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Illam">
+			<state></state>
+			<latitude>269272</latitude>
+			<longitude>879272</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inarwa">
+			<state></state>
+			<latitude>265105</latitude>
+			<longitude>868438</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indrawati River">
+			<state></state>
+			<latitude>276438</latitude>
+			<longitude>857272</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Inner Himalaya">
+			<state></state>
+			<latitude>300105</latitude>
+			<longitude>800105</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Irung">
+			<state></state>
+			<latitude>280272</latitude>
+			<longitude>855105</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ismakot">
+			<state></state>
+			<latitude>281938</latitude>
+			<longitude>832105</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ithari">
+			<state></state>
+			<latitude>266772</latitude>
+			<longitude>872938</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jajarkot">
+			<state></state>
+			<latitude>288439</latitude>
+			<longitude>822606</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janakpur Anchal">
+			<state></state>
+			<latitude>271773</latitude>
+			<longitude>859273</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jhapa">
+			<state></state>
+			<latitude>264939</latitude>
+			<longitude>878606</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jhunga">
+			<state></state>
+			<latitude>286439</latitude>
+			<longitude>811606</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jongsang Peak">
+			<state></state>
+			<latitude>278939</latitude>
+			<longitude>881439</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joshipur">
+			<state></state>
+			<latitude>285773</latitude>
+			<longitude>810273</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jumla">
+			<state></state>
+			<latitude>295106</latitude>
+			<longitude>822606</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kapilbastu">
+			<state></state>
+			<latitude>276774</latitude>
+			<longitude>829274</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kathmandu">
+			<state></state>
+			<latitude>277607</latitude>
+			<longitude>854274</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kathmandu Airport">
+			<state></state>
+			<latitude>277274</latitude>
+			<longitude>853774</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kathmandu Valley">
+			<state></state>
+			<latitude>276774</latitude>
+			<longitude>853607</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kathmandu-Kodari Road">
+			<state></state>
+			<latitude>277607</latitude>
+			<longitude>856774</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kinchinjunga">
+			<state></state>
+			<latitude>277107</latitude>
+			<longitude>881440</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiratichhap">
+			<state></state>
+			<latitude>276440</latitude>
+			<longitude>860774</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiratpur">
+			<state></state>
+			<latitude>286274</latitude>
+			<longitude>809440</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kirtipur">
+			<state></state>
+			<latitude>276774</latitude>
+			<longitude>852940</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lalitpur">
+			<state></state>
+			<latitude>275941</latitude>
+			<longitude>853441</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lekhparajuli">
+			<state></state>
+			<latitude>284441</latitude>
+			<longitude>816441</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lhonak">
+			<state></state>
+			<latitude>277941</latitude>
+			<longitude>880441</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lhotse">
+			<state></state>
+			<latitude>279775</latitude>
+			<longitude>869441</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mingbo">
+			<state></state>
+			<latitude>278609</latitude>
+			<longitude>868109</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagma">
+			<state></state>
+			<latitude>292110</latitude>
+			<longitude>818943</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nagmati Khola">
+			<state></state>
+			<latitude>277777</latitude>
+			<longitude>854443</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nakhu Khola">
+			<state></state>
+			<latitude>276777</latitude>
+			<longitude>853110</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nalakankar Pass">
+			<state></state>
+			<latitude>302777</latitude>
+			<longitude>814443</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namai">
+			<state></state>
+			<latitude>278777</latitude>
+			<longitude>825277</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nambo">
+			<state></state>
+			<latitude>292443</latitude>
+			<longitude>839610</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namde Goan">
+			<state></state>
+			<latitude>292777</latitude>
+			<longitude>831110</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namdu">
+			<state></state>
+			<latitude>271443</latitude>
+			<longitude>877943</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namja La">
+			<state></state>
+			<latitude>299777</latitude>
+			<longitude>825777</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namlang">
+			<state></state>
+			<latitude>296277</latitude>
+			<longitude>824610</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namrek">
+			<state></state>
+			<latitude>272943</latitude>
+			<longitude>879443</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nanche Bazar">
+			<state></state>
+			<latitude>278277</latitude>
+			<longitude>867277</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nandpur">
+			<state></state>
+			<latitude>275777</latitude>
+			<longitude>840443</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nang-pu-la Shan-k ou">
+			<state></state>
+			<latitude>280943</latitude>
+			<longitude>866110</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nara La">
+			<state></state>
+			<latitude>300943</latitude>
+			<longitude>814277</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narayanghat">
+			<state></state>
+			<latitude>276943</latitude>
+			<longitude>844277</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narayani Anchal">
+			<state></state>
+			<latitude>274277</latitude>
+			<longitude>850110</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Narcheng">
+			<state></state>
+			<latitude>285277</latitude>
+			<longitude>836943</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nargaon">
+			<state></state>
+			<latitude>292610</latitude>
+			<longitude>806610</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naubise">
+			<state></state>
+			<latitude>277277</latitude>
+			<longitude>851610</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nauranga">
+			<state></state>
+			<latitude>286943</latitude>
+			<longitude>804777</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nawakot">
+			<state></state>
+			<latitude>279277</latitude>
+			<longitude>851777</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nawalparasi">
+			<state></state>
+			<latitude>276777</latitude>
+			<longitude>839277</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nayagaon">
+			<state></state>
+			<latitude>280943</latitude>
+			<longitude>828110</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nepa">
+			<state></state>
+			<latitude>286610</latitude>
+			<longitude>819277</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nepalganj">
+			<state></state>
+			<latitude>280610</latitude>
+			<longitude>816277</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nepaltar">
+			<state></state>
+			<latitude>269110</latitude>
+			<longitude>865443</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nepka">
+			<state></state>
+			<latitude>298443</latitude>
+			<longitude>821443</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neta">
+			<state></state>
+			<latitude>285610</latitude>
+			<longitude>817943</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neto">
+			<state></state>
+			<latitude>296943</latitude>
+			<longitude>816943</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngyak">
+			<state></state>
+			<latitude>284610</latitude>
+			<longitude>849110</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nijgarh">
+			<state></state>
+			<latitude>272110</latitude>
+			<longitude>851777</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ninyal">
+			<state></state>
+			<latitude>301277</latitude>
+			<longitude>817110</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nisalgaon">
+			<state></state>
+			<latitude>293943</latitude>
+			<longitude>831277</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nougam">
+			<state></state>
+			<latitude>276777</latitude>
+			<longitude>852777</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Num">
+			<state></state>
+			<latitude>275610</latitude>
+			<longitude>872943</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nup">
+			<state></state>
+			<latitude>277277</latitude>
+			<longitude>878610</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuwaket">
+			<state></state>
+			<latitude>281443</latitude>
+			<longitude>838943</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuwakot">
+			<state></state>
+			<latitude>280110</latitude>
+			<longitude>838443</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Odarapur">
+			<state></state>
+			<latitude>281278</latitude>
+			<longitude>815611</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojna">
+			<state></state>
+			<latitude>289944</latitude>
+			<longitude>807278</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okhaldhunga Bazaar">
+			<state></state>
+			<latitude>273278</latitude>
+			<longitude>865111</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okhaldungga">
+			<state></state>
+			<latitude>273444</latitude>
+			<longitude>864278</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olang">
+			<state></state>
+			<latitude>282278</latitude>
+			<longitude>846111</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oligaon">
+			<state></state>
+			<latitude>293944</latitude>
+			<longitude>813611</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pedo La">
+			<state></state>
+			<latitude>292112</latitude>
+			<longitude>834445</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Prangmu">
+			<state></state>
+			<latitude>271945</latitude>
+			<longitude>879279</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pratappur">
+			<state></state>
+			<latitude>284945</latitude>
+			<longitude>813279</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pyuthan">
+			<state></state>
+			<latitude>280945</latitude>
+			<longitude>828445</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qomolangma Feng">
+			<state></state>
+			<latitude>279946</latitude>
+			<longitude>869446</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rabga La">
+			<state></state>
+			<latitude>278947</latitude>
+			<longitude>875447</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rajapur">
+			<state></state>
+			<latitude>284447</latitude>
+			<longitude>810947</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rajbiraj">
+			<state></state>
+			<latitude>265447</latitude>
+			<longitude>867614</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramdikbana">
+			<state></state>
+			<latitude>286781</latitude>
+			<longitude>815781</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramechhap">
+			<state></state>
+			<latitude>274281</latitude>
+			<longitude>860947</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramgarh">
+			<state></state>
+			<latitude>287614</latitude>
+			<longitude>809281</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ramnagar">
+			<state></state>
+			<latitude>270947</latitude>
+			<longitude>850781</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rang Ghat">
+			<state></state>
+			<latitude>285114</latitude>
+			<longitude>817447</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangeli">
+			<state></state>
+			<latitude>264781</latitude>
+			<longitude>874947</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rangkhung">
+			<state></state>
+			<latitude>284781</latitude>
+			<longitude>825447</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ranibirta">
+			<state></state>
+			<latitude>266447</latitude>
+			<longitude>879947</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ranitar">
+			<state></state>
+			<latitude>268947</latitude>
+			<longitude>869947</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rapti">
+			<state></state>
+			<latitude>283447</latitude>
+			<longitude>825114</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rara">
+			<state></state>
+			<latitude>295781</latitude>
+			<longitude>820781</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasi">
+			<state></state>
+			<latitude>289614</latitude>
+			<longitude>829114</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Raskot">
+			<state></state>
+			<latitude>292447</latitude>
+			<longitude>816614</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasnadu Village">
+			<state></state>
+			<latitude>275781</latitude>
+			<longitude>862114</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rasua Garhi">
+			<state></state>
+			<latitude>282947</latitude>
+			<longitude>853947</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rauthat">
+			<state></state>
+			<latitude>270114</latitude>
+			<longitude>853447</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rear">
+			<state></state>
+			<latitude>279114</latitude>
+			<longitude>823447</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rehra">
+			<state></state>
+			<latitude>275947</latitude>
+			<longitude>831447</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rijabang">
+			<state></state>
+			<latitude>284281</latitude>
+			<longitude>824781</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rimi">
+			<state></state>
+			<latitude>291447</latitude>
+			<longitude>825781</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ririkot">
+			<state></state>
+			<latitude>292281</latitude>
+			<longitude>812281</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rolpa">
+			<state></state>
+			<latitude>284281</latitude>
+			<longitude>827614</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rolwaling Himal">
+			<state></state>
+			<latitude>279614</latitude>
+			<longitude>863447</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rosi Khola">
+			<state></state>
+			<latitude>274614</latitude>
+			<longitude>858281</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Royal Chitwan">
+			<state></state>
+			<latitude>275947</latitude>
+			<longitude>843447</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rukum">
+			<state></state>
+			<latitude>287614</latitude>
+			<longitude>825947</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rumalgaon">
+			<state></state>
+			<latitude>288447</latitude>
+			<longitude>821281</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rummin-dei">
+			<state></state>
+			<latitude>274947</latitude>
+			<longitude>832947</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rupa Tal">
+			<state></state>
+			<latitude>281614</latitude>
+			<longitude>841114</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rupandehi">
+			<state></state>
+			<latitude>276781</latitude>
+			<longitude>834281</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokna">
+			<state></state>
+			<latitude>277616</latitude>
+			<longitude>853449</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toli">
+			<state></state>
+			<latitude>289116</latitude>
+			<longitude>813449</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Topke Gola">
+			<state></state>
+			<latitude>276616</latitude>
+			<longitude>875783</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toridwari">
+			<state></state>
+			<latitude>288449</latitude>
+			<longitude>827449</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udai">
+			<state></state>
+			<latitude>281784</latitude>
+			<longitude>817784</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udayapur Garhi">
+			<state></state>
+			<latitude>269450</latitude>
+			<longitude>865284</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udaypur">
+			<state></state>
+			<latitude>269284</latitude>
+			<longitude>866784</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ukta">
+			<state></state>
+			<latitude>290950</latitude>
+			<longitude>824950</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ulejula">
+			<state></state>
+			<latitude>285450</latitude>
+			<longitude>823450</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umari">
+			<state></state>
+			<latitude>290950</latitude>
+			<longitude>810450</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umraro">
+			<state></state>
+			<latitude>292450</latitude>
+			<longitude>809284</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Umse">
+			<state></state>
+			<latitude>278784</latitude>
+			<longitude>841284</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Unapani">
+			<state></state>
+			<latitude>297950</latitude>
+			<longitude>819117</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upardang Gadhi">
+			<state></state>
+			<latitude>277784</latitude>
+			<longitude>845784</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uwagaon">
+			<state></state>
+			<latitude>284450</latitude>
+			<longitude>828284</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vijayapur Khola">
+			<state></state>
+			<latitude>281618</latitude>
+			<longitude>840451</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vishnupura">
+			<state></state>
+			<latitude>274785</latitude>
+			<longitude>835785</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waleng">
+			<state></state>
+			<latitude>275119</latitude>
+			<longitude>871952</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wali">
+			<state></state>
+			<latitude>282786</latitude>
+			<longitude>819119</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waling">
+			<state></state>
+			<latitude>279952</latitude>
+			<longitude>837786</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walung">
+			<state></state>
+			<latitude>278286</latitude>
+			<longitude>877286</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walungchung Gola">
+			<state></state>
+			<latitude>276952</latitude>
+			<longitude>878119</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wamitaksar">
+			<state></state>
+			<latitude>281952</latitude>
+			<longitude>833119</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wapsa Khani">
+			<state></state>
+			<latitude>275286</latitude>
+			<longitude>867286</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Weng-po-la Shan-k ou">
+			<state></state>
+			<latitude>278452</latitude>
+			<longitude>876619</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wu-lei Shan-k ou">
+			<state></state>
+			<latitude>301119</latitude>
+			<longitude>812119</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xarba La">
+			<state></state>
+			<latitude>293287</latitude>
+			<longitude>840953</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yalung Glacier">
+			<state></state>
+			<latitude>275954</latitude>
+			<longitude>880121</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yamju">
+			<state></state>
+			<latitude>286621</latitude>
+			<longitude>850121</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yanang Bhanjyang">
+			<state></state>
+			<latitude>293788</latitude>
+			<longitude>833954</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang Fu Ring">
+			<state></state>
+			<latitude>274621</latitude>
+			<longitude>879121</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yang-ma-k ang-la Shan-k ou">
+			<state></state>
+			<latitude>278454</latitude>
+			<longitude>877788</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangar">
+			<state></state>
+			<latitude>300288</latitude>
+			<longitude>816121</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yangbel">
+			<state></state>
+			<latitude>275454</latitude>
+			<longitude>857288</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yapkel">
+			<state></state>
+			<latitude>300121</latitude>
+			<longitude>817454</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yari">
+			<state></state>
+			<latitude>300788</latitude>
+			<longitude>814788</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarsa">
+			<state></state>
+			<latitude>280121</latitude>
+			<longitude>853288</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yektim">
+			<state></state>
+			<latitude>272121</latitude>
+			<longitude>879288</longitude>
+			<timezone>575</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

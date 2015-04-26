@@ -1,0 +1,1258 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Fiji">
+		<city name="Abootoena -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-189236</latitude>
+			<longitude>-1785070</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Abootolema -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-189570</latitude>
+			<longitude>-1784736</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Adolphus Reef -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-162736</latitude>
+			<longitude>-1793070</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Agate Island -- (State: Western)">
+			<state>Western</state>
+			<latitude>-171903</latitude>
+			<longitude>1771930</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aiwa Island -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-183070</latitude>
+			<longitude>-1786903</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alacrity Cays -- (State: Western)">
+			<state>Western</state>
+			<latitude>-177403</latitude>
+			<longitude>1773930</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alacrity Passage -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-187903</latitude>
+			<longitude>1784764</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alacrity Rocks">
+			<state></state>
+			<latitude>-188736</latitude>
+			<longitude>1784597</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alden Island -- (State: Western)">
+			<state>Western</state>
+			<latitude>-176070</latitude>
+			<longitude>1770430</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alewalangimevu Point -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-167570</latitude>
+			<longitude>1799264</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aliwa Creek -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-167570</latitude>
+			<longitude>1786264</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alumbasanga Creek -- (State: Western)">
+			<state>Western</state>
+			<latitude>-177236</latitude>
+			<longitude>1778097</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="American Passage -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-171570</latitude>
+			<longitude>-1787070</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anatunga Island -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-166070</latitude>
+			<longitude>1786764</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anda Tavie">
+			<state></state>
+			<latitude>-190570</latitude>
+			<longitude>1782264</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Andavathi Passage">
+			<state></state>
+			<latitude>-172236</latitude>
+			<longitude>-1790070</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anganasiti Pass -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-191903</latitude>
+			<longitude>1797930</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Angasa -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-189403</latitude>
+			<longitude>-1784236</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Angata -- (State: Western)">
+			<state>Western</state>
+			<latitude>-170070</latitude>
+			<longitude>1773430</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Annan -- (State: Western)">
+			<state>Western</state>
+			<latitude>-172903</latitude>
+			<longitude>1782264</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anutha Levu">
+			<state></state>
+			<latitude>-177570</latitude>
+			<longitude>1787930</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Anutha Point -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-165736</latitude>
+			<longitude>1795930</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ardmore -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-169236</latitude>
+			<longitude>1799097</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Argo Reefs -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-181570</latitude>
+			<longitude>-1784070</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aroua -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-177236</latitude>
+			<longitude>-1786403</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Arua">
+			<state></state>
+			<latitude>-191570</latitude>
+			<longitude>1797597</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Asawa Island -- (State: Western)">
+			<state>Western</state>
+			<latitude>-166736</latitude>
+			<longitude>1775764</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Avea">
+			<state></state>
+			<latitude>-171903</latitude>
+			<longitude>-1788903</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Azata -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-172403</latitude>
+			<longitude>-1795236</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ba -- (State: Western)">
+			<state>Western</state>
+			<latitude>-176569</latitude>
+			<longitude>1776765</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bacon Island -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-179902</latitude>
+			<longitude>-1784069</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bulia -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-188402</latitude>
+			<longitude>1785431</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cakau-momo -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-176401</latitude>
+			<longitude>1792766</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Caukuvu Bay -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-168068</latitude>
+			<longitude>1782932</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chaptal Islands -- (State: Western)">
+			<state>Western</state>
+			<latitude>-175568</latitude>
+			<longitude>1770766</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Charlotte Bank">
+			<state></state>
+			<latitude>-117734</latitude>
+			<longitude>1732266</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chicobea -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-157234</latitude>
+			<longitude>-1799068</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ciacia">
+			<state></state>
+			<latitude>-177401</latitude>
+			<longitude>-1792901</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cobia -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-164401</latitude>
+			<longitude>-1796568</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cocks Shoal -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-161401</latitude>
+			<longitude>-1797068</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cocoanut Point -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-169734</latitude>
+			<longitude>1787099</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colvocoressis">
+			<state></state>
+			<latitude>-187568</latitude>
+			<longitude>1785432</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cukini -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-163734</latitude>
+			<longitude>1792099</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Curacoa Rock -- (State: Western)">
+			<state>Western</state>
+			<latitude>-177568</latitude>
+			<longitude>1773099</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Curling Island -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-171734</latitude>
+			<longitude>-1788901</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dagai">
+			<state></state>
+			<latitude>-190900</latitude>
+			<longitude>1780267</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elevuka Creek -- (State: Western)">
+			<state>Western</state>
+			<latitude>-175232</latitude>
+			<longitude>1776934</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Elizabeth Cove -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-164566</latitude>
+			<longitude>-1799732</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eloto Creek -- (State: Western)">
+			<state>Western</state>
+			<latitude>-168899</latitude>
+			<longitude>1774434</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Enkaba -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-188566</latitude>
+			<longitude>-1788899</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eramasi -- (State: Western)">
+			<state>Western</state>
+			<latitude>-176232</latitude>
+			<longitude>1781601</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esa -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-163399</latitude>
+			<longitude>1796268</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esk Reef">
+			<state></state>
+			<latitude>-190899</latitude>
+			<longitude>1782268</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Exploring Isles -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-172399</latitude>
+			<longitude>-1788566</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Faun Harbour -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-167231</latitude>
+			<longitude>1797269</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feavarere">
+			<state></state>
+			<latitude>-125065</latitude>
+			<longitude>1770602</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Feejee">
+			<state></state>
+			<latitude>-179898</latitude>
+			<longitude>1780102</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fiji Plateau">
+			<state></state>
+			<latitude>-169898</latitude>
+			<longitude>1790102</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fiji-Becken">
+			<state></state>
+			<latitude>-259898</latitude>
+			<longitude>1750102</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Florida Reefs -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-165231</latitude>
+			<longitude>-1799231</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flyingfish Reef of Wilkes -- (State: Central)">
+			<state>Central</state>
+			<latitude>-185898</latitude>
+			<longitude>1778102</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fort Carnarvon -- (State: Western)">
+			<state>Western</state>
+			<latitude>-178731</latitude>
+			<longitude>1777935</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Frigate Passage -- (State: Central)">
+			<state>Central</state>
+			<latitude>-184231</latitude>
+			<longitude>1779602</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuagfua">
+			<state></state>
+			<latitude>-124898</latitude>
+			<longitude>1770769</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fulanga Island">
+			<state></state>
+			<latitude>-191231</latitude>
+			<longitude>-1785565</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fulanga Passage -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-189898</latitude>
+			<longitude>-1786565</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fulia">
+			<state></state>
+			<latitude>-124898</latitude>
+			<longitude>1771102</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galatea -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-166730</latitude>
+			<longitude>1792936</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galligarua">
+			<state></state>
+			<latitude>-191564</latitude>
+			<longitude>1797936</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galoa">
+			<state></state>
+			<latitude>-190730</latitude>
+			<longitude>1781936</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galoa -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-190897</latitude>
+			<longitude>1781936</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Galoa -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-166064</latitude>
+			<longitude>1786936</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gangway Rocks -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-166064</latitude>
+			<longitude>-1798230</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gasele">
+			<state></state>
+			<latitude>-189397</latitude>
+			<longitude>1783103</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goa -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-180230</latitude>
+			<longitude>1793103</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goat Islet -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-167564</latitude>
+			<longitude>-1799730</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goddard Reefs -- (State: Central)">
+			<state>Central</state>
+			<latitude>-177064</latitude>
+			<longitude>1787103</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gordon Reef of Wilkes -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-176564</latitude>
+			<longitude>-1785230</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Granby Harbour -- (State: Central)">
+			<state>Central</state>
+			<latitude>-182397</latitude>
+			<longitude>1778770</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Graves Point -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-162230</latitude>
+			<longitude>1795436</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Great Astrolabe Reef -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-188564</latitude>
+			<longitude>1785270</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grenville Island">
+			<state></state>
+			<latitude>-124897</latitude>
+			<longitude>1770936</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hadow Island -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-173563</latitude>
+			<longitude>-1788729</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halafa">
+			<state></state>
+			<latitude>-124896</latitude>
+			<longitude>1770271</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hales Reef -- (State: Central)">
+			<state>Central</state>
+			<latitude>-175563</latitude>
+			<longitude>1784937</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Harness Reef -- (State: Central)">
+			<state>Central</state>
+			<latitude>-177563</latitude>
+			<longitude>1787271</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hattana">
+			<state></state>
+			<latitude>-124729</latitude>
+			<longitude>1769771</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hauameamea Island">
+			<state></state>
+			<latitude>-124729</latitude>
+			<longitude>1771271</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Havre Trough">
+			<state></state>
+			<latitude>-199896</latitude>
+			<longitude>-1769896</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hawkins Reef of Wilkes -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-177896</latitude>
+			<longitude>-1786563</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hazel Holme Bank">
+			<state></state>
+			<latitude>-128063</latitude>
+			<longitude>1740604</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heemskercq Reefs -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-164063</latitude>
+			<longitude>-1794396</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herald Bay">
+			<state></state>
+			<latitude>-179729</latitude>
+			<longitude>1792437</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herald Passage">
+			<state></state>
+			<latitude>-187563</latitude>
+			<longitude>1784771</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herald Roadstead">
+			<state></state>
+			<latitude>-185396</latitude>
+			<longitude>1799604</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Herald Sound">
+			<state></state>
+			<latitude>-189729</latitude>
+			<longitude>-1798729</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hillsborough -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-169229</latitude>
+			<longitude>1799604</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hoflua">
+			<state></state>
+			<latitude>-124896</latitude>
+			<longitude>1769437</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hofvea">
+			<state></state>
+			<latitude>-124729</latitude>
+			<longitude>1770771</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Holmes Island -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-164896</latitude>
+			<longitude>-1796896</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Holmhurst -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-169396</latitude>
+			<longitude>1799271</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hood Reef -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-174396</latitude>
+			<longitude>1775937</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hope Reef">
+			<state></state>
+			<latitude>-190396</latitude>
+			<longitude>1781104</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hua">
+			<state></state>
+			<latitude>-124729</latitude>
+			<longitude>1771104</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hunter Ridge">
+			<state></state>
+			<latitude>-214896</latitude>
+			<longitude>1745104</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Husia">
+			<state></state>
+			<latitude>-125063</latitude>
+			<longitude>1771437</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iambu -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-164895</latitude>
+			<longitude>-1797062</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ilo Reef -- (State: Western)">
+			<state>Western</state>
+			<latitude>-173395</latitude>
+			<longitude>1771272</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Indrawannga -- (State: Western)">
+			<state>Western</state>
+			<latitude>-171728</latitude>
+			<longitude>1772105</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itai Island -- (State: Western)">
+			<state>Western</state>
+			<latitude>-176395</latitude>
+			<longitude>1772605</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Itumuta">
+			<state></state>
+			<latitude>-124895</latitude>
+			<longitude>1770438</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ituteu">
+			<state></state>
+			<latitude>-125062</latitude>
+			<longitude>1770438</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iuatuainambuli Creek">
+			<state></state>
+			<latitude>-191062</latitude>
+			<longitude>1781438</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivavo Creek -- (State: Western)">
+			<state>Western</state>
+			<latitude>-181062</latitude>
+			<longitude>1776772</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivilevu Creek -- (State: Western)">
+			<state>Western</state>
+			<latitude>-180728</latitude>
+			<longitude>1776272</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivimbelo Creek">
+			<state></state>
+			<latitude>-172895</latitude>
+			<longitude>1793938</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ivindua Island -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-162062</latitude>
+			<longitude>1798605</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iviraramba -- (State: Central)">
+			<state>Central</state>
+			<latitude>-182395</latitude>
+			<longitude>1780272</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabeia -- (State: Western)">
+			<state>Western</state>
+			<latitude>-169227</latitude>
+			<longitude>1773773</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeffreys Bank">
+			<state></state>
+			<latitude>-168561</latitude>
+			<longitude>-1787394</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="John Wesley Bluffs">
+			<state></state>
+			<latitude>-190394</latitude>
+			<longitude>1781273</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Johns Reef -- (State: Western)">
+			<state>Western</state>
+			<latitude>-177394</latitude>
+			<longitude>1774273</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jolmea">
+			<state></state>
+			<latitude>-124727</latitude>
+			<longitude>1770606</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joro Point">
+			<state></state>
+			<latitude>-125061</latitude>
+			<longitude>1771273</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joske Reef -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181561</latitude>
+			<longitude>1783273</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jubilee Shoal -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-163561</latitude>
+			<longitude>1793106</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juju">
+			<state></state>
+			<latitude>-125061</latitude>
+			<longitude>1770939</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koronivia -- (State: Central)">
+			<state>Central</state>
+			<latitude>-180393</latitude>
+			<longitude>1785440</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Labasa -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-164059</latitude>
+			<longitude>1793775</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Lautoka -- (State: Western)">
+			<state>Western</state>
+			<latitude>-176059</latitude>
+			<longitude>1774775</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nadi -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-169557</latitude>
+			<longitude>1787943</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nadi -- (State: Western)">
+			<state>Western</state>
+			<latitude>-177890</latitude>
+			<longitude>1773943</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nasinu -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-167557</latitude>
+			<longitude>1794943</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oloi Creek -- (State: Central)">
+			<state>Central</state>
+			<latitude>-179889</latitude>
+			<longitude>1786444</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Palmer Island -- (State: Western)">
+			<state>Western</state>
+			<latitude>-177221</latitude>
+			<longitude>1771445</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pandora Bank">
+			<state></state>
+			<latitude>-121721</latitude>
+			<longitude>1720945</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pearl Reef">
+			<state></state>
+			<latitude>-191055</latitude>
+			<longitude>1782279</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Peile Reef -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181221</latitude>
+			<longitude>1783445</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penang -- (State: Western)">
+			<state>Western</state>
+			<latitude>-173555</latitude>
+			<longitude>1781612</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penang Mill -- (State: Western)">
+			<state>Western</state>
+			<latitude>-173555</latitude>
+			<longitude>1781779</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Penguin Bank">
+			<state></state>
+			<latitude>-114721</latitude>
+			<longitude>1754945</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pepjei Point">
+			<state></state>
+			<latitude>-125055</latitude>
+			<longitude>1771112</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Perry Island -- (State: Western)">
+			<state>Western</state>
+			<latitude>-176721</latitude>
+			<longitude>1771112</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pickering Peak -- (State: Western)">
+			<state>Western</state>
+			<latitude>-178721</latitude>
+			<longitude>1775779</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pilia -- (State: Western)">
+			<state>Western</state>
+			<latitude>-176555</latitude>
+			<longitude>1774612</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pillar Hill -- (State: Western)">
+			<state>Western</state>
+			<latitude>-181721</latitude>
+			<longitude>1776612</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pinan Reef -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-164055</latitude>
+			<longitude>-1795388</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pinder Reefs -- (State: Western)">
+			<state>Western</state>
+			<latitude>-175888</latitude>
+			<longitude>1774112</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Plowright Reef -- (State: Central)">
+			<state>Central</state>
+			<latitude>-175888</latitude>
+			<longitude>1785112</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Porpoise Shoal -- (State: Western)">
+			<state>Western</state>
+			<latitude>-170221</latitude>
+			<longitude>1770445</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Refuge of Wilkes -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-191721</latitude>
+			<longitude>-1784555</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Province of Lomaiviti">
+			<state></state>
+			<latitude>-176555</latitude>
+			<longitude>1788112</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qalim Point">
+			<state></state>
+			<latitude>-182220</latitude>
+			<longitude>1777946</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qamea -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-167554</latitude>
+			<longitude>-1797554</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qasibale">
+			<state></state>
+			<latitude>-187887</latitude>
+			<longitude>1785113</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qelelevu -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-160720</latitude>
+			<longitude>-1792720</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qilaqila">
+			<state></state>
+			<latitude>-171387</latitude>
+			<longitude>-1790387</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quali Mari -- (State: Western)">
+			<state>Western</state>
+			<latitude>-180054</latitude>
+			<longitude>1776113</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queens Wharf">
+			<state></state>
+			<latitude>-176720</latitude>
+			<longitude>1788446</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quele -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-160720</latitude>
+			<longitude>-1791387</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quinin Reef of Wilkes">
+			<state></state>
+			<latitude>-177220</latitude>
+			<longitude>-1788554</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quoin Hill -- (State: Eastern)">
+			<state>Eastern</state>
+			<latitude>-190887</latitude>
+			<longitude>-1785720</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samambula -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181052</latitude>
+			<longitude>1784615</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samambula East -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181052</latitude>
+			<longitude>1784782</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Samambula River -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181052</latitude>
+			<longitude>1784948</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sigatoka -- (State: Western)">
+			<state>Western</state>
+			<latitude>-181718</latitude>
+			<longitude>1775282</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suva -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181218</latitude>
+			<longitude>1784282</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suva Cemetery -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181052</latitude>
+			<longitude>1784448</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suva Creek -- (State: Western)">
+			<state>Western</state>
+			<latitude>-174552</latitude>
+			<longitude>1781448</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suva Point -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181552</latitude>
+			<longitude>1784448</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suva Ward -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181218</latitude>
+			<longitude>1784448</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suvani Creek -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-165385</latitude>
+			<longitude>1792448</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suvasuva -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-167718</latitude>
+			<longitude>1793948</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suvasuvatuindamu -- (State: Western)">
+			<state>Western</state>
+			<latitude>-174052</latitude>
+			<longitude>1780782</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suvaviti -- (State: Central)">
+			<state>Central</state>
+			<latitude>-180885</latitude>
+			<longitude>1785948</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Suvavou -- (State: Central)">
+			<state>Central</state>
+			<latitude>-181052</latitude>
+			<longitude>1784282</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taveuni Island -- (State: Northern)">
+			<state>Northern</state>
+			<latitude>-168384</latitude>
+			<longitude>-1799551</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tavua">
+			<state></state>
+			<latitude>-172884</latitude>
+			<longitude>1793783</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zephyr Reef">
+			<state></state>
+			<latitude>-160211</latitude>
+			<longitude>-1771045</longitude>
+			<timezone>1200</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

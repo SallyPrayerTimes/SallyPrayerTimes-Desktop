@@ -1,0 +1,2217 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Denmark">
+		<city name="Aabenraa -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>550430</latitude>
+			<longitude>94430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aabybro -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>571597</latitude>
+			<longitude>97597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aalborg -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>570597</latitude>
+			<longitude>99430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aalborg Bugt -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>567597</latitude>
+			<longitude>105097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aalborg Gaard -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>573764</latitude>
+			<longitude>102597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aarhus -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561597</latitude>
+			<longitude>102264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aarhus Amt -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>562597</latitude>
+			<longitude>102097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aarhus Bugt -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561597</latitude>
+			<longitude>103097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aars -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>568097</latitude>
+			<longitude>95430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aarslev -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>553097</latitude>
+			<longitude>104930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ahl -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561764</latitude>
+			<longitude>106597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albertslund -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556597</latitude>
+			<longitude>123597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Albertslund Kommune -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556930</latitude>
+			<longitude>123764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alborg -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>571097</latitude>
+			<longitude>98597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Allerod -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>558764</latitude>
+			<longitude>123930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Allerod Kommune -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>558764</latitude>
+			<longitude>123764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Allinge -- (State: Bornholms)">
+			<state>Bornholms</state>
+			<latitude>552764</latitude>
+			<longitude>148264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arhus Hovedbanegard -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561597</latitude>
+			<longitude>102097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arhus Kommune -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561764</latitude>
+			<longitude>102597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arhus Ostbanegard -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561764</latitude>
+			<longitude>102264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aulum -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>562764</latitude>
+			<longitude>88097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Avedore -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556597</latitude>
+			<longitude>124597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bagsvaerd -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>557765</latitude>
+			<longitude>124765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballerup -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>557431</latitude>
+			<longitude>123765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ballerup Kommune -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>557265</latitude>
+			<longitude>123765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Birkerod -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>558431</latitude>
+			<longitude>124431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bjerringbro -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>563931</latitude>
+			<longitude>96765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bornholm -- (State: Bornholms)">
+			<state>Bornholms</state>
+			<latitude>551765</latitude>
+			<longitude>150098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borup -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>555098</latitude>
+			<longitude>119931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brabrand -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561598</latitude>
+			<longitude>101265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bramming -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>554765</latitude>
+			<longitude>87098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brande -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>559598</latitude>
+			<longitude>91265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bredebro Kommune -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>550931</latitude>
+			<longitude>87598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brondby Strand -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556265</latitude>
+			<longitude>123598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bronderslev -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>572765</latitude>
+			<longitude>99765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bronderslev Kommune -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>572598</latitude>
+			<longitude>100098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brovst -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>571098</latitude>
+			<longitude>95431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cadet channel">
+			<state></state>
+			<latitude>545099</latitude>
+			<longitude>122599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cattegat">
+			<state></state>
+			<latitude>570099</latitude>
+			<longitude>110099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cecilielyst -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>550432</latitude>
+			<longitude>94099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Centrum -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>567432</latitude>
+			<longitude>87599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charlottedal -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>553932</latitude>
+			<longitude>113932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Charlottendal -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>566766</latitude>
+			<longitude>102599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chersonesus">
+			<state></state>
+			<latitude>560099</latitude>
+			<longitude>92599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christiansborg -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>556932</latitude>
+			<longitude>125932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christiansdal -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>555266</latitude>
+			<longitude>98099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christiansfeld Kommune -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>553432</latitude>
+			<longitude>95099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christianshab -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>570766</latitude>
+			<longitude>101057</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christianshavns Kanal -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>556766</latitude>
+			<longitude>126099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christianshede -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>561266</latitude>
+			<longitude>94099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christiansholm -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>556932</latitude>
+			<longitude>126099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christianslund -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>555599</latitude>
+			<longitude>101266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christiansminde -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>550766</latitude>
+			<longitude>106432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christiansminde -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>564432</latitude>
+			<longitude>108599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Christinelund -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>551266</latitude>
+			<longitude>120932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clasonsborg -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>559599</latitude>
+			<longitude>88932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clausholm -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>563932</latitude>
+			<longitude>101932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Constantia -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>564599</latitude>
+			<longitude>107432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Copenhagen -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>556766</latitude>
+			<longitude>125932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cypressegaard -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>548099</latitude>
+			<longitude>116766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Daugaard -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>557433</latitude>
+			<longitude>97267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Denmark">
+			<state></state>
+			<latitude>560100</latitude>
+			<longitude>100100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dronninglund Kommune -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>572100</latitude>
+			<longitude>102600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Durup -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>567600</latitude>
+			<longitude>89600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Durup -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>567267</latitude>
+			<longitude>96433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egernsund -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>549101</latitude>
+			<longitude>96268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Esbjerg -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>555268</latitude>
+			<longitude>85601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Esbjerg Kommune -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>556268</latitude>
+			<longitude>85101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fakse Kommune -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>552769</latitude>
+			<longitude>122102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farso -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>567935</latitude>
+			<longitude>93602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farum Kommune -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>558102</latitude>
+			<longitude>123435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fjerritslev Kommune -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>570935</latitude>
+			<longitude>93435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fredericia -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>555935</latitude>
+			<longitude>97769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fredericia Kommune -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>556102</latitude>
+			<longitude>97269</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frederiks Stationsby -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>563602</latitude>
+			<longitude>92602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frederiksberg -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>548435</latitude>
+			<longitude>107435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frederiksberg -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>564602</latitude>
+			<longitude>100602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frederiksberg -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>572602</latitude>
+			<longitude>103102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frederiksberg -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>554269</latitude>
+			<longitude>115769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frederiksberg Kommune -- (State: Frederiksberg*)">
+			<state>Frederiksberg*</state>
+			<latitude>556935</latitude>
+			<longitude>125435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frederikshavn -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>574435</latitude>
+			<longitude>105435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frederikshavn Kommune -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>574769</latitude>
+			<longitude>104102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frederiksvaerk Kommune -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>559602</latitude>
+			<longitude>120435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fyn">
+			<state></state>
+			<latitude>553435</latitude>
+			<longitude>105102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gentofte -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>557603</latitude>
+			<longitude>125603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gladsaxe -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>557436</latitude>
+			<longitude>124936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glostrup Kommune -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556770</latitude>
+			<longitude>124103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glyngore -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>567770</latitude>
+			<longitude>88770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gorlev Kommune -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>555270</latitude>
+			<longitude>112103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Greve -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>556103</latitude>
+			<longitude>122603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Greve Kommune -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>556270</latitude>
+			<longitude>122603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haderslev -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>552604</latitude>
+			<longitude>95104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haderslev Dam -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>552437</latitude>
+			<longitude>94604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haderslev Fjord -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>552937</latitude>
+			<longitude>96771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haderslev Kommune -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>552437</latitude>
+			<longitude>95104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hanstholm Kommune -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>570937</latitude>
+			<longitude>88437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasle -- (State: Bornholms)">
+			<state>Bornholms</state>
+			<latitude>551937</latitude>
+			<longitude>147271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hasle -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561771</latitude>
+			<longitude>101771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haslev Kommune -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>553437</latitude>
+			<longitude>119771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="He -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>561604</latitude>
+			<longitude>83104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hedehusene -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>557937</latitude>
+			<longitude>87604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hedehusene -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556604</latitude>
+			<longitude>122104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helsingor -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>560437</latitude>
+			<longitude>126271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helsingor Red -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>560104</latitude>
+			<longitude>126271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Herning -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>561937</latitude>
+			<longitude>90437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Herning Kommune -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>561771</latitude>
+			<longitude>90104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hillerod -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>559437</latitude>
+			<longitude>123271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hillerod Kommune -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>559437</latitude>
+			<longitude>123104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hirtshals -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>575973</latitude>
+			<longitude>99710</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hirtshals Kommune -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>575937</latitude>
+			<longitude>101104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hjerm -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>564437</latitude>
+			<longitude>86604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hjoerring">
+			<state></state>
+			<latitude>574770</latitude>
+			<longitude>99937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hjorring -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>574771</latitude>
+			<longitude>99937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hjorring Kommune -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>574271</latitude>
+			<longitude>100104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hobro -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>566437</latitude>
+			<longitude>98104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoje Taastrup -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556604</latitude>
+			<longitude>122937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoje-Tastrup Kommune -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556437</latitude>
+			<longitude>122937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hojer -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>549771</latitude>
+			<longitude>87271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holbaek -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>551937</latitude>
+			<longitude>88437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holbaek -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>557271</latitude>
+			<longitude>117271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holbaek -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>565604</latitude>
+			<longitude>103104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holbaek Kommune -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>557104</latitude>
+			<longitude>117104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holstebro -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>563604</latitude>
+			<longitude>86437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holstebro Kommune -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>563437</latitude>
+			<longitude>85937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holstebro-Struer Havn -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>564937</latitude>
+			<longitude>86104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hong Kommune -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>555104</latitude>
+			<longitude>113437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horsens -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>558823</latitude>
+			<longitude>98915</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horsens Kommune -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>558771</latitude>
+			<longitude>98771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hundested Kommune -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>559771</latitude>
+			<longitude>119104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hundige -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>556104</latitude>
+			<longitude>123437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hvalso -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>556104</latitude>
+			<longitude>118604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hvalso Kommune -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>555937</latitude>
+			<longitude>118771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hvide Sande -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>559937</latitude>
+			<longitude>81437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hvidovre -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556604</latitude>
+			<longitude>124937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hvidovre Kommune -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>557271</latitude>
+			<longitude>124771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ikast -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>561438</latitude>
+			<longitude>91772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ishoj -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556272</latitude>
+			<longitude>123272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ishoj Kommune -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556438</latitude>
+			<longitude>123438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juelsminde Kommune -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>557606</latitude>
+			<longitude>99106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jyderup -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>556773</latitude>
+			<longitude>114439</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jyderup -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>552273</latitude>
+			<longitude>120939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kallundborg -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>556940</latitude>
+			<longitude>111107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalundborg Kommune -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>557274</latitude>
+			<longitude>111107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kastrup -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556274</latitude>
+			<longitude>126607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kastrupgard -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>567440</latitude>
+			<longitude>95274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kibaek -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>560440</latitude>
+			<longitude>88607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kjellerup -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>562940</latitude>
+			<longitude>94440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kjellerup -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>566107</latitude>
+			<longitude>100107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kjellerup Kommune -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>563440</latitude>
+			<longitude>95107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kobenhavns Amt -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>557107</latitude>
+			<longitude>123607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kobenhavns Frihavnsstation -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>557107</latitude>
+			<longitude>126107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kobenhavns Red -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>557274</latitude>
+			<longitude>126440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koge -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>554607</latitude>
+			<longitude>121940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koge Aa -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>554607</latitude>
+			<longitude>122274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koge Bugt">
+			<state></state>
+			<latitude>555107</latitude>
+			<longitude>123440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koge Kommune -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>554440</latitude>
+			<longitude>121774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kokkedal -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>559107</latitude>
+			<longitude>125274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kolding -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>555274</latitude>
+			<longitude>94940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kolding A -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>555107</latitude>
+			<longitude>94940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kolding Fjord -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>555107</latitude>
+			<longitude>95940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kolding Kommune -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>555440</latitude>
+			<longitude>94774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kolding Skov -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>555274</latitude>
+			<longitude>95107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kongens Lyngby -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>557774</latitude>
+			<longitude>125274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Korsor -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>553440</latitude>
+			<longitude>111607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Korsor Kommune -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>553440</latitude>
+			<longitude>112607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lemvig -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>565108</latitude>
+			<longitude>83275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lemvig Kommune -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>564275</latitude>
+			<longitude>83441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Logstor -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>569775</latitude>
+			<longitude>92608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Logumkloster -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>550608</latitude>
+			<longitude>89608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Logumkloster Kommune -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>550608</latitude>
+			<longitude>90775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyngby -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>556775</latitude>
+			<longitude>119608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyngby -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>574275</latitude>
+			<longitude>97608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyngby -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561775</latitude>
+			<longitude>100441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyngby -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>568775</latitude>
+			<longitude>83275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyngby-Tarbaek Kommune -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>558108</latitude>
+			<longitude>125108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lyngbyvej Station -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>557275</latitude>
+			<longitude>125775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lynge -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>554108</latitude>
+			<longitude>115941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lynge -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>558608</latitude>
+			<longitude>122941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lystrup -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>565108</latitude>
+			<longitude>104941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lystrup -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>553775</latitude>
+			<longitude>122608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lystrup -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>558775</latitude>
+			<longitude>122441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lystrup -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>558108</latitude>
+			<longitude>98108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maribo Kommune -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>548276</latitude>
+			<longitude>114276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mejlby Vestergard -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>554109</latitude>
+			<longitude>89442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Middelfart -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>555109</latitude>
+			<longitude>97609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moldrup -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>566276</latitude>
+			<longitude>95109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Munkebo -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>554609</latitude>
+			<longitude>105776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naerum -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>558277</latitude>
+			<longitude>125610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naestved -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>552443</latitude>
+			<longitude>117777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naestved Kommune -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>552610</latitude>
+			<longitude>116777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nakskov -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>548277</latitude>
+			<longitude>111443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niva -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>559443</latitude>
+			<longitude>125443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Norager Kommune -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>567610</latitude>
+			<longitude>96777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nordborg Kommune -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>550443</latitude>
+			<longitude>98443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Norre Nebel -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>557943</latitude>
+			<longitude>83110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nyborg -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>553277</latitude>
+			<longitude>108110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nyborg -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>558277</latitude>
+			<longitude>95443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nyborg Kommune -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>553443</latitude>
+			<longitude>107610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nykjobing -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>547777</latitude>
+			<longitude>118943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nykobing Falster Kommune -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>547610</latitude>
+			<longitude>118110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nykobing Mors -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>568110</latitude>
+			<longitude>88777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nysted -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>546777</latitude>
+			<longitude>117610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odden -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>549778</latitude>
+			<longitude>105444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oddense -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>566611</latitude>
+			<longitude>89611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odder -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>559778</latitude>
+			<longitude>101778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odense -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>554778</latitude>
+			<longitude>103278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odense A -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>554444</latitude>
+			<longitude>104444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odense Fjord -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>555111</latitude>
+			<longitude>105778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odense Kanal -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>554778</latitude>
+			<longitude>104444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Odense Kommune -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>553944</latitude>
+			<longitude>103944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvartus Grund -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>555613</latitude>
+			<longitude>127280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Qvistrup -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>564780</latitude>
+			<longitude>86280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Randers -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>565114</latitude>
+			<longitude>100447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Randers Kommune -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>564947</latitude>
+			<longitude>100281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ribe">
+			<state></state>
+			<latitude>553614</latitude>
+			<longitude>87781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ribe Kommune -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>553281</latitude>
+			<longitude>88447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ringkjobing Fiord -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>560114</latitude>
+			<longitude>82614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ringkobing">
+			<state></state>
+			<latitude>560947</latitude>
+			<longitude>82614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ringkobing Amt -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>561781</latitude>
+			<longitude>87614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ringkobing Kommune -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>561447</latitude>
+			<longitude>82781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ringsted -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>554281</latitude>
+			<longitude>118114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ringsted Kommune -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>554614</latitude>
+			<longitude>118614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rodding Kommune -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>553947</latitude>
+			<longitude>91114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rodkaersbro -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>563614</latitude>
+			<longitude>95281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ronne -- (State: Bornholms)">
+			<state>Bornholms</state>
+			<latitude>550781</latitude>
+			<longitude>147614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roskilde">
+			<state></state>
+			<latitude>555947</latitude>
+			<longitude>121281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roskilde Amt -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>556114</latitude>
+			<longitude>121614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roskilde Fjord">
+			<state></state>
+			<latitude>559447</latitude>
+			<longitude>120114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roskilde Kommune -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>556614</latitude>
+			<longitude>121114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saeby -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>555615</latitude>
+			<longitude>113282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saeby -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>573448</latitude>
+			<longitude>105448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saeby -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>567782</latitude>
+			<longitude>89282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saeby -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>557115</latitude>
+			<longitude>119615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saeby Kommune -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>573448</latitude>
+			<longitude>103448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Silkeborg -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561782</latitude>
+			<longitude>95782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Silkeborg -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>561115</latitude>
+			<longitude>94115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Silkeborg Kommune -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561782</latitude>
+			<longitude>96115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skanderborg -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>560448</latitude>
+			<longitude>99448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skive -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>565615</latitude>
+			<longitude>91782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Skive Kommune -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>565948</latitude>
+			<longitude>90115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Slagelse -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>554115</latitude>
+			<longitude>113782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Slagelse Kommune -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>554615</latitude>
+			<longitude>113782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sonderborg -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>549782</latitude>
+			<longitude>97948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sonderborg Kommune -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>549282</latitude>
+			<longitude>98115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Struer -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>564948</latitude>
+			<longitude>86282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Struer Kommune -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>564782</latitude>
+			<longitude>85948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svebolle Stationsby -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>556615</latitude>
+			<longitude>113115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svenborg -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>550615</latitude>
+			<longitude>106282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svendborg Kommune -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>550282</latitude>
+			<longitude>106282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svinninge -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>557282</latitude>
+			<longitude>114782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Svinninge Kommune -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>557282</latitude>
+			<longitude>115115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sydkojshage -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>554948</latitude>
+			<longitude>97282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taastrup -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>555283</latitude>
+			<longitude>119283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taastrup -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>554949</latitude>
+			<longitude>103283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taastrup -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>552449</latitude>
+			<longitude>116283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taastrup -- (State: Kobenhavn*)">
+			<state>Kobenhavn*</state>
+			<latitude>556616</latitude>
+			<longitude>123283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taastrup -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561449</latitude>
+			<longitude>100116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tarm -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>559283</latitude>
+			<longitude>85449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thisted -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>570783</latitude>
+			<longitude>87116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thisted Kommune -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>570116</latitude>
+			<longitude>86783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Thyregod -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>559116</latitude>
+			<longitude>92783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tonder -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>549449</latitude>
+			<longitude>88449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tonder Kommune -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>549783</latitude>
+			<longitude>89283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tranum -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>571449</latitude>
+			<longitude>94783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tullebolle -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>549783</latitude>
+			<longitude>108116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valby -- (State: Frederiksborg)">
+			<state>Frederiksborg</state>
+			<latitude>560618</latitude>
+			<longitude>122285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Valby -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>556618</latitude>
+			<longitude>125285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varde -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>556451</latitude>
+			<longitude>84951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varde Kommune -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>556785</latitude>
+			<longitude>85118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veddum -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>567785</latitude>
+			<longitude>102118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vejen -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>554951</latitude>
+			<longitude>91618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vejle -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>552785</latitude>
+			<longitude>103285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vejle">
+			<state></state>
+			<latitude>557118</latitude>
+			<longitude>95451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vejle Amt -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>557618</latitude>
+			<longitude>93451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vejle Fjord -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>556785</latitude>
+			<longitude>97618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vejle Kommune -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>557451</latitude>
+			<longitude>95118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Viborg">
+			<state></state>
+			<latitude>564451</latitude>
+			<longitude>94118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Viborg Amt -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>566785</latitude>
+			<longitude>90951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Viborg Kommune -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>564618</latitude>
+			<longitude>93785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Videbaek Kommune -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>560951</latitude>
+			<longitude>86785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vinderup Kommune -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>564285</latitude>
+			<longitude>88451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vordingborg -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>550285</latitude>
+			<longitude>119285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vordingborg Kommune -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>550951</latitude>
+			<longitude>118785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warnitz -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>550286</latitude>
+			<longitude>95952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wedellsborg -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>553786</latitude>
+			<longitude>98452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wedellsborg Badehavn -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>553619</latitude>
+			<longitude>98286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wedellsborg Hoved -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>553786</latitude>
+			<longitude>98119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wedelslund -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561952</latitude>
+			<longitude>99452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wegenersminde -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>557286</latitude>
+			<longitude>117786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Aaby -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>550952</latitude>
+			<longitude>104119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Hjermerslev -- (State: Nordjylland)">
+			<state>Nordjylland</state>
+			<latitude>572952</latitude>
+			<longitude>97786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Skjerninge -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>550786</latitude>
+			<longitude>104619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wied Au -- (State: Sonderjylland)">
+			<state>Sonderjylland</state>
+			<latitude>549452</latitude>
+			<longitude>89119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wredeslund -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>547452</latitude>
+			<longitude>114786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wulffs Flak -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>560952</latitude>
+			<longitude>103952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ydby -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>567121</latitude>
+			<longitude>84288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yder Knob -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>545121</latitude>
+			<longitude>120954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderbredning">
+			<state></state>
+			<latitude>559121</latitude>
+			<longitude>118288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderby -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>559954</latitude>
+			<longitude>113621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderflak -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>560788</latitude>
+			<longitude>110121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderhavn -- (State: Kobenhavn)">
+			<state>Kobenhavn</state>
+			<latitude>557121</latitude>
+			<longitude>126288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderik -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>557121</latitude>
+			<longitude>85954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderrevet -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>560788</latitude>
+			<longitude>112621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yderup -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>561954</latitude>
+			<longitude>100788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yding -- (State: Vejle)">
+			<state>Vejle</state>
+			<latitude>559954</latitude>
+			<longitude>97954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yding Skov">
+			<state></state>
+			<latitude>560121</latitude>
+			<longitude>98288</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yding Skovhoj -- (State: Arhus)">
+			<state>Arhus</state>
+			<latitude>560121</latitude>
+			<longitude>98121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ydinggard -- (State: Roskilde)">
+			<state>Roskilde</state>
+			<latitude>556788</latitude>
+			<longitude>120954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ydo -- (State: Storstrom)">
+			<state>Storstrom</state>
+			<latitude>548121</latitude>
+			<longitude>110121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ydre Knudegrund -- (State: Ribe)">
+			<state>Ribe</state>
+			<latitude>552954</latitude>
+			<longitude>83954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yllebjerg -- (State: Ringkobing)">
+			<state>Ringkobing</state>
+			<latitude>563454</latitude>
+			<longitude>88121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypnested -- (State: Bornholms)">
+			<state>Bornholms</state>
+			<latitude>551788</latitude>
+			<longitude>150788</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yppenbjerg -- (State: Vestsjaelland)">
+			<state>Vestsjaelland</state>
+			<latitude>556288</latitude>
+			<longitude>111954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yttrup -- (State: Viborg)">
+			<state>Viborg</state>
+			<latitude>567288</latitude>
+			<longitude>90121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zastrov -- (State: Fyn)">
+			<state>Fyn</state>
+			<latitude>554789</latitude>
+			<longitude>102955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zealand">
+			<state></state>
+			<latitude>555122</latitude>
+			<longitude>117622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

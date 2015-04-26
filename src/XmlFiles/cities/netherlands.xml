@@ -1,0 +1,4863 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Netherlands">
+		<city name="1e Exloermond -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>529549</latitude>
+			<longitude>69716</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="1e Petroleumhaven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518882</latitude>
+			<longitude>43549</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="2e Exloermond -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>529217</latitude>
+			<longitude>69717</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="2e Petroleumhaven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518883</latitude>
+			<longitude>43717</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="2e Valthermond -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>529050</latitude>
+			<longitude>70383</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="2e Vlotbrug -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518550</latitude>
+			<longitude>42050</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="3e Petroleumhaven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518884</latitude>
+			<longitude>43218</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="4e Petroleumhaven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519552</latitude>
+			<longitude>41385</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="5e Petroleumhaven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519386</latitude>
+			<longitude>41720</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="6e Petroleumhaven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519554</latitude>
+			<longitude>40887</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="7e Petroleumhaven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519222</latitude>
+			<longitude>42222</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="8e Petroleumhaven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519723</latitude>
+			<longitude>40556</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aalburg -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517597</latitude>
+			<longitude>51430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aalsmeer -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>522764</latitude>
+			<longitude>47764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aalten -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519430</latitude>
+			<longitude>65930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Abcoude -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>522764</latitude>
+			<longitude>49764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Akersloot -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>525764</latitude>
+			<longitude>47430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alblasserdam -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518764</latitude>
+			<longitude>46764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alkmaar -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526430</latitude>
+			<longitude>47597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almelo -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523597</latitude>
+			<longitude>66764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almelo-Nordhorn Kanal">
+			<state></state>
+			<latitude>523764</latitude>
+			<longitude>66597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almeloo -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523430</latitude>
+			<longitude>66430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almere-Buiten -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>524097</latitude>
+			<longitude>52430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almere-Haven -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>523264</latitude>
+			<longitude>51930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Almere-Stad -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>523764</latitude>
+			<longitude>51597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alphen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514930</latitude>
+			<longitude>49597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alphen aan den Rijn -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521430</latitude>
+			<longitude>46764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="America -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>514430</latitude>
+			<longitude>59930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amerongen -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520097</latitude>
+			<longitude>54764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amersfoort -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521597</latitude>
+			<longitude>53930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amstelland -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>522430</latitude>
+			<longitude>48930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amstelveen -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523097</latitude>
+			<longitude>48764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amsterdam -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523597</latitude>
+			<longitude>49264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amsterdam Centraal Station -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523930</latitude>
+			<longitude>49097</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amsterdam Muiderpoort -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523764</latitude>
+			<longitude>49430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amsterdam Ring Canal">
+			<state></state>
+			<latitude>522264</latitude>
+			<longitude>45930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amsterdam-Rijnkanaal">
+			<state></state>
+			<latitude>518930</latitude>
+			<longitude>54764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amsterdamse Bos -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523264</latitude>
+			<longitude>48430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amsterdamse Veld -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>526930</latitude>
+			<longitude>70430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amsterdamseveld -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>527097</latitude>
+			<longitude>69264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andeltsche Leigraaf -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519264</latitude>
+			<longitude>57430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andijk -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527597</latitude>
+			<longitude>52264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andijk West -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527597</latitude>
+			<longitude>51930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Angerlo -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520097</latitude>
+			<longitude>61430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anna Paulowna -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>528764</latitude>
+			<longitude>48764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Apeldoorn -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522264</latitude>
+			<longitude>59764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Apeldoorns Kanaal -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520597</latitude>
+			<longitude>61264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Appelscha -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>529597</latitude>
+			<longitude>63764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Appingedam -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>533264</latitude>
+			<longitude>68764</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Archem -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>524764</latitude>
+			<longitude>64430</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arnhem -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519930</latitude>
+			<longitude>59264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arnhem Presikhaaf -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519930</latitude>
+			<longitude>59597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Arnhemsche Heide -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520597</latitude>
+			<longitude>59264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assen -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>530097</latitude>
+			<longitude>65597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assendelft -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524764</latitude>
+			<longitude>47597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Asten -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514097</latitude>
+			<longitude>57597</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Axel -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>512764</latitude>
+			<longitude>39264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Axelse Kreek -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>512764</latitude>
+			<longitude>38930</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azelo -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523097</latitude>
+			<longitude>67264</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baarle-Nassau -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514598</latitude>
+			<longitude>49431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Baarn -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>522265</latitude>
+			<longitude>52931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barendrecht -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518598</latitude>
+			<longitude>45598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barneveld -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521431</latitude>
+			<longitude>55931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bartlehiem -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532931</latitude>
+			<longitude>58431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bathmen -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>522598</latitude>
+			<longitude>62931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beek on Donk -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515431</latitude>
+			<longitude>56431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beek-Elsloo -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509431</latitude>
+			<longitude>57931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beerta -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531931</latitude>
+			<longitude>71098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beesel -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512765</latitude>
+			<longitude>60431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beilen -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>528765</latitude>
+			<longitude>65265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bellingwolde -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531265</latitude>
+			<longitude>71765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bemmel -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519098</latitude>
+			<longitude>59098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bemmel -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>517765</latitude>
+			<longitude>44265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bennekom -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520098</latitude>
+			<longitude>56931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergambacht -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519431</latitude>
+			<longitude>47931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergen op Zoom -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515098</latitude>
+			<longitude>43098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergschenhoek -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519931</latitude>
+			<longitude>45098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bergum -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532098</latitude>
+			<longitude>60098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berkel -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519931</latitude>
+			<longitude>44931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Berkhout -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526431</latitude>
+			<longitude>50098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Best -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515098</latitude>
+			<longitude>54098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Beverwijk -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524931</latitude>
+			<longitude>46598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Biddinghuizen -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>524598</latitude>
+			<longitude>57098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bijlmermeer -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523265</latitude>
+			<longitude>49765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bilthoven -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521431</latitude>
+			<longitude>52098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Binnenwijzend -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526931</latitude>
+			<longitude>51598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bladel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>513765</latitude>
+			<longitude>52265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bleiswijk -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520265</latitude>
+			<longitude>45431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bodegraven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520931</latitude>
+			<longitude>47598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boekel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516098</latitude>
+			<longitude>56931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bolsward -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530765</latitude>
+			<longitude>55431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boorne -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530598</latitude>
+			<longitude>58431</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borculo -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521265</latitude>
+			<longitude>65265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Born -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510431</latitude>
+			<longitude>58265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Borne -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523098</latitude>
+			<longitude>67598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bos en Lommer -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523931</latitude>
+			<longitude>48598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boskoop -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520765</latitude>
+			<longitude>46765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bovenkarspel -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527098</latitude>
+			<longitude>52598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boxmeer -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516598</latitude>
+			<longitude>59598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Boxtel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515931</latitude>
+			<longitude>53265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Breda -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515765</latitude>
+			<longitude>48098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bredasche Bosch -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515265</latitude>
+			<longitude>49265</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bredasche Polder -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516931</latitude>
+			<longitude>46765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brielle -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519098</latitude>
+			<longitude>41765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brinkhorst -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522265</latitude>
+			<longitude>59598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brummen -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521098</latitude>
+			<longitude>61765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brunssum -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509598</latitude>
+			<longitude>59765</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Buitenpost -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532598</latitude>
+			<longitude>61598</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bunnik -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520765</latitude>
+			<longitude>52098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bunschoten -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>522431</latitude>
+			<longitude>53931</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bussum -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>522931</latitude>
+			<longitude>52098</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Callantsoog -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>528432</latitude>
+			<longitude>47099</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Capelle aan den IJssel -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519432</latitude>
+			<longitude>45932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Castricum -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>525599</latitude>
+			<longitude>46766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Centrum -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514766</latitude>
+			<longitude>43932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ceresdorp -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>529766</latitude>
+			<longitude>69932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cereswijk -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531266</latitude>
+			<longitude>69766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clingendael -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521099</latitude>
+			<longitude>43432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clingepolder -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>512766</latitude>
+			<longitude>40932</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Coevorden -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>526766</latitude>
+			<longitude>67599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crisishoeve -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514599</latitude>
+			<longitude>58599</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cubaard -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531266</latitude>
+			<longitude>55766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuijk -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>517432</latitude>
+			<longitude>59266</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Culemborg -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519599</latitude>
+			<longitude>52432</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuyk en Sint Agatha -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517266</latitude>
+			<longitude>58766</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="D Ever -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522600</latitude>
+			<longitude>45600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="D Oliphant -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518933</latitude>
+			<longitude>44767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dalen -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>527100</latitude>
+			<longitude>67600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dalfsen -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>525100</latitude>
+			<longitude>62767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Biesbosch -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>518267</latitude>
+			<longitude>48933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Bilt -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521267</latitude>
+			<longitude>51933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Brekeld -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523100</latitude>
+			<longitude>65267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Elft -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>529100</latitude>
+			<longitude>49933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Elft -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517600</latitude>
+			<longitude>57433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Heeg -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508433</latitude>
+			<longitude>57267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Lier -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519767</latitude>
+			<longitude>42767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Meern -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520933</latitude>
+			<longitude>50433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="De Tempel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514933</latitude>
+			<longitude>54933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Delft -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520100</latitude>
+			<longitude>43767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Delfzijl -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>533433</latitude>
+			<longitude>69267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Den Bosch -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521933</latitude>
+			<longitude>49600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Den Bosch -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515933</latitude>
+			<longitude>60267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Den Bosch -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520933</latitude>
+			<longitude>61433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Den Haag -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520933</latitude>
+			<longitude>43100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Den Helder -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>529767</latitude>
+			<longitude>47767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Den Helder">
+			<state></state>
+			<latitude>514433</latitude>
+			<longitude>45433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Den Oever -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>529433</latitude>
+			<longitude>50433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deurne -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514767</latitude>
+			<longitude>58100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deventer -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>522600</latitude>
+			<longitude>62100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Deventer-Lemelerveld Kanaal -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523433</latitude>
+			<longitude>62767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Didam -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519433</latitude>
+			<longitude>61433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dieme -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523433</latitude>
+			<longitude>49933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Diemen -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523433</latitude>
+			<longitude>49767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dieren -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520600</latitude>
+			<longitude>61433</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dodewaard -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519267</latitude>
+			<longitude>56600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doesburg -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520767</latitude>
+			<longitude>56267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doetinchem -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519767</latitude>
+			<longitude>63100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doetinchem West -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519767</latitude>
+			<longitude>62933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dokkum -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>533433</latitude>
+			<longitude>60100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dongen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516267</latitude>
+			<longitude>49767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doorn -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520433</latitude>
+			<longitude>53600</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Doornenburg -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518933</latitude>
+			<longitude>60100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dordrecht -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518100</latitude>
+			<longitude>46767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drachten -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531100</latitude>
+			<longitude>61100</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Driebergen -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520600</latitude>
+			<longitude>52933</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dronten -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>525433</latitude>
+			<longitude>57267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Drunen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516933</latitude>
+			<longitude>51767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Druten -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518933</latitude>
+			<longitude>56267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Duiven -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519600</latitude>
+			<longitude>60267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Duurse Waarden -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523767</latitude>
+			<longitude>61267</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dwingeloo -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>528433</latitude>
+			<longitude>63767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Echt -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511101</latitude>
+			<longitude>58934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Edam -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>525268</latitude>
+			<longitude>50601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ede -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520434</latitude>
+			<longitude>56768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eersel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>513768</latitude>
+			<longitude>53268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eibergen -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521101</latitude>
+			<longitude>66601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eijsden -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>507934</latitude>
+			<longitude>57101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eindhoven -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514601</latitude>
+			<longitude>54768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eindhovens Kanaal -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514434</latitude>
+			<longitude>54934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elde -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516268</latitude>
+			<longitude>54268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Elst -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519268</latitude>
+			<longitude>58601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmahaven -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>513434</latitude>
+			<longitude>41601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmeloord -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>527268</latitude>
+			<longitude>57768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmen -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>525101</latitude>
+			<longitude>62434</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmen -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>527934</latitude>
+			<longitude>69101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmer-Compascuum -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>528268</latitude>
+			<longitude>70601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Emmermeer -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>528101</latitude>
+			<longitude>69101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enderheide -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>513101</latitude>
+			<longitude>53934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enkhuizen -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527268</latitude>
+			<longitude>52934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Enschede -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>522268</latitude>
+			<longitude>69101</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Epe -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>523601</latitude>
+			<longitude>59934</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ermelo -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>523101</latitude>
+			<longitude>56268</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Etten-Leurs -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515768</latitude>
+			<longitude>46768</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eygelshoven -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509101</latitude>
+			<longitude>60601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faan -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>532435</latitude>
+			<longitude>63935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Faksdiep -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>531602</latitude>
+			<longitude>50102</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Falieberg -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>526935</latitude>
+			<longitude>64269</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fammensrakken -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>529935</latitude>
+			<longitude>57435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fanemerland -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>532269</latitude>
+			<longitude>63935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farmsum -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>533269</latitude>
+			<longitude>69435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fatum -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531602</latitude>
+			<longitude>55935</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fayersheide -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>524269</latitude>
+			<longitude>66769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Franeker -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532102</latitude>
+			<longitude>55435</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frankhuis -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>525435</latitude>
+			<longitude>60769</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Frans -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>524602</latitude>
+			<longitude>68602</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fransche Gaatje -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532769</latitude>
+			<longitude>51269</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Garnwerd -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>533103</latitude>
+			<longitude>65103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geldermalsen -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518936</latitude>
+			<longitude>53103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geldrop -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514436</latitude>
+			<longitude>55770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Geleen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509770</latitude>
+			<longitude>58436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gemeente Apeldoorn -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522103</latitude>
+			<longitude>59770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gemeente Gemert -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515603</latitude>
+			<longitude>56936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gemeente Leerdam -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518936</latitude>
+			<longitude>50936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gemeente Oss -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517603</latitude>
+			<longitude>55436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gemert -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515603</latitude>
+			<longitude>57103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gendt -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518936</latitude>
+			<longitude>59770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gennep -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514270</latitude>
+			<longitude>54770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gennep -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>517103</latitude>
+			<longitude>59770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Giesdam -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518436</latitude>
+			<longitude>48436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gietenerveld -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>529936</latitude>
+			<longitude>67436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gilze -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515603</latitude>
+			<longitude>49603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glane -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>522436</latitude>
+			<longitude>70103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glanerbrug -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>522270</latitude>
+			<longitude>69936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glimmen -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531436</latitude>
+			<longitude>66436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glinden -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521270</latitude>
+			<longitude>55603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glip -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523436</latitude>
+			<longitude>46270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goes -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>515103</latitude>
+			<longitude>38936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goirle -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515270</latitude>
+			<longitude>50770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goor -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523770</latitude>
+			<longitude>70270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gorinchem -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518436</latitude>
+			<longitude>49770</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gouda -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520270</latitude>
+			<longitude>47103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Groeningen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516103</latitude>
+			<longitude>60103</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Groenlo -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520603</latitude>
+			<longitude>66270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Groesbeek -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>517936</latitude>
+			<longitude>59436</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Groningen">
+			<state></state>
+			<latitude>532270</latitude>
+			<longitude>65603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Groningen Noord -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>532436</latitude>
+			<longitude>65603</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guttecoven -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510270</latitude>
+			<longitude>58270</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haag -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>515271</latitude>
+			<longitude>59271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haaksbergen -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>521604</latitude>
+			<longitude>67437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haamstede -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>517104</latitude>
+			<longitude>37604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haaren -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516104</latitude>
+			<longitude>52437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haarlem -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523771</latitude>
+			<longitude>46604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haarlemermeer -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523104</latitude>
+			<longitude>46771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harde -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>524271</latitude>
+			<longitude>58937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hardegarijp -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532271</latitude>
+			<longitude>59604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hardenberg -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531937</latitude>
+			<longitude>70937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hardenberg -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>525771</latitude>
+			<longitude>66271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harderwijk -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527437</latitude>
+			<longitude>50104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harderwijk -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>523604</latitude>
+			<longitude>56437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Haren -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531771</latitude>
+			<longitude>66104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Harlingen -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531937</latitude>
+			<longitude>54271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hatert -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518271</latitude>
+			<longitude>58437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heemskerk -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>525271</latitude>
+			<longitude>46771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heemstede -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523604</latitude>
+			<longitude>46271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heerenveen -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>529604</latitude>
+			<longitude>59437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heerhugowaard -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526771</latitude>
+			<longitude>48604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heerlen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509104</latitude>
+			<longitude>59937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heerlerbaan -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508771</latitude>
+			<longitude>60104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heerlerheide -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509271</latitude>
+			<longitude>59771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heesch -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517437</latitude>
+			<longitude>55437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heikant -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515937</latitude>
+			<longitude>50937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heiloo -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526104</latitude>
+			<longitude>47104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helden -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>513271</latitude>
+			<longitude>60104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hellendoorn -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523937</latitude>
+			<longitude>64604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hellevoetsluis -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518437</latitude>
+			<longitude>41437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Helmond -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514937</latitude>
+			<longitude>56771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hengelo -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>522771</latitude>
+			<longitude>68104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hengelo -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520604</latitude>
+			<longitude>63271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heusden -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517437</latitude>
+			<longitude>51437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Heythuysen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512604</latitude>
+			<longitude>59104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hillegom -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>523104</latitude>
+			<longitude>45937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hilversum -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>522437</latitude>
+			<longitude>51937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hilversumsche Wasmeer -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>522104</latitude>
+			<longitude>52104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hilversumse Meent -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>522771</latitude>
+			<longitude>51437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hippolytushoef -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>529104</latitude>
+			<longitude>49771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoensbroek -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509271</latitude>
+			<longitude>59437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoeven -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515104</latitude>
+			<longitude>54604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hogeveense Polder -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522771</latitude>
+			<longitude>45271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Holland">
+			<state></state>
+			<latitude>523437</latitude>
+			<longitude>48437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Honselersdijk -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520104</latitude>
+			<longitude>42437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoofddorp -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523104</latitude>
+			<longitude>47104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hooge Veen -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>531104</latitude>
+			<longitude>65771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hooge Vliet -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>517937</latitude>
+			<longitude>44937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoogeveen -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520937</latitude>
+			<longitude>45937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoogeveen -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>527437</latitude>
+			<longitude>64937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoogezand -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531771</latitude>
+			<longitude>67771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoogkarspel -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527104</latitude>
+			<longitude>52104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoogkerk -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>532271</latitude>
+			<longitude>65104</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoogvliet -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518771</latitude>
+			<longitude>43604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoorn -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>534104</latitude>
+			<longitude>53604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoorn -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521437</latitude>
+			<longitude>46437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoorn -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526604</latitude>
+			<longitude>50771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoorn -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>533771</latitude>
+			<longitude>64271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hoorn -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>524104</latitude>
+			<longitude>60771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horn -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512271</latitude>
+			<longitude>59604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horst -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>514604</latitude>
+			<longitude>60604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Horst-Sevenum -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>514437</latitude>
+			<longitude>60604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Houten -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520437</latitude>
+			<longitude>51771</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huissen -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519437</latitude>
+			<longitude>59437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huizen -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>526104</latitude>
+			<longitude>63937</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huizen -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523104</latitude>
+			<longitude>52437</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Huizermaat -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523104</latitude>
+			<longitude>52604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hulst -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>512937</latitude>
+			<longitude>40604</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iersekendam -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>515105</latitude>
+			<longitude>40438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Iestpolder -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532938</latitude>
+			<longitude>57605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="IJmuiden -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524772</latitude>
+			<longitude>46105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="IJsselstein -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520272</latitude>
+			<longitude>50605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="IJsselstein -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>514938</latitude>
+			<longitude>59105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Illicoven -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510772</latitude>
+			<longitude>58272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ilp -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524605</latitude>
+			<longitude>49272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imerwijk -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531438</latitude>
+			<longitude>61438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="In de Hoeven -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>513605</latitude>
+			<longitude>59605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isabellahaven -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>512938</latitude>
+			<longitude>37272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isabellakanaal">
+			<state></state>
+			<latitude>513272</latitude>
+			<longitude>37438</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Isle of IJsselmonde -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518772</latitude>
+			<longitude>45272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Issel">
+			<state></state>
+			<latitude>520105</latitude>
+			<longitude>61772</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="It Amelan -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>534605</latitude>
+			<longitude>57605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itens -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531105</latitude>
+			<longitude>56605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itter">
+			<state></state>
+			<latitude>511772</latitude>
+			<longitude>58605</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itterbeeksbrug -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>524605</latitude>
+			<longitude>67272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itteren -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509105</latitude>
+			<longitude>57105</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ittersum -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>524938</latitude>
+			<longitude>61272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ittervoort -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511772</latitude>
+			<longitude>58272</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jeltesloot -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>529773</latitude>
+			<longitude>56939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jetjeszand -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532939</latitude>
+			<longitude>54106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jijil diep -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>532773</latitude>
+			<longitude>62606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jipsinghuizerveld -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>529773</latitude>
+			<longitude>71273</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jispinghuizen -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>529939</latitude>
+			<longitude>71606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joure -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>529773</latitude>
+			<longitude>57939</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Julianadorp -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>529106</latitude>
+			<longitude>47606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Julianahoeve -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514273</latitude>
+			<longitude>59106</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jutrijp -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530106</latitude>
+			<longitude>56606</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kaatsheuvel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516774</latitude>
+			<longitude>50774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kampen -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>525607</latitude>
+			<longitude>59274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kampen -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531107</latitude>
+			<longitude>54607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kampen -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>513607</latitude>
+			<longitude>39774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Katwijk aan Zee -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522107</latitude>
+			<longitude>44274</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Keent -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512440</latitude>
+			<longitude>57107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kerkrade -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508774</latitude>
+			<longitude>60774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Klein Berkelaars -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511274</latitude>
+			<longitude>58774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Koog aan de Zaan -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524774</latitude>
+			<longitude>48107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kortenhoef -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>522440</latitude>
+			<longitude>50940</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krimpen aan de Lek -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519107</latitude>
+			<longitude>46440</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krimpen aan den IJssel -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519274</latitude>
+			<longitude>46107</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krommenie -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>525107</latitude>
+			<longitude>47774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Krommeniedijk -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>525274</latitude>
+			<longitude>47774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kudelstaart -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>522440</latitude>
+			<longitude>47607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kwintsheul -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520274</latitude>
+			<longitude>42774</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kylotsbos -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>529440</latitude>
+			<longitude>64607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Landsmeer -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524441</latitude>
+			<longitude>49275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leerdam -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518941</latitude>
+			<longitude>51108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leersum -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520275</latitude>
+			<longitude>54441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leeuwarden -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532108</latitude>
+			<longitude>57941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leiden -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521608</latitude>
+			<longitude>45108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leiderdorp -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521608</latitude>
+			<longitude>45441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leidschendam -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520941</latitude>
+			<longitude>44108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leidschendam-Voorburg -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520941</latitude>
+			<longitude>43941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lelystad -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>525275</latitude>
+			<longitude>54941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lemmer -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>528608</latitude>
+			<longitude>57275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leusden -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521275</latitude>
+			<longitude>54108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Leusden-Centrum -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521441</latitude>
+			<longitude>54775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lhee -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>528441</latitude>
+			<longitude>64108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lheebroek -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>528608</latitude>
+			<longitude>64441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lheederzand -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>528275</latitude>
+			<longitude>64108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lichtenvoorde -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519941</latitude>
+			<longitude>65775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Liempde -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515775</latitude>
+			<longitude>53775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Linne -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511608</latitude>
+			<longitude>59441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lisse -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522608</latitude>
+			<longitude>45775</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lochem -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521775</latitude>
+			<longitude>64275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lochemerberg -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521608</latitude>
+			<longitude>64441</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lopik -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>519941</latitude>
+			<longitude>49608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Loppersum -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>533441</latitude>
+			<longitude>67608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Luksterhoek -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530108</latitude>
+			<longitude>59941</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lunteren -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520941</latitude>
+			<longitude>56275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lycklamabosch -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>528775</latitude>
+			<longitude>55608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lycklamavaart -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>529775</latitude>
+			<longitude>64275</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lytse Griene -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530275</latitude>
+			<longitude>57608</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lytshuzen -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>529941</latitude>
+			<longitude>56108</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maarn -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520776</latitude>
+			<longitude>53776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maarssen -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521609</latitude>
+			<longitude>50609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maarssenbroek -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521442</latitude>
+			<longitude>50276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maasbracht -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511609</latitude>
+			<longitude>58942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maassluis -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519276</latitude>
+			<longitude>42776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maastricht -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508609</latitude>
+			<longitude>56942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maastricht- s Hertogenbosch Canal">
+			<state></state>
+			<latitude>508776</latitude>
+			<longitude>56609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Malden -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>517942</latitude>
+			<longitude>58609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Margraten -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508276</latitude>
+			<longitude>58276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Medemblik -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527776</latitude>
+			<longitude>51109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meersen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508942</latitude>
+			<longitude>57609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Meppel -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>527109</latitude>
+			<longitude>62109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Middelburg -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520609</latitude>
+			<longitude>46942</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Middelburg -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>515109</latitude>
+			<longitude>36276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Middelburg -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522109</latitude>
+			<longitude>61276</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Middelburg-Veersche Watergang -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>515609</latitude>
+			<longitude>36609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mijdrecht -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>522109</latitude>
+			<longitude>48776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Montfoort -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520609</latitude>
+			<longitude>49609</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Moordrecht -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519942</latitude>
+			<longitude>46776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Muiden -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523442</latitude>
+			<longitude>50776</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Musselkanaal -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>529276</latitude>
+			<longitude>70442</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naaldwijk -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520110</latitude>
+			<longitude>42110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naarden -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523110</latitude>
+			<longitude>51610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Naardenmeer -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523110</latitude>
+			<longitude>51277</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nagele -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>526610</latitude>
+			<longitude>57443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nederland -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>527610</latitude>
+			<longitude>59777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nieuw-Beijerland -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518277</latitude>
+			<longitude>43443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nieuw-Buinen -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>529610</latitude>
+			<longitude>69443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nieuw-Vennep -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>522777</latitude>
+			<longitude>46443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nieuwegein -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520443</latitude>
+			<longitude>51110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nieuwegein-Noord -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520443</latitude>
+			<longitude>50943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nieuwegein-Zuid -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520110</latitude>
+			<longitude>51110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nieuwerkerk aan den IJssel -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519777</latitude>
+			<longitude>46277</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nieuweschans -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531943</latitude>
+			<longitude>72110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nieuwkoop -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521610</latitude>
+			<longitude>47943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nijkerk -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522277</latitude>
+			<longitude>54943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nijmegen -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518443</latitude>
+			<longitude>58777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nijmegen Dukenburg -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518277</latitude>
+			<longitude>58110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nijverdal -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523777</latitude>
+			<longitude>64777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="NL MASTER SOURCE HOLDINGS LIST">
+			<state></state>
+			<latitude>525110</latitude>
+			<longitude>57610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noordwijk aan Zee -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522610</latitude>
+			<longitude>44443</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noordwijk-Binnen -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522443</latitude>
+			<longitude>44610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Noordwijkerhout -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522777</latitude>
+			<longitude>45110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nootdorp -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520443</latitude>
+			<longitude>44110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nuenen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514777</latitude>
+			<longitude>55610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nunhem -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512610</latitude>
+			<longitude>59777</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nunspeet -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>523943</latitude>
+			<longitude>58110</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nuth -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509277</latitude>
+			<longitude>58943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nyawier -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>533777</latitude>
+			<longitude>60610</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Nylan -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531943</latitude>
+			<longitude>57943</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Obdam -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526944</latitude>
+			<longitude>49111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ochten -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519111</latitude>
+			<longitude>55778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oegstgeest -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521944</latitude>
+			<longitude>44778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Offerkamp -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511778</latitude>
+			<longitude>59778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ohee en Laak -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>511278</latitude>
+			<longitude>58444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oirschot -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515278</latitude>
+			<longitude>53278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oisterwijk -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515944</latitude>
+			<longitude>52111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oldenzaal -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523278</latitude>
+			<longitude>69278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Olst -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523444</latitude>
+			<longitude>61278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ommen -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>525278</latitude>
+			<longitude>64444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Onnerpolder -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531778</latitude>
+			<longitude>66611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oosterhout -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516611</latitude>
+			<longitude>48944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oosterhout -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518778</latitude>
+			<longitude>58444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oosterhoutse Dam -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516944</latitude>
+			<longitude>48444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oosterwolde -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530111</latitude>
+			<longitude>63111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oostzaan -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524611</latitude>
+			<longitude>48778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Op de Belt -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>516778</latitude>
+			<longitude>60611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oranjekanaal -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>529278</latitude>
+			<longitude>64278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oranjeoord -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516778</latitude>
+			<longitude>44111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orden -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522111</latitude>
+			<longitude>59444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orderbosch -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522111</latitude>
+			<longitude>59278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Orten -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517111</latitude>
+			<longitude>53111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osdorp -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523778</latitude>
+			<longitude>47944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oshaar -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>526944</latitude>
+			<longitude>63778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ospel -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>513111</latitude>
+			<longitude>58111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oss -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517778</latitude>
+			<longitude>55444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ossebroeken -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>529611</latitude>
+			<longitude>65444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ossehoek -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>517611</latitude>
+			<longitude>38944</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ossenwaard -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518944</latitude>
+			<longitude>61111</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oud Beierland -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518444</latitude>
+			<longitude>44278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ouddorp -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518278</latitude>
+			<longitude>39444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oude Pekela -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531111</latitude>
+			<longitude>70278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oudenbosch -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515944</latitude>
+			<longitude>45444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oudenbosch -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509111</latitude>
+			<longitude>58778</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Overtoomseveld -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523778</latitude>
+			<longitude>48444</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Overvecht -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521278</latitude>
+			<longitude>51278</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paasheuvel -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>523445</latitude>
+			<longitude>58279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Palestina -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522279</latitude>
+			<longitude>54445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Panningen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>513445</latitude>
+			<longitude>59945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Papendrecht -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518445</latitude>
+			<longitude>46945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Piekezijl -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530279</latitude>
+			<longitude>55945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pijnacker -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520279</latitude>
+			<longitude>44445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poeldijk -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520279</latitude>
+			<longitude>42279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Polder Oudegein -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520279</latitude>
+			<longitude>50945</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Purmerend -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>525279</latitude>
+			<longitude>49612</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Purmerland -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524945</latitude>
+			<longitude>49445</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Putjensberg -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>524112</latitude>
+			<longitude>60112</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Putten -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518445</latitude>
+			<longitude>43112</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Putten -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522779</latitude>
+			<longitude>56279</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Puttershoek -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518112</latitude>
+			<longitude>45779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quabeek -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509780</latitude>
+			<longitude>59446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quadenoord -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520113</latitude>
+			<longitude>57446</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarleshaven -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>514780</latitude>
+			<longitude>37113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarlespolder -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>514946</latitude>
+			<longitude>37280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quatre Bras -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521946</latitude>
+			<longitude>62280</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quatrebras -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532280</latitude>
+			<longitude>59946</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quintusstate -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531113</latitude>
+			<longitude>56113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quirijnstok -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515780</latitude>
+			<longitude>51113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Raalte -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523947</latitude>
+			<longitude>62947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Renkum -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519781</latitude>
+			<longitude>57447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Reuver -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512947</latitude>
+			<longitude>60947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rheden -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520114</latitude>
+			<longitude>60281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rhein">
+			<state></state>
+			<latitude>519781</latitude>
+			<longitude>40947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rhenen -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>519781</latitude>
+			<longitude>55781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ridderkerk -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518781</latitude>
+			<longitude>46114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515947</latitude>
+			<longitude>49614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijnsburg -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521947</latitude>
+			<longitude>44614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijsbergen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515281</latitude>
+			<longitude>47114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijswijk -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519781</latitude>
+			<longitude>53614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijswijk -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>518114</latitude>
+			<longitude>50447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijswijk -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520281</latitude>
+			<longitude>43447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roden -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>531447</latitude>
+			<longitude>64447</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roermond -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512114</latitude>
+			<longitude>60114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roosendaal -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520281</latitude>
+			<longitude>59781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Roosendaal -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515447</latitude>
+			<longitude>44781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rottemeren -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519947</latitude>
+			<longitude>45614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotterdam -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519281</latitude>
+			<longitude>45114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotterdam Alexanderpolder -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519281</latitude>
+			<longitude>44947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotterdam Hofplein -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519447</latitude>
+			<longitude>44947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotterdam Zuid -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519114</latitude>
+			<longitude>45281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotterdam-Europoort -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519614</latitude>
+			<longitude>41281</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotterdamse Hoek -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>527781</latitude>
+			<longitude>56114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rotterdamse Waterweg -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519947</latitude>
+			<longitude>42114</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rozenburg -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519114</latitude>
+			<longitude>42614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ruitersbosch -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515781</latitude>
+			<longitude>47781</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ruurlo -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520947</latitude>
+			<longitude>64614</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="s-Gravendeel -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>517948</latitude>
+			<longitude>46282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="s-Gravenzande -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520115</latitude>
+			<longitude>41782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="s-Heerenberg -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518948</latitude>
+			<longitude>62615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="s-Hertogenbosch -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517115</latitude>
+			<longitude>53282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="s-Hertogenbosch-Drongelen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517282</latitude>
+			<longitude>50782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sas van Gent -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>512448</latitude>
+			<longitude>38115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sassenheim -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522282</latitude>
+			<longitude>45448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schagen -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527948</latitude>
+			<longitude>48115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Scheemda -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531782</latitude>
+			<longitude>69782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Scheveningen -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521115</latitude>
+			<longitude>42948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schiedam -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519282</latitude>
+			<longitude>44115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schijndel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516282</latitude>
+			<longitude>54615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schiphol -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523115</latitude>
+			<longitude>47615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Schoonhoven -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519615</latitude>
+			<longitude>48615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Siddeburen -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>532615</latitude>
+			<longitude>68782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Siebengewald -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>516615</latitude>
+			<longitude>61115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Silvolde -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519282</latitude>
+			<longitude>63948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Simpelveld -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508448</latitude>
+			<longitude>59948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sint Annaparochie -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532948</latitude>
+			<longitude>56782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sint Anthonis en Ledeacker Gemeente Oploo -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516282</latitude>
+			<longitude>58948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sint Maartensdijk -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>515615</latitude>
+			<longitude>40948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sint Michielsgestel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516448</latitude>
+			<longitude>53615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sint-Oedenrode -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515782</latitude>
+			<longitude>54782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sittard -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510115</latitude>
+			<longitude>58782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sleeuwijk -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>518282</latitude>
+			<longitude>49615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sliedrecht -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518282</latitude>
+			<longitude>47782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Slikkerveer -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518948</latitude>
+			<longitude>46282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Slotervaart -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523615</latitude>
+			<longitude>48448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Smalenbroek -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>521948</latitude>
+			<longitude>69115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sneek -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530448</latitude>
+			<longitude>56782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soest -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521948</latitude>
+			<longitude>53115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soest-Zuid -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521782</latitude>
+			<longitude>53282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Soesterberg -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521282</latitude>
+			<longitude>53282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sommelsdijk -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>517782</latitude>
+			<longitude>41615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Spijkenisse -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518615</latitude>
+			<longitude>43448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sprundel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515448</latitude>
+			<longitude>46115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stadskanaal -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>530115</latitude>
+			<longitude>69282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stadskanaal">
+			<state></state>
+			<latitude>530615</latitude>
+			<longitude>68782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Steenbergen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515948</latitude>
+			<longitude>43282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Steenwijk -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>527948</latitude>
+			<longitude>61282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stein -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>509782</latitude>
+			<longitude>57782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Stein -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520115</latitude>
+			<longitude>47948</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Strijen -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>517615</latitude>
+			<longitude>45615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Strijp -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520448</latitude>
+			<longitude>43115</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Strijp -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>513448</latitude>
+			<longitude>55448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Susteren -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510782</latitude>
+			<longitude>58782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Swalmen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512448</latitude>
+			<longitude>60448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sypesteyn -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>522115</latitude>
+			<longitude>51282</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sythuzen -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530448</latitude>
+			<longitude>58615</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tegelen -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>513449</latitude>
+			<longitude>61449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ter Apel -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>528949</latitude>
+			<longitude>70783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ter Apelervenen -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>528949</latitude>
+			<longitude>70449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Terborg -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519283</latitude>
+			<longitude>63616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Terneuzen -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>513449</latitude>
+			<longitude>38449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Texel -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>530949</latitude>
+			<longitude>48449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tholen -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>515449</latitude>
+			<longitude>42283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tiel -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518949</latitude>
+			<longitude>54449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tielerwaard -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518616</latitude>
+			<longitude>52116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tilburen -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>533449</latitude>
+			<longitude>60616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tilburg -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>515616</latitude>
+			<longitude>51283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tilburgpolder -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531949</latitude>
+			<longitude>67116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Twello -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522449</latitude>
+			<longitude>61116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Twisk -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527616</latitude>
+			<longitude>50783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tynaarlo -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>530949</latitude>
+			<longitude>66116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tzum -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531616</latitude>
+			<longitude>55783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tzummarum -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532449</latitude>
+			<longitude>55616</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tzummarumervissersvaart -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532449</latitude>
+			<longitude>55283</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tzummervaart -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531283</latitude>
+			<longitude>55449</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ubbena -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>530617</latitude>
+			<longitude>65784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uden -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516784</latitude>
+			<longitude>56284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Udenhout -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516284</latitude>
+			<longitude>51617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uitgeest -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>525450</latitude>
+			<longitude>47284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uithoorn -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>522450</latitude>
+			<longitude>48450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulft -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519117</latitude>
+			<longitude>63950</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ulrum -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>533784</latitude>
+			<longitude>63450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urk -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>515950</latitude>
+			<longitude>35284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urk -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>526784</latitude>
+			<longitude>56117</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urkervaart -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>527117</latitude>
+			<longitude>57617</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Urmond -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>510117</latitude>
+			<longitude>57784</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Usquert -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>534117</latitude>
+			<longitude>66284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utrecht">
+			<state></state>
+			<latitude>520950</latitude>
+			<longitude>51450</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utrecht Centraal Station -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521117</latitude>
+			<longitude>51284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Utrechtse Brug -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523450</latitude>
+			<longitude>49284</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaals -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>507785</latitude>
+			<longitude>60285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vaassen -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>522951</latitude>
+			<longitude>59785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Varsseveld -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519618</latitude>
+			<longitude>64785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veendam -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531118</latitude>
+			<longitude>68951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veenendaal -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520451</latitude>
+			<longitude>55618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veenwouden -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532451</latitude>
+			<longitude>60118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veghel -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516285</latitude>
+			<longitude>55618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veldhoven -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514285</latitude>
+			<longitude>54285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veldhuis -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527451</latitude>
+			<longitude>51285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Veldhuizen -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520951</latitude>
+			<longitude>50285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Venlo -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>513785</latitude>
+			<longitude>61785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Venray -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>515451</latitude>
+			<longitude>59951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vianen -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>516285</latitude>
+			<longitude>40118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vianen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517285</latitude>
+			<longitude>58618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vierhuizen -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>533785</latitude>
+			<longitude>63118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vlaardingen -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519285</latitude>
+			<longitude>43618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vlaardingen Oost -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519285</latitude>
+			<longitude>43785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vleuten -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521118</latitude>
+			<longitude>50285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vliedberg -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516951</latitude>
+			<longitude>52118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vlieland -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>532785</latitude>
+			<longitude>49785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vlijmen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517118</latitude>
+			<longitude>52451</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vlissingen -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>514618</latitude>
+			<longitude>35951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Voorburg -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520785</latitude>
+			<longitude>43785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Voorhout -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522285</latitude>
+			<longitude>44951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Voorschoten -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521451</latitude>
+			<longitude>44618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vorden -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521118</latitude>
+			<longitude>63285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vriezenveen -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>524285</latitude>
+			<longitude>66285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vroenhof -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>508785</latitude>
+			<longitude>57951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vucht -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516285</latitude>
+			<longitude>47951</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vught -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516618</latitude>
+			<longitude>53118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vughtsche Hoeven -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516618</latitude>
+			<longitude>52785</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vuilpan -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>512618</latitude>
+			<longitude>35118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vuren -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518285</latitude>
+			<longitude>50618</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vuursteentocht -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>525285</latitude>
+			<longitude>56118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vuurtoreneiland -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523785</latitude>
+			<longitude>50285</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waalwijk -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>516952</latitude>
+			<longitude>50786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waddinxveen -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520619</latitude>
+			<longitude>46619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wageningen -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519786</latitude>
+			<longitude>56786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wassenaar -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521619</latitude>
+			<longitude>44119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wateringen -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520452</latitude>
+			<longitude>42952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weert -- (State: Limburg)">
+			<state>Limburg</state>
+			<latitude>512619</latitude>
+			<longitude>57286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weesp -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523286</latitude>
+			<longitude>50452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weijpoortsche Polder -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520786</latitude>
+			<longitude>48119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wervershoof -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>527452</latitude>
+			<longitude>51786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Westerlee -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519786</latitude>
+			<longitude>42286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Westerlee -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531619</latitude>
+			<longitude>69952</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Westervoort -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519786</latitude>
+			<longitude>59786</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Westland -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520119</latitude>
+			<longitude>42286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wezep -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>524786</latitude>
+			<longitude>60119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wierden -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523786</latitude>
+			<longitude>66119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wieringerwerf -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>528619</latitude>
+			<longitude>50452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wijchen -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518286</latitude>
+			<longitude>57452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wijhe -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523952</latitude>
+			<longitude>61452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wijk bij Duurstede -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>519952</latitude>
+			<longitude>53619</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Willemstad -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517119</latitude>
+			<longitude>44452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wilp -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531286</latitude>
+			<longitude>62452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winschoten -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>531619</latitude>
+			<longitude>70452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winterswijk -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519786</latitude>
+			<longitude>67286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woerden -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520952</latitude>
+			<longitude>49286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wognum -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526952</latitude>
+			<longitude>50452</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wolvega -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>528952</latitude>
+			<longitude>60119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wormerveer -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524952</latitude>
+			<longitude>48119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Woudenberg -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>520952</latitude>
+			<longitude>54286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wytgaard -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>531619</latitude>
+			<longitude>58119</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yde -- (State: Drenthe)">
+			<state>Drenthe</state>
+			<latitude>531288</latitude>
+			<longitude>65954</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yerseke -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>515121</latitude>
+			<longitude>40621</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypelo -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>523288</latitude>
+			<longitude>66121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ysbrechtum -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530621</latitude>
+			<longitude>56454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ysselmeer Dam">
+			<state></state>
+			<latitude>530288</latitude>
+			<longitude>52121</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ytsum -- (State: Friesland)">
+			<state>Friesland</state>
+			<latitude>530454</latitude>
+			<longitude>55454</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaandam -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>524622</latitude>
+			<longitude>48455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zaltbommel -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518122</latitude>
+			<longitude>52622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zandvoort -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523789</latitude>
+			<longitude>45455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeeland -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517122</latitude>
+			<longitude>56955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeeland -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>518622</latitude>
+			<longitude>60455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeelandbrug -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>516289</latitude>
+			<longitude>39122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeewolde -- (State: Flevoland)">
+			<state>Flevoland</state>
+			<latitude>523789</latitude>
+			<longitude>55622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeist -- (State: Utrecht)">
+			<state>Utrecht</state>
+			<latitude>521122</latitude>
+			<longitude>52455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zevenaar -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>519455</latitude>
+			<longitude>60789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zevenbergen -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>517455</latitude>
+			<longitude>55789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zevenhuizen -- (State: Groningen)">
+			<state>Groningen</state>
+			<latitude>532622</latitude>
+			<longitude>66789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zevenhuizen -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>522122</latitude>
+			<longitude>45622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zierikzee -- (State: Zeeland)">
+			<state>Zeeland</state>
+			<latitude>516622</latitude>
+			<longitude>39289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zijderveld -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>519622</latitude>
+			<longitude>51455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoetermeer -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520622</latitude>
+			<longitude>45122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoetermeersche Meerpolder -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>520955</latitude>
+			<longitude>44955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoeterwoude -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>521289</latitude>
+			<longitude>45122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zuid-Scharwoude -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526955</latitude>
+			<longitude>48289</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zundert -- (State: Noord-Brabant)">
+			<state>Noord-Brabant</state>
+			<latitude>514789</latitude>
+			<longitude>46789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zutphen -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>521455</latitude>
+			<longitude>62122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwaag -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>526789</latitude>
+			<longitude>50789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwanenburg -- (State: Noord-Holland)">
+			<state>Noord-Holland</state>
+			<latitude>523955</latitude>
+			<longitude>47622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwijndrecht -- (State: Zuid-Holland)">
+			<state>Zuid-Holland</state>
+			<latitude>518289</latitude>
+			<longitude>46622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwolle -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>525122</latitude>
+			<longitude>60955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwolle -- (State: Gelderland)">
+			<state>Gelderland</state>
+			<latitude>520455</latitude>
+			<longitude>66622</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwolle-Almelo Kanal -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>524789</latitude>
+			<longitude>61789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zwolle-IJsselkanaal -- (State: Overijssel)">
+			<state>Overijssel</state>
+			<latitude>525289</latitude>
+			<longitude>60789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

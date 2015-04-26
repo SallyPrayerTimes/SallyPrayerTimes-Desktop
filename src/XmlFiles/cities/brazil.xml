@@ -1,0 +1,4527 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Brazil">
+		<city name="10 de Novembro -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-270284</latitude>
+			<longitude>-509284</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="13 de Maio -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-285784</latitude>
+			<longitude>-491618</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="13 Quedas -- (State: Para)">
+			<state>Para</state>
+			<latitude>1216</latitude>
+			<longitude>-569118</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="14 de Maio -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-225284</latitude>
+			<longitude>-543451</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="15 de Novembro -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-287451</latitude>
+			<longitude>-530951</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="2 de Julho -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-120617</latitude>
+			<longitude>-389617</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="2 de Novembro -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-88450</latitude>
+			<longitude>-622783</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="21 de Abril -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-286283</latitude>
+			<longitude>-541117</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="23 de Julho -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-279617</latitude>
+			<longitude>-546117</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="25 de Julio -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-197617</latitude>
+			<longitude>-405950</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="28 de Setembro -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-290950</latitude>
+			<longitude>-518617</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="3 Buritys -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-121616</latitude>
+			<longitude>-600782</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="3 de Maio -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-277782</latitude>
+			<longitude>-542282</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="3 Ilhas -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-220271</latitude>
+			<longitude>-434843</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="3 Vendas -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-298449</latitude>
+			<longitude>-530116</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="500 Quilometro 296 -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-301614</latitude>
+			<longitude>-561780</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="7 Voltas -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-217778</latitude>
+			<longitude>-551778</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="A. Alvarenga -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-206903</latitude>
+			<longitude>-453570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="A. Barauna -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-71070</latitude>
+			<longitude>-369403</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="A. Barbosa -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-216236</latitude>
+			<longitude>-555236</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="A. Cassara -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-132070</latitude>
+			<longitude>-620903</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="A. Oliveira -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-196736</latitude>
+			<longitude>-551736</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="A. Tarraca -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-223070</latitude>
+			<longitude>-550236</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aelegrete -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-213736</latitude>
+			<longitude>-547403</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Afonso -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-164070</latitude>
+			<longitude>-408570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Alegrete -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-297570</latitude>
+			<longitude>-557570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Amparo -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-226903</latitude>
+			<longitude>-467736</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anapolis -- (State: Sergipe)">
+			<state>Sergipe</state>
+			<latitude>-107236</latitude>
+			<longitude>-378070</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anapolis -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-221236</latitude>
+			<longitude>-476403</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Anapolis -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-163236</latitude>
+			<longitude>-489570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aqui-Ferto -- (State: Para)">
+			<state>Para</state>
+			<latitude>-47070</latitude>
+			<longitude>-565403</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aquidavana -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-204570</latitude>
+			<longitude>-557903</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aracaju -- (State: Sergipe)">
+			<state>Sergipe</state>
+			<latitude>-109070</latitude>
+			<longitude>-370570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="As Ilhas -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-238070</latitude>
+			<longitude>-457070</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ascencao -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-197903</latitude>
+			<longitude>-445736</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ascuria -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-269570</latitude>
+			<longitude>-493570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assacaio -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-38070</latitude>
+			<longitude>-693903</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assaizal -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-64236</latitude>
+			<longitude>-483736</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assarai -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-195736</latitude>
+			<longitude>-414736</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assentado -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-248056</latitude>
+			<longitude>-482625</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assis -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-226570</latitude>
+			<longitude>-504070</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assis -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-49070</latitude>
+			<longitude>-408570</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Assis Brasil -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-109070</latitude>
+			<longitude>-695236</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assu de Torre -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-125403</latitude>
+			<longitude>-379903</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assuncao -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-55600</latitude>
+			<longitude>-610861</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Assuncao -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-57903</latitude>
+			<longitude>-391403</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Astropeia -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-220903</latitude>
+			<longitude>-469403</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Augusto Nicolau -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-216236</latitude>
+			<longitude>-464070</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Augusto Severo -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-58903</latitude>
+			<longitude>-352236</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aurea -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-276903</latitude>
+			<longitude>-520570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aureliopolis -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-171403</latitude>
+			<longitude>-487903</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Avare -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-230736</latitude>
+			<longitude>-489070</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Avenida -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-133403</latitude>
+			<longitude>-401403</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aviacao -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-297236</latitude>
+			<longitude>-538403</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Axioma -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-67403</latitude>
+			<longitude>-645070</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Axixa -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-28403</latitude>
+			<longitude>-440570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Axui -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-25070</latitude>
+			<longitude>-435903</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayapua -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-44536</latitude>
+			<longitude>-620456</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aymores -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-194903</latitude>
+			<longitude>-410570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aymores -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-178236</latitude>
+			<longitude>-401570</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayrao -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-26172</latitude>
+			<longitude>-609403</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayri -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-68903</latitude>
+			<longitude>-582736</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayrosa Galvao -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-320570</latitude>
+			<longitude>-531736</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ayuruoca -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-219570</latitude>
+			<longitude>-445903</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azara">
+			<state></state>
+			<latitude>-36903</latitude>
+			<longitude>-614570</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azevedo -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-202736</latitude>
+			<longitude>-404403</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azevedo -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-296903</latitude>
+			<longitude>-513236</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azevem -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-88403</latitude>
+			<longitude>-366903</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azevem -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-69570</latitude>
+			<longitude>-386070</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Azul -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>9308</latitude>
+			<longitude>-604025</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bahia -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-268069</latitude>
+			<longitude>-520235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bahia -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-199402</latitude>
+			<longitude>-445069</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barra do Garcas -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-158735</latitude>
+			<longitude>-522402</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barra do Quarai -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-302069</latitude>
+			<longitude>-575402</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barretos -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-205402</latitude>
+			<longitude>-485402</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Barretos -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-202735</latitude>
+			<longitude>-431569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bauru -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-223069</latitude>
+			<longitude>-490569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Para)">
+			<state>Para</state>
+			<latitude>-14402</latitude>
+			<longitude>-484735</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-94402</latitude>
+			<longitude>-622735</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-40316</latitude>
+			<longitude>-695180</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-77402</latitude>
+			<longitude>-381235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-229569</latitude>
+			<longitude>-442735</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-18402</latitude>
+			<longitude>-447902</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-218885</latitude>
+			<longitude>-429991</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-126069</latitude>
+			<longitude>-389235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-44902</latitude>
+			<longitude>-396069</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belem -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-184569</latitude>
+			<longitude>-397235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Alagoas)">
+			<state>Alagoas</state>
+			<latitude>-95735</latitude>
+			<longitude>-364069</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-79069</latitude>
+			<longitude>-384569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-53402</latitude>
+			<longitude>-359569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-59569</latitude>
+			<longitude>-430569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Sergipe)">
+			<state>Sergipe</state>
+			<latitude>-97902</latitude>
+			<longitude>-373235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-234235</latitude>
+			<longitude>-517235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem 1 -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-51402</latitude>
+			<longitude>-384069</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belem de Maria -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-86069</latitude>
+			<longitude>-358402</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem do Bajados -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-34849</latitude>
+			<longitude>-625374</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem do Candeia -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-35069</latitude>
+			<longitude>-624569</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem Novo -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-301902</latitude>
+			<longitude>-511569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belem Velho -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-301069</latitude>
+			<longitude>-511569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-212902</latitude>
+			<longitude>-559402</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-207235</latitude>
+			<longitude>-406069</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-26735</latitude>
+			<longitude>-675235</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Para)">
+			<state>Para</state>
+			<latitude>-52902</latitude>
+			<longitude>-528569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-73402</latitude>
+			<longitude>-381569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Alagoas)">
+			<state>Alagoas</state>
+			<latitude>-97902</latitude>
+			<longitude>-363235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-118735</latitude>
+			<longitude>-641569</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-75569</latitude>
+			<longitude>-392902</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-104735</latitude>
+			<longitude>-495069</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Sergipe)">
+			<state>Sergipe</state>
+			<latitude>-97735</latitude>
+			<longitude>-378569</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-214069</latitude>
+			<longitude>-479235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-101402</latitude>
+			<longitude>-422235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-199069</latitude>
+			<longitude>-439235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-79402</latitude>
+			<longitude>-416735</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Belo Horizonte -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-56402</latitude>
+			<longitude>-359235</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Blumenau -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-269235</latitude>
+			<longitude>-490402</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasilia -- (State: Distrito Federal)">
+			<state>Distrito Federal</state>
+			<latitude>-157735</latitude>
+			<longitude>-479069</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasilia -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-58358</latitude>
+			<longitude>-374410</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasilia -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-38849</latitude>
+			<longitude>-426844</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasilia -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-224402</latitude>
+			<longitude>-492069</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasilia -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-34341</latitude>
+			<longitude>-424758</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasilia -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-162021</latitude>
+			<longitude>-444210</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasilia -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-227069</latitude>
+			<longitude>-513902</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasilia -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-109902</latitude>
+			<longitude>-687235</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Brasilia Legal -- (State: Para)">
+			<state>Para</state>
+			<latitude>-38069</latitude>
+			<longitude>-555902</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-51734</latitude>
+			<longitude>-390734</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Campinas -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-115401</latitude>
+			<longitude>-473068</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-143234</latitude>
+			<longitude>-491234</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Para)">
+			<state>Para</state>
+			<latitude>-57901</latitude>
+			<longitude>-483234</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-76234</latitude>
+			<longitude>-419568</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-284401</latitude>
+			<longitude>-531234</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-190068</latitude>
+			<longitude>-563401</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-221568</latitude>
+			<longitude>-426734</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-289234</latitude>
+			<longitude>-494734</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Alagoas)">
+			<state>Alagoas</state>
+			<latitude>-94568</latitude>
+			<longitude>-361401</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-254448</latitude>
+			<longitude>-505379</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-125901</latitude>
+			<longitude>-386734</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-32734</latitude>
+			<longitude>-610901</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-218568</latitude>
+			<longitude>-464234</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-228901</latitude>
+			<longitude>-470734</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas Belas -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-248234</latitude>
+			<longitude>-509068</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campinas do Piaui -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-76401</latitude>
+			<longitude>-418568</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-49901</latitude>
+			<longitude>-434568</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-204734</latitude>
+			<longitude>-561234</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo -- (State: Para)">
+			<state>Para</state>
+			<latitude>-8568</latitude>
+			<longitude>-468568</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>8130</latitude>
+			<longitude>-616509</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-213734</latitude>
+			<longitude>-470401</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-228962</latitude>
+			<longitude>-435520</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Sergipe)">
+			<state>Sergipe</state>
+			<latitude>-105568</latitude>
+			<longitude>-371901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-78401</latitude>
+			<longitude>-353901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-125068</latitude>
+			<longitude>-396401</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-155234</latitude>
+			<longitude>-414901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-205401</latitude>
+			<longitude>-404568</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-76568</latitude>
+			<longitude>-417734</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Alagoas)">
+			<state>Alagoas</state>
+			<latitude>-102234</latitude>
+			<longitude>-364901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-239568</latitude>
+			<longitude>-463401</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-87401</latitude>
+			<longitude>-592568</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-96568</latitude>
+			<longitude>-462901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-69568</latitude>
+			<longitude>-369734</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-161568</latitude>
+			<longitude>-562568</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-49568</latitude>
+			<longitude>-392901</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Campo Grande -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-204401</latitude>
+			<longitude>-546068</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Carambei -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-249234</latitude>
+			<longitude>-500734</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Caxias do Sul -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-291568</latitude>
+			<longitude>-511734</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cepa -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-159734</latitude>
+			<longitude>-391068</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cepa Forte -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-115568</latitude>
+			<longitude>-376901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Chui -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-337234</latitude>
+			<longitude>-533734</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chuy -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-336734</latitude>
+			<longitude>-534401</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Claretiana -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-140234</latitude>
+			<longitude>-466068</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Claudio -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-204234</latitude>
+			<longitude>-447568</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clementina -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-215234</latitude>
+			<longitude>-504401</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Clementino Cunha -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-200401</latitude>
+			<longitude>-466901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corumba -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-232332</latitude>
+			<longitude>-465534</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corumba -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-159068</latitude>
+			<longitude>-487901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corumba -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-190068</latitude>
+			<longitude>-576401</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corumbaiba -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-181401</latitude>
+			<longitude>-485568</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corumbalina -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-173068</latitude>
+			<longitude>-484901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corumbatahy -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-222234</latitude>
+			<longitude>-476234</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Corumbazul -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-182401</latitude>
+			<longitude>-488568</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Crateus -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-51901</latitude>
+			<longitude>-406901</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cruz Alta -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-286401</latitude>
+			<longitude>-535901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuiaba -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-25234</latitude>
+			<longitude>-663734</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuiaba -- (State: Sergipe)">
+			<state>Sergipe</state>
+			<latitude>-96901</latitude>
+			<longitude>-378068</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuiaba -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-222901</latitude>
+			<longitude>-520901</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuiaba -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-155734</latitude>
+			<longitude>-560734</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Cuiaba -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-184068</latitude>
+			<longitude>-438068</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Curitiba -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-254068</latitude>
+			<longitude>-492401</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Djalma Coutinho -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-200233</latitude>
+			<longitude>-404400</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Djalma Dutra -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-114233</latitude>
+			<longitude>-405900</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Djaru Teo -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-115067</latitude>
+			<longitude>-613567</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dois Vizinhos -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-257733</latitude>
+			<longitude>-530733</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dourados -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-227233</latitude>
+			<longitude>-506067</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dourados -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-198900</latitude>
+			<longitude>-486900</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dourados -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-298900</latitude>
+			<longitude>-520900</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dourados -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-40733</latitude>
+			<longitude>-387233</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dourados -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-222067</latitude>
+			<longitude>-547900</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Esteio -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-298399</latitude>
+			<longitude>-511566</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Farroupilha -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-292231</latitude>
+			<longitude>-513398</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ferraz de Vasconcelos -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-235231</latitude>
+			<longitude>-463565</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Florianopolis -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-275731</latitude>
+			<longitude>-485565</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Florianopolis -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-3398</latitude>
+			<longitude>-638731</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Florianopolis -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-76898</latitude>
+			<longitude>-726398</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-37065</latitude>
+			<longitude>-384898</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-274731</latitude>
+			<longitude>-533898</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>5552</latitude>
+			<longitude>-618234</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-71398</latitude>
+			<longitude>-477398</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-97731</latitude>
+			<longitude>-654898</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-105398</latitude>
+			<longitude>-385898</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-33065</latitude>
+			<longitude>-414065</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Amapa)">
+			<state>Amapa</state>
+			<latitude>-3565</latitude>
+			<longitude>-524398</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-55231</latitude>
+			<longitude>-418898</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-203565</latitude>
+			<longitude>-413898</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-160065</latitude>
+			<longitude>-412565</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-66565</latitude>
+			<longitude>-429065</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-89065</latitude>
+			<longitude>-708231</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-77398</latitude>
+			<longitude>-678398</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-198231</latitude>
+			<longitude>-561231</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Para)">
+			<state>Para</state>
+			<latitude>-55231</latitude>
+			<longitude>-482898</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-254954</latitude>
+			<longitude>-483156</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza de A Nilo Coutinho -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-56898</latitude>
+			<longitude>-407898</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fortaleza de Sao Joaquim -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>30269</latitude>
+			<longitude>-604565</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza do Ituxi -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-74731</latitude>
+			<longitude>-663231</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza dos Nogueiras -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-68898</latitude>
+			<longitude>-461398</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Fortaleza dos Valos -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-287898</latitude>
+			<longitude>-532065</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Foz do Iguacu -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-255398</latitude>
+			<longitude>-545731</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Garca -- (State: Amapa)">
+			<state>Amapa</state>
+			<latitude>18770</latitude>
+			<longitude>-507897</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Garca -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-52730</latitude>
+			<longitude>-406730</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Garca -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-222230</latitude>
+			<longitude>-496064</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Garca -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-201730</latitude>
+			<longitude>-456564</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Giboia -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-92397</latitude>
+			<longitude>-415730</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Giguy -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-47564</latitude>
+			<longitude>-377564</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gijoca dos Bento -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-28397</latitude>
+			<longitude>-409397</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gijoca dos Lula -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-28230</latitude>
+			<longitude>-404230</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gil -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-297897</latitude>
+			<longitude>-516230</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gil -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-55730</latitude>
+			<longitude>-426064</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gilbues -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-98286</latitude>
+			<longitude>-453436</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ginete -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-160730</latitude>
+			<longitude>-414564</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ginga -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-36614</latitude>
+			<longitude>-422016</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ginimbu -- (State: Alagoas)">
+			<state>Alagoas</state>
+			<latitude>-99064</latitude>
+			<longitude>-361230</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Giovani -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-190564</latitude>
+			<longitude>-480064</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gira -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-127730</latitude>
+			<longitude>-411897</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gira Mundo -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-51397</latitude>
+			<longitude>-424397</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Giramundo -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-30030</latitude>
+			<longitude>-428508</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Girao -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-152230</latitude>
+			<longitude>-576897</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Girao -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-94230</latitude>
+			<longitude>-646730</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Girao de Pedra -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-136730</latitude>
+			<longitude>-402730</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Girau -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-57897</latitude>
+			<longitude>-394064</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Girau -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-102064</latitude>
+			<longitude>-434564</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gironda -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-214730</latitude>
+			<longitude>-477397</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Giru -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-168230</latitude>
+			<longitude>-410564</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gissaras -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-157730</latitude>
+			<longitude>-412064</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glaucilandia -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-168397</latitude>
+			<longitude>-437064</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glaura -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-202897</latitude>
+			<longitude>-436230</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gleba Brauna -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-146564</latitude>
+			<longitude>-569397</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gleba Capem -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-134897</latitude>
+			<longitude>-550897</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glicerio -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-224730</latitude>
+			<longitude>-442064</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gloria -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-221230</latitude>
+			<longitude>-438897</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gloria -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-91730</latitude>
+			<longitude>-382897</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gloria -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-223397</latitude>
+			<longitude>-542064</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gloria -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-210064</latitude>
+			<longitude>-442730</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gloria -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-203564</latitude>
+			<longitude>-405064</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gloria -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-97294</latitude>
+			<longitude>-676069</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gloria de Goyta -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-80064</latitude>
+			<longitude>-352730</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glorinha -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-298564</latitude>
+			<longitude>-507897</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glucinio -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-182064</latitude>
+			<longitude>-423397</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Glyceria -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-213897</latitude>
+			<longitude>-501730</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Goiania -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-166564</latitude>
+			<longitude>-492564</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guarapuava -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-253730</latitude>
+			<longitude>-514397</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guarulhos -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-217230</latitude>
+			<longitude>-413230</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Guarulhos -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-234564</latitude>
+			<longitude>-465230</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hebron -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-62729</latitude>
+			<longitude>-395896</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Henrique Dias -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-82729</latitude>
+			<longitude>-371729</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Hyutanaha -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-76563</latitude>
+			<longitude>-657563</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Imbituba -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-282228</latitude>
+			<longitude>-486562</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Itapeva -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-232214</latitude>
+			<longitude>-477306</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jaboticabal -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-212561</latitude>
+			<longitude>-483061</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jacobina -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-111727</latitude>
+			<longitude>-405061</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jatai -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-178727</latitude>
+			<longitude>-517061</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jatai -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-133811</latitude>
+			<longitude>-598519</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jatai -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-188727</latitude>
+			<longitude>-441561</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jatai -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-234894</latitude>
+			<longitude>-489727</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jatai -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-232061</latitude>
+			<longitude>-509561</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joao Pessoa -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-71061</latitude>
+			<longitude>-348561</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Joinville -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-262894</latitude>
+			<longitude>-488227</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Juiz de Fora -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-217411</latitude>
+			<longitude>-433422</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jundiai -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-231727</latitude>
+			<longitude>-468561</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jundiai -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-58727</latitude>
+			<longitude>-353561</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Jundiai -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-234394</latitude>
+			<longitude>-502727</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalore -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-237726</latitude>
+			<longitude>-516393</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kalupna -- (State: Amapa)">
+			<state>Amapa</state>
+			<latitude>34940</latitude>
+			<longitude>-515893</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kanguelarou Itou">
+			<state></state>
+			<latitude>28440</latitude>
+			<longitude>-524393</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kapiting -- (State: Para)">
+			<state>Para</state>
+			<latitude>21940</latitude>
+			<longitude>-553060</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Karona">
+			<state></state>
+			<latitude>41607</latitude>
+			<longitude>-596893</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kata Fall">
+			<state></state>
+			<latitude>42940</latitude>
+			<longitude>-597060</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kelru -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-32393</latitude>
+			<longitude>-443226</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Keteroco -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-144393</latitude>
+			<longitude>-581060</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiepe Island -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-138393</latitude>
+			<longitude>-389560</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilometer 11 -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-207893</latitude>
+			<longitude>-510893</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilometer 194 -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-96393</latitude>
+			<longitude>-651726</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilometer 48 -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-309726</latitude>
+			<longitude>-545393</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilometer 8 -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-214726</latitude>
+			<longitude>-476226</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kilometer Sete -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-220226</latitude>
+			<longitude>-504560</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kiriri Bank -- (State: Para)">
+			<state>Para</state>
+			<latitude>-5226</latitude>
+			<longitude>-482393</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kraemer -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-292893</latitude>
+			<longitude>-553393</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kroeff -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-297226</latitude>
+			<longitude>-511226</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kumparuyamon -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>43274</latitude>
+			<longitude>-601226</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Kurutuik Falls">
+			<state></state>
+			<latitude>47274</latitude>
+			<longitude>-600226</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lages -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-140392</latitude>
+			<longitude>-481225</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lages -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-165559</latitude>
+			<longitude>-459225</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lages -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-104059</latitude>
+			<longitude>-653725</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lages -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-109225</latitude>
+			<longitude>-423392</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lages -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-56881</latitude>
+			<longitude>-362345</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lages -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-277892</latitude>
+			<longitude>-503059</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Lages -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-60892</latitude>
+			<longitude>-394392</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Laguna -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-284725</latitude>
+			<longitude>-487725</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Londrina -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-232892</latitude>
+			<longitude>-511392</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manaus -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-14891</latitude>
+			<longitude>-461724</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Manaus -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-31024</latitude>
+			<longitude>-600144</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Maringa -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-234058</latitude>
+			<longitude>-519058</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Mogi das Cruzes -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-235058</latitude>
+			<longitude>-461724</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Montenegro -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-296891</latitude>
+			<longitude>-514558</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Montenegro -- (State: Amapa)">
+			<state>Amapa</state>
+			<latitude>20609</latitude>
+			<longitude>-507891</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Natal -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-57723</latitude>
+			<longitude>-352057</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niteroi -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-299390</latitude>
+			<longitude>-511557</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niteroi -- (State: Sergipe)">
+			<state>Sergipe</state>
+			<latitude>-97557</latitude>
+			<longitude>-374223</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niteroi -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-215890</latitude>
+			<longitude>-540890</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niteroi -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-75557</latitude>
+			<longitude>-396890</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niteroi -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-228734</latitude>
+			<longitude>-430834</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Niteroi -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-66890</latitude>
+			<longitude>-590890</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oficina -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-34947</latitude>
+			<longitude>-422239</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oficinas -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-52056</latitude>
+			<longitude>-367056</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Oficinas -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-176222</latitude>
+			<longitude>-417056</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osasco -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-235556</latitude>
+			<longitude>-467722</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Palmas -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-102116</latitude>
+			<longitude>-482666</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paranagua -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-34388</latitude>
+			<longitude>-660388</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paranagua -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-255055</latitude>
+			<longitude>-484888</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Paranaguacu -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-229388</latitude>
+			<longitude>-534055</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Passo Fundo -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-282555</latitude>
+			<longitude>-523888</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pelotas -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-317555</latitude>
+			<longitude>-523221</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pernambuco -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-70055</latitude>
+			<longitude>-715221</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pernambuco -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-219255</latitude>
+			<longitude>-434749</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pernambuco -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-209555</latitude>
+			<longitude>-408555</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pernambuco -- (State: Para)">
+			<state>Para</state>
+			<latitude>-14555</latitude>
+			<longitude>-480221</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pernambuco -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-126721</latitude>
+			<longitude>-432055</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pernambuco">
+			<state></state>
+			<latitude>-87721</latitude>
+			<longitude>-376888</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Piracicaba -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-227055</latitude>
+			<longitude>-476221</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Poco Fundo -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-217888</latitude>
+			<longitude>-459555</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Grossa -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-237555</latitude>
+			<longitude>-452221</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Grossa -- (State: Amapa)">
+			<state>Amapa</state>
+			<latitude>12112</latitude>
+			<longitude>-499055</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Grossa -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-46055</latitude>
+			<longitude>-374888</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ponta Grossa -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-270794</latitude>
+			<longitude>-485841</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Grossa -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-301721</latitude>
+			<longitude>-512388</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Grossa -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-227555</latitude>
+			<longitude>-418721</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Grossa -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-125388</latitude>
+			<longitude>-379555</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Grossa -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-14055</latitude>
+			<longitude>-449888</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ponta Grossa -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-250721</latitude>
+			<longitude>-501388</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-58919</latitude>
+			<longitude>-643844</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-207721</latitude>
+			<longitude>-553555</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-84055</latitude>
+			<longitude>-707388</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-131888</latitude>
+			<longitude>-437055</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-147721</latitude>
+			<longitude>-560888</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>-8752</latitude>
+			<longitude>-619141</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Para)">
+			<state>Para</state>
+			<latitude>-7555</latitude>
+			<longitude>-504221</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-187055</latitude>
+			<longitude>-417888</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-300221</latitude>
+			<longitude>-511888</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-51388</latitude>
+			<longitude>-434721</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Alegre -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-69388</latitude>
+			<longitude>-441888</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Seguro -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-164221</latitude>
+			<longitude>-390721</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Porto Velho -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-87555</latitude>
+			<longitude>-638888</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-75555</latitude>
+			<longitude>-484055</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-79555</latitude>
+			<longitude>-465721</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Alagoas)">
+			<state>Alagoas</state>
+			<latitude>-94388</latitude>
+			<longitude>-361721</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-194221</latitude>
+			<longitude>-558055</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-156721</latitude>
+			<longitude>-543555</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-43888</latitude>
+			<longitude>-449055</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-70238</latitude>
+			<longitude>-715707</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-219721</latitude>
+			<longitude>-499721</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-83388</latitude>
+			<longitude>-353555</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-76055</latitude>
+			<longitude>-392388</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Primavera -- (State: Para)">
+			<state>Para</state>
+			<latitude>-9221</latitude>
+			<longitude>-470888</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-243388</latitude>
+			<longitude>-529221</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-56832</latitude>
+			<longitude>-372319</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-96555</latitude>
+			<longitude>-623388</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Primavera -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-151221</latitude>
+			<longitude>-402888</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Promissao -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-215221</latitude>
+			<longitude>-498555</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-80386</latitude>
+			<longitude>-348886</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife -- (State: Para)">
+			<state>Para</state>
+			<latitude>-11553</latitude>
+			<longitude>-463219</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-68678</latitude>
+			<longitude>-710517</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-115886</latitude>
+			<longitude>-418886</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife Acaripe -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-161719</latitude>
+			<longitude>-389053</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife Calcoes de Fora -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-172886</latitude>
+			<longitude>-392053</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife California">
+			<state></state>
+			<latitude>-179886</latitude>
+			<longitude>-389886</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife Coroa Vermelha -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-179553</latitude>
+			<longitude>-392053</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife da Sequaratiba -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-162053</latitude>
+			<longitude>-389386</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife da Velha -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-36858</latitude>
+			<longitude>-385178</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recife da Vicosa -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-179719</latitude>
+			<longitude>-392386</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife das Preguicas -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-24886</latitude>
+			<longitude>-427553</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife de Guaratibas -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-174053</latitude>
+			<longitude>-391386</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife de Natal -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-57553</latitude>
+			<longitude>-351819</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife do Campo Bom -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-287219</latitude>
+			<longitude>-490053</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife do Meireless -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-36997</latitude>
+			<longitude>-379886</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recife do Prado -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-173553</latitude>
+			<longitude>-391553</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife do Silva -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-4886</latitude>
+			<longitude>-443053</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife do Tubarao -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-48219</latitude>
+			<longitude>-364386</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife Grande -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-35803</latitude>
+			<longitude>-385178</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recife Itacepanema -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-162386</latitude>
+			<longitude>-389553</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife Joao Dias -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-47386</latitude>
+			<longitude>-369719</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife Manoel Luis -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-8553</latitude>
+			<longitude>-442386</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife Olinda -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-48719</latitude>
+			<longitude>-363053</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recife Sophia -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-165219</latitude>
+			<longitude>-390719</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes Aranguera -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-176553</latitude>
+			<longitude>-390053</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes da Areia -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-175886</latitude>
+			<longitude>-390386</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes da Coroa Alta -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-162053</latitude>
+			<longitude>-389553</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes da Pedra Grande -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-177386</latitude>
+			<longitude>-389553</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes das Tainheiras -- (State: Para)">
+			<state>Para</state>
+			<latitude>-11053</latitude>
+			<longitude>-484553</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes de Fora -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-164219</latitude>
+			<longitude>-389219</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes de Santana -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-22553</latitude>
+			<longitude>-435219</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes de Sioba -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-51219</latitude>
+			<longitude>-353386</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes do Fogo -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-52219</latitude>
+			<longitude>-352553</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes Itacolomis -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-168719</latitude>
+			<longitude>-390719</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes Itaipins -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-147719</latitude>
+			<longitude>-390053</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes Pitiassu -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-167553</latitude>
+			<longitude>-390886</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes Rodeador -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-37886</latitude>
+			<longitude>-382386</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Recifes Torres -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-293053</latitude>
+			<longitude>-496719</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifes Urca do Minhoto -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-48219</latitude>
+			<longitude>-362386</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Recifese Bancos Lavadeira -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-49053</latitude>
+			<longitude>-359886</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rio de Janeiro -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-118386</latitude>
+			<longitude>-451386</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rio de Janeiro -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-180553</latitude>
+			<longitude>-450053</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rio de Janeiro">
+			<state></state>
+			<latitude>-228886</latitude>
+			<longitude>-432219</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rio Grande -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-320219</latitude>
+			<longitude>-520719</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rondonopolis -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-164553</latitude>
+			<longitude>-546219</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Saboo -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-239218</latitude>
+			<longitude>-463385</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salvador -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-129718</latitude>
+			<longitude>-385052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salvador -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-33585</latitude>
+			<longitude>-434138</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salvador -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-65385</latitude>
+			<longitude>-396718</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Salvador -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-264052</latitude>
+			<longitude>-488218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salvador -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-162552</latitude>
+			<longitude>-405552</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salvador -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-101535</latitude>
+			<longitude>-488624</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Salvador -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-294385</latitude>
+			<longitude>-515052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sant Anna do Livramento -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-308718</latitude>
+			<longitude>-555052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santa Branca -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-233885</latitude>
+			<longitude>-458718</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santa Cruz do Sul -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-297052</latitude>
+			<longitude>-524218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santa Maria do Bocca do Monte -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-296718</latitude>
+			<longitude>-537885</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santo Amaro -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-236385</latitude>
+			<longitude>-466885</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santo Andre -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-236552</latitude>
+			<longitude>-465052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santos -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-70218</latitude>
+			<longitude>-392718</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Santos -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-163385</latitude>
+			<longitude>-415552</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santos -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-239385</latitude>
+			<longitude>-463218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santos -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-326385</latitude>
+			<longitude>-525885</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Santos -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-70552</latitude>
+			<longitude>-431218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Bernardo do Campo -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-236885</latitude>
+			<longitude>-465385</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Borja -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-286385</latitude>
+			<longitude>-559885</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Gabriel -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-303218</latitude>
+			<longitude>-543052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Jose do Rio Preto -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-207885</latitude>
+			<longitude>-493718</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Jose dos Campos -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-231718</latitude>
+			<longitude>-458718</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Jose dos Campos -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-221552</latitude>
+			<longitude>-450885</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Jose dos Pinhais -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-255052</latitude>
+			<longitude>-492052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Leopoldo -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-75052</latitude>
+			<longitude>-725385</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Leopoldo -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-297552</latitude>
+			<longitude>-511385</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-254718</latitude>
+			<longitude>-497218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-283885</latitude>
+			<longitude>-549552</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-109052</latitude>
+			<longitude>-454385</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-25052</latitude>
+			<longitude>-442552</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Para)">
+			<state>Para</state>
+			<latitude>-11385</latitude>
+			<longitude>-475052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-196885</latitude>
+			<longitude>-552718</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-169218</latitude>
+			<longitude>-570885</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-74385</latitude>
+			<longitude>-718885</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-89718</latitude>
+			<longitude>-440552</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-102885</latitude>
+			<longitude>-671218</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-48218</latitude>
+			<longitude>-388218</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-281718</latitude>
+			<longitude>-489385</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Luiz -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-217052</latitude>
+			<longitude>-425718</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Miguel Paulista -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-234885</latitude>
+			<longitude>-464218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo">
+			<state></state>
+			<latitude>-235218</latitude>
+			<longitude>-466052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-276218</latitude>
+			<longitude>-509385</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-79385</latitude>
+			<longitude>-384052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>38115</latitude>
+			<longitude>-613885</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-59885</latitude>
+			<longitude>-361885</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-57052</latitude>
+			<longitude>-481552</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Alagoas)">
+			<state>Alagoas</state>
+			<latitude>-94385</latitude>
+			<longitude>-360218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-279385</latitude>
+			<longitude>-521052</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-42385</latitude>
+			<longitude>-572385</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-55552</latitude>
+			<longitude>-420552</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-132885</latitude>
+			<longitude>-398718</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-76052</latitude>
+			<longitude>-370718</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-210218</latitude>
+			<longitude>-410718</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-47718</latitude>
+			<longitude>-387552</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Sergipe)">
+			<state>Sergipe</state>
+			<latitude>-105385</latitude>
+			<longitude>-375218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-24552</latitude>
+			<longitude>-451885</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo de Olivenca -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-34385</latitude>
+			<longitude>-687885</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo do Potenji -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-59052</latitude>
+			<longitude>-357385</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo dos Pinhais -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-278552</latitude>
+			<longitude>-490718</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo I -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-262143</latitude>
+			<longitude>-536296</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sao Paulo II -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-261896</latitude>
+			<longitude>-536310</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Sete Lagoas -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-194385</latitude>
+			<longitude>-442218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Suzano -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-235218</latitude>
+			<longitude>-463218</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Taubate -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-230217</latitude>
+			<longitude>-455384</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tijuca -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-222051</latitude>
+			<longitude>-474717</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tijuca -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-127051</latitude>
+			<longitude>-415384</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tijuca -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-229217</latitude>
+			<longitude>-432217</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tijuca -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-57051</latitude>
+			<longitude>-356717</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>10616</latitude>
+			<longitude>-600051</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-220884</latitude>
+			<longitude>-415884</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-1884</latitude>
+			<longitude>-668384</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-105217</latitude>
+			<longitude>-383717</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-178884</latitude>
+			<longitude>-422217</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-166551</latitude>
+			<longitude>-494884</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Para)">
+			<state>Para</state>
+			<latitude>-21551</latitude>
+			<longitude>-484717</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-79551</latitude>
+			<longitude>-455384</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-77884</latitude>
+			<longitude>-402717</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-205134</latitude>
+			<longitude>-293134</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-92570</latitude>
+			<longitude>-466887</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Trindade -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-30551</latitude>
+			<longitude>-399551</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trindade -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-274384</latitude>
+			<longitude>-529051</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Tubarao -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-284884</latitude>
+			<longitude>-490051</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uberlandia -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-189050</latitude>
+			<longitude>-482883</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uomatoti -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-146550</latitude>
+			<longitude>-583216</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uruguaiana -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-297383</latitude>
+			<longitude>-570716</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Uruguaiana -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-161716</latitude>
+			<longitude>-392883</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Vicosa -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-207382</latitude>
+			<longitude>-428715</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria -- (State: Alagoas)">
+			<state>Alagoas</state>
+			<latitude>-93215</latitude>
+			<longitude>-364715</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-227715</latitude>
+			<longitude>-483882</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-62882</latitude>
+			<longitude>-381549</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-81049</latitude>
+			<longitude>-352882</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-90882</latitude>
+			<longitude>-459382</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria -- (State: Espirito Santo)">
+			<state>Espirito Santo</state>
+			<latitude>-203049</latitude>
+			<longitude>-403382</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-212215</latitude>
+			<longitude>-444049</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Victoria -- (State: Para)">
+			<state>Para</state>
+			<latitude>-28882</latitude>
+			<longitude>-520049</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wagner -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-122048</latitude>
+			<longitude>-411714</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wagner -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-265214</latitude>
+			<longitude>-498214</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wanderlandia -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-68239</latitude>
+			<longitude>-477873</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Waraminduik">
+			<state></state>
+			<latitude>44619</latitude>
+			<longitude>-598048</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warnow -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-269548</latitude>
+			<longitude>-492714</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Washington Luiz -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-233881</latitude>
+			<longitude>-499714</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wassari Mountains">
+			<state></state>
+			<latitude>16786</latitude>
+			<longitude>-594881</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weik -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-305381</latitude>
+			<longitude>-543714</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wenceslau Braz -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-238381</latitude>
+			<longitude>-497881</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Werneck -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-222089</latitude>
+			<longitude>-433025</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Werneck -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-80714</latitude>
+			<longitude>-349214</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Branch -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-27873</latitude>
+			<longitude>-419845</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="West Central">
+			<state></state>
+			<latitude>-149881</latitude>
+			<longitude>-519881</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="wFazenda Maia -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-219881</latitude>
+			<longitude>-520548</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Witmarsum -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-269214</latitude>
+			<longitude>-497881</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xambioazinho -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-64205</latitude>
+			<longitude>-483699</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xambre -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-236880</latitude>
+			<longitude>-535547</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xanxere -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-268713</latitude>
+			<longitude>-523713</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xapeco -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-270880</latitude>
+			<longitude>-525880</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xapetuba -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-188547</latitude>
+			<longitude>-485547</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xapuri -- (State: Acre)">
+			<state>Acre</state>
+			<latitude>-106380</latitude>
+			<longitude>-685047</longitude>
+			<timezone>-500</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xapuri -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-152380</latitude>
+			<longitude>-394047</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xarqueada -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-94772</latitude>
+			<longitude>-483505</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xarqueada -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-177047</latitude>
+			<longitude>-406547</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xarqueda -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-299547</latitude>
+			<longitude>-516213</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xatelodo -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-203213</latitude>
+			<longitude>-569213</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xavantina -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-212380</latitude>
+			<longitude>-527880</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xavantina -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-146547</latitude>
+			<longitude>-523380</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xavantina -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-270713</latitude>
+			<longitude>-523213</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xavier -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-51380</latitude>
+			<longitude>-408047</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xaxim -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-247213</latitude>
+			<longitude>-538047</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xerente -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-95172</latitude>
+			<longitude>-483077</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xexeu -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-88047</latitude>
+			<longitude>-356047</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xibaua -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-48672</latitude>
+			<longitude>-668861</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xilili -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-84047</latitude>
+			<longitude>-372047</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ximinximim -- (State: Amapa)">
+			<state>Amapa</state>
+			<latitude>15453</latitude>
+			<longitude>-539880</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xingo -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-95547</latitude>
+			<longitude>-380547</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xingo -- (State: Alagoas)">
+			<state>Alagoas</state>
+			<latitude>-93880</latitude>
+			<longitude>-379547</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xingu -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-79213</latitude>
+			<longitude>-692047</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xingu -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-96213</latitude>
+			<longitude>-454213</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xinxo -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-77547</latitude>
+			<longitude>-368547</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xique-Xique -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-77380</latitude>
+			<longitude>-417213</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xiririca -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-245019</latitude>
+			<longitude>-481216</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xiru -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-211713</latitude>
+			<longitude>-564213</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xixa -- (State: Goias)">
+			<state>Goias</state>
+			<latitude>-155713</latitude>
+			<longitude>-499713</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xixa -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-100547</latitude>
+			<longitude>-431213</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xixas -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-38138</latitude>
+			<longitude>-427972</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xixebal -- (State: Tocantins)">
+			<state>Tocantins</state>
+			<latitude>-72380</latitude>
+			<longitude>-482047</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xucuru -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-82380</latitude>
+			<longitude>-365880</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Xui -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-337213</latitude>
+			<longitude>-533547</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xupe -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-45213</latitude>
+			<longitude>-453380</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaco">
+			<state></state>
+			<latitude>-90379</latitude>
+			<longitude>-685546</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yacy -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-208712</latitude>
+			<longitude>-495379</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaguaron Chico">
+			<state></state>
+			<latitude>-319379</latitude>
+			<longitude>-539379</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yara -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>34954</latitude>
+			<longitude>-600712</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaramonta -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>46121</latitude>
+			<longitude>-603879</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yata -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-105712</latitude>
+			<longitude>-653712</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaua Parana -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>23788</latitude>
+			<longitude>-608379</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yauacana -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>5288</latitude>
+			<longitude>-673712</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yauarete -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>6454</latitude>
+			<longitude>-691879</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yaurare -- (State: Para)">
+			<state>Para</state>
+			<latitude>-78712</latitude>
+			<longitude>-571712</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yepe -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-226546</latitude>
+			<longitude>-510712</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yitapuga -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>3121</latitude>
+			<longitude>-686379</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypiranga -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-250046</latitude>
+			<longitude>-505712</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypiranga -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-68046</latitude>
+			<longitude>-417379</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypiranga -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-187379</latitude>
+			<longitude>-443546</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypiranga -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-100046</latitude>
+			<longitude>-628546</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ypiranga -- (State: Amazonas)">
+			<state>Amazonas</state>
+			<latitude>-76546</latitude>
+			<longitude>-674046</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yporanga -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-245712</latitude>
+			<longitude>-485712</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yucatan -- (State: Para)">
+			<state>Para</state>
+			<latitude>-64546</latitude>
+			<longitude>-540379</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabele -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-71711</latitude>
+			<longitude>-395711</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zabele -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-124878</latitude>
+			<longitude>-393711</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zabumba -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-41378</latitude>
+			<longitude>-381545</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zacarias -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-210378</latitude>
+			<longitude>-500545</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zacarias -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-229378</latitude>
+			<longitude>-428211</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zadilinos -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-53789</latitude>
+			<longitude>-369836</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zamaicare -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-146211</latitude>
+			<longitude>-585378</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zamba -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-71211</latitude>
+			<longitude>-381545</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zandavali -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-270545</latitude>
+			<longitude>-527378</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zanette -- (State: Mato Grosso do Sul)">
+			<state>Mato Grosso do Sul</state>
+			<latitude>-193045</latitude>
+			<longitude>-575545</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zarzuela -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-135378</latitude>
+			<longitude>-605878</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ze Araujo -- (State: Rio Grande do Norte)">
+			<state>Rio Grande do Norte</state>
+			<latitude>-55878</latitude>
+			<longitude>-359711</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ze Brito -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-130211</latitude>
+			<longitude>-396711</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ze Ferreira -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-61545</latitude>
+			<longitude>-426378</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ze Gomes -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-36545</latitude>
+			<longitude>-427786</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ze Gomes -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-79545</latitude>
+			<longitude>-370878</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ze Rodrigues -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-38170</latitude>
+			<longitude>-427839</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebele -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-80545</latitude>
+			<longitude>-370878</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebele -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-120045</latitude>
+			<longitude>-407378</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zebelizinho -- (State: Paraiba)">
+			<state>Paraiba</state>
+			<latitude>-80545</latitude>
+			<longitude>-371211</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeca -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-160711</latitude>
+			<longitude>-394711</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeca Botelho -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-165211</latitude>
+			<longitude>-404045</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zedeque -- (State: Roraima)">
+			<state>Roraima</state>
+			<latitude>7328</latitude>
+			<longitude>-616586</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zelandia -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-195211</latitude>
+			<longitude>-474045</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zelandia -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-85045</latitude>
+			<longitude>-457545</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zelia -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-103878</latitude>
+			<longitude>-392045</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zelinda -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-222211</latitude>
+			<longitude>-442545</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zeringota -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-209711</latitude>
+			<longitude>-447878</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zezito -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-72711</latitude>
+			<longitude>-400545</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zibingatzako Mountain">
+			<state></state>
+			<latitude>14955</latitude>
+			<longitude>-585045</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zimbro -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-80545</latitude>
+			<longitude>-422711</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zimbros -- (State: Santa Catarina)">
+			<state>Santa Catarina</state>
+			<latitude>-271675</latitude>
+			<longitude>-485217</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zingamoche -- (State: Rondonia)">
+			<state>Rondonia</state>
+			<latitude>-87711</latitude>
+			<longitude>-639211</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zita Bernardes -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-217211</latitude>
+			<longitude>-465211</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zito Soares -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-201711</latitude>
+			<longitude>-427545</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zogaias -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-201211</latitude>
+			<longitude>-469378</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoilo -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-219864</latitude>
+			<longitude>-431864</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zolauruina-se -- (State: Mato Grosso)">
+			<state>Mato Grosso</state>
+			<latitude>-139378</latitude>
+			<longitude>-586878</longitude>
+			<timezone>-400</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zombaria -- (State: Pernambuco)">
+			<state>Pernambuco</state>
+			<latitude>-82378</latitude>
+			<longitude>-366378</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zona -- (State: Rio Grande do Sul)">
+			<state>Rio Grande do Sul</state>
+			<latitude>-287211</latitude>
+			<longitude>-555878</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zona do Triangulo -- (State: Minas Gerais)">
+			<state>Minas Gerais</state>
+			<latitude>-194878</latitude>
+			<longitude>-489878</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zoro -- (State: Bahia)">
+			<state>Bahia</state>
+			<latitude>-136878</latitude>
+			<longitude>-412711</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zororo -- (State: Parana)">
+			<state>Parana</state>
+			<latitude>-242545</latitude>
+			<longitude>-542545</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zorra -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-58545</latitude>
+			<longitude>-395378</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zuim -- (State: Sao Paulo)">
+			<state>Sao Paulo</state>
+			<latitude>-228314</latitude>
+			<longitude>-477689</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zumbi -- (State: Maranhao)">
+			<state>Maranhao</state>
+			<latitude>-52211</latitude>
+			<longitude>-431878</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zumbi -- (State: Rio de Janeiro)">
+			<state>Rio de Janeiro</state>
+			<latitude>-228045</latitude>
+			<longitude>-431711</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zumbi -- (State: Ceara)">
+			<state>Ceara</state>
+			<latitude>-63711</latitude>
+			<longitude>-401878</longitude>
+			<timezone>-300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zundao -- (State: Piaui)">
+			<state>Piaui</state>
+			<latitude>-51378</latitude>
+			<longitude>-419045</longitude>
+			<timezone>-300</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

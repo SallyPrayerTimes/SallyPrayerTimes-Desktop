@@ -1,0 +1,1041 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Costa Rica">
+		<city name="27 de Abril -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>102550</latitude>
+			<longitude>-857117</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="9 Millas -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>100057</latitude>
+			<longitude>-831443</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alajuela">
+			<state></state>
+			<latitude>100264</latitude>
+			<longitude>-842070</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cartago">
+			<state></state>
+			<latitude>98766</latitude>
+			<longitude>-839068</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Curacao -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>101266</latitude>
+			<longitude>-851568</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Delicias -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>102600</latitude>
+			<longitude>-842567</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dorotea -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>102600</latitude>
+			<longitude>-834400</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dos Brazos -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>85433</latitude>
+			<longitude>-833900</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>88769</latitude>
+			<longitude>-832731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila Aguacate -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>96602</latitude>
+			<longitude>-843398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila Costena -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>88102</latitude>
+			<longitude>-830898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila de Aguacate -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>100435</latitude>
+			<longitude>-844565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila de Bustamante -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>97269</latitude>
+			<longitude>-841231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila de Cedral -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>98602</latitude>
+			<longitude>-841398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila de Matama -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>96769</latitude>
+			<longitude>-833231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila Durika -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>94602</latitude>
+			<longitude>-832565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fila Negra -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>96602</latitude>
+			<longitude>-845565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filadelphia -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>104602</latitude>
+			<longitude>-855565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Filadelphia Sur -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>98769</latitude>
+			<longitude>-830065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finca Cote -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>105935</latitude>
+			<longitude>-849231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finca Delicias -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>106435</latitude>
+			<longitude>-854565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finca Los Pilares -- (State: Heredia)">
+			<state>Heredia</state>
+			<latitude>109269</latitude>
+			<longitude>-843065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finca Mata de Cana -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>106269</latitude>
+			<longitude>-854231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Finca Platanar -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>102269</latitude>
+			<longitude>-851565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flathead Island -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>55269</latitude>
+			<longitude>-870231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Flor -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>98769</latitude>
+			<longitude>-838065</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Florecilla -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>98602</latitude>
+			<longitude>-844231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Florencia -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>98935</latitude>
+			<longitude>-836731</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fourth Cliff -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>100935</latitude>
+			<longitude>-835565</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fraijanes -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>101602</latitude>
+			<longitude>-841898</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Francia -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>101435</latitude>
+			<longitude>-835398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fresca -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>98769</latitude>
+			<longitude>-851398</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fuente -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>99435</latitude>
+			<longitude>-840231</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Grecia -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>100770</latitude>
+			<longitude>-843064</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Heredia">
+			<state></state>
+			<latitude>100104</latitude>
+			<longitude>-841063</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabilla -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>98773</latitude>
+			<longitude>-852227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jerico -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>109273</latitude>
+			<longitude>-851394</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jirona -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>109106</latitude>
+			<longitude>-854227</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Josefina -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>104439</latitude>
+			<longitude>-842894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joya -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>98273</latitude>
+			<longitude>-840727</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Junquillo Abajo -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>98439</latitude>
+			<longitude>-842894</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kamuck -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>92940</latitude>
+			<longitude>-830226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katsi -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>95274</latitude>
+			<longitude>-829226</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Keith -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>99274</latitude>
+			<longitude>-840726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kilometro Veintinueve -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>87107</latitude>
+			<longitude>-831060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kodi -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>95940</latitude>
+			<longitude>-831560</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koroma -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>95440</latitude>
+			<longitude>-829726</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koschny -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>104440</latitude>
+			<longitude>-844060</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limon">
+			<state></state>
+			<latitude>100108</latitude>
+			<longitude>-830225</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limon -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>98775</latitude>
+			<longitude>-844225</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limon -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>103441</latitude>
+			<longitude>-855559</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limon Bay -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>99941</latitude>
+			<longitude>-830059</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limonal -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>98941</latitude>
+			<longitude>-845559</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limonal -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>102441</latitude>
+			<longitude>-850059</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limonal -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>97941</latitude>
+			<longitude>-841059</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Limoncito -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>88441</latitude>
+			<longitude>-830059</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacaome -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>101610</latitude>
+			<longitude>-853557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacascola -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>106443</latitude>
+			<longitude>-856723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nacascolo -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>106277</latitude>
+			<longitude>-856890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nambi -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>102277</latitude>
+			<longitude>-854890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nantalz -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>95277</latitude>
+			<longitude>-830223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Napoles -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>96110</latitude>
+			<longitude>-840557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranjal -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>99943</latitude>
+			<longitude>-855390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranjo -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>96110</latitude>
+			<longitude>-839390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Naranjos Agrios -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>105443</latitude>
+			<longitude>-849890</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navarro -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>98277</latitude>
+			<longitude>-838723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Negritas Islands -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>98277</latitude>
+			<longitude>-848390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Neily -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>86610</latitude>
+			<longitude>-829223</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nicoya -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>101610</latitude>
+			<longitude>-854390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nicoya Peninsula">
+			<state></state>
+			<latitude>100110</latitude>
+			<longitude>-854057</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nosara -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>99943</latitude>
+			<longitude>-856390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Noventa y Ocho -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>111777</latitude>
+			<longitude>-855390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nubes -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>103777</latitude>
+			<longitude>-848557</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuevo Colon -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>105277</latitude>
+			<longitude>-856723</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nuez Island -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>55777</latitude>
+			<longitude>-870390</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obandito -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>105111</latitude>
+			<longitude>-856556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Obispo -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>101611</latitude>
+			<longitude>-853889</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ochoa -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>101944</latitude>
+			<longitude>-851056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ochomogo -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>99111</latitude>
+			<longitude>-839389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ococa -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>98111</latitude>
+			<longitude>-841889</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ocotal -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>105611</latitude>
+			<longitude>-857222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojo de Agua -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>96278</latitude>
+			<longitude>-837889</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojo de Agua -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>101778</latitude>
+			<longitude>-853889</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojo de Agua -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>99611</latitude>
+			<longitude>-841889</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojo de Agua -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>86944</latitude>
+			<longitude>-834556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojochal -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>104611</latitude>
+			<longitude>-856056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ojochal -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>100778</latitude>
+			<longitude>-846889</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olivia -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>96278</latitude>
+			<longitude>-827722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olla Cero -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>89278</latitude>
+			<longitude>-834056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Olochal -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>90944</latitude>
+			<longitude>-836389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ora -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>98778</latitude>
+			<longitude>-854389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oratorio -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>99111</latitude>
+			<longitude>-838222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oricuajo -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>99611</latitude>
+			<longitude>-846056</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oriente -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>102944</latitude>
+			<longitude>-855222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oriente -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>98444</latitude>
+			<longitude>-836722</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orosi -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>98111</latitude>
+			<longitude>-838389</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Orotina -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>99111</latitude>
+			<longitude>-845222</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ortega -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>103778</latitude>
+			<longitude>-854556</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Jose -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>105115</latitude>
+			<longitude>-845218</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Jose">
+			<state></state>
+			<latitude>99448</latitude>
+			<longitude>-840718</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Jose -- (State: Heredia)">
+			<state>Heredia</state>
+			<latitude>100615</latitude>
+			<longitude>-841052</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Jose -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>103948</latitude>
+			<longitude>-849552</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Jose Cabekar -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>95282</latitude>
+			<longitude>-831385</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Jose Sabana -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>99448</latitude>
+			<longitude>-840885</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Josecito -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>106282</latitude>
+			<longitude>-847552</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Josecito -- (State: Heredia)">
+			<state>Heredia</state>
+			<latitude>100282</latitude>
+			<longitude>-840885</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="San Josecito -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>99115</latitude>
+			<longitude>-840885</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ujarras -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>98450</latitude>
+			<longitude>-838216</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ujarras -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>102284</latitude>
+			<longitude>-850216</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ujarraz -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>92617</latitude>
+			<longitude>-832716</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ujum Durika">
+			<state></state>
+			<latitude>93950</latitude>
+			<longitude>-833050</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Universidad -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>99450</latitude>
+			<longitude>-840383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Upala -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>109117</latitude>
+			<longitude>-850216</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urena -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>93950</latitude>
+			<longitude>-836883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uriche -- (State: Heredia)">
+			<state>Heredia</state>
+			<latitude>100117</latitude>
+			<longitude>-840883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Urinama -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>95617</latitude>
+			<longitude>-833550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uruca -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>99617</latitude>
+			<longitude>-840883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uruchica -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>95450</latitude>
+			<longitude>-830550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utasca -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>98450</latitude>
+			<longitude>-837716</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uvia Island -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>100117</latitude>
+			<longitude>-829883</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uvita -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>91617</latitude>
+			<longitude>-837383</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uvita -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>102450</latitude>
+			<longitude>-851550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uvita Point -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>91617</latitude>
+			<longitude>-837550</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venecia -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>103785</latitude>
+			<longitude>-842715</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Verbena Sur -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>99451</latitude>
+			<longitude>-836882</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vigia -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>101118</latitude>
+			<longitude>-852715</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villa Nueva -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>97785</latitude>
+			<longitude>-840882</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Villalta -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>97451</latitude>
+			<longitude>-851882</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Violin Point -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>88118</latitude>
+			<longitude>-836382</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wafer Bay -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>55619</latitude>
+			<longitude>-870548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wafer Islands -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>55286</latitude>
+			<longitude>-870881</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Waldeck -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>101119</latitude>
+			<longitude>-833714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Watsi -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>96286</latitude>
+			<longitude>-828548</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Westfalia -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>99452</latitude>
+			<longitude>-830048</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Williamsburg -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>101786</latitude>
+			<longitude>-835714</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wreck Point -- (State: Guanacaste)">
+			<state>Guanacaste</state>
+			<latitude>103119</latitude>
+			<longitude>-858381</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Xiroles -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>95953</latitude>
+			<longitude>-829547</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yas -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>98621</latitude>
+			<longitude>-838046</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yesta -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>97288</latitude>
+			<longitude>-830379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yolanda -- (State: Cartago)">
+			<state>Cartago</state>
+			<latitude>98621</latitude>
+			<longitude>-836712</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yurro La Arena -- (State: Heredia)">
+			<state>Heredia</state>
+			<latitude>100954</latitude>
+			<longitude>-841379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yurro Seco -- (State: Heredia)">
+			<state>Heredia</state>
+			<latitude>101121</latitude>
+			<longitude>-841379</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zagala Nueva -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>101622</latitude>
+			<longitude>-847545</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zagala Vieja -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>101122</latitude>
+			<longitude>-847711</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zancudo -- (State: Puntarenas)">
+			<state>Puntarenas</state>
+			<latitude>85455</latitude>
+			<longitude>-831211</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zapotal -- (State: San Jose)">
+			<state>San Jose</state>
+			<latitude>93289</latitude>
+			<longitude>-835045</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zaragoza -- (State: Alajuela)">
+			<state>Alajuela</state>
+			<latitude>100622</latitude>
+			<longitude>-844211</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zent -- (State: Limon)">
+			<state>Limon</state>
+			<latitude>100455</latitude>
+			<longitude>-832711</longitude>
+			<timezone>-600</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Croatia">
+		<city name="Acas">
+			<state></state>
+			<latitude>454891</latitude>
+			<longitude>188928</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Acquette -- (State: Primorsko-Goranska)">
+			<state>Primorsko-Goranska</state>
+			<latitude>450150</latitude>
+			<longitude>144066</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Aerodrom Osijek">
+			<state></state>
+			<latitude>454714</latitude>
+			<longitude>188230</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Agbabe">
+			<state></state>
+			<latitude>449019</latitude>
+			<longitude>154041</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Andrijas">
+			<state></state>
+			<latitude>432164</latitude>
+			<longitude>171625</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Atak">
+			<state></state>
+			<latitude>451564</latitude>
+			<longitude>188936</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Bogovolja">
+			<state></state>
+			<latitude>450870</latitude>
+			<longitude>157401</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dubrovnik -- (State: Dubrovacko-Neretvanska)">
+			<state>Dubrovacko-Neretvanska</state>
+			<latitude>426606</latitude>
+			<longitude>181014</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Dubrovnik II -- (State: Dubrovacko-Neretvanska)">
+			<state>Dubrovacko-Neretvanska</state>
+			<latitude>426697</latitude>
+			<longitude>180994</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Egeljac">
+			<state></state>
+			<latitude>443462</latitude>
+			<longitude>156607</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Eljenak">
+			<state></state>
+			<latitude>442901</latitude>
+			<longitude>161682</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ercegovci">
+			<state></state>
+			<latitude>436065</latitude>
+			<longitude>166473</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erdefilj">
+			<state></state>
+			<latitude>452393</latitude>
+			<longitude>178318</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erderoga Kosa">
+			<state></state>
+			<latitude>449276</latitude>
+			<longitude>153043</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erdod">
+			<state></state>
+			<latitude>455151</latitude>
+			<longitude>190740</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Erdovec">
+			<state></state>
+			<latitude>460426</latitude>
+			<longitude>164898</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Ervenik Gornji">
+			<state></state>
+			<latitude>441268</latitude>
+			<longitude>159601</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gunja">
+			<state></state>
+			<latitude>454270</latitude>
+			<longitude>187884</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gunjace">
+			<state></state>
+			<latitude>435820</latitude>
+			<longitude>168625</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Gunjavci">
+			<state></state>
+			<latitude>452859</latitude>
+			<longitude>174767</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osijek -- (State: Osjecko-Baranjska)">
+			<state>Osjecko-Baranjska</state>
+			<latitude>455622</latitude>
+			<longitude>187050</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osijek">
+			<state></state>
+			<latitude>461444</latitude>
+			<longitude>165611</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osijek Donji Grad">
+			<state></state>
+			<latitude>455633</latitude>
+			<longitude>187317</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Osijek-Donji Grad">
+			<state></state>
+			<latitude>455686</latitude>
+			<longitude>187458</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Pula">
+			<state></state>
+			<latitude>448795</latitude>
+			<longitude>138593</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarnaro">
+			<state></state>
+			<latitude>448152</latitude>
+			<longitude>141519</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quarnerolo">
+			<state></state>
+			<latitude>447060</latitude>
+			<longitude>146124</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Quieto -- (State: Istarska)">
+			<state>Istarska</state>
+			<latitude>453291</latitude>
+			<longitude>136113</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijeka -- (State: Primorsko-Goranska)">
+			<state>Primorsko-Goranska</state>
+			<latitude>453545</latitude>
+			<longitude>144206</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijeka -- (State: Koprivnicko-Krizevacka)">
+			<state>Koprivnicko-Krizevacka</state>
+			<latitude>461417</latitude>
+			<longitude>167783</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijeka">
+			<state></state>
+			<latitude>456717</latitude>
+			<longitude>172872</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijeka Jadro">
+			<state></state>
+			<latitude>435447</latitude>
+			<longitude>164947</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijeka Krk">
+			<state></state>
+			<latitude>452303</latitude>
+			<longitude>145792</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijeka Krka">
+			<state></state>
+			<latitude>437333</latitude>
+			<longitude>158645</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Rijeka-Dol">
+			<state></state>
+			<latitude>454645</latitude>
+			<longitude>179811</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Slavonski Brod">
+			<state></state>
+			<latitude>451701</latitude>
+			<longitude>179982</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Slavonski Brod -- (State: Brodsko-Posavska)">
+			<state>Brodsko-Posavska</state>
+			<latitude>451718</latitude>
+			<longitude>180271</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Split -- (State: Splitsko-Dalmatinska)">
+			<state>Splitsko-Dalmatinska</state>
+			<latitude>435254</latitude>
+			<longitude>164673</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Split">
+			<state></state>
+			<latitude>435518</latitude>
+			<longitude>163109</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Splitska">
+			<state></state>
+			<latitude>433868</latitude>
+			<longitude>166187</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Splitska Luka">
+			<state></state>
+			<latitude>434948</latitude>
+			<longitude>164448</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Splitska Passage">
+			<state></state>
+			<latitude>433379</latitude>
+			<longitude>164118</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Splitski Kanal">
+			<state></state>
+			<latitude>434615</latitude>
+			<longitude>163782</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Umag -- (State: Istarska)">
+			<state>Istarska</state>
+			<latitude>454431</latitude>
+			<longitude>135356</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Walpowo">
+			<state></state>
+			<latitude>456727</latitude>
+			<longitude>184305</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warasdin -- (State: Varazdinska)">
+			<state>Varazdinska</state>
+			<latitude>463163</latitude>
+			<longitude>163497</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Warasdin-Toplitz -- (State: Varazdinska)">
+			<state>Varazdinska</state>
+			<latitude>462211</latitude>
+			<longitude>164311</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wellington">
+			<state></state>
+			<latitude>430786</latitude>
+			<longitude>162286</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Weretz -- (State: Virovitick-Podravska)">
+			<state>Virovitick-Podravska</state>
+			<latitude>458438</latitude>
+			<longitude>173958</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Winkowitz">
+			<state></state>
+			<latitude>453002</latitude>
+			<longitude>188166</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Wukowar -- (State: Vukovarsko-Srijemska)">
+			<state>Vukovarsko-Srijemska</state>
+			<latitude>453552</latitude>
+			<longitude>190116</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Yakobovci">
+			<state></state>
+			<latitude>452029</latitude>
+			<longitude>186779</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagreb -- (State: Zagreb Grad)">
+			<state>Zagreb Grad</state>
+			<latitude>458122</latitude>
+			<longitude>160122</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagreb">
+			<state></state>
+			<latitude>457528</latitude>
+			<longitude>160805</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagreb Borongai">
+			<state></state>
+			<latitude>458289</latitude>
+			<longitude>160455</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagreb Glavni Kolodvor">
+			<state></state>
+			<latitude>458122</latitude>
+			<longitude>159955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagreb Zapadni Kolodvor">
+			<state></state>
+			<latitude>458289</latitude>
+			<longitude>159789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagrebacka Dubrava -- (State: Zagreb Grad)">
+			<state>Zagreb Grad</state>
+			<latitude>458458</latitude>
+			<longitude>160758</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagrebacka Gora">
+			<state></state>
+			<latitude>459289</latitude>
+			<longitude>159789</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+		<city name="Zagrebacka Zupanija -- (State: Zagrebacka)">
+			<state>Zagrebacka</state>
+			<latitude>457622</latitude>
+			<longitude>160955</longitude>
+			<timezone>100</timezone>
+			<daylight>1</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,789 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Mauritania">
+		<city name="Baraini">
+			<state></state>
+			<latitude>156265</latitude>
+			<longitude>-95402</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bouir Tores">
+			<state></state>
+			<latitude>170598</latitude>
+			<longitude>-157235</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boumdeit">
+			<state></state>
+			<latitude>174431</latitude>
+			<longitude>-113402</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boutilimit">
+			<state></state>
+			<latitude>169265</latitude>
+			<longitude>-156902</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boutilimit -- (State: Trarza)">
+			<state>Trarza</state>
+			<latitude>175598</latitude>
+			<longitude>-146902</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iguerm">
+			<state></state>
+			<latitude>178105</latitude>
+			<longitude>-152395</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Iniefrar">
+			<state></state>
+			<latitude>172438</latitude>
+			<longitude>-155562</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jabra">
+			<state></state>
+			<latitude>168106</latitude>
+			<longitude>-97561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jafen">
+			<state></state>
+			<latitude>203939</latitude>
+			<longitude>-64727</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jafie">
+			<state></state>
+			<latitude>166439</latitude>
+			<longitude>-105394</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jamra">
+			<state></state>
+			<latitude>162273</latitude>
+			<longitude>-93394</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jararia">
+			<state></state>
+			<latitude>172439</latitude>
+			<longitude>-151394</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jatourou">
+			<state></state>
+			<latitude>165606</latitude>
+			<longitude>-72561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeimamet">
+			<state></state>
+			<latitude>165773</latitude>
+			<longitude>-105227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jelaye">
+			<state></state>
+			<latitude>169106</latitude>
+			<longitude>-142561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jelfaye">
+			<state></state>
+			<latitude>192106</latitude>
+			<longitude>-112227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jellalyin">
+			<state></state>
+			<latitude>167273</latitude>
+			<longitude>-64894</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jembe">
+			<state></state>
+			<latitude>177939</latitude>
+			<longitude>-86061</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeneifisa">
+			<state></state>
+			<latitude>206106</latitude>
+			<longitude>-140894</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeygui">
+			<state></state>
+			<latitude>156439</latitude>
+			<longitude>-72227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jeymama">
+			<state></state>
+			<latitude>155439</latitude>
+			<longitude>-72894</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jirana">
+			<state></state>
+			<latitude>156106</latitude>
+			<longitude>-70561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jmoyat">
+			<state></state>
+			<latitude>170273</latitude>
+			<longitude>-84227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joida">
+			<state></state>
+			<latitude>176273</latitude>
+			<longitude>-122394</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joide">
+			<state></state>
+			<latitude>167273</latitude>
+			<longitude>-139227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jorf">
+			<state></state>
+			<latitude>202606</latitude>
+			<longitude>-156894</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joua el Aiouj">
+			<state></state>
+			<latitude>212606</latitude>
+			<longitude>-166227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jouali">
+			<state></state>
+			<latitude>199773</latitude>
+			<longitude>-130727</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Joumanie">
+			<state></state>
+			<latitude>156106</latitude>
+			<longitude>-87227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jraif">
+			<state></state>
+			<latitude>208439</latitude>
+			<longitude>-124227</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jraifia">
+			<state></state>
+			<latitude>225439</latitude>
+			<longitude>-117561</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jreif">
+			<state></state>
+			<latitude>163439</latitude>
+			<longitude>-111394</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kaedi -- (State: Gorgol)">
+			<state>Gorgol</state>
+			<latitude>161607</latitude>
+			<longitude>-134893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiffa -- (State: Assaba)">
+			<state>Assaba</state>
+			<latitude>166274</latitude>
+			<longitude>-113893</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kiffa">
+			<state></state>
+			<latitude>165107</latitude>
+			<longitude>-113726</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mabrouk">
+			<state></state>
+			<latitude>169276</latitude>
+			<longitude>-147224</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mabrouk-Noir">
+			<state></state>
+			<latitude>162776</latitude>
+			<longitude>-110224</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mabrouka">
+			<state></state>
+			<latitude>155276</latitude>
+			<longitude>-68058</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Magta-lahjar -- (State: Brakna)">
+			<state>Brakna</state>
+			<latitude>170109</latitude>
+			<longitude>-134891</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Mederdra">
+			<state></state>
+			<latitude>169276</latitude>
+			<longitude>-156391</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouadhibou -- (State: Dakhlet Nouadhibou)">
+			<state>Dakhlet Nouadhibou</state>
+			<latitude>209110</latitude>
+			<longitude>-170557</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouadhibou">
+			<state></state>
+			<latitude>179777</latitude>
+			<longitude>-153390</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nouakchott -- (State: Trarza)">
+			<state>Trarza</state>
+			<latitude>180974</latitude>
+			<longitude>-159643</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oued Boularat">
+			<state></state>
+			<latitude>166778</latitude>
+			<longitude>-126222</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quatrieme Region">
+			<state></state>
+			<latitude>157613</latitude>
+			<longitude>-129887</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quediat Iyil">
+			<state></state>
+			<latitude>226446</latitude>
+			<longitude>-125387</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Quercset el Mulud">
+			<state></state>
+			<latitude>211113</latitude>
+			<longitude>-165054</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queue des Sfariat">
+			<state></state>
+			<latitude>240446</latitude>
+			<longitude>-113887</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rosso -- (State: Trarza)">
+			<state>Trarza</state>
+			<latitude>165114</latitude>
+			<longitude>-158053</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Aauinat Um Ferquic">
+			<state></state>
+			<latitude>258950</latitude>
+			<longitude>-97050</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Aguetil">
+			<state></state>
+			<latitude>203117</latitude>
+			<longitude>-128716</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Amgaues El Hadyi">
+			<state></state>
+			<latitude>207450</latitude>
+			<longitude>-164050</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Atui">
+			<state></state>
+			<latitude>200784</latitude>
+			<longitude>-159716</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Ben Tili">
+			<state></state>
+			<latitude>258117</latitude>
+			<longitude>-95216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad el Hamra">
+			<state></state>
+			<latitude>265950</latitude>
+			<longitude>-84216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Legreidguen">
+			<state></state>
+			<latitude>259784</latitude>
+			<longitude>-105883</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Lemmuil-lihien">
+			<state></state>
+			<latitude>267784</latitude>
+			<longitude>-86216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Tenebrut">
+			<state></state>
+			<latitude>205950</latitude>
+			<longitude>-159883</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Tuerga">
+			<state></state>
+			<latitude>226784</latitude>
+			<longitude>-128550</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uad Um Edferat">
+			<state></state>
+			<latitude>232617</latitude>
+			<longitude>-125883</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udeiat Chareih">
+			<state></state>
+			<latitude>261284</latitude>
+			<longitude>-110550</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Udeiat Lejbei">
+			<state></state>
+			<latitude>259617</latitude>
+			<longitude>-88216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Um Aguaba">
+			<state></state>
+			<latitude>210950</latitude>
+			<longitude>-127050</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Um Arraguem">
+			<state></state>
+			<latitude>228784</latitude>
+			<longitude>-121883</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Um Jesama">
+			<state></state>
+			<latitude>205450</latitude>
+			<longitude>-136216</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Um Laaueitgat">
+			<state></state>
+			<latitude>203284</latitude>
+			<longitude>-158383</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Valade Dionabe">
+			<state></state>
+			<latitude>171951</latitude>
+			<longitude>-126549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee de Tasarat">
+			<state></state>
+			<latitude>206951</latitude>
+			<longitude>-140382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vallee du Taskass">
+			<state></state>
+			<latitude>177951</latitude>
+			<longitude>-111049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vani">
+			<state></state>
+			<latitude>159451</latitude>
+			<longitude>-77382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vannvane">
+			<state></state>
+			<latitude>163285</latitude>
+			<longitude>-139049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Velidiare">
+			<state></state>
+			<latitude>164285</latitude>
+			<longitude>-138882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendou Diabi">
+			<state></state>
+			<latitude>164451</latitude>
+			<longitude>-139215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendou Gode">
+			<state></state>
+			<latitude>156285</latitude>
+			<longitude>-92715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendou Karekare">
+			<state></state>
+			<latitude>163451</latitude>
+			<longitude>-132882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vendou Kole">
+			<state></state>
+			<latitude>156785</latitude>
+			<longitude>-92382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Venedou Seno">
+			<state></state>
+			<latitude>155285</latitude>
+			<longitude>-124049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vete Ile">
+			<state></state>
+			<latitude>159285</latitude>
+			<longitude>-78049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vile">
+			<state></state>
+			<latitude>159451</latitude>
+			<longitude>-70882</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinde Aboidi">
+			<state></state>
+			<latitude>164118</latitude>
+			<longitude>-139049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinde Aire">
+			<state></state>
+			<latitude>159951</latitude>
+			<longitude>-126215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinde Guibi">
+			<state></state>
+			<latitude>153451</latitude>
+			<longitude>-125549</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinde Lelel">
+			<state></state>
+			<latitude>155451</latitude>
+			<longitude>-126215</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinde Mbordi">
+			<state></state>
+			<latitude>160618</latitude>
+			<longitude>-127049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vindetile">
+			<state></state>
+			<latitude>155451</latitude>
+			<longitude>-129049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vindi Boke">
+			<state></state>
+			<latitude>154285</latitude>
+			<longitude>-124049</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Vinnde Diambi">
+			<state></state>
+			<latitude>163285</latitude>
+			<longitude>-131382</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Voutour">
+			<state></state>
+			<latitude>157618</latitude>
+			<longitude>-69715</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wainat Tlamid">
+			<state></state>
+			<latitude>158119</latitude>
+			<longitude>-78381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Walata -- (State: Hodh Ech Chargui)">
+			<state>Hodh Ech Chargui</state>
+			<latitude>173119</latitude>
+			<longitude>-70214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warardra">
+			<state></state>
+			<latitude>211952</latitude>
+			<longitude>-130381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Warba">
+			<state></state>
+			<latitude>157286</latitude>
+			<longitude>-72548</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wed Amore">
+			<state></state>
+			<latitude>166452</latitude>
+			<longitude>-73214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wed Archan">
+			<state></state>
+			<latitude>160619</latitude>
+			<longitude>-74881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wed Berbere">
+			<state></state>
+			<latitude>169619</latitude>
+			<longitude>-73881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wed Khneg Deba">
+			<state></state>
+			<latitude>227452</latitude>
+			<longitude>-126881</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wed Kounta">
+			<state></state>
+			<latitude>227286</latitude>
+			<longitude>-126381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wed Nema">
+			<state></state>
+			<latitude>166286</latitude>
+			<longitude>-72214</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wed Sbei">
+			<state></state>
+			<latitude>160952</latitude>
+			<longitude>-73381</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wompou">
+			<state></state>
+			<latitude>151452</latitude>
+			<longitude>-127048</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yare">
+			<state></state>
+			<latitude>175621</latitude>
+			<longitude>-142879</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yarhref">
+			<state></state>
+			<latitude>183954</latitude>
+			<longitude>-121712</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yengui">
+			<state></state>
+			<latitude>156954</latitude>
+			<longitude>-79546</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yeni">
+			<state></state>
+			<latitude>158121</latitude>
+			<longitude>-123546</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yero Djibel">
+			<state></state>
+			<latitude>160288</latitude>
+			<longitude>-128379</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yerokole">
+			<state></state>
+			<latitude>148954</latitude>
+			<longitude>-124046</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Yinkik">
+			<state></state>
+			<latitude>157788</latitude>
+			<longitude>-87712</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ynk">
+			<state></state>
+			<latitude>179621</latitude>
+			<longitude>-129879</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youdlane">
+			<state></state>
+			<latitude>192954</latitude>
+			<longitude>-132212</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youm">
+			<state></state>
+			<latitude>169288</latitude>
+			<longitude>-159379</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Youmane Yire">
+			<state></state>
+			<latitude>155954</latitude>
+			<longitude>-130712</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zoueiratt -- (State: Tiris Zemmour)">
+			<state>Tiris Zemmour</state>
+			<latitude>227122</latitude>
+			<longitude>-124711</longitude>
+			<timezone>0</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

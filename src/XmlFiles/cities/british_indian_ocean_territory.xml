@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="British Indian Ocean Territory">
+		<city name="Barton Pass">
+			<state></state>
+			<latitude>-72069</latitude>
+			<longitude>724265</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="British Indian Ocean Territory">
+			<state></state>
+			<latitude>-59902</latitude>
+			<longitude>720098</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Colvocoresses Reef">
+			<state></state>
+			<latitude>-49568</latitude>
+			<longitude>726099</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Cust Point">
+			<state></state>
+			<latitude>-72734</latitude>
+			<longitude>724932</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Danger">
+			<state></state>
+			<latitude>-63733</latitude>
+			<longitude>712753</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Great Chagos Bank">
+			<state></state>
+			<latitude>-63044</latitude>
+			<longitude>719125</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Leconte Point">
+			<state></state>
+			<latitude>-72559</latitude>
+			<longitude>724775</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Main Pass">
+			<state></state>
+			<latitude>-72391</latitude>
+			<longitude>723942</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nelsons Island">
+			<state></state>
+			<latitude>-56723</latitude>
+			<longitude>723443</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Observatory Point">
+			<state></state>
+			<latitude>-72222</latitude>
+			<longitude>724444</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Victory Bank">
+			<state></state>
+			<latitude>-55382</latitude>
+			<longitude>722451</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

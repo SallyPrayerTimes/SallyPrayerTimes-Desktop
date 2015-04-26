@@ -1,0 +1,1076 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Tonga">
+		<city name="Aa -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186903</latitude>
+			<longitude>-1740403</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Accou Jago -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-190070</latitude>
+			<longitude>-1740070</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ahanga Passage -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186736</latitude>
+			<longitude>-1739736</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ahau -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210903</latitude>
+			<longitude>-1753403</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akkumanes Bank -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-191570</latitude>
+			<longitude>-1740736</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alaki Fonua -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197403</latitude>
+			<longitude>-1743070</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alakipeau Island -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210736</latitude>
+			<longitude>-1752403</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alibati Patch -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197736</latitude>
+			<longitude>-1743403</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alinonga -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186903</latitude>
+			<longitude>-1740736</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Annamooka -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-202403</latitude>
+			<longitude>-1747903</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ano Ava -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-202403</latitude>
+			<longitude>-1747736</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Apifo`ou -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211403</latitude>
+			<longitude>-1751736</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ataa -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210403</latitude>
+			<longitude>-1749903</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Augusta Rock -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210570</latitude>
+			<longitude>-1751736</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ava Auhangamea -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-198570</latitude>
+			<longitude>-1744070</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ava Fonuaunga -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187736</latitude>
+			<longitude>-1739403</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ava Homaulu -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197403</latitude>
+			<longitude>-1745736</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ava Muikuku -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197570</latitude>
+			<longitude>-1743570</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ava Mutu -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-198070</latitude>
+			<longitude>-1743570</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ava Pulepulekai -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186903</latitude>
+			<longitude>-1741070</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ava Tauoifi -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197736</latitude>
+			<longitude>-1747236</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Baebae -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186569</latitude>
+			<longitude>-1739735</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Balfour Patch -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-196902</latitude>
+			<longitude>-1745569</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangai -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197902</latitude>
+			<longitude>-1743402</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bangaimotu -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211069</latitude>
+			<longitude>-1751569</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Barrier Reef -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-200735</latitude>
+			<longitude>-1744735</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bau -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187402</latitude>
+			<longitude>-1740069</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bea -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211735</latitude>
+			<longitude>-1752235</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Beabea Island -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-200402</latitude>
+			<longitude>-1747069</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bethune Bank">
+			<state></state>
+			<latitude>-195735</latitude>
+			<longitude>-1742402</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bicentenary Seamount">
+			<state></state>
+			<latitude>-193902</latitude>
+			<longitude>-1754569</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bickerton Island -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187902</latitude>
+			<longitude>-1746402</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Big Lake -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-155902</latitude>
+			<longitude>-1756235</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bobua -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211402</latitude>
+			<longitude>-1751569</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boloa -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210902</latitude>
+			<longitude>-1752402</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Boscawen Island -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-158402</latitude>
+			<longitude>-1737069</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bowers Rock -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-198402</latitude>
+			<longitude>-1744735</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Britten Reef -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-200069</latitude>
+			<longitude>-1746069</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buhi -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-195902</latitude>
+			<longitude>-1744569</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Buke -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211235</latitude>
+			<longitude>-1752235</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukefeo -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197735</latitude>
+			<longitude>-1743569</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bukutala -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-196735</latitude>
+			<longitude>-1742735</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Catto -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-214568</latitude>
+			<longitude>-1749401</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Crawshaw Shoals -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197068</latitude>
+			<longitude>-1743401</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Culebras -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-203068</latitude>
+			<longitude>-1754068</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="David Patch -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197900</latitude>
+			<longitude>-1743567</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Dido Shoal -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-209067</latitude>
+			<longitude>-1749900</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Disney Reef">
+			<state></state>
+			<latitude>-192733</latitude>
+			<longitude>-1740900</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Doyland Reef -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-200400</latitude>
+			<longitude>-1747567</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Duff Reef -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210567</latitude>
+			<longitude>-1753733</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Durham Shoal -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-161067</latitude>
+			<longitude>-1737900</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="East Point -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211399</latitude>
+			<longitude>-1750232</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eastern Passage -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211066</latitude>
+			<longitude>-1750732</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eeulah -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211899</latitude>
+			<longitude>-1751566</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Egeira Passage -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210399</latitude>
+			<longitude>-1752399</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="English Roads -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-213232</latitude>
+			<longitude>-1749566</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eoa-tehi -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211066</latitude>
+			<longitude>-1749732</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Eooa -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-213566</latitude>
+			<longitude>-1749232</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esia -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-155566</latitude>
+			<longitude>-1756232</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Esk Shoals -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197232</latitude>
+			<longitude>-1744232</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Euaiki -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187566</latitude>
+			<longitude>-1740066</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Euakafa -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187566</latitude>
+			<longitude>-1740232</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gardner s Island -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-180064</latitude>
+			<longitude>-1743064</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Goede Hoop Eiland -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-155730</latitude>
+			<longitude>-1756230</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gora Kaprikorn">
+			<state></state>
+			<latitude>-185730</latitude>
+			<longitude>-1721897</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Great Passage -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210230</latitude>
+			<longitude>-1751730</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Juno Rock -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210727</latitude>
+			<longitude>-1751727</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kafoa -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186226</latitude>
+			<longitude>-1739893</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kanokupolu -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210726</latitude>
+			<longitude>-1753226</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Katafaga -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187226</latitude>
+			<longitude>-1740393</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kito Island -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199893</latitude>
+			<longitude>-1747726</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Koro Island -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199393</latitude>
+			<longitude>-1746893</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Namukaiki -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-202723</latitude>
+			<longitude>-1748057</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Navutoka -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211057</latitude>
+			<longitude>-1750890</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ngaakau -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186223</latitude>
+			<longitude>-1740057</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Niu Aunofo -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210557</latitude>
+			<longitude>-1753223</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nomuka Group -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-203223</latitude>
+			<longitude>-1747390</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nukuhi -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211557</latitude>
+			<longitude>-1751890</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nukuleka -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211390</latitude>
+			<longitude>-1751223</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Nukunuku -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211223</latitude>
+			<longitude>-1752890</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="O-ooa -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-200222</latitude>
+			<longitude>-1746722</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ofu Island -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186889</latitude>
+			<longitude>-1739556</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ohonua -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-213222</latitude>
+			<longitude>-1749389</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Okoa -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186389</latitude>
+			<longitude>-1739389</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oneata Island -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211222</latitude>
+			<longitude>-1751389</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onevai Island -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210722</latitude>
+			<longitude>-1751056</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Onevao -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210722</latitude>
+			<longitude>-1750889</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oto -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186889</latitude>
+			<longitude>-1740556</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Otu Tolu Group -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-203389</latitude>
+			<longitude>-1745222</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ovaka Island -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187389</latitude>
+			<longitude>-1740889</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ovalau -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187389</latitude>
+			<longitude>-1740722</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pelorus Reef">
+			<state></state>
+			<latitude>-228221</latitude>
+			<longitude>-1764555</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pengai Motu -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186555</latitude>
+			<longitude>-1739888</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petani -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-156221</latitude>
+			<longitude>-1756055</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Polynesia">
+			<state></state>
+			<latitude>-99888</latitude>
+			<longitude>-1499888</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Port Maurelle -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186888</latitude>
+			<longitude>-1740221</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pudupudua Island -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199055</latitude>
+			<longitude>-1747555</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Puleieia -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-195888</latitude>
+			<longitude>-1744388</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pylstaert -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-223221</latitude>
+			<longitude>-1761888</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Queen Salote Wharf -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211220</latitude>
+			<longitude>-1751720</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Richards Patches -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-188553</latitude>
+			<longitude>-1740886</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Rochambeau Bank">
+			<state></state>
+			<latitude>-151386</latitude>
+			<longitude>-1766886</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Russell Reef -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199719</latitude>
+			<longitude>-1747553</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sapa`ata -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-155552</latitude>
+			<longitude>-1756052</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Smith Shoals -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197718</latitude>
+			<longitude>-1744552</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Minerva Reef">
+			<state></state>
+			<latitude>-239052</latitude>
+			<longitude>-1791052</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="South Pacific Ocean">
+			<state></state>
+			<latitude>-449885</latitude>
+			<longitude>-1299885</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Sumner Shoal -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210385</latitude>
+			<longitude>-1752218</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tabana -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187051</latitude>
+			<longitude>-1739884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taii -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210051</latitude>
+			<longitude>-1749884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Talau -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186384</latitude>
+			<longitude>-1739884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tangaseto -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187551</latitude>
+			<longitude>-1741217</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tatefa -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-198717</latitude>
+			<longitude>-1744051</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tauga -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187217</latitude>
+			<longitude>-1740051</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taula Island -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-188384</latitude>
+			<longitude>-1740051</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tauta -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-187217</latitude>
+			<longitude>-1739884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ta`anea -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-185884</latitude>
+			<longitude>-1739384</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teauba Island -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199717</latitude>
+			<longitude>-1747217</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Teleki Tokelau">
+			<state></state>
+			<latitude>-236217</latitude>
+			<longitude>-1789217</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Telekitinga -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-203884</latitude>
+			<longitude>-1745217</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Terraced Tombs -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211551</latitude>
+			<longitude>-1751051</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Te`ekiu -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211217</latitude>
+			<longitude>-1753051</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Burden of Maui -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211217</latitude>
+			<longitude>-1750384</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="The Narrows -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211051</latitude>
+			<longitude>-1751384</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Thorn Rock -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-198551</latitude>
+			<longitude>-1744884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tofaga -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199551</latitude>
+			<longitude>-1744551</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tofua Trough">
+			<state></state>
+			<latitude>-194884</latitude>
+			<longitude>-1747717</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toka Vevili -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-202884</latitude>
+			<longitude>-1747884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tokulu Island -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-200884</latitude>
+			<longitude>-1747884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tonga Ridge">
+			<state></state>
+			<latitude>-209884</latitude>
+			<longitude>-1749884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tongamama`o -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-156051</latitude>
+			<longitude>-1755884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tongan Islands">
+			<state></state>
+			<latitude>-199884</latitude>
+			<longitude>-1749884</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tongatapu">
+			<state></state>
+			<latitude>-211551</latitude>
+			<longitude>-1751551</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tonumea Island -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-204551</latitude>
+			<longitude>-1747551</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Toofoa -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-197384</latitude>
+			<longitude>-1750717</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Trerise Patch -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199884</latitude>
+			<longitude>-1748051</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tufu -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-213551</latitude>
+			<longitude>-1749551</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tungnoi -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-200051</latitude>
+			<longitude>-1747551</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tupouniua -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-185717</latitude>
+			<longitude>-1739217</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tu`anuku -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186551</latitude>
+			<longitude>-1740217</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tu`ungasika -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186384</latitude>
+			<longitude>-1740551</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ualaga Lalo -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-210883</latitude>
+			<longitude>-1751716</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ualanga Uta -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211050</latitude>
+			<longitude>-1751883</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uanukuhihifu Island -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199550</latitude>
+			<longitude>-1744883</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uia -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-198883</latitude>
+			<longitude>-1744050</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uonuku Hahake -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199550</latitude>
+			<longitude>-1744716</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utui -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186216</latitude>
+			<longitude>-1739550</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Utungake -- (State: Vava`u)">
+			<state>Vava`u</state>
+			<latitude>-186716</latitude>
+			<longitude>-1740216</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ward Rock -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-200714</latitude>
+			<longitude>-1746881</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Way-Inn Motel -- (State: Tongatapu)">
+			<state>Tongatapu</state>
+			<latitude>-211214</latitude>
+			<longitude>-1751881</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Western Ha`apal Group -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-199881</latitude>
+			<longitude>-1747381</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wickham Reef -- (State: Ha`apai)">
+			<state>Ha`apai</state>
+			<latitude>-200714</latitude>
+			<longitude>-1747381</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhelob Tonga">
+			<state></state>
+			<latitude>-199878</latitude>
+			<longitude>-1729878</longitude>
+			<timezone>1300</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>

@@ -1,0 +1,530 @@
+<?xml version="1.0"?>
+<prayertimes>
+	<country name="Kazakhstan">
+		<city name="1 May">
+			<state></state>
+			<latitude>438396</latitude>
+			<longitude>671818</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="1 Pervoye Maya -- (State: Qaraghandy)">
+			<state>Qaraghandy</state>
+			<latitude>494882</latitude>
+			<longitude>737466</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="12 Dekabrya -- (State: Almaty)">
+			<state>Almaty</state>
+			<latitude>434205</latitude>
+			<longitude>769032</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="15-letiye Kazakhstana -- (State: Ongtustik Qazaqstan)">
+			<state>Ongtustik Qazaqstan</state>
+			<latitude>414177</latitude>
+			<longitude>689227</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="3-ya Tret ya Pyatiletka">
+			<state></state>
+			<latitude>517401</latitude>
+			<longitude>790668</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="60-letiya Oktyabrya -- (State: Ongtustik Qazaqstan)">
+			<state>Ongtustik Qazaqstan</state>
+			<latitude>411790</latitude>
+			<longitude>687971</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ak-Tyube">
+			<state></state>
+			<latitude>519097</latitude>
+			<longitude>786764</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ak-Tyube -- (State: Qaraghandy)">
+			<state>Qaraghandy</state>
+			<latitude>499091</latitude>
+			<longitude>724328</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ak-Tyubek -- (State: Qaraghandy)">
+			<state>Qaraghandy</state>
+			<latitude>503097</latitude>
+			<longitude>714930</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akmola">
+			<state></state>
+			<latitude>426764</latitude>
+			<longitude>709764</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Akmola -- (State: Ongtustik Qazaqstan)">
+			<state>Ongtustik Qazaqstan</state>
+			<latitude>412575</latitude>
+			<longitude>686550</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aksai -- (State: Almaty)">
+			<state>Almaty</state>
+			<latitude>434811</latitude>
+			<longitude>767430</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aksay">
+			<state></state>
+			<latitude>538919</latitude>
+			<longitude>728244</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aksay -- (State: Qaraghandy)">
+			<state>Qaraghandy</state>
+			<latitude>468153</latitude>
+			<longitude>652153</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aksay -- (State: Qostanay)">
+			<state>Qostanay</state>
+			<latitude>511097</latitude>
+			<longitude>653094</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aksay -- (State: Ongtustik Qazaqstan)">
+			<state>Ongtustik Qazaqstan</state>
+			<latitude>415278</latitude>
+			<longitude>687091</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aksay -- (State: Batys Qazaqstan)">
+			<state>Batys Qazaqstan</state>
+			<latitude>511775</latitude>
+			<longitude>530047</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aktau">
+			<state></state>
+			<latitude>480430</latitude>
+			<longitude>728430</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aktau -- (State: Mangghystau)">
+			<state>Mangghystau</state>
+			<latitude>436597</latitude>
+			<longitude>512097</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aktobe -- (State: Aqtobe)">
+			<state>Aqtobe</state>
+			<latitude>503078</latitude>
+			<longitude>571911</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Alma-Ata Vtoraya -- (State: Almaty Qalasy)">
+			<state>Almaty Qalasy</state>
+			<latitude>432836</latitude>
+			<longitude>769469</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Almaty -- (State: Almaty Qalasy)">
+			<state>Almaty Qalasy</state>
+			<latitude>432597</latitude>
+			<longitude>769597</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Almaty">
+			<state></state>
+			<latitude>445097</latitude>
+			<longitude>780097</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Almaty Koryghy">
+			<state></state>
+			<latitude>431558</latitude>
+			<longitude>774097</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Almaty Qoryghy -- (State: Almaty)">
+			<state>Almaty</state>
+			<latitude>431764</latitude>
+			<longitude>772597</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Almaty Temir Zholy">
+			<state></state>
+			<latitude>433430</latitude>
+			<longitude>770097</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aqtau -- (State: Qaraghandy)">
+			<state>Qaraghandy</state>
+			<latitude>502464</latitude>
+			<longitude>730725</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aqtau -- (State: Batys Qazaqstan)">
+			<state>Batys Qazaqstan</state>
+			<latitude>510028</latitude>
+			<longitude>501847</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Aqtau Qalasy -- (State: Mangghystau)">
+			<state>Mangghystau</state>
+			<latitude>436764</latitude>
+			<longitude>512597</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Astana -- (State: Astana Qalasy)">
+			<state>Astana Qalasy</state>
+			<latitude>511908</latitude>
+			<longitude>714375</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Astana Qalasy">
+			<state></state>
+			<latitude>511764</latitude>
+			<longitude>715097</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atyrau">
+			<state></state>
+			<latitude>471264</latitude>
+			<longitude>518930</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Atyrau Qalasy -- (State: Atyrau)">
+			<state>Atyrau</state>
+			<latitude>471264</latitude>
+			<longitude>519264</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Bautino -- (State: Mangghystau)">
+			<state>Mangghystau</state>
+			<latitude>445476</latitude>
+			<longitude>502598</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Chimkent -- (State: Ongtustik Qazaqstan)">
+			<state>Ongtustik Qazaqstan</state>
+			<latitude>423099</latitude>
+			<longitude>696099</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fabrichnoy -- (State: Almaty)">
+			<state>Almaty</state>
+			<latitude>431719</latitude>
+			<longitude>764216</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fadikha">
+			<state></state>
+			<latitude>493102</latitude>
+			<longitude>863435</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fakel">
+			<state></state>
+			<latitude>513769</latitude>
+			<longitude>515102</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Fakeyev">
+			<state></state>
+			<latitude>489602</latitude>
+			<longitude>499435</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Farforovyy -- (State: Aqmola)">
+			<state>Aqmola</state>
+			<latitude>513485</latitude>
+			<longitude>711124</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furmanovka -- (State: Zhambyl)">
+			<state>Zhambyl</state>
+			<latitude>443016</latitude>
+			<longitude>729571</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furmanovskiy">
+			<state></state>
+			<latitude>549113</latitude>
+			<longitude>700474</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Furmazov -- (State: Batys Qazaqstan)">
+			<state>Batys Qazaqstan</state>
+			<latitude>513813</latitude>
+			<longitude>515266</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Gangyushkino -- (State: Atyrau)">
+			<state>Atyrau</state>
+			<latitude>465756</latitude>
+			<longitude>486953</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Halbinsel Busatschi -- (State: Mangghystau)">
+			<state>Mangghystau</state>
+			<latitude>450104</latitude>
+			<longitude>520104</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hei-i-erh-t a-shih Ho">
+			<state></state>
+			<latitude>478771</latitude>
+			<longitude>842771</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ho-erh-kuo-ssu Ho">
+			<state></state>
+			<latitude>438437</latitude>
+			<longitude>805271</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Hungry Steppe">
+			<state></state>
+			<latitude>460104</latitude>
+			<longitude>700104</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Janybek -- (State: Batys Qazaqstan)">
+			<state>Batys Qazaqstan</state>
+			<latitude>494273</latitude>
+			<longitude>468606</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Jarkent -- (State: Almaty)">
+			<state>Almaty</state>
+			<latitude>441734</latitude>
+			<longitude>800106</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karaganda -- (State: Aqtobe)">
+			<state>Aqtobe</state>
+			<latitude>504346</latitude>
+			<longitude>556135</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karaganda -- (State: Qaraghandy)">
+			<state>Qaraghandy</state>
+			<latitude>498096</latitude>
+			<longitude>731101</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karaganda">
+			<state></state>
+			<latitude>485107</latitude>
+			<longitude>663940</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Karaganda Oblast -- (State: Qaraghandy)">
+			<state>Qaraghandy</state>
+			<latitude>480107</latitude>
+			<longitude>720107</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kentau Qalasy -- (State: Ongtustik Qazaqstan)">
+			<state>Ongtustik Qazaqstan</state>
+			<latitude>435440</latitude>
+			<longitude>686107</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kul sary -- (State: Atyrau)">
+			<state>Atyrau</state>
+			<latitude>469940</latitude>
+			<longitude>540274</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kustanai -- (State: Qostanay)">
+			<state>Qostanay</state>
+			<latitude>531774</latitude>
+			<longitude>635940</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Kyzylorda -- (State: Qyzylorda)">
+			<state>Qyzylorda</state>
+			<latitude>448635</latitude>
+			<longitude>655199</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oral Qalasy -- (State: Batys Qazaqstan)">
+			<state>Batys Qazaqstan</state>
+			<latitude>513778</latitude>
+			<longitude>512944</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Oskemen Qalasy -- (State: Shyghys Qazaqstan)">
+			<state>Shyghys Qazaqstan</state>
+			<latitude>499778</latitude>
+			<longitude>826778</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Pavlodar">
+			<state></state>
+			<latitude>523112</latitude>
+			<longitude>769612</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Petropavlovsk -- (State: Soltustik Qazaqstan)">
+			<state>Soltustik Qazaqstan</state>
+			<latitude>548865</latitude>
+			<longitude>691740</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Qyzylorda">
+			<state></state>
+			<latitude>450113</latitude>
+			<longitude>650113</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Semipalatinsk -- (State: Shyghys Qazaqstan)">
+			<state>Shyghys Qazaqstan</state>
+			<latitude>504226</latitude>
+			<longitude>802390</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Shymkent Qalasy -- (State: Ongtustik Qazaqstan)">
+			<state>Ongtustik Qazaqstan</state>
+			<latitude>423282</latitude>
+			<longitude>695948</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Taraz -- (State: Zhambyl)">
+			<state>Zhambyl</state>
+			<latitude>429116</latitude>
+			<longitude>713783</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Tengiz -- (State: Atyrau)">
+			<state>Atyrau</state>
+			<latitude>463449</latitude>
+			<longitude>534783</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Turkestan -- (State: Ongtustik Qazaqstan)">
+			<state>Ongtustik Qazaqstan</state>
+			<latitude>433449</latitude>
+			<longitude>682616</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Uralsk -- (State: Batys Qazaqstan)">
+			<state>Batys Qazaqstan</state>
+			<latitude>512450</latitude>
+			<longitude>513784</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ushshoka">
+			<state></state>
+			<latitude>465117</latitude>
+			<longitude>612284</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Ust -Kamenogorsk -- (State: Shyghys Qazaqstan)">
+			<state>Shyghys Qazaqstan</state>
+			<latitude>499906</latitude>
+			<longitude>826220</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Wyssokoje">
+			<state></state>
+			<latitude>425119</latitude>
+			<longitude>705452</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="XIX Partsezd Atyndaghy -- (State: Pavlodar)">
+			<state>Pavlodar</state>
+			<latitude>540312</latitude>
+			<longitude>759398</longitude>
+			<timezone>600</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="XXII Parts yezd -- (State: Ongtustik Qazaqstan)">
+			<state>Ongtustik Qazaqstan</state>
+			<latitude>413014</latitude>
+			<longitude>686792</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+		<city name="Zhezkazgan -- (State: Qaraghandy)">
+			<state>Qaraghandy</state>
+			<latitude>477955</latitude>
+			<longitude>677789</longitude>
+			<timezone>500</timezone>
+			<daylight>0</daylight>
+		</city>
+	</country>
+</prayertimes>
