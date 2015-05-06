@@ -2,7 +2,8 @@
 Sally Prayer Times is a free and open source application to calculate Islamic prayer times for most of the world
 Sally Prayer Times is a program written in the Java programming language so he requires to run the presence of the Java virtual machine installed on the device
 You please report any error in the work program, or assist in the development and thank you very much
-http://sallyprayertimes.altervista.org/http://facebook.com/sallyprayertimes
+http://sallyprayertimes.altervista.org/
+http://facebook.com/sallyprayertimes
 bibali1980@gmail.com
 Sally is a free and open source, and everyone has the right use and publication, just do not forget the sincere prayers
 
