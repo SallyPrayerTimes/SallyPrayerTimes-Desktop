@@ -27,19 +27,18 @@ import java.io.IOException;
 
 import javax.swing.ButtonGroup;
 import javax.swing.ImageIcon;
-import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JRadioButton;
 
 import Classes.Iconfig;
-import Classes.ImagePanel;
 import Classes.PropertiesHandler;
 import Classes.SettingsForm;
+import Classes.TransparentPanel;
 import Classes.UserConfig;
 import Classes.XmlHandler;
 
-public class LanguagesPanel extends ImagePanel implements Iconfig{
+public class LanguagesPanel extends TransparentPanel implements Iconfig{
 
     private static final long serialVersionUID = 1L;
     private Color color;
@@ -51,29 +50,31 @@ public class LanguagesPanel extends ImagePanel implements Iconfig{
     private JRadioButton frRadioButton;//French language
     private JRadioButton itRadioButton;//Italian language
 
-    private JFrame mainFrame;//settings form
+    private SettingsForm settingsForm;//settings form
     private Image backgroundImage;
     private ImageIcon exitIcon;
 
     //create LanguagePanel and set parameters
-    public LanguagesPanel(final JFrame mainFrame, final Image backgroundImage , final ImageIcon exitIcon) throws IOException {
+    public LanguagesPanel(final SettingsForm settingsForm, final Image backgroundImage , final ImageIcon exitIcon) throws IOException {
 
-        this.mainFrame = mainFrame;
+        this.settingsForm = settingsForm;
         this.backgroundImage = backgroundImage;
         this.exitIcon = exitIcon;
         this.setLayout(null);
         this.setVisible(true);
         this.setSize(400, 340);
         this.color = Color.WHITE;
-        this.setImagePanel(backgroundImage);
+        this.setOpaque(false);
 
         this.languageTitleLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1067));
         this.languageTitleLabel.setBounds(200, 20, 100, 20);
         this.languageTitleLabel.setForeground(color);
         this.add(languageTitleLabel);
 
-        this.arRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1085));
-        this.arRadioButton.setBackground(color);
+        this.arRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1085)); 
+        this.arRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.arRadioButton.setForeground(color);
+        this.arRadioButton.setOpaque(false);
         this.arRadioButton.setBounds(30, 50, 100, 20);
         this.add(arRadioButton);
         this.arRadioButton.addActionListener(new ActionListener() {
@@ -93,7 +94,9 @@ public class LanguagesPanel extends ImagePanel implements Iconfig{
         });
 
         this.engRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1086));
-        this.engRadioButton.setBackground(color);
+        this.engRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.engRadioButton.setForeground(color);
+        this.engRadioButton.setOpaque(false);
         this.engRadioButton.setBounds(30, 100, 100, 20);
         this.add(engRadioButton);
         this.engRadioButton.addActionListener(new ActionListener() {
@@ -113,7 +116,9 @@ public class LanguagesPanel extends ImagePanel implements Iconfig{
         });
 
         this.frRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1087));
-        this.frRadioButton.setBackground(color);
+        this.frRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.frRadioButton.setForeground(color);
+        this.frRadioButton.setOpaque(false);
         this.frRadioButton.setBounds(30, 150, 100, 20);
         this.add(frRadioButton);
         this.frRadioButton.addActionListener(new ActionListener() {
@@ -133,7 +138,9 @@ public class LanguagesPanel extends ImagePanel implements Iconfig{
         });
 
         this.itRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1088));
-        this.itRadioButton.setBackground(color);
+        this.itRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.itRadioButton.setForeground(color);
+        this.itRadioButton.setOpaque(false);
         this.itRadioButton.setBounds(30, 200, 100, 20);
         this.add(itRadioButton);
         this.itRadioButton.addActionListener(new ActionListener() {
@@ -166,15 +173,19 @@ public class LanguagesPanel extends ImagePanel implements Iconfig{
         try {
         	if(UserConfig.getSingleton().getLanguage().equalsIgnoreCase(ar)){
         		arRadioButton.setSelected(true);
+        		arRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
             }else{
             	if(UserConfig.getSingleton().getLanguage().equalsIgnoreCase(eng)){
             		engRadioButton.setSelected(true);
+            		engRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
                 }else{
                 	if(UserConfig.getSingleton().getLanguage().equalsIgnoreCase(fr)){
                 		frRadioButton.setSelected(true);
+                		frRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
                     }else{
                     	if(UserConfig.getSingleton().getLanguage().equalsIgnoreCase(it)){
                     		itRadioButton.setSelected(true);
+                    		itRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
                         }
                     }
                 	
@@ -189,14 +200,16 @@ public class LanguagesPanel extends ImagePanel implements Iconfig{
 
     //regenerate program with new selected language
     public void refresh() {
-        if (this.mainFrame.isVisible()) {
-            this.mainFrame.dispose();
+
             java.awt.EventQueue.invokeLater(new Runnable() {
                 @Override
                 public void run() {
                     try {
                         PropertiesHandler.getSingleton().setParameters(UserConfig.getSingleton());
-                        new SettingsForm(backgroundImage, exitIcon).initMainForm();
+
+                        settingsForm.initLanguagePanel();
+                        settingsForm.changeMenuTitleLanguage();
+
                     } catch (Exception e) {
                         try {
                             JOptionPane.showMessageDialog(null, PropertiesHandler.getSingleton().getValue(1070), PropertiesHandler.getSingleton().getValue(1069), JOptionPane.ERROR_MESSAGE);
@@ -205,9 +218,7 @@ public class LanguagesPanel extends ImagePanel implements Iconfig{
                     }
                 }
             });
-        } else {
-            this.mainFrame.setVisible(true);
-        }
+
     }
 
     public JLabel getMoreLanguageLabel() {
@@ -216,14 +227,6 @@ public class LanguagesPanel extends ImagePanel implements Iconfig{
 
     public void setMoreLanguageLabel(JLabel moreLanguageLabel) {
         this.moreLanguageLabel = moreLanguageLabel;
-    }
-
-    public JFrame getMainFrame() {
-        return mainFrame;
-    }
-
-    public void setMainFrame(JFrame mainFrame) {
-        this.mainFrame = mainFrame;
     }
 
     public Image getBackgroundImage() {

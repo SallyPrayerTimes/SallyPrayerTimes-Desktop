@@ -22,7 +22,6 @@ package Panels;
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.HeadlessException;
-import java.awt.Image;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.MouseAdapter;
@@ -54,12 +53,12 @@ import org.xml.sax.SAXException;
 import Classes.City;
 import Classes.Country;
 import Classes.Iconfig;
-import Classes.ImagePanel;
 import Classes.PropertiesHandler;
+import Classes.TransparentPanel;
 import Classes.UserConfig;
 import Classes.XmlHandler;
 
-public class LocationPanel extends ImagePanel implements Iconfig{
+public class LocationPanel extends TransparentPanel implements Iconfig{
 
     private static final long serialVersionUID = 1L;
     private final Color color;
@@ -93,7 +92,7 @@ public class LocationPanel extends ImagePanel implements Iconfig{
     private String latitude = "";//user city latitude
     private String timezone = "";//user city time zone
 
-    public LocationPanel(Image imageBackground) throws IOException, ParserConfigurationException, SAXException {//create LocationPanel object and set parameters
+    public LocationPanel() throws IOException, ParserConfigurationException, SAXException {//create LocationPanel object and set parameters
 
     	this.locationfromInternetIcon = new ImageIcon(getClass().getResource(locationInternetIconSetting));//location from internet label icon
         this.loaderIcon = new ImageIcon(getClass().getResource(loaderSettingsPath));
@@ -101,7 +100,7 @@ public class LocationPanel extends ImagePanel implements Iconfig{
         this.setVisible(true);
         this.setSize(400, 340);
         this.color = Color.WHITE;
-        this.setImagePanel(imageBackground);
+        this.setOpaque(false);
 
         this.locationFromInternet = new JLabel();
         this.countriesLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1049));
@@ -307,7 +306,7 @@ public class LocationPanel extends ImagePanel implements Iconfig{
                     JOptionPane.showMessageDialog(null, PropertiesHandler.getSingleton().getValue(1058), PropertiesHandler.getSingleton().getValue(1055), JOptionPane.WARNING_MESSAGE);
                 } else {
                     try {//set country , city , longitude , latitude and time zone from selected city
-                    	
+     
                     	UserConfig.getSingleton().setCountry((String) countriesList.getSelectedValue());
                         UserConfig.getSingleton().setCity((String) citiesList.getSelectedValue());
                         UserConfig.getSingleton().setLongitude(longitudeValue.getText());

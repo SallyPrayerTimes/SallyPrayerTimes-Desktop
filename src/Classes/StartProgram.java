@@ -23,12 +23,14 @@ import java.awt.HeadlessException;
 import java.util.Calendar;
 
 import javax.swing.JOptionPane;
+import javax.swing.UIManager;
 
 public class StartProgram implements Iconfig{
 
-    public static boolean isSettingsClosed = false; //get if settings form closed
-
     public static void main(String[] args) {
+    	try{
+    	UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+    	}catch(Exception ex){}
         startProgrameMethode();
     }
 
@@ -37,9 +39,6 @@ public class StartProgram implements Iconfig{
             @Override
             public void run() {
                 try {
-
-                    if(isSettingsClosed == false){
-                    	
                     	XmlHandler xmlHandler = XmlHandler.getSingleton();//get unique object xmlhandler
                     	UserConfig userConfig = xmlHandler.getUserConfig();//get unique object userConfig
                     	PropertiesHandler propertiesHandler = PropertiesHandler.getSingleton();//get unique object propertiesHandler
@@ -59,18 +58,7 @@ public class StartProgram implements Iconfig{
                             MainForm mainForm = new MainForm(prayersTimes, hijriTime, miladiTime);//create main form with all calculated prayer times in selected language
                             mainForm.getMainFram().setVisible(true);
                     	}
-                    }
-                    else
-                    {
-                        PropertiesHandler.getSingleton().setParameters(UserConfig.getSingleton());//passing userConfig object to propertiesHandler class for getting user selected language for translation
-                        PrayersTimes prayersTimes = new PrayersTimes(Calendar.getInstance());//get object prayersTimes
-                        HijriTime hijriTime = new HijriTime(Calendar.getInstance());//get object hijriTime
-                        MiladiTime miladiTime = new MiladiTime(Calendar.getInstance());//get object miladiTime
-                        MainForm mainForm = new MainForm(prayersTimes, hijriTime, miladiTime);//create main form with all calculated prayer times in selected language
-                        mainForm.getMainFram().setVisible(true);
-                    }
-                    
-                    
+
                 } catch (Exception e) {
                     try {
                         JOptionPane.showMessageDialog(null, startError, "Error", JOptionPane.ERROR_MESSAGE);//error if sallyUserConfig.xml corrupt

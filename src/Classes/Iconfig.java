@@ -32,12 +32,20 @@ public interface Iconfig {
 	public final String mohammad_khalil_raml = "mohammad_khalil_raml";
 	public final String mohammad_khalil_raml_mp3 = "/Athan/mohammad_khalil_raml.mp3";
 	
-	public final String fajrBackground = "/Images/Background/fajrBackground.jpg";
-	public final String shorou9Background = "/Images/Background/shorou9Background.jpg";
-	public final String duhrBackground = "/Images/Background/duhrBackground.jpg";
-	public final String asrBackground = "/Images/Background/asrBackground.jpg";
-	public final String maghribBackground = "/Images/Background/maghribBackground.jpg";
-	public final String ishaaBackground = "/Images/Background/ishaaBackground.jpg";
+	public final String fajrBackground = "/Images/Background/fajrBackground.png";
+	public final String shorou9Background = "/Images/Background/shorou9Background.png";
+	public final String duhrBackground = "/Images/Background/duhrBackground.png";
+	public final String asrBackground = "/Images/Background/asrBackground.png";
+	public final String maghribBackground = "/Images/Background/maghribBackground.png";
+	public final String ishaaBackground = "/Images/Background/ishaaBackground.png";
+	
+	public final String location_menu_icon = "/Images/Settings/location_menu_icon.png";
+	public final String time_menu_icon = "/Images/Settings/time_menu_icon.png";
+	public final String athan_menu_icon = "/Images/Settings/athan_menu_icon.png";
+	public final String language_menu_icon = "/Images/Settings/language_menu_icon.png";
+	public final String information_menu_icon = "/Images/Settings/information_menu_icon.png";
+	
+	public final String menu_button_background = "/Images/Settings/menu_button_background.png";
 	
 	public final String exiticon = "/Images/Settings/exit.png";
 	public final String settingsIconPath = "/Images/Settings/settings.png";
@@ -54,6 +62,9 @@ public interface Iconfig {
 	public final String athanOnIconPath = "/Images/Settings/athan_on.png";
 	public final String athanOffIconPath = "/Images/Settings/athan_off.png";
 	public final String athanNotificationIconPath = "/Images/Settings/athan_notification.png";
+	
+	public final String radio_button_selected = "/Images/Settings/radio_button_selected.png";
+	public final String radio_button_unselected = "/Images/Settings/radio_button_unselected.png";
 	
 	public final String sallyIcon = "/Images/Settings/sally_icon.png";
 	public final String athan = "athan";

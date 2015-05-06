@@ -43,6 +43,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.SwingConstants;
+import javax.swing.SwingUtilities;
 import javax.swing.UIManager;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
@@ -127,6 +128,7 @@ public class MainForm extends JFrame implements Iconfig{
 	private JLabel previousDayPrayerTimes;
 	private JLabel actualDayPrayerTimes;
 	private int nextPreviousDay = 0;
+	private SettingsForm settingsForm;
 	
     public MainForm(PrayersTimes prayersTimes, HijriTime hijriTime, MiladiTime miladiTime) throws IOException {
         //passing all parameters
@@ -145,10 +147,9 @@ public class MainForm extends JFrame implements Iconfig{
         this.prayerTimesHandler = new PrayerTimesHandler(this, prayersTimes);//create prayer times handler thread
         this.initMainForm();
     }
-
-    private void initMainForm() throws IOException {//create sally form
-        this.mainFrame = new JFrame();
-        switch (prayerTimesHandler.getActualPrayerTime()) {//set background
+    
+	private void initMainForm() throws IOException {//create sally form
+        switch (getPrayerTimesHandler().getActualPrayerTime()) {//set background
 		case 0:this.backgroundImage = new ImageIcon(getClass().getResource(duhrBackground)).getImage();break;
 		case 1:this.backgroundImage = new ImageIcon(getClass().getResource(shorou9Background)).getImage();break;
 		case 2:this.backgroundImage = new ImageIcon(getClass().getResource(fajrBackground)).getImage();break;
@@ -157,9 +158,8 @@ public class MainForm extends JFrame implements Iconfig{
 		case 5:this.backgroundImage = new ImageIcon(getClass().getResource(asrBackground)).getImage();break;
 		default:this.backgroundImage = new ImageIcon(getClass().getResource(shorou9Background)).getImage();break;
         }
-
-        this.mainPanel = new MainImagePanel(getBackgroundImage());
-        this.mainPanel.setActualPrayerTime(prayerTimesHandler.getActualPrayerTime());
+        this.mainFrame = new JFrame();
+        this.mainPanel = new MainImagePanel(getBackgroundImage() , prayerTimesHandler.getActualPrayerTime());
         this.mainPanel.setLayout(null);
         this.font = new Font("TimesRoman", Font.ITALIC, 15);
         this.locationFont = new Font("TimesRoman", Font.ITALIC, 22);
@@ -538,7 +538,8 @@ public class MainForm extends JFrame implements Iconfig{
                 @Override
                 public void run() {
                     try {
-                        new SettingsForm(getBackgroundImage() , exitIcon).initMainForm();
+                    	settingsForm = new SettingsForm(MainForm.this , getBackgroundImage() , exitIcon);
+                    	settingsForm.initMainForm();
                     } catch (IOException e) {
                         try {
                             JOptionPane.showMessageDialog(null, PropertiesHandler.getSingleton().getValue(1070), PropertiesHandler.getSingleton().getValue(1069), JOptionPane.ERROR_MESSAGE);
@@ -592,7 +593,6 @@ public class MainForm extends JFrame implements Iconfig{
             	
             	XmlHandler.getSingleton().addUserConfig(UserConfig.getSingleton());
             	
-        		mainFrame.dispose();
                 if (AthanPlayer.STARTED) {//kill AthanPlayer if started
                     AthanPlayer.kill();
                 }
@@ -600,8 +600,25 @@ public class MainForm extends JFrame implements Iconfig{
                 @Override
                 public void run() {
                     try {
-                     	StartProgram.isSettingsClosed = true;
-                        StartProgram.startProgrameMethode();
+                 
+                    	location.setText(UserConfig.getSingleton().getCountry() + " - " + UserConfig.getSingleton().getCity());
+                    	
+                    	getPrayerTimesHandler().Refresh();
+                    	
+                        switch (getPrayerTimesHandler().getActualPrayerTime()) {//set background
+                		case 0: backgroundImage = new ImageIcon(getClass().getResource(duhrBackground)).getImage();break;
+                		case 1: backgroundImage = new ImageIcon(getClass().getResource(shorou9Background)).getImage();break;
+                		case 2: backgroundImage = new ImageIcon(getClass().getResource(fajrBackground)).getImage();break;
+                		case 3: backgroundImage = new ImageIcon(getClass().getResource(ishaaBackground)).getImage();break;
+                		case 4: backgroundImage = new ImageIcon(getClass().getResource(maghribBackground)).getImage();break;
+                		case 5: backgroundImage = new ImageIcon(getClass().getResource(asrBackground)).getImage();break;
+                		default: backgroundImage = new ImageIcon(getClass().getResource(shorou9Background)).getImage();break;
+                        }
+                        
+                    	getMainPanel().setImagePanel(getBackgroundImage());
+                    	getMainPanel().setActualPrayerTime(getPrayerTimesHandler().getActualPrayerTime());
+                    	getMainPanel().repaint();
+                        
                     } catch (Exception e) {
                         try {
                             JOptionPane.showMessageDialog(null, PropertiesHandler.getSingleton().getValue(1070), PropertiesHandler.getSingleton().getValue(1069), JOptionPane.ERROR_MESSAGE);
@@ -679,7 +696,16 @@ public class MainForm extends JFrame implements Iconfig{
     }
 
     public void setAllLabelsTimesHijriMiladiValues(PrayersTimes prayersTimes, HijriTime hijriTime, MiladiTime miladiTime) throws IOException {//set all prayers times and hijri and miladi times 
-        this.shorou9Time.setText(prayersTimes.getShorou9FinalTime());
+        
+    	this.donateLabel.setText(PropertiesHandler.getSingleton().getValue(1106));
+        this.fajrName.setText(PropertiesHandler.getSingleton().getValue(1020));
+        this.shorou9Name.setText(PropertiesHandler.getSingleton().getValue(1021));
+        this.duhrName.setText(PropertiesHandler.getSingleton().getValue(1022));
+        this.asrName.setText(PropertiesHandler.getSingleton().getValue(1023));
+        this.maghribName.setText(PropertiesHandler.getSingleton().getValue(1024));
+        this.ishaaName.setText(PropertiesHandler.getSingleton().getValue(1025));
+    	
+    	this.shorou9Time.setText(prayersTimes.getShorou9FinalTime());
         this.fajrTime.setText(prayersTimes.getFajrFinalTime());
         this.duhrTime.setText(prayersTimes.getDuhrFinalTime());
         this.asrTime.setText(prayersTimes.getAsrFinalTime());
@@ -721,6 +747,19 @@ public class MainForm extends JFrame implements Iconfig{
         this.sallyMenuItem.addActionListener(new ActionListener() {//display main form on sally MenuItem click
             @Override
             public void actionPerformed(ActionEvent arg0) {
+            	try{
+            	if (settingsForm == null)
+          	    {
+                }
+            	else
+                {
+                	if(settingsForm.getMainFrame().isVisible())
+                	{
+                        settingsForm.getMainFrame().setVisible(false);
+                	}
+                }
+            	}catch(Exception ex){}
+            	
                 if (!mainFrame.isVisible()) {
                     mainFrame.setVisible(true);
                     pack();
@@ -734,21 +773,37 @@ public class MainForm extends JFrame implements Iconfig{
             public void actionPerformed(ActionEvent arg0) {
             	if (mainFrame.isVisible())
             	  {
-                    mainFrame.dispose();
-                    }
-                java.awt.EventQueue.invokeLater(new Runnable() {
-                    @Override
-                    public void run() {
-                        try {
-                            new SettingsForm(getBackgroundImage(), exitIcon).initMainForm();
-                        } catch (IOException e) {
+                    mainFrame.setVisible(false);
+                  }
+            	
+            	if(settingsForm == null)
+            	{
+                    java.awt.EventQueue.invokeLater(new Runnable() {
+                        @Override
+                        public void run() {
                             try {
-                                JOptionPane.showMessageDialog(null, PropertiesHandler.getSingleton().getValue(1070), PropertiesHandler.getSingleton().getValue(1069), JOptionPane.ERROR_MESSAGE);
-                            } catch (Exception e1) {
+                            	settingsForm = new SettingsForm(MainForm.this ,getBackgroundImage() , exitIcon);
+                            	settingsForm.initMainForm();
+                            } catch (IOException e) {
+                                try {
+                                    JOptionPane.showMessageDialog(null, PropertiesHandler.getSingleton().getValue(1070), PropertiesHandler.getSingleton().getValue(1069), JOptionPane.ERROR_MESSAGE);
+                                } catch (Exception e1) {
+                                }
                             }
                         }
-                    }
-                });
+                    });
+            	}
+            	else
+            	{
+                	if(settingsForm.getMainFrame().isVisible()) 
+                	 {
+                     }
+                	else
+                	{
+                    	settingsForm.getMainFrame().setVisible(true);
+                    	settingsForm.getMainFrame().pack();
+                	}
+            	}
             }
         });
         this.exitMenuItem.setLabel(PropertiesHandler.getSingleton().getValue(1063));
@@ -777,8 +832,11 @@ public class MainForm extends JFrame implements Iconfig{
         MouseListener mouseListener = new MouseListener() {
             
             public void mouseClicked(MouseEvent e) { 
-                if (!mainFrame.isVisible()){
-                    mainFrame.setVisible(true);
+                if(SwingUtilities.isLeftMouseButton(e))
+                {
+                	if (!mainFrame.isVisible()){
+                        mainFrame.setVisible(true);
+                    }
                 }
             }
 
@@ -1103,7 +1161,6 @@ public class MainForm extends JFrame implements Iconfig{
         return mainFrame;
     }
     
-
     public Image getBackgroundImage() {
 		return backgroundImage;
 	}
@@ -1111,4 +1168,19 @@ public class MainForm extends JFrame implements Iconfig{
 	public void setBackgroundImage(Image backgroundImage) {
 		this.backgroundImage = backgroundImage;
 	}
+	
+
+    public PrayerTimesHandler getPrayerTimesHandler() {
+		return prayerTimesHandler;
+	}
+
+	public void setPrayerTimesHandler(PrayerTimesHandler prayerTimesHandler) {
+		this.prayerTimesHandler = prayerTimesHandler;
+	}
+	
+	public JLabel getLocationLabel()
+	{
+		return location;
+	}
+
 }

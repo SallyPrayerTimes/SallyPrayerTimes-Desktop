@@ -40,10 +40,11 @@ public class PrayerTimesHandler extends Thread implements Iconfig{
     private int second;// seconds
 
     private String missingPropertiesValue;//translated "missing" term
-    private String toPropertiesValue;//translated "to" term
-    private String actualSalatNameProperties;//translated actual salat name
+	private String toPropertiesValue;//translated "to" term
+	private String actualSalatNameProperties;//translated actual salat name
 
-    private final MainForm mainForm;//main form
+
+	private final MainForm mainForm;//main form
     private final DecimalFormat formatter;//formatter
     
     private int actualPrayerTime;
@@ -89,7 +90,7 @@ public class PrayerTimesHandler extends Thread implements Iconfig{
                 this.mainForm.getDigitalClock().setText(this.formatter.format(this.hour) + ":" + this.formatter.format(this.minutes) + ":" + this.formatter.format(this.second));//display digital clock
                 
                 if (isAfterDay(calendar, this.calendar)) {//if hour is 24H calculate prayer times for next day
-                	refresh();//calculate new value of prayer times for next day
+                	refreshNextDay();//calculate new value of prayer times for next day
                 	this.calendar = calendar;
                 }
                 else
@@ -104,38 +105,52 @@ public class PrayerTimesHandler extends Thread implements Iconfig{
                         switch (this.nextPrayerCode) {//set background
                 		case 1020:
                 			Image fajrBackgroundImage = new ImageIcon(getClass().getResource(fajrBackground)).getImage(); 
-                			this.mainForm.getMainPanel().setImagePanel(fajrBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(2);
+                			this.mainForm.setBackgroundImage(fajrBackgroundImage);
+                			this.mainForm.getMainPanel().setImagePanel(fajrBackgroundImage);
+                			this.mainForm.getMainPanel().setActualPrayerTime(2);
                 			this.mainForm.setBackgroundImage(fajrBackgroundImage);
                 			break;
                 		case 1021:
                 			Image shorou9BackgroundImage = new ImageIcon(getClass().getResource(shorou9Background)).getImage();
-                			this.mainForm.getMainPanel().setImagePanel(shorou9BackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(1);
+                			this.mainForm.setBackgroundImage(shorou9BackgroundImage);
+                			this.mainForm.getMainPanel().setImagePanel(shorou9BackgroundImage);
+                			this.mainForm.getMainPanel().setActualPrayerTime(1);
                 			this.mainForm.setBackgroundImage(shorou9BackgroundImage);
                 			break;
                 		case 1022:
                 			Image duhrBackgroundImage = new ImageIcon(getClass().getResource(duhrBackground)).getImage();
-                			this.mainForm.getMainPanel().setImagePanel(duhrBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(0);
+                			this.mainForm.setBackgroundImage(duhrBackgroundImage);
+                			this.mainForm.getMainPanel().setImagePanel(duhrBackgroundImage);
+                			this.mainForm.getMainPanel().setActualPrayerTime(0);
                 			this.mainForm.setBackgroundImage(duhrBackgroundImage);
                 			break;
                 		case 1023:
                 			Image asrBackgroundImage = new ImageIcon(getClass().getResource(asrBackground)).getImage();
-                			this.mainForm.getMainPanel().setImagePanel(asrBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(5);
+                			this.mainForm.setBackgroundImage(asrBackgroundImage);
+                			this.mainForm.getMainPanel().setImagePanel(asrBackgroundImage);
+                			this.mainForm.getMainPanel().setActualPrayerTime(5);
                 			this.mainForm.setBackgroundImage(asrBackgroundImage);
                 			break;
                 		case 1024:
                 			Image maghribBackgroundImage = new ImageIcon(getClass().getResource(maghribBackground)).getImage();
-                			this.mainForm.getMainPanel().setImagePanel(maghribBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(4);
+                			this.mainForm.setBackgroundImage(maghribBackgroundImage);
+                			this.mainForm.getMainPanel().setImagePanel(maghribBackgroundImage);
+                			this.mainForm.getMainPanel().setActualPrayerTime(4);
                 			this.mainForm.setBackgroundImage(maghribBackgroundImage);
                 			break;
                 		case 1025:
                 			Image ishaaBackgroundImage = new ImageIcon(getClass().getResource(ishaaBackground)).getImage();
-                			this.mainForm.getMainPanel().setImagePanel(ishaaBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(3);
+                			this.mainForm.setBackgroundImage(ishaaBackgroundImage);
+                			this.mainForm.getMainPanel().setImagePanel(ishaaBackgroundImage);
+                			this.mainForm.getMainPanel().setActualPrayerTime(3);
                 			this.mainForm.setBackgroundImage(ishaaBackgroundImage);
                 			break;
                 		default:
-                			Image shorou9BackgroundImagee = new ImageIcon(getClass().getResource(shorou9Background)).getImage();
-                			this.mainForm.getMainPanel().setImagePanel(shorou9BackgroundImagee);
-                			this.mainForm.getMainPanel().setActualPrayerTime(1);this.mainForm.setBackgroundImage(shorou9BackgroundImagee);
+                			Image shorou9BackgroundImage2 = new ImageIcon(getClass().getResource(shorou9Background)).getImage();
+                			this.mainForm.setBackgroundImage(shorou9BackgroundImage2);
+                			this.mainForm.getMainPanel().setImagePanel(shorou9BackgroundImage2);
+                			this.mainForm.getMainPanel().setActualPrayerTime(1);
+                			this.mainForm.setBackgroundImage(shorou9BackgroundImage2);
                 			break;
                         }
                             this.mainForm.getMainPanel().repaint();
@@ -155,38 +170,45 @@ public class PrayerTimesHandler extends Thread implements Iconfig{
                             switch (this.nextPrayerCode) {//set background
                     		case 1021:
                     			Image fajrBackgroundImage = new ImageIcon(getClass().getResource(fajrBackground)).getImage(); 
-                    			this.mainForm.getMainPanel().setImagePanel(fajrBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(2);
+                    			this.mainForm.getMainPanel().setImagePanel(fajrBackgroundImage);
+                    			this.mainForm.getMainPanel().setActualPrayerTime(2);
                     			this.mainForm.setBackgroundImage(fajrBackgroundImage);
                     			break;
                     		case 1022:
                     			Image shorou9BackgroundImage = new ImageIcon(getClass().getResource(shorou9Background)).getImage();
-                    			this.mainForm.getMainPanel().setImagePanel(shorou9BackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(1);
+                    			this.mainForm.getMainPanel().setImagePanel(shorou9BackgroundImage);
+                    			this.mainForm.getMainPanel().setActualPrayerTime(1);
                     			this.mainForm.setBackgroundImage(shorou9BackgroundImage);
                     			break;
                     		case 1023:
                     			Image duhrBackgroundImage = new ImageIcon(getClass().getResource(duhrBackground)).getImage();
-                    			this.mainForm.getMainPanel().setImagePanel(duhrBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(0);
+                    			this.mainForm.getMainPanel().setImagePanel(duhrBackgroundImage);
+                    			this.mainForm.getMainPanel().setActualPrayerTime(0);
                     			this.mainForm.setBackgroundImage(duhrBackgroundImage);
                     			break;
                     		case 1024:
                     			Image asrBackgroundImage = new ImageIcon(getClass().getResource(asrBackground)).getImage();
-                    			this.mainForm.getMainPanel().setImagePanel(asrBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(5);
+                    			this.mainForm.getMainPanel().setImagePanel(asrBackgroundImage);
+                    			this.mainForm.getMainPanel().setActualPrayerTime(5);
                     			this.mainForm.setBackgroundImage(asrBackgroundImage);
                     			break;
                     		case 1025:
                     			Image maghribBackgroundImage = new ImageIcon(getClass().getResource(maghribBackground)).getImage();
-                    			this.mainForm.getMainPanel().setImagePanel(maghribBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(4);
+                    			this.mainForm.getMainPanel().setImagePanel(maghribBackgroundImage);
+                    			this.mainForm.getMainPanel().setActualPrayerTime(4);
                     			this.mainForm.setBackgroundImage(maghribBackgroundImage);
                     			break;
                     		case 1020:
                     			Image ishaaBackgroundImage = new ImageIcon(getClass().getResource(ishaaBackground)).getImage();
-                    			this.mainForm.getMainPanel().setImagePanel(ishaaBackgroundImage);this.mainForm.getMainPanel().setActualPrayerTime(3);
+                    			this.mainForm.getMainPanel().setImagePanel(ishaaBackgroundImage);
+                    			this.mainForm.getMainPanel().setActualPrayerTime(3);
                     			this.mainForm.setBackgroundImage(ishaaBackgroundImage);
                     			break;
                     		default:
                     			Image shorou9BackgroundImagee = new ImageIcon(getClass().getResource(shorou9Background)).getImage();
                     			this.mainForm.getMainPanel().setImagePanel(shorou9BackgroundImagee);
-                    			this.mainForm.getMainPanel().setActualPrayerTime(1);this.mainForm.setBackgroundImage(shorou9BackgroundImagee);
+                    			this.mainForm.getMainPanel().setActualPrayerTime(1);
+                    			this.mainForm.setBackgroundImage(shorou9BackgroundImagee);
                     			break;
                             }
                             this.mainForm.getMainPanel().repaint();
@@ -258,7 +280,33 @@ public class PrayerTimesHandler extends Thread implements Iconfig{
         }
     }
 
-    public void refresh() throws IOException, InterruptedException {//regenerate main form with new prayer times for next day	
+    public void Refresh() throws IOException, InterruptedException {//regenerate main form with new prayer times for next day	
+        
+        Calendar calendar = Calendar.getInstance();
+        this.calendar = calendar;
+        
+    	PrayersTimes prayersTimes = new PrayersTimes(this.calendar);//get object prayersTimes
+    	this.prayerTimesInMinutes = prayersTimes.getAllPrayrTimesInMinutes();//get all prayer times in minutes
+    	
+        this.hour = calendar.get(Calendar.HOUR_OF_DAY);
+        this.minutes = calendar.get(Calendar.MINUTE);
+        this.second = calendar.get(Calendar.SECOND);
+           
+        getNextPrayer((hour * 60) + minutes);//get next prayer code,minutes,missing minutes
+        
+        try {
+            this.missingPropertiesValue = PropertiesHandler.getSingleton().getValue(1045);//translated "missing" term
+            this.toPropertiesValue = PropertiesHandler.getSingleton().getValue(1046);//translated "to" term
+            this.actualSalatNameProperties = PropertiesHandler.getSingleton().getValue(this.nextPrayerCode);//translated actual salat name
+        } catch (Exception e) {
+        }
+    	
+    	HijriTime hijriTime = new HijriTime(Calendar.getInstance());//get object hijriTime
+    	MiladiTime miladiTime = new MiladiTime(Calendar.getInstance());//get object miladiTime
+    	this.mainForm.setAllLabelsTimesHijriMiladiValues(prayersTimes, hijriTime, miladiTime);//set all values to all labels
+    }
+    
+    public void refreshNextDay() throws IOException, InterruptedException {//regenerate main form with new prayer times for next day	
     	PrayersTimes prayersTimes = new PrayersTimes(Calendar.getInstance());//get object prayersTimes
     	this.prayerTimesInMinutes = prayersTimes.getAllPrayrTimesInMinutes();//get all prayer times in minutes
     	
@@ -294,4 +342,28 @@ public class PrayerTimesHandler extends Thread implements Iconfig{
         if (cal1.get(Calendar.YEAR) > cal2.get(Calendar.YEAR)) return true;
         return cal1.get(Calendar.DAY_OF_YEAR) > cal2.get(Calendar.DAY_OF_YEAR);
     }
+    
+    public String getMissingPropertiesValue() {
+		return missingPropertiesValue;
+	}
+
+	public void setMissingPropertiesValue(String missingPropertiesValue) {
+		this.missingPropertiesValue = missingPropertiesValue;
+	}
+    public String getToPropertiesValue() {
+		return toPropertiesValue;
+	}
+
+	public void setToPropertiesValue(String toPropertiesValue) {
+		this.toPropertiesValue = toPropertiesValue;
+	}
+
+
+    public String getActualSalatNameProperties() {
+		return actualSalatNameProperties;
+	}
+
+	public void setActualSalatNameProperties(String actualSalatNameProperties) {
+		this.actualSalatNameProperties = actualSalatNameProperties;
+	}
 }

@@ -71,8 +71,10 @@ public class SettingsForm extends JFrame implements Iconfig{
     private final Image backgroundImage;//main form background image
     private final ImageIcon exitIcon;//exit label icon
     private ImageIcon donateLabelIcon;
+    private MainForm mainForm;
 
-    public SettingsForm(Image backgroundImage, ImageIcon exitIcon) {
+    public SettingsForm(MainForm mainForm , Image backgroundImage, ImageIcon exitIcon) {
+    	this.mainForm = mainForm;
         this.backgroundImage = backgroundImage;
         this.exitIcon = exitIcon;
         this.donateLabelIcon = new ImageIcon(getClass().getResource(donateButtonPath));
@@ -91,9 +93,9 @@ public class SettingsForm extends JFrame implements Iconfig{
         this.mainPanel.setImagePanel(backgroundImage);
 
         this.fontColor = Color.WHITE;
-        this.backColor = new Color(59, 185, 255);
-        this.backColorHover = new Color(142, 235, 236);
-        this.font = new Font("TimesRoman", Font.ITALIC, 13);
+        this.backColor = new Color(48, 144, 199);
+        this.backColorHover = new Color(59, 185, 255);
+        this.font = new Font(Font.MONOSPACED, Font.ITALIC, 14);
 
         this.titlePanel = new TransparentPanel();//create top title panel
         this.titlePanel.setLayout(null);
@@ -106,7 +108,8 @@ public class SettingsForm extends JFrame implements Iconfig{
 
         this.contentPanel = new TransparentPanel();//create main panel
         this.contentPanel.setLayout(null);
-        this.contentPanel.setBounds(150, 40, 400, 340);
+        this.contentPanel.setBounds(153, 40, 400, 340);
+        this.contentPanel.setOpaque(false);
 
         this.titleForm = new JLabel(PropertiesHandler.getSingleton().getValue(1048));//title form
         this.titleForm.setFont(font);
@@ -118,35 +121,50 @@ public class SettingsForm extends JFrame implements Iconfig{
         this.exitLabel.setIcon(exitIcon);
         this.exitLabel.setBounds(510, 0, 40, 40);
 
-        this.locationPanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1064), SwingConstants.CENTER);//location menu label
+        this.locationPanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1064));//location menu label
+        this.locationPanelLabel.setHorizontalTextPosition(SwingConstants.RIGHT);
+        this.locationPanelLabel.setAlignmentX(SwingConstants.RIGHT);
+        this.locationPanelLabel.setIcon(new ImageIcon(getClass().getResource(location_menu_icon)));
         this.locationPanelLabel.setFont(font);
         this.locationPanelLabel.setForeground(fontColor);
         this.locationPanelLabel.setBackground(backColor);
         this.locationPanelLabel.setOpaque(true);
         this.locationPanelLabel.setBounds(10, 10, 130, 40);
 
-        this.timePanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1065), SwingConstants.CENTER);//time menu label
+        this.timePanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1065));//time menu label
+        this.timePanelLabel.setHorizontalTextPosition(SwingConstants.RIGHT);
+        this.timePanelLabel.setAlignmentX(SwingConstants.RIGHT);
+        this.timePanelLabel.setIcon(new ImageIcon(getClass().getResource(time_menu_icon)));
         this.timePanelLabel.setFont(font);
         this.timePanelLabel.setForeground(fontColor);
         this.timePanelLabel.setBackground(backColor);
         this.timePanelLabel.setOpaque(true);
         this.timePanelLabel.setBounds(10, 60, 130, 40);
 
-        this.athanPanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1066), SwingConstants.CENTER);//athan menu label
+        this.athanPanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1066));//athan menu label
+        this.athanPanelLabel.setHorizontalTextPosition(SwingConstants.RIGHT);
+        this.athanPanelLabel.setAlignmentX(SwingConstants.RIGHT);
+        this.athanPanelLabel.setIcon(new ImageIcon(getClass().getResource(athan_menu_icon)));
         this.athanPanelLabel.setFont(font);
         this.athanPanelLabel.setForeground(fontColor);
         this.athanPanelLabel.setBackground(backColor);
         this.athanPanelLabel.setOpaque(true);
         this.athanPanelLabel.setBounds(10, 110, 130, 40);
 
-        this.languagePanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1067), SwingConstants.CENTER);//language menu label
+        this.languagePanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1067));//language menu label
+        this.languagePanelLabel.setHorizontalTextPosition(SwingConstants.RIGHT);
+        this.languagePanelLabel.setAlignmentX(SwingConstants.RIGHT);
+        this.languagePanelLabel.setIcon(new ImageIcon(getClass().getResource(language_menu_icon)));
         this.languagePanelLabel.setFont(font);
         this.languagePanelLabel.setForeground(fontColor);
         this.languagePanelLabel.setBackground(backColor);
         this.languagePanelLabel.setOpaque(true);
         this.languagePanelLabel.setBounds(10, 160, 130, 40);
 
-        this.infoPanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1068), SwingConstants.CENTER);//information menu label
+        this.infoPanelLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1068));//information menu label
+        this.infoPanelLabel.setHorizontalTextPosition(SwingConstants.RIGHT);
+        this.infoPanelLabel.setAlignmentX(SwingConstants.RIGHT);
+        this.infoPanelLabel.setIcon(new ImageIcon(getClass().getResource(information_menu_icon)));
         this.infoPanelLabel.setFont(font);
         this.infoPanelLabel.setForeground(fontColor);
         this.infoPanelLabel.setBackground(backColor);
@@ -400,23 +418,35 @@ public class SettingsForm extends JFrame implements Iconfig{
 
     }
 
-    public void exitLabelMouseClicked(MouseEvent e) {//exit setting form handle
-    	
-    	if (this.mainFrame.isVisible()) {
-            this.mainFrame.dispose();
-            if (AthanPlayer.STARTED) {//kill AthanPlayer if started
-                AthanPlayer.kill();
-            }
+	public void exitLabelMouseClicked(MouseEvent e) {//exit setting form handle
+
+            this.mainFrame.setVisible(false);
+
             java.awt.EventQueue.invokeLater(new Runnable() {
                 @Override
                 public void run() {
-                	StartProgram.isSettingsClosed = true;
-                    StartProgram.startProgrameMethode();
+                    try
+                    {                  
+                        PropertiesHandler.getSingleton().setParameters(UserConfig.getSingleton());//passing userConfig object to propertiesHandler class for getting user selected language for translation
+                    	mainForm.getPrayerTimesHandler().Refresh();
+                    	
+                    	mainForm.getMainPanel().setImagePanel(mainForm.getBackgroundImage());
+                    	mainForm.getMainPanel().setActualPrayerTime(mainForm.getPrayerTimesHandler().getActualPrayerTime());
+                    	mainForm.getMainPanel().repaint();
+                    	
+                    	mainForm.getLocationLabel().setText(UserConfig.getSingleton().getCountry() + " - " + UserConfig.getSingleton().getCity());
+                    	mainForm.getMainFram().setVisible(true);
+                    }
+                    catch(Exception ex)
+                    {
+                    	try {
+                            JOptionPane.showMessageDialog(null, startError, "Error", JOptionPane.ERROR_MESSAGE);//error if sallyUserConfig.xml corrupt
+                        } catch (HeadlessException e1) {
+                        }
+                        System.exit(0);
+                    }
                 }
             });
-        } else {
-            this.mainFrame.setVisible(true);
-        }
     }
 
     public void mainFrameMousePressed(MouseEvent e) {//moving form with mouse
@@ -439,7 +469,7 @@ public class SettingsForm extends JFrame implements Iconfig{
         locationPanelLabel.setBackground(backColorHover);
         contentPanel.removeAll();//empty content panel
         try {
-            contentPanel.add(new LocationPanel(backgroundImage));//adding location panel to content panel
+            contentPanel.add(new LocationPanel());//adding location panel to content panel
         } catch (Exception e) {
             try {
 				JOptionPane.showMessageDialog(null, PropertiesHandler.getSingleton().getValue(1070), PropertiesHandler.getSingleton().getValue(1069), JOptionPane.ERROR_MESSAGE);
@@ -453,7 +483,7 @@ public class SettingsForm extends JFrame implements Iconfig{
     public void initLanguagePanel() throws IOException {//initial language panel
         languagePanelLabel.setBackground(backColorHover);
         contentPanel.removeAll();//empty language panel
-        contentPanel.add(new LanguagesPanel(mainFrame, backgroundImage, exitIcon));//adding language panel to content panel
+        contentPanel.add(new LanguagesPanel(this , backgroundImage , exitIcon));//adding language panel to content panel
         mainFrame.repaint();
         contentPanel.revalidate();
         mainFrame.pack();
@@ -462,7 +492,7 @@ public class SettingsForm extends JFrame implements Iconfig{
     public void initTimePanel() throws IOException {//initial time panel
         timePanelLabel.setBackground(backColorHover);
         contentPanel.removeAll();//empty time panel
-        TimePanel timePanel = new TimePanel(backgroundImage);//adding time panel to content panel
+        TimePanel timePanel = new TimePanel();//adding time panel to content panel
         contentPanel.add(timePanel);
         mainFrame.repaint();
         contentPanel.revalidate();
@@ -472,7 +502,7 @@ public class SettingsForm extends JFrame implements Iconfig{
     public void initAthanPanel() throws IOException {//initial athan panel
         athanPanelLabel.setBackground(backColorHover);
         contentPanel.removeAll();//empty athan panel
-        AthanPanel athanPanel = new AthanPanel(backgroundImage);//adding athan panel to content panel
+        AthanPanel athanPanel = new AthanPanel();//adding athan panel to content panel
         contentPanel.add(athanPanel);
         mainFrame.repaint();
         contentPanel.revalidate();
@@ -481,10 +511,20 @@ public class SettingsForm extends JFrame implements Iconfig{
 
     public void initInfoPanel() {//initial information panel
         contentPanel.removeAll();//empty information panel
-        contentPanel.add(new InfoPanel(backgroundImage));//adding information panel to content panel
+        contentPanel.add(new InfoPanel());//adding information panel to content panel
         mainFrame.repaint();
         contentPanel.revalidate();
         mainFrame.pack();
+    }
+    
+    public void changeMenuTitleLanguage() throws IOException
+    {
+    	this.titleForm.setText(PropertiesHandler.getSingleton().getValue(1048));//title form
+    	this.locationPanelLabel.setText(PropertiesHandler.getSingleton().getValue(1064));//location menu label
+    	this.timePanelLabel.setText(PropertiesHandler.getSingleton().getValue(1065));//time menu label
+    	this.athanPanelLabel.setText(PropertiesHandler.getSingleton().getValue(1066));//athan menu label
+    	this.languagePanelLabel.setText(PropertiesHandler.getSingleton().getValue(1067));//language menu label
+        this.infoPanelLabel.setText(PropertiesHandler.getSingleton().getValue(1068));//information menu label
     }
 
     public int getNumberPanel() {
@@ -494,5 +534,47 @@ public class SettingsForm extends JFrame implements Iconfig{
     public void setNumberPanel(int numberPanel) {
         this.numberPanel = numberPanel;
     }
+    
+
+    public JFrame getMainFrame() {
+		return mainFrame;
+	}
+
+	public void setMainFrame(JFrame mainFrame) {
+		this.mainFrame = mainFrame;
+	}
+	
+
+	public TransparentPanel getContentPanel() {
+		return contentPanel;
+	}
+
+	public void setContentPanel(TransparentPanel contentPanel) {
+		this.contentPanel = contentPanel;
+	}
+
+	public TransparentPanel getMenuPanel() {
+		return menuPanel;
+	}
+
+	public void setMenuPanel(TransparentPanel menuPanel) {
+		this.menuPanel = menuPanel;
+	}
+
+	public TransparentPanel getTitlePanel() {
+		return titlePanel;
+	}
+
+	public void setTitlePanel(TransparentPanel titlePanel) {
+		this.titlePanel = titlePanel;
+	}
+
+	public ImagePanel getMainPanel() {
+		return mainPanel;
+	}
+
+	public void setMainPanel(ImagePanel mainPanel) {
+		this.mainPanel = mainPanel;
+	}
 
 }

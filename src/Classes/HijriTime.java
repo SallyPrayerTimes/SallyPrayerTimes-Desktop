@@ -41,25 +41,18 @@ public class HijriTime {
 
     public HijriTime(Calendar cal) throws IOException{//create a single hijriTime object
     	this.calendar = cal;
-        this.month = calendar.get(Calendar.MONTH) + 1;
-        this.year = calendar.get(Calendar.YEAR);
         this.hijriDaysNames = getDaysNames();//getting translating hijri days names 
         this.hijriMonthsNames = getMonthsNames();//getting translating hijri months names 
 
         try{
-        this.day = calendar.get(Calendar.DAY_OF_MONTH) + Integer.valueOf(UserConfig.getSingleton().getHijri());
+        this.calendar.add(Calendar.DATE, Integer.valueOf(UserConfig.getSingleton().getHijri()));
         }catch(Exception e){
-        	this.day = calendar.get(Calendar.DAY_OF_MONTH);
+        	this.calendar = cal;
         }
-        
-        if(day > 30){
-        	day = day - 30;
-        	month = month + 1;
-        	if(month > 12){
-        		year = year + 1 ;
-        		month = 1;
-        	}
-        }
+      
+        this.day = calendar.get(Calendar.DAY_OF_MONTH);
+        this.month = calendar.get(Calendar.MONTH) + 1;
+        this.year = calendar.get(Calendar.YEAR);
     }
     
     public String[] getDaysNames() throws IOException {//getting translating hijri days names 

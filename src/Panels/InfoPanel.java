@@ -20,28 +20,32 @@
 package Panels;
 
 import java.awt.Color;
-import java.awt.Image;
+import java.awt.Font;
 
 import javax.swing.JTextArea;
+import javax.swing.border.LineBorder;
 
 import Classes.Iconfig;
-import Classes.ImagePanel;
 import Classes.PropertiesHandler;
+import Classes.TransparentPanel;
 
-public class InfoPanel extends ImagePanel implements Iconfig{
+public class InfoPanel extends TransparentPanel implements Iconfig{
 
     private static final long serialVersionUID = 1L;
     private final JTextArea myInfo;//text information
 
-    public InfoPanel(Image imageBackground) {//create InfoPanel object and set parameters
+    public InfoPanel() {//create InfoPanel object and set parameters
         this.setLayout(null);
         this.setVisible(true);
         this.setSize(400, 340);
         this.myInfo = new JTextArea();
         this.myInfo.setEditable(false);
+        this.myInfo.setFont(new Font("TimesRoman", Font.ROMAN_BASELINE, 14));
         this.myInfo.setBackground(new Color(59, 185, 255));
+        this.myInfo.setBorder(new LineBorder(Color.WHITE,1));
+        this.myInfo.setOpaque(false);
         this.myInfo.setForeground(Color.WHITE);
-        this.setImagePanel(imageBackground);
+        this.setOpaque(false);
         
         //set information
         try {

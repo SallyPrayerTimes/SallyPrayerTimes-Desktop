@@ -20,24 +20,24 @@
 package Panels;
 
 import java.awt.Color;
-import java.awt.Image;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
 
 import javax.swing.ButtonGroup;
+import javax.swing.ImageIcon;
 import javax.swing.JComboBox;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JRadioButton;
 
 import Classes.Iconfig;
-import Classes.ImagePanel;
 import Classes.PropertiesHandler;
+import Classes.TransparentPanel;
 import Classes.UserConfig;
 import Classes.XmlHandler;
 
-public class TimePanel extends ImagePanel implements Iconfig{
+public class TimePanel extends TransparentPanel implements Iconfig{
 
     private static final long serialVersionUID = 1L;
     private Color color;
@@ -71,12 +71,12 @@ public class TimePanel extends ImagePanel implements Iconfig{
     private JComboBox maghribAdjustmentComboBox;//maghrib time adjustment
     private JComboBox ishaaAdjustmentComboBox;//ishaa time adjustment
 
-    public TimePanel(Image imageBackground) throws IOException {//create TimePanel object and set parameters
+    public TimePanel() throws IOException {//create TimePanel object and set parameters
         this.setLayout(null);
         this.setVisible(true);
         this.setSize(400, 340);
         this.color = Color.WHITE;
-        this.setImagePanel(imageBackground);
+        this.setOpaque(false);
 
         this.calculationMethodsLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1071));
         this.calculationMethodsLabel.setBounds(10, 10, 200, 30);
@@ -283,13 +283,17 @@ public class TimePanel extends ImagePanel implements Iconfig{
         });
 
         this.shafi3iMazhabRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1076));
-        this.shafi3iMazhabRadioButton.setBackground(color);
+        this.shafi3iMazhabRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.shafi3iMazhabRadioButton.setForeground(color);
+        this.shafi3iMazhabRadioButton.setOpaque(false);
         this.shafi3iMazhabRadioButton.setBounds(10, 120, 120, 20);
         this.add(shafi3iMazhabRadioButton);
         this.shafi3iMazhabRadioButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 try {
+                	shafi3iMazhabRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
+                	hanafiMazhabRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
                     XmlHandler.getSingleton().setUserConfig(mazhab, shafi3i);//save selected user mazhab shafi3i
                     UserConfig.getSingleton().setMazhab(shafi3i);
                 } catch (Exception e1) {
@@ -302,13 +306,17 @@ public class TimePanel extends ImagePanel implements Iconfig{
         });
 
         this.hanafiMazhabRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1077));
-        this.hanafiMazhabRadioButton.setBackground(color);
+        this.hanafiMazhabRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.hanafiMazhabRadioButton.setForeground(color);
+        this.hanafiMazhabRadioButton.setOpaque(false);
         this.hanafiMazhabRadioButton.setBounds(10, 150, 120, 20);
         this.add(hanafiMazhabRadioButton);
         this.hanafiMazhabRadioButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 try {
+                	hanafiMazhabRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
+                	shafi3iMazhabRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
                     XmlHandler.getSingleton().setUserConfig(mazhab, hanafi);//save selected user mazhab hanafi
                     UserConfig.getSingleton().setMazhab(hanafi);
                 } catch (Exception e1) {
@@ -321,13 +329,17 @@ public class TimePanel extends ImagePanel implements Iconfig{
         });
 
         this.standardTypeTimeRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1078));
-        this.standardTypeTimeRadioButton.setBackground(color);
+        this.standardTypeTimeRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.standardTypeTimeRadioButton.setForeground(color);
+        this.standardTypeTimeRadioButton.setOpaque(false);
         this.standardTypeTimeRadioButton.setBounds(190, 120, 120, 20);
         this.add(standardTypeTimeRadioButton);
         this.standardTypeTimeRadioButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 try {
+                    standardTypeTimeRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
+                    summeryTypeTimeRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
                     XmlHandler.getSingleton().setUserConfig(typetime, standard);//save selected user type time standard
                     UserConfig.getSingleton().setTypetime(standard);
                 } catch (Exception e1) {
@@ -340,13 +352,17 @@ public class TimePanel extends ImagePanel implements Iconfig{
         });
 
         this.summeryTypeTimeRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1079));
-        this.summeryTypeTimeRadioButton.setBackground(color);
+        this.summeryTypeTimeRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.summeryTypeTimeRadioButton.setForeground(color);
+        this.summeryTypeTimeRadioButton.setOpaque(false);
         this.summeryTypeTimeRadioButton.setBounds(190, 150, 120, 20);
         this.add(summeryTypeTimeRadioButton);
         this.summeryTypeTimeRadioButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 try {
+                	summeryTypeTimeRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
+                	standardTypeTimeRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
                     XmlHandler.getSingleton().setUserConfig(typetime, sayfi);//save selected user type time summer
                     UserConfig.getSingleton().setTypetime(sayfi);
                 } catch (Exception e1) {
@@ -423,13 +439,17 @@ public class TimePanel extends ImagePanel implements Iconfig{
         this.add(_time12or24);
 
         this.time12or24_12 = new JRadioButton("12 h");
-        this.time12or24_12.setBackground(color);
+        this.time12or24_12.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.time12or24_12.setForeground(color);
+        this.time12or24_12.setOpaque(false);
         this.time12or24_12.setBounds(140, 310, 80, 20);
         this.add(time12or24_12);
         this.time12or24_12.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 try {
+                	time12or24_12.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
+                	time12or24_24.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
                     XmlHandler.getSingleton().setUserConfig(time12or24, "12");//save selected user time12or24 12
                     UserConfig.getSingleton().setTime12or24("12");
                 } catch (Exception e1) {
@@ -442,13 +462,17 @@ public class TimePanel extends ImagePanel implements Iconfig{
         });
 
         this.time12or24_24 = new JRadioButton("24 H");
-        this.time12or24_24.setBackground(color);
+        this.time12or24_24.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.time12or24_24.setForeground(color);
+        this.time12or24_24.setOpaque(false);
         this.time12or24_24.setBounds(240, 310, 80, 20);
         this.add(time12or24_24);
         this.time12or24_24.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 try {
+                	time12or24_24.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
+                	time12or24_12.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
                     XmlHandler.getSingleton().setUserConfig(time12or24, "24");//save selected user time12or24 24
                     UserConfig.getSingleton().setTime12or24("24");
                 } catch (Exception e1) {
@@ -502,26 +526,32 @@ public class TimePanel extends ImagePanel implements Iconfig{
 
             if(UserConfig.getSingleton().getMazhab().equalsIgnoreCase(shafi3i)){
             	shafi3iMazhabRadioButton.setSelected(true);
+            	shafi3iMazhabRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
             }else{
             	if(UserConfig.getSingleton().getMazhab().equalsIgnoreCase(hanafi)){
                 	hanafiMazhabRadioButton.setSelected(true);
+                	hanafiMazhabRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
                 }
             }
             
 
             if(UserConfig.getSingleton().getTypetime().equalsIgnoreCase(standard)){
             	standardTypeTimeRadioButton.setSelected(true);
+            	standardTypeTimeRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
             }else{
             	if(UserConfig.getSingleton().getTypetime().equalsIgnoreCase(sayfi)){
                 	summeryTypeTimeRadioButton.setSelected(true);
+                	summeryTypeTimeRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
                 }
             }
             
             if(UserConfig.getSingleton().getTime12or24().equalsIgnoreCase("12")){
             	time12or24_12.setSelected(true);
+            	time12or24_12.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
             }else{
             	if(UserConfig.getSingleton().getTime12or24().equalsIgnoreCase("24")){
                 	time12or24_24.setSelected(true);
+                	time12or24_24.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
                 }
             }
 

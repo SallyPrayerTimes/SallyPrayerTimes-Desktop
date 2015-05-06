@@ -31,8 +31,9 @@ public class MainImagePanel extends JPanel {
     private Image imagePanel;
     private int actualPrayerTime;
 
-    public MainImagePanel(Image image) {
+    public MainImagePanel(Image image , int actualPrayerTime) {
         this.imagePanel = image;
+        this.actualPrayerTime = actualPrayerTime;
     }
     
     public void setActualPrayerTime(int actualPrayerTime) {

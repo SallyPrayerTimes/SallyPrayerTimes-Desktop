@@ -20,7 +20,6 @@
 package Panels;
 
 import java.awt.Color;
-import java.awt.Image;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.io.IOException;
@@ -34,12 +33,12 @@ import javax.swing.JOptionPane;
 
 import Classes.AthanPlayer;
 import Classes.Iconfig;
-import Classes.ImagePanel;
 import Classes.PropertiesHandler;
+import Classes.TransparentPanel;
 import Classes.UserConfig;
 import Classes.XmlHandler;
 
-public class AthanPanel extends ImagePanel implements Iconfig{
+public class AthanPanel extends TransparentPanel implements Iconfig{
 
     private static final long serialVersionUID = 1L;
 
@@ -68,13 +67,13 @@ public class AthanPanel extends ImagePanel implements Iconfig{
 
     private AthanPlayer athanPlayer;//player object to play athan
 
-    public AthanPanel(Image imageBackground) throws IOException {//create AthanPanel object and set parameters
+    public AthanPanel() throws IOException {//create AthanPanel object and set parameters
 
         this.setLayout(null);
         this.setVisible(true);
         this.setSize(400, 340);
         this.color = Color.WHITE;
-        this.setImagePanel(imageBackground);
+        this.setOpaque(false);
 
         this.athanLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1066));
         this.athanLabel.setBounds(10, 10, 200, 30);
@@ -135,18 +134,21 @@ public class AthanPanel extends ImagePanel implements Iconfig{
 
         //play button
         this.playButton = new JButton(new ImageIcon(getClass().getResource(playIcon)));
+        this.playButton.setOpaque(false);
         this.playButton.setBounds(20, 120, 50, 30);
         this.playButton.setBackground(new Color(0, 0, 0, 0));
         this.playButton.setOpaque(false);
         this.playButton.setBorder(BorderFactory.createEmptyBorder());
         //pause button
         this.pauseButton = new JButton(new ImageIcon(getClass().getResource(pauseicon)));
+        this.pauseButton.setOpaque(false);
         this.pauseButton.setBounds(140, 120, 50, 30);
         this.pauseButton.setBackground(new Color(0, 0, 0, 0));
         this.pauseButton.setOpaque(false);
         this.pauseButton.setBorder(BorderFactory.createEmptyBorder());
         //stop button
         this.stopButton = new JButton(new ImageIcon(getClass().getResource(stopIcon)));
+        this.stopButton.setOpaque(false);
         this.stopButton.setBounds(260, 120, 50, 30);
         this.stopButton.setBackground(new Color(0, 0, 0, 0));
         this.stopButton.setOpaque(false);
