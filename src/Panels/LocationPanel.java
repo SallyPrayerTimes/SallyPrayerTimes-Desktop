@@ -40,6 +40,7 @@ import javax.swing.JLabel;
 import javax.swing.JList;
 import javax.swing.JOptionPane;
 import javax.swing.JScrollPane;
+import javax.swing.JTextField;
 import javax.swing.ListSelectionModel;
 import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
@@ -62,10 +63,10 @@ public class LocationPanel extends TransparentPanel implements Iconfig{
 
     private static final long serialVersionUID = 1L;
     private final Color color;
-    private JList countriesList;//countries names list
-    private JList citiesList;//cities names list
-    private final DefaultListModel countriesModel;
-    private DefaultListModel citiesModel;
+    private JList <String> countriesList;//countries names list
+    private JList <String> citiesList;//cities names list
+    private final DefaultListModel <String> countriesModel;
+    private DefaultListModel <String> citiesModel;
     private final JScrollPane countriesListScrollPane;
     private final JScrollPane citiesListScrollPane;
     private ArrayList<Country> arrayCountries;//all countries objects
@@ -74,10 +75,10 @@ public class LocationPanel extends TransparentPanel implements Iconfig{
     private final JLabel citiesLabel;
     private final JLabel longitudeLabel;
     private final JLabel latitudeLabel;
-    private JLabel longitudeValue;
-    private JLabel latitudeValue;
+    private JTextField longitudeValue;
+    private JTextField latitudeValue;
     private final JLabel timezoneLabel;
-    private JLabel timezoneValue;
+    private JTextField timezoneValue;
     private final JButton applyButton;//set country , city , longitude , latitude and time zone from selected city
 
     private ArrayList<City> arrayCities2;
@@ -108,13 +109,12 @@ public class LocationPanel extends TransparentPanel implements Iconfig{
         this.longitudeLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1051));
         this.latitudeLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1052));
         this.timezoneLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1053));
-        this.longitudeValue = new JLabel();
-        this.latitudeValue = new JLabel();
-        this.timezoneValue = new JLabel();
+        this.longitudeValue = new JTextField();
+        this.latitudeValue = new JTextField();
+        this.timezoneValue = new JTextField();
         this.getLocationFromInternet = new JLabel(PropertiesHandler.getSingleton().getValue(1105));
         this.getLocationFromInternet.setFont(new Font("TimesRoman", Font.ROMAN_BASELINE, 13));
         this.applyButton = new JButton(PropertiesHandler.getSingleton().getValue(1054));
-        this.applyButton.setEnabled(false);
         this.applyButton.addActionListener(new ActionListener() {
 
             @Override
@@ -169,33 +169,35 @@ public class LocationPanel extends TransparentPanel implements Iconfig{
         this.longitudeLabel.setForeground(color);
         this.latitudeLabel.setForeground(color);
         this.timezoneLabel.setForeground(color);
-        this.longitudeValue.setForeground(color);
-        this.latitudeValue.setForeground(color);
-        this.timezoneValue.setForeground(color);
+        this.longitudeValue.setForeground(Color.black);
+        this.latitudeValue.setForeground(Color.black);
+        this.timezoneValue.setForeground(Color.black);
         this.getLocationFromInternet.setForeground(color);
 
         this.countriesLabel.setBounds(5, 50, 100, 25);
         this.citiesLabel.setBounds(195, 50, 100, 25);
         
         this.longitudeLabel.setBounds(10, 240, 120, 30);
-        this.latitudeLabel.setBounds(140, 240, 120, 30);
-        this.timezoneLabel.setBounds(260, 240, 120, 30);
-        this.longitudeValue.setBounds(20, 265, 120, 30);
+        this.latitudeLabel.setBounds(150, 240, 120, 30);
+        this.timezoneLabel.setBounds(290, 240, 120, 30);
+        
+        this.longitudeValue.setBounds(10, 265, 120, 30);
         this.latitudeValue.setBounds(150, 265, 120, 30);
-        this.timezoneValue.setBounds(270, 265, 60, 30);
+        this.timezoneValue.setBounds(290, 265, 60, 30);
+        
         this.applyButton.setBounds(125, 300, 150, 30);
 
-        this.countriesModel = new DefaultListModel();
-        this.citiesModel = new DefaultListModel();
+        this.countriesModel = new DefaultListModel<String>();
+        this.citiesModel = new DefaultListModel<String>();
 
-        this.countriesList = new JList();
+        this.countriesList = new JList<String>();
         this.countriesList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
         this.countriesList.setSelectedIndex(0);
 
         this.countriesList.setSelectionBackground(Color.GRAY);
         this.countriesList.setSelectionForeground(Color.WHITE);
 
-        this.citiesList = new JList();
+        this.citiesList = new JList<String>();
         this.citiesList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
         this.citiesList.setSelectedIndex(0);
 
@@ -353,6 +355,8 @@ public class LocationPanel extends TransparentPanel implements Iconfig{
             	longitudeValue.setText(longitude);
                 latitudeValue.setText(latitude);
                 timezoneValue.setText(timezone);
+                
+                JOptionPane.showMessageDialog(null, PropertiesHandler.getSingleton().getValue(1060), PropertiesHandler.getSingleton().getValue(1059), JOptionPane.INFORMATION_MESSAGE, new ImageIcon(getClass().getResource("/Images/Settings/successDialog.png")));
         	}else{
         		this.locationFromInternet.setEnabled(true);
         		this.locationFromInternet.setIcon(locationfromInternetIcon);
@@ -377,21 +381,26 @@ public class LocationPanel extends TransparentPanel implements Iconfig{
 			BufferedReader in = new BufferedReader(new InputStreamReader(whatismyip.openStream()));
 			String ip = in.readLine();
 
-			URL url = new URL("http://freegeoip.net/json/"+ip);
+			URL url = new URL("http://ip-api.com/json/"+ip);
 	        BufferedReader inn = new BufferedReader(new InputStreamReader(url.openStream()));
 	        String s = inn.readLine();
 
 			JSONParser jsonParser = new JSONParser();
 			JSONObject jsonObject = (JSONObject) jsonParser.parse(s);
 			
-			country = jsonObject.get("country_name").toString();
+			country = jsonObject.get("country").toString();
 			city = jsonObject.get("city").toString();
-			longitude = jsonObject.get("longitude").toString();
-			latitude = jsonObject.get("latitude").toString();
+			longitude = jsonObject.get("lon").toString();
+			latitude = jsonObject.get("lat").toString();
 			
-			TimeZone tz = TimeZone.getTimeZone((String)jsonObject.get("time_zone"));
+            TimeZone tz = TimeZone.getTimeZone((String)jsonObject.get("timezone"));		
 			
-			timezone = String.valueOf(((tz.getRawOffset()) / (60 * 60 * 1000D)));
+			//timezone = String.valueOf(((tz.getOffset(System.currentTimeMillis())) / (60 * 60 * 1000D)));
+            
+		    int offsetInMillis = tz.getOffset(System.currentTimeMillis());
+
+		    String offset = String.format("%02d.%02d", Math.abs(offsetInMillis / 3600000), Math.abs((offsetInMillis / 60000) % 60));
+		    timezone = (offsetInMillis >= 0 ? "" : "-") + offset;
 
 			if(!country.equalsIgnoreCase("") && !city.equalsIgnoreCase("") && !longitude.equalsIgnoreCase("") && !latitude.equalsIgnoreCase("") && !timezone.equalsIgnoreCase(""))
 			{

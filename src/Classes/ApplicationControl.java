@@ -36,11 +36,15 @@ public class ApplicationControl {
     	this.applicationName = applicationName;
     }
     
-    public boolean isApplicationRunning(){
+    @SuppressWarnings("resource")
+	public boolean isApplicationRunning(){
     	try 
         {
            file = new File(System.getProperty("user.home"), applicationName);
-           channel = new RandomAccessFile(file, "rw").getChannel();
+           
+           RandomAccessFile raf = new RandomAccessFile(file, "rw");
+           
+           channel = raf.getChannel();
    
            try 
            {

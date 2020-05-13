@@ -55,13 +55,13 @@ public class AthanPanel extends TransparentPanel implements Iconfig{
     private JLabel maghribLabel;
     private JLabel ishaaLabel;
 
-    private JComboBox athanComboBox;//athan list
-    private JComboBox fajrAthanTypeComboBox;//fajr athan type
-    private JComboBox shorou9AthanTypeComboBox;//shorou9 athan type
-    private JComboBox duhrAthanTypeComboBox;//duhr athan type
-    private JComboBox asrAthanTypeComboBox;//asr athan type
-    private JComboBox maghribAthanTypeComboBox;//maghrib athan type
-    private JComboBox ishaaAthanTypeComboBox;//ishaa athan type
+    private JComboBox <String> athanComboBox;//athan list
+    private JComboBox <String> fajrAthanTypeComboBox;//fajr athan type
+    private JComboBox <String> shorou9AthanTypeComboBox;//shorou9 athan type
+    private JComboBox <String> duhrAthanTypeComboBox;//duhr athan type
+    private JComboBox <String> asrAthanTypeComboBox;//asr athan type
+    private JComboBox <String> maghribAthanTypeComboBox;//maghrib athan type
+    private JComboBox <String> ishaaAthanTypeComboBox;//ishaa athan type
 
     private Color color;
 
@@ -80,7 +80,7 @@ public class AthanPanel extends TransparentPanel implements Iconfig{
         this.athanLabel.setForeground(color);
         this.add(athanLabel);
 
-        this.athanComboBox = new JComboBox();
+        this.athanComboBox = new JComboBox<String>();
         this.athanComboBox.setBackground(color);
         this.athanComboBox.setOpaque(false);
         this.athanComboBox.setBounds(10, 50, 360, 30);
@@ -217,7 +217,7 @@ public class AthanPanel extends TransparentPanel implements Iconfig{
         this.ishaaLabel.setForeground(color);
         this.add(ishaaLabel);
 
-        this.fajrAthanTypeComboBox = new JComboBox();
+        this.fajrAthanTypeComboBox = new JComboBox<String>();
         this.fajrAthanTypeComboBox.setBackground(color);
         this.fajrAthanTypeComboBox.setBounds(10, 230, 100, 20);
         addAthanTypeToCombo(fajrAthanTypeComboBox);
@@ -237,7 +237,7 @@ public class AthanPanel extends TransparentPanel implements Iconfig{
             }
         });
 
-        this.shorou9AthanTypeComboBox = new JComboBox();
+        this.shorou9AthanTypeComboBox = new JComboBox<String>();
         this.shorou9AthanTypeComboBox.setBackground(color);
         this.shorou9AthanTypeComboBox.setBounds(120, 230, 100, 20);
         addAthanTypeToCombo(shorou9AthanTypeComboBox);
@@ -257,7 +257,7 @@ public class AthanPanel extends TransparentPanel implements Iconfig{
             }
         });
 
-        this.duhrAthanTypeComboBox = new JComboBox();
+        this.duhrAthanTypeComboBox = new JComboBox<String>();
         this.duhrAthanTypeComboBox.setBackground(color);
         this.duhrAthanTypeComboBox.setBounds(230, 230, 100, 20);
         addAthanTypeToCombo(duhrAthanTypeComboBox);
@@ -277,7 +277,7 @@ public class AthanPanel extends TransparentPanel implements Iconfig{
             }
         });
 
-        this.asrAthanTypeComboBox = new JComboBox();
+        this.asrAthanTypeComboBox = new JComboBox<String>();
         this.asrAthanTypeComboBox.setBackground(color);
         this.asrAthanTypeComboBox.setBounds(10, 290, 100, 20);
         addAthanTypeToCombo(asrAthanTypeComboBox);
@@ -297,7 +297,7 @@ public class AthanPanel extends TransparentPanel implements Iconfig{
             }
         });
 
-        this.maghribAthanTypeComboBox = new JComboBox();
+        this.maghribAthanTypeComboBox = new JComboBox<String>();
         this.maghribAthanTypeComboBox.setBackground(color);
         this.maghribAthanTypeComboBox.setBounds(120, 290, 100, 20);
         addAthanTypeToCombo(maghribAthanTypeComboBox);
@@ -317,7 +317,7 @@ public class AthanPanel extends TransparentPanel implements Iconfig{
             }
         });
 
-        this.ishaaAthanTypeComboBox = new JComboBox();
+        this.ishaaAthanTypeComboBox = new JComboBox<String>();
         this.ishaaAthanTypeComboBox.setBackground(color);
         this.ishaaAthanTypeComboBox.setBounds(230, 290, 100, 20);
         addAthanTypeToCombo(ishaaAthanTypeComboBox);
@@ -368,7 +368,7 @@ public class AthanPanel extends TransparentPanel implements Iconfig{
 
     }
 
-    private void addAthanTypeToCombo(JComboBox combo) throws IOException {//adding translated athan types
+    private void addAthanTypeToCombo(JComboBox <String> combo) throws IOException {//adding translated athan types
         combo.addItem("1- " + PropertiesHandler.getSingleton().getValue(1095));
         combo.addItem("2- " + PropertiesHandler.getSingleton().getValue(1096));
         combo.addItem("3- " + PropertiesHandler.getSingleton().getValue(1097));

@@ -21,6 +21,7 @@ package Classes;
 
 import java.awt.Color;
 import java.awt.Font;
+import java.awt.Frame;
 import java.awt.Image;
 import java.awt.MenuItem;
 import java.awt.PopupMenu;
@@ -68,7 +69,6 @@ public class MainForm extends JFrame implements Iconfig{
     
     private JLabel hijriTime;//hijri date
     private JLabel miladiTime;//miladi date
-    private JLabel donateLabel;//donate label
     private JLabel location;//location name
     private JLabel locationFromInternet;//get location from internet
     private JLabel fajrName;//fajr name
@@ -159,6 +159,8 @@ public class MainForm extends JFrame implements Iconfig{
 		default:this.backgroundImage = new ImageIcon(getClass().getResource(shorou9Background)).getImage();break;
         }
         this.mainFrame = new JFrame();
+        this.mainFrame.setIconImage(new ImageIcon(getClass().getResource(sallyIcon)).getImage());
+        this.mainFrame.setTitle(PropertiesHandler.getSingleton().getValue(1061));
         this.mainPanel = new MainImagePanel(getBackgroundImage() , prayerTimesHandler.getActualPrayerTime());
         this.mainPanel.setLayout(null);
         this.font = new Font("TimesRoman", Font.ITALIC, 15);
@@ -306,48 +308,6 @@ public class MainForm extends JFrame implements Iconfig{
             this.miladiTime.setBounds(5, 3, 250, 20);
         }
         this.location.setBounds(0, 40, 550, 30);
-        
-        this.donateLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1106));
-        this.donateLabel.setFont(fontMiladiHijriTimes);
-        this.donateLabel.setBounds(420, 3, 50, 20);
-        this.donateLabel.setForeground(Color.WHITE);
-        this.donateLabel.addMouseListener(new MouseAdapter() {
-			@Override
-			public void mouseClicked(MouseEvent e) {
-				String url = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FJDAFTPKN2S2W";
-				String os = System.getProperty("os.name").toLowerCase();
-			    Runtime rt = Runtime.getRuntime();
-			 
-				try{
-			 
-				    if (os.indexOf( "win" ) >= 0) {
-			 
-				        // this doesn't support showing urls in the form of "page.html#nameLink" 
-				        rt.exec( "rundll32 url.dll,FileProtocolHandler " + url);
-			 
-				    } else if (os.indexOf( "mac" ) >= 0) {
-			 
-				        rt.exec( "open " + url);
-			 
-			            } else if (os.indexOf( "nix") >=0 || os.indexOf( "nux") >=0) {
-			 
-				        // Do a best guess on unix until we get a platform independent way
-				        // Build a list of browsers to try, in this order.
-				        String[] browsers = {"epiphany", "firefox", "mozilla", "konqueror",
-				       			             "netscape","opera","links","lynx"};
-			 
-				        // Build a command string which looks like "browser1 "url" || browser2 "url" ||..."
-				        StringBuffer cmd = new StringBuffer();
-				        for (int i=0; i<browsers.length; i++)
-				            cmd.append( (i==0  ? "" : " || " ) + browsers[i] +" \"" + url + "\" ");
-			 
-				        rt.exec(new String[] { "sh", "-c", cmd.toString() });
-			 
-			           } else {
-			           }
-			       }catch (Exception ex){}	
-			}
-		});
 
         this.locationFromInternet.setBounds(260, 70, 20, 20);
         this.locationFromInternet.addMouseListener(new MouseAdapter() {
@@ -509,7 +469,6 @@ public class MainForm extends JFrame implements Iconfig{
         this.mainPanel.add(digitalClock);
         this.mainPanel.add(nextPrayer);
         this.mainPanel.add(settings);
-        this.mainPanel.add(donateLabel);
         
         this.mainPanel.add(fajrAthan);
         this.mainPanel.add(shorou9Athan);
@@ -554,10 +513,16 @@ public class MainForm extends JFrame implements Iconfig{
     }
 
 	public void exitLabelMouseClicked(MouseEvent e) {//hid main form and display try icon
-        
         if (!SystemTray.isSupported()) {
-            System.exit(0);
-        } else {
+			    if(e.getClickCount() == 2) 
+			  	{
+			  	 System.exit(0);
+			    }
+			  	else 
+			  	{
+		        	this.mainFrame.setState(Frame.ICONIFIED);
+			  	}
+          } else {
             if (this.mainFrame.isVisible()) {
                 this.mainFrame.dispose();
             }
@@ -651,21 +616,27 @@ public class MainForm extends JFrame implements Iconfig{
 			BufferedReader in = new BufferedReader(new InputStreamReader(whatismyip.openStream()));
 			String ip = in.readLine();
 
-			URL url = new URL("http://freegeoip.net/json/"+ip);
+			URL url = new URL("http://ip-api.com/json/"+ip);
 	        BufferedReader inn = new BufferedReader(new InputStreamReader(url.openStream()));
 	        String s = inn.readLine();
 
 			JSONParser jsonParser = new JSONParser();
 			JSONObject jsonObject = (JSONObject) jsonParser.parse(s);
 			
-			country = jsonObject.get("country_name").toString();
+			country = jsonObject.get("country").toString();
 			city = jsonObject.get("city").toString();
-			longitude = jsonObject.get("longitude").toString();
-			latitude = jsonObject.get("latitude").toString();
+			longitude = jsonObject.get("lon").toString();
+			latitude = jsonObject.get("lat").toString();
 			
-			TimeZone tz = TimeZone.getTimeZone((String)jsonObject.get("time_zone"));
+			TimeZone tz = TimeZone.getTimeZone((String)jsonObject.get("timezone"));		
 			
-			timezone = String.valueOf(((tz.getRawOffset()) / (60 * 60 * 1000D)));
+			//timezone = String.valueOf(((tz.getOffset(System.currentTimeMillis())) / (60 * 60 * 1000D)));
+			
+		    int offsetInMillis = tz.getOffset(System.currentTimeMillis());
+
+		    String offset = String.format("%02d.%02d", Math.abs(offsetInMillis / 3600000), Math.abs((offsetInMillis / 60000) % 60));
+		    timezone = (offsetInMillis >= 0 ? "" : "-") + offset;
+		    
 
 			if(!country.equalsIgnoreCase("") && !city.equalsIgnoreCase("") && !longitude.equalsIgnoreCase("") && !latitude.equalsIgnoreCase("") && !timezone.equalsIgnoreCase(""))
 			{
@@ -697,7 +668,6 @@ public class MainForm extends JFrame implements Iconfig{
 
     public void setAllLabelsTimesHijriMiladiValues(PrayersTimes prayersTimes, HijriTime hijriTime, MiladiTime miladiTime) throws IOException {//set all prayers times and hijri and miladi times 
         
-    	this.donateLabel.setText(PropertiesHandler.getSingleton().getValue(1106));
         this.fajrName.setText(PropertiesHandler.getSingleton().getValue(1020));
         this.shorou9Name.setText(PropertiesHandler.getSingleton().getValue(1021));
         this.duhrName.setText(PropertiesHandler.getSingleton().getValue(1022));

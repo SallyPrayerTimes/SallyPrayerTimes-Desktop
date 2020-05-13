@@ -61,15 +61,15 @@ public class TimePanel extends TransparentPanel implements Iconfig{
     private JRadioButton time12or24_12;//12 h
     private JRadioButton time12or24_24;//24 H
 
-    private JComboBox hijriAdjustmentComboBox;//hijri time adjustment
-    private JComboBox timeZoneAdjustmentComboBox;//time zone time adjustment
-    private JComboBox calculationMethodsComboBox;//calculation method adjustment
-    private JComboBox fajrAdjustmentComboBox;//fajr time adjustment
-    private JComboBox shorou9AdjustmentComboBox;//shorou9 time adjustment
-    private JComboBox duhrAdjustmentComboBox;//duhr time adjustment
-    private JComboBox asrAdjustmentComboBox;//asr time adjustment
-    private JComboBox maghribAdjustmentComboBox;//maghrib time adjustment
-    private JComboBox ishaaAdjustmentComboBox;//ishaa time adjustment
+    private JComboBox <Integer> hijriAdjustmentComboBox;//hijri time adjustment
+    private JComboBox <Double> timeZoneAdjustmentComboBox;//time zone time adjustment
+    private JComboBox <String> calculationMethodsComboBox;//calculation method adjustment
+    private JComboBox <Integer> fajrAdjustmentComboBox;//fajr time adjustment
+    private JComboBox <Integer> shorou9AdjustmentComboBox;//shorou9 time adjustment
+    private JComboBox <Integer> duhrAdjustmentComboBox;//duhr time adjustment
+    private JComboBox <Integer> asrAdjustmentComboBox;//asr time adjustment
+    private JComboBox <Integer> maghribAdjustmentComboBox;//maghrib time adjustment
+    private JComboBox <Integer> ishaaAdjustmentComboBox;//ishaa time adjustment
 
     public TimePanel() throws IOException {//create TimePanel object and set parameters
         this.setLayout(null);
@@ -98,7 +98,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         this.timeZoneAdjustmentLabel.setBounds(190, 180, 180, 30);
         this.add(timeZoneAdjustmentLabel);
 
-        this.hijriAdjustmentComboBox = new JComboBox();
+        this.hijriAdjustmentComboBox = new JComboBox<Integer>();
         this.hijriAdjustmentComboBox.setBackground(color);
         this.hijriAdjustmentComboBox.setBounds(10, 210, 150, 20);
         addNumbersToCombo10(hijriAdjustmentComboBox);
@@ -118,7 +118,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
             }
         });
 
-        this.timeZoneAdjustmentComboBox = new JComboBox();
+        this.timeZoneAdjustmentComboBox = new JComboBox<Double>();
         this.timeZoneAdjustmentComboBox.setBackground(color);
         this.timeZoneAdjustmentComboBox.setBounds(190, 210, 150, 20);
         addNumbersToCombo20(timeZoneAdjustmentComboBox);
@@ -142,7 +142,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         this.fajrLabel.setBounds(10, 250, 50, 30);
         this.add(fajrLabel);
 
-        this.fajrAdjustmentComboBox = new JComboBox();
+        this.fajrAdjustmentComboBox = new JComboBox<Integer>();
         this.fajrAdjustmentComboBox.setBackground(color);
         this.fajrAdjustmentComboBox.setBounds(10, 280, 50, 20);
         addNumbersToCombo60(fajrAdjustmentComboBox);
@@ -166,7 +166,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         this.shorou9Label.setBounds(70, 250, 50, 30);
         this.add(shorou9Label);
 
-        this.shorou9AdjustmentComboBox = new JComboBox();
+        this.shorou9AdjustmentComboBox = new JComboBox<Integer>();
         this.shorou9AdjustmentComboBox.setBackground(color);
         this.shorou9AdjustmentComboBox.setBounds(70, 280, 50, 20);
         addNumbersToCombo60(shorou9AdjustmentComboBox);
@@ -190,7 +190,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         this.duhrLabel.setBounds(130, 250, 50, 30);
         this.add(duhrLabel);
 
-        this.duhrAdjustmentComboBox = new JComboBox();
+        this.duhrAdjustmentComboBox = new JComboBox<Integer>();
         this.duhrAdjustmentComboBox.setBackground(color);
         this.duhrAdjustmentComboBox.setBounds(130, 280, 50, 20);
         addNumbersToCombo60(duhrAdjustmentComboBox);
@@ -214,7 +214,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         this.asrLabel.setBounds(190, 250, 50, 30);
         this.add(asrLabel);
 
-        this.asrAdjustmentComboBox = new JComboBox();
+        this.asrAdjustmentComboBox = new JComboBox<Integer>();
         this.asrAdjustmentComboBox.setBackground(color);
         this.asrAdjustmentComboBox.setBounds(190, 280, 50, 20);
         addNumbersToCombo60(asrAdjustmentComboBox);
@@ -238,7 +238,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         this.maghribLabel.setBounds(250, 250, 50, 30);
         this.add(maghribLabel);
 
-        this.maghribAdjustmentComboBox = new JComboBox();
+        this.maghribAdjustmentComboBox = new JComboBox<Integer>();
         this.maghribAdjustmentComboBox.setBackground(color);
         this.maghribAdjustmentComboBox.setBounds(250, 280, 50, 20);
         addNumbersToCombo60(maghribAdjustmentComboBox);
@@ -262,7 +262,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         this.ishaaLabel.setBounds(310, 250, 50, 30);
         this.add(ishaaLabel);
 
-        this.ishaaAdjustmentComboBox = new JComboBox();
+        this.ishaaAdjustmentComboBox = new JComboBox<Integer>();
         this.ishaaAdjustmentComboBox.setBackground(color);
         this.ishaaAdjustmentComboBox.setBounds(310, 280, 50, 20);
         addNumbersToCombo60(ishaaAdjustmentComboBox);
@@ -381,7 +381,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         bg2.add(shafi3iMazhabRadioButton);
         bg2.add(hanafiMazhabRadioButton);
 
-        this.calculationMethodsComboBox = new JComboBox();
+        this.calculationMethodsComboBox = new JComboBox<String>();
         this.calculationMethodsComboBox.setBackground(color);
         this.calculationMethodsComboBox.setOpaque(false);
         this.calculationMethodsComboBox.setBounds(10, 50, 360, 30);
@@ -568,7 +568,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
 
     }
 
-    private void addNumbersToCombo10(JComboBox combo) {//add numbers from -10 to 10
+    private void addNumbersToCombo10(JComboBox<Integer> combo) {//add numbers from -10 to 10
         int i;
         int j;
         for (i = 0; i <= 10; i++) {
@@ -581,7 +581,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         }
     }
 
-    private void addNumbersToCombo20(JComboBox combo) {//add numbers from -20 to 20
+    private void addNumbersToCombo20(JComboBox<Double> combo) {//add numbers from -20 to 20
         double i;
         double j;
         for (i = 0; i <= 20; i += 0.5) {
@@ -594,7 +594,7 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         }
     }
 
-    private void addNumbersToCombo60(JComboBox combo) {//add numbers from -60 to 60
+    private void addNumbersToCombo60(JComboBox<Integer> combo) {//add numbers from -60 to 60
         int i;
         int j;
         for (i = 0; i <= 60; i++) {

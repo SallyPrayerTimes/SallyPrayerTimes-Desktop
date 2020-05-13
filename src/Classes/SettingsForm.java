@@ -56,7 +56,6 @@ public class SettingsForm extends JFrame implements Iconfig{
     private JLabel timePanelLabel;//time label
     private JLabel athanPanelLabel;//athan label
     private JLabel infoPanelLabel;//information label
-    private JLabel donationLabel;//donation label
 
     private Color fontColor;//font color
     private Color backColor;//back color
@@ -70,18 +69,18 @@ public class SettingsForm extends JFrame implements Iconfig{
     private JFrame mainFrame;//main form
     private final Image backgroundImage;//main form background image
     private final ImageIcon exitIcon;//exit label icon
-    private ImageIcon donateLabelIcon;
+
     private MainForm mainForm;
 
     public SettingsForm(MainForm mainForm , Image backgroundImage, ImageIcon exitIcon) {
     	this.mainForm = mainForm;
         this.backgroundImage = backgroundImage;
         this.exitIcon = exitIcon;
-        this.donateLabelIcon = new ImageIcon(getClass().getResource(donateButtonPath));
     }
 
     public void initMainForm() throws IOException {//create settings form
         this.mainFrame = new JFrame();
+        this.mainFrame.setIconImage(new ImageIcon(getClass().getResource(sallyIcon)).getImage());
         this.mainFrame.setTitle(PropertiesHandler.getSingleton().getValue(1048));
         this.mainFrame.setSize(550, 380);
         this.mainFrame.setUndecorated(true);
@@ -93,8 +92,8 @@ public class SettingsForm extends JFrame implements Iconfig{
         this.mainPanel.setImagePanel(backgroundImage);
 
         this.fontColor = Color.WHITE;
-        this.backColor = new Color(48, 144, 199);
-        this.backColorHover = new Color(59, 185, 255);
+        this.backColor = new Color( 49, 38, 218 );
+        this.backColorHover = new Color( 22, 138, 254 );
         this.font = new Font(Font.MONOSPACED, Font.ITALIC, 14);
 
         this.titlePanel = new TransparentPanel();//create top title panel
@@ -171,48 +170,6 @@ public class SettingsForm extends JFrame implements Iconfig{
         this.infoPanelLabel.setOpaque(true);
         this.infoPanelLabel.setBounds(10, 210, 130, 40);
         
-        this.donationLabel = new JLabel();//donation menu label
-        this.donationLabel.setIcon(donateLabelIcon);
-        this.donationLabel.setBounds(10, 270, 130, 60);
-        
-        this.donationLabel.addMouseListener(new MouseAdapter() {
-			@Override
-			public void mouseClicked(MouseEvent e) {
-				String url = "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=FJDAFTPKN2S2W";
-				String os = System.getProperty("os.name").toLowerCase();
-			    Runtime rt = Runtime.getRuntime();
-			 
-				try{
-			 
-				    if (os.indexOf( "win" ) >= 0) {
-			 
-				        // this doesn't support showing urls in the form of "page.html#nameLink" 
-				        rt.exec( "rundll32 url.dll,FileProtocolHandler " + url);
-			 
-				    } else if (os.indexOf( "mac" ) >= 0) {
-			 
-				        rt.exec( "open " + url);
-			 
-			            } else if (os.indexOf( "nix") >=0 || os.indexOf( "nux") >=0) {
-			 
-				        // Do a best guess on unix until we get a platform independent way
-				        // Build a list of browsers to try, in this order.
-				        String[] browsers = {"epiphany", "firefox", "mozilla", "konqueror",
-				       			             "netscape","opera","links","lynx"};
-			 
-				        // Build a command string which looks like "browser1 "url" || browser2 "url" ||..."
-				        StringBuffer cmd = new StringBuffer();
-				        for (int i=0; i<browsers.length; i++)
-				            cmd.append( (i==0  ? "" : " || " ) + browsers[i] +" \"" + url + "\" ");
-			 
-				        rt.exec(new String[] { "sh", "-c", cmd.toString() });
-			 
-			           } else {
-			           }
-			       }catch (Exception ex){}	
-			}
-		});
-
         this.locationPanelLabel.addMouseListener(new MouseAdapter() {//location menu click handle
             @Override
             public void mouseClicked(MouseEvent arg0) {
@@ -402,7 +359,6 @@ public class SettingsForm extends JFrame implements Iconfig{
         this.menuPanel.add(timePanelLabel);
         this.menuPanel.add(athanPanelLabel);
         this.menuPanel.add(infoPanelLabel);
-        this.menuPanel.add(donationLabel);
 
         this.titlePanel.add(exitLabel);
         this.titlePanel.add(titleForm);

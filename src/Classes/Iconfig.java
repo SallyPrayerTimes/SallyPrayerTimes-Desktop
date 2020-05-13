@@ -123,7 +123,7 @@ public interface Iconfig {
 	public final String playIcon = "/Images/Settings/play.png";
 	public final String pauseicon = "/Images/Settings/pause.png";
 	public final String stopIcon = "/Images/Settings/stop.png";
-	public final String applicationVersion = " : Final 1.2.15 \n\n\n";
+	public final String applicationVersion = " : Final 10.05.20 \n\n\n";
 	public final String email = "  bibali1980@gmail.com \n";
 	public final String sallyWebSite = "  http://sallyprayertimes.altervista.org \n";
 	public final String sallyfacebookPage = "  https://www.facebook.com/sallyprayertimes \n";
