@@ -75,6 +75,10 @@ public interface Iconfig {
 	public final String UnivOfIslamicScincesKarachi = "UnivOfIslamicScincesKarachi";// University of Islamic Sciences, Karachi
 	public final String IslamicSocietyOfNorthAmerica = "IslamicSocietyOfNorthAmerica";// Islamic Society of North America (ISNA)
 	public final String MuslimWorldLeague = "MuslimWorldLeague";// Muslim World League (MWL)
+	
+	public final String FederationofIslamicOrganizationsinFrance = "FederationofIslamicOrganizationsinFrance";// Federation of Islamic Organizations in France
+	public final String TheMinistryofAwqafandIslamicAffairsinKuwait = "TheMinistryofAwqafandIslamicAffairsinKuwait";// The Ministry of Awqaf and Islamic Affairs in Kuwait
+	
 	public final String shafi3i = "shafi3i";//shafi3i calculation method
 	public final String hanafi = "hanafi";//hanafi calculation method
 	public final String sayfi = "sayfi";//sayfi type time

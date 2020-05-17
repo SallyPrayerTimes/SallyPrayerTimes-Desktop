@@ -88,5 +88,26 @@ public class HijriTime {
         return hijriDaysNames[calendar.get(Calendar.DAY_OF_WEEK)] + " " + dayFormatter.format(HijriDate.getDayOfMonth()) + " "
                 + hijriMonthsNames[HijriDate.getMonthOfYear()] + " " + yearFormatter.format(HijriDate.getYear());
     }
+    
+    public boolean isRamadan() 
+    {
+    	this.dayFormatter = new DecimalFormat("00");
+        this.yearFormatter = new DecimalFormat("0000");
+
+        Chronology iSOChronology = ISOChronology.getInstanceUTC();//get ISOChronology instance
+        Chronology islamicChronology = IslamicChronology.getInstanceUTC();//get IslamicChronology instance
+
+        LocalDate localDateISOChronology = new LocalDate(year, month, day, iSOChronology);//get local date
+        LocalDate HijriDate = new LocalDate(localDateISOChronology.toDate(), islamicChronology);//get hijri date
+        
+        if(HijriDate.getMonthOfYear() == 9) 
+        {
+        	return true;
+        }
+        else 
+        {
+        	return false;
+        }
+    }
 
 }

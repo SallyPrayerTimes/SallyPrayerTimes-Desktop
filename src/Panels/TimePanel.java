@@ -389,7 +389,10 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         this.calculationMethodsComboBox.addItem("2- " + PropertiesHandler.getSingleton().getValue(1080));//EgyptionGeneralAuthorityofSurvey
         this.calculationMethodsComboBox.addItem("3- " + PropertiesHandler.getSingleton().getValue(1081));//IslamicSocietyOfNorthAmerica
         this.calculationMethodsComboBox.addItem("4- " + PropertiesHandler.getSingleton().getValue(1083));//UmmAlQuraUniv
-        this.calculationMethodsComboBox.addItem("5- " + PropertiesHandler.getSingleton().getValue(1084));//UnivOfIslamicScincesKarachi
+        this.calculationMethodsComboBox.addItem("5- " + PropertiesHandler.getSingleton().getValue(1084));//UnivOfIslamicScincesKarachi     
+        this.calculationMethodsComboBox.addItem("6- " + PropertiesHandler.getSingleton().getValue(1107));//FederationofIslamicOrganizationsinFrance
+        this.calculationMethodsComboBox.addItem("7- " + PropertiesHandler.getSingleton().getValue(1108));//TheMinistryofAwqafandIslamicAffairsinKuwait
+        
         this.add(calculationMethodsComboBox);
         this.calculationMethodsComboBox.addActionListener(new ActionListener() {
             @Override
@@ -417,6 +420,14 @@ public class TimePanel extends TransparentPanel implements Iconfig{
                         case '5':
                             XmlHandler.getSingleton().setUserConfig(calculationMethod, UnivOfIslamicScincesKarachi);
                             UserConfig.getSingleton().setCalculationMethod(UnivOfIslamicScincesKarachi);
+                            break;
+                        case '6':
+                            XmlHandler.getSingleton().setUserConfig(calculationMethod, FederationofIslamicOrganizationsinFrance);
+                            UserConfig.getSingleton().setCalculationMethod(FederationofIslamicOrganizationsinFrance);
+                            break;
+                        case '7':
+                            XmlHandler.getSingleton().setUserConfig(calculationMethod, TheMinistryofAwqafandIslamicAffairsinKuwait);
+                            UserConfig.getSingleton().setCalculationMethod(TheMinistryofAwqafandIslamicAffairsinKuwait);
                             break;
 
                         default:
@@ -517,6 +528,18 @@ public class TimePanel extends TransparentPanel implements Iconfig{
                             	if(UserConfig.getSingleton().getCalculationMethod().equalsIgnoreCase(UnivOfIslamicScincesKarachi)){
                                 	calculationMethodsComboBox.setSelectedIndex(4);
                                 }
+                            	else 
+                            	{
+                            		if(UserConfig.getSingleton().getCalculationMethod().equalsIgnoreCase(FederationofIslamicOrganizationsinFrance)){
+                                    	calculationMethodsComboBox.setSelectedIndex(5);
+                                    }
+                            		else 
+                            		{
+                            			if(UserConfig.getSingleton().getCalculationMethod().equalsIgnoreCase(TheMinistryofAwqafandIslamicAffairsinKuwait)){
+                                        	calculationMethodsComboBox.setSelectedIndex(6);
+                                        }
+                            		}
+                            	}
                             }
                             
                         }  
