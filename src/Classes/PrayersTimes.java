@@ -339,7 +339,7 @@ public class PrayersTimes implements Iconfig{
 
     public static int getMinutes(double d) {//get minutes from calculated prayer time
         int h = (int) d;
-        int m = (int) ((d - h) * 60);
+        int m = (int) (Math.ceil((d - h) * 60));
 
         return (h * 60) + m;
     }
