@@ -128,30 +128,67 @@ public class PrayersTimes implements Iconfig{
         this.maghrib = localNoon + equation(-0.8333) / 15;
         this.shorou9 = localNoon - equation(-0.8333) / 15;
 
-        if (this.calculationMethod.equalsIgnoreCase(UmmAlQuraUniv)) {
-            this.fajrAlt = -18.5;// fajr was 19 degrees before 1430 hijri
-        } else if (this.calculationMethod.equalsIgnoreCase(EgytionGeneralAuthorityofSurvey)) {
-            this.fajrAlt = -19.5;
-            this.ishaAlt = -17.5;
-        } else if (this.calculationMethod.equalsIgnoreCase(MuslimWorldLeague)) {
-            this.fajrAlt = -18;
+        if(this.calculationMethod.equalsIgnoreCase(MuslimWorldLeague)) 
+        {
+        	this.fajrAlt = -18;
             this.ishaAlt = -17;
-        } else if (this.calculationMethod.equalsIgnoreCase(IslamicSocietyOfNorthAmerica)) {
-            this.fajrAlt = ishaAlt = -15;
-        } else if (this.calculationMethod.equalsIgnoreCase(UnivOfIslamicScincesKarachi)) {
-            this.fajrAlt = ishaAlt = -18;
-        } else if (this.calculationMethod.equalsIgnoreCase(FederationofIslamicOrganizationsinFrance)) {
-            this.fajrAlt = ishaAlt = -12;
-        } else if (this.calculationMethod.equalsIgnoreCase(TheMinistryofAwqafandIslamicAffairsinKuwait)) {
-            this.fajrAlt = -18;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(IslamicSocietyOfNorthAmerica)) {
+        	this.fajrAlt = -15;
+            this.ishaAlt = -15;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(EgytionGeneralAuthorityofSurvey)) {
+        	this.fajrAlt = -19.5;
             this.ishaAlt = -17.5;
         }
+        else if (this.calculationMethod.equalsIgnoreCase(UmmAlQuraUniv)) {
+        	this.fajrAlt = -18.5;// fajr was 19 degrees before 1430 hijri
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(UnivOfIslamicScincesKarachi)) {
+        	this.fajrAlt = -18;
+            this.ishaAlt = -18;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(InstituteOfGeophysicsUniversityOfTehran)) {
+        	this.fajrAlt = -17.7;
+            this.ishaAlt = -14;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(ShiaIthnaAshariLevaInstituteQum)) {
+        	this.fajrAlt = -16;
+            this.ishaAlt = -14;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(GulfRegion)) {
+        	this.fajrAlt = -19.5;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(TheMinistryofAwqafandIslamicAffairsinKuwait)) {
+        	this.fajrAlt = -18;
+            this.ishaAlt = -17.5;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(Qatar)) {
+        	this.fajrAlt = -18;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(MajlisUgamaIslamSingapuraSingapore)) {
+        	this.fajrAlt = -20;
+            this.ishaAlt = -18;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(FederationofIslamicOrganizationsinFrance)) {
+        	this.fajrAlt = -12;
+            this.ishaAlt = -12;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(DirectorateOfReligiousAffairsTurkey)) {
+        	this.fajrAlt = -18;
+            this.ishaAlt = -17;
+        }
+        else if (this.calculationMethod.equalsIgnoreCase(SpiritualAdministrationOfMuslimsOfRussia)) {
+        	this.fajrAlt = -16;
+            this.ishaAlt = -15;
+        }
+        
 
         this.fajr = localNoon - equation(fajrAlt) / 15;
 
         this.ishaa = localNoon + equation(ishaAlt) / 15;
 
-        if (this.calculationMethod.equalsIgnoreCase(UmmAlQuraUniv)) {
+        if (this.calculationMethod.equalsIgnoreCase(UmmAlQuraUniv) || this.calculationMethod.equalsIgnoreCase(GulfRegion) || this.calculationMethod.equalsIgnoreCase(Qatar)) {
 			try {
 				HijriTime hijriTime = new HijriTime(Calendar.getInstance());
 	        	if(hijriTime.isRamadan()) 

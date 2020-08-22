@@ -70,14 +70,21 @@ public interface Iconfig {
 	public final String athan = "athan";
 	public final String notification = "notification";
 	public final String none = "none";
-	public final String UmmAlQuraUniv = "UmmAlQuraUniv";// Umm al-Qura, Makkah
-	public final String EgytionGeneralAuthorityofSurvey = "EgytionGeneralAuthorityofSurvey";// Egyptian General Authority of Survey
-	public final String UnivOfIslamicScincesKarachi = "UnivOfIslamicScincesKarachi";// University of Islamic Sciences, Karachi
-	public final String IslamicSocietyOfNorthAmerica = "IslamicSocietyOfNorthAmerica";// Islamic Society of North America (ISNA)
-	public final String MuslimWorldLeague = "MuslimWorldLeague";// Muslim World League (MWL)
 	
-	public final String FederationofIslamicOrganizationsinFrance = "FederationofIslamicOrganizationsinFrance";// Federation of Islamic Organizations in France
+	public final String MuslimWorldLeague = "MuslimWorldLeague";// Muslim World League (MWL)
+	public final String IslamicSocietyOfNorthAmerica = "IslamicSocietyOfNorthAmerica";// Islamic Society of North America (ISNA)
+	public final String EgytionGeneralAuthorityofSurvey = "EgytionGeneralAuthorityofSurvey";// Egyptian General Authority of Survey
+	public final String UmmAlQuraUniv = "UmmAlQuraUniv";// Umm al-Qura, Makkah
+	public final String UnivOfIslamicScincesKarachi = "UnivOfIslamicScincesKarachi";// University of Islamic Sciences, Karachi
+	public final String InstituteOfGeophysicsUniversityOfTehran = "InstituteOfGeophysicsUniversityOfTehran";//Institute of Geophysics, University of Tehran
+	public final String ShiaIthnaAshariLevaInstituteQum = "ShiaIthnaAshariLevaInstituteQum";//Shia Ithna-Ashari, Leva Institute, Qum
+	public final String GulfRegion = "GulfRegion";//Gulf Region
 	public final String TheMinistryofAwqafandIslamicAffairsinKuwait = "TheMinistryofAwqafandIslamicAffairsinKuwait";// The Ministry of Awqaf and Islamic Affairs in Kuwait
+	public final String Qatar = "Qatar";//Qatar
+	public final String MajlisUgamaIslamSingapuraSingapore = "MajlisUgamaIslamSingapuraSingapore";//Majlis Ugama Islam Singapura, Singapore
+	public final String FederationofIslamicOrganizationsinFrance = "FederationofIslamicOrganizationsinFrance";// Federation of Islamic Organizations in France
+	public final String DirectorateOfReligiousAffairsTurkey = "DirectorateOfReligiousAffairsTurkey";//Directorate of Religious Affairs, Turkey
+	public final String SpiritualAdministrationOfMuslimsOfRussia = "SpiritualAdministrationOfMuslimsOfRussia";//Spiritual Administration of Muslims of Russia
 	
 	public final String shafi3i = "shafi3i";//shafi3i calculation method
 	public final String hanafi = "hanafi";//hanafi calculation method
@@ -127,8 +134,8 @@ public interface Iconfig {
 	public final String playIcon = "/Images/Settings/play.png";
 	public final String pauseicon = "/Images/Settings/pause.png";
 	public final String stopIcon = "/Images/Settings/stop.png";
-	public final String applicationVersion = " : Final 10.05.20 \n\n\n";
+	public final String applicationVersion = " : Final 21.08.20 \n\n\n";
 	public final String email = "  bibali1980@gmail.com \n";
-	public final String sallyWebSite = "  http://sallyprayertimes.altervista.org \n";
+	public final String sallyWebSite = "  http://sallyprayertimes.com\n";
 	public final String sallyfacebookPage = "  https://www.facebook.com/sallyprayertimes \n";
 }

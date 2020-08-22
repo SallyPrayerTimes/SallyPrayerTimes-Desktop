@@ -382,6 +382,16 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         bg2.add(hanafiMazhabRadioButton);
 
         this.calculationMethodsComboBox = new JComboBox<String>();
+        
+        if(UserConfig.getSingleton().getLanguage().equalsIgnoreCase(ar)) 
+        {
+        	((JLabel)this.calculationMethodsComboBox.getRenderer()).setHorizontalAlignment(JLabel.RIGHT);
+        }
+        else
+        {
+        	((JLabel)this.calculationMethodsComboBox.getRenderer()).setHorizontalAlignment(JLabel.LEFT);
+        }
+        
         this.calculationMethodsComboBox.setBackground(color);
         this.calculationMethodsComboBox.setOpaque(false);
         this.calculationMethodsComboBox.setBounds(10, 50, 360, 30);
@@ -392,42 +402,79 @@ public class TimePanel extends TransparentPanel implements Iconfig{
         this.calculationMethodsComboBox.addItem("5- " + PropertiesHandler.getSingleton().getValue(1084));//UnivOfIslamicScincesKarachi     
         this.calculationMethodsComboBox.addItem("6- " + PropertiesHandler.getSingleton().getValue(1107));//FederationofIslamicOrganizationsinFrance
         this.calculationMethodsComboBox.addItem("7- " + PropertiesHandler.getSingleton().getValue(1108));//TheMinistryofAwqafandIslamicAffairsinKuwait
+        this.calculationMethodsComboBox.addItem("8- " + PropertiesHandler.getSingleton().getValue(1109));//InstituteOfGeophysicsUniversityOfTehran
+        this.calculationMethodsComboBox.addItem("9- " + PropertiesHandler.getSingleton().getValue(1110));//ShiaIthnaAshariLevaInstituteQum
+        this.calculationMethodsComboBox.addItem("10- " + PropertiesHandler.getSingleton().getValue(1111));//GulfRegion
+        this.calculationMethodsComboBox.addItem("11- " + PropertiesHandler.getSingleton().getValue(1112));//Qatar
+        this.calculationMethodsComboBox.addItem("12- " + PropertiesHandler.getSingleton().getValue(1113));//MajlisUgamaIslamSingapuraSingapore
+        this.calculationMethodsComboBox.addItem("13- " + PropertiesHandler.getSingleton().getValue(1114));//DirectorateOfReligiousAffairsTurkey
+        this.calculationMethodsComboBox.addItem("14- " + PropertiesHandler.getSingleton().getValue(1115));//SpiritualAdministrationOfMuslimsOfRussia
+        
+        
         
         this.add(calculationMethodsComboBox);
         this.calculationMethodsComboBox.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {//calculation method handler
                 try {
-                    String calendar = calculationMethodsComboBox.getSelectedItem().toString();
-                    char char1 = calendar.charAt(0);
-                    switch (char1) {//save selected calculation method
-                        case '1':
+                    String calculationMethod = calculationMethodsComboBox.getSelectedItem().toString();
+                    String startString = calculationMethod.substring(0,2);
+                    switch (startString) {//save selected calculation method
+                        case "1-":
                             XmlHandler.getSingleton().setUserConfig(calculationMethod, MuslimWorldLeague);
                             UserConfig.getSingleton().setCalculationMethod(MuslimWorldLeague);
                             break;
-                        case '2':
+                        case "2-":
                             XmlHandler.getSingleton().setUserConfig(calculationMethod, EgytionGeneralAuthorityofSurvey);
                             UserConfig.getSingleton().setCalculationMethod(EgytionGeneralAuthorityofSurvey);
                             break;
-                        case '3':
+                        case "3-":
                             XmlHandler.getSingleton().setUserConfig(calculationMethod, IslamicSocietyOfNorthAmerica);
                             UserConfig.getSingleton().setCalculationMethod(IslamicSocietyOfNorthAmerica);
                             break;
-                        case '4':
+                        case "4-":
                             XmlHandler.getSingleton().setUserConfig(calculationMethod, UmmAlQuraUniv);
                             UserConfig.getSingleton().setCalculationMethod(UmmAlQuraUniv);
                             break;
-                        case '5':
+                        case "5-":
                             XmlHandler.getSingleton().setUserConfig(calculationMethod, UnivOfIslamicScincesKarachi);
                             UserConfig.getSingleton().setCalculationMethod(UnivOfIslamicScincesKarachi);
                             break;
-                        case '6':
+                        case "6-":
                             XmlHandler.getSingleton().setUserConfig(calculationMethod, FederationofIslamicOrganizationsinFrance);
                             UserConfig.getSingleton().setCalculationMethod(FederationofIslamicOrganizationsinFrance);
                             break;
-                        case '7':
+                        case "7-":
                             XmlHandler.getSingleton().setUserConfig(calculationMethod, TheMinistryofAwqafandIslamicAffairsinKuwait);
                             UserConfig.getSingleton().setCalculationMethod(TheMinistryofAwqafandIslamicAffairsinKuwait);
+                            break;
+                        case "8-":
+                            XmlHandler.getSingleton().setUserConfig(calculationMethod, InstituteOfGeophysicsUniversityOfTehran);
+                            UserConfig.getSingleton().setCalculationMethod(InstituteOfGeophysicsUniversityOfTehran);
+                            break;
+                        case "9-":
+                            XmlHandler.getSingleton().setUserConfig(calculationMethod, ShiaIthnaAshariLevaInstituteQum);
+                            UserConfig.getSingleton().setCalculationMethod(ShiaIthnaAshariLevaInstituteQum);
+                            break;
+                        case "10":
+                            XmlHandler.getSingleton().setUserConfig(calculationMethod, GulfRegion);
+                            UserConfig.getSingleton().setCalculationMethod(GulfRegion);
+                            break;
+                        case "11":
+                            XmlHandler.getSingleton().setUserConfig(calculationMethod, Qatar);
+                            UserConfig.getSingleton().setCalculationMethod(Qatar);
+                            break;
+                        case "12":
+                            XmlHandler.getSingleton().setUserConfig(calculationMethod, MajlisUgamaIslamSingapuraSingapore);
+                            UserConfig.getSingleton().setCalculationMethod(MajlisUgamaIslamSingapuraSingapore);
+                            break;
+                        case "13":
+                            XmlHandler.getSingleton().setUserConfig(calculationMethod, DirectorateOfReligiousAffairsTurkey);
+                            UserConfig.getSingleton().setCalculationMethod(DirectorateOfReligiousAffairsTurkey);
+                            break;
+                        case "14":
+                            XmlHandler.getSingleton().setUserConfig(calculationMethod, SpiritualAdministrationOfMuslimsOfRussia);
+                            UserConfig.getSingleton().setCalculationMethod(SpiritualAdministrationOfMuslimsOfRussia);
                             break;
 
                         default:
