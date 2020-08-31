@@ -7,7 +7,6 @@ You please report any error in the work program, or assist in the development an
 http://sallyprayertimes.com
 
 
-bibali1980@gmail.com
 
 Sally is a free and open source, and everyone has the right use and publication, just do not forget the sincere prayers
 
