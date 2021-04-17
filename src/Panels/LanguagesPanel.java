@@ -49,6 +49,7 @@ public class LanguagesPanel extends TransparentPanel implements Iconfig{
     private JRadioButton engRadioButton;//English language
     private JRadioButton frRadioButton;//French language
     private JRadioButton itRadioButton;//Italian language
+    private JRadioButton trRadioButton;//Turkish language
 
     private SettingsForm settingsForm;//settings form
     private Image backgroundImage;
