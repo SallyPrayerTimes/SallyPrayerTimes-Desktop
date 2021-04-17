@@ -18,3 +18,5 @@ Sally is a free and open source, and everyone has the right use and publication,
 المرجو منكم الابلاغ عن اي خطا في عمل البرنامج او المساعدة في تطويره و لكم جزيل الشكر
 صَلِّ هو برنامج مجاني و مفتوح المصدر و يحق لكل شخص استعماله و نشره, فقط لا تنسونا من خالص دعائكم
 
+Sally Namaz Vakitleri, dünyanın çoğu için İslami namaz vakitlerini hesaplayan ücretsiz ve açık kaynaklı bir uygulamadır Sally Namaz Vakitleri, Java programlama dilinde yazılmış bir programdır, bu nedenle cihazda yüklü bir Java sanal makinesine ihtiyaç duyar.Lütfen uygulamadaki herhangi bir hatayı bildirin ve geliştirmeye yardımcı olun. Katkılarınız için teşekkür ederim.
+
