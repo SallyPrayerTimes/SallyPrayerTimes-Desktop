@@ -53,6 +53,10 @@ public class PropertiesHandler implements Iconfig{
                 }else{
                 	if(language.equalsIgnoreCase(eng)){
                     	languagePath = ENG_properties;
+                    }else{
+                    	if(language.equalsIgnoreCase(tr)){
+                        	languagePath = TR_properties;
+                        }
                     }
                 }
                 
