@@ -94,10 +94,12 @@ public interface Iconfig {
 	public final String IT_properties = "/Properties/IT.properties";
 	public final String AR_properties = "/Properties/AR.properties";
 	public final String FR_properties = "/Properties/FR.properties";
+	public final String TR_properties = "/Properties/TR.properties";
 	public final String it = "it";
 	public final String ar = "ar";
 	public final String fr = "fr";
 	public final String eng = "eng";
+	public final String tr = "tr";
 	public final String startError = "corrupt sallyprayertimes.xml file , delete it if exists and restart or check your permission";
 	public final String sallyUserConfig_xml = ".sallyprayertimes.xml";
 	public final String sallyUserConfig_xml_2 = "\\.sallyprayertimes.xml";
