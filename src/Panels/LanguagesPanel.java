@@ -49,6 +49,7 @@ public class LanguagesPanel extends TransparentPanel implements Iconfig{
     private JRadioButton engRadioButton;//English language
     private JRadioButton frRadioButton;//French language
     private JRadioButton itRadioButton;//Italian language
+    private JRadioButton trRadioButton;//Turkish language
 
     private SettingsForm settingsForm;//settings form
     private Image backgroundImage;
@@ -158,12 +159,35 @@ public class LanguagesPanel extends TransparentPanel implements Iconfig{
                 }
             }
         });
+        
+        this.trRadioButton = new JRadioButton(PropertiesHandler.getSingleton().getValue(1116));
+        this.trRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_unselected)));
+        this.trRadioButton.setForeground(color);
+        this.trRadioButton.setOpaque(false);
+        this.trRadioButton.setBounds(30, 250, 100, 20);
+        this.add(trRadioButton);
+        this.trRadioButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                try {
+                    XmlHandler.getSingleton().setUserConfig(language, tr);//save selected Italien language
+                    UserConfig.getSingleton().setLanguage(tr);
+                    refresh();
+                } catch (Exception e1) {
+                    try {
+                        JOptionPane.showMessageDialog(null, PropertiesHandler.getSingleton().getValue(1070), PropertiesHandler.getSingleton().getValue(1069), JOptionPane.ERROR_MESSAGE);
+                    } catch (Exception e2) {
+                    }
+                }
+            }
+        });
 
         ButtonGroup bg = new ButtonGroup();
         bg.add(arRadioButton);
         bg.add(engRadioButton);
         bg.add(frRadioButton);
         bg.add(itRadioButton);
+        bg.add(trRadioButton);
 
         this.moreLanguageLabel = new JLabel(PropertiesHandler.getSingleton().getValue(1089));
         this.moreLanguageLabel.setForeground(color);
@@ -187,10 +211,14 @@ public class LanguagesPanel extends TransparentPanel implements Iconfig{
                     		itRadioButton.setSelected(true);
                     		itRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
                         }
+                    	else{
+                        	if(UserConfig.getSingleton().getLanguage().equalsIgnoreCase(tr)){
+                        		trRadioButton.setSelected(true);
+                        		trRadioButton.setIcon(new ImageIcon(getClass().getResource(radio_button_selected)));
+                            }
+                        }
                     }
-                	
                 }
-            	
             }
         	
         } catch (Exception e) {
