@@ -399,19 +399,17 @@ public class PrayersTimes implements Iconfig{
         this.allPrayrTimesInMinutes[4] = this.totalMinutesMaghrib;
         this.allPrayrTimesInMinutes[5] = this.totalMinutesIshaa;
 
-        boolean b = true;
-
-        while (b) {//adjust prayer times
-            for (int i = 0; i < allPrayrTimesInMinutes.length; i++) {
-                if (allPrayrTimesInMinutes[i] > 1440) {
-                    for (int j = 0; j < allPrayrTimesInMinutes.length; j++) {
-                        allPrayrTimesInMinutes[j] -= 720;
-                    }
-                    break;
+        //adjust prayer times
+       for (int i = 0; i < allPrayrTimesInMinutes.length; i++) {
+            if(i == 0 || i == 1){
+                while(allPrayrTimesInMinutes[i] > 720){
+                    allPrayrTimesInMinutes[i] -= 720;
+                }
+            }else{
+                while(allPrayrTimesInMinutes[i] > 1440){
+                    allPrayrTimesInMinutes[i] -= 720;
                 }
             }
-
-            b = false;
         }
 
         this.totalMinutesFajr = allPrayrTimesInMinutes[0];//totlae fajr time in minutes after adjusment
